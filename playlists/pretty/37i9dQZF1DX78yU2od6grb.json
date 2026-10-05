@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 525033,
+  "num_followers": 525025,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -639,18 +639,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "Like Gold",
+        "url": "https://open.spotify.com/album/0tiJtd3FqJVlT7uAezBSwK"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+      "duration_ms": 176388,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -675,26 +683,18 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Like Gold",
-        "url": "https://open.spotify.com/album/0tiJtd3FqJVlT7uAezBSwK"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 176388,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Bend The Knee",
-        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
       },
       "artists": [
         {
@@ -1144,17 +1144,21 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
         },
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 187402,
-      "name": "Bend The Knee",
-      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
+      "duration_ms": 238245,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1247,8 +1251,8 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
+        "name": "Bend The Knee",
+        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
       },
       "artists": [
         {
@@ -1256,21 +1260,17 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 238245,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
+      "duration_ms": 187402,
+      "name": "Bend The Knee",
+      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+        "name": "World War Joy",
+        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+      "duration_ms": 217653,
+      "name": "Call You Mine (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1487,22 +1491,18 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "World War Joy",
-        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 217653,
-      "name": "Call You Mine (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2025-02-07 03:01:15",

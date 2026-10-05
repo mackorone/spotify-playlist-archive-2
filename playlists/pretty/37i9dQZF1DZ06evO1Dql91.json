@@ -1,29 +1,13 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3074,
+  "num_followers": 3077,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADjz1s9dlSezRPUM3Qg68qL",
+  "snapshot_id": "asBFgAAAAABqkuMbWUQuC45ox0iDWlFq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7eN33HacgLXQbJYWl7oARA"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,8 +31,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
       },
       "artists": [
         {
@@ -56,9 +40,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+      "duration_ms": 221000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7eN33HacgLXQbJYWl7oARA"
     },
     {
       "added_at": null,
@@ -79,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
       "artists": [
         {
@@ -88,9 +72,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Sayonara",
-      "url": "https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2"
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": null,
@@ -131,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 171869,
       "name": "Hater's Anthem",
       "url": "https://open.spotify.com/track/1wipegfMZkHgwyR3XMDuJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "One Foot Out",
-      "url": "https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox"
     },
     {
       "added_at": null,
@@ -199,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 201808,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 182093,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/77gxBuREXp2aJI6FmqjaeC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Stranger Danger",
-      "url": "https://open.spotify.com/track/3B4Bt4Ygb8TfosDDfE9Cdu"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/3B4Bt4Ygb8TfosDDfE9Cdu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 253253,
       "name": "No One Comes Close",
       "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INFINITY SONG",
-        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/2CLaCt1UjX7Xv1wxHad7ng"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 215753,
       "name": "She's A Sweetheart",
       "url": "https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/2CLaCt1UjX7Xv1wxHad7ng"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 234649,
-      "name": "Mr. Pessimistic",
-      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home, Vol. 1",
         "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 379619,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234649,
+      "name": "Mr. Pessimistic",
+      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Broken Instrument",
+        "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "Don\u2019t You Ever",
+      "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Love (Deluxe)",
         "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 185786,
       "name": "Mad Love Remix ft. Tobe Nwigwe, Rapsody - Remix",
       "url": "https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Broken Instrument",
-        "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 301106,
-      "name": "Don\u2019t You Ever",
-      "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Love (Deluxe)",
         "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 244551,
-      "name": "Outside Myself",
-      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity's Song",
         "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 366625,
       "name": "Dream Fighter",
       "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 244551,
+      "name": "Outside Myself",
+      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
     },
     {
       "added_at": null,

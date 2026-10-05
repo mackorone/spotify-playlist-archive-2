@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,864 likes - 64 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,894 likes - 64 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 19 | [Magic Mirror](https://open.spotify.com/track/70C9ciYWV6m4sC82Q32wTH) | [Leigh Harline](https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ) | [Snow White And The Seven Dwarfs Original Soundtrack](https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn) | 1:26 |
 | 20 | [Saint\-Saëns: Carnival of the Animals: XII\. Fossils](https://open.spotify.com/track/3vXCsfCjG7xqS9eAXhQqKu) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f) | [Saint\-Saëns: Carnival of the Animals & Symphony No\. 3, Op\. 78 "Organ Symphony"](https://open.spotify.com/album/2biqXEV4QnCBHgvmMlHowu) | 1:20 |
 | 21 | [Witches' Lair](https://open.spotify.com/track/03kJgSqwHoHGMnjMjs3b9j) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 5:42 |
-| 22 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 |
+| 22 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams: Witches Of Eastwick O.S.T.](https://open.spotify.com/artist/4qPYVPGWvZvXrqXCnwct76) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 |
 | 23 | [Carmina Burana: I\. O fortuna](https://open.spotify.com/track/47J2TBfDpGQUfHkErP78Tw) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Brighton Festival Chorus](https://open.spotify.com/artist/3zh9WYEWEgwgryx70COfMY), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Orff: Carmina Burana](https://open.spotify.com/album/4L7SIEExpB90YxLI9YqWng) | 2:23 |
 | 24 | [Imhotep](https://open.spotify.com/track/2XZ6Cc4sfNVLQZ9oLfugZm) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Mummy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5npe6B2eEGqG4g6jYk71Kb) | 4:16 |
 | 25 | [Die Walküre, Act III: Ride of the Valkyries](https://open.spotify.com/track/2e8MxBgVWMSQmxb2zcuCoq) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX), [György Lehel](https://open.spotify.com/artist/5Veude8V6p7YxBNIQld13F) | [Wagner, R.: Orchestral Music From Operas](https://open.spotify.com/album/16jEL1Jt4EaYVLV7TzOCPS) | 5:25 |

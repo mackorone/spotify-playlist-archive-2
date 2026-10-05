@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Trouf & Bloody Hawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,681 likes - 57 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,685 likes - 57 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

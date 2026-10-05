@@ -11,22 +11,6 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "The Allfather Awakes",
-      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
         "name": "Classroom Metal, Vol. 1",
         "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
       },
@@ -39,6 +23,22 @@
       "duration_ms": 45714,
       "name": "Study",
       "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -59,6 +59,46 @@
       "duration_ms": 803994,
       "name": "Breath Meditation",
       "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
+        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 205742,
+      "name": "Black Is The Color Of My True Love's Hair",
+      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "The Center Eye",
+        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "The Center Eye",
+      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -91,6 +131,22 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
+        "name": "Beyond Zeta Reticuli",
+        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 380026,
+      "name": "Beyond Zeta Reticuli",
+      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
         "name": "QR\u00d6MELIFE",
         "url": "https://open.spotify.com/album/4EdNIdfSX1vvy8KqSf1aCk"
       },
@@ -115,46 +171,6 @@
       "duration_ms": 227787,
       "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky",
       "url": "https://open.spotify.com/track/61HMDdpW0nGvX7IZtBetaz"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "The Center Eye",
-        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "The Center Eye",
-      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
-        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 205742,
-      "name": "Black Is The Color Of My True Love's Hair",
-      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -219,22 +235,6 @@
       "duration_ms": 230359,
       "name": "Bad Luck Hideaway",
       "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Beyond Zeta Reticuli",
-        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 380026,
-      "name": "Beyond Zeta Reticuli",
-      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Loser (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 267616,
-      "name": "Loser (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
         "name": "What Do I Do If You Don't",
         "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
       },
@@ -383,26 +363,22 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "DPG WU-TANG, WU-TANG DPG -THE GODBODY LP-",
-        "url": "https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp"
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 69900,
-      "name": "God Speak - Interlude",
-      "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
+      "duration_ms": 267616,
+      "name": "Loser (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -435,6 +411,30 @@
       "duration_ms": 263727,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "DPG WU-TANG, WU-TANG DPG -THE GODBODY LP-",
+        "url": "https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 69900,
+      "name": "God Speak - Interlude",
+      "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -475,6 +475,30 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
+        "name": "Upperhand (from CONTROL Resonant)",
+        "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        },
+        {
+          "name": "CONTROL Resonant",
+          "url": "https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l"
+        }
+      ],
+      "duration_ms": 249784,
+      "name": "Upperhand - from CONTROL Resonant",
+      "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
         "name": "Complicated (with Tropidelic & Wax)",
         "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
       },
@@ -499,26 +523,26 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Upperhand (from CONTROL Resonant)",
-        "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
+        "name": "The Hours (from \"The Hours\")",
+        "url": "https://open.spotify.com/album/454c9XlPEk7tgVQ3K6Tya0"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
         },
         {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
         },
         {
-          "name": "CONTROL Resonant",
-          "url": "https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         }
       ],
-      "duration_ms": 249784,
-      "name": "Upperhand - from CONTROL Resonant",
-      "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
+      "duration_ms": 405440,
+      "name": "The Hours - from \"The Hours\"",
+      "url": "https://open.spotify.com/track/2HPBVuqsqEVXy8DojQJaOK"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -563,30 +587,6 @@
       "duration_ms": 296520,
       "name": "HORIZONS",
       "url": "https://open.spotify.com/track/4mMjLwwILdbH5RcziLYEX7"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "The Hours (from \"The Hours\")",
-        "url": "https://open.spotify.com/album/454c9XlPEk7tgVQ3K6Tya0"
-      },
-      "artists": [
-        {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Brussels Philharmonic",
-          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
-        },
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 405440,
-      "name": "The Hours - from \"The Hours\"",
-      "url": "https://open.spotify.com/track/2HPBVuqsqEVXy8DojQJaOK"
     },
     {
       "added_at": "2026-10-02 04:00:00",

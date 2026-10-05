@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,899 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,909 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 5 | [Play Dead \- Tim Simenon 7" Remix](https://open.spotify.com/track/732341mjCR7zodzYa5IEQf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Play Dead](https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R) | 4:00 |
 | 6 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
 | 7 | [It's Oh So Quiet](https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:40 |
-| 8 | [Human Behaviour](https://open.spotify.com/track/6MYYN85MjM7TARWshRwjyW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:12 |
+| 8 | [Come To Me](https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:55 |
 | 9 | [Bachelorette](https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:12 |
 | 10 | [Jóga](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Jóga](https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG) | 5:05 |
 | 11 | [Hyper\-ballad](https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:21 |
-| 12 | [Come To Me](https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:55 |
+| 12 | [Human Behaviour](https://open.spotify.com/track/6MYYN85MjM7TARWshRwjyW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:12 |
 | 13 | [Pagan Poetry](https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:14 |
 | 14 | [Hunter](https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 4:15 |
 | 15 | [Possibly Maybe](https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:06 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 39 | [Oceania](https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:24 |
 | 40 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
 | 41 | [Lionsong](https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:08 |
-| 42 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
+| 42 | [New World](https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 4:21 |
 | 43 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 |
-| 44 | [New World](https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 4:21 |
-| 45 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
-| 46 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
+| 44 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
+| 45 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
+| 46 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
 | 47 | [Domestica](https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 3:25 |
-| 48 | [It's In Our Hands](https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [It's In Our Hands, Vol\. 1](https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU) | 4:17 |
-| 49 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 48 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 49 | [It's In Our Hands](https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [It's In Our Hands, Vol\. 1](https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU) | 4:17 |
 | 50 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
 
-Snapshot ID: `ar70AAAAAACUrljVdr9H+8SGTOTuKPku`
+Snapshot ID: `asBFgAAAAACRiIdfCDT42icG76D47YHr`

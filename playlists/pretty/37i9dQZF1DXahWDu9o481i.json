@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 118643,
+  "num_followers": 118705,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "LOCKED IN",
         "url": "https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ"
       },
@@ -127,22 +143,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
       },
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 305875,
       "name": "Over country",
       "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "lamb (feat. Kellin Quinn)",
         "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
       },
@@ -307,6 +323,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 167823,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
       },
@@ -319,22 +351,6 @@
       "duration_ms": 196910,
       "name": "Peach",
       "url": "https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -371,18 +387,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+        "name": "Primetime (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 167823,
-      "name": "Popstar",
-      "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+      "duration_ms": 211774,
+      "name": "On Video",
+      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -419,18 +435,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Primetime (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
-      "duration_ms": 211774,
-      "name": "On Video",
-      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -567,6 +591,38 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Blood Bank (Spotify Singles)",
+        "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 305210,
+      "name": "Blood Bank - Spotify Singles",
+      "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "easy rider",
+        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 234218,
+      "name": "easy rider",
+      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Call It What You Want",
         "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
       },
@@ -603,38 +659,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Blood Bank (Spotify Singles)",
-        "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 305210,
-      "name": "Blood Bank - Spotify Singles",
-      "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "My Forte",
         "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
@@ -667,42 +691,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
+        "name": "Vulnerability",
+        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 220295,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+      "duration_ms": 193820,
+      "name": "Vulnerability",
+      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Vulnerability",
-        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 193820,
-      "name": "Vulnerability",
-      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
+      "duration_ms": 220295,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Product of Profit (P.O.P)",
-        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Product of Profit (P.O.P)",
-      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "The Gem",
         "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Product of Profit (P.O.P)",
+        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Product of Profit (P.O.P)",
+      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "When We First Met",
         "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 112984,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "MONDAY TO SUNDAY",
-        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
-      },
-      "artists": [
-        {
-          "name": "Mark Lux",
-          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 187614,
-      "name": "MONDAY TO SUNDAY",
-      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -843,6 +823,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "MONDAY TO SUNDAY",
+        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "NOBODY",
         "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 184335,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -911,26 +927,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Stylish",
-        "url": "https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "M3lon",
-          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "To Me",
-      "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "San Francisco, 2005",
         "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
       },
@@ -967,6 +963,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Stylish",
+        "url": "https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "M3lon",
+          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Devout",
         "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
       },
@@ -995,26 +1011,6 @@
       "duration_ms": 190203,
       "name": "FUNKY MONKEY/CHARACTERISTICS",
       "url": "https://open.spotify.com/track/0kMCGREbHR3jJThi3xvpxe"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "The Whale",
-        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
-      },
-      "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
-        {
-          "name": "D.A. Crimson",
-          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
-        }
-      ],
-      "duration_ms": 205563,
-      "name": "The Whale",
-      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1051,6 +1047,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Spilled",
         "url": "https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY"
       },
@@ -1067,22 +1083,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "2222222222222222 + Climbing",
-        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
       },
       "artists": [
         {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
         },
         {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
         }
       ],
-      "duration_ms": 119146,
-      "name": "2222222222222222 + Climbing",
-      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1103,6 +1119,26 @@
       "duration_ms": 151011,
       "name": "Alright, alright",
       "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "2222222222222222 + Climbing",
+        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        },
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 119146,
+      "name": "2222222222222222 + Climbing",
+      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1159,26 +1195,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "THIS IS SPA TOWN!",
-        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
-      },
-      "artists": [
-        {
-          "name": "300SkullsAndCounting",
-          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
-        },
-        {
-          "name": "Jenny Sparks",
-          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
-        }
-      ],
-      "duration_ms": 193522,
-      "name": "The Ballad of St Nick's Park",
-      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "I can fix him",
         "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
       },
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Better Than Mine",
         "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
       },
@@ -1231,22 +1263,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Sometimes I rush",
-        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 90867,
-      "name": "Sometimes I rush",
-      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 206465,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of September",

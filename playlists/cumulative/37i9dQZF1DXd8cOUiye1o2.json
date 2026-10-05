@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Aayi Teri Baat Mein",
+        "url": "https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Aayi Teri Baat Mein",
+      "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
+    },
+    {
+      "album": {
         "name": "Aayi Tu Aayi Tu",
         "url": "https://open.spotify.com/album/3hlm1KlWEttzAk1XlxSWZz"
       },
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 248878,
       "name": "Bhor - From \"Ghamasaan\"",
       "url": "https://open.spotify.com/track/6U1tHbZaH34ZIsSV8YUNze"

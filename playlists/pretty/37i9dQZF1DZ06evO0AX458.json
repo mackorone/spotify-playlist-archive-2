@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA66BXmHpLejHXwN7GGrXgq",
+  "snapshot_id": "asBFgAAAAACkVXgLlp1+hv+dbU9OElc5",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 66053,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 66053,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+      "duration_ms": 98517,
+      "name": "Suckerfish",
+      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 98517,
-      "name": "Suckerfish",
-      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
     },
     {
       "added_at": null,

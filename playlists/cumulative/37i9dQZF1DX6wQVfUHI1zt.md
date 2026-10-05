@@ -4,7 +4,7 @@
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-183 songs - 11 hr 10 min
+184 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 | 2022-01-01 | 2025-05-28 |
 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 | 2022-01-01 | 2024-04-19 |
 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/6p3FDqyALPpkVptF8q5bRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 7:44 | 2022-01-01 | 2022-07-29 |
-| [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 | 2024-05-02 |  |
+| [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 | 2024-05-02 | 2026-10-05 |
 | [Donde Quiera Que Estés](https://open.spotify.com/track/6K5i3URnbbwXgwPUczeoWQ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 4:33 | 2023-03-10 | 2024-04-19 |
 | [Donde Quiera Que Estés](https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 4:33 | 2022-01-01 | 2024-02-13 |
 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 | 2022-01-01 |  |
@@ -188,6 +188,7 @@
 | [Yo Me Voy](https://open.spotify.com/track/3bGA4WVIEy10WVtEkdQamq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:29 | 2022-01-01 | 2022-07-16 |
 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 | 2022-01-01 | 2025-05-28 |
 | [Yo Te Voy A Amar](https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Si Me Faltas Tu \(Remastered\)](https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB) | 4:11 | 2022-01-01 |  |
+| [Yo Tengo Un Amor](https://open.spotify.com/track/1NbrpdO9ALZoZTsKUP1kKH) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:54 | 2024-05-02 |  |
 | [¿A Dónde Se Marchó El Amor?](https://open.spotify.com/track/6viyWSlzi7mHlxUfF6H9rR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:17 | 2023-03-10 | 2024-05-03 |
 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 | 2022-01-01 |  |
 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 20 min
+92 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Scirocco](https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:31 | 2024-04-14 |  |
 | [Solo Por Hoy](https://open.spotify.com/track/3Q03ADr7KKUov1HRUlUvqz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Solo Por Hoy](https://open.spotify.com/album/0f33o1b631OtQ7iBCMxgta) | 3:02 | 2025-07-27 | 2026-06-24 |
 | [Solo Por Hoy](https://open.spotify.com/track/2CHqMrT9JNkZ6pUhQJE35u) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF) | [Solo Por Hoy](https://open.spotify.com/album/3C8BFVPOW2DMmNLpGZWmLk) | 2:57 | 2026-08-08 |  |
-| [teodiotequiero](https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [teodiotequiero](https://open.spotify.com/album/4SZ9YcxGI6u8asjc3kmtRs) | 3:15 | 2025-06-07 |  |
+| [teodiotequiero](https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [teodiotequiero](https://open.spotify.com/album/4SZ9YcxGI6u8asjc3kmtRs) | 3:15 | 2025-06-07 | 2026-10-05 |
+| [teodiotequiero](https://open.spotify.com/track/6N5bHJY7tnvmAGghiGGT2K) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [teodiotequiero](https://open.spotify.com/album/4ObUXB1NeOHOCxVorFTWtG) | 3:15 | 2026-10-05 |  |
 | [Todavía Te Extraño \(By BERSHKA MUSIC\)](https://open.spotify.com/track/2gd0IVQFFKq9YnkoMugBmx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todavía Te Extraño \(By BERSHKA MUSIC\)](https://open.spotify.com/album/7C109xgDDWe0k1wiVCdVp3) | 2:52 | 2025-02-09 | 2025-07-07 |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |
 | [Todo Pasa](https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Gabriel Bitrán](https://open.spotify.com/artist/0cLnWomMNr0IlMpeWHwfP3) | [Todo Pasa](https://open.spotify.com/album/0JTwFw2yB7anulkQWSVmO3) | 2:59 | 2023-11-10 | 2023-12-14 |

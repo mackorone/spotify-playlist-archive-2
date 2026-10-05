@@ -357,6 +357,32 @@
     },
     {
       "album": {
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Como El Primero",
+      "url": "https://open.spotify.com/track/3o7D5IGCHkUHdUarqgrEiP"
+    },
+    {
+      "album": {
         "name": "PO2054AZ (Vol.I)",
         "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
       },

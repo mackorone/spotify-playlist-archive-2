@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 88694,
+  "num_followers": 88716,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -447,38 +447,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 154200,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mangy Love",
-        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 299671,
-      "name": "Bum Bum Bum",
-      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Phosphorescent Blues",
         "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mangy Love",
+        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 299671,
+      "name": "Bum Bum Bum",
+      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 237890,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "case/lang/veirs",
         "url": "https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 237890,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 293880,
       "name": "Leaf Off / The Cave",
       "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Small Town Heroes",
+        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Blue Ridge Mountain",
+      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
-      },
-      "artists": [
-        {
-          "name": "Amen Dunes",
-          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
-        }
-      ],
-      "duration_ms": 346493,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
+      },
+      "artists": [
+        {
+          "name": "Amen Dunes",
+          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        }
+      ],
+      "duration_ms": 346493,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     }
   ],
   "unique_name": "10s Indie Folk",

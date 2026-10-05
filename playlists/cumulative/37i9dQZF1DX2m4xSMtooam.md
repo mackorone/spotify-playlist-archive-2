@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-304 songs - 19 hr 8 min
+305 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Neve e Saudade](https://open.spotify.com/track/6YMwBMaBfrTK2WUVn8VayJ) | [Café Estocolmo](https://open.spotify.com/artist/2N7hxUQfGg3pdToFhkqddd) | [Neve e Saudade](https://open.spotify.com/album/6JwRvxDtgkw2TRoaysaAhQ) | 2:38 | 2025-11-10 |  |
 | [Night and Day](https://open.spotify.com/track/7xdA079lgspLogIdrqVG0m) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Momento](https://open.spotify.com/album/3TW79jBMpvywbkINslZPp3) | 4:55 | 2023-06-13 | 2023-10-06 |
 | [Night and Day](https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Momento](https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn) | 4:55 | 2022-05-13 |  |
+| [Night And Day](https://open.spotify.com/track/6h2YMW20evARZRfZkUyalE) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [Night And Day](https://open.spotify.com/album/6OgZQsg4pVBBh1OHT9cb2l) | 2:47 | 2026-09-25 |  |
 | [Noites de Verão](https://open.spotify.com/track/3J2A6l5wdDu5okpp9l4MO9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Noites de Verão](https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P) | 3:12 | 2025-09-17 |  |
 | [North Carolina](https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [North Carolina](https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81) | 2:54 | 2023-03-23 | 2025-11-11 |
 | [O Amor é Complicado](https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Amore e Complicado](https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ) | 3:34 | 2022-11-11 | 2025-11-11 |
@@ -276,7 +277,7 @@
 | [The Waters Of March](https://open.spotify.com/track/2HDdFE3LzgZ2ZWVXS0jEQF) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 3:57 | 2022-05-13 | 2022-09-15 |
 | [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2022-11-11 | 2025-11-11 |
-| [Too Marvelous for Words](https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Too Marvelous for Words](https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus) | 3:44 | 2024-12-13 |  |
+| [Too Marvelous for Words](https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Too Marvelous for Words](https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus) | 3:44 | 2024-12-13 | 2026-10-05 |
 | [Toque Suave](https://open.spotify.com/track/4kMpVhHnF36iMyaQYu759Q) | [Rio Suave](https://open.spotify.com/artist/1yaKth4DxRIoFuca9BhbRC) | [Toque Suave](https://open.spotify.com/album/5QBP3vlQ1c6P3KQxAg1DkO) | 3:21 | 2025-11-10 | 2025-12-10 |
 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 | 2022-05-13 | 2025-05-10 |
 | [Um Pouco de Mim](https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 3:54 | 2026-01-14 | 2026-02-28 |

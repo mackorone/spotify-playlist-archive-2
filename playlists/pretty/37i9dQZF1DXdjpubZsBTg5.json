@@ -1,6 +1,6 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 246650,
+  "num_followers": 246683,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Musica De Contrabando",
         "url": "https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 297960,
       "name": "Sin aliento",
       "url": "https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
     },
     {
       "added_at": "2024-04-05 21:37:24",

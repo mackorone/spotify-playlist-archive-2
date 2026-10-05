@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,059 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,088 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 13 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 |
 | 14 | [Sin Poderte Hablar](https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:24 |
 | 15 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
-| 16 | [Asia](https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 5:53 |
-| 17 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
-| 18 | [Ausencia](https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:06 |
+| 16 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
+| 17 | [Ausencia](https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:06 |
+| 18 | [Asia](https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Legal Alien](https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T) | [Top Secrets](https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy) | 5:53 |
 | 19 | [Los Olores Del Amor](https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Durando...](https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ) | 4:14 |
 | 20 | [Ah\-Ah / O\-No](https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 3:47 |
 | 21 | [Tiempo Pa’ Matar](https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 49 | [Plazos Traicioneros \- Remastered 2024](https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Only They Could Have Made This Album \(Remastered 2024\)](https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM) | 2:52 |
 | 50 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
 
-Snapshot ID: `ar70AAAAAABzhHpoEHDZ6ZOhS/x0wp30`
+Snapshot ID: `asBFgAAAAAAGrMGShvwDV+G3jo52DbYK`

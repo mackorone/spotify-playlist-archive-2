@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475546,
+      "name": "Attributes",
+      "url": "https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp"
+    },
+    {
+      "album": {
         "name": "At\u025b\u025bne (Overturned)",
         "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
       },
@@ -1594,6 +1612,32 @@
       "duration_ms": 526294,
       "name": "Awudeli Kimi - Live At The Octagon / 2024",
       "url": "https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30"
+    },
+    {
+      "album": {
+        "name": "Ayaya",
+        "url": "https://open.spotify.com/album/5txYtOz5OSkeGelJHLffWs"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224897,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/1L1TEAUIblOiW7MSkjZQFO"
     },
     {
       "album": {
@@ -4848,7 +4892,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 219565,
       "name": "Forever & Ever",
       "url": "https://open.spotify.com/track/4NrQORdtSQFup9vMr2JlGV"
@@ -9528,7 +9572,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 214250,
       "name": "Living Waters",
       "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
@@ -9742,7 +9786,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 244986,
       "name": "Maberumo (This Is Morning)",
       "url": "https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa"
@@ -11300,6 +11344,28 @@
       "duration_ms": 197938,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/5mjTOSaneMJbHpD0UUfs0c"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429954,
+      "name": "Never Let Me Go (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/7kclJCORTXNTFHqmAkzGRp"
     },
     {
       "album": {
@@ -17214,7 +17280,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 224000,
       "name": "Worthy to be Praised",
       "url": "https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf"
@@ -17324,6 +17390,24 @@
       "duration_ms": 363048,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642000,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn"
     },
     {
       "album": {

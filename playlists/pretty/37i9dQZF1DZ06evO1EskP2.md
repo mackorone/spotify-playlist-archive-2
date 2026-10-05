@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,156 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,157 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 3 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 |
 | 4 | [Mixed Feelings](https://open.spotify.com/track/3G27PUA8xLfPlxdYz1Ti4I) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 3:23 |
 | 5 | [Simple Love Song](https://open.spotify.com/track/6fCmVin0lvZModxHMFSaTS) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 3:44 |
-| 6 | [Perfect Day](https://open.spotify.com/track/6N8tX5eFlo87aIrvm3oAb0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P) | [Butterflies: Live](https://open.spotify.com/album/3TOnJX3wwJt5BVirchXTzE) | 4:34 |
-| 7 | [Sweet Thing](https://open.spotify.com/track/4BDHYvhC9q9XvVtXKKMfCz) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:31 |
+| 6 | [Sweet Thing](https://open.spotify.com/track/4BDHYvhC9q9XvVtXKKMfCz) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:31 |
+| 7 | [Perfect Day](https://open.spotify.com/track/6N8tX5eFlo87aIrvm3oAb0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P) | [Butterflies: Live](https://open.spotify.com/album/3TOnJX3wwJt5BVirchXTzE) | 4:34 |
 | 8 | [Only Man In The World \- feat\. Tarrus Riley](https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Only Man In The World \(feat\. Tarrus Riley\)](https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB) | 3:33 |
 | 9 | [Come over Love](https://open.spotify.com/track/0QiLyvKllhtzFOUJmkvK2n) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 4:05 |
 | 10 | [Grandpa](https://open.spotify.com/track/20H5GsIp8ArTusOUVfga0V) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:24 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 45 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
 | 46 | [Rumors](https://open.spotify.com/track/69xu7QEf8ZNTDZl6BL961r) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:09 |
 
-Snapshot ID: `ar70AAAAAABWdXrjeXve5FzauN7A51uU`
+Snapshot ID: `asBFgAAAAADrMPQHuzvyYb8IU3y7v7oh`

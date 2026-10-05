@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 462837,
+  "num_followers": 462872,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Stop, Look, Listen (To Your Heart)",
-      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 251013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Stop, Look, Listen (To Your Heart)",
+      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Fall For You",
         "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "When We Dance",
-      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -559,6 +559,26 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Full Tank 2.0",
+        "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
+      "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Still on The Road",
         "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
       },
@@ -591,22 +611,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Full Tank 2.0",
-        "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
       },
       "artists": [
         {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
         }
       ],
-      "duration_ms": 221186,
-      "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
-      "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -651,18 +667,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
       "artists": [
         {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+          "name": "Les Sabler",
+          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
         }
       ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
+      "duration_ms": 241480,
+      "name": "Three Dee",
+      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -679,22 +695,6 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
-      },
-      "artists": [
-        {
-          "name": "Les Sabler",
-          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Three Dee",
-      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
       "artists": [
         {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
         }
       ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        }
-      ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "On the Up and Up",
         "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 248412,
       "name": "On the Up and Up",
       "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1063,22 +1079,6 @@
       "duration_ms": 205880,
       "name": "Down Here On The Ground",
       "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Midnight Daydream",
+        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dave & The HouseCall Band",
+          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Cecil's Groove",
+      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Mr. Kool",
         "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Midnight Daydream",
-        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dave & The HouseCall Band",
-          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Cecil's Groove",
-      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 324133,
       "name": "His Coolness",
       "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Risin' Up",
-        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
-      },
-      "artists": [
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        }
-      ],
-      "duration_ms": 289946,
-      "name": "On The One",
-      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Risin' Up",
+        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        }
+      ],
+      "duration_ms": 289946,
+      "name": "On The One",
+      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
       },
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Ready to Go",
-        "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
-      },
-      "artists": [
-        {
-          "name": "Threestyle",
-          "url": "https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX"
-        },
-        {
-          "name": "Magdalena Chovancova",
-          "url": "https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Jazzmasters 6",
         "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 329400,
       "name": "Cloud Watching",
       "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Ready to Go",
+        "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
+      },
+      "artists": [
+        {
+          "name": "Threestyle",
+          "url": "https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX"
+        },
+        {
+          "name": "Magdalena Chovancova",
+          "url": "https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP"
+        }
+      ],
+      "duration_ms": 240300,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1559,6 +1559,22 @@
       "duration_ms": 253320,
       "name": "See the Light",
       "url": "https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "A Simple Man",
-        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Things Are Looking Up",
-      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Babysoul",
         "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Magic Mirror",
         "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 250790,
       "name": "Fire & Water",
       "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 242073,
-      "name": "Sky Watcher",
-      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Take This Ride",
         "url": "https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 200693,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "Sky Watcher",
+      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
     },
     {
       "added_at": "2026-10-02 07:49:51",

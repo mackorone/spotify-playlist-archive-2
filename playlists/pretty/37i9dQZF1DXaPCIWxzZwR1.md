@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: PEGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,904 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,860 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 |
 | 100 | [inferior](https://open.spotify.com/track/3HTDDOX255A8aECNemYVHh) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [inferior](https://open.spotify.com/album/4dQPWlfNuWE3xzvFb4XdVp) | 3:02 |
 
-Snapshot ID: `AAAAADrKEaiHapyhddkg5lGoY/tZHfqR`
+Snapshot ID: `AAAAAEFCgAdn5Td/7O9zLRvq3y+4Bgiq`

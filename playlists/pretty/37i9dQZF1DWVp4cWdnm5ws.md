@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,799 likes - 58 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,801 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

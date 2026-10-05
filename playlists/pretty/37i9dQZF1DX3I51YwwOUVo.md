@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,812 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,820 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 24 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
 | 25 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 |
 | 26 | [Happy For You](https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Happy For You](https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb) | 2:51 |
-| 27 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
-| 28 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
+| 27 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
+| 28 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 29 | [Candycrush](https://open.spotify.com/track/3vGaZLl90LVC8ghGEb1IV9) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Candycrush](https://open.spotify.com/album/4lzlcepHrqqSFLjJXBgUM1) | 3:14 |
 | 30 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 31 | [Drugs Callin](https://open.spotify.com/track/2XD6tyY8edYhB3suNRNFAy) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Perfect Storm: Sorry 4 The Rain](https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i) | 2:36 |

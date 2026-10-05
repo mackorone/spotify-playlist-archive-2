@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-142 songs - 9 hr 35 min
+143 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 | 2022-09-17 |  |
 | [So Glad To See Ya \- Live At The Oval, London, England \- 9/18/1971](https://open.spotify.com/track/0Mscb5XUfvjhsku5GmxfXw) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At The Oval 1971](https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w) | 1:05 | 2025-08-24 | 2025-12-01 |
 | [Sparks](https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:05 | 2022-09-20 | 2025-12-31 |
-| [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 | 2022-09-17 |  |
+| [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 | 2022-09-17 | 2026-10-05 |
+| [Squeeze Box \- Acoustic / Stripped Mix 2026](https://open.spotify.com/track/2GFDqzmYb6hiw7ewTzpFQw) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Squeeze Box \(Acoustic / Stripped Mix 2026\)](https://open.spotify.com/album/4plZVMP0NIkyldGk0rreWy) | 2:42 | 2026-10-05 |  |
 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 | 2022-09-17 |  |
 | [Substitute \- Single Version / Mono Version](https://open.spotify.com/track/2x4QFtQdPS0IijZmp4PPXA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Breakthroughs](https://open.spotify.com/album/7aVV2F19bvzh2Z9onHrKBg) | 3:47 | 2026-04-25 | 2026-07-06 |
 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 | 2022-09-17 | 2023-11-11 |

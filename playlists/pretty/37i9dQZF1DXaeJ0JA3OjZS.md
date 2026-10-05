@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,630 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,662 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 15 | [El Wareke](https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz) | [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [Hay Nubes Llorando](https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW) | 2:39 |
 | 16 | [El Siete Leguas](https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:04 |
 | 17 | [El Comico](https://open.spotify.com/track/7xQYEsUWB0s5ydWRrh7T6N) | [Serapio Ramirez](https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW) | [El Comico](https://open.spotify.com/album/18QQ6eVnJmBcjYsZ2bcGix) | 4:04 |
-| 18 | [El Payaso](https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [El Payaso](https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE) | 3:19 |
+| 18 | [El Cantador](https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [El Payaso](https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB) | 3:00 |
 | 19 | [El Chueco Galindo](https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:20 |
 | 20 | [El Quijote De Don Chuy](https://open.spotify.com/track/24vPUjrNiKaHkJKD6TGLDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:21 |
 | 21 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 |
 | 22 | [Cuando Murió Mi Caballo](https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:03 |
-| 23 | [El Cantador](https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [El Payaso](https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB) | 3:00 |
+| 23 | [El Payaso](https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [El Payaso](https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE) | 3:19 |
 | 24 | [El Profeta](https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 3:53 |
 | 25 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
 | 26 | [El Cantador](https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:10 |

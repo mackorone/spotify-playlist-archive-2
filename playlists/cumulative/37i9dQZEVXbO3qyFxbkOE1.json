@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Tu Sombra",
+        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "A chillar a otra parte",
+      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
+    },
+    {
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 167146,
       "name": "Condenados",
       "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
@@ -7976,7 +7994,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 275077,
       "name": "Duele El Amor!",
       "url": "https://open.spotify.com/track/23Wqnn9CzBnbkPa17Q2t3l"
@@ -8096,7 +8114,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 159130,
       "name": "D\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 245500,
       "name": "El Beneficio De La Duda",
       "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
@@ -18550,7 +18568,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 166704,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
@@ -19824,7 +19842,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
@@ -22090,7 +22108,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 201033,
       "name": "PUES YA NI PEDO",
       "url": "https://open.spotify.com/track/3N7BmCgSASJ9WWYqhzT5uJ"

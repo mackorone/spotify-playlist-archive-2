@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,411 likes - 43 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,429 likes - 43 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 22 | [Rupaan Dekhani](https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Hrishikesh](https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4) | [Pachadlela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T) | 5:03 |
 | 23 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 24 | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ) | 3:15 |
-| 25 | [Chadhavila Patta Kamarevari \- From "Phulrani"](https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug) | [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Chadhavila Patta Kamarevari \(From "Phulrani"\)](https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz) | 4:08 |
-| 26 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
+| 25 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
+| 26 | [Chadhavila Patta Kamarevari \- From "Phulrani"](https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug) | [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Chadhavila Patta Kamarevari \(From "Phulrani"\)](https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz) | 4:08 |
 | 27 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 28 | [Halgi Original Mix 2021](https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi) | [Dj Sagar Barshi](https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6) | [Halgi Original Mix 2021](https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO) | 4:13 |
 | 29 | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [PATYA THE DOC](https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0) | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n) | 2:34 |

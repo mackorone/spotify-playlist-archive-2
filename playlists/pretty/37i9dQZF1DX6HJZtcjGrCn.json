@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Capit\u00e3o Fausto",
-  "num_followers": 40781,
+  "num_followers": 40785,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-10-01 23:00:25",
       "album": {
-        "name": "Switchblade",
-        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Switchblade",
-      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2026-10-01 23:00:25",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-10-01 23:00:25",
       "album": {
-        "name": "Romance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 236245,
-      "name": "Before You I Just Forget",
-      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
+      "duration_ms": 181926,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
       "added_at": "2026-10-01 23:00:25",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-10-01 23:00:25",
       "album": {
-        "name": "Whale Call",
-        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
         }
       ],
-      "duration_ms": 259503,
-      "name": "Whale Call",
-      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-10-01 23:00:25",
@@ -1199,6 +1199,38 @@
     {
       "added_at": "2026-10-01 23:00:25",
       "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+    },
+    {
+      "added_at": "2026-10-01 23:00:25",
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+    },
+    {
+      "added_at": "2026-10-01 23:00:25",
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -1215,22 +1247,6 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
-    },
-    {
-      "added_at": "2026-10-01 23:00:25",
-      "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2026-10-01 23:00:25",
@@ -1263,22 +1279,6 @@
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2026-10-01 23:00:25",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 165104,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-10-01 23:00:25",

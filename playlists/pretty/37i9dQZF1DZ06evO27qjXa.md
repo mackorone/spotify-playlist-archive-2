@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,727 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,790 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 15 | [Spooky Spiders Everywhere!](https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Spooky Spiders Everywhere!](https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh) | 4:18 |
 | 16 | [Fire & Ice Freeze Dance](https://open.spotify.com/track/3SH9M9yL2uX10ma5EcORXP) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Fire & Ice Freeze Dance](https://open.spotify.com/album/5WnNucbVmWXSsKRYwDQWbs) | 3:36 |
 | 17 | [Gimme That Garbage!](https://open.spotify.com/track/2cyDjrEZ1cMZNWBFbK6vyG) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Gimme That Garbage!](https://open.spotify.com/album/0YD6dADYdtyrqhu3zMbNUy) | 3:21 |
-| 18 | [Great Big Sea Lullaby](https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:15 |
+| 18 | [Razz Ma Tazz Lullaby](https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 3:29 |
 | 19 | [The Millipede March](https://open.spotify.com/track/6oca6aWQaiyt8mZj0ApidA) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Millipede March](https://open.spotify.com/album/0VuqUi0KwzaRyG2ig9Tgs6) | 3:12 |
 | 20 | [The Bat Wing Beat](https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Bat Wing Beat](https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO) | 3:49 |
-| 21 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
-| 22 | [Razz Ma Tazz Lullaby](https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 3:29 |
-| 23 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 |
+| 21 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 |
+| 22 | [Great Big Sea Lullaby](https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:15 |
+| 23 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
 | 24 | [Flamingo Frenzy!](https://open.spotify.com/track/4XrKQR3F9zEik0jYbQZv1n) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Flamingo Frenzy!](https://open.spotify.com/album/3YYd0Mx451X9MMgLNe58Fa) | 5:23 |
 | 25 | [Sharks in the Water 2 \- Rise of the Shark King](https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks in the Water 2](https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX) | 4:19 |
 | 26 | [Night Night Parade Lullaby](https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 47 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
 | 48 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
 | 49 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
-| 50 | [Math Whiz \- Addition Version](https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Math Whiz](https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt) | 3:34 |
+| 50 | [I Got That Rhythm!](https://open.spotify.com/track/4RNI2T3VjXFgu4PtrSdK8T) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Burning Energy!](https://open.spotify.com/album/59K3YaAwxti0OT65SChvno) | 4:02 |
 
-Snapshot ID: `ar70AAAAAADTzY7+u/ifOIMMJuwUNec5`
+Snapshot ID: `asBFgAAAAABT6T1zKYH0HdGVD7FWcgBm`

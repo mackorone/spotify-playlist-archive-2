@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122040,
+      "name": "Raised By The Radio (A Reintroduction)",
+      "url": "https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr"
+    },
+    {
+      "album": {
         "name": "Sage (Feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 206240,
       "name": "The End Of The World",
       "url": "https://open.spotify.com/track/7hVJSOZBIGN78RFyiq9ILw"

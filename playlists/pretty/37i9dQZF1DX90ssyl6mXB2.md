@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,472 likes - 160 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,468 likes - 160 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

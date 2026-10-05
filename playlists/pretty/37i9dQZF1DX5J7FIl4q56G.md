@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Amon Amarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,930 likes - 208 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,130 likes - 208 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 42 | [Farewell](https://open.spotify.com/track/19OwgPx0zdjyYliLt5cc4v) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Farewell](https://open.spotify.com/album/3VP8myMC3oNWV808KXhThJ) | 3:44 |
 | 43 | [Death](https://open.spotify.com/track/1rsqbHwXC84eoT052FbDEU) | [Arcus](https://open.spotify.com/artist/0FqInYBUDxG5Qgq9QaMUaq) | [Death](https://open.spotify.com/album/7jXbZSenfq7mLDN8RsgZIB) | 6:07 |
 | 44 | [Two Dates, One Name](https://open.spotify.com/track/1l5t7mj4XF3o21B5S2oG1a) | [No Closure](https://open.spotify.com/artist/3PySwRk0wSsfgo6qKE0g06) | [Two Dates, One Name](https://open.spotify.com/album/2AKqnySTlfz2XN0M3kqa2B) | 4:30 |
-| 45 | [The Weight of Vacancy](https://open.spotify.com/track/0Ip6BjuE5phbdFeLKvF7jz) | [Hundred Arrows](https://open.spotify.com/artist/38uqYLcmQ8vpaUKNlGo7aR), [Facing the Gallows](https://open.spotify.com/artist/76h9XlsHQWYC7It70cggiA), [Atlantic South](https://open.spotify.com/artist/5pGy2Rj8EXFeYzwxmPuI7S) | [The Weight of Vacancy](https://open.spotify.com/album/7D09uVN5VJwTHpnTYjSxym) | 3:05 |
+| 45 | [The Weight of Vacancy](https://open.spotify.com/track/0Ip6BjuE5phbdFeLKvF7jz) | [Hundred Arrows](https://open.spotify.com/artist/38uqYLcmQ8vpaUKNlGo7aR), [Facing the Gallows](https://open.spotify.com/artist/76h9XlsHQWYC7It70cggiA), [Atlantic South](https://open.spotify.com/artist/6ADUWYzDFkLWrIpGt4Yvsh) | [The Weight of Vacancy](https://open.spotify.com/album/7D09uVN5VJwTHpnTYjSxym) | 3:05 |
 | 46 | [WASTED SPACE](https://open.spotify.com/track/5Bxv2OMbr6G5GwW2q980Sc) | [Inherited](https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02) | [ALL 4 ONE](https://open.spotify.com/album/5kUiRiFC6SugXB3ZYFpaur) | 2:31 |
 | 47 | [Bleed](https://open.spotify.com/track/4Auluv7see8gVVLOjP2yhi) | [Feral Vices](https://open.spotify.com/artist/19A9fXIkL7MkYBdLI0qZro), [Foxbat](https://open.spotify.com/artist/2AbZOd1hnJCe0IKdr2gUGs), [GVUP](https://open.spotify.com/artist/7lTgZR9Hw7GCSUmAKnAKBE) | [Human Error](https://open.spotify.com/album/37OhRJGcLHm7YZyCt4nCrf) | 2:47 |
 | 48 | [Densità](https://open.spotify.com/track/4whmTsgaheWSW5VLaw0dMh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [Densità](https://open.spotify.com/album/6iMZxtuSKQnOX9ZCqlR4bI) | 4:06 |

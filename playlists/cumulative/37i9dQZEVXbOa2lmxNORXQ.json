@@ -8772,7 +8772,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 173154,
       "name": "Destino Final",
       "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
@@ -26523,6 +26523,24 @@
     },
     {
       "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
       },
@@ -28956,7 +28974,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
@@ -32096,7 +32114,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -35820,7 +35838,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"
@@ -37430,7 +37448,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 183535,
       "name": "YOGURCITO",
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"

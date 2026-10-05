@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49742,
+  "num_followers": 49747,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAH/gP9KYOBPxe+3nH4aqHf",
+  "snapshot_id": "asBFgAAAAABXbE/J84NrEcv6l8Nlfe6q",
   "tracks": [
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 316586,
-      "name": "Compared to What",
-      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
+      "duration_ms": 308240,
+      "name": "Tryin' Times",
+      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 308240,
-      "name": "Tryin' Times",
-      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
+      "duration_ms": 316586,
+      "name": "Compared to What",
+      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peculiar Situation",
         "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 274733,
       "name": "Now and Again (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 169693,
-      "name": "I Wanted It Too",
-      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -559,6 +543,38 @@
       "duration_ms": 243466,
       "name": "You're Lookin' Like Love To Me",
       "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "I Wanted It Too",
+      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Sunday and Sister Jones",
+      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 220773,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Sunday and Sister Jones",
-      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 238506,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 570800,
-      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
-      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+      "duration_ms": 224293,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
     },
     {
       "added_at": null,
@@ -867,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 224293,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
+      "duration_ms": 570800,
+      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
+      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
     },
     {
       "added_at": null,

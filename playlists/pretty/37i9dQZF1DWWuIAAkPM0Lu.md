@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik på New Music Friday bl.a\. fra URO, Jada, Gobs og mange flere ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,124 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,121 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

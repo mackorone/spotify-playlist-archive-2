@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,690 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,691 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 11 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
 | 12 | [Eu Sei que Não Estou Só](https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:38 |
 | 13 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
-| 14 | [Identidade](https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Anderson Freire e Amigos](https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9) | 4:26 |
-| 15 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
+| 14 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
+| 15 | [Identidade](https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Anderson Freire e Amigos](https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9) | 4:26 |
 | 16 | [Eu Te Ouvi \- Ao Vivo](https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Te Ouvi \(Ao Vivo\)](https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt) | 4:03 |
 | 17 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 |
 | 18 | [Que Bom Você Chegou](https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
 | 50 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
 
-Snapshot ID: `ar70AAAAAADos10pvC1CdGluro8sMRoJ`
+Snapshot ID: `asBFgAAAAADhF2A2vaQDL21AxmJRY8aV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,7 +209,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 199 | [Lights](https://open.spotify.com/track/3Za7unc5zoAdtGmtLSwNKg) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Lights](https://open.spotify.com/album/1FhN3Mf7CQ75qiwDdGXvgL) | 3:02 |
 | 200 | [S&M](https://open.spotify.com/track/3rGYqChnde1rMoxaTBJ0Dw) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Golden Wizards](https://open.spotify.com/artist/7GCUXX16Ntz9cz18s702X5) | [S&M](https://open.spotify.com/album/6acbpZolQnLbzVhXoYryCw) | 2:20 |
 | 201 | [Heat Waves](https://open.spotify.com/track/6yxflva6Afzk0xvlRCGFy2) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [LØU](https://open.spotify.com/artist/760P7Qzgd5FwrIA3renAWG), [Citycr33d](https://open.spotify.com/artist/73Mkmyg2xnS7b5x65Wz6c5) | [Heat Waves](https://open.spotify.com/album/5V8yhEPiVAmr5oV80T7vLc) | 2:20 |
-| 202 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 |
+| 202 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Just Like Earth](https://open.spotify.com/artist/5vzI1FQxtHHStYecg1CsjF) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 |
 | 203 | [Numb](https://open.spotify.com/track/16oOcqhWq0jLesfL1ICC74) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Numb](https://open.spotify.com/album/61RourHT0SNrh4KGPRnIrZ) | 3:11 |
 | 204 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
 | 205 | [Hymn](https://open.spotify.com/track/22xDdf0JS0VXF2M71dRBQ1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Hymn](https://open.spotify.com/album/0MTks76jsqF6eno3qwiDs1) | 2:34 |

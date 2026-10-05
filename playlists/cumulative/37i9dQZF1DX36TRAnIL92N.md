@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-323 songs - 1 day 2 hr 3 min
+324 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Drop It \- Charlotte de Witte Rework](https://open.spotify.com/track/1HLn3hITdl2Zo33y0v6mf3) | [Scoop](https://open.spotify.com/artist/0Zur4QJ1dnchOrcH8HNxGS), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Drop It \(Charlotte de Witte Rework\)](https://open.spotify.com/album/3iGB5kHsek3qr6z8ydgFfB) | 5:43 | 2025-08-08 | 2025-10-22 |
 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 | 2022-07-05 | 2025-02-24 |
 | [Endless](https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Endless](https://open.spotify.com/album/3c31jZDrixWGeAypQK3tS0) | 6:42 | 2022-07-05 | 2022-07-29 |
+| [Energy](https://open.spotify.com/track/3nT21TJ7LMNnQSfNirrWhT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Ali James](https://open.spotify.com/artist/7dNoRVDPUpw2TTM1pQVGyE) | [Energy](https://open.spotify.com/album/7xR5qRPSosdcuXjqm5TCHj) | 4:33 | 2026-10-02 |  |
 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 | 2024-08-16 | 2025-08-19 |
 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 | 2022-07-05 | 2022-07-22 |
 | [Essence](https://open.spotify.com/track/5KgOlepu6lod2ORXYfkqKg) | [Uto Karem](https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF) | [Essence](https://open.spotify.com/album/1fO195lO8fjRkNBMObdIWa) | 6:44 | 2022-07-05 | 2022-07-26 |
@@ -285,7 +286,7 @@
 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 | 2023-02-10 | 2023-05-13 |
 | [The Cut](https://open.spotify.com/track/5GRWCsi6QkL6n2dsYIxfyo) | [Slin Bourgh](https://open.spotify.com/artist/6Okn2ApUQv56TnYTOhCidM), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [The Cut](https://open.spotify.com/album/22ylo1GK1Sgr5RPSKYqlFl) | 5:58 | 2023-08-09 | 2023-08-26 |
 | [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 | 2022-07-05 | 2023-03-29 |
-| [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 7:03 | 2025-12-05 |  |
+| [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 7:03 | 2025-12-05 | 2026-10-05 |
 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 | 2025-10-03 | 2025-12-06 |
 | [The Outsiders \- T78 Remix](https://open.spotify.com/track/0qP89hbMRlounSq9QDSK6v) | [Christian Cambas](https://open.spotify.com/artist/0xTHDDgrTLK87pC4blqD6j), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [The Outsiders](https://open.spotify.com/album/3mowlp2V47vxB53ER6kCDn) | 5:13 | 2022-07-11 | 2022-12-17 |
 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 | 2025-04-25 | 2025-11-25 |

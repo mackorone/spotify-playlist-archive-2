@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-577 songs - 1 day 18 hr 53 min
+578 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [As praias desertas](https://open.spotify.com/track/738Da3DlBn2cBTg3L3xS5b) | [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Eu te amo \(The Music of Tom Jobim\)](https://open.spotify.com/album/6CSPFYEcaEzaC4OR2rQ6NE) | 4:44 | 2022-08-31 | 2022-10-01 |
 | [Aspro to chartí](https://open.spotify.com/track/16OHP1iylsovT9FrMtiIaK) | [Admir Shkurtaj](https://open.spotify.com/artist/48iqln4zNuJoDcWAAz25OM) | [Mesimér \(piano solo\)](https://open.spotify.com/album/54rPVyoAeC6kNtidudWsL6) | 2:42 | 2023-06-04 | 2023-09-18 |
 | [Attimi](https://open.spotify.com/track/33zWeKLNubdUczIdW5G4NA) | [Sonia Spinello](https://open.spotify.com/artist/4XHzTcJIGv7mt0s5sxIJX9), [Roberto Olzer](https://open.spotify.com/artist/5t2woKVQ6EV4785n3RMNUh) | [Silence](https://open.spotify.com/album/3CRlPeKyNXtbDsE6f3CoK1) | 9:49 | 2023-01-30 | 2025-02-12 |
+| [Audio File](https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5) | [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw), [Riccardo Oliva](https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA), [Alberto Manco](https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN) | [Audio File](https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k) | 2:29 | 2026-10-02 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3ST9nLlYx7MgDhLSfEapkH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Recollections Of The Big Band Era](https://open.spotify.com/album/6JzIQniQzYrbmuVJZCUG64) | 2:19 | 2023-12-05 | 2024-03-29 |
 | [Auld Lang Syne](https://open.spotify.com/track/5v7p7ab6L2ofdQKBnwD5Uc) | [Gil Cuppini](https://open.spotify.com/artist/6yzjZ4DDflJzXZw89sDjJW) | [Italian Jazz Vol\. 1](https://open.spotify.com/album/0ULSgqdtIWJpJJaNcwFlNj) | 2:58 | 2023-12-05 | 2024-03-29 |
 | [Auld Lang Syne](https://open.spotify.com/track/5U2wKuX9sTWd78TA3tI8fD) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Roberto Cipelli](https://open.spotify.com/artist/4rOLlT7H7aKBWhTsqhpvWM), [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Christmas Songs](https://open.spotify.com/album/1O1OoIgPGVJIcmGaUfMDwU) | 3:47 | 2023-12-05 | 2024-03-29 |
@@ -216,7 +217,7 @@
 | [Habitat](https://open.spotify.com/track/5ximYjEkEn6tZ5v9OXgatD) | [Planet Butter](https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG) | [MUZAK](https://open.spotify.com/album/2nlVy812pWV8NwTeVEIY1g) | 3:00 | 2025-11-06 | 2026-01-25 |
 | [hajar](https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [IRA](https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL) | 11:02 | 2022-11-02 |  |
 | [Hana\-bi](https://open.spotify.com/track/0905xQkLbHlEl2ThjXUcth) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 1:54 | 2022-09-30 | 2022-11-03 |
-| [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 | 2022-11-02 |  |
+| [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 | 2022-11-02 | 2026-10-05 |
 | [Happiness Is To Win A Big Prize In Cash](https://open.spotify.com/track/5VDm73ldQEdTnRy1USuQYh) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy) | [Full Of Life](https://open.spotify.com/album/4tZ3tfiHfHpxBkamyluxJ4) | 5:46 | 2023-06-04 | 2023-09-18 |
 | [Happy Christmas, War Is Over](https://open.spotify.com/track/4JPpPXPhpBAH4le8U1buNw) | [Tom Jones](https://open.spotify.com/artist/1OB6hTSCYbxFscpIV4wAnu), [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [It's Christmas: Natale In Vaticano](https://open.spotify.com/album/4K5jJ4tOFpYz0WPU8eY1Wm) | 3:25 | 2022-12-05 | 2023-02-01 |
 | [Harlem Nocturne](https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Harlem Nocturne](https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG) | 2:04 | 2025-10-16 | 2026-06-02 |

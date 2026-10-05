@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Raised by Wolves",
+        "url": "https://open.spotify.com/album/09Ai9S7gX4xzkfFdaqSFND"
+      },
+      "artists": [
+        {
+          "name": "Jayelle",
+          "url": "https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152869,
+      "name": "Raised by Wolves",
+      "url": "https://open.spotify.com/track/7al5J4fuvbQaLoRUdbzWb2"
+    },
+    {
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },

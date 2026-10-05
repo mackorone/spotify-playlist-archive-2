@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,293 likes - 36 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,319 likes - 36 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 35 | [Can't Break Up Now](https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 3:20 |
 | 36 | [Beautiful Things](https://open.spotify.com/track/6nImybWzraGrI7B2xNWwSV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:55 |
 
-Snapshot ID: `ar70AAAAAAB22rrrYmg+UtLxCfGjApYD`
+Snapshot ID: `asBFgAAAAADK78KYntQ0yWb92ja/dtFD`

@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-377 songs - 20 hr 59 min
+378 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Con Tu Amiga](https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/4aM90yXOD78LBDhF0jDpE9) | 3:01 | 2023-09-07 | 2024-10-11 |
 | [Corazón de Madre \(Destapate Una Cerveza\)](https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 3:53 | 2023-05-26 | 2024-10-26 |
 | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy) | 3:49 | 2023-10-20 | 2023-12-03 |
+| [Corazón Partío](https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE) | [El Judas](https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6) | 3:08 | 2026-06-23 |  |
 | [Corre que corre](https://open.spotify.com/track/0lGE7odx6MUrTwjNWxD1sh) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Session de lo Mejor](https://open.spotify.com/album/69r9xG6Wa8dX3pH0CPRPml) | 0:52 | 2024-02-23 | 2024-03-06 |
 | [Corte Caco](https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Corte Caco](https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb) | 2:00 | 2023-11-14 | 2024-01-17 |
 | [Corte Caco \- Remix](https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Corte Caco \(Remix\)](https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN) | 3:34 | 2024-04-26 |  |
@@ -123,7 +124,7 @@
 | [Encararte](https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T) | [Sonido Basico](https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA) | [Evolución](https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB) | 4:01 | 2025-11-20 |  |
 | [ENGANCHADITO DE CLASICOS 2](https://open.spotify.com/track/7pZkhlcjTtndtF4PFwrdf0) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [ENGANCHADITO DE CLASICOS 2](https://open.spotify.com/album/512c3ELcHFMhxPKjPhXOVV) | 7:48 | 2024-06-14 | 2024-08-22 |
 | [Entre Vos Yo y el Cielo](https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 4:23 | 2024-03-05 | 2025-11-21 |
-| [Entregadora Del Marrón](https://open.spotify.com/track/2mH1fsg2qgXzgOpNIot2Lv) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2026-06-23 |  |
+| [Entregadora Del Marrón](https://open.spotify.com/track/2mH1fsg2qgXzgOpNIot2Lv) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2026-06-23 | 2026-10-05 |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2024-03-05 | 2025-11-21 |
 | [Es Ilegal](https://open.spotify.com/track/5qw1YRbS8qjPHrPlo5vSgJ) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Es Ilegal](https://open.spotify.com/album/1yG3iQzIuAYKu9i9DRIcpY) | 3:02 | 2023-10-13 | 2023-10-21 |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |

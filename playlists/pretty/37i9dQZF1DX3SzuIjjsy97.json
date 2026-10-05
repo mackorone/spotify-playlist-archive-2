@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407018,
+  "num_followers": 407013,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 236737,
       "name": "Alexander Hamilton",
       "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -791,30 +791,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Sharpay Evans",
+          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
+        },
+        {
+          "name": "Lucas Grabeel",
+          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
     },
     {
       "added_at": "2026-07-29 10:41:14",

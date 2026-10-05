@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77820,
+  "num_followers": 77824,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 210158,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Where the Shadow Ends",
+        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Someone to You",
+      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "OK, I'M SICK",
         "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Where the Shadow Ends",
-        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Someone to You",
-      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
+      "duration_ms": 196533,
+      "name": "Lost Kitten",
+      "url": "https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -995,22 +1011,6 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Lost Kitten",
-      "url": "https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx"
     },
     {
       "added_at": "2026-05-29 16:00:59",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Loud Bark",
-      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
+      "duration_ms": 223546,
+      "name": "Wall of Glass",
+      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Wall of Glass",
-      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
+      "duration_ms": 183573,
+      "name": "Loud Bark",
+      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1317,26 +1317,6 @@
       "url": "https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6"
     },
     {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "We Might as Well Be Strangers (ft. Wednesday)",
-        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "MENTHOL*",
@@ -1355,6 +1335,26 @@
       "duration_ms": 187106,
       "name": "MENTHOL*",
       "url": "https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e"
+    },
+    {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Grief Chapter",
-        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Explode!",
-      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Young Beauties and Fools",
         "url": "https://open.spotify.com/album/1YExkEfG8yevSjaWg5Z8xv"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "The Human Condition",
-        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
+        "name": "Grief Chapter",
+        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
       "artists": [
         {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 235672,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
+      "duration_ms": 151027,
+      "name": "Explode!",
+      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "The Sheepdogs (Deluxe)",
+        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "The Sheepdogs (Deluxe)",
-        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF"
     },
     {
       "added_at": "2026-07-10 01:13:08",
@@ -1579,22 +1595,6 @@
       "duration_ms": 250386,
       "name": "Violins",
       "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF"
     },
     {
       "added_at": "2026-05-06 20:31:40",

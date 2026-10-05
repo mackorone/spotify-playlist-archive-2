@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143386,
+  "num_followers": 143383,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 250927,
+      "name": "Wanna Be Loved - Live At The Ryman",
+      "url": "https://open.spotify.com/track/0UBCL7Xew29kHSTQtCtjc6"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Live in No Shoes Nation",
         "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 307600,
       "name": "Big Star (with Taylor Swift) - Live",
       "url": "https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 250927,
-      "name": "Wanna Be Loved - Live At The Ryman",
-      "url": "https://open.spotify.com/track/0UBCL7Xew29kHSTQtCtjc6"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Bet On That - At the Troubadour - September 2026",
+        "url": "https://open.spotify.com/album/6mvK3cRuW4EvAVcGpxn3cn"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Bet On That - At the Troubadour - September 2026",
+      "url": "https://open.spotify.com/track/5bSQ3YYIM2IjFXPCnXTu2l"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "HIGH AND A(LIVE)",
         "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "I Am A Man Of Constant Sorrow - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
         "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 213552,
       "name": "Oklahoma Smokeshow - Live",
       "url": "https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "I Am A Man Of Constant Sorrow - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -555,26 +571,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
-        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Grand Ole Opry",
-          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
-        }
-      ],
-      "duration_ms": 287938,
-      "name": "Tennessee Whiskey - Live on the Grand Ole Opry, October 29th, 2016",
-      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "61 Days In Church Volume 5",
         "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
       },
@@ -619,6 +615,26 @@
       "duration_ms": 269805,
       "name": "Cowboy Songs - Live",
       "url": "https://open.spotify.com/track/3YiAJC9QQn1BepgcM2Rybt"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
+        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+        }
+      ],
+      "duration_ms": 287938,
+      "name": "Tennessee Whiskey - Live on the Grand Ole Opry, October 29th, 2016",
+      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Haywire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Your Man - Live In Ohio/2009",
-      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "My Church (Live from the Bluebird Caf\u00e9)",
         "url": "https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 200750,
       "name": "My Church - Live from the Bluebird Caf\u00e9",
       "url": "https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Your Man - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -751,6 +767,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "You'll Think Of Me (Live)",
+        "url": "https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 238585,
+      "name": "You'll Think Of Me - Live",
+      "url": "https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -779,22 +811,6 @@
       "duration_ms": 216506,
       "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "You'll Think Of Me (Live)",
-        "url": "https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 238585,
-      "name": "You'll Think Of Me - Live",
-      "url": "https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -831,18 +847,38 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Sounds Like The Radio (Live)",
-        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
       },
       "artists": [
         {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 214561,
-      "name": "Sounds Like the Radio - Live",
-      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Live From Nashville",
+        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 281323,
+      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
+      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -879,42 +915,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live From Nashville",
-        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 281323,
-      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
-      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 237488,
-      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "Thomas Rhett Live From Fenway Park",
         "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 317168,
       "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
       "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Sounds Like The Radio (Live)",
+        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 214561,
+      "name": "Sounds Like the Radio - Live",
+      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "We Out Here: Live",
         "url": "https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 216656,
       "name": "Different \u2018Round Here - Live",
       "url": "https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Honey, I'm Home - Live",
-      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "On The Air: Her Best TV Performances",
-        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 166466,
-      "name": "She's Got You - Live",
-      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "Humble And Kind (Live)",
         "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 230970,
       "name": "Humble And Kind - Live",
       "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1675,6 +1691,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Let Her Cry (Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996)",
+        "url": "https://open.spotify.com/album/2U08jVY5Rbd50VO1jvtyF4"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 323421,
+      "name": "Let Her Cry - Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996",
+      "url": "https://open.spotify.com/track/50hNcAvdqytGjew7mjM6A1"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Simple Man (Live)",
         "url": "https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1"
       },
@@ -1695,22 +1727,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },
@@ -1727,34 +1743,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "Live From The Palomino",
+        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Written in the Sand (Live)",
-        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Written in the Sand - Live",
-      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+      "duration_ms": 232158,
+      "name": "Drinkin' Problem - Live From The Palomino",
+      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
     }
   ],
   "unique_name": "Country Live",

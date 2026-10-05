@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAB5ic35D6oA/XbR3x6p7i16",
+  "snapshot_id": "asBFgAAAAACj9yViec7BCnSBsJDCGVUY",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Song",
-        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 196500,
-      "name": "La La Song",
-      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "La La Song",
+        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
+      "duration_ms": 196500,
+      "name": "La La Song",
+      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 232521,
-      "name": "Thank You for Sticking Around",
-      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Timer",
         "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 232521,
+      "name": "Thank You for Sticking Around",
+      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More Minute",
         "url": "https://open.spotify.com/album/3jndkU4mOLfouW54RprLar"
       },
@@ -527,30 +527,6 @@
       "duration_ms": 281826,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellhound On My Trail: Songs Of Robert Johnson",
-        "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
-      },
-      "artists": [
-        {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        },
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        },
-        {
-          "name": "Mauro Spina",
-          "url": "https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Milkcow's Calf Blues",
-      "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
     },
     {
       "added_at": null,
@@ -587,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hellhound On My Trail: Songs Of Robert Johnson",
+        "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        },
+        {
+          "name": "Mauro Spina",
+          "url": "https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Milkcow's Calf Blues",
+      "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Property",
         "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 245666,
-      "name": "Never Got Over You",
-      "url": "https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge"
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+      "duration_ms": 245666,
+      "name": "Never Got Over You",
+      "url": "https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge"
     },
     {
       "added_at": null,

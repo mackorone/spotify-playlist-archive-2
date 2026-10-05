@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACuwFCcqzao5Un1NtHcHaOP",
+  "snapshot_id": "asBFgAAAAACnjKMjTChJNCyY7CkFMfkq",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -723,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+      "duration_ms": 193466,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
       "duration_ms": 225539,
       "name": "Never Be the Same (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
     },
     {
       "added_at": null,

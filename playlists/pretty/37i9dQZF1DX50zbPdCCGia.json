@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 330512,
+  "num_followers": 330553,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAEdJeRMQ6PMi8CoSTlc9XPpWGMRG",
   "tracks": [
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 190065,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Jack Rabbit Slim",
-        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
       "artists": [
         {
-          "name": "Steve Forbert",
-          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 212471,
-      "name": "Romeo's Tune",
-      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -671,34 +671,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+        "name": "Jack Rabbit Slim",
+        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
         }
       ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+      "duration_ms": 212471,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -715,6 +699,22 @@
       "duration_ms": 172240,
       "name": "We'll Never Have to Say Goodbye Again - Single Version",
       "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "French Kiss",
-        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Welch",
-          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "Sentimental Lady",
-      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Welch",
+          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "Sentimental Lady",
+      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Another Park, Another Sunday",
-      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Stranger",
         "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 213924,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Loves Me Like a Rock",
+      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Loves Me Like a Rock",
-      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 246293,
       "name": "Him",
       "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 264893,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Let It Flow",
-        "url": "https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Late for the Sky (Remastered)",
         "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 341690,
       "name": "Late for the Sky - Remastered",
       "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5"
     },
     {
       "added_at": "2023-03-29 17:34:27",

@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 145459,
+  "num_followers": 145473,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -475,30 +475,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        },
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 166856,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Until We Die",
         "url": "https://open.spotify.com/album/0ccCW17zrqSGef3aFHkH7I"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 177248,
       "name": "Until We Die",
       "url": "https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 166856,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
     },
     {
       "added_at": "2024-07-24 13:57:08",

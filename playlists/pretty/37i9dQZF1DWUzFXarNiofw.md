@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Stevie Wonder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,083 likes - 250 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,160 likes - 250 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

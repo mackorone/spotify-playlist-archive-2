@@ -4,12 +4,13 @@
 
 > La playlist idéale pour se détendre en musique.
 
-543 songs - 1 day 8 hr 50 min
+544 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-11-25 | 2023-02-22 |
 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-11-25 |  |
+| [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 | 2026-10-02 |  |
 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 | 2023-02-21 |  |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-03 | 2025-04-26 |
 | [6 milliards](https://open.spotify.com/track/048gxedhsB1Tvs48DzAgrn) | [UssaR](https://open.spotify.com/artist/4gXudTKsfn8dfrGm9ENfjX) | [Étendues](https://open.spotify.com/album/38OeSNX2p2oxxDMCrCNo3B) | 3:23 | 2024-01-24 | 2024-04-19 |
@@ -356,7 +357,7 @@
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-20 | 2025-05-16 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-11-25 | 2024-04-19 |
 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-06-26 | 2025-08-08 |
-| [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 | 2026-07-23 |  |
+| [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 | 2026-07-23 | 2026-10-05 |
 | [On My Mind \- Radio Edit](https://open.spotify.com/track/4A8NuOMg65pgEYUr1X0mzU) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [On My Mind](https://open.spotify.com/album/5zoHxmguqA9YMklneErozC) | 3:39 | 2024-05-13 | 2024-10-07 |
 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 | 2022-11-25 | 2023-02-22 |
 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-08-28 |  |

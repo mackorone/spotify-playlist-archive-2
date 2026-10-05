@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174813,
+  "num_followers": 174822,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABGmc3Vs4L8uQC+6/BLtKBt",
+  "snapshot_id": "asBFgAAAAADhaUq0mYvux7Nvi4KyHVas",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essa \u00c9 a Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo"
       },
@@ -791,6 +791,34 @@
       "duration_ms": 240117,
       "name": "Alma G\u00eamea",
       "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RPB/Para Tio",
+        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "LR Beats",
+          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
+        },
+        {
+          "name": "Damien Seth",
+          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Para Tio",
+      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
     },
     {
       "added_at": null,
@@ -843,34 +871,6 @@
       "duration_ms": 284693,
       "name": "Ooorra - Ao Vivo",
       "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RPB/Para Tio",
-        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "LR Beats",
-          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
-        },
-        {
-          "name": "Damien Seth",
-          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Para Tio",
-      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
     },
     {
       "added_at": null,
@@ -983,6 +983,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 216000,
       "name": "Antes Que a Bala Perdida Me Ache",
       "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
     },
     {
       "added_at": null,
@@ -1127,26 +1127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
     }
   ],
   "unique_name": "This Is Emicida",

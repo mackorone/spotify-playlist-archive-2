@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75870,
+  "num_followers": 75873,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABrwwXqUY4O96cZGL/Y7Dmt",
+  "snapshot_id": "asBFgAAAAABDJwkc7bRTC8CV6kL9AdFg",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss the Sky (from The Wild Robot)",
-        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "Kiss the Sky (from The Wild Robot)",
-      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 185280,
       "name": "Seeing Blind",
       "url": "https://open.spotify.com/track/65wnZsZLKJimfK1cTFOfa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss the Sky (from The Wild Robot)",
+        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215716,
+      "name": "Kiss the Sky (from The Wild Robot)",
+      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
     },
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye to You (2026 Version)",
+        "url": "https://open.spotify.com/album/3StECyAuFBJKtKHBz2Et7x"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 250189,
+      "name": "Goodbye to You - 2026 Version",
+      "url": "https://open.spotify.com/track/7FUzbd8hWAktCIjwG48Xtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye to You (2026 Version)",
-        "url": "https://open.spotify.com/album/3StECyAuFBJKtKHBz2Et7x"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 250189,
-      "name": "Goodbye to You - 2026 Version",
-      "url": "https://open.spotify.com/track/7FUzbd8hWAktCIjwG48Xtu"
     },
     {
       "added_at": null,
@@ -543,110 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
-        "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
-      "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195585,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "42",
-      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -704,15 +600,15 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 345026,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+      "duration_ms": 193373,
+      "name": "If She Ever Leaves Me",
+      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "HERO: A Second Wind",
-        "url": "https://open.spotify.com/album/7Dta2R6zh3NV1SvKsvalqo"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
@@ -720,9 +616,97 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 182866,
-      "name": "We Can't Be Friends",
-      "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
+      "duration_ms": 195585,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
+        "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
+      "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO: A Second Wind",
+        "url": "https://open.spotify.com/album/7Dta2R6zh3NV1SvKsvalqo"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "We Can't Be Friends",
+      "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D R E A M S I C L E (deluxe)",
         "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
       },
@@ -771,6 +771,38 @@
       "duration_ms": 184406,
       "name": "be a bitch",
       "url": "https://open.spotify.com/track/62EUDu2IcL7pgmqiCY2J2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 304047,
+      "name": "Mona Lisas And Mad Hatters - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/0gqg8i33K03pBRmkNmSdVW"
     },
     {
       "added_at": null,
@@ -815,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at The Gorge 2023",
-        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 304047,
-      "name": "Mona Lisas And Mad Hatters - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/0gqg8i33K03pBRmkNmSdVW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scissors",
         "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
@@ -863,38 +863,6 @@
       "duration_ms": 145622,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "I Wish I Was",
-      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187638,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -931,6 +899,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187638,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Time Around",
         "url": "https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 211485,
       "name": "Highway Queen (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 205531,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
     },
     {
       "added_at": null,

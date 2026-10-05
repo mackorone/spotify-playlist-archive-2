@@ -4,7 +4,7 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-171 songs - 8 hr 52 min
+172 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aunque Me Duela El Alma](https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:02 | 2023-04-10 |  |
 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 | 2023-04-10 |  |
 | [Bandida](https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:35 | 2023-04-10 |  |
-| [Bandido de Amores](https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8) | 2:59 | 2023-04-10 |  |
+| [Bandido de Amores](https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8) | 2:59 | 2023-04-10 | 2026-10-05 |
 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 | 2023-04-10 | 2024-04-19 |
 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 | 2024-05-06 |  |
 | [Bonus Track](https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Bonus Track](https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc) | 3:11 | 2024-07-12 |  |
@@ -154,6 +154,7 @@
 | [Sembrador De Amor](https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:37 | 2023-04-10 |  |
 | [Sentimental](https://open.spotify.com/track/7o5X3sYNni86izyToG0J8a) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 2:50 | 2024-07-12 |  |
 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 | 2023-04-10 | 2024-04-19 |
+| [Soy Como Quiero Ser](https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:32 | 2024-07-12 |  |
 | [Soy Como Quiero Ser](https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:35 | 2024-05-06 |  |
 | [Soy Como Quiero Ser](https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:35 | 2023-04-10 | 2024-05-07 |
 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 | 2023-04-10 | 2024-04-19 |

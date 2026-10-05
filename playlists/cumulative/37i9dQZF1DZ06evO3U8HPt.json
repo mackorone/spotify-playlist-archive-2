@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },

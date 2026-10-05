@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,157 likes - 191 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,156 likes - 191 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 102 | [DON'T WORRY BABE / I GOT U BABE](https://open.spotify.com/track/3OxdXYsQec4nlrluOXFb09) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
 | 103 | [K&A](https://open.spotify.com/track/4yPT4CtLpIXy1L1reXL9gK) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/0iAbMGXKXGfmtmneJrsNcl) | 5:04 |
 | 104 | [TARGET JOINT](https://open.spotify.com/track/2g3S9jyG9dAchzKCCvOXLw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 2:22 |
-| 105 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
+| 105 | [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 |
 | 106 | [Bloody Waters](https://open.spotify.com/track/4bHLBqQzwceA3WtfWuWQfW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 4:20 |
 | 107 | [Stepped On](https://open.spotify.com/track/4KRbbNR117zPRlwZa7oKyN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:01 |
 | 108 | [Please Babe](https://open.spotify.com/track/2rAbrVnPBp6TcqdY8vRQbF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:46 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 190 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 191 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Acd/OgAAAACqmwj27T3/sp51HGzQmtYY`
+Snapshot ID: `AceE2gAAAACNoEqlu8zKfFiC8QoiOy2C`

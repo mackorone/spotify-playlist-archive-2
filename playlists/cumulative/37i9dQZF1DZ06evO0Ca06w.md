@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-197 songs - 10 hr 20 min
+198 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 | 2022-10-11 | 2026-09-26 |
 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:33 | 2021-12-28 |  |
 | [Kwedini](https://open.spotify.com/track/3Px4fOJFnivI49Ams9hl1c) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 2:16 | 2023-06-30 | 2023-07-02 |
+| [L'enfant et la gazelle](https://open.spotify.com/track/0Ww2bQofBruPo5w89HliKS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/7LDdXy3R3DUq6egQTODx6m) | 3:45 | 2026-10-05 |  |
 | [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 | 2022-10-06 | 2024-05-28 |
 | [L'enfant et la gazelle](https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:45 | 2021-12-28 | 2022-10-06 |
 | [La Bushe \(Congo Bushe\)](https://open.spotify.com/track/6Bp4BqQiR7bC7rU5JCVD3a) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magnificent Miriam Makeba](https://open.spotify.com/album/2dJUPRTXIRHCv7BwnIStqJ) | 2:22 | 2022-04-09 | 2022-07-01 |
@@ -116,7 +117,7 @@
 | [Mayibuye \- Live](https://open.spotify.com/track/6BqkRstFaoNXj2xAIZfVuN) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Live at Bern's Salonger, Stockholm, Sweden, 1966](https://open.spotify.com/album/75FOmy9Z4ZXzEaZdMG0ddk) | 3:44 | 2024-05-22 | 2024-05-28 |
 | [Mayibuye \- Remastered 2024](https://open.spotify.com/track/6Fli1EL3FgkrJFbemIlhVq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:49 | 2024-06-26 | 2024-10-22 |
 | [Mbube](https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:19 | 2021-12-30 | 2024-06-11 |
-| [Mbube](https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT) | 3:21 | 2023-04-14 |  |
+| [Mbube](https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT) | 3:21 | 2023-04-14 | 2026-10-05 |
 | [Mbube](https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 3:22 | 2022-04-10 | 2023-03-22 |
 | [Measure the Valleys \- Remastered](https://open.spotify.com/track/5ucsFiqcQQTi8huqxnQ0ME) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:37 | 2022-01-02 | 2024-07-13 |
 | [Milélé](https://open.spotify.com/track/504Xh4PGlSzDspxz5bzU0W) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:29 | 2025-06-09 | 2025-06-11 |

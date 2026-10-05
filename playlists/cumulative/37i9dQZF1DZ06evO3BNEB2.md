@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 26 min
+70 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2026-02-21 |  |
 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 | 2026-02-21 |  |
 | [French Toast \(feat\. Wale & Joyce Wrice\)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 4:48 | 2026-03-22 | 2026-05-12 |
-| [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 | 2026-08-29 |  |
+| [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 | 2026-08-29 | 2026-10-05 |
+| [How It Feels](https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 2:36 | 2026-10-05 |  |
 | [In My Bed](https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:05 | 2026-02-21 |  |
 | [James Freestyle](https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j) | [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [James Freestyle](https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI) | 2:26 | 2026-02-21 | 2026-05-06 |
 | [Like I \(with Andra Day\)](https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:13 | 2026-06-23 |  |

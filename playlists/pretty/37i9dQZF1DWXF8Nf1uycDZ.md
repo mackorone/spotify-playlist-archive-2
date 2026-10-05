@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: it's Fatboy Slim's favourite 30! Celebrating the iconic "Better Living Through Chemistry” 30th Anniversary 😃 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,401 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,402 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

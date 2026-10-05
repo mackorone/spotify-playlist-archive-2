@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with DJ HEARTSTRING
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812,813 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812,818 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

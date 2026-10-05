@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,388 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,397 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 17 | [Home Station \(DJ\-Kicks Version\)](https://open.spotify.com/track/77795B8ZW6IwEFX3tlFWEQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 2:29 |
 | 18 | [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Miss Understood](https://open.spotify.com/album/1hSNwF496ybl7F25PjHiqH) | 3:39 |
 | 19 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
-| 20 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
-| 21 | [Shuttle Launch](https://open.spotify.com/track/1nD6Bcu6Xhzky0e4pEIVu3) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Shuttle Launch](https://open.spotify.com/album/3u2aJDemlzSK7mxTBZVztt) | 2:22 |
+| 20 | [Shuttle Launch](https://open.spotify.com/track/1nD6Bcu6Xhzky0e4pEIVu3) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Shuttle Launch](https://open.spotify.com/album/3u2aJDemlzSK7mxTBZVztt) | 2:22 |
+| 21 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
 | 22 | [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 |
 | 23 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 24 | [Lichen Trip](https://open.spotify.com/track/3nyh5bHX5ZaOI0IOi9hAtF) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Lichen Trip](https://open.spotify.com/album/74CztA2W1X7ioPPobdxPBd) | 2:50 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 32 | [Shame](https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Shame](https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73) | 4:37 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
-| 35 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |
-| 36 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
+| 35 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
+| 36 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |
 | 37 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 |
-| 38 | [Everything That Remains](https://open.spotify.com/track/6XYEBFUyj01gpjCtj5ZIrg) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Everything That Remains](https://open.spotify.com/album/3yDMOrivm16BCSTpkz9OzU) | 4:11 |
-| 39 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
+| 38 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
+| 39 | [Everything That Remains](https://open.spotify.com/track/6XYEBFUyj01gpjCtj5ZIrg) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Everything That Remains](https://open.spotify.com/album/3yDMOrivm16BCSTpkz9OzU) | 4:11 |
 | 40 | [This Feeling](https://open.spotify.com/track/6iK0ChTEvfDY9qH9dotiuX) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [This Feeling](https://open.spotify.com/album/5LxqYEPtM9ceTn1FIbWiW5) | 4:41 |
 | 41 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
 | 42 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
 | 43 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
 | 44 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
-| 45 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
-| 46 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
+| 45 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
+| 46 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 47 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
-| 48 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
-| 49 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 48 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 49 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
 | 50 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 |
 
 Snapshot ID: `AAAAAJsd84/tC7eGTfDURcjAWfcaRGig`

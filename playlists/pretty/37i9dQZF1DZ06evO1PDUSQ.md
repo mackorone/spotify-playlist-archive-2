@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,700 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 34 | [Weird Time](https://open.spotify.com/track/0qqFZUbcTpL4A13UMQBjti) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:34 |
 | 35 | [Now What?](https://open.spotify.com/track/4aGmuQteLbBpqU08Jpd36t) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:13 |
 | 36 | [Figure It Out](https://open.spotify.com/track/04ITn1QsfKxIC16eoqMz0B) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Figure It Out](https://open.spotify.com/album/4TGZnTrxluA90jNdNaOa6q) | 3:20 |
-| 37 | [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 |
-| 38 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 |
+| 37 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 |
+| 38 | [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 |
 | 39 | [Thirty](https://open.spotify.com/track/7Mds3ACnquh8j0R6F24Fo4) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:05 |
 
-Snapshot ID: `ar70AAAAAADfuVX2N14Zkh2XkmpKD1rk`
+Snapshot ID: `asBFgAAAAACwFz6sBOm7wiAME7RwRUCY`

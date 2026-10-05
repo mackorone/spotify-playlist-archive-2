@@ -1,6 +1,6 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 36969,
+  "num_followers": 36971,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278746,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278746,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 536471,
-      "name": "Dance Yrself Clean",
-      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 536471,
+      "name": "Dance Yrself Clean",
+      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "9 Crimes",
-      "url": "https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "In Search Of...",
         "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 209760,
       "name": "Lapdance",
       "url": "https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "9 Crimes",
+      "url": "https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im"
     },
     {
       "added_at": "2026-05-12 09:00:32",

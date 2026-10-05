@@ -4,7 +4,7 @@
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 51 min
+69 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [QVC \(feat\. Leon Thomas\)](https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 3:04 | 2026-07-19 |  |
 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 | 2025-12-30 | 2026-01-22 |
 | [Remarkable Hussle](https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 3:46 | 2026-07-20 |  |
-| [Run It Up \(feat\. Leon Thomas\)](https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 4:58 | 2026-08-27 |  |
+| [Run It Up \(feat\. Leon Thomas\)](https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 4:58 | 2026-08-27 | 2026-10-05 |
 | [Ruthless Remix \- feat\. Leon Thomas](https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [You Only Die 1nce \(Deluxe\)](https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq) | 4:00 | 2026-06-08 | 2026-08-23 |
 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 | 2025-12-30 |  |
 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 | 2025-12-30 |  |
@@ -76,5 +76,6 @@
 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 | 2025-12-30 |  |
 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-12-30 |  |
 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2025-12-30 |  |
+| [You Mean The World To Me \(feat\. Leon Thomas & Hazel Monét\)](https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:24 | 2026-10-05 |  |
 
 \*This playlist was first scraped on 2025-12-30. Prior content cannot be recovered.

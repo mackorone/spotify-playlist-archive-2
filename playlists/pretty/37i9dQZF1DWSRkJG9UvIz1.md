@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,887 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,893 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 15 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
 | 16 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 17 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
-| 18 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
-| 19 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
-| 20 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
+| 18 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
+| 19 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
+| 20 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 | 21 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
-| 22 | [Concrete Jungle](https://open.spotify.com/track/1vOUHuPjdTdxsyV42EOJbe) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 3:32 |
-| 23 | [Rio da Bossa Nova](https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Ambulante Discos](https://open.spotify.com/artist/40WawbjztKIQFOdQRCQjLG) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/1owWux16F84jwfPxHpds4w) | 3:26 |
+| 22 | [Rio da Bossa Nova](https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Ambulante Discos](https://open.spotify.com/artist/40WawbjztKIQFOdQRCQjLG) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/1owWux16F84jwfPxHpds4w) | 3:26 |
+| 23 | [Concrete Jungle](https://open.spotify.com/track/1vOUHuPjdTdxsyV42EOJbe) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 3:32 |
 | 24 | [Quem Tem Um Amigo \(Tem Tudo\) \(feat\. Zeca Pagodinho & Tokyo Ska Paradise Orchestra\)](https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:09 |
 | 25 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
 | 26 | [Terrorista del Amor](https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT) | 3:12 |

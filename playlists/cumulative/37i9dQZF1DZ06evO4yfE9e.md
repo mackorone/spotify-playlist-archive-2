@@ -4,7 +4,7 @@
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 35 min
+62 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 | 2025-03-14 |  |
 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 | 2024-03-16 |  |
 | [Press It \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Press It \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm) | 2:01 | 2024-01-10 |  |
+| [Raised by Wolves](https://open.spotify.com/track/7al5J4fuvbQaLoRUdbzWb2) | [Jayelle](https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Raised by Wolves](https://open.spotify.com/album/09Ai9S7gX4xzkfFdaqSFND) | 2:32 | 2026-10-05 |  |
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2024-01-10 |  |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2024-01-10 | 2025-03-13 |
 | [SEX MACHINA](https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0) | 2:09 | 2025-03-13 |  |

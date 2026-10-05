@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-257 songs - 13 hr 17 min
+258 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another Opinion](https://open.spotify.com/track/0uvlQUhGqx6NPzxkEhfAyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 | 2023-12-30 |  |
 | [Ashes](https://open.spotify.com/track/7LImynpVAFaCrQhMTCTGnf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 | 2023-12-30 | 2025-07-12 |
 | [Babygirl](https://open.spotify.com/track/2Colaaxtnx0ybCl4ga39sF) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:20 | 2023-12-30 | 2025-07-12 |
+| [Bad Day](https://open.spotify.com/track/1630L7vZD12eMRxtZHgk7E) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [Jayne](https://open.spotify.com/album/109wveCe51vgpor0PCmQ5D) | 3:09 | 2026-10-04 |  |
 | [Bad For Me](https://open.spotify.com/track/5FUiL77CbrEv7e7aT2jigi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(Official Music Video\)](https://open.spotify.com/album/6TXHMnDzUEvd1RtLUhlBwY) | 3:33 | 2023-12-30 | 2024-02-02 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:33 | 2024-12-16 |  |
 | [Badass Woman \- From The Motion Picture "The Hustle"](https://open.spotify.com/track/5Glf3tBr73L1fbO9u4pL7r) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Badass Woman \(From The Motion Picture "The Hustle"\)](https://open.spotify.com/album/3Tc9tsOEotcIxR8SPW1dxC) | 3:30 | 2023-12-30 | 2025-07-12 |
@@ -141,7 +142,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2025-07-09 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Like I'm Gonna Lose You \(Official Music Video\)](https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4) | 3:47 | 2023-12-31 | 2024-02-02 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2023-12-30 | 2025-03-30 |
-| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 |  |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 | 2026-10-05 |
 | [Lips Are Movin](https://open.spotify.com/track/3fNaQSMgFrYTkTshRX7J1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:01 | 2025-03-29 | 2025-07-12 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2024-01-01 | 2025-03-30 |
 | [Lips Are Movin](https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin \(Official Music Video\)](https://open.spotify.com/album/6V4bZzTmEU9sw8JQ26H2MC) | 3:05 | 2023-12-30 | 2024-01-31 |

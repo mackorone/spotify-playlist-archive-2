@@ -4,7 +4,7 @@
 
 > 
 
-8,871 songs - 22 day 13 hr 50 min
+8,873 songs - 22 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2196,7 +2196,7 @@
 | [Fighters \(feat\. Matthew Santos\)](https://open.spotify.com/track/2Kh1dZBgQAJQ2ZQ6AjMQdp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 3:33 | 2025-01-04 |  |
 | [Fighting Gold](https://open.spotify.com/track/7mjio4U2J4q19ArbF9jI58) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [Fighting Gold](https://open.spotify.com/album/6NN3fciOweTHrNdMBYtW1g) | 4:13 | 2025-05-26 |  |
 | [Finally Rich](https://open.spotify.com/track/0pKBVMCnSSI6NOH0NNQTOH) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:09 | 2024-12-14 |  |
-| [Find a Topic \(homies begged\)](https://open.spotify.com/track/17JA4HlieSH7TY3pQk21MJ) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 2:46 | 2025-01-03 |  |
+| [Find a Topic \(homies begged\)](https://open.spotify.com/track/17JA4HlieSH7TY3pQk21MJ) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 2:46 | 2025-01-03 | 2026-10-05 |
 | [Fine China](https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 2:21 | 2025-01-03 |  |
 | [Fine Whine \(feat\. Joe Fox, Future & M.I.A.\)](https://open.spotify.com/track/2WxzLbJfPA2vJGxQiKd7Jq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:38 | 2024-12-05 |  |
 | [Finer Things](https://open.spotify.com/track/7oBW80497A8axagr4aC9U6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 3:02 | 2025-01-15 |  |
@@ -3130,7 +3130,7 @@
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2025-04-19 |  |
 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 | 2025-01-15 |  |
 | [I Love Kanye](https://open.spotify.com/track/5CGS4UovzA7ftCJkLVXQju) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 0:44 | 2025-01-03 |  |
-| [I Love Poland \- Radio Edit](https://open.spotify.com/track/5TDzzST0goDvot0k9pPbkf) | [Hazel](https://open.spotify.com/artist/7MGiKChvryqRcU22Kf1p2X) | [I Love Poland \(Radio Edit\)](https://open.spotify.com/album/2iu1BDnw1zCAD0K290Iypn) | 3:05 | 2025-01-03 |  |
+| [I Love Poland \- Radio Edit](https://open.spotify.com/track/5TDzzST0goDvot0k9pPbkf) | [Hazel](https://open.spotify.com/artist/7MGiKChvryqRcU22Kf1p2X) | [I Love Poland \(Radio Edit\)](https://open.spotify.com/album/2iu1BDnw1zCAD0K290Iypn) | 3:05 | 2025-01-03 | 2026-10-05 |
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2025-01-03 |  |
 | [I Love You](https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1) | [Cha Tae Hyun](https://open.spotify.com/artist/3TQcPdZGQoeUMmScKHHgh3) | [Accident](https://open.spotify.com/album/2HkKsqlpwGC68BEQFy6nGX) | 3:05 | 2024-12-14 |  |
 | [I Love You](https://open.spotify.com/track/3VcH5XTkHzF0j22RvkMoZh) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 2:57 | 2025-01-03 |  |
@@ -4255,6 +4255,7 @@
 | [Me and Your Mama](https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 6:19 | 2025-03-28 |  |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2024-12-14 |  |
 | [Me Gustas Tu](https://open.spotify.com/track/3AtYSKkZ75F7z0fi03pKuq) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Flower Bud](https://open.spotify.com/album/0W5faDA1jJ3msyW0Hdkp7B) | 3:40 | 2025-04-11 |  |
+| [me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:41 | 2026-10-04 |  |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2024-12-05 |  |
 | [Me Myself and I](https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:49 | 2025-01-03 |  |
 | [Me Now](https://open.spotify.com/track/5viCJ7GSQxVWUAPBVoV7IL) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 4:39 | 2025-01-03 |  |
@@ -6467,7 +6468,7 @@
 | [Tattoos](https://open.spotify.com/track/1vbUiccx25u2ncTe4RujS2) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 4:01 | 2025-01-15 |  |
 | [Te Amo](https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:28 | 2025-01-15 |  |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2025-04-19 |  |
-| [Teach Me](https://open.spotify.com/track/0RZx763PZaGsBI66gSnW44) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 4:18 | 2025-01-03 |  |
+| [Teach Me](https://open.spotify.com/track/0RZx763PZaGsBI66gSnW44) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 4:18 | 2025-01-03 | 2026-10-05 |
 | [Teaplucker's Joy](https://open.spotify.com/track/1SXvYWVlRtZnwVH1Moaavp) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jadeite Redolence \(Original Game Soundtrack\)](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz) | 1:35 | 2025-11-29 |  |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2025-01-15 |  |
 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 | 2025-04-20 |  |
@@ -7722,6 +7723,7 @@
 | [ありがとう](https://open.spotify.com/track/5TB5eYjG55nuqb1ziIzfwN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [バラー丼](https://open.spotify.com/album/1bXfEx41gr4QX6frRAfvON) | 6:01 | 2025-01-03 |  |
 | [ありがとう](https://open.spotify.com/track/6vh4m5T5KMFxdKegDeXnm4) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん2 Cover song collection](https://open.spotify.com/album/6ZkiAyyK8QnvWwIfTdhndY) | 5:59 | 2025-03-31 |  |
 | [いいから](https://open.spotify.com/track/0CELdXx5adnnmJnJABLTlJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Are You Coming?](https://open.spotify.com/album/71gx3ETpzqF29KOoeHluL3) | 3:16 | 2025-05-17 |  |
+| [いいんですか?](https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:08 | 2026-10-04 |  |
 | [いつかこの涙が](https://open.spotify.com/track/3dreSfXDAs97mmSmXAObc0) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Juice](https://open.spotify.com/album/5Q0lmAq1XqwRLqbd3GisBC) | 4:25 | 2025-01-03 |  |
 | [うつろい](https://open.spotify.com/track/2LDDy3rychbDY9dx5tAvoc) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Gomakashi/Utsuroi](https://open.spotify.com/album/03nhZHruFgl0y1MdNJYTk1) | 3:49 | 2025-01-15 |  |
 | [うつろい](https://open.spotify.com/track/6UaUAuwWqAbuSGTITLTZ2Y) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:50 | 2026-02-22 |  |

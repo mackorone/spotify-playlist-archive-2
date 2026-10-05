@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,509 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,511 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 32 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
 | 33 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 34 | [ג׳ין](https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:55 |
-| 35 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
-| 36 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
-| 37 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
+| 35 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
+| 36 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
+| 37 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
 | 38 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
-| 39 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 39 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
 | 40 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
 | 41 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
 | 42 | [מראה לי את השקט](https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [מראה לי את השקט](https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI) | 3:36 |

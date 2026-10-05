@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,924 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,930 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 28 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
 | 29 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 30 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
-| 31 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN) | 3:47 |
-| 32 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
-| 33 | [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 |
+| 31 | [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 |
+| 32 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN) | 3:47 |
+| 33 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
 | 34 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
 | 35 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
 | 36 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
 | 45 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 46 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
-| 47 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
-| 48 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 47 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 48 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
 | 49 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
 | 50 | [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 |
 

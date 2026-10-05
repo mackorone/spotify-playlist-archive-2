@@ -2,9 +2,9 @@
 
 ### [folk & primavera](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: Sofía Campos
+> Folk latino de estación\. Foto: Milo j & Mon Laferte
 
-418 songs - 22 hr 51 min
+422 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Desde El Centro](https://open.spotify.com/track/3cTmRtJO5PAveMq7Qd8UdF) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Desde El Centro](https://open.spotify.com/album/0YYNhvKaTPvXjEEcfNA7Gx) | 2:41 | 2026-09-04 |  |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 | 2026-09-12 |
+| [Desperté](https://open.spotify.com/track/6LLuCkYVYrKvoeDESY6Te0) | [May Santoro](https://open.spotify.com/artist/6ObwluZSrj3FxKRuH7JBau) | [Desperté](https://open.spotify.com/album/7sfjYqeEsBoiwalniMgj25) | 3:28 | 2026-10-04 |  |
 | [Después del Después](https://open.spotify.com/track/4kMoYhgumElFZVCkgYaa99) | [Joaquin Martinez](https://open.spotify.com/artist/66nw77rm5t0Hz6KYcGHix2), [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8) | [Después del Después](https://open.spotify.com/album/7aGGHJSvoKHWncxaEdgzsK) | 2:47 | 2026-09-04 |  |
 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 | 2025-07-25 |  |
 | [dios hizo barro](https://open.spotify.com/track/7pvTSvIn8eItANUaZ3A6oi) | [Juane Pelegrin](https://open.spotify.com/artist/56TL9baGgi5E2L80LFElqo), [Julen y la Gente Sola](https://open.spotify.com/artist/6LOIQfbOC8gCrm9Y45EPki) | [elige vida](https://open.spotify.com/album/0vCOAMbvk0zUu5RaXgEcpp) | 2:59 | 2026-09-04 |  |
@@ -193,6 +194,7 @@
 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 | 2022-07-15 | 2023-07-15 |
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
 | [Iuju](https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk) | [Agua Viva](https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi) | 1:50 | 2024-10-04 | 2026-09-12 |
+| [Jangadero \- La Jangada](https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Jangada](https://open.spotify.com/album/4eOTZGLOLYa8L4OFKdrXGr) | 5:15 | 2026-10-04 |  |
 | [Joaquín](https://open.spotify.com/track/06ozBa4YGaxnw7NMmUlGW8) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Minha Beleza](https://open.spotify.com/album/6purF8IsIgyRwChzroRE95) | 2:31 | 2026-09-25 |  |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 | 2023-04-15 |
@@ -397,6 +399,7 @@
 | [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 | 2024-10-25 |  |
 | [Vaivén](https://open.spotify.com/track/0hb6NX7Ig8bVElKHsUXIGF) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Vaivén](https://open.spotify.com/album/7oqsipt6BbD3jStDKZphgf) | 2:44 | 2022-05-20 | 2022-07-16 |
 | [Vaivén](https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Ciclo](https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ) | 2:44 | 2022-05-20 | 2023-07-08 |
+| [Vaivén](https://open.spotify.com/track/1YurcW7xK9lgC8YsnwMDIZ) | [Pablo Joaquín](https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vaivén](https://open.spotify.com/album/1hssX0GvvvBz7Zw3w9Vueb) | 2:47 | 2026-10-04 |  |
 | [Vamos](https://open.spotify.com/track/3XaBPQlCLuhXaIENgzHbCo) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Vamos](https://open.spotify.com/album/7uwdLfmetBYd2pdDFSyCAI) | 3:22 | 2026-07-31 |  |
 | [Vamos a Lograrlo](https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2) | [Tobe](https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Vamos a Lograrlo](https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo) | 3:32 | 2023-04-07 | 2023-05-28 |
 | [Vamos al Mar](https://open.spotify.com/track/2MIPhkB4NaOSW0BZLW7kcv) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Vamos al Mar](https://open.spotify.com/album/3vOvzUwLFps8Fl8UjyQS3Z) | 3:25 | 2026-08-14 |  |
@@ -409,6 +412,7 @@
 | [Volcán](https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Leo Salinas](https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD), [Paula Pávez](https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM) | [Volcán](https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3) | 3:56 | 2024-02-01 | 2024-02-24 |
 | [volver a verme](https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [volver a verme](https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9) | 3:48 | 2025-07-18 |  |
 | [Volver Atrás](https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Volver Atrás](https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7) | 3:35 | 2022-05-20 | 2023-05-20 |
+| [Volverás al Sur](https://open.spotify.com/track/0VJRZ4nn6N0HyxjRsv3SBC) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Volverás al Sur](https://open.spotify.com/album/1aSEJcrfeWq5sXR1tP6R8U) | 4:09 | 2026-10-04 |  |
 | [Wely Sylvia](https://open.spotify.com/track/5gLQFU6vfFHwJJyGsFSvId) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [VICHI](https://open.spotify.com/album/6VuayadZKoMqR7kjdTD5HC) | 3:01 | 2026-09-04 |  |
 | [X AMOR](https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz) | 4:02 | 2022-05-20 | 2023-04-15 |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-07-28 | 2023-10-07 |

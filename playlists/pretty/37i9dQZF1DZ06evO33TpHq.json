@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 67150,
+  "num_followers": 67159,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACRSrQQoBitB21qxIoRz5/W",
+  "snapshot_id": "asBFgAAAAADTnsNLJLgZJmFrYG0NIpz2",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise The Lord Forever",
-        "url": "https://open.spotify.com/album/4p6kzgFOhScjUElxQddUFN"
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         }
       ],
-      "duration_ms": 325791,
-      "name": "Praise The Lord Forever",
-      "url": "https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA"
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/4p6kzgFOhScjUElxQddUFN"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         }
       ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+      "duration_ms": 325791,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 270560,
-      "name": "Where I'm Standing Now (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints (Deluxe)",
         "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 277600,
       "name": "Flowers (with Jamie MacDonald)",
       "url": "https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 270560,
+      "name": "Where I'm Standing Now (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "He Arose",
         "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 289972,
       "name": "He Arose",
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fear Has No Power",
         "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 257266,
       "name": "Fear Has No Power",
       "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven & Earth",
+        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "Heaven Song",
+      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven & Earth",
-        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "Heaven Song",
-      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
     },
     {
       "added_at": null,

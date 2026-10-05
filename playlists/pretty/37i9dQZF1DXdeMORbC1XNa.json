@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Victony",
-  "num_followers": 321083,
+  "num_followers": 321092,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
-        "name": "Des mythos",
-        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 177601,
-      "name": "Des mythos",
-      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "ISALE EKO",
-        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "ISALE EKO",
-      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "ISALE EKO",
+        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "ISALE EKO",
+      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Cyah Behave",
         "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 146626,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Bod\u00e9",
         "url": "https://open.spotify.com/album/4cSabc5NWDEzGFfVN1nSWh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 144892,
       "name": "Bod\u00e9",
       "url": "https://open.spotify.com/track/6jpFUrJeLRcQN1Ek8AnQe9"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "PARTYGYAL",
-        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 167355,
-      "name": "PARTYGYAL",
-      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 132413,
       "name": "FINE SHYT (feat. Tml Vibez)",
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
     },
     {
       "added_at": "2026-08-20 23:00:27",

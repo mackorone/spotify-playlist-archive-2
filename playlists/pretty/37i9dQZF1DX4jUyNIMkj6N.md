@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,203 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,245 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 36 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
 | 37 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 |
 | 38 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 |
-| 39 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
-| 40 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
+| 39 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
+| 40 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
 | 41 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
 | 42 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 |
 | 43 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 45 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 46 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 47 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
-| 48 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
+| 48 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 49 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
 | 50 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 51 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 |
 | 52 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
-| 53 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
-| 54 | [Wake Up](https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Wake Up](https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ) | 4:11 |
+| 53 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
+| 54 | [Charity](https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Revelations of Divine Love](https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2) | 6:44 |
 | 55 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 56 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
-| 57 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
-| 58 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
-| 59 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
-| 60 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
+| 56 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
+| 57 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
+| 58 | [Wake Up](https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Wake Up](https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ) | 4:11 |
+| 59 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
+| 60 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
 
 Snapshot ID: `AAAAAFDv3FA55Ten9MhZrpqpMgL91chy`

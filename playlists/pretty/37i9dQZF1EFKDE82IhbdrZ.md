@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632 likes - 318 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633 likes - 318 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 210 | [Where Have You Been \(All My Night\)](https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:48 |
 | 211 | [Touch](https://open.spotify.com/track/2oRua7SgA8ZJy9h4ViBAl5) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:46 |
 | 212 | [Guilty Pleasure](https://open.spotify.com/track/4Jc5qr6GZgbKU5GZPrlyJA) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:28 |
-| 213 | [It Works](https://open.spotify.com/track/6qLhYplpKpC3AyylF9YAx5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:48 |
-| 214 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 213 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 214 | [It Works](https://open.spotify.com/track/6qLhYplpKpC3AyylF9YAx5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:48 |
 | 215 | [Off the Market](https://open.spotify.com/track/6zOdNkaCjXPlAWsoUE3VSn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 2:44 |
 | 216 | [Loving](https://open.spotify.com/track/1b5e4l5gydR0LCX099FaIP) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:54 |
 | 217 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Acd/OgAAAADB5cIP6WxUaPHTpf7yGuDb`
+Snapshot ID: `AceE2gAAAAAyfwWJNCuj2VlUpLaFkql9`

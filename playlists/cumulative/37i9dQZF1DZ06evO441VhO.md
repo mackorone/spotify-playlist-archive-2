@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 54 min
+113 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,14 @@
 | [Doomsday on the Radio](https://open.spotify.com/track/4RdajoSN5zFTyFkQx3rSyc) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:50 | 2026-09-05 | 2026-09-23 |
 | [Doomsday on the Radio](https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Doomsday on the Radio](https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8) | 2:50 | 2024-09-06 | 2026-03-20 |
 | [Down Without a Fight](https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:36 | 2022-09-16 | 2024-08-30 |
-| [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 | 2023-12-14 |  |
+| [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 | 2023-12-14 | 2026-10-05 |
 | [Evil Anonymous](https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Evil Anonymous](https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS) | 2:56 | 2022-12-12 | 2023-12-15 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-04 | 2023-12-14 |
 | [F.L.F.U.](https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 4:00 | 2023-12-13 | 2024-10-20 |
 | [Falling Apart](https://open.spotify.com/track/1SMMq7Zupw6IHw7Hvy4xb0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:09 | 2023-06-22 |  |
 | [Falling Apart](https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:09 | 2022-09-16 | 2023-06-23 |
 | [Feel This Way](https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:44 | 2022-09-16 | 2022-12-13 |
+| [Follow Me \- Japanese Short Version](https://open.spotify.com/track/7qHbE04wCOkxL18IFVbgyq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:49 | 2026-10-05 |  |
 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/4Su8xgxckDz9s1yLCPvFB2) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 | 2026-09-30 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 | 2026-08-13 |

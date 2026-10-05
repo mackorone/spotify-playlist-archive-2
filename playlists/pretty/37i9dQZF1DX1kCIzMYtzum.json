@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99\ud83d\udc99 featuring Martin Garrix",
-  "num_followers": 562477,
+  "num_followers": 562619,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
+        "name": "Cry For You (2025)",
+        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Cry For You (2025)",
+      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
+    },
+    {
+      "added_at": "2026-10-02 04:03:11",
+      "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-10-02 04:03:11",
-      "album": {
-        "name": "Cry For You (2025)",
-        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Cry For You (2025)",
-      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Release The Pressure",
-        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 203668,
-      "name": "Release The Pressure",
-      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
-    },
-    {
-      "added_at": "2026-10-02 04:03:11",
-      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -1439,6 +1419,26 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
+        "name": "Release The Pressure",
+        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 203668,
+      "name": "Release The Pressure",
+      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "added_at": "2026-10-02 04:03:11",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
       },
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 216115,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
-    },
-    {
-      "added_at": "2026-10-02 04:03:11",
-      "album": {
         "name": "Can't Forget You",
         "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 156250,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
+    },
+    {
+      "added_at": "2026-10-02 04:03:11",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 216115,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Just The Way You Are (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181609,
-      "name": "Just The Way You Are - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
-    },
-    {
-      "added_at": "2026-10-02 04:03:11",
-      "album": {
         "name": "Chasing Paradise",
         "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 180532,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "added_at": "2026-10-02 04:03:11",
+      "album": {
+        "name": "Just The Way You Are (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181609,
+      "name": "Just The Way You Are - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1719,26 +1719,26 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1763,26 +1763,26 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1883,26 +1883,22 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Meet Again",
-        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         },
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
         }
       ],
-      "duration_ms": 206363,
-      "name": "Meet Again",
-      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1931,22 +1927,26 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05"
+        "name": "Impacto (Makina)",
+        "url": "https://open.spotify.com/album/1DmANlD3RtA0ydHBUYoaDM"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "DJ Skryker",
+          "url": "https://open.spotify.com/artist/73umhFgTsf1Zuoc1KOS0cO"
         }
       ],
-      "duration_ms": 170576,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"
+      "duration_ms": 120000,
+      "name": "Impacto (Makina)",
+      "url": "https://open.spotify.com/track/4OblbJyYJjD4NBiEwT3bkk"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -1991,22 +1991,26 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
         }
       ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+      "duration_ms": 206363,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -2035,26 +2039,38 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Impacto (Makina)",
-        "url": "https://open.spotify.com/album/1DmANlD3RtA0ydHBUYoaDM"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Schak",
-          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
-        },
-        {
-          "name": "DJ Skryker",
-          "url": "https://open.spotify.com/artist/73umhFgTsf1Zuoc1KOS0cO"
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Impacto (Makina)",
-      "url": "https://open.spotify.com/track/4OblbJyYJjD4NBiEwT3bkk"
+      "duration_ms": 170576,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"
+    },
+    {
+      "added_at": "2026-10-02 04:03:11",
+      "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
+      },
+      "artists": [
+        {
+          "name": "Tomas Grey",
+          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
+        }
+      ],
+      "duration_ms": 162755,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
     },
     {
       "added_at": "2026-10-02 04:03:11",
@@ -2079,24 +2095,8 @@
     {
       "added_at": "2026-10-02 04:03:11",
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
-      },
-      "artists": [
-        {
-          "name": "Tomas Grey",
-          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
-    },
-    {
-      "added_at": "2026-10-02 04:03:11",
-      "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
       },
       "artists": [
         {
@@ -2104,17 +2104,13 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+      "duration_ms": 201739,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
     }
   ],
   "unique_name": "EDM 2026",

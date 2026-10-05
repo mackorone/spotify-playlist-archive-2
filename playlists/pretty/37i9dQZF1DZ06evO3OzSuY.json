@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25887,
+  "num_followers": 25889,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACV0GFxFR6wfW9zZ+kit58C",
+  "snapshot_id": "asBFgAAAAABEFR/g/tSVLjNOMfLgbY3B",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 253346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
     },
     {
       "added_at": null,

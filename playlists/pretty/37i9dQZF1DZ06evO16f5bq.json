@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155880,
+  "num_followers": 155871,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAC0MQgjKujM5fCdquqzs8UE",
+  "snapshot_id": "asBFgAAAAABjXe/gMiOZSVvOqkdxZcmF",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+        "name": "ESCORPI\u00c3O",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
       },
       "artists": [
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 151413,
-      "name": "BOM E NOVO",
-      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
+      "duration_ms": 97392,
+      "name": "N\u00c3O ME COMPARE",
+      "url": "https://open.spotify.com/track/1bH2YTY7jfYrTrZKPpGJdb"
     },
     {
       "added_at": null,
@@ -319,38 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Rock 3",
-        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
       "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Young Ganni",
-          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 312240,
-      "name": "S\u00f3 Rock 3",
-      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
+      "duration_ms": 151413,
+      "name": "BOM E NOVO",
+      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
     },
     {
       "added_at": null,
@@ -407,6 +387,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Rock 3",
+        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "S\u00f3 Rock 3",
+      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCORPI\u00c3O",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 184074,
+      "name": "SOLIT\u00c1RIO",
+      "url": "https://open.spotify.com/track/5cf3Sks1fQy0SoksWCZcsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -435,22 +467,6 @@
       "duration_ms": 192194,
       "name": "ESS\u00caNCIA DE CRIA",
       "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESCORPI\u00c3O",
-        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "N\u00c3O ME COMPARE",
-      "url": "https://open.spotify.com/track/1bH2YTY7jfYrTrZKPpGJdb"
     },
     {
       "added_at": null,
@@ -523,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ESCORPI\u00c3O",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 183098,
+      "name": "ESCORPIANA",
+      "url": "https://open.spotify.com/track/3tRWZYAkdfqrH31vTPIXYP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -567,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCORPI\u00c3O",
-        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 184074,
-      "name": "SOLIT\u00c1RIO",
-      "url": "https://open.spotify.com/track/5cf3Sks1fQy0SoksWCZcsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAL\u00c1CIO DE LONA",
         "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
@@ -603,6 +619,22 @@
       "duration_ms": 189692,
       "name": "ELENCO FABULOSO",
       "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCORPI\u00c3O",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 166150,
+      "name": "PONTAS NO CINZEIRO",
+      "url": "https://open.spotify.com/track/6p025BLmxMpNPUMlc9xqKG"
     },
     {
       "added_at": null,
@@ -696,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 183098,
-      "name": "ESCORPIANA",
-      "url": "https://open.spotify.com/track/3tRWZYAkdfqrH31vTPIXYP"
+      "duration_ms": 144672,
+      "name": "O TRISTE FIM",
+      "url": "https://open.spotify.com/track/2U8Ew8fffAmz0JQESuB3vD"
     },
     {
       "added_at": null,
@@ -779,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ESCORPI\u00c3O",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 168390,
+      "name": "FALSO 9",
+      "url": "https://open.spotify.com/track/3d4S2UeRT6WcRTV26lmGB3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 17",
         "url": "https://open.spotify.com/album/12r1EaYmRBiavcIMmcwWPU"
       },
@@ -847,18 +895,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCORPI\u00c3O",
-        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
       "artists": [
         {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 166150,
-      "name": "PONTAS NO CINZEIRO",
-      "url": "https://open.spotify.com/track/6p025BLmxMpNPUMlc9xqKG"
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": null,
@@ -891,34 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAL\u00c1CIO DE LONA",
         "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
@@ -943,22 +975,6 @@
       "duration_ms": 266778,
       "name": "LOBO MAU",
       "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESCORPI\u00c3O",
-        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 144672,
-      "name": "O TRISTE FIM",
-      "url": "https://open.spotify.com/track/2U8Ew8fffAmz0JQESuB3vD"
     },
     {
       "added_at": null,
@@ -1063,22 +1079,6 @@
       "duration_ms": 183196,
       "name": "UM ERRO",
       "url": "https://open.spotify.com/track/5cDqPZ79hO8LujICezKQm0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESCORPI\u00c3O",
-        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 168390,
-      "name": "FALSO 9",
-      "url": "https://open.spotify.com/track/3d4S2UeRT6WcRTV26lmGB3"
     },
     {
       "added_at": null,

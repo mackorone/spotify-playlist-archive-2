@@ -7985,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "Kamienie",
+        "url": "https://open.spotify.com/album/7nNcz54gtf3haO9340N90P"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Kamienie",
+      "url": "https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
       },
@@ -10598,7 +10616,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
@@ -14402,7 +14420,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 189482,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5YeQDD9RYGJlZFJz3mDFmo"
@@ -19206,6 +19224,24 @@
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
+    },
+    {
+      "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,543 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,552 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 25 | [閣愛妳一擺](https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7) | 4:38 |
 | 26 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 |
 | 27 | [小半](https://open.spotify.com/track/3QxWTqyIT4O9bokIZlNDpo) | [陳粒](https://open.spotify.com/artist/3SyC3U06X0DjdWd2Jf6V8Q) | [小梦大半](https://open.spotify.com/album/7jXDJuL3KJ9N28rVjmuUrl) | 4:57 |
-| 28 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
+| 28 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
 | 29 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 |
-| 30 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 |
-| 31 | [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 |
+| 30 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
+| 31 | [LEMONADE](https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(NINGNING Special Version\)](https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi) | 3:07 |
 | 32 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 |
 | 33 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
 | 34 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
 | 35 | [愛 請問怎麼走](https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [天生歌姬](https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV) | 4:26 |
-| 36 | [數到十](https://open.spotify.com/track/6RN4rGtDTTx9orufM72pC4) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [下週同樣時間](https://open.spotify.com/album/5q6W70On4xxzLuYlKMHxTz) | 3:52 |
+| 36 | [Count to Ten](https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [Stay Tuned](https://open.spotify.com/album/1RQpLKsOBrEe71RYdQdsj9) | 3:52 |
 | 37 | [演员](https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初学者](https://open.spotify.com/album/6fxZNu6wYqd7GDCVsFOAcw) | 4:21 |
 | 38 | [巷仔口的風](https://open.spotify.com/track/7rIU6JBxZd4fReIE8lNOCY) | [Cat'sMelody](https://open.spotify.com/artist/121bVNANwJxwds68W90642) | [巷仔口的風](https://open.spotify.com/album/0gmh736n8Ugh4WzNeQ0Wag) | 3:52 |
 | 39 | [多遠都要在一起](https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 |
 | 50 | [雲](https://open.spotify.com/track/0cj6Wg1zGTTpbxXk4kcu9h) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:24 |
 
-Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlXT4AAAAAAAAAAAAAAAAAAAAAAAAGVu`

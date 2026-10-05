@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2773,
+  "num_followers": 2772,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+        "name": "Ghostface Killah",
+        "url": "https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
         }
       ],
-      "duration_ms": 256024,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
+      "duration_ms": 137620,
+      "name": "Ghostface Killah",
+      "url": "https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -63,22 +67,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Ghostface Killah",
-        "url": "https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut"
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
       },
       "artists": [
         {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
-        },
-        {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 137620,
-      "name": "Ghostface Killah",
-      "url": "https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF"
+      "duration_ms": 256024,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Me Without My Hometown",
-        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Me Without My Hometown",
-      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "REAL PROBLEMS",
         "url": "https://open.spotify.com/album/18AdfVQewytxSSuNQ3HmSa"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 152250,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/2K5Hbzw7Kwcsy4jQePskYZ"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Me Without My Hometown",
+        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Me Without My Hometown",
+      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 194444,
-      "name": "Versailles",
-      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 162911,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+      "duration_ms": 194444,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -367,6 +351,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Just Us In The Room",
         "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
       },
@@ -383,22 +383,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Kiss Me When I",
-        "url": "https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c"
+        "name": "How Do You Like Me Now",
+        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
       },
       "artists": [
         {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        },
-        {
-          "name": "Glenn Lewis",
-          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 230160,
-      "name": "Kiss Me When I",
-      "url": "https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq"
+      "duration_ms": 146000,
+      "name": "How Do You Like Me Now",
+      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -419,18 +415,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "How Do You Like Me Now",
-        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
+        "name": "Kiss Me When I",
+        "url": "https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
         }
       ],
-      "duration_ms": 146000,
-      "name": "How Do You Like Me Now",
-      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
+      "duration_ms": 230160,
+      "name": "Kiss Me When I",
+      "url": "https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -463,22 +463,6 @@
       "duration_ms": 168484,
       "name": "how about you",
       "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "BIBLE TEXTS",
-        "url": "https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "BIBLE TEXTS",
-      "url": "https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -519,18 +503,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "SIRENS",
-        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+        "name": "BIBLE TEXTS",
+        "url": "https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU"
       },
       "artists": [
         {
-          "name": "OAKK",
-          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
         }
       ],
-      "duration_ms": 158769,
-      "name": "SIRENS",
-      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
+      "duration_ms": 144039,
+      "name": "BIBLE TEXTS",
+      "url": "https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -547,6 +531,22 @@
       "duration_ms": 198000,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+      },
+      "artists": [
+        {
+          "name": "OAKK",
+          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 198549,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/5zOQmE12kFoBvhBeUGPj6P"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "duration_ms": 198549,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "cool",
         "url": "https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 222600,
       "name": "cool",
       "url": "https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
-      },
-      "artists": [
-        {
-          "name": "RUSSELL!",
-          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "ON THE ROCKS",
-      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -667,34 +651,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
       },
       "artists": [
         {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
         }
       ],
-      "duration_ms": 214336,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "Vanity Remix Mixtape",
-        "url": "https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Piercing",
-      "url": "https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl"
+      "duration_ms": 172268,
+      "name": "ON THE ROCKS",
+      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -715,6 +683,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "Vanity Remix Mixtape",
+        "url": "https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Piercing",
+      "url": "https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "4:44",
         "url": "https://open.spotify.com/album/73CQVp8JBQ4RnhOTL21TZf"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Play the Game",
-        "url": "https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya"
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
       },
       "artists": [
         {
-          "name": "Virgo Rising",
-          "url": "https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf"
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 268386,
-      "name": "Play the Game",
-      "url": "https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub"
+      "duration_ms": 214336,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Dolbeau-Mistassini",
-        "url": "https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0"
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya"
       },
       "artists": [
         {
-          "name": "Sara Dufour",
-          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+          "name": "Virgo Rising",
+          "url": "https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf"
         }
       ],
-      "duration_ms": 189905,
-      "name": "Quand",
-      "url": "https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl"
+      "duration_ms": 268386,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -799,6 +783,22 @@
       "duration_ms": 241159,
       "name": "I Want It Easy",
       "url": "https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Dolbeau-Mistassini",
+        "url": "https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "Quand",
+      "url": "https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl"
     },
     {
       "added_at": "2026-10-01 04:01:04",

@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox",
-  "num_followers": 796203,
+  "num_followers": 796308,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
+        "name": "Flesh Stays Together",
+        "url": "https://open.spotify.com/album/6cgf2mesmt2TVCBQqTxKtN"
+      },
+      "artists": [
+        {
+          "name": "Dying Wish",
+          "url": "https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "I'll Know You're Not Around",
+      "url": "https://open.spotify.com/track/2qcpeU7myeKa3dsz7Ext3R"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
         "name": "Kundalini",
         "url": "https://open.spotify.com/album/6DkgH5CJarjWJN0JMzKkzm"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 214274,
       "name": "Kundalini",
       "url": "https://open.spotify.com/track/0D3z7YrhFHbdahOjPbtByX"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
-        "name": "Flesh Stays Together",
-        "url": "https://open.spotify.com/album/6cgf2mesmt2TVCBQqTxKtN"
-      },
-      "artists": [
-        {
-          "name": "Dying Wish",
-          "url": "https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "I'll Know You're Not Around",
-      "url": "https://open.spotify.com/track/2qcpeU7myeKa3dsz7Ext3R"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Soma",
-        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
-      },
-      "artists": [
-        {
-          "name": "Eths",
-          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Crucif\u00e8re",
-      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "WORTHY",
         "url": "https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 222911,
       "name": "WORTHY",
       "url": "https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Soma",
+        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
+      },
+      "artists": [
+        {
+          "name": "Eths",
+          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Crucif\u00e8re",
+      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Throne Of Want",
-        "url": "https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 353500,
-      "name": "Throne Of Want",
-      "url": "https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Trickstereprocess",
         "url": "https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 260733,
       "name": "Taxicab Messiah",
       "url": "https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Throne Of Want",
+        "url": "https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 353500,
+      "name": "Throne Of Want",
+      "url": "https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Steelbound",
-        "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 266899,
-      "name": "Steelbound",
-      "url": "https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 266899,
+      "name": "Steelbound",
+      "url": "https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 275533,
       "name": "Year of the Rat",
       "url": "https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE"
-      },
-      "artists": [
-        {
-          "name": "Showing Teeth",
-          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1423,6 +1407,22 @@
       "duration_ms": 199819,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Thorn In My Side",
-        "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
-      },
-      "artists": [
-        {
-          "name": "Harper",
-          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
-        }
-      ],
-      "duration_ms": 225901,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Breathe You In",
         "url": "https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 220710,
       "name": "Breathe You In",
       "url": "https://open.spotify.com/track/680R0ratdk9o2M6nko18GG"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Thorn In My Side",
+        "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
     },
     {
       "added_at": "2026-04-27 18:28:08",

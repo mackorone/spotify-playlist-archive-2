@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 233888,
+  "num_followers": 233899,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
-      },
-      "artists": [
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Zeca Pagodinho",
         "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 203000,
       "name": "Spc",
       "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
+      },
+      "artists": [
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "A Voz Do Samba (Disco 03)",
-        "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
-      },
-      "artists": [
-        {
-          "name": "Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
-      "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "A Voz Do Samba (Disco 03)",
+        "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
+      },
+      "artists": [
+        {
+          "name": "Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
+      "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Tudo Azul",
         "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
       },
@@ -1087,6 +1087,26 @@
       "duration_ms": 220240,
       "name": "L\u00e1 Vem Voc\u00ea",
       "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -1175,26 +1195,6 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Cidade do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Mulheres - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
     },
     {
       "added_at": "2025-09-19 22:07:37",

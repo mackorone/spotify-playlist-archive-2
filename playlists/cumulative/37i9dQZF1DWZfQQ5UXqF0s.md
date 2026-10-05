@@ -4,7 +4,7 @@
 
 > ¡Nuestros amados 90 los recordamos así! Juan Gabriel en portada.
 
-153 songs - 10 hr 48 min
+154 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amiga Mía](https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:22 | 2021-09-07 | 2025-08-21 |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2021-09-07 | 2024-04-19 |
 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 | 2021-09-07 |  |
-| [Amor Eterno \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 7:08 | 2026-08-27 |  |
+| [Amor Eterno \- En el Palacio de Bellas Artes](https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 7:08 | 2026-08-27 |  |
 | [Amores de barra](https://open.spotify.com/track/2fa3F4PVj2GR5SbcIMI65Y) | [Ella Baila Sola](https://open.spotify.com/artist/6xvRfsmnwd0qcDUomtlmAt) | [Ella Baila Sola](https://open.spotify.com/album/7bxkE1uwNfUmBpDPyhHh2R) | 3:14 | 2021-09-07 | 2025-04-25 |
 | [Amores extraños](https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:15 | 2021-09-07 |  |
 | [Antología](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2021-09-07 |  |
@@ -109,7 +109,7 @@
 | [Mis Impulsos Sobre Ti](https://open.spotify.com/track/5ocsITJQXdhuEXH47v4CHH) | [Aleks Syntek y la Gente Normal](https://open.spotify.com/artist/6h76lOvPPDTEcwQPmUSxqg) | [89\-99](https://open.spotify.com/album/2V11wrGGMAohJgREkKntlJ) | 4:33 | 2026-08-27 |  |
 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 | 2021-09-07 |  |
 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 | 2021-09-07 | 2025-05-13 |
-| [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 | 2021-09-07 |  |
+| [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 | 2021-09-07 | 2026-10-05 |
 | [Mía](https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [El tiempo](https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5) | 3:31 | 2021-09-07 | 2023-07-19 |
 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 | 2021-09-07 |  |
 | [No Dejes Que...](https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:39 | 2021-09-07 |  |
@@ -154,6 +154,7 @@
 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2021-09-07 |  |
 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 | 2021-09-07 | 2024-04-19 |
 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 | 2021-09-07 | 2024-04-19 |
+| [Tú Necesitas](https://open.spotify.com/track/2RRNykB8lcVUwiNdBrkrQu) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [89\-99](https://open.spotify.com/album/2V11wrGGMAohJgREkKntlJ) | 5:00 | 2021-09-07 |  |
 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 | 2021-09-07 | 2025-12-07 |
 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 | 2021-09-07 |  |
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 | 2021-09-07 |  |

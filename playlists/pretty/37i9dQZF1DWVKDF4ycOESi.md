@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE, Geolier, Rkomi e Khodi, Tony Boy, Giorgia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,986 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,981 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

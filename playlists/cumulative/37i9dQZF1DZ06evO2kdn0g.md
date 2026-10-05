@@ -4,13 +4,14 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 15 min
+28 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2026-06-16 |  |
 | [Alone](https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:25 | 2026-06-16 |  |
-| [Art of War](https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:06 | 2026-06-16 |  |
+| [Art of War](https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:06 | 2026-10-05 |  |
+| [Art of War](https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:06 | 2026-06-16 | 2026-10-05 |
 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 | 2026-06-16 |  |
 | [Crisis Evasion](https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 2:34 | 2026-06-16 |  |
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2026-06-16 |  |

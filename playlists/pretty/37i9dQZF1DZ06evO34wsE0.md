@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,879 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,891 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 40 | [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/1uSIRVLHBseKIF2pu3y3Io) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:31 |
 | 41 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
 | 42 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
-| 43 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
+| 43 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 |
 | 44 | [Little Miss Twain \(feat\. Tanya Tucker\)](https://open.spotify.com/track/58F4PSTYKRRI79k5xhvkGf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 4:15 |
-| 45 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 |
+| 45 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
 | 46 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
 | 47 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 |
 | 48 | [Right Time](https://open.spotify.com/track/6CgLkhdNGckET8eJxLVRQ3) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:59 |
 | 49 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 | 50 | [I Ain't Goin' Down](https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:44 |
 
-Snapshot ID: `ar70AAAAAADMzdHHDfQULnt3mNIR1tLn`
+Snapshot ID: `asBFgAAAAAAisGCaw18XGyJE4LFocUQp`

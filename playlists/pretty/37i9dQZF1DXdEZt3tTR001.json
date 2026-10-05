@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 228409,
+  "num_followers": 228442,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdKgMYjnt3hwpsh/OfMyIeJ4sKr",
+  "snapshot_id": "AAAAAOZNvVS6GclDK+ZOkqy/puTCDyDO",
   "tracks": [
     {
       "added_at": "2026-09-25 18:45:46",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Juslisen",
         "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
         "name": "Age Ain't Nothing But A Number",
         "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 291400,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -603,6 +587,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "do i clench my fists?",
-        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
-      },
-      "artists": [
-        {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
-        }
-      ],
-      "duration_ms": 153275,
-      "name": "do i clench my fists?",
-      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 223729,
       "name": "One and the Same",
       "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "do i clench my fists?",
+        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "duration_ms": 153275,
+      "name": "do i clench my fists?",
+      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
         "name": "\"You hate Jazz?\"",
         "url": "https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 160000,
       "name": "\"You hate Jazz?\"",
       "url": "https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     }
   ],
   "unique_name": "floating",

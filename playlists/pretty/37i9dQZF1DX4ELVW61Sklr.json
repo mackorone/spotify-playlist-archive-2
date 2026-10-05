@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 234677,
+  "num_followers": 234672,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Litmas",
         "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 188889,
       "name": "Litmas",
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Christmas After Midnight",
         "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 263920,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Mrs Clause",
-        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
-      },
-      "artists": [
-        {
-          "name": "NYA",
-          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "Mrs Clause",
-      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Winter Loversland",
         "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 117231,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Mrs Clause",
+        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Mrs Clause",
+      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
       "added_at": "2025-12-09 03:51:54",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Here (For Christmas)",
-        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 253046,
-      "name": "Here (For Christmas)",
-      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+      "duration_ms": 165453,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y"
     },
     {
       "added_at": "2025-12-09 03:51:54",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
       },
       "artists": [
         {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
         }
       ],
-      "duration_ms": 165453,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y"
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Secret Santa",
-        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Secret Santa",
-      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Secret Santa",
+        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Secret Santa",
+      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Spend Christmas With You",
-        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Spend Christmas With You",
-      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Still Home For The Holidays",
         "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 275902,
       "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
       "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "This Holiday",
-        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+        "name": "This Holiday",
+        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
         }
       ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+      "duration_ms": 176786,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Someday At Christmas",
         "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 203434,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
         }
       ],
-      "duration_ms": 151600,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1699,22 +1715,6 @@
       "duration_ms": 213600,
       "name": "My Only Christmas Wish",
       "url": "https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2025-10-24 15:07:41",

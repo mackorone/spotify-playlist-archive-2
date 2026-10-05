@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA
 
-380 songs - 1 day 0 hr 6 min
+381 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Rotten](https://open.spotify.com/track/71rEtDE79i1izgY0PTZ0Q2) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Rotten](https://open.spotify.com/album/0rrZV0hiBZeH4Rs6oPOfsy) | 2:59 | 2023-12-27 | 2024-01-12 |
 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 | 2024-12-06 |  |
 | [Round Ere](https://open.spotify.com/track/1vmluV8Abi7RAiiLHju8dj) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [The Evolution](https://open.spotify.com/album/71hfzcYoW408jnXPATcRCI) | 4:34 | 2023-12-27 | 2024-01-12 |
-| [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 | 2025-11-14 |  |
+| [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 | 2025-11-14 | 2026-10-05 |
 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 | 2024-03-01 | 2026-02-28 |
 | [Rush](https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Rush](https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS) | 3:20 | 2026-04-09 | 2026-10-03 |
 | [Sanctuary VIP](https://open.spotify.com/track/0fJdziIm4sGAV4pqThU3Ae) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [Sanctuary VIP](https://open.spotify.com/album/7m1SLq0kriEjUJTitK4DOQ) | 3:25 | 2025-04-17 | 2025-05-28 |
@@ -364,6 +364,7 @@
 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 | 2022-05-06 | 2023-05-19 |
 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 | 2022-08-12 | 2024-03-22 |
 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 | 2022-05-06 | 2023-10-14 |
+| [USB](https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN) | [Born On Road](https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Carasel](https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f) | [USB](https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA) | 3:35 | 2026-10-02 |  |
 | [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 | 2025-09-04 |  |
 | [Veteran](https://open.spotify.com/track/45fTrhIQSf3zOAu7V2pj59) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Scorpio](https://open.spotify.com/album/0oyJcWkn51VTwcifZKHr2q) | 4:29 | 2023-12-27 | 2024-01-12 |
 | [Veteran \- Alix Perez Remix](https://open.spotify.com/track/5GRvEx0nSMYAcuNFfpQmSN) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Veteran \( Alix Perez Remix\)](https://open.spotify.com/album/4vuc1YHZX8PTzMGWLXUjMh) | 4:34 | 2023-12-27 | 2024-01-12 |

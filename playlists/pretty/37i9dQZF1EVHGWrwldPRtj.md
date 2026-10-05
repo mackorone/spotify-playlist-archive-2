@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIXO2BWVzsGss>Miguel</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXUlnZtDvV4s>Malcolm Todd</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIXO2BWVzsGss>Miguel</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
-| 2 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 1 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
+| 2 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 | 3 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
-| 4 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
-| 5 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 |
-| 6 | [Roommates](https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:34 |
+| 4 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 5 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
+| 6 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 |
 | 7 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 8 | [Microdose](https://open.spotify.com/track/2AFwAqheImJxyzIu8Dv0vE) | [Jackson Laird](https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i) | [Microdose](https://open.spotify.com/album/1Aj2q6fiNwFfyndgZ2JDR9) | 2:46 |
 | 9 | [Fell Again](https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf) | 2:41 |
@@ -34,29 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 24 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 |
 | 25 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 26 | [Sundays](https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:09 |
-| 27 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
-| 28 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
-| 29 | [The Race](https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Race](https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy) | 2:21 |
-| 30 | [Stevie Doesn't Wonder](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Stevie Doesn't Wonder](https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca) | 2:44 |
-| 31 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
-| 32 | [Mr\. Incorrect](https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:50 |
-| 33 | [Paper](https://open.spotify.com/track/4sFmzvart11BTqjMw87jEk) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Neurotica](https://open.spotify.com/album/0jQmX0M1Cj52iwlfwxhuNR) | 2:55 |
+| 27 | [Roommates](https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:34 |
+| 28 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 29 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
+| 30 | [The Race](https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Race](https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy) | 2:21 |
+| 31 | [Stevie Doesn't Wonder](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Stevie Doesn't Wonder](https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca) | 2:44 |
+| 32 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
+| 33 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
 | 34 | [Talk2Me](https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw) | [Jackson Laird](https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i) | [Talk2Me](https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP) | 3:07 |
-| 35 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 35 | [Paper](https://open.spotify.com/track/4sFmzvart11BTqjMw87jEk) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Neurotica](https://open.spotify.com/album/0jQmX0M1Cj52iwlfwxhuNR) | 2:55 |
 | 36 | [On & Off](https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq) | [marQ](https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC) | [On & Off](https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp) | 2:26 |
-| 37 | [Asleep Talking](https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:36 |
-| 38 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 37 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 38 | [Asleep Talking](https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:36 |
 | 39 | [feel the same](https://open.spotify.com/track/2Rbpm2V61xo6SkgwnILSl6) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [summer nights](https://open.spotify.com/album/3VVJVfnzpJyfETTK8PHxrf) | 2:11 |
 | 40 | [deja vu](https://open.spotify.com/track/7nqFGg6gPi3Fhegjb0bjw2) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [lose myself](https://open.spotify.com/album/2baeHgCBqo7H56FLRs8Uth) | 2:34 |
-| 41 | [TELL 'EM YOU'RE MINE](https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [HEAVEN SENT ME](https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW) | 2:38 |
-| 42 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
+| 41 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 42 | [TELL 'EM YOU'RE MINE](https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [HEAVEN SENT ME](https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW) | 2:38 |
 | 43 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
-| 44 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
-| 45 | [Stay For A While](https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:10 |
-| 46 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 |
-| 47 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 |
-| 48 | [Lost on You \- Live at Harvard and Stone](https://open.spotify.com/track/62PikS8HBJULVrhVHQcPiC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/2eHWERdVWjNEqtFNkaqr97) | 5:02 |
-| 49 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
-| 50 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
+| 44 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
+| 45 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
+| 46 | [Stay For A While](https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:10 |
+| 47 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 |
+| 48 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 |
+| 49 | [Lost on You \- Live at Harvard and Stone](https://open.spotify.com/track/62PikS8HBJULVrhVHQcPiC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/2eHWERdVWjNEqtFNkaqr97) | 5:02 |
+| 50 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 
 Snapshot ID: `AAAAAApJL5NTiwXVglHsO7NGyckj8QlW`

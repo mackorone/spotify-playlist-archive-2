@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,754 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,766 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 32 | [Bedrooms In The Sky \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:38 |
 | 33 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 |
 | 34 | [AIN'T A BAD DAY](https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:22 |
-| 35 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 |
-| 36 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
-| 37 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
+| 35 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
+| 36 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 |
+| 37 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
 | 38 | [Country Country](https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:58 |
 | 39 | [4X4](https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:42 |
 | 40 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
 | 50 | [Luckiest Man Alive](https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:59 |
 
-Snapshot ID: `ar70AAAAAABsUUzNKwVW++BU2hZGA23q`
+Snapshot ID: `asBFgAAAAAA1mCzvaej3CIhdATu9Nktp`

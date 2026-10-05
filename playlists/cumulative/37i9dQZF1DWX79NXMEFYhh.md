@@ -4,7 +4,7 @@
 
 > gusto ko lang naman ng kayakap
 
-171 songs - 10 hr 24 min
+172 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 | 2025-01-22 | 2025-07-22 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-10-18 | 2024-08-19 |
 | [Still\_In\_My\_Room](https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Still\_In\_My\_Room](https://open.spotify.com/album/2LHgjQDo74QcJbVQ4xKCMB) | 3:10 | 2026-02-02 | 2026-02-17 |
-| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 |  |
+| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 | 2026-10-05 |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-18 | 2025-07-22 |
 | [Sunsets With You](https://open.spotify.com/track/2VeGifKR8RbINCfWcRb5qH) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/7jqLuEgexemjXBbT1Q6oWf) | 4:13 | 2024-04-17 | 2024-08-19 |
 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 | 2023-10-18 | 2026-09-25 |
@@ -157,6 +157,7 @@
 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 | 2023-10-18 | 2025-07-22 |
 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 | 2024-01-10 |  |
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-05-23 | 2026-02-03 |
+| [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 | 2026-10-05 |  |
 | [Too Good to be Bad](https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Too Good to be Bad](https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t) | 2:52 | 2025-11-12 | 2025-12-02 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-10-18 | 2024-01-24 |
 | [Treading Water](https://open.spotify.com/track/74sBWCAGLMQv9tEGAn8aJO) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [Bamboo](https://open.spotify.com/artist/0c7d9V8rjfT6tzojfBfRf5) | [Treading Water](https://open.spotify.com/album/0vyYaFkP7vtUhy006O934u) | 4:28 | 2023-10-18 | 2024-05-09 |

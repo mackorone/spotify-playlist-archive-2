@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1151882,
+  "num_followers": 1152075,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABkjOIDr8gLr0jivYMgF58G",
+  "snapshot_id": "asBFgAAAAADekYFDuL4fPqV+gH62VTtA",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Supiste Que Te Esper\u00e9",
-        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 190774,
-      "name": "Nunca Supiste Que Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Supiste Que Te Esper\u00e9",
+        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 190774,
+      "name": "Nunca Supiste Que Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
     },
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos - En Vivo",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Segundas Partes",
-      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que un d\u00eda",
-        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Hasta Que un d\u00eda",
-      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161480,
       "name": "Ctrl + Z - En Vivo",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
     },
     {
       "added_at": null,

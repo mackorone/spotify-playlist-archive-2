@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 297 songs - 17 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 297 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 58 | [Missing Posters](https://open.spotify.com/track/2vi4H9Vxel6bj6MrE8CqJf) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 2:52 |
 | 59 | [Muted Beatings](https://open.spotify.com/track/2iLkTMUJ2MCsry5yYiafCg) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp) | 3:16 |
 | 60 | [Impossible Weight \- feat\. Sharon Van Etten](https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Impossible Weight](https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi) | 3:22 |
-| 61 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
-| 62 | [Common Decency](https://open.spotify.com/track/18G247pWqTuxmHbeSImB6T) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:03 |
+| 61 | [Common Decency](https://open.spotify.com/track/18G247pWqTuxmHbeSImB6T) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:03 |
+| 62 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
 | 63 | [Boom Boom Back](https://open.spotify.com/track/7F23DCedR78uUiAVbY3vG1) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:24 |
 | 64 | [Los Angeles](https://open.spotify.com/track/567IUuKvajZzMJPiLEzci4) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:42 |
 | 65 | [Girl Of My Dreams](https://open.spotify.com/track/6BYYyhZk9fJEWo8OcKxQB9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:32 |
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 229 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 |
 | 230 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
 | 231 | [The Hard Way](https://open.spotify.com/track/1z9bo6t4Cml4e4SN7yYSMZ) | [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [The Hard Way](https://open.spotify.com/album/5pASbfhqQxkXzdtOvJaA3R) | 3:11 |
-| 232 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 |
-| 233 | [Humours](https://open.spotify.com/track/3jUGDclkGpBuGHE8GR4UYb) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:53 |
+| 232 | [Humours](https://open.spotify.com/track/3jUGDclkGpBuGHE8GR4UYb) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:53 |
+| 233 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 |
 | 234 | [Changes](https://open.spotify.com/track/2GM6Ru5A11mm9hS8mXPWCS) | [Sam Johnson](https://open.spotify.com/artist/4FePLXv9OD4k0vOfZLBn43) | [Changes](https://open.spotify.com/album/4XUzTI1B64yofW2gjB8mAW) | 3:23 |
 | 235 | [Big Machine](https://open.spotify.com/track/4gaZ7aJlE8K72GN78k8bUs) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/7sU12uxGC8Zi7cmqHPCiMJ) | 3:57 |
 | 236 | [Deeds Not Words](https://open.spotify.com/track/5cqaJArTBB5RUtfEjZf6ks) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Kirstie Skivington](https://open.spotify.com/artist/4Hs5DxFq2PIHZwenZINJBX), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 3:47 |
@@ -306,4 +306,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 296 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 297 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `Acd/OgAAAACFJ5FZeCXI+bn28f9Ew6jf`
+Snapshot ID: `AceE2gAAAAAfBSnBTyMvzlGBZOs6vdaZ`

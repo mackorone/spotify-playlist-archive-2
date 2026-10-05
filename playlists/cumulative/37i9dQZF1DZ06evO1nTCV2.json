@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 180840,
       "name": "Pretenders",
       "url": "https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv"
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 318586,
       "name": "The Shadowlands",
       "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
@@ -5460,6 +5460,24 @@
       "duration_ms": 275373,
       "name": "Wild Flowers",
       "url": "https://open.spotify.com/track/5mDL6etyGhUBkuKSBc7iux"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275373,
+      "name": "Wild Flowers",
+      "url": "https://open.spotify.com/track/6C5ASolSnEXGNVy9YF85zA"
     },
     {
       "album": {

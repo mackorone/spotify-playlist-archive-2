@@ -4,7 +4,7 @@
 
 > 
 
-2,461 songs - 5 day 12 hr 13 min
+2,462 songs - 5 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Caraphernelia](https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:28 | 2023-02-22 |  |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-08-05 |  |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2021-08-05 |  |
+| [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 | 2026-10-05 |  |
 | [Carousel](https://open.spotify.com/track/5nHTLEJ10zaqdnKqLriah4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:50 | 2021-08-05 |  |
 | [Carrollton](https://open.spotify.com/track/2XSrt1dcuOXPgl3B4bxmBz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 3:23 | 2021-08-05 |  |
 | [Casanova \- Friday Night Funkin': Selever Mod Original Soundtrack](https://open.spotify.com/track/6IlMvV8qlHCcB57Z8saXJu) | [Mike Geno](https://open.spotify.com/artist/1KWaAy4Snr2cOmU9gYRY7E) | [Casanova \- Friday Night Funkin': Selever Mod Original Soundtrack](https://open.spotify.com/album/14yuNmpPtq9kkxWktDWF0I) | 2:50 | 2021-11-30 |  |

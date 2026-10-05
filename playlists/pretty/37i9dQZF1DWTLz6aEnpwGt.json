@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 74653,
+  "num_followers": 74673,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJE3QmOsXIdiJROClVbQQl9l/d91",
+  "snapshot_id": "AAAAAN5ANr3XOfvBGSG9hztMLxIxO9EX",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:37",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach: Choral \"Herr unser Herrscher\" from Johannes-Passion",
+        "url": "https://open.spotify.com/album/0EsxGEFgKrnsvHwbzJWJ3G"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "Bach, JS: Johannes-Passion, BWV 245, Pt. 1: No. 1, Chor. \"Herr unser Herrscher\" (Transcr. Tharaud for Piano)",
+      "url": "https://open.spotify.com/track/5ZVL5r6EqwWay1Rc2GlWOX"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach: Choral \"Herr unser Herrscher\" from Johannes-Passion",
-        "url": "https://open.spotify.com/album/0EsxGEFgKrnsvHwbzJWJ3G"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "Bach, JS: Johannes-Passion, BWV 245, Pt. 1: No. 1, Chor. \"Herr unser Herrscher\" (Transcr. Tharaud for Piano)",
-      "url": "https://open.spotify.com/track/5ZVL5r6EqwWay1Rc2GlWOX"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2026-09-25 04:01:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,489 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,499 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 4 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
 | 5 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 6 | [Hang Loose](https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:24 |
-| 7 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
+| 7 | [Garden](https://open.spotify.com/track/6G7FXaaVK74VLH8G0gswZD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:59 |
 | 8 | [This Feeling](https://open.spotify.com/track/3KUEwttAC1vwVx8EmDR2qY) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/3q6QbjJGKQpDXT6XDZij6Y) | 4:28 |
 | 9 | [Killer Diller Blues \- Music from The American Epic Sessions](https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Killer Diller Blues \(Music from The American Epic Sessions\)](https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN) | 2:12 |
 | 10 | [I Found You](https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:59 |
-| 11 | [Garden](https://open.spotify.com/track/6G7FXaaVK74VLH8G0gswZD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:59 |
+| 11 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
 | 12 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 |
 | 13 | [Joe \- Live From Austin City Limits](https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Joe \(Live From Austin City Limits\)](https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ) | 3:31 |
 | 14 | [I Ain't The Same](https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:55 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 24 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 | 25 | [Heavy Chevy](https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Heavy Chevy](https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp) | 2:26 |
 
-Snapshot ID: `ar70AAAAAADt0xVAMt2JIJEruY45e4IM`
+Snapshot ID: `asBFgAAAAAD3F5qdtuvTrIXY9tuVulWR`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-674 songs - 1 day 17 hr 30 min
+675 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 | 2026-01-21 |
 | [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 | 2026-06-09 | 2026-08-08 |
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 | 2025-12-12 |
+| [Auntie Emma](https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Auntie Emma](https://open.spotify.com/album/50EX9qCftb1U3d1PshCKkQ) | 2:56 | 2026-10-04 |  |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 | 2026-03-04 |
 | [Baby Face](https://open.spotify.com/track/3bRmQElmc3Pk37dcGOdlp3) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:30 | 2026-05-15 | 2026-06-13 |

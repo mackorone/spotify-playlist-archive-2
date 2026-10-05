@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,512 likes - 162 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,511 likes - 162 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 36 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
 | 37 | [Paradise](https://open.spotify.com/track/6fOOKqQWcSy33ApU1wqkkW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:54 |
 | 38 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
-| 39 | [Lonely](https://open.spotify.com/track/3zxLNqZoSbSr8V5emGDIU4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 4:41 |
-| 40 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 |
+| 39 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 |
+| 40 | [Lonely](https://open.spotify.com/track/3zxLNqZoSbSr8V5emGDIU4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 4:41 |
 | 41 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
 | 42 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz) | 3:13 |
 | 43 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 144 | [Never Let Us Fade ft\. Cam](https://open.spotify.com/track/11PE2uYRZJLvJFnRETVKT5) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 3:43 |
 | 145 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
 | 146 | [The Calling](https://open.spotify.com/track/46Fy5SFlRgziwsV98Iupt3) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:48 |
-| 147 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
-| 148 | [Crazy, Baby](https://open.spotify.com/track/3LPXTxwzZ2opv1jRUjWous) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 2:25 |
+| 147 | [Crazy, Baby](https://open.spotify.com/track/3LPXTxwzZ2opv1jRUjWous) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 2:25 |
+| 148 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
 | 149 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
 | 150 | [Give You Everything](https://open.spotify.com/track/5yUbwHjzlYFmZc4t9slPwp) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 3:23 |
 | 151 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 161 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 162 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `Acd/bAAAAAB7apKCL0g4C0t3aIzWKQl6`
+Snapshot ID: `AceE0AAAAADok0oo/jk/qBDHbfMf2zvJ`

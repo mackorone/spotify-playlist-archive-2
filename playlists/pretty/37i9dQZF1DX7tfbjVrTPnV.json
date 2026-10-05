@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 240373,
+  "num_followers": 240428,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 255826,
       "name": "Killing the Blues",
       "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 242875,
       "name": "The Other Side Of Blue",
       "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Look What the Cat Drug In",
+        "url": "https://open.spotify.com/album/5UJQYneuqPNCDbtYl734ey"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 163939,
+      "name": "Look What the Cat Drug In",
+      "url": "https://open.spotify.com/track/4O3rtAR2Xh2iQUP3GJ3SjL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Alcohol and Adderall",
         "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Look What the Cat Drug In",
-        "url": "https://open.spotify.com/album/5UJQYneuqPNCDbtYl734ey"
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
       },
       "artists": [
         {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
         }
       ],
-      "duration_ms": 163939,
-      "name": "Look What the Cat Drug In",
-      "url": "https://open.spotify.com/track/4O3rtAR2Xh2iQUP3GJ3SjL"
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -839,22 +855,6 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Mr. Lincoln",
         "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
       },
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Deportee / Oval Room",
-        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Memphis Mariachi",
-          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
-      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Deportee / Oval Room",
+        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Memphis Mariachi",
+          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
+      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+      },
+      "artists": [
+        {
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "The Essential Guy Clark",
         "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 215338,
       "name": "The Easy Kind (feat. Wynonna)",
       "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
-      },
-      "artists": [
-        {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Strangers Here",
+        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "duration_ms": 267648,
+      "name": "Strangers Here",
+      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Don\u2019t Look Back",
         "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 210540,
       "name": "Don\u2019t Look Back",
       "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Strangers Here",
-        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 267648,
-      "name": "Strangers Here",
-      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 176232,
       "name": "Letting People Down",
       "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Broken Radio '22",
         "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 221852,
       "name": "Broken Radio '22",
       "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 284710,
-      "name": "American Midnight",
-      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 313857,
       "name": "Place in My Heart",
       "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 284710,
+      "name": "American Midnight",
+      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 256026,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 234213,
       "name": "16 Days",
       "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "added_at": "2026-10-02 04:01:37",

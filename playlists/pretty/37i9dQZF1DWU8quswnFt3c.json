@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume with Ditonellapiaga from Italy.",
-  "num_followers": 1024611,
+  "num_followers": 1024594,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2026-09-18 04:00:43",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
     },
     {
       "added_at": "2026-09-18 04:00:43",
@@ -339,18 +335,22 @@
     {
       "added_at": "2026-09-18 04:00:43",
       "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "added_at": "2026-09-18 04:00:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-18 04:00:43",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 252185,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
-    },
-    {
-      "added_at": "2026-09-18 04:00:43",
-      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
-    },
-    {
-      "added_at": "2026-09-18 04:00:43",
-      "album": {
-        "name": "\u966a\u4f60\u5230\u9019",
-        "url": "https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "\u966a\u4f60\u5230\u9019",
-      "url": "https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt"
     },
     {
       "added_at": "2026-09-18 04:00:43",
@@ -807,6 +775,38 @@
       "duration_ms": 271586,
       "name": "Hungamaa Ho Gaya",
       "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
+    },
+    {
+      "added_at": "2026-09-18 04:00:43",
+      "album": {
+        "name": "\u966a\u4f60\u5230\u9019",
+        "url": "https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "\u966a\u4f60\u5230\u9019",
+      "url": "https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt"
+    },
+    {
+      "added_at": "2026-09-18 04:00:43",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 252185,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
     },
     {
       "added_at": "2026-09-18 04:00:43",

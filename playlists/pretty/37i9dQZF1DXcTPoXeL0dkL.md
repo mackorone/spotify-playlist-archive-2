@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,379 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,426 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 52 | [Te Sorprenderás](https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:48 |
 | 53 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 |
 | 54 | [Muero por Verla](https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6) | [Luis Mateus, David Rendon Y La Nueva Generacion](https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN) | [Historia Musical de Luis Mateus y la Nueva Generación](https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP) | 4:38 |
-| 55 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
+| 55 | [No Te Detengas](https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
 | 56 | [Acompañame](https://open.spotify.com/track/29z3uOfSJKyM4JnXHtptX5) | [Fabian Corrales](https://open.spotify.com/artist/0c59rGZvvhTT89vbLMiiM6) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:19 |
 | 57 | [Adiós Amor](https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW) | [Grandes Éxitos \- Luis Mateus y David Rendón](https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU) | 4:19 |
 | 58 | [Te Necesito](https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Diomedes Diaz, La Ventana Marroncita y 15 Éxitos Más!](https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV) | 4:35 |
 | 59 | [Sólo para Ti](https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:48 |
-| 60 | [No Te Detengas](https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
+| 60 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
 
 Snapshot ID: `AAAAAHSxYSK3MCfYLGwb0cXvBSY2CuyU`

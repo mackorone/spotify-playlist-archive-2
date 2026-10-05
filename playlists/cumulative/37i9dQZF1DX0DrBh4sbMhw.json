@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 236533,
       "name": "Backburner",
       "url": "https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 218456,
       "name": "Dahan-Dahan",
       "url": "https://open.spotify.com/track/5YEnJAZB34SWAx54Pfg5jo"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 288157,
       "name": "Direksyon",
       "url": "https://open.spotify.com/track/2lPxUC7iAFPSeFAW0wcue9"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "indie film",
+        "url": "https://open.spotify.com/album/2WaRhRnmNjOwUZ9fw1tvAk"
+      },
+      "artists": [
+        {
+          "name": "Minimal Days",
+          "url": "https://open.spotify.com/artist/7xW7KeDiKDjmh2BWwqRsPh"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "indie film",
+      "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
+    },
+    {
+      "album": {
         "name": "alone tonight",
         "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
       },
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 288000,
       "name": "Into Sunsets",
       "url": "https://open.spotify.com/track/45N0YzlkCqoVRFQ4ctzTTJ"
@@ -2956,6 +2974,24 @@
       "duration_ms": 201058,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "album": {
+        "name": "IS THIS THE END?",
+        "url": "https://open.spotify.com/album/2BxFMC2ff2UDEsK7rcJOr9"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "IS THIS THE END?",
+      "url": "https://open.spotify.com/track/6DroHr4E3vTuRGJhPpqb9F"
     },
     {
       "album": {
@@ -2992,6 +3028,24 @@
       "duration_ms": 265182,
       "name": "Isip",
       "url": "https://open.spotify.com/track/2yvs8IrjxD0Qtiz4qw27rp"
+    },
+    {
+      "album": {
+        "name": "Isip",
+        "url": "https://open.spotify.com/album/2IcIRs9fPtAWSJKjgrMExw"
+      },
+      "artists": [
+        {
+          "name": "polaris.",
+          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Isip",
+      "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
     },
     {
       "album": {
@@ -3053,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Kalendaryo",
+        "url": "https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84"
+      },
+      "artists": [
+        {
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "Kalendaryo",
+      "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
+    },
+    {
+      "album": {
         "name": "Kanta kay Ella",
         "url": "https://open.spotify.com/album/0tyTDNen4dgk3lcmsmiiyF"
       },
@@ -3071,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Kapag Kapiling Ka",
+        "url": "https://open.spotify.com/album/5i8Wc6tWNTuVpDvxpr0DBk"
+      },
+      "artists": [
+        {
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Kapag Kapiling Ka",
+      "url": "https://open.spotify.com/track/7oZqo2Ix1BrI9IYik02tfo"
+    },
+    {
+      "album": {
         "name": "Kariktan",
         "url": "https://open.spotify.com/album/60W6UEWKfXw9RY7SwnmxXs"
       },
@@ -3082,7 +3172,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 207777,
       "name": "Kariktan",
       "url": "https://open.spotify.com/track/2gCReTH06zKzBnxYVypIpB"
@@ -3970,10 +4060,28 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 192315,
       "name": "My Favorite Notif",
       "url": "https://open.spotify.com/track/5XndcBTDPWVDc11EkHkS1L"
+    },
+    {
+      "album": {
+        "name": "My First Time",
+        "url": "https://open.spotify.com/album/7CjKtY2iqbhFHpfE993MxP"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222191,
+      "name": "My First Time",
+      "url": "https://open.spotify.com/track/41eSXYnHiAkD7PKCprJDsa"
     },
     {
       "album": {
@@ -4010,6 +4118,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "Na Para Bang",
+        "url": "https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228131,
+      "name": "Na Para Bang",
+      "url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ"
     },
     {
       "album": {
@@ -4683,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Paulit-Ulit",
         "url": "https://open.spotify.com/album/7yXlTArosfiPAL3RFdumAd"
       },
@@ -4778,6 +4922,24 @@
       "duration_ms": 160603,
       "name": "perfect blues",
       "url": "https://open.spotify.com/track/0b5EKv77RtqF8JU64u1Q1Y"
+    },
+    {
+      "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
     },
     {
       "album": {
@@ -5034,7 +5196,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -5522,7 +5684,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -5943,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "Tenchu",
+        "url": "https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362821,
+      "name": "Tenchu",
+      "url": "https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -6052,7 +6232,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
@@ -6752,6 +6932,24 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
     },
     {
       "album": {

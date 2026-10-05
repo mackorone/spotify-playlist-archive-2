@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 106480,
       "name": "Darling",
       "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
@@ -2070,6 +2070,24 @@
       "duration_ms": 187466,
       "name": "Das allerletzte Mal",
       "url": "https://open.spotify.com/track/0QCqpJMIFxBXwJ7uVPx48T"
+    },
+    {
+      "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Das geht ab - Wir feiern die ganze Nacht",
+      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 195 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 195 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 129 | [NON MI MANCHI MAI \(A VOLTE\)](https://open.spotify.com/track/2VKWX2NR9IJ1nSnd82bN8O) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:56 |
 | 130 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 |
 | 131 | [Tarassaco e Lacrime Artificiali \(feat\. EDONiCO\)](https://open.spotify.com/track/1S86ppiA4TsDgTJW8Rt1IE) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:14 |
-| 132 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 |
-| 133 | [ko follia](https://open.spotify.com/track/2aUm2CWgU1y90FBiz4GVlH) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:07 |
+| 132 | [ko follia](https://open.spotify.com/track/2aUm2CWgU1y90FBiz4GVlH) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:07 |
+| 133 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 |
 | 134 | [GONNA v5](https://open.spotify.com/track/4CZjgU3YPOiSOqhCIupbhC) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:20 |
 | 135 | [A/B \(feat.Sethu\)](https://open.spotify.com/track/3wRZDe4gLGqqJhUFkQ2zEV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:30 |
 | 136 | [Disobbedisco](https://open.spotify.com/track/4GvkPq3xIcX1UoAVMjGJVG) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Disobbedisco](https://open.spotify.com/album/4yhNHgYzSssaWqzRCgacgM) | 1:46 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 194 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 195 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `Acd/TgAAAAD6wd+6dXbaLtKRZjOkcnBO`
+Snapshot ID: `AceE7gAAAAAC9v7fnFyHeyNeg+o/04RY`

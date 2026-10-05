@@ -4793,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "Elton John Las Mejores",
+        "url": "https://open.spotify.com/album/2y6Q324cFeyQJCphWNURTR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/0kBixIAijQYhGONLFZazln"
+    },
+    {
+      "album": {
         "name": "Gnomeo and Juliet (Mexico Version)",
         "url": "https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 224826,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/5uHJ4XmAc4OPIxaPq6IBfz"
@@ -8442,7 +8460,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
@@ -10803,6 +10821,24 @@
     },
     {
       "album": {
+        "name": "Elton John Las Mejores",
+        "url": "https://open.spotify.com/album/2y6Q324cFeyQJCphWNURTR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Something About The Way You Look Tonight - Edit Version",
+      "url": "https://open.spotify.com/track/04ghSaynupTwYKE6CDsNei"
+    },
+    {
+      "album": {
         "name": "Candle In The Wind 1997 / Something About ...",
         "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
       },
@@ -10814,7 +10850,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 240546,
       "name": "Something About The Way You Look Tonight - Edit Version",
       "url": "https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da"

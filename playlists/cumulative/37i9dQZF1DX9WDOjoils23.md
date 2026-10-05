@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-122 songs - 14 hr 7 min
+123 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 | 2025-05-13 |  |
 | [Imtehan \(From "Shayar"\)](https://open.spotify.com/track/3yAGKvxeSklXAkfvm9ArdJ) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Gag Studioz](https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3) | [Imtehan \(From "Shayar"\)](https://open.spotify.com/album/4MpMjGViVxxeHpqjVHP4bo) | 6:05 | 2025-05-13 | 2026-02-21 |
 | [Ishq](https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 3:40 | 2023-02-15 | 2024-04-19 |
-| [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 | 2023-12-18 |  |
+| [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 | 2023-12-18 | 2026-10-05 |
 | [Ja Ve Pardesia](https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 5:45 | 2023-02-15 | 2026-05-30 |
 | [Jaach Mainu Aa Gai Gham Khaan Di](https://open.spotify.com/track/62Ckk14Mj0mBzlNoYP5ibH) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Dil Wala Dukhra](https://open.spotify.com/album/4BTUY0hbGetctoTH6N2F2G) | 3:20 | 2025-05-13 | 2025-07-04 |
 | [Jaan Kadh Layee Aa Beimana](https://open.spotify.com/track/02x9Iqu6YKsYIdqVjChg9x) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 4:25 | 2024-04-24 | 2024-07-11 |
@@ -74,6 +74,7 @@
 | [Kyon Rukha Rukha Bolna](https://open.spotify.com/track/4cBkTMciTLDqKmwVLTIccP) | [Shaukat Ali](https://open.spotify.com/artist/5BPicaWEOTTLJXrUCTtSWq) | [Has Bol Ve](https://open.spotify.com/album/5R7s3zRWle2nkoeGYq6wXe) | 5:02 | 2025-02-01 | 2025-05-14 |
 | [Lag Gaye Nain Awarey](https://open.spotify.com/track/4jxr7cQ61h1ojNxHJhx9ho) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 10:12 | 2024-04-24 | 2025-07-12 |
 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 | 2023-02-15 | 2025-05-14 |
+| [Mahi Milade](https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Shehnaz Akhtar](https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi), [Sam Malik](https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD) | [Mahi Milade](https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx) | 4:13 | 2026-10-01 |  |
 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash G](https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 | 2025-05-28 |  |
 | [Mainda Ishq](https://open.spotify.com/track/1ZJkw6snt1ZLNHYQKEGufx) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Maye Ni Maye, Vol\. 1 & 2](https://open.spotify.com/album/4aN0vkJ7ZRQYycv6ITdZTs) | 5:15 | 2025-05-13 | 2025-10-05 |
 | [Mehnat Chaddni Nai](https://open.spotify.com/track/4Gst6dYO5i1evE2ObChH3t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Liberation](https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz) | 7:25 | 2026-01-23 | 2026-03-26 |

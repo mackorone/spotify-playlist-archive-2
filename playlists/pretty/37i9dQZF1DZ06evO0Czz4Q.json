@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 140756,
+  "num_followers": 140777,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABt+TVvbtuzp92OQHiLoDb4",
+  "snapshot_id": "asBFgAAAAACs3KM1YIJWf/LBlHSsekIq",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
-      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -403,42 +387,6 @@
       "duration_ms": 297879,
       "name": "Sugar and Spice (I Found Me a Girl)",
       "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 385506,
-      "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
-      "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 282880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
     },
     {
       "added_at": null,
@@ -463,8 +411,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Luther Vandross The Best of Love",
-        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
+      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 282880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
       "artists": [
         {
@@ -472,13 +452,13 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         },
         {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 323960,
-      "name": "If This World Were Mine (with Luther Vandross)",
-      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
+      "duration_ms": 385506,
+      "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
+      "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
     },
     {
       "added_at": null,
@@ -499,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+        "name": "The Best of Luther Vandross The Best of Love",
+        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
       "artists": [
         {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 304666,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
+      "duration_ms": 323960,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 386638,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
     },
     {
       "added_at": null,

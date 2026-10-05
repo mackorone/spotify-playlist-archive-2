@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,092 likes - 115 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,163 likes - 115 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 114 | [Levitation](https://open.spotify.com/track/4OHaLKyhzBJwat8hB470hX) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Levitation](https://open.spotify.com/album/2Yg2szk9E5XvCHRuIjTN1X) | 2:37 |
 | 115 | [In The Moment](https://open.spotify.com/track/437FIW0oKOXLvWAGDoJ3Kc) | [Zenquility](https://open.spotify.com/artist/1QsxKmlCO5ObKipgWJIMAY) | [In The Moment](https://open.spotify.com/album/5AcXML06rnISORVwuv2HNp) | 2:48 |
 
-Snapshot ID: `AAAAANaJvcXuAMLmN7urnHNDlhxwemjB`
+Snapshot ID: `AAAAAJRWwGDOWaIa2FRl6S3vj7Yuw1cb`

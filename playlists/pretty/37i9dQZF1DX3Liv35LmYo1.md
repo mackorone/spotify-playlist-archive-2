@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,483 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,485 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 2 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
 | 3 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
-| 4 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
-| 5 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
+| 4 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
+| 5 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 6 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 7 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
 | 8 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 31 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
 | 32 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
 | 33 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 |
-| 34 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
-| 35 | [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 |
+| 34 | [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 |
+| 35 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
 | 36 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 |
-| 37 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
-| 38 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 39 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
+| 37 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
+| 38 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
+| 39 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 40 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |
 | 41 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
 | 42 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 44 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 45 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
 | 46 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 |
-| 47 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
+| 47 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
 | 48 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
-| 49 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
-| 50 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
+| 49 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
+| 50 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 
 Snapshot ID: `AAAAADT0Tjs7xKcz232fBnaG0MfUI7Kl`

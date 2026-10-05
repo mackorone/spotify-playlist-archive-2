@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Curol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,043 likes - 82 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,034 likes - 82 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

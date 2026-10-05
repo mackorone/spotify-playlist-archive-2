@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 385818,
+  "num_followers": 385815,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAD7h7XZ2Tn11+qTzIhjCMVR",
+  "snapshot_id": "asBFgAAAAACISnqq129PsWOj3M4E1eOX",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 123970,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IND\u00d3MITA",
         "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 193360,
       "name": "JACKPOT",
       "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 123970,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 162981,
       "name": "A\u00f1o Sab\u00e1tico",
       "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boy! (feat. Kenia OS)",
         "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "Cambios",
-      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 236288,
       "name": "Kenia Roast Yourself",
       "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 163403,
+      "name": "Cambios",
+      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
     },
     {
       "added_at": null,

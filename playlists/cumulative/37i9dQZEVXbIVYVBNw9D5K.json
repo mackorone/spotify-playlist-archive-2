@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 264312,
       "name": "A\u015fk\u0131n Beni Ba\u015ftan Yazar - A.B.B.Y.",
       "url": "https://open.spotify.com/track/7FlPrQB6Bd8ioCGQDFQBJg"
@@ -13008,7 +13008,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 278689,
       "name": "G\u00fcn A\u011fard\u0131",
       "url": "https://open.spotify.com/track/7KglDqFffEIOzF1mkx1N0o"
@@ -19880,7 +19880,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 152678,
       "name": "Mahalleler",
       "url": "https://open.spotify.com/track/62sdF5BIMtzpc3DU4CgfU1"
@@ -22979,6 +22979,24 @@
     },
     {
       "album": {
+        "name": "Oy Dedim",
+        "url": "https://open.spotify.com/album/0yrlNleOICb3BNDQRut8eB"
+      },
+      "artists": [
+        {
+          "name": "Onur Atmaca",
+          "url": "https://open.spotify.com/artist/2wlyVkL3KJmboFNEsUP5dB"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209553,
+      "name": "Oy Dedim",
+      "url": "https://open.spotify.com/track/5oS6MhVXXQ0bdoumQJw2US"
+    },
+    {
+      "album": {
         "name": "Oynar",
         "url": "https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm"
       },
@@ -25810,7 +25828,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 265994,
       "name": "Selam",
       "url": "https://open.spotify.com/track/5ujFCaNhNEWlM9TERC0FXm"
@@ -26398,6 +26416,36 @@
       "duration_ms": 210767,
       "name": "Senle Zor",
       "url": "https://open.spotify.com/track/2PC5fdz0Ee2pEZYHddrvSv"
+    },
+    {
+      "album": {
+        "name": "Senle Zor",
+        "url": "https://open.spotify.com/album/348U7OhbFyAYElUV8dpX35"
+      },
+      "artists": [
+        {
+          "name": "Metukan",
+          "url": "https://open.spotify.com/artist/3SdGkpzAA98IJUf7dwd8TD"
+        },
+        {
+          "name": "arda75",
+          "url": "https://open.spotify.com/artist/0bu19UipmuM7aPldum9k7W"
+        },
+        {
+          "name": "Arda INC.",
+          "url": "https://open.spotify.com/artist/73RtPejuNQFxFbrBgFNWnd"
+        },
+        {
+          "name": "Bazarov",
+          "url": "https://open.spotify.com/artist/0evA2KDiYSLE51jqiBxMFY"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "Senle Zor",
+      "url": "https://open.spotify.com/track/1PjdpUtdQda1SYil0sUhaq"
     },
     {
       "album": {

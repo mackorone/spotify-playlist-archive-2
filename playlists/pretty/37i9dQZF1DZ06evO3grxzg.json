@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233644,
+  "num_followers": 233629,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAARZcrgSFk1TYchE28V978I",
+  "snapshot_id": "asBFgAAAAACRt1OVbilCUp6PQmSs3gYT",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Princesas: Canciones de las Princesas",
-        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
-      "url": "https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Y El Dandee: Fiesta",
         "url": "https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 174026,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney Princesas: Canciones de las Princesas",
+        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
+      "url": "https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "Poperos Latinos Vol. 5",
+        "url": "https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Late Mi Coraz\u00f3n - Version Pop",
-      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Mar\u00eda Belem",
-      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
+      "duration_ms": 242906,
+      "name": "Late Mi Coraz\u00f3n - Version Pop",
+      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Mar\u00eda Belem",
+      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Romper La Pi\u00f1ata",
         "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 165613,
       "name": "Pablo Y Andrea",
       "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poperos Latinos Vol. 5",
-        "url": "https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ"
     },
     {
       "added_at": null,
@@ -875,6 +875,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fresh Finds Hits",
+        "url": "https://open.spotify.com/album/2gtSd14b8h4A6M0llkdG87"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 197550,
+      "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
+      "url": "https://open.spotify.com/track/5I9V9CKa0czqhqiySv8L0S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Romper La Pi\u00f1ata",
         "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
@@ -887,22 +911,6 @@
       "duration_ms": 208133,
       "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Ilarie",
-      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
     },
     {
       "added_at": null,
@@ -931,26 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Finds Hits",
-        "url": "https://open.spotify.com/album/2gtSd14b8h4A6M0llkdG87"
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
       "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 197550,
-      "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
-      "url": "https://open.spotify.com/track/5I9V9CKa0czqhqiySv8L0S"
+      "duration_ms": 229666,
+      "name": "Ilarie",
+      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
     }
   ],
   "unique_name": "This Is Danna Paola",

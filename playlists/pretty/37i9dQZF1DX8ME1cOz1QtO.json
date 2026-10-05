@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 125561,
+  "num_followers": 125579,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Desert Vision",
         "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 210600,
       "name": "Desert Rain",
       "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 382026,
+      "name": "Zen Garden of the Soul Part III - IV",
+      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 261906,
       "name": "Sunrise in the Third System",
       "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 382026,
-      "name": "Zen Garden of the Soul Part III - IV",
-      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
-      },
-      "artists": [
-        {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 672226,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Glide/Star Gazer",
         "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 505733,
       "name": "Glide III",
       "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Aum",
         "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 116440,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
     },
     {
       "added_at": "2023-08-18 14:02:54",

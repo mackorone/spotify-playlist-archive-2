@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,850 songs - 10 day 23 hr 1 min
+4,854 songs - 10 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Brilliant night](https://open.spotify.com/track/0UOSRYX770k308UCVhkquL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Heavy brillant pop](https://open.spotify.com/album/3Ffd6mJbfnguMhtnsmwebe) | 2:20 | 2025-09-17 |  |
 | [Bring it on](https://open.spotify.com/track/4gIBFS289S6hWPJ1Qi6M34) | [Djmcmurdo](https://open.spotify.com/artist/4Hjnt3RcljIPgATZKkdb2L) | [Bring it on](https://open.spotify.com/album/39Sdx5qLkY5nMZweGvQw9Q) | 2:55 | 2025-04-26 |  |
 | [Bring Me To Life](https://open.spotify.com/track/7zk7HMt6uwycBGKE3eslGO) | [BETHEL](https://open.spotify.com/artist/293nwwNqRa9eUynzHZ93om) | [Bring Me To Life](https://open.spotify.com/album/3KRERjbRpnkTCO2n65B2rG) | 4:36 | 2025-11-07 |  |
+| [Bring Your Love Back](https://open.spotify.com/track/6Xo4ctpvfZLP86LGWW7lqo) | [Jeffrey Bo Charles](https://open.spotify.com/artist/20TfmujUZ2RDH6RolTMtHF) | [Bring Your Love Back](https://open.spotify.com/album/7jYLY6zSZa8ZViS9sbylKt) | 3:59 | 2026-10-04 |  |
 | [Brisa \- Remix](https://open.spotify.com/track/2PHWTnjqM164aoggvhvR05) | [Pokenzo](https://open.spotify.com/artist/2AghPeTSphA59qaxYjaFLR), [ZakeoMUSIC](https://open.spotify.com/artist/0n5KZNNgwFO66Kdq7BfqWr), [Peiro](https://open.spotify.com/artist/0U6CXcvTWoI0KH77dlVHk7), [Enzo Calvo\-Rayo Coronado](https://open.spotify.com/artist/6CdfmbYdYFyo5GguHyAaX5) | [Brisa \(Remix\)](https://open.spotify.com/album/32bjx01F4ET0z9GnauOI3F) | 2:03 | 2026-05-03 |  |
 | [Brisa de mañana](https://open.spotify.com/track/5bG2E3rHNSzSS4IXBbCkvt) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 3:08 | 2026-04-12 |  |
 | [Broken Algorithm](https://open.spotify.com/track/5nNRvV2tU7tY75LEmmwAdf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 2:45 | 2025-09-19 |  |
@@ -1533,7 +1534,7 @@
 | [Fanfara 1° Funky Reggimento](https://open.spotify.com/track/1vzuMKsy5WDOVaNi7u0SAk) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 2:47 | 2025-06-20 |  |
 | [Fangs](https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ) | [Straight](https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2) | [Fangs](https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ) | 3:11 | 2026-02-17 |  |
 | [Fangs of the Serpent](https://open.spotify.com/track/4nKr96uyR3aFL5R3NsucWe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:39 | 2025-09-17 |  |
-| [Fantasmi Fantasiosi](https://open.spotify.com/track/0Jm3L5dWh7ZS1SmLPoQOCt) | [Karlo e Maria](https://open.spotify.com/artist/2ZuCvhJTEa87UhJY5o43Al) | [Il Primo Respiro](https://open.spotify.com/album/0QoqdePhMMxu23dmVXgy7g) | 2:52 | 2025-09-26 |  |
+| [Fantasmi Fantasiosi](https://open.spotify.com/track/0Jm3L5dWh7ZS1SmLPoQOCt) | [Karlo e Maria](https://open.spotify.com/artist/2ZuCvhJTEa87UhJY5o43Al) | [Il Primo Respiro](https://open.spotify.com/album/0QoqdePhMMxu23dmVXgy7g) | 2:52 | 2025-09-26 | 2026-10-05 |
 | [Far Away](https://open.spotify.com/track/6Z3Xxm2BGsVDCMZLdccXyL) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Akorlee](https://open.spotify.com/artist/0hOXhNIdpN54uJYShinc3v) | [Far Away](https://open.spotify.com/album/5uwd1qBXnEFnCi5Oas6ZAM) | 3:04 | 2025-06-04 |  |
 | [Far Done \(with You\)](https://open.spotify.com/track/4zLIRnSMiSOGgwTYeJ5Lre) | [Jenny Alson](https://open.spotify.com/artist/5DZQRa3zLtTRlEv2hfTDDR) | [Far Done \(with You\)](https://open.spotify.com/album/3FFNLjnBU8JTQp3SkROS61) | 2:42 | 2025-10-14 |  |
 | [Fare niente](https://open.spotify.com/track/4PylYBWQ5yF5JVV2kSNSnn) | [LATLETA](https://open.spotify.com/artist/2dupSU3huHKivDrB6cDYW9) | [Fare niente](https://open.spotify.com/album/0QfDkSXX4jAYMz54b31zcV) | 3:51 | 2025-07-30 |  |
@@ -2353,6 +2354,7 @@
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 | 2026-03-06 |  |
 | [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
+| [Let It Bleed](https://open.spotify.com/track/0cBiwdu8dD69h2UweTcH59) | [Tony Ray Pace](https://open.spotify.com/artist/190f4z8As3hYZggN6JiHd4) | [Let It Bleed](https://open.spotify.com/album/35CImHdxIif3BJWXA4zzJl) | 4:34 | 2026-10-04 |  |
 | [let me go](https://open.spotify.com/track/4c2x6SuZiLrJrjEJ4CgNaK) | [Jilon](https://open.spotify.com/artist/0rOB5CmsbAyJa46xty6taM) | [SHOCKED](https://open.spotify.com/album/3kCJuru15qWICnIe32vhbp) | 2:34 | 2026-09-28 |  |
 | [Let Me See The Fire](https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Let Me See The Fire](https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy) | 3:12 | 2026-09-18 |  |
 | [Let me try again](https://open.spotify.com/track/0xjCRP1uRfxXICjXoDmteU) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [Let me try again](https://open.spotify.com/album/42eSRFYwg1HeSiXpVeGySr) | 3:26 | 2025-04-02 |  |
@@ -3501,6 +3503,7 @@
 | [RUNAROUND](https://open.spotify.com/track/7vIeWjMRYqgkJZBalVs6Dj) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [TuffLuckKid](https://open.spotify.com/artist/35Z9ISGpsxeonwsS63zNVN) | [RUNAROUND](https://open.spotify.com/album/1Oui1eGT7UEc8D3IMoLSfh) | 2:00 | 2025-07-28 |  |
 | [Runaway](https://open.spotify.com/track/12P912FtE9X2dWtZkhhs9z) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Runaway](https://open.spotify.com/album/6uN8P6tJ391RjfL1g7qaLi) | 2:26 | 2025-05-27 |  |
 | [S!CK](https://open.spotify.com/track/4Qx7qGQz8sBVqE4KO51K4E) | [Hard To Explain](https://open.spotify.com/artist/6EpUs8izUSLSCIz8Zs9OIW) | [S!CK](https://open.spotify.com/album/4Z50iuSCQWXBucN4Z7n1G3) | 2:59 | 2025-03-03 |  |
+| [Sacred Lies](https://open.spotify.com/track/1BN0vvQPUxQo0JWqZnISue) | [SuckerTrap](https://open.spotify.com/artist/23D0LIpYPJxkQ9Kt85pBhl) | [Sacred Lies](https://open.spotify.com/album/1ZArM0WylCsaXpQ8VsELlz) | 4:26 | 2026-10-04 |  |
 | [Sad Forever Tonight](https://open.spotify.com/track/0vG18XJuYbbDkpozqyVkmz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:04 | 2025-09-19 |  |
 | [Sad Girl](https://open.spotify.com/track/1hm2F2ZeC48scfZnFoJswg) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Sad Girl](https://open.spotify.com/album/6laiiyu0gaNm3YL9eC9HF5) | 3:55 | 2025-06-04 |  |
 | [SAD!](https://open.spotify.com/track/6s5P0hX86ml031Kld7gxcV) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [SAD!](https://open.spotify.com/album/0kugS8PQcSzjvz8QY2oTe7) | 2:35 | 2025-12-18 |  |
@@ -3682,7 +3685,7 @@
 | [Si tú no estás](https://open.spotify.com/track/4dQOggX7CIcZSTNtvIR3WY) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:35 | 2026-03-15 |  |
 | [Sia quel che sia](https://open.spotify.com/track/7klJkBA2fEIcE5OyXbxmUf) | [the Vinyle](https://open.spotify.com/artist/1eoKOmSS7FJFjJWFPACcod) | [Superstar](https://open.spotify.com/album/3d2aZLErCQOg56Ql8raaKP) | 4:15 | 2026-02-13 |  |
 | [Siamo Diversi](https://open.spotify.com/track/6akK3bQ2pbXlzICPPw1gEa) | [NoFake](https://open.spotify.com/artist/6xMViEatODJaPVD2oj4Z2N) | [Siamo Diversi](https://open.spotify.com/album/2IcQkeFMK9yFpAGukPNbGf) | 2:29 | 2025-06-25 |  |
-| [Siamo la cura](https://open.spotify.com/track/64eIrIz4Lv2j5fCQ3mvOJY) | [DESÈ](https://open.spotify.com/artist/5ZGM7ZcrSoxIYIv7fPxyZt) | [Siamo la cura](https://open.spotify.com/album/2lQCaP88QVPtsODn39SQzc) | 2:33 | 2025-06-18 |  |
+| [Siamo la cura](https://open.spotify.com/track/64eIrIz4Lv2j5fCQ3mvOJY) | [Luce](https://open.spotify.com/artist/6mfosE9RmLsAAoTIkr7iJt) | [Siamo la cura](https://open.spotify.com/album/2lQCaP88QVPtsODn39SQzc) | 2:33 | 2025-06-18 |  |
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-05-09 |  |
 | [Siamo quello che postiamo?](https://open.spotify.com/track/6ZyP0OD71JUNHInVGoQhJ9) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 3:06 | 2025-06-08 |  |
 | [Siberia](https://open.spotify.com/track/2jBae23d8t309GMkhKrbp9) | [Diaframma](https://open.spotify.com/artist/7Ij7JYPkWzIf5OOuLwD87L) | [Siberia](https://open.spotify.com/album/4O7mAOBRADlo1G9JDsXtmR) | 3:32 | 2025-11-12 |  |
@@ -4189,6 +4192,7 @@
 | [The J\-curve](https://open.spotify.com/track/6DxAV7dvKUKMHONC3V4TTt) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [The J\-curve](https://open.spotify.com/album/1FUIqQy7lviyKPFEfesG9X) | 3:24 | 2025-01-22 |  |
 | [The Labyrinth in My Mind](https://open.spotify.com/track/0MC3fHpR5cFBVoM9YdzECx) | [ian3celia](https://open.spotify.com/artist/30022KpFyikBjT2dvQ1dHU) | [From dolmen to stonehenge](https://open.spotify.com/album/2DWREFYzrdkMdMLHtmeSpf) | 3:04 | 2026-02-01 |  |
 | [The Last Night](https://open.spotify.com/track/2rYjXQKCHoLGJvEht2G3WI) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [The Last Night](https://open.spotify.com/album/1wu4OJmotIMK41tytsqYjt) | 2:07 | 2025-07-30 |  |
+| [The Loudest Cry](https://open.spotify.com/track/5kAO7qQNE2B4VqXqMGoxFC) | [Fabian Engelhardt Suno AI Music](https://open.spotify.com/artist/4QraHGMu9reMvbQFUzpi7T), [Suno AI Music](https://open.spotify.com/artist/08QF0s09VdFPjKDTYaJviE) | [Between Moments & People](https://open.spotify.com/album/4nuNxooAoPlY1P9AsQ6M7D) | 3:42 | 2026-10-04 |  |
 | [The Machine](https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [The Machine](https://open.spotify.com/album/33W5jxMfOpoU5wVnabJc88) | 4:20 | 2025-06-24 |  |
 | [The Man From The Future](https://open.spotify.com/track/7p65nQleos3WPKv8QDz874) | [Bad Profile](https://open.spotify.com/artist/5c43PH7EfMfeClZuUTqWIr) | [The Man From The Future](https://open.spotify.com/album/6dLHgNSzzSW09uzLRouSyh) | 4:51 | 2026-09-25 |  |
 | [The Manner \- Radio Edit](https://open.spotify.com/track/5mQ5DH4DNGIZVewsYWx1m0) | [Andrew Kyo](https://open.spotify.com/artist/5MvGQrQKlFh9s2yj4EQpy6) | [The Manner \(Radio Edit\)](https://open.spotify.com/album/1tWiNiFBR4hniuK2GO39bv) | 2:36 | 2026-01-16 |  |

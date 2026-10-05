@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 9375,
+  "num_followers": 9387,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACxcie8u8s+rbiYAK7xWZWe",
+  "snapshot_id": "asBFgAAAAADjyZuQgl2FWSjsC8O56dY8",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
       "duration_ms": 217490,
       "name": "SINVERG\u00dcENZA - con Angela Torres",
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 de agosto",
-        "url": "https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 192064,
-      "name": "21 de agosto",
-      "url": "https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S"
     },
     {
       "added_at": null,
@@ -143,6 +127,22 @@
       "duration_ms": 217546,
       "name": "Color Esperanza 2020",
       "url": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 de agosto",
+        "url": "https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 192064,
+      "name": "21 de agosto",
+      "url": "https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S"
     },
     {
       "added_at": null,

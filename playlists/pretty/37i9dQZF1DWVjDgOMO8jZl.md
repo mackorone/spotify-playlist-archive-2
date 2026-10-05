@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 prima stanza a destra e Angelica Bove in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,783 likes - 18 songs - 54 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,789 likes - 18 songs - 54 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 17 | [ti amo](https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [ti amo](https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps) | 2:18 |
 | 18 | [Maschio](https://open.spotify.com/track/5oEyFVow0cL7hOXseDTcPn) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Kalimera](https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF) | 2:24 |
 
-Snapshot ID: `AAAAADsSV2tkBReZVdKZBuoGJoyveBhi`
+Snapshot ID: `AAAAAE2V+x0BJ4+E426JuCTl5G+kNw4o`

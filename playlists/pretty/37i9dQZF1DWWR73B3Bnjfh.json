@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 337274,
+  "num_followers": 337477,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 320800,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2026-07-02 07:20:14",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
         "name": "The Boss Is Back!",
         "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
         "name": "Blue And Sentimental (Remastered)",
         "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 448866,
       "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
     },
     {
       "added_at": "2026-07-02 07:20:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 473666,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 297880,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 473666,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": "2026-07-02 07:20:14",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
     },
     {
       "added_at": "2026-07-02 07:20:14",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2026-07-02 07:20:14",
       "album": {
+        "name": "The Standard Joe",
+        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        },
+        {
+          "name": "Al Foster",
+          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
+        },
+        {
+          "name": "Rufus Reid",
+          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
+    },
+    {
+      "added_at": "2026-07-02 07:20:14",
+      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -1055,30 +1079,6 @@
       "duration_ms": 578960,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
-    },
-    {
-      "added_at": "2026-07-02 07:20:14",
-      "album": {
-        "name": "The Standard Joe",
-        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        },
-        {
-          "name": "Al Foster",
-          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
-        },
-        {
-          "name": "Rufus Reid",
-          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
     },
     {
       "added_at": "2026-07-02 07:20:14",

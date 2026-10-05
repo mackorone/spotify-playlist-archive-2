@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADEq7ednXPDtB/KLsArgPx9",
+  "snapshot_id": "asBFgAAAAACnI6tHz0hqgvJHpRGOfGn9",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 163027,
-      "name": "fairy godmother",
-      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
+      "duration_ms": 161890,
+      "name": "D8",
+      "url": "https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 161890,
-      "name": "D8",
-      "url": "https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd"
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
     },
     {
       "added_at": null,
@@ -451,6 +451,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KAWASAKI (with Felip & th\u1ee7y)",
+        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "KAWASAKI (with Felip & th\u1ee7y)",
+      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -463,22 +487,6 @@
       "duration_ms": 197474,
       "name": "don't miss me too much",
       "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mood ring",
-        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "mood ring",
-      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
     },
     {
       "added_at": null,
@@ -515,32 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAWASAKI (with Felip & th\u1ee7y)",
-        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Felip",
-          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "KAWASAKI (with Felip & th\u1ee7y)",
-      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "mood ring",
+        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+      "duration_ms": 176123,
+      "name": "mood ring",
+      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "day dream",
         "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 210909,
       "name": "day dream",
       "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 192396,
       "name": "Sweetest Nothings",
       "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,814 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,092 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 7 | [Country Boy's Dream Girl](https://open.spotify.com/track/5eVuVYp9OyD9dm6Wcyb5nr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:05 |
 | 8 | [girl you're taking home](https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:04 |
 | 9 | [I Can't Love You Anymore](https://open.spotify.com/track/61rwYQu9An4QWrcCUyFUyq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dandelion](https://open.spotify.com/album/14l4mGBY4BJYi5TNJk9kV6) | 3:48 |
-| 10 | [paint the town blue](https://open.spotify.com/track/3hlnEAM64xfug9i81hwPB7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:05 |
-| 11 | [Jaded \(feat\. Ella Langley\)](https://open.spotify.com/track/0j7cf4wWPAvvvLPbCA6nBC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [The Night Champion](https://open.spotify.com/album/6KL0RD0DeUK2nwjpOzBdPm) | 3:05 |
+| 10 | [Jaded \(feat\. Ella Langley\)](https://open.spotify.com/track/0j7cf4wWPAvvvLPbCA6nBC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [The Night Champion](https://open.spotify.com/album/6KL0RD0DeUK2nwjpOzBdPm) | 3:05 |
+| 11 | [paint the town blue](https://open.spotify.com/track/3hlnEAM64xfug9i81hwPB7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:05 |
 | 12 | [Excuse The Mess](https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
 | 13 | [Bottom Of Your Boots](https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:19 |
 | 14 | [20\-20](https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:15 |
@@ -43,6 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 33 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 |
 | 34 | [made it out of mexico \- acoustic](https://open.spotify.com/track/5quvD61yko8VdSh5Q0hrA6) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:10 |
 | 35 | [Here For The Party \(feat\. Ella Langley\)](https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Here For The Party \(feat\. Ella Langley\)](https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY) | 3:30 |
-| 36 | [cowgirl don't cry \- acoustic](https://open.spotify.com/track/3RhlRWYDgXqfQAH0VKLb2s) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:07 |
+| 36 | [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 |
+| 37 | [cowgirl don't cry \- acoustic](https://open.spotify.com/track/3RhlRWYDgXqfQAH0VKLb2s) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:07 |
 
-Snapshot ID: `ar70AAAAAAClqGtQWuD90LnFcKkTTRbf`
+Snapshot ID: `asBFgAAAAABUPgeXEXiOccboq60gCiXu`

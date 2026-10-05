@@ -4,11 +4,12 @@
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 36 min
+89 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["El Negus" Haile Selassie](https://open.spotify.com/track/3TBU1kNkWN5RhGDXGg2zAl) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:30 | 2025-10-01 | 2025-10-02 |
+| [1993...](https://open.spotify.com/track/0xvDIhiCH1ACsMNhdnnonP) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Tres Veces Tres](https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS) | 4:02 | 2026-10-05 |  |
 | [90 Segundos](https://open.spotify.com/track/2kvS30EB4EeyQanB2QLAgW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Josh Waters Rudge \(The Skints\)](https://open.spotify.com/artist/5T9oGhMm2OEvzJmNBMVqXQ) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 2:34 | 2025-09-30 | 2025-10-05 |
 | [A Todos los Rumberos](https://open.spotify.com/track/2QAwnJ1GBB9MVrKUzd88q0) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos los Rumberos](https://open.spotify.com/album/69M76iFB13orBTuymkmh4M) | 4:31 | 2023-12-13 | 2025-05-16 |
 | [A Todos los Rumberos](https://open.spotify.com/track/5hIDmYCrX2be6ZolvvItJe) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 4:31 | 2025-08-23 | 2025-10-31 |
@@ -40,7 +41,7 @@
 | [El Lado Oscuro](https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:59 | 2023-01-14 |  |
 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 | 2023-01-14 |  |
 | [Es Tan Poco el Tiempo](https://open.spotify.com/track/0vVub8zvVEpxRn3q1D7qaM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:44 | 2023-01-14 | 2024-04-03 |
-| [Espejo](https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:24 | 2025-09-29 |  |
+| [Espejo](https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:24 | 2025-09-29 | 2026-10-05 |
 | [Esta Noche](https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:26 | 2023-01-14 |  |
 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 | 2026-02-01 |  |
 | [Estrella Roja \- En Vivo](https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 3:39 | 2023-01-14 | 2026-02-01 |

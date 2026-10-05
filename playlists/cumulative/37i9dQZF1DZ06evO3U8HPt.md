@@ -4,7 +4,7 @@
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 1 min
+55 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [nicotine](https://open.spotify.com/track/47CCJxLcvIB8KS7lZxXDDN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:36 | 2025-06-15 |  |
 | [paint the town blue](https://open.spotify.com/track/3hlnEAM64xfug9i81hwPB7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:05 | 2025-06-15 |  |
 | [people change](https://open.spotify.com/track/2x3ilJIp5c8KtZW03lThQX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:22 | 2025-06-15 | 2026-01-15 |
+| [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 | 2026-10-05 |  |
 | [Somethin' Simple](https://open.spotify.com/track/20JeURYv42W2DxiRraVdjJ) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:27 | 2026-04-12 | 2026-05-02 |
 | [Strangers](https://open.spotify.com/track/1maZDh7a04ixruZ36q2kha) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 3:32 | 2025-06-15 |  |
 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:43 | 2025-06-15 |  |

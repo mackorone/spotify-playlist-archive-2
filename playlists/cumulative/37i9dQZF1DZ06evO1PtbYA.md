@@ -4,7 +4,7 @@
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 17 min
+70 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2025-07-12 | 2026-01-15 |
 | [Happiness ​\(f​eat​\. Asake, Gunna​\)](https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:54 | 2026-01-15 |  |
 | [I Believe](https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:25 | 2026-07-20 |  |
+| [IKEBE 3000](https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [IKEBE 3000](https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL) | 3:17 | 2026-10-05 |  |
 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 | 2026-01-25 |  |
 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-01-18 |  |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2025-07-12 |  |

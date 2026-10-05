@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 43493,
+  "num_followers": 43499,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAz8UUpXbHNs0iijPWb04Oi",
+  "snapshot_id": "asBFgAAAAACOsPfR1z4DK005PG3gwpSQ",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 483454,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 483454,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 372266,
       "name": "Empty Pockets - Remastered 2007",
       "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
       "duration_ms": 422454,
       "name": "Gentle Thoughts",
       "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 336721,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blow-Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 336721,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 621121,
       "name": "Sly",
       "url": "https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Man-Child",
-        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 449423,
-      "name": "Hang Up Your Hang Ups",
-      "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
     },
     {
       "added_at": null,
@@ -503,6 +487,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 349160,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man-Child",
+        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 449423,
+      "name": "Hang Up Your Hang Ups",
+      "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -515,6 +535,38 @@
       "duration_ms": 549376,
       "name": "Vein Melter",
       "url": "https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Tempo de Amor",
+      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
     },
     {
       "added_at": null,
@@ -555,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -578,31 +614,11 @@
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 349160,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Tempo de Amor",
-      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
+      "duration_ms": 356160,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 581715,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 424560,
       "name": "Stars in Your Eyes",
       "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 581715,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 677893,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 440600,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 440600,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+      "duration_ms": 603213,
+      "name": "Survival Of The Fittest - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 293493,
       "name": "My Funny Valentine (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 603213,
-      "name": "Survival Of The Fittest - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

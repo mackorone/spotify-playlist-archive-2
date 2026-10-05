@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 105224,
+  "num_followers": 105247,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACN+96v8XM4ovROmaP8w79g",
+  "snapshot_id": "asBFgAAAAACfBkgXZlg6gzuOjdP+wgkB",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 200717,
-      "name": "Nooit Meer Regen",
-      "url": "https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gedeeld Door Ons",
-        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
       "artists": [
         {
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 207548,
-      "name": "Mag Ik Daar Even Stil Bij Staan",
-      "url": "https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW"
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2"
     },
     {
       "added_at": null,
@@ -471,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+        "name": "Gedeeld Door Ons",
+        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
       "artists": [
         {
@@ -480,9 +464,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 176396,
-      "name": "Iemand Van Vroeger",
-      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
+      "duration_ms": 207548,
+      "name": "Mag Ik Daar Even Stil Bij Staan",
+      "url": "https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 211550,
       "name": "'t Geeft Niet",
       "url": "https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 176396,
+      "name": "Iemand Van Vroeger",
+      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Zinloos",
-      "url": "https://open.spotify.com/track/0dgmDxjOPwf3bZCDPGIuI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171237,
       "name": "Straks Is Het Te Laat",
       "url": "https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Zinloos",
+      "url": "https://open.spotify.com/track/0dgmDxjOPwf3bZCDPGIuI9"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glass House Sessions",
-        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 218028,
       "name": "Lampedusa",
       "url": "https://open.spotify.com/track/6inAiQLdh6IVzBBrAGaO1I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glass House Sessions",
+        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 162768,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
     },
     {
       "added_at": null,

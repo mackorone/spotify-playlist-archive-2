@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-134 songs - 12 hr 24 min
+135 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 | 2022-09-14 | 2024-07-12 |
 | [Daily Bread](https://open.spotify.com/track/6XpAJgHhWlS58Ys7WNoIRh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 6:13 | 2025-08-02 | 2025-09-21 |
 | [Do It Anyway](https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Do It Anyway](https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx) | 2:57 | 2024-05-12 | 2025-08-17 |
-| [Do It Anyway](https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:57 | 2025-08-17 |  |
+| [Do It Anyway](https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:57 | 2025-08-17 | 2026-10-05 |
 | [Dove's Eyes](https://open.spotify.com/track/4f8lj0jCAZER8viV2tBOUj) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 4:09 | 2023-02-05 | 2024-07-19 |
 | [Even Now \- Live From Chattanooga, TN](https://open.spotify.com/track/0xqCBAV9BUgALBjIiKF5wo) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Cry: A Live Worship Experience \(Live From Chattanooga, TN\)](https://open.spotify.com/album/6atcqlJMI3v8UrHzNStcB0) | 8:08 | 2026-01-21 | 2026-01-29 |
 | [Even Now \- Live From Chattanooga, TN](https://open.spotify.com/track/57gQF5VCsMoR9PjdUd59WS) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 8:08 | 2022-09-14 | 2025-03-10 |
@@ -53,6 +53,7 @@
 | [Great God](https://open.spotify.com/track/3T4vKVM0DV6bJbArofpU0b) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 4:23 | 2022-09-14 | 2024-05-14 |
 | [Great I Am \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 9:12 | 2024-08-08 |  |
 | [Hallelujah \(You Get The Glory\) \- Live](https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 2:44 | 2022-09-14 | 2026-02-14 |
+| [Happy \(Reprise\) / You've Been So Faithful](https://open.spotify.com/track/0SgsZ6wy5YvV9dEO6707BP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Enrique Holmes](https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly) | [Tasha Unscripted](https://open.spotify.com/album/6L1U8qma9G36efdBtGja86) | 3:22 | 2026-10-05 |  |
 | [Happy \- Live](https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:18 | 2022-09-14 |  |
 | [Happy / Without You](https://open.spotify.com/track/2BSGCuYb275hRAqK9Sl5Wg) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Enrique Holmes](https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly) | [Tasha Unscripted](https://open.spotify.com/album/6L1U8qma9G36efdBtGja86) | 6:09 | 2026-09-30 |  |
 | [He Is Lord \- Live](https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 3:36 | 2022-09-14 | 2026-07-16 |

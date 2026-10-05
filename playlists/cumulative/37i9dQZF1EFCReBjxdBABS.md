@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-136 songs - 7 hr 24 min
+137 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Sunday Best](https://open.spotify.com/track/12CtaDcyRjpz9HfGBFeErk) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best](https://open.spotify.com/album/6GPRbMc5ogNnLeMabLsyYM) | 2:47 | 2026-01-14 |  |
 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 | 2026-01-14 |  |
 | [taylor did](https://open.spotify.com/track/6Cx68IbqamOsYnfxLh1WLX) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:36 | 2026-01-14 |  |
+| [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 | 2026-10-04 |  |
 | [That's You](https://open.spotify.com/track/2szGXPcHEyElm9GCL8NP6J) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [That's You](https://open.spotify.com/album/3U7EtcuzL2mqr61AgQqsuy) | 3:24 | 2026-01-14 |  |
 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 | 2026-01-14 |  |
 | [The Goal](https://open.spotify.com/track/4P7rS04aNt7MWwvOpoQF7c) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 | 2026-01-14 |  |

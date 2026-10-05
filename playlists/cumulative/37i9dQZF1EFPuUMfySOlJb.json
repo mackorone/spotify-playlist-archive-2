@@ -530,6 +530,24 @@
     {
       "album": {
         "name": "THERMAL USA",
+        "url": "https://open.spotify.com/album/4Nart5xB3FKJj2xiGkUCNL"
+      },
+      "artists": [
+        {
+          "name": "DrownMili",
+          "url": "https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99150,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/0fXaCPwS7rcWUpq9XvHHNf"
+    },
+    {
+      "album": {
+        "name": "THERMAL USA",
         "url": "https://open.spotify.com/album/23LtEO3qlV6e39pmS5RYuL"
       },
       "artists": [
@@ -540,7 +558,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 99150,
       "name": "Pilots",
       "url": "https://open.spotify.com/track/6NkBqyuboalFLRRjAj60av"

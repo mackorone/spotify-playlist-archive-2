@@ -1738,10 +1738,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
+    },
+    {
+      "album": {
+        "name": "The Decca Singles, Vol. 1",
+        "url": "https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185004,
+      "name": "Nobody's Fault But Mine",
+      "url": "https://open.spotify.com/track/7nKe7J9c1ogcEOEfBDrIFJ"
     },
     {
       "album": {

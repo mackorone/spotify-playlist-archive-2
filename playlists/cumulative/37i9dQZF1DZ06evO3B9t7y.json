@@ -828,10 +828,28 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 165542,
       "name": "Doliendo Bastante",
       "url": "https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0"
+    },
+    {
+      "album": {
+        "name": "Live From Japan",
+        "url": "https://open.spotify.com/album/3ifXLJNgEjwzoOXWGv7oPF"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Doliendo Bastante - Live From Japan",
+      "url": "https://open.spotify.com/track/3cHJ4wvxLRoxbmRiaxFIwj"
     },
     {
       "album": {

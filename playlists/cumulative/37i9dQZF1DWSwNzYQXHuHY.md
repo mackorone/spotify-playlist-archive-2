@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-371 songs - 20 hr 18 min
+372 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [as if I’d be crazy enough](https://open.spotify.com/track/4rYzZhwwSALvfiejz5ykT7) | [Ivory](https://open.spotify.com/artist/2ph5aVRX58oaGMWNid2P1p), [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [as if I’d be crazy enough](https://open.spotify.com/album/0WpMxmeW18dcWQwHLESPSy) | 3:00 | 2025-09-03 | 2025-10-01 |
 | [At the Cinema](https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 3:50 | 2022-05-11 | 2022-07-22 |
 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 | 2025-02-10 |  |
-| [banana milk](https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv), [AVN](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [banana milk](https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY) | 2:40 | 2026-07-03 |  |
+| [banana milk](https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv), [AVN](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [banana milk](https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY) | 2:40 | 2026-07-03 | 2026-10-05 |
 | [Bashfulness](https://open.spotify.com/track/65xSudQzn6jM0QRXcSMcXU) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [bright \#4](https://open.spotify.com/album/39B1ZrREuZZ1U0W70xFUAh) | 3:25 | 2025-02-10 | 2025-11-07 |
 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 | 2024-05-14 | 2024-07-08 |
 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 | 2023-07-07 | 2026-07-04 |
@@ -118,6 +118,7 @@
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-05-11 |  |
 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2025-10-15 |  |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2024-03-09 |
+| [hamster wheel](https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [hamster wheel](https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ) | 2:49 | 2026-09-18 |  |
 | [Hangang Chillin'](https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Hangang Chillin'](https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE) | 2:45 | 2024-05-14 | 2024-06-17 |
 | [Happiness index](https://open.spotify.com/track/4pEeKM4zXFj1EI9mGro4h1) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Happiness index](https://open.spotify.com/album/7HkYhaMZWzkt5i8yXfzLcy) | 4:02 | 2023-03-27 | 2023-09-19 |
 | [Heart Flutter](https://open.spotify.com/track/2PekSC1KXS5vdF7jvdYDg5) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Heart Flutter](https://open.spotify.com/album/3TbAeUbrSPkFludvpC3kSZ) | 3:28 | 2025-06-10 | 2025-06-18 |

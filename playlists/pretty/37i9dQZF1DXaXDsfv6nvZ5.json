@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
-  "num_followers": 786289,
+  "num_followers": 786304,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1105,26 +1105,6 @@
       "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
     },
     {
-      "added_at": "2025-01-24 07:45:43",
-      "album": {
-        "name": "Live For You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6EggeDQ0v8viwU1JZUJ4H0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Live For You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "2 Much",
@@ -1139,6 +1119,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2026-02-14 03:28:47",
@@ -1157,20 +1153,24 @@
       "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2025-01-24 07:45:43",
       "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+        "name": "Live For You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6EggeDQ0v8viwU1JZUJ4H0"
       },
       "artists": [
         {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+      "duration_ms": 227400,
+      "name": "Live For You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS"
     },
     {
       "added_at": "2025-10-10 07:46:04",
@@ -1261,20 +1261,24 @@
       "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
     },
     {
-      "added_at": "2026-02-14 03:28:47",
+      "added_at": "2026-10-02 07:36:23",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
       },
       "artists": [
         {
           "name": "Victoria Mon\u00e9t",
           "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+      "duration_ms": 278629,
+      "name": "That's Why I Love You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
     },
     {
       "added_at": "2025-08-01 07:06:10",
@@ -1365,6 +1369,22 @@
       "url": "https://open.spotify.com/track/0T7TwzKzwdR7aRNM4Dtftj"
     },
     {
+      "added_at": "2026-02-14 03:28:47",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "11",
@@ -1379,6 +1399,22 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2025-08-22 04:00:21",
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/2mZH354sboDo4bgxMvkhi2"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
     },
     {
       "added_at": "2026-09-25 08:27:30",
@@ -1401,38 +1437,6 @@
       "url": "https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2"
     },
     {
-      "added_at": "2025-08-22 04:00:21",
-      "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/2mZH354sboDo4bgxMvkhi2"
-      },
-      "artists": [
-        {
-          "name": "Devon Culture",
-          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
-    {
       "added_at": "2025-12-05 07:50:19",
       "album": {
         "name": "Yours Deeply (Deluxe)",
@@ -1449,24 +1453,20 @@
       "url": "https://open.spotify.com/track/09S1rM23LMw9iUkl4TY042"
     },
     {
-      "added_at": "2026-05-15 07:45:33",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 223572,
-      "name": "KEEPER (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-06-20 04:00:54",
@@ -1489,6 +1489,26 @@
       "url": "https://open.spotify.com/track/6pNrdoEgWVcHvKxrsvHMKL"
     },
     {
+      "added_at": "2026-05-15 07:45:33",
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 223572,
+      "name": "KEEPER (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "MUTT",
@@ -1509,6 +1529,22 @@
       "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
+      "added_at": "2025-08-15 19:53:41",
+      "album": {
+        "name": "My World (beyond)",
+        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "My World (beyond)",
+      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
+    },
+    {
       "added_at": "2024-05-17 07:14:12",
       "album": {
         "name": "Sweetness (feat. Leon Thomas)",
@@ -1527,22 +1563,6 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "My World (beyond)",
-        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "My World (beyond)",
-      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
     },
     {
       "added_at": "2025-03-21 05:07:45",
@@ -1593,22 +1613,6 @@
       "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
-      "added_at": "2025-11-14 12:04:27",
-      "album": {
-        "name": "Heat The Streets Some Mo'",
-        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
-    },
-    {
       "added_at": "2025-04-25 07:19:25",
       "album": {
         "name": "The Crown",
@@ -1623,6 +1627,22 @@
       "duration_ms": 226274,
       "name": "I DO",
       "url": "https://open.spotify.com/track/0cJqjE0vODNJQdi10z8fNw"
+    },
+    {
+      "added_at": "2025-11-14 12:04:27",
+      "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
       "added_at": "2025-09-26 04:57:19",
@@ -1641,6 +1661,30 @@
       "url": "https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI"
     },
     {
+      "added_at": "2026-10-02 07:36:23",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "You Mean The World To Me (feat. Leon Thomas & Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D"
+    },
+    {
       "added_at": "2026-05-15 07:39:31",
       "album": {
         "name": "But, Nvm",
@@ -1655,6 +1699,22 @@
       "duration_ms": 187266,
       "name": "But, Nvm",
       "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
+    },
+    {
+      "added_at": "2025-04-18 05:17:41",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238479,
+      "name": "S.I.T.L.",
+      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     },
     {
       "added_at": "2024-09-13 09:22:53",
@@ -1689,22 +1749,6 @@
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
-      "added_at": "2025-04-18 05:17:41",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238479,
-      "name": "S.I.T.L.",
-      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Fear When You Fly",
@@ -1721,22 +1765,6 @@
       "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
-      "added_at": "2025-05-16 04:52:04",
-      "album": {
-        "name": "We Don't Have to Be Alone",
-        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 166436,
-      "name": "We Don't Have to Be Alone",
-      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
-    },
-    {
       "added_at": "2026-04-18 17:35:25",
       "album": {
         "name": "Hang It On The Shelf",
@@ -1751,6 +1779,22 @@
       "duration_ms": 145786,
       "name": "Hang It On The Shelf",
       "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+    },
+    {
+      "added_at": "2025-05-16 04:52:04",
+      "album": {
+        "name": "We Don't Have to Be Alone",
+        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 166436,
+      "name": "We Don't Have to Be Alone",
+      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
       "added_at": "2026-02-06 09:45:58",
@@ -1845,22 +1889,6 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2026-04-18 17:35:25",
-      "album": {
-        "name": "wHIMSY!",
-        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "DIAMOND GOLD",
-      "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Here To Stay",
@@ -1875,6 +1903,22 @@
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "added_at": "2026-04-18 17:35:25",
+      "album": {
+        "name": "wHIMSY!",
+        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "DIAMOND GOLD",
+      "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
     },
     {
       "added_at": "2025-11-21 11:03:13",
@@ -1897,22 +1941,6 @@
       "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 223403,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m"
-    },
-    {
       "added_at": "2024-10-25 07:15:59",
       "album": {
         "name": "Mystery",
@@ -1927,6 +1955,22 @@
       "duration_ms": 223522,
       "name": "Sweet Little Rainbows",
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
+    },
+    {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 223403,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -1981,6 +2025,22 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
+      "added_at": "2026-01-23 06:08:35",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+    },
+    {
       "added_at": "2025-05-16 04:52:04",
       "album": {
         "name": "Easier Done Than Said",
@@ -1999,22 +2059,6 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
-      "added_at": "2026-01-23 06:08:35",
-      "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2053,38 +2097,6 @@
       "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
     },
     {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "Luh Mo' Love",
-        "url": "https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY"
-      },
-      "artists": [
-        {
-          "name": "EJ Jones",
-          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
-        }
-      ],
-      "duration_ms": 220462,
-      "name": "Luh Mo' Love",
-      "url": "https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
       "added_at": "2026-09-25 08:27:30",
       "album": {
         "name": "God of You",
@@ -2119,6 +2131,38 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
+    },
+    {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "Luh Mo' Love",
+        "url": "https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        }
+      ],
+      "duration_ms": 220462,
+      "name": "Luh Mo' Love",
+      "url": "https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68"
     },
     {
       "added_at": "2025-11-07 07:43:36",
@@ -2317,22 +2361,6 @@
       "url": "https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI"
     },
     {
-      "added_at": "2025-03-07 05:51:28",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
-    },
-    {
       "added_at": "2024-06-14 07:12:33",
       "album": {
         "name": "Why Lawd?",
@@ -2357,20 +2385,40 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2025-03-07 05:51:28",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 216436,
-      "name": "How Does It Make You Feel",
-      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 224218,
+      "name": "Blame (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
       "added_at": "2025-02-28 17:58:06",
@@ -2425,26 +2473,6 @@
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 224218,
-      "name": "Blame (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
-    },
-    {
       "added_at": "2023-09-16 14:17:34",
       "album": {
         "name": "Waiting For You (feat. Naomi Sharon)",
@@ -2465,6 +2493,22 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+      },
+      "artists": [
+        {
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+        }
+      ],
+      "duration_ms": 129707,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
+    },
+    {
       "added_at": "2026-05-08 07:01:11",
       "album": {
         "name": "Chakzilla",
@@ -2479,26 +2523,6 @@
       "duration_ms": 207773,
       "name": "Chakzilla",
       "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
-    },
-    {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "SOS (Sex on Sight) (feat. USHER)",
-        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 265057,
-      "name": "SOS (Sex on Sight) (feat. USHER)",
-      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
       "added_at": "2025-08-15 19:53:41",
@@ -2529,20 +2553,24 @@
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
+      "added_at": "2025-02-21 07:53:52",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
       "artists": [
         {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
         }
       ],
-      "duration_ms": 129707,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
+      "duration_ms": 317966,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": "2025-12-12 18:54:21",
@@ -2579,26 +2607,6 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
-    },
-    {
-      "added_at": "2025-02-21 07:53:52",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "E-WHIZZ",
-          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
-        }
-      ],
-      "duration_ms": 317966,
-      "name": "No Business",
-      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     }
   ],
   "unique_name": "Soul Coffee",

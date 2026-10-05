@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-440 songs - 1 day 2 hr 23 min
+441 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Carolina](https://open.spotify.com/track/5oztvt7Mt5DpVdyt6EZHFa) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Carolina](https://open.spotify.com/album/3fITHvhSeYtSoYvBGgHn2Z) | 3:20 | 2025-08-14 | 2025-10-08 |
 | [Caroline](https://open.spotify.com/track/3cSymxXw4d766eVhnbZfiy) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Caroline](https://open.spotify.com/album/5wpASzqoy8RYE1z2Z5Q0ZR) | 2:20 | 2026-03-12 | 2026-03-27 |
 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 | 2023-12-21 |  |
+| [Charity](https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Revelations of Divine Love](https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2) | 6:44 | 2026-10-01 |  |
 | [Cheap Disposition](https://open.spotify.com/track/312PDc82PEWHeP6Px2UZWE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Cheap Disposition / Bitre Miner](https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy) | 3:24 | 2022-06-30 | 2023-03-31 |
 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 | 2021-12-02 | 2024-05-17 |
 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 | 2026-08-27 |  |
@@ -399,7 +400,7 @@
 | [Vil bare henge med](https://open.spotify.com/track/30Nq4NwgIXECwHdaRYvLUu) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Vil bare henge med](https://open.spotify.com/album/3lfeYZ7YxGQo3FqQ3mvnNU) | 2:23 | 2026-05-14 | 2026-06-09 |
 | [Vinyl and a Heartache](https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:51 | 2021-12-02 | 2022-04-21 |
 | [Vulnerable](https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Vulnerable](https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS) | 3:14 | 2025-04-10 | 2025-11-19 |
-| [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 |  |
+| [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 | 2026-10-05 |
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-16 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-07-14 | 2023-02-25 |
 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 | 2021-12-02 | 2022-07-28 |

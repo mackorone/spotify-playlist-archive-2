@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,857 likes - 107 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,885 likes - 107 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

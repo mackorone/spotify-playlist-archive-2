@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1812530,
+  "num_followers": 1812638,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bellatrax",
-          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
-        },
-        {
-          "name": "Sophia May",
-          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
-      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
       "artists": [
         {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+          "name": "Bellatrax",
+          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
+        },
+        {
+          "name": "Sophia May",
+          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
         }
       ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
+      "duration_ms": 208360,
+      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
+      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1183,6 +1167,22 @@
       "duration_ms": 180133,
       "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
       "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1624,25 +1624,9 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1663,6 +1647,22 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1695,6 +1695,46 @@
       "duration_ms": 326840,
       "name": "In White Rooms",
       "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1735,26 +1775,6 @@
       "duration_ms": 207813,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/7oyequ9whquaYyZXqB4LTZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1803,26 +1823,6 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
     },
     {
       "added_at": "2024-07-12 15:40:20",

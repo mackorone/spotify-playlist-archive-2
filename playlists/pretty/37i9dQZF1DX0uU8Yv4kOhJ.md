@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,388 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,395 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 38 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 |
 | 39 | [Desventura](https://open.spotify.com/track/62JMeGryB8d3EHFUpFfQWQ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Desventura](https://open.spotify.com/album/1gNGhrPZGS6fYcUSR6I7Ku) | 4:17 |
 | 40 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
-| 41 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
-| 42 | [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 |
-| 43 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
-| 44 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
-| 45 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
-| 46 | [Eso Que Tu Haces](https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Eso Que Tu Haces](https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7) | 4:33 |
-| 47 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
+| 41 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
+| 42 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
+| 43 | [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 |
+| 44 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
+| 45 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
+| 46 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
+| 47 | [Eso Que Tu Haces](https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Eso Que Tu Haces](https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7) | 4:33 |
 | 48 | [Cumbia del Olvido](https://open.spotify.com/track/5pU9azu0VQIUk2nTUVxwxY) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 3:36 |
 | 49 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
 | 50 | [Corazon de Rubi](https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:14 |

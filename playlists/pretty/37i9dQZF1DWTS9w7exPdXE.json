@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 173778,
+  "num_followers": 173818,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Van Goes Tot Purmerend",
         "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 201363,
       "name": "Van Goes Tot Purmerend",
       "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "En Ik Droom",
-        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "En Ik Droom",
-      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Maak Me Gek",
         "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 182000,
       "name": "Maak Me Gek",
       "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "En Ik Droom",
+        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "En Ik Droom",
+      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
-        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
-      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218890,
       "name": "Gina",
       "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
+        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
+      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Een bom",
-        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
-      },
-      "artists": [
-        {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Een bom",
-      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1191,18 +1175,34 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
+        "name": "Een bom",
+        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
       },
       "artists": [
         {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
         }
       ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+      "duration_ms": 204933,
+      "name": "Een bom",
+      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "In Elk Stadje",
+        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "In Elk Stadje",
+      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "In Elk Stadje",
-        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
         }
       ],
-      "duration_ms": 210810,
-      "name": "In Elk Stadje",
-      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "'n Rondje van mij",
-        "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
+        "name": "Want Jij",
+        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
       },
       "artists": [
         {
-          "name": "Peter Beense",
-          "url": "https://open.spotify.com/artist/3upVW49Vj8DqUrkrCYmi86"
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Laat ze maar lullen",
-      "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
+      "duration_ms": 182000,
+      "name": "Want Jij",
+      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Want Jij",
-        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+        "name": "'n Rondje van mij",
+        "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+          "name": "Peter Beense",
+          "url": "https://open.spotify.com/artist/3upVW49Vj8DqUrkrCYmi86"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Want Jij",
-      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
+      "duration_ms": 219533,
+      "name": "Laat ze maar lullen",
+      "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Verbazing",
-        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "Vagant",
-          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Het Is Een Nacht... (Levensecht)",
-      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Verbazing",
+        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "Vagant",
+          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Het Is Een Nacht... (Levensecht)",
+      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Frans Duits",
         "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 172881,
       "name": "Frans Duits",
       "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     }
   ],
   "unique_name": "Hollandse Meezingers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,387 likes - 81 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,392 likes - 81 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 | 14 | [清廉なるHeretics](https://open.spotify.com/track/4Khl0JnBd4Gw76gqohgymR) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅱ](https://open.spotify.com/album/1edxRVpijTZyUtXFH3DIUm) | 4:13 |
 | 15 | [洋燈](https://open.spotify.com/track/4Te4sDDIbJWNvdHJ8cJjVO) | [Nona\*](https://open.spotify.com/artist/6q6FzZVFFk4s9H0tlZmXmM) | [洋燈](https://open.spotify.com/album/4RTPGwXrrNfLDt0ZWItVLn) | 3:37 |
 | 16 | [A stain](https://open.spotify.com/track/6Udx75ka57IsNrxp8wCdg5) | [環みちる](https://open.spotify.com/artist/2eD6u6BYpSWgigbFZWM2FZ) | [A stain](https://open.spotify.com/album/1BNcItB9OfURYd8O7H3Jp8) | 4:01 |
-| 17 | [七星神威](https://open.spotify.com/track/5140qhFtyMeCkteuScnDLL) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [310](https://open.spotify.com/artist/2fm12DOrwd0tdAsACXtYOC) | [七星神威](https://open.spotify.com/album/0CLQ9Jn3jj8Z1HoVEDRdLx) | 3:36 |
+| 17 | [七星神威](https://open.spotify.com/track/5140qhFtyMeCkteuScnDLL) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [310](https://open.spotify.com/artist/2C2oimNufzDloA4OP2j4OP) | [七星神威](https://open.spotify.com/album/0CLQ9Jn3jj8Z1HoVEDRdLx) | 3:36 |
 | 18 | [独白](https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:42 |
 | 19 | [透明](https://open.spotify.com/track/5tW3LRhyTfj4zBfk8OVLVn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [透明](https://open.spotify.com/album/35zvie5KZ3jybCw6q4DSeF) | 3:50 |
 | 20 | [flowers\(English version\)](https://open.spotify.com/track/6lpSVuPXcCEXRVmivP4XAB) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers\(English version\)](https://open.spotify.com/album/3fxUuJLYWwwUVD3fAR1wsG) | 4:20 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 | 22 | [Wonderer](https://open.spotify.com/track/4KbAAu40Ix6OCobefWX45j) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 4:16 |
 | 23 | [The Burn Phase](https://open.spotify.com/track/6fvD4VZr1EHUFdW2eveV5U) | [國土 佳音](https://open.spotify.com/artist/3g1YiF4IxCU0wWRpWfnjCd) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:23 |
 | 24 | [連星](https://open.spotify.com/track/7BNG1krdwTELJxIelxJ2Zv) | [Ryunosuke Nakajima](https://open.spotify.com/artist/2k9REeIjhCOflvM6Qck8LO) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:43 |
-| 25 | [七星神威](https://open.spotify.com/track/1gqb6U3kOopWanzD4Z5OL0) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [310](https://open.spotify.com/artist/2fm12DOrwd0tdAsACXtYOC) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:36 |
+| 25 | [七星神威](https://open.spotify.com/track/1gqb6U3kOopWanzD4Z5OL0) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [310](https://open.spotify.com/artist/2C2oimNufzDloA4OP2j4OP) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:36 |
 | 26 | [洋燈](https://open.spotify.com/track/15DhcumugGcGArJrOaKCCj) | [Nona\*](https://open.spotify.com/artist/6q6FzZVFFk4s9H0tlZmXmM) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:38 |
 | 27 | [最後の勇者](https://open.spotify.com/track/2jAdbb3esTLuUUlLiWTrZW) | [芳賀 敬太](https://open.spotify.com/artist/62bF9Xu28ByStW6fWw8tGj) | [Fate/Grand Order Original Soundtrack VI](https://open.spotify.com/album/6U3eElaR6VPFZiu4aoJswx) | 4:35 |
 | 28 | [異説地球紀行O・X ～ORT4～](https://open.spotify.com/track/7kqOtFvZSG0zqhxpEvfi4x) | [芳賀 敬太](https://open.spotify.com/artist/62bF9Xu28ByStW6fWw8tGj) | [Fate/Grand Order Original Soundtrack VI](https://open.spotify.com/album/6U3eElaR6VPFZiu4aoJswx) | 4:19 |

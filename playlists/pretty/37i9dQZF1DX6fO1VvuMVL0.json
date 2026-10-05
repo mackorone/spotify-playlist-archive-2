@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 160816,
+  "num_followers": 160868,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -215,8 +215,8 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
@@ -228,21 +228,17 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         },
         {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -319,8 +315,8 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
@@ -332,17 +328,21 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         },
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 692746,
-      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 279893,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
     },
     {
       "added_at": "2024-07-08 07:01:17",

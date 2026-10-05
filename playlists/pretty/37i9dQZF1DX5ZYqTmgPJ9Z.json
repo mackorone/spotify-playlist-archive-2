@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and let us help you see off the evening.",
-  "num_followers": 134513,
+  "num_followers": 134518,
   "original_name": "Nightcap",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "FANGIRL",
-        "url": "https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y"
-      },
-      "artists": [
-        {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "FANGIRL",
-      "url": "https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "To Memphis",
         "url": "https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 218979,
       "name": "Malibu Jane",
       "url": "https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "FANGIRL",
+        "url": "https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "FANGIRL",
+      "url": "https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Someone Asked Me How I've Been",
-        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Someone Asked Me How I've Been",
-      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
+      "duration_ms": 277026,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         }
       ],
-      "duration_ms": 277026,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -983,6 +983,22 @@
       "duration_ms": 416353,
       "name": "Bloom Innocent",
       "url": "https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Just Come Home With Me Tonight (Live at 45)",
+        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 280322,
+      "name": "Just Come Home With Me Tonight - Live at 45",
+      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 237707,
       "name": "DONT WAIT",
       "url": "https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
-        "name": "Just Come Home With Me Tonight (Live at 45)",
-        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 280322,
-      "name": "Just Come Home With Me Tonight - Live at 45",
-      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
+        "name": "Near Enough A Woman",
+        "url": "https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT"
+      },
+      "artists": [
+        {
+          "name": "otta",
+          "url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Near Enough A Woman",
+      "url": "https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
         "name": "Trouble Sleeping",
         "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Near Enough A Woman",
-        "url": "https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT"
+        "name": "My Head Will Be Back Around Noon",
+        "url": "https://open.spotify.com/album/3zguAlnxNRKABTqdnO8UzR"
       },
       "artists": [
         {
-          "name": "otta",
-          "url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO"
+          "name": "Amber Burgoyne",
+          "url": "https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Near Enough A Woman",
-      "url": "https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd"
+      "duration_ms": 129337,
+      "name": "My Head Will Be Back Around Noon",
+      "url": "https://open.spotify.com/track/3AloBUFJeFyp4qj4GCGboS"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 214939,
       "name": "Shade",
       "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
-        "name": "My Head Will Be Back Around Noon",
-        "url": "https://open.spotify.com/album/3zguAlnxNRKABTqdnO8UzR"
-      },
-      "artists": [
-        {
-          "name": "Amber Burgoyne",
-          "url": "https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9"
-        }
-      ],
-      "duration_ms": 129337,
-      "name": "My Head Will Be Back Around Noon",
-      "url": "https://open.spotify.com/track/3AloBUFJeFyp4qj4GCGboS"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Just a Girl (stripped)",
-        "url": "https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl"
-      },
-      "artists": [
-        {
-          "name": "Kayleigh Noble",
-          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
-        }
-      ],
-      "duration_ms": 248675,
-      "name": "meanie",
-      "url": "https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Go Somewhere Alone",
         "url": "https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
+        "name": "Just a Girl (stripped)",
+        "url": "https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl"
+      },
+      "artists": [
+        {
+          "name": "Kayleigh Noble",
+          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
+        }
+      ],
+      "duration_ms": 248675,
+      "name": "meanie",
+      "url": "https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
         "name": "Deception",
         "url": "https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0"
       },
@@ -1579,26 +1579,6 @@
       "duration_ms": 197426,
       "name": "Deception",
       "url": "https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
-        "name": "Ivy's Kid",
-        "url": "https://open.spotify.com/album/6q4o0YQHMCXQj6gQ0YZOd4"
-      },
-      "artists": [
-        {
-          "name": "RUVIMBO",
-          "url": "https://open.spotify.com/artist/28SGmh3qpGyRak7x8WhDG2"
-        },
-        {
-          "name": "TINYMAN",
-          "url": "https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "December",
-      "url": "https://open.spotify.com/track/7b6myg3Pc5DGgEXxXCyl3w"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
+        "name": "Ivy's Kid",
+        "url": "https://open.spotify.com/album/6q4o0YQHMCXQj6gQ0YZOd4"
+      },
+      "artists": [
+        {
+          "name": "RUVIMBO",
+          "url": "https://open.spotify.com/artist/28SGmh3qpGyRak7x8WhDG2"
+        },
+        {
+          "name": "TINYMAN",
+          "url": "https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "December",
+      "url": "https://open.spotify.com/track/7b6myg3Pc5DGgEXxXCyl3w"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
         "name": "Honey Love",
         "url": "https://open.spotify.com/album/0YiDuhb3BweEUXzrDORQfp"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "30 Degrees",
-        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 188164,
-      "name": "30 Degrees",
-      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Midnight Mischief (Tom Misch Remix)",
         "url": "https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 266086,
       "name": "Midnight Mischief - Tom Misch Remix",
       "url": "https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "30 Degrees",
+        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 188164,
+      "name": "30 Degrees",
+      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Try a Little Tenderness",
-        "url": "https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0"
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
         }
       ],
-      "duration_ms": 192912,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo"
+      "duration_ms": 130120,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq"
     }
   ],
   "unique_name": "Nightcap",

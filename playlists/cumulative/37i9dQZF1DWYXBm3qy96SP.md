@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Fat Dog
 
-2,365 songs - 5 day 17 hr 59 min
+2,366 songs - 5 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-04 |
 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 | 2026-05-23 | 2026-06-26 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
-| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 |  |
+| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 | 2026-10-05 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Daily Queen](https://open.spotify.com/track/53YiLtXKQXGrUfcK8rd2TF) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [Daily Queen](https://open.spotify.com/album/6UMrQXSdh75gN7UGGHytO4) | 4:42 | 2024-07-05 | 2024-09-13 |
 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 | 2026-09-03 | 2026-09-11 |
@@ -892,6 +892,7 @@
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-03 |
 | [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-14 | 2026-09-03 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2026-03-13 |
+| [HELEN KELLER](https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [HELEN KELLER](https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB) | 4:43 | 2026-10-01 |  |
 | [Hell](https://open.spotify.com/track/5DbvjTHBLeDCtUyUXhBqsQ) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Hell + It's Dead](https://open.spotify.com/album/4t367s9EKbWpMDUIjWQA8h) | 2:24 | 2026-06-26 | 2026-07-04 |
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 | 2023-03-31 |
 | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM) | 3:39 | 2023-07-27 | 2023-08-11 |

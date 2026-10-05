@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 200789,
+  "num_followers": 200787,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
-        "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
-      },
-      "artists": [
-        {
-          "name": "David Hazletine",
-          "url": "https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u"
-        }
-      ],
-      "duration_ms": 356853,
-      "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
-      "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "The Man With The Bag",
         "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 123241,
       "name": "The Man With The Bag",
       "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
+        "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
+      },
+      "artists": [
+        {
+          "name": "David Hazletine",
+          "url": "https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u"
+        }
+      ],
+      "duration_ms": 356853,
+      "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
+      "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -655,18 +655,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
         }
       ],
-      "duration_ms": 215276,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+      "duration_ms": 199006,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -687,22 +691,34 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "All That Glitters",
-        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 199006,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
+      "duration_ms": 215276,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -735,22 +751,6 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
     },
     {
       "added_at": "2025-12-19 14:06:32",

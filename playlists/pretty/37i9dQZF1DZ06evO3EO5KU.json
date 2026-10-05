@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 167473,
+  "num_followers": 167481,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA47JxmnIvVUfKBycJBOJjv",
+  "snapshot_id": "asBFgAAAAABcGS+7XgesZRvAiI5nFOVV",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Corazones",
-        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 233443,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Linda Morenita",
         "url": "https://open.spotify.com/album/6yibLHAkjiEsJYldm5xih6"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 155142,
       "name": "Linda Morenita",
       "url": "https://open.spotify.com/track/2a4ZzWcCKUrxfP0c5lCRpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey De Corazones",
+        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 233443,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
     },
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
+      "duration_ms": 169014,
+      "name": "Me Gustas y Se Nota",
+      "url": "https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Memoria",
-        "url": "https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 169014,
-      "name": "Me Gustas y Se Nota",
-      "url": "https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU"
+      "duration_ms": 171600,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f Lo nuevo y lo mejor de la salsa.",
-  "num_followers": 1853542,
+  "num_followers": 1853544,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -655,34 +671,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl"
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 179437,
-      "name": "Cosa Extra\u00f1a",
-      "url": "https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9"
+      "duration_ms": 289293,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Cosa Extra\u00f1a",
+      "url": "https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Pan",
         "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 221656,
       "name": "Tikiri",
       "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Incomprendido",
         "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 179890,
       "name": "Incomprendido",
       "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "MP 10th Anniversary",
         "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 208774,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "TROPiKETE",
-        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 210398,
-      "name": "TROPiKETE",
-      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "TROPiKETE",
+        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 210398,
+      "name": "TROPiKETE",
+      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Me Dedique A Perderte",
-        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
       },
       "artists": [
         {
-          "name": "Pablo EEE",
-          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
-        },
-        {
-          "name": "Jimmy Rodriguez",
-          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Me Dediqu\u00e9 A Perderte",
-      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1339,6 +1319,26 @@
       "duration_ms": 269720,
       "name": "Para Siempre - Salsa Version",
       "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Me Dedique A Perderte",
+        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+      },
+      "artists": [
+        {
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        },
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Me Dediqu\u00e9 A Perderte",
+      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Salsa At It's Best",
+        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Fue Culpa De Usted",
         "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 207423,
       "name": "Fue Culpa De Usted",
       "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Salsa At It's Best",
-        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Me Espera (La Salsa del Nonno)",
+        "url": "https://open.spotify.com/album/6t4tcMhyknRfmN9s3EewpE"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 220746,
+      "name": "Me Espera (La Salsa del Nonno) - Esp. Vesion",
+      "url": "https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Cali Buenaventura",
         "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Llorar Bonito",
-        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 235951,
-      "name": "Llorar Bonito",
-      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ"
       },
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Es Ajena",
-        "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
+        "name": "Llorar Bonito",
+        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
       },
       "artists": [
         {
-          "name": "David Zahan",
-          "url": "https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn"
-        },
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 231833,
-      "name": "Es Ajena",
-      "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
+      "duration_ms": 235951,
+      "name": "Llorar Bonito",
+      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
     }
   ],
   "unique_name": "Salsa Nation",

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,345 songs - 2 day 3 hr 27 min
+1,346 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 | 2022-10-01 | 2025-07-16 |
 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 | 2022-12-16 | 2023-10-13 |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-11-10 | 2025-07-16 |
+| [Found in a Drawer](https://open.spotify.com/track/1S96iKh5czTmhnEQ5p9fbi) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Found in a Drawer](https://open.spotify.com/album/0xsomjPiwZ1qCWxGiAjOit) | 2:44 | 2026-09-25 |  |
 | [Free](https://open.spotify.com/track/2oClB1VZuMWLc84FT3tcWS) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Free](https://open.spotify.com/album/7dCa4BkUGKW6GMRVgik5de) | 2:25 | 2023-07-13 | 2025-07-16 |
 | [free bloom](https://open.spotify.com/track/55rlnrbVIFVijNiVqVl3XP) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [free bloom](https://open.spotify.com/album/4CyuTfpanYaZSMp5HmsLfe) | 2:46 | 2024-02-26 | 2025-07-16 |
 | [free ride](https://open.spotify.com/track/1ocT9fovQjIS7rMsvDrkqw) | [kid.](https://open.spotify.com/artist/1ndPfZm8zHSlyrJs3itOSP) | [free ride](https://open.spotify.com/album/0ymYpgZXa2a2m8fCzl7YQT) | 1:36 | 2022-12-23 | 2025-07-16 |
@@ -1103,7 +1104,7 @@
 | [stargaze](https://open.spotify.com/track/3xGDY3oMBtqaTCx7rnbk3j) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [stargaze](https://open.spotify.com/album/1ctl658ESeKJCvVVRSpPPO) | 2:07 | 2022-05-20 | 2023-05-20 |
 | [Stargazing](https://open.spotify.com/track/6E5hM1qsPCHVzzgRF2uusg) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [lo\-fido](https://open.spotify.com/artist/08pbX4XuBFQiAmsmRgiKpX) | [Stargazing](https://open.spotify.com/album/0FAux44yqekXpHPe4Rrtc8) | 1:43 | 2022-10-28 | 2023-09-26 |
 | [Stargazing](https://open.spotify.com/track/0s390f6S79p4Pr7HsledAB) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Sunset Sailors](https://open.spotify.com/album/1Yk1MptY6avT67ojUWXKxT) | 2:17 | 2022-10-28 | 2023-10-06 |
-| [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 | 2022-08-12 |  |
+| [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 | 2022-08-12 | 2026-10-05 |
 | [Starless II \- Spotify Singles](https://open.spotify.com/track/139uZo8dlYHgVyMYN6bSXA) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 2:51 | 2022-05-04 | 2023-04-28 |
 | [Starlight Kiss](https://open.spotify.com/track/0G4kfyzE1PeSrhsO1fkXaG) | [with me, with you](https://open.spotify.com/artist/2GC5oaz2d1LibdZPNoJgJF), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Starlight Kiss](https://open.spotify.com/album/6LuIcaIUCKT2J4V0Uefyab) | 1:40 | 2022-09-23 | 2023-10-06 |
 | [Static Glow](https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Static Glow](https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6) | 1:57 | 2026-02-06 | 2026-05-23 |

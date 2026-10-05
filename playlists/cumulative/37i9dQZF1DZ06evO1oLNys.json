@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Basketball Court",
       "url": "https://open.spotify.com/track/2Wrr8X4LvPFvucyaDxqs2q"
@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Echo\u2014Variations (3)",
+        "url": "https://open.spotify.com/album/28dDcG8GpvMmyXjNukAibb"
+      },
+      "artists": [
+        {
+          "name": "Arp",
+          "url": "https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Haze Of - Lia Kohl Remix",
+      "url": "https://open.spotify.com/track/2zl4LfeiyrIU3LIlLkqcEx"
+    },
+    {
+      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -724,7 +746,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 60000,
       "name": "Home, Los Angeles",
       "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
@@ -1002,7 +1024,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 253613,
       "name": "Jeane",
       "url": "https://open.spotify.com/track/0Ejd05Q8oDpxATeklhyGhp"
@@ -1318,6 +1340,32 @@
       "duration_ms": 185986,
       "name": "paper folding | disappearing",
       "url": "https://open.spotify.com/track/4hJT6AZZaOyQKj5NkTOOsK"
+    },
+    {
+      "album": {
+        "name": "Passing Fires",
+        "url": "https://open.spotify.com/album/0VkkfztDNZCWHZhCEy3mct"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Cunningham",
+          "url": "https://open.spotify.com/artist/6cHtik72blrq0MgmnwTlpU"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Paul Bryan",
+          "url": "https://open.spotify.com/artist/1gCqbJ2UeZu4vzEliWteJM"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191041,
+      "name": "Passing Fires",
+      "url": "https://open.spotify.com/track/189N9iNXvyWSRSHcTwVpwj"
     },
     {
       "album": {
@@ -1696,7 +1744,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 76190,
       "name": "Stuff It In Your Mouth and Run (Hi)",
       "url": "https://open.spotify.com/track/7qt3jlxi8T60JXcnYLbmSI"

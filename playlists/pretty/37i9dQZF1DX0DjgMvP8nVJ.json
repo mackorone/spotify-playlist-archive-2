@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 35073,
+  "num_followers": 35095,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "GOLDSTAR",
-        "url": "https://open.spotify.com/album/7mTtyluyCS8hY97tqZDpoc"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7"
       },
       "artists": [
         {
@@ -134,7 +134,7 @@
       ],
       "duration_ms": 213346,
       "name": "SWEAT",
-      "url": "https://open.spotify.com/track/5ugSLzY7MiDmZNdr51zg5a"
+      "url": "https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/5ZzpXCtRji8C8uMmPBTyP4"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1jKXDWXStKoArZvty3wEZp"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Raised",
-        "url": "https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "The Big Bang",
         "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 160200,
       "name": "The Big Bang",
       "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Raised",
+        "url": "https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -683,22 +667,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Guapa",
-        "url": "https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Dulce Locura",
-      "url": "https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 185460,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Dulce Locura",
+      "url": "https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -731,22 +715,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/0tc6zo8FGuGegfZIicLEwV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251320,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/0Jirkb7LGNWyVhKOsKFdZ2"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Love Is Wicked",
         "url": "https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x"
       },
@@ -763,22 +731,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/3YYTCTlM2K3GoRz3X3d4ES"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -791,6 +743,22 @@
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/3YYTCTlM2K3GoRz3X3d4ES"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -907,22 +875,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -935,6 +887,22 @@
       "duration_ms": 178520,
       "name": "Cassie",
       "url": "https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1055,22 +1023,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "The Way It Was",
-        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
-      },
-      "artists": [
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Kiss Me Slowly",
-      "url": "https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Playing the Angel (Deluxe)",
         "url": "https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt"
       },
@@ -1083,6 +1035,22 @@
       "duration_ms": 229666,
       "name": "Suffer Well",
       "url": "https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "The Way It Was",
+        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
+      },
+      "artists": [
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Kiss Me Slowly",
+      "url": "https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1119,22 +1087,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Touchin\u2019 (The Pack)",
         "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
       },
@@ -1147,6 +1099,22 @@
       "duration_ms": 193797,
       "name": "Touchin\u2019",
       "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1215,22 +1183,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 323973,
-      "name": "Time to Run",
-      "url": "https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Hit and Run",
         "url": "https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM"
       },
@@ -1247,18 +1199,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Silver Moon",
-        "url": "https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B"
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
       },
       "artists": [
         {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 204977,
-      "name": "City Boy",
-      "url": "https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8"
+      "duration_ms": 323973,
+      "name": "Time to Run",
+      "url": "https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1275,6 +1227,22 @@
       "duration_ms": 196520,
       "name": "Mama Do (Uh Oh, Uh Oh)",
       "url": "https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Silver Moon",
+        "url": "https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 204977,
+      "name": "City Boy",
+      "url": "https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1487,22 +1455,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "4x4=12",
-        "url": "https://open.spotify.com/album/4ctMNpD66AXYCJYjJoqh7d"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 447250,
-      "name": "Some Chords",
-      "url": "https://open.spotify.com/track/535PzroKb08Y1h8mRdHoYC"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -1551,6 +1503,22 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1583,18 +1551,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb"
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
       },
       "artists": [
         {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR"
+      "duration_ms": 202596,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1615,18 +1583,50 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dang",
-        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
         }
       ],
-      "duration_ms": 202596,
-      "name": "Dang",
-      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
+      "duration_ms": 206733,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Big Mess",
+        "url": "https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Welcome to Your Life",
+      "url": "https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Explorers",
+      "url": "https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac"
     }
   ],
   "unique_name": "The Sims Official Playlist",

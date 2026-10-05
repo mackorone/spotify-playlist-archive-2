@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310993,
+  "num_followers": 1311012,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 178865,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
+    },
+    {
       "added_at": "2026-08-04 14:38:07",
       "album": {
         "name": "Blas\u00e9 (Bryce Alakai Remix)",
@@ -1059,26 +1079,6 @@
       "duration_ms": 196363,
       "name": "Blas\u00e9 (Bryce Alakai Remix)",
       "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 178865,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
     },
     {
       "added_at": "2026-06-12 04:01:37",
@@ -1225,26 +1225,6 @@
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Better Place",
@@ -1279,6 +1259,26 @@
       "duration_ms": 218398,
       "name": "Shook Ones, PT. III",
       "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
       "added_at": "2026-05-09 18:40:49",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
     },
     {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 190170,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "4U",
@@ -1363,22 +1379,6 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "BADDIE",
-        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 190170,
-      "name": "BADDIE",
-      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
     },
     {
       "added_at": "2026-04-24 04:01:50",
@@ -1501,6 +1501,26 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fuck It Up",
@@ -1523,26 +1543,6 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
-    },
-    {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fashion From France",
         "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1737,6 +1737,22 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "True",
@@ -1755,22 +1771,6 @@
       "duration_ms": 199042,
       "name": "True",
       "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "B2U EP",
-        "url": "https://open.spotify.com/album/3n4wJlkHBkt2qrPzirQNaN"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 168029,
-      "name": "B2U",
-      "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Let Me Clear My Throat",
         "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
       },
@@ -1935,18 +1915,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+        "name": "B2U EP",
+        "url": "https://open.spotify.com/album/3n4wJlkHBkt2qrPzirQNaN"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+      "duration_ms": 168029,
+      "name": "B2U",
+      "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -1967,6 +1951,26 @@
       "duration_ms": 179076,
       "name": "Rhythm Has Control",
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -2011,22 +2015,34 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -2079,30 +2079,6 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "SPEND IT",
-        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "LEIJON",
-          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
-        },
-        {
-          "name": "nobodyknowsjones",
-          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -2149,24 +2125,28 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Take It Higher",
-        "url": "https://open.spotify.com/album/6N4CdLsearJv1Aa5j7nXwu"
+        "name": "SPEND IT",
+        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         },
         {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+          "name": "LEIJON",
+          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
+        },
+        {
+          "name": "nobodyknowsjones",
+          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
         }
       ],
-      "duration_ms": 193982,
-      "name": "Take It Higher",
-      "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
+      "duration_ms": 144023,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2193,20 +2173,24 @@
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
+      "added_at": "2026-08-21 04:01:29",
       "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+        "name": "Take It Higher",
+        "url": "https://open.spotify.com/album/6N4CdLsearJv1Aa5j7nXwu"
       },
       "artists": [
         {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+      "duration_ms": 193982,
+      "name": "Take It Higher",
+      "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
     },
     {
       "added_at": "2026-08-28 04:01:56",
@@ -2227,6 +2211,42 @@
       "duration_ms": 194545,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2255,42 +2275,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-09-04 04:01:29",
-      "album": {
-        "name": "Stimulation",
-        "url": "https://open.spotify.com/album/69PX831txDJgxSMpkddReF"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "Stimulation",
-      "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2315,6 +2311,26 @@
       "duration_ms": 169846,
       "name": "Tequila Bounce",
       "url": "https://open.spotify.com/track/1RuV6ibdjBiAyv3xS4RhI2"
+    },
+    {
+      "added_at": "2026-09-04 04:01:29",
+      "album": {
+        "name": "Stimulation",
+        "url": "https://open.spotify.com/album/69PX831txDJgxSMpkddReF"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "Stimulation",
+      "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2355,22 +2371,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
         "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
@@ -2405,20 +2405,28 @@
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
-      "added_at": "2026-07-31 04:01:22",
+      "added_at": "2026-09-25 04:02:01",
       "album": {
-        "name": "SO HYPE",
-        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
+        "name": "BROKE A$$ HOME",
+        "url": "https://open.spotify.com/album/3CfEasukeDstsy1DPFazZ3"
       },
       "artists": [
         {
-          "name": "MAXARKA",
-          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
         }
       ],
-      "duration_ms": 175805,
-      "name": "SO HYPE",
-      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
+      "duration_ms": 133636,
+      "name": "BROKE A$$ HOME",
+      "url": "https://open.spotify.com/track/0UNET0aKD12ED6HHnx04Uv"
     },
     {
       "added_at": "2026-01-09 16:39:37",

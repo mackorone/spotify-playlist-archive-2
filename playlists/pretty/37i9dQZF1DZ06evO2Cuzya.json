@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 243819,
+  "num_followers": 243876,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABdYry4y/S3wunGTcbTUuUh",
+  "snapshot_id": "asBFgAAAAAB/CvYX05ocmwEzVwr8ttgO",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
       },
       "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp"
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
       "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 171280,
-      "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp"
     },
     {
       "added_at": null,

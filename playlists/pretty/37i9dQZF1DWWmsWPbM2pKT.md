@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,282 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,371 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 31 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 32 | [This Love](https://open.spotify.com/track/11WExd5tfFgg31WPNHNQnm) | [Hallows](https://open.spotify.com/artist/4pw10fTRjfQtjRhy25G5W6) | [This Love](https://open.spotify.com/album/4bQqCTyZTng6pqZagtuoTD) | 3:44 |
 | 33 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
-| 34 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
+| 34 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
 | 35 | [Courtroom Drama](https://open.spotify.com/track/3KKMDL3bSgEecSvEGXX70O) | [Agatha is Dead!](https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1) | [Courtroom Drama](https://open.spotify.com/album/43dClb0aNuhL1j9xzSSHcw) | 3:29 |
 | 36 | [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [21 Nächte wach](https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx) | 2:42 |
-| 37 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
-| 38 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
+| 37 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
+| 38 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 39 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
 | 40 | [Entropy](https://open.spotify.com/track/6gvrPobbaMrvWywWq7SLmj) | [Khton](https://open.spotify.com/artist/45fFAOx67wXDQR2WA6SoKF), [Mos Elian](https://open.spotify.com/artist/0eJvYZgMek9gulGp2yIVfk) | [Entropy](https://open.spotify.com/album/4595rkCbSii9A84XqITn0P) | 3:57 |
 | 41 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |

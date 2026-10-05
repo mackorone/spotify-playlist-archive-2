@@ -4,7 +4,7 @@
 
 > und macht laune
 
-407 songs - 18 hr 37 min
+408 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [DADIDELDUMM](https://open.spotify.com/track/7EPzcWArQVSLe8w3ozSNdQ) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [DADIDELDUMM](https://open.spotify.com/album/44CkQ87QsW9sZ3pJ4oB0vZ) | 2:42 | 2026-03-19 | 2026-04-10 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-28 | 2024-04-19 |
 | [Dancin \(feat\. Luvli\) \- southstar Remix](https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dancin \(feat\. Luvli\) \[southstar Remix\]](https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT) | 2:53 | 2026-04-30 |  |
-| [Darling](https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP) | [marli](https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp), [Philemon](https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ) | [Darling](https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC) | 1:46 | 2026-03-06 |  |
+| [Darling](https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP) | [marli](https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp), [Philemon](https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ) | [Darling](https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC) | 1:46 | 2026-03-06 | 2026-10-05 |
 | [Das allerletzte Mal](https://open.spotify.com/track/0QCqpJMIFxBXwJ7uVPx48T) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Das allerletzte Mal](https://open.spotify.com/album/67khZPkN7ogkVg871EOkM7) | 3:07 | 2026-06-11 | 2026-07-03 |
+| [Das geht ab \- Wir feiern die ganze Nacht](https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:29 | 2026-09-24 |  |
 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:41 | 2025-05-19 |  |
 | [Dein Ex](https://open.spotify.com/track/4yeGkxl3AX6duKvU1mk3Jj) | [VACEUS](https://open.spotify.com/artist/6qljWnORzJ53TDIjEZUejw), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Dein Ex](https://open.spotify.com/album/7DE5WS1wrGhbihrOsvXErZ) | 2:40 | 2026-06-11 | 2026-07-03 |
 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/0xcjCd9FoMNaYjPK7R8I1L) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF), [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/3m3gNWXJYp8KeoYuZVpN97) | 2:09 | 2024-03-28 | 2024-08-23 |

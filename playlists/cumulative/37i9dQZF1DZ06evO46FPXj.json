@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 537263,
       "name": "Cipater",
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
@@ -1918,6 +1918,24 @@
       "duration_ms": 188346,
       "name": "IO",
       "url": "https://open.spotify.com/track/4IszMyXH7RFkR12pumBuQF"
+    },
+    {
+      "album": {
+        "name": "Untilted",
+        "url": "https://open.spotify.com/album/5GkWqRrNyaJHMDrVOQK2bt"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597240,
+      "name": "Ipacial Section",
+      "url": "https://open.spotify.com/track/2xWlyEuNYOuRSC4MdCn0CF"
     },
     {
       "album": {

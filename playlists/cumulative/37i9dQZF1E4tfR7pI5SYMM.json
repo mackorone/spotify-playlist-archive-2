@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 200950,
       "name": "Actors",
       "url": "https://open.spotify.com/track/2pynZ1PXTL00ClGi6Vhbps"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 232330,
       "name": "Badcats",
       "url": "https://open.spotify.com/track/5N5tWDAvXGRC8LYVQdALMJ"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 226500,
       "name": "Casa Roso",
       "url": "https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Disunion",
+        "url": "https://open.spotify.com/album/5cMeFGfrFKFqe7Xb3VpHdp"
+      },
+      "artists": [
+        {
+          "name": "Buzzard",
+          "url": "https://open.spotify.com/artist/4lPV2Ks4kacVTCX9EEJ62u"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289869,
+      "name": "Disunion",
+      "url": "https://open.spotify.com/track/4TaVXo03JmZd8aWF85TdWc"
+    },
+    {
+      "album": {
         "name": "Voidseeker",
         "url": "https://open.spotify.com/album/7163GVjGNL6mXyKDBfmeOq"
       },
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
@@ -3810,7 +3828,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -4887,6 +4905,24 @@
     },
     {
       "album": {
+        "name": "Psycho Tornado",
+        "url": "https://open.spotify.com/album/3Bnh3XAJvKcRfnCnw3r2IX"
+      },
+      "artists": [
+        {
+          "name": "The Rezillos",
+          "url": "https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Explotando - Bonus Track",
+      "url": "https://open.spotify.com/track/1eAWiBWBbAesYVr25DbnYH"
+    },
+    {
+      "album": {
         "name": "In una metafora",
         "url": "https://open.spotify.com/album/2R6Tic0kRa9I7tf70PXgDZ"
       },
@@ -4992,7 +5028,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -5136,7 +5172,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -5612,7 +5648,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 173684,
       "name": "FOLD ME",
       "url": "https://open.spotify.com/track/3aiaYy0BKfgfcFgXP8Zv3q"
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Haltu R\u00f3",
       "url": "https://open.spotify.com/track/1veof2E1YyYy0JOL98Y5Z3"
@@ -6638,6 +6674,24 @@
       "duration_ms": 235706,
       "name": "Helleluia",
       "url": "https://open.spotify.com/track/3FFLHI0Vj4To1spoXCnDv3"
+    },
+    {
+      "album": {
+        "name": "Hellishei\u00f0i",
+        "url": "https://open.spotify.com/album/6gi6QOtQcbp9M7bhknCLuX"
+      },
+      "artists": [
+        {
+          "name": "HAM",
+          "url": "https://open.spotify.com/artist/0oxFfQiaEinJbDSrTVB6c4"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258850,
+      "name": "Hellishei\u00f0i",
+      "url": "https://open.spotify.com/track/4Lyr9iFYeefybU3B5V6Mhn"
     },
     {
       "album": {
@@ -7178,7 +7232,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -7380,7 +7434,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 189899,
       "name": "I wanna feel like an Animal",
       "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
@@ -8072,7 +8126,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 279933,
       "name": "Jorden",
       "url": "https://open.spotify.com/track/7t5iHxdeKcgXAQdoVWfXYE"
@@ -8654,7 +8708,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 243176,
       "name": "Last Night in Las Cruces",
       "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
@@ -8928,7 +8982,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9084,7 +9138,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -12141,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Pas concentr\u00e9.e",
+        "url": "https://open.spotify.com/album/0MVBpD7r05nIpiu07INE8j"
+      },
+      "artists": [
+        {
+          "name": "Jelly Dive",
+          "url": "https://open.spotify.com/artist/2ALQh6Ppli6aMI6XBgkLLW"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Pas concentr\u00e9.e",
+      "url": "https://open.spotify.com/track/4SZjYmSwVcfCv59x6g5o3u"
+    },
+    {
+      "album": {
         "name": "Ashes of Life",
         "url": "https://open.spotify.com/album/5q7lXUgCbbmMRTgBNGrSdO"
       },
@@ -12444,7 +12516,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 177502,
       "name": "Pointless Paranoia - Remastered 2025",
       "url": "https://open.spotify.com/track/57aH8JoDiGALsR3bAsSK4m"
@@ -12524,7 +12596,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -12792,7 +12864,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 204570,
       "name": "Reality Is a Failure",
       "url": "https://open.spotify.com/track/2A7KzW6tW0IIBBjlSWLDR7"
@@ -14226,7 +14298,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 193304,
       "name": "Som en egen man",
       "url": "https://open.spotify.com/track/7xyQqrndudqpdan5PYfMgI"
@@ -15134,7 +15206,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -15304,7 +15376,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 156095,
       "name": "The Ambulance Song",
       "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
@@ -15495,6 +15567,24 @@
     },
     {
       "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/2Sl9YTCxjA2kOHzJPWePpg"
+      },
+      "artists": [
+        {
+          "name": "Pretty Damn Close",
+          "url": "https://open.spotify.com/artist/6sbPtUMQVwB3zkItFJubWx"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421885,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/2RYQpzVCvzOLDeLvTv0kUO"
+    },
+    {
+      "album": {
         "name": "The Proximity Effect",
         "url": "https://open.spotify.com/album/4Uhl0jwcfzOGuiIAtatPNo"
       },
@@ -15668,7 +15758,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -15776,7 +15866,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 155076,
       "name": "The Hair",
       "url": "https://open.spotify.com/track/3pIRroC5iuw3TvSlV7mqI8"
@@ -17842,7 +17932,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -19252,7 +19342,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 218070,
       "name": "Zodiac Snipers",
       "url": "https://open.spotify.com/track/1sNYumI1kFlDXqxXwf0p65"
@@ -19758,7 +19848,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 161416,
       "name": "\u6210\u87f2\u591c-Wormfall Night",
       "url": "https://open.spotify.com/track/7vXRTKhhlL290NJ8TH1CJO"

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58405,
+  "num_followers": 58411,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA2gnr7nWcWdZnaH82frEtm",
+  "snapshot_id": "asBFgAAAAAASBE4Ut5szpX/F4pFfymxm",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viejo Gacho",
+        "url": "https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ"
+      },
+      "artists": [
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "Mun\u00e9",
+          "url": "https://open.spotify.com/artist/74Nrkmf527K4UyUHnaYbf7"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Vida Brava",
+      "url": "https://open.spotify.com/track/6mK5m9dpD7ImF27itnHvfs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Alzada x Rich Vagos",
         "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 396705,
       "name": "Alzypher Alzada x Rich Vagos",
       "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viejo Gacho",
-        "url": "https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ"
-      },
-      "artists": [
-        {
-          "name": "Big Sempa",
-          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
-        },
-        {
-          "name": "Mun\u00e9",
-          "url": "https://open.spotify.com/artist/74Nrkmf527K4UyUHnaYbf7"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Vida Brava",
-      "url": "https://open.spotify.com/track/6mK5m9dpD7ImF27itnHvfs"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toques de Queda",
         "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 212250,
       "name": "Ultimadamente",
       "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que No Me Mata",
+        "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Lo Que No Me Mata",
+      "url": "https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Juanos",
         "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 217600,
       "name": "Los Juanos",
       "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que No Me Mata",
-        "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Lo Que No Me Mata",
-      "url": "https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a"
     },
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mamoncita y Chula",
-      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eres Ese Algo 2.0",
         "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 168426,
       "name": "Eres Ese Algo 2.0",
       "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mamoncita y Chula",
+      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 235758,
+      "name": "Juntos de Noche",
+      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1251,22 +1271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
       "artists": [
         {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 235758,
-      "name": "Juntos de Noche",
-      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     },
     {
       "added_at": null,
@@ -1307,42 +1327,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
+        "name": "Los de la A",
+        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
       },
       "artists": [
         {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo Cholo",
-        "url": "https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
         },
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Mundo Cholo",
-      "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
+      "duration_ms": 226813,
+      "name": "Los de la A",
+      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
     },
     {
       "added_at": null,

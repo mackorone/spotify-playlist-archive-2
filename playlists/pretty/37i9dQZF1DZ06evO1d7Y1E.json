@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117585,
+  "num_followers": 117590,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAvY+n41n9IOQZ0sXEX6phx",
+  "snapshot_id": "asBFgAAAAAByWdcewIQHThm4qqUD1YLK",
   "tracks": [
     {
       "added_at": null,
@@ -851,42 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cara do Crime 4 (Acendo a Flor)",
-        "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 308243,
-      "name": "A Cara do Crime 4 (Acendo a Flor)",
-      "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -947,6 +911,42 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cara do Crime 4 (Acendo a Flor)",
+        "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 308243,
+      "name": "A Cara do Crime 4 (Acendo a Flor)",
+      "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
     },
     {
       "added_at": null,
@@ -1047,38 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/2jHkMr2BWhEKKuMsg6jJSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
         "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 300689,
       "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
       "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/2jHkMr2BWhEKKuMsg6jJSf"
     },
     {
       "added_at": null,
@@ -1143,34 +1143,6 @@
       "duration_ms": 348292,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "To de P\u00e9",
-      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
     },
     {
       "added_at": null,
@@ -1215,6 +1187,34 @@
       "duration_ms": 257622,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "To de P\u00e9",
+      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
     },
     {
       "added_at": null,
@@ -1359,6 +1359,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAVI DOGDOG \u00c9 CACHORRO 2X",
+        "url": "https://open.spotify.com/album/0HoyCUBwpmB2RPG4OFjNsA"
+      },
+      "artists": [
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "BASE DO PZ (feat. Mc Jacar\u00e9)",
+      "url": "https://open.spotify.com/track/5okAV69AmX2AmAvrkSUKtC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1435,54 +1467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVI DOGDOG \u00c9 CACHORRO 2X",
-        "url": "https://open.spotify.com/album/0HoyCUBwpmB2RPG4OFjNsA"
-      },
-      "artists": [
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "BASE DO PZ (feat. Mc Jacar\u00e9)",
-      "url": "https://open.spotify.com/track/5okAV69AmX2AmAvrkSUKtC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo do Milh\u00e3o",
         "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194634,
       "name": "Desde Menorzin",
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,

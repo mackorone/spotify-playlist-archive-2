@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:24B9XEbZHE4EPRzQ1t3czM">Diálogos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,122 likes - 10 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,124 likes - 10 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

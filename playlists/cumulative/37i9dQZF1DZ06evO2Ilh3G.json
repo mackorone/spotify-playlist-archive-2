@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143296,
+      "name": "Away (feat. Offset)",
+      "url": "https://open.spotify.com/track/694Fxl9wFBAmQHjLKF7ri9"
+    },
+    {
+      "album": {
         "name": "Baby On Baby",
         "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
@@ -1322,7 +1344,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"

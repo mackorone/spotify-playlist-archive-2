@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks ❤️‍🔥 ft\. BIIANCO ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,207 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,224 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 26 | [Syncopaths](https://open.spotify.com/track/66f9FPNjmVDvRGRLwfjpWH) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Syncopaths / Lavender Town](https://open.spotify.com/album/7AIveq2iLVcjb3oj2cp6Bs) | 6:06 |
 | 27 | [Got You](https://open.spotify.com/track/1D65HsUe2Y0XuAwFUi0336) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Got You](https://open.spotify.com/album/2SY81DPajXzOiferEzVtqr) | 4:45 |
 | 28 | [Do You Know](https://open.spotify.com/track/1MfBjdiyQfaExF5D0BZiCD) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Do You Know](https://open.spotify.com/album/7c6s83ZqJkAxoPwTheLfRt) | 4:58 |
-| 29 | [Speed Queen](https://open.spotify.com/track/3fGJl3D1lKjYDZvK0uNT9j) | [Groovedeep](https://open.spotify.com/artist/7603bchyKiFeIcNUXNUFKS) | [Speed Queen](https://open.spotify.com/album/1xM2iWKe7ZdFFoTK0WpD6c) | 6:16 |
+| 29 | [Speed Queen](https://open.spotify.com/track/3fGJl3D1lKjYDZvK0uNT9j) | [Groovedeep](https://open.spotify.com/artist/7603bchyKiFeIcNUXNUFKS), [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o), [JR2k](https://open.spotify.com/artist/5FzRC0bCvtjkizHAENSRMW) | [Speed Queen](https://open.spotify.com/album/1xM2iWKe7ZdFFoTK0WpD6c) | 6:16 |
 | 30 | [Body Double](https://open.spotify.com/track/0lrTl7x7HS40HPhoCvLyK5) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Body Double](https://open.spotify.com/album/6UHdkFEioHDwYnyJs5NjD2) | 4:46 |
 | 31 | [One Hundred](https://open.spotify.com/track/16npxHfsCig9DMAtoy19UO) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [The Sick Dimension](https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS) | 4:47 |
 | 32 | [Bank Storm](https://open.spotify.com/track/6HX8WkPl9lMW4p19mvhGlI) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Bank Storm](https://open.spotify.com/album/4Qe62HE3FBFbi5wAuCDUJc) | 3:28 |

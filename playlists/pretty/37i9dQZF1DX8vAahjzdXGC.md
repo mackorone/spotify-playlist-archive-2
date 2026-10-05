@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Gloria Jessica, Ade Govinda, Stevan Pasaribu, Victoria Monét, Bruno Mars, Winky Wiryawan, Afgan, Maxime Bouttier dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,154 likes - 113 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,175 likes - 113 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

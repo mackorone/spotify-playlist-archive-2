@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Chaca Trisha\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,294 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,301 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

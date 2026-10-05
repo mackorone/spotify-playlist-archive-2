@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-191 songs - 12 hr 22 min
+193 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,11 +179,13 @@
 | [The Way Home](https://open.spotify.com/track/7GBDijcXyrWjPQFCRXIFa4) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [The Way Home](https://open.spotify.com/album/6sRUbrTeWIcthehsanQUkl) | 2:44 | 2025-12-17 | 2026-02-07 |
 | [The Weight of Purity](https://open.spotify.com/track/7h3oeSZUVNf5amOrAFTh5r) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [The Weight of Purity](https://open.spotify.com/album/66L05mJHwLAZ7hhVrDw6Gq) | 9:23 | 2026-09-13 |  |
 | [The Whisper and the Roar](https://open.spotify.com/track/4RbpLpIQcNdmXkVUnvZRT2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [The Whisper and the Roar](https://open.spotify.com/album/2pTxHsktIXrwv30aJ8pCGd) | 6:58 | 2025-11-06 | 2025-12-08 |
+| [They Plunder \- Young Blood Brother's Shanty Version](https://open.spotify.com/track/3i2eSkqPA4xITfGtkfW8Df) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [They Plunder \(Young Blood Brother's Shanty Version\)](https://open.spotify.com/album/4VE53IFJocmwv5whQQFEZI) | 2:05 | 2026-10-04 |  |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-17 | 2026-02-07 |
 | [This World](https://open.spotify.com/track/3jotFtJLdprcErSYOsDCbO) | [YAGA](https://open.spotify.com/artist/0WbfaOeQ4zullSOwUnVsac) | [This World](https://open.spotify.com/album/3lAJIdOrpMBJJc9VLNfrMP) | 4:13 | 2026-09-09 |  |
 | [Time](https://open.spotify.com/track/17x3IQEhf9Xshdh1CEP9B3) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/42WFK8KBG1Vvj25YvuTN93) | 4:13 | 2025-07-31 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-05-18 |  |
 | [TIME, A precious thing](https://open.spotify.com/track/29aBAdsMAxisxLOjDIGfE8) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [TIME, A precious thing](https://open.spotify.com/album/2CfhRG7iIcQGYLYBmTsT2X) | 3:50 | 2025-11-09 | 2025-12-08 |
+| [TONIGHT](https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt) | [YESOD MALKUTH](https://open.spotify.com/artist/5L0hR8284jW5qANEy47NNE) | [TONIGHT](https://open.spotify.com/album/0NclpJClWLbcWCd9viMFdb) | 2:58 | 2026-10-04 |  |
 | [Transmission\_0](https://open.spotify.com/track/4JO3DqM7nvWtu2t2sb2VLP) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Transmission\_0](https://open.spotify.com/album/1evIDHQNSM5U6KJtLsfib7) | 1:53 | 2025-11-04 | 2025-12-08 |
 | [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 | 2026-05-14 |  |
 | [Two Friends](https://open.spotify.com/track/5cdSszu0zZI6lepZYCs6WC) | [Collateral Trip](https://open.spotify.com/artist/6YeKawSIhTJT2iiEcOC2eS) | [Two Friends](https://open.spotify.com/album/68NbLI8e5fBpYWciYosQB4) | 3:10 | 2025-11-02 |  |

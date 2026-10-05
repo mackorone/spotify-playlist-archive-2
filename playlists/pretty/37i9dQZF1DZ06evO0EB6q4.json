@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269144,
+  "num_followers": 269182,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADHuzzk30f3rH5HVsRApSYe",
+  "snapshot_id": "asBFgAAAAACux4q8wHyP7zW8TpSR4M7N",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No me mor\u00ed",
+        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "No me mor\u00ed",
+      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Tu Boca El Humo Me Sabe Mejor",
         "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No me mor\u00ed",
-        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "No me mor\u00ed",
-      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi amor",
         "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 214545,
       "name": "Te Hice Llorar",
       "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
     },
     {
       "added_at": null,
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 279014,
-      "name": "Hace Tanto Tiempo",
-      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAGO #1 LOLOLO",
         "url": "https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 185084,
       "name": "TRAGO #1 LOLOLO",
       "url": "https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 279014,
+      "name": "Hace Tanto Tiempo",
+      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
     },
     {
       "added_at": null,

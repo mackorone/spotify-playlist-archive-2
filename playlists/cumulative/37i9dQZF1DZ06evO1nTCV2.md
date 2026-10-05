@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-309 songs - 18 hr 48 min
+310 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Chris \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/4NSemr6oNuIcVCioLgo1r8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 3:39 | 2023-03-17 | 2023-05-27 |
 | [Chris \- Live at Carnegie Hall, May 14\. 2022](https://open.spotify.com/track/6PiCMlI8V5DjaSOdej5Cmn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall](https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q) | 3:26 | 2023-08-30 | 2023-12-14 |
 | [Cinnamon Girl \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Cinnamon Girl \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL) | 2:48 | 2024-06-02 | 2024-08-17 |
-| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 |  |
+| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 | 2026-10-05 |
 | [Come Pick Me Up](https://open.spotify.com/track/5X1UhM3dxWwLtCRPl2Oczn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Come Pick Me Up](https://open.spotify.com/album/0BPSz0jNSRZo7lnLAS90Ix) | 4:44 | 2025-07-09 | 2025-08-05 |
 | [Come Pick Me Up](https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:18 | 2022-01-11 |  |
 | [Cracks in the Photograph](https://open.spotify.com/track/0lJdTwBlUrehCAkADP6goI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 4:04 | 2026-07-22 |  |
@@ -211,7 +211,7 @@
 | [Poison & Pain](https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Another Wednesday](https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL) | 3:38 | 2025-02-16 | 2025-06-12 |
 | [Poor Connection](https://open.spotify.com/track/7Ddfa5uVpCRmj1tpcITo07) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:49 | 2022-05-16 | 2022-08-16 |
 | [Pretenders](https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:00 | 2026-06-14 | 2026-07-26 |
-| [Pretenders](https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:00 | 2026-07-26 |  |
+| [Pretenders](https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:00 | 2026-07-26 | 2026-10-05 |
 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
 | [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 | 2026-07-10 |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 | 2022-11-04 |
@@ -266,7 +266,7 @@
 | [The Man In Me \- Live from Bristol, UK\. 2023.](https://open.spotify.com/track/4aSrRsfy7Da0ToUZkfg9Gq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Man In Me \(Live from Bristol, UK\. 2023\)](https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE) | 3:38 | 2024-09-01 | 2024-10-29 |
 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 |  |
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
-| [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 | 2026-10-04 |
+| [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 |  |
 | [The Tracks of my Tears \- Live from Newcastle, UK\. 2023](https://open.spotify.com/track/5EAoqZo78ggyMnPV5YO4rc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Tracks Of My Tears \(Live from Newcastle, UK\. 2023\)](https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov) | 3:14 | 2024-08-06 | 2024-09-21 |
 | [Theo Is Dreaming](https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 1:21 | 2023-01-17 | 2023-08-20 |
 | [There Is a Light That Never Goes Out](https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [There Is a Light That Never Goes Out](https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ) | 4:33 | 2025-03-23 | 2025-08-10 |
@@ -311,6 +311,7 @@
 | [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2025-09-06 |
 | [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 | 2022-08-21 | 2022-11-01 |
 | [Wild Flowers](https://open.spotify.com/track/5mDL6etyGhUBkuKSBc7iux) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 4:35 | 2026-07-10 | 2026-07-20 |
+| [Wild Flowers](https://open.spotify.com/track/6C5ASolSnEXGNVy9YF85zA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 4:35 | 2026-10-05 |  |
 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |
 | [World War 24](https://open.spotify.com/track/19C1YdOULsmmOPvsIdoSTm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:15 | 2022-01-31 | 2022-03-14 |

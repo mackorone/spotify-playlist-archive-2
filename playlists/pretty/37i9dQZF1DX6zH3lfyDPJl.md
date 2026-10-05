@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,716 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,745 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 44 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 45 | [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 |
 | 46 | [Blue rain](https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 3:49 |
-| 47 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
+| 47 | [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 |
 | 48 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 49 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 |
-| 50 | [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 |
+| 49 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
+| 50 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 |
 
 Snapshot ID: `AAAAAGjARYxSfRT3c84UZYYzWr7n2Nbj`

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 687645,
+  "num_followers": 687967,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAChtaiI/vZAE/SClYGAcSkJ",
+  "snapshot_id": "asBFgAAAAAAaK/vtgkXh5ZNnyRvzSmE3",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 209089,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
+      "duration_ms": 209089,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 199500,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
+      "duration_ms": 151472,
+      "name": "Dry Deserts",
+      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 151472,
-      "name": "Dry Deserts",
-      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
+      "duration_ms": 199500,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
     },
     {
       "added_at": null,

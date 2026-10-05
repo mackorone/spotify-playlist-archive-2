@@ -4,7 +4,7 @@
 
 > pov: minhas favs / Foto: ADÉLA
 
-652 songs - 1 day 10 hr 51 min
+653 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 | 2023-11-24 | 2024-07-13 |
 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 | 2025-08-15 | 2025-09-13 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-07-12 | 2024-08-24 |
+| [CATastrophe](https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [CATastrophe](https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF) | 2:17 | 2026-10-02 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-10 | 2023-04-09 |
 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-10-17 | 2026-02-28 |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-04-22 |
@@ -614,7 +615,7 @@
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2022-05-06 | 2022-08-20 |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-09 | 2024-03-24 |
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-07-22 | 2023-01-17 |
-| [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 | 2026-09-18 |  |
+| [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 | 2026-09-18 | 2026-10-05 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-12 | 2023-01-14 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-17 | 2023-02-24 |
 | [Vida](https://open.spotify.com/track/3CvEuNFipDQK8qOgF1bc4u) | [Garbo](https://open.spotify.com/artist/0atJgsk6SYsVlg7TcMctTG) | [Vida](https://open.spotify.com/album/64VMKcJmBW9kxJQ7AmNvgY) | 2:21 | 2022-06-24 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-436 songs - 1 day 3 hr 19 min
+437 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Birthday](https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 4:30 | 2020-09-19 | 2020-12-22 |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-05-10 | 2026-02-21 |
 | [Blue](https://open.spotify.com/track/53OYJRSlGUpTU0TJGxx8mA) | [Mega Fäuna](https://open.spotify.com/artist/3iqpnLfw9ZHGpf5f2skfwb) | [Blue](https://open.spotify.com/album/2wBfLfni62DPkDdrQJ6Lep) | 4:09 | 2023-09-29 | 2023-10-12 |
-| [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 | 2022-01-27 |  |
+| [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 | 2022-01-27 | 2026-10-05 |
 | [Blue Bell](https://open.spotify.com/track/4bFtkOCmHiRx6SjIAL1hdm) | [Golden Daze](https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn) | [Blue Bell](https://open.spotify.com/album/38JQDHoEIUAkmSE6XwVQ2Z) | 3:45 | 2019-11-19\* | 2020-11-06 |
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2019-11-19\* | 2020-11-06 |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-24 |  |
@@ -245,6 +245,7 @@
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-03-24 |  |
 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 | 2020-12-22 |  |
 | [Lucid](https://open.spotify.com/track/5d9BthpFORCiN5S1lVGCSc) | [Denuo](https://open.spotify.com/artist/1gqUPemXG4CjtMs2GiKw4Z) | [Lucid](https://open.spotify.com/album/7qEbXZulL607EPGjIQib7v) | 3:55 | 2019-11-19\* | 2020-08-09 |
+| [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 | 2026-10-02 |  |
 | [Lurk \- Mixed](https://open.spotify.com/track/064kl8lbsGVBN07jKkl014) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [DJ\-Kicks: Logic1000](https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx) | 2:49 | 2025-05-01 |  |
 | [Lylz](https://open.spotify.com/track/1C9t8whBQcIDcI3mwmmFhp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/5fMUdHAcRZ3IHPd4yvg1ct) | 3:03 | 2020-09-19 | 2022-07-25 |
 | [Lylz](https://open.spotify.com/track/5BeeGmqiDfVSJGUGYEFH2G) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/1Qh2B4blDqC6iQwMe5UaS5) | 3:03 | 2020-08-09 | 2020-12-22 |

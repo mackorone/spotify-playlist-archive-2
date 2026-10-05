@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,548 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,545 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

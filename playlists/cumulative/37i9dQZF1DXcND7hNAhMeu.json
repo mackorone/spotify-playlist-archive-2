@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: \u00fc\u00e7kuru\u015f",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: Maya Perest",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Bilen Varsa",
+        "url": "https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Bilen Varsa",
+      "url": "https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC"
+    },
+    {
+      "album": {
         "name": "B\u0130 DAHA D\u00d6NMEM",
         "url": "https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 173382,
       "name": "G\u00fcn Batarken",
       "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 173538,
       "name": "\u0130stemedim Hi\u00e7",
       "url": "https://open.spotify.com/track/2BEjilqxCgQi6W9tnwoSsW"
@@ -976,6 +994,24 @@
       "duration_ms": 179997,
       "name": "Kara Kedi",
       "url": "https://open.spotify.com/track/0WpNYQlysYRiEyLj7oq9n8"
+    },
+    {
+      "album": {
+        "name": "Kaybedemem",
+        "url": "https://open.spotify.com/album/0LLOi21MciWA0yOFM7k9pK"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Kaybedemem",
+      "url": "https://open.spotify.com/track/3jOo0kLUO2UZIjv7Yuifd3"
     },
     {
       "album": {
@@ -1601,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Tuzak",
+        "url": "https://open.spotify.com/album/4vc9uCFGM6iBdM3G5p1cHr"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        },
+        {
+          "name": "Birkan Nasuho\u011flu",
+          "url": "https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "Tuzak",
+      "url": "https://open.spotify.com/track/3dpP0jRhAedrE8k7idQTPX"
+    },
+    {
+      "album": {
         "name": "UNTZ UNTZ",
         "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
       },
@@ -1810,7 +1868,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 206500,
       "name": "Yanl\u0131\u015f\u0131m Olma",
       "url": "https://open.spotify.com/track/3uwIKbE9iyhrmkzejA5gjT"
@@ -1940,7 +1998,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 193910,
       "name": "Yine Seni Severim",
       "url": "https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD"
@@ -1998,6 +2056,24 @@
       "duration_ms": 176842,
       "name": "Yorgun",
       "url": "https://open.spotify.com/track/7Ftiyuzj6KK7dfNW3v0IQ5"
+    },
+    {
+      "album": {
+        "name": "Y\u0131k\u0131lana Kadar",
+        "url": "https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Y\u0131k\u0131lana Kadar",
+      "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
     },
     {
       "album": {

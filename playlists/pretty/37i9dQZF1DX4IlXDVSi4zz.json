@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1034376,
+  "num_followers": 1034492,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 158769,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "Take You Home",
+        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
+      },
+      "artists": [
+        {
+          "name": "Quliano",
+          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "Take You Home",
-        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
-      },
-      "artists": [
-        {
-          "name": "Quliano",
-          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Alameyo",
         "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
       },
@@ -1607,38 +1627,18 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
       },
       "artists": [
         {
-          "name": "Joseph Capriati",
-          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
-        },
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "DRAMA club: Noche",
-        "url": "https://open.spotify.com/album/2BEBLiYOpSvpMvyDtSVsqS"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 205518,
-      "name": "DRAMA club: Noche",
-      "url": "https://open.spotify.com/track/2LsOc55BssENnGvNIfGdVm"
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1663,34 +1663,18 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+        "name": "DRAMA club: Noche",
+        "url": "https://open.spotify.com/album/2BEBLiYOpSvpMvyDtSVsqS"
       },
       "artists": [
         {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+      "duration_ms": 205518,
+      "name": "DRAMA club: Noche",
+      "url": "https://open.spotify.com/track/2LsOc55BssENnGvNIfGdVm"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1711,6 +1695,22 @@
       "duration_ms": 228633,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1823,46 +1823,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Keep It Exciting",
-        "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "Qobra",
-          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
-        },
-        {
-          "name": "Alex Hosking",
-          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
-        }
-      ],
-      "duration_ms": 138997,
-      "name": "Keep It Exciting",
-      "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1895,18 +1855,42 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Keep It Exciting",
+        "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Qobra",
+          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "duration_ms": 138997,
+      "name": "Keep It Exciting",
+      "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -1947,22 +1947,6 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "Chulo",
-        "url": "https://open.spotify.com/album/6OieTP7E0GrE9VncRlBGRa"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 165483,
-      "name": "Chulo",
-      "url": "https://open.spotify.com/track/7oTKNOsKRAOqqnroRFrNqa"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
+        "name": "Chulo",
+        "url": "https://open.spotify.com/album/6OieTP7E0GrE9VncRlBGRa"
       },
       "artists": [
         {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         }
       ],
-      "duration_ms": 173637,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+      "duration_ms": 165483,
+      "name": "Chulo",
+      "url": "https://open.spotify.com/track/7oTKNOsKRAOqqnroRFrNqa"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -2059,6 +2043,22 @@
       "duration_ms": 150660,
       "name": "Tambora",
       "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
     },
     {
       "added_at": "2026-09-25 04:00:39",

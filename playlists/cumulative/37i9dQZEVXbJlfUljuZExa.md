@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,561 songs - 3 day 18 hr 21 min
+1,562 songs - 3 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [bittersweet](https://open.spotify.com/track/6vDVu9IM9s8L8XMQ1c1Yti) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:22 | 2026-01-17 | 2026-03-15 |
 | [Black Swan](https://open.spotify.com/track/4TaJlCXAkv1WKYODXmq75b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:18 | 2021-12-14 | 2021-12-15 |
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-06-22 | 2026-10-02 |
-| [Blank Space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2026-08-28 |  |
+| [Blank Space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2026-08-28 | 2026-10-05 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-02 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-11 | 2022-01-19 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-04-01 |
@@ -354,6 +354,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-17 | 2025-03-09 |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-03 | 2024-11-08 |
+| [Dinda](https://open.spotify.com/track/0YxZwR2nJViImRcbNpDQDj) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/3UR1sVs8XaD9mfeFZLGfTj) | 3:31 | 2026-10-04 |  |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-26 | 2026-03-15 |
 | [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-07-01 | 2025-07-03 |
 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2025-07-08 | 2025-07-21 |
@@ -683,7 +684,7 @@
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-11-20 | 2025-01-03 |
 | [I’ll Be There](https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 3:01 | 2024-11-21 | 2024-11-23 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-03 |
-| [Jangan Jangan](https://open.spotify.com/track/3OqnKFIlA0dngc4stmjlcr) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Legasi](https://open.spotify.com/album/5DsOPl7OWi5i5U0gVAlwFa) | 3:41 | 2026-10-03 |  |
+| [Jangan Jangan](https://open.spotify.com/track/3OqnKFIlA0dngc4stmjlcr) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Legasi](https://open.spotify.com/album/5DsOPl7OWi5i5U0gVAlwFa) | 3:41 | 2026-10-03 | 2026-10-05 |
 | [Jangan Paksa Rindu](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 | 2026-04-04 |  |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2021-12-19 | 2022-02-24 |
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2026-08-22 |  |
@@ -1062,7 +1063,7 @@
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-01-12 | 2023-04-21 |
 | [Rahsia Tuhan](https://open.spotify.com/track/0FYnBVsruGEFIBRI3a4Vmz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/1jt7EDF7ImGNF1fIZcvMbp) | 4:47 | 2025-04-29 | 2026-01-06 |
 | [Rahsia Tuhan](https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP) | 4:47 | 2024-10-14 | 2025-04-30 |
-| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-10 | 2026-10-04 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-10 |  |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-09-17 |
 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 | 2026-05-16 | 2026-05-18 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-16 | 2025-03-18 |

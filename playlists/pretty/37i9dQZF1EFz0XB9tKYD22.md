@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 355 songs - 21 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 355 songs - 21 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 203 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 |
 | 204 | [Built for Heartbreak](https://open.spotify.com/track/6QJsDO7ZyX7EwVWPSkQc4b) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Built for Heartbreak](https://open.spotify.com/album/6XPnwkFbKwUntx4NQKUdt3) | 3:21 |
 | 205 | [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 |
-| 206 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
-| 207 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 |
+| 206 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 |
+| 207 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
 | 208 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
 | 209 | [Round and Round](https://open.spotify.com/track/78YagZM1JmrUVizeZiDwAz) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Round and Round](https://open.spotify.com/album/55AqNYMTp0MXxjCxxvQZXx) | 3:02 |
 | 210 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
@@ -285,8 +285,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 275 | [Being Myself](https://open.spotify.com/track/36EvBZRt8Oyx9rqt6L3mws) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 3:40 |
 | 276 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
 | 277 | [You Were Just Here](https://open.spotify.com/track/2GLiyuv81cBc4srbQwksLX) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Delicious Surprise](https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb) | 3:27 |
-| 278 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
-| 279 | [Country Radio Song](https://open.spotify.com/track/5vOgtkv7hxnaUdycDopV2O) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4gRBDZIfzrmFhzV50TPojY) | 3:22 |
+| 278 | [Country Radio Song](https://open.spotify.com/track/5vOgtkv7hxnaUdycDopV2O) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4gRBDZIfzrmFhzV50TPojY) | 3:22 |
+| 279 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
 | 280 | [Drink Up](https://open.spotify.com/track/7A5j3MRExt3LKUNeyK0MMN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl](https://open.spotify.com/album/4ZmHk18IZRCI8s1hjXV4cF) | 2:50 |
 | 281 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
 | 282 | [The Story Of My Life](https://open.spotify.com/track/0bGMqMbzmmUl2y5RGHJxZW) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 4:22 |
@@ -326,8 +326,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 316 | [I Should Be Dancing](https://open.spotify.com/track/7Drfpq8DConRof9Otf0Yhf) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Little Galaxy Girl](https://open.spotify.com/album/2AszC7OP4Fka4YRF7uE9Zp) | 2:54 |
 | 317 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 |
 | 318 | [Where I Belong](https://open.spotify.com/track/28xSt1u3oXNcyZ06LSPQbK) | [Rachel Proctor](https://open.spotify.com/artist/1p3WmosWl1NhjtnbHvQYxw) | [Where I Belong](https://open.spotify.com/album/3xQwDmEBXkw92JVGeorOal) | 3:53 |
-| 319 | [Love Remains \- Expecting Good Things Album Version](https://open.spotify.com/track/5HOt6DcFCABXsoXPiJPCzB) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [Expecting Good Things](https://open.spotify.com/album/50SEjxMSGtnGiWTrYpvH1U) | 3:55 |
-| 320 | [Dreaming](https://open.spotify.com/track/2pgxvpS3didN1YqyXa3Onr) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Dear Nashville](https://open.spotify.com/album/5l51k8fbINOwpxzWJ3MIie) | 3:33 |
+| 319 | [Dreaming](https://open.spotify.com/track/2pgxvpS3didN1YqyXa3Onr) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Dear Nashville](https://open.spotify.com/album/5l51k8fbINOwpxzWJ3MIie) | 3:33 |
+| 320 | [Love Remains \- Expecting Good Things Album Version](https://open.spotify.com/track/5HOt6DcFCABXsoXPiJPCzB) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [Expecting Good Things](https://open.spotify.com/album/50SEjxMSGtnGiWTrYpvH1U) | 3:55 |
 | 321 | [Ordinary](https://open.spotify.com/track/3fS3XFBFIRz7ai2tE1XKtr) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Story Of My Life](https://open.spotify.com/album/60PcwrE9VH7NImc13z7Y1J) | 4:15 |
 | 322 | [Getting Over You](https://open.spotify.com/track/7rd3I7NZWF8j8RAJz9ara9) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Story Of My Life](https://open.spotify.com/album/60PcwrE9VH7NImc13z7Y1J) | 3:31 |
 | 323 | [Giants](https://open.spotify.com/track/4CIZmd0bpwaklBdF5VSJBD) | [Jenn Beaupre](https://open.spotify.com/artist/3KcWzmH0pcsi3dawcj4F4n) | [Giants](https://open.spotify.com/album/560Rp60stLejpQ6Crmcttu) | 3:02 |
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 354 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 355 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `Acd/TgAAAAAGm6WxRx2Ry5y9LsDRWOOx`
+Snapshot ID: `AceE7gAAAACRrbb3nEX9jmaaluc1GNxZ`

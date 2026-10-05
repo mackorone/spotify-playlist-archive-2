@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,760 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,753 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 19 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
 | 20 | [Stranger \- Mariachi](https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger \(Mariachi\)](https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI) | 3:24 |
 | 21 | [Darling](https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Darling](https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc) | 3:07 |
-| 22 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
-| 23 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
-| 24 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
-| 25 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
+| 22 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
+| 23 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
+| 24 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
+| 25 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
 | 26 | [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 |
-| 27 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
-| 28 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
+| 27 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
+| 28 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
 | 29 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
 | 30 | [Riders Of The Moon](https://open.spotify.com/track/0deK1kN7aBhfhCy0BEoN1G) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Riders Of The Moon](https://open.spotify.com/album/0IXJHSmObrtPbAWqzi8Wdk) | 3:19 |
 | 31 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 38 | [SLPM](https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP) | [The Bures Band](https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV) | [Ozonia](https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal) | 5:44 |
 | 39 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
 | 40 | [A Long Long Time](https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [A Long Long Time](https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4) | 4:18 |
-| 41 | [Burning Tide](https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [No Chaser](https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU) | 2:40 |
-| 42 | [Read My Mind](https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Read My Mind](https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc) | 3:32 |
+| 41 | [Read My Mind](https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Read My Mind](https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc) | 3:32 |
+| 42 | [Burning Tide](https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [No Chaser](https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU) | 2:40 |
 | 43 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
 | 44 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
 | 45 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |
-| 46 | [Ricochet](https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Ricochet](https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh) | 3:43 |
-| 47 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
+| 46 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
+| 47 | [Ricochet](https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Ricochet](https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh) | 3:43 |
 | 48 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
 | 49 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 50 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 59 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 |
 | 60 | [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 |
 | 61 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
-| 62 | [We Gotta Groove \- 2025 Mix](https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [We Gotta Groove \(2025 Mix\)](https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB) | 2:09 |
-| 63 | [Chubby Money](https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Chubby Money](https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU) | 3:31 |
+| 62 | [Chubby Money](https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Chubby Money](https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU) | 3:31 |
+| 63 | [We Gotta Groove \- 2025 Mix](https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [We Gotta Groove \(2025 Mix\)](https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB) | 2:09 |
 | 64 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 65 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 66 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |

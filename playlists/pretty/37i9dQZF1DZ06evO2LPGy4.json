@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 478391,
+  "num_followers": 478429,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADswZWQaOrMbXcbg8vwUBW0",
+  "snapshot_id": "asBFgAAAAABfly7MMAqUt+Vs1EpYhqUV",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 2",
-        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 172267,
-      "name": "El Aroma de Tu Piel",
-      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+        "name": "Comer\u00e9 Callado, Vol. 2",
+        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+      "duration_ms": 172267,
+      "name": "El Aroma de Tu Piel",
+      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
     },
     {
       "added_at": null,

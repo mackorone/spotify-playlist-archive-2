@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > De bästa indielåtarna \- klassiker som Dansa Fastän, Shoreline och Helgen v\. 48!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,786 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,788 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 39 | [Man Must Dance](https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Johnossi](https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec) | 2:35 |
 | 40 | [Cheek to Cheek](https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [What If Leaving Is a Loving Thing](https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3) | 3:15 |
 | 41 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
-| 42 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
-| 43 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
+| 42 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
+| 43 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
 | 44 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
 | 45 | [Din tid kommer](https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Din tid kommer](https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd) | 4:41 |
 

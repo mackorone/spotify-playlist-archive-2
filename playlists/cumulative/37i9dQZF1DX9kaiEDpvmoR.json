@@ -5162,7 +5162,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 223506,
       "name": "Ingen plockar en maskros",
       "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
@@ -5296,6 +5296,32 @@
       "duration_ms": 171706,
       "name": "Inte bra i grupp",
       "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+    },
+    {
+      "album": {
+        "name": "Inte h\u00e4r",
+        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        },
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Inte h\u00e4r",
+      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
     },
     {
       "album": {

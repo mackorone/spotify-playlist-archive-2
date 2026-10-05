@@ -1,12 +1,12 @@
 {
   "description": "This is Volker Bertelmann. The essential tracks, all in one playlist.",
-  "num_followers": 819,
+  "num_followers": 822,
   "original_name": "This Is Volker Bertelmann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACpssE/cfTJcVD/X4r/OSms",
+  "snapshot_id": "asBFgAAAAAA+5lGGUv7KR+ELIw1SVQyU",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155632,
-      "name": "Data",
-      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
+      "duration_ms": 87085,
+      "name": "Overture of Conclave",
+      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 87085,
-      "name": "Overture of Conclave",
-      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
+      "duration_ms": 155632,
+      "name": "Data",
+      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
     },
     {
       "added_at": null,
@@ -259,74 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 116053,
-      "name": "Un soldat",
-      "url": "https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 87558,
-      "name": "Dog Tags",
-      "url": "https://open.spotify.com/track/4dlmnJ8Eq3m4jubfGBoYg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 44444,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 97453,
-      "name": "Orphans (From \"Lion\" Soundtrack)",
-      "url": "https://open.spotify.com/track/52UPF3JH4sGZmNgCRxF2r1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pressure (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
@@ -352,9 +284,45 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 118258,
-      "name": "Ludwig",
-      "url": "https://open.spotify.com/track/0ZQb1ftqBBqMMKsDQmjdHr"
+      "duration_ms": 87558,
+      "name": "Dog Tags",
+      "url": "https://open.spotify.com/track/4dlmnJ8Eq3m4jubfGBoYg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 116053,
+      "name": "Un soldat",
+      "url": "https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 97453,
+      "name": "Orphans (From \"Lion\" Soundtrack)",
+      "url": "https://open.spotify.com/track/52UPF3JH4sGZmNgCRxF2r1"
     },
     {
       "added_at": null,
@@ -368,9 +336,41 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 250852,
-      "name": "You Should Be Careful",
-      "url": "https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL"
+      "duration_ms": 44444,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 118258,
+      "name": "Ludwig",
+      "url": "https://open.spotify.com/track/0ZQb1ftqBBqMMKsDQmjdHr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 69649,
+      "name": "Entering The Meeting",
+      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 69649,
-      "name": "Entering The Meeting",
-      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
+      "duration_ms": 250852,
+      "name": "You Should Be Careful",
+      "url": "https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 34879,
-      "name": "Evening Prayer",
-      "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
+      "duration_ms": 44747,
+      "name": "Whatever The Weather",
+      "url": "https://open.spotify.com/track/7C4CkSHJDsQXHzdcpO4VWZ"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 44747,
-      "name": "Whatever The Weather",
-      "url": "https://open.spotify.com/track/7C4CkSHJDsQXHzdcpO4VWZ"
+      "duration_ms": 34879,
+      "name": "Evening Prayer",
+      "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 59256,
-      "name": "The Abyss Calls Out",
-      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
+      "duration_ms": 61424,
+      "name": "Back To Work",
+      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
     },
     {
       "added_at": null,
@@ -527,38 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 61424,
-      "name": "Back To Work",
-      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Uprising (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 70000,
-      "name": "Place For A Miracle",
-      "url": "https://open.spotify.com/track/2tPYxRrFMpPsAQMvqc4FxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conclave (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
@@ -568,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 67518,
-      "name": "Route of Fear",
-      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
+      "duration_ms": 103044,
+      "name": "Not What We Had Hoped",
+      "url": "https://open.spotify.com/track/16Zj0x6oNbaa5pW0mXJ0fG"
     },
     {
       "added_at": null,
@@ -607,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Uprising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 70000,
+      "name": "Place For A Miracle",
+      "url": "https://open.spotify.com/track/2tPYxRrFMpPsAQMvqc4FxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 59256,
+      "name": "The Abyss Calls Out",
+      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrift (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 102222,
       "name": "Sunset Monet (From \"Adrift\" Soundtrack)",
       "url": "https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Uprising (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "The Pitfall",
-      "url": "https://open.spotify.com/track/4J6kUjeZgfTaadinwyuGem"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Uprising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "The Pitfall",
+      "url": "https://open.spotify.com/track/4J6kUjeZgfTaadinwyuGem"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dune: Prophecy (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 92027,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/5aj6YRk2zx5kkw9CA8xkct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Racing in the Rain (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38M6iuTxDfisl9VKcBYJ2t"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 160922,
+      "name": "Enzo's Last Ride",
+      "url": "https://open.spotify.com/track/0loX01j5nETtY1mV4qua9o"
     },
     {
       "added_at": null,
@@ -723,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Racing in the Rain (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38M6iuTxDfisl9VKcBYJ2t"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 160922,
-      "name": "Enzo's Last Ride",
-      "url": "https://open.spotify.com/track/0loX01j5nETtY1mV4qua9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A House Of Dynamite (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 166900,
       "name": "Inclination Is Flattening",
       "url": "https://open.spotify.com/track/0kLA70O8edOE6qDHIGIzcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 155993,
+      "name": "Fureur juv\u00e9nile",
+      "url": "https://open.spotify.com/track/0WZumi2mX4GC80VEmJWnBY"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+        "name": "One Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0I9rM6mi4q4yS4mB4MZDI6"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155993,
-      "name": "Fureur juv\u00e9nile",
-      "url": "https://open.spotify.com/track/0WZumi2mX4GC80VEmJWnBY"
+      "duration_ms": 281318,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/3yMvm36EPgxgyzGNE4ZOUo"
     },
     {
       "added_at": null,

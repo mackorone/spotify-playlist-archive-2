@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 5 | [Los Talentos](https://open.spotify.com/track/0lRgkxtBOsFs8O5xo1AAK3) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [Los Talentos](https://open.spotify.com/album/2WdTBVLZeEFkhpRZAM1nXp) | 3:42 |
 | 6 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
 | 7 | [El Arca de Noé \- Infantil](https://open.spotify.com/track/7mhTn1WILa52WAk329YBQC) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:48 |
-| 8 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
+| 8 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
 | 9 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |
 | 10 | [Dios es](https://open.spotify.com/track/6stYPaNZhAYBbzQkVVKlCF) | [Lifetree Kids](https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW) | [Dios es](https://open.spotify.com/album/03YCMCCrDXvU38o2E5vMm9) | 2:18 |
 | 11 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
 | 12 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
-| 13 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
+| 13 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
 | 14 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
 | 15 | [Fuerza y Movimiento](https://open.spotify.com/track/70Y52BJMJP4avDjtdlEUjZ) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Fuerza y Movimiento](https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM) | 2:04 |
 | 16 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |

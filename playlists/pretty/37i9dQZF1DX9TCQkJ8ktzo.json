@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 51810,
+  "num_followers": 51822,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-10-02 20:37:56",
       "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2026-10-02 20:37:56",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2026-10-02 20:37:56",
-      "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2026-10-02 20:37:56",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-10-02 20:37:56",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
-        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 134293,
-      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
-      "url": "https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA"
-    },
-    {
-      "added_at": "2026-10-02 20:37:56",
-      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 186533,
       "name": "Lleg\u00f3 Borracho el Borracho",
       "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+    },
+    {
+      "added_at": "2026-10-02 20:37:56",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "duration_ms": 134293,
+      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
+      "url": "https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA"
     },
     {
       "added_at": "2026-10-02 20:37:56",

@@ -4,7 +4,7 @@
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-126 songs - 7 hr 41 min
+128 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2023-06-07 |  |
 | [Brand Name](https://open.spotify.com/track/3KCbYc3B781mJWzs8JqNzO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 5:02 | 2025-10-31 | 2025-11-18 |
 | [Butterflies](https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Butterflies](https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW) | 3:13 | 2026-08-23 |  |
-| [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 | 2023-06-07 |  |
+| [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 | 2023-06-07 | 2026-10-05 |
 | [Cable Box](https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 4:43 | 2025-10-29 | 2026-03-10 |
 | [Carpe Diem](https://open.spotify.com/track/0qZqbfudgogv0mFQOJ9TrB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:45 | 2025-11-01 | 2026-05-20 |
+| [Channel 13](https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 4:24 | 2026-10-05 |  |
 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2023-06-07 |  |
 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 | 2023-06-07 |  |
 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 | 2023-06-07 | 2026-09-03 |
@@ -51,6 +52,7 @@
 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 | 2025-09-21 | 2026-07-29 |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-19 |  |
 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 | 2023-06-07 |  |
+| [Grand](https://open.spotify.com/track/1LMb7mjt8zAM59KZO2myQm) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 2:06 | 2026-10-05 |  |
 | [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 | 2023-06-07 |  |
 | [Hands](https://open.spotify.com/track/6CrnvqCxBKVWahSiQwOesM) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:19 | 2024-07-11 | 2024-07-12 |
 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 | 2024-03-14 | 2025-01-19 |
@@ -114,7 +116,7 @@
 | [The Mourning After](https://open.spotify.com/track/17u8liQfMVc8WKiTzmdbzq) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey) | 3:08 | 2026-02-18 | 2026-03-31 |
 | [The Mourning After](https://open.spotify.com/track/7zQeDqDlb49AkPCoyXhZf0) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1) | 3:08 | 2026-05-01 |  |
 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 | 2024-03-28 | 2024-10-23 |
-| [The Question \(feat\. Lil Wayne\)](https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Macadelic](https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1) | 6:11 | 2026-09-26 |  |
+| [The Question \(feat\. Lil Wayne\)](https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Macadelic](https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1) | 6:11 | 2026-09-26 | 2026-10-05 |
 | [The Question \(feat\. Lil Wayne\)](https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 6:11 | 2024-05-10 | 2025-10-28 |
 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2023-06-07 | 2025-01-19 |
 | [The Spins](https://open.spotify.com/track/2QGVKiAGTa1YcDqPMhAzF7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru) | 3:15 | 2025-12-12 | 2026-04-06 |

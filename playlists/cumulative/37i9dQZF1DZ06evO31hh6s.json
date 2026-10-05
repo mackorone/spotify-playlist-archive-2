@@ -28,7 +28,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 267786,
       "name": "1,2,3 - Bonus Track",
       "url": "https://open.spotify.com/track/6xw5bzfHMyklTP3KpfcnFY"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
@@ -1921,6 +1921,28 @@
     },
     {
       "album": {
+        "name": "For My People",
+        "url": "https://open.spotify.com/album/6V2GgBaQXQyMW4tXqleWhX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183654,
+      "name": "God Don't Make Mistakes",
+      "url": "https://open.spotify.com/track/0K3qpEZSWsVmZ2A86Vshde"
+    },
+    {
+      "album": {
         "name": "Positive Vibes Only",
         "url": "https://open.spotify.com/album/3Zo7beAfN4fusdgeAWedjd"
       },
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 211722,
       "name": "God Got My Back (feat. Aktual, AKK)",
       "url": "https://open.spotify.com/track/0jQ7g5xOZyHJ13DNw9kcIN"
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 226893,
       "name": "Immortal, Pt. 2 (feat. Sky Keeton)",
       "url": "https://open.spotify.com/track/5jWj79MwRzNp6qH6FG8BVG"
@@ -3918,7 +3940,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 214872,
       "name": "Outlawz Everywhere (feat. Young Noble & Keisha Hussein)",
       "url": "https://open.spotify.com/track/1gOW3160UvgEOomiEXdzI0"
@@ -4740,7 +4762,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -5288,7 +5310,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 222533,
       "name": "The End",
       "url": "https://open.spotify.com/track/28d2ijVgLxk7iieu2T8xLR"

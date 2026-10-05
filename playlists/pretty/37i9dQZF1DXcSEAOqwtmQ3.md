@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,744 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,804 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 20 | [Leg Over](https://open.spotify.com/track/4aVvqZr2jg19UQ1o18mSkp) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Leg Over](https://open.spotify.com/album/2iypBnpd8rzDNjjlF7rKaP) | 3:17 |
 | 21 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 |
 | 22 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 |
-| 23 | [Fada Fada](https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The PlayMaker](https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW) | 4:48 |
-| 24 | [Manya](https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Manya](https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7) | 3:51 |
+| 23 | [Manya](https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Manya](https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7) | 3:51 |
+| 24 | [Fada Fada](https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The PlayMaker](https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW) | 4:48 |
 | 25 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 |
 | 26 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
 | 27 | [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 |

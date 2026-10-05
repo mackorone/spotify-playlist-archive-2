@@ -1,6 +1,6 @@
 {
   "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e08\u0e31\u0e1a\u0e15\u0e32\u0e21\u0e2d\u0e07\u0e1b\u0e35 2026 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e1b\u0e01: JayQ",
-  "num_followers": 12019,
+  "num_followers": 12021,
   "original_name": "RADAR Thailand",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,18 @@
     {
       "added_at": "2026-08-05 01:00:17",
       "album": {
-        "name": "WIRUNJUMBANG",
-        "url": "https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou"
+        "name": "Zindaria",
+        "url": "https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V"
       },
       "artists": [
         {
           "name": "JayQ",
           "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
-        },
-        {
-          "name": "2Ectasy",
-          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
         }
       ],
-      "duration_ms": 219689,
-      "name": "WIRUNJUMBANG",
-      "url": "https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R"
+      "duration_ms": 143780,
+      "name": "Zindaria",
+      "url": "https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w"
     },
     {
       "added_at": "2026-08-05 01:00:17",
@@ -403,18 +399,22 @@
     {
       "added_at": "2026-08-05 01:00:17",
       "album": {
-        "name": "Zindaria",
-        "url": "https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V"
+        "name": "WIRUNJUMBANG",
+        "url": "https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou"
       },
       "artists": [
         {
           "name": "JayQ",
           "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
         }
       ],
-      "duration_ms": 143780,
-      "name": "Zindaria",
-      "url": "https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w"
+      "duration_ms": 219689,
+      "name": "WIRUNJUMBANG",
+      "url": "https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R"
     },
     {
       "added_at": "2026-08-05 01:00:17",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-05 01:00:17",
       "album": {
-        "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
-        "url": "https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN"
-      },
-      "artists": [
-        {
-          "name": "VVV",
-          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
-      "url": "https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX"
-    },
-    {
-      "added_at": "2026-08-05 01:00:17",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 219090,
       "name": "Crv",
       "url": "https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh"
+    },
+    {
+      "added_at": "2026-08-05 01:00:17",
+      "album": {
+        "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
+        "url": "https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
+      "url": "https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX"
     },
     {
       "added_at": "2026-08-05 01:00:17",

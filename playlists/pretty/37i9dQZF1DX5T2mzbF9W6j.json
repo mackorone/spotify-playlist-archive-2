@@ -243,22 +243,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "P\u00f3\u017aniej Ci opowiem",
         "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 185346,
       "name": "P\u00f3\u017aniej Ci opowiem",
       "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Nie ma miejsca jak dom",
-        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 198060,
-      "name": "Nie ma miejsca jak dom",
-      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
         "url": "https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 170402,
       "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
       "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Nie ma miejsca jak dom",
+        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 198060,
+      "name": "Nie ma miejsca jak dom",
+      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Music Sounds",
-        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Music Sounds",
-      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Primabalerina",
         "url": "https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 187712,
       "name": "Primabalerina",
       "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "WSZYSTKO CZEGO CHCIA\u0141EM",
+        "url": "https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 211219,
+      "name": "Naturalny high",
+      "url": "https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "B\u0119dzie By\u0142o",
         "url": "https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 148351,
       "name": "B\u0119dzie By\u0142o",
       "url": "https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "WSZYSTKO CZEGO CHCIA\u0141EM",
-        "url": "https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 211219,
-      "name": "Naturalny high",
-      "url": "https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Don't Say That",
-        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Don't Say That",
-      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 210927,
       "name": "Flora",
       "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "VOICE",
         "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 172000,
       "name": "Kochanie!",
       "url": "https://open.spotify.com/track/4P8CXaK6JujCRu45IaZu5x"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Maj",
-        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Szpak",
-          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Maj",
-      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "nie wierz\u0119 w bajki",
         "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Maj",
+        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szpak",
+          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Maj",
+      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Lepiej ju\u017c by\u0142o",
         "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 220157,
       "name": "Lepiej ju\u017c by\u0142o",
       "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Tu M\u00f3j Dom",
+        "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
+      },
+      "artists": [
+        {
+          "name": "Staszek z G\u00f3r",
+          "url": "https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr"
+        },
+        {
+          "name": "Sound'n'Grace",
+          "url": "https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo"
+        }
+      ],
+      "duration_ms": 138876,
+      "name": "Tu M\u00f3j Dom",
+      "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -887,26 +907,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Tu M\u00f3j Dom",
-        "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
-      },
-      "artists": [
-        {
-          "name": "Staszek z G\u00f3r",
-          "url": "https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr"
-        },
-        {
-          "name": "Sound'n'Grace",
-          "url": "https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo"
-        }
-      ],
-      "duration_ms": 138876,
-      "name": "Tu M\u00f3j Dom",
-      "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Wo\u0142am",
         "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Daj mi zna\u0107",
-        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        },
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 179354,
-      "name": "Daj mi zna\u0107",
-      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -971,6 +951,26 @@
       "duration_ms": 204884,
       "name": "TAK TAK",
       "url": "https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Daj mi zna\u0107",
+        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "Daj mi zna\u0107",
+      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Nie za\u015bpiewam Twojej mamie",
-        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+        "name": "To nie o mnie + Zimne ognie",
+        "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
       },
       "artists": [
         {
-          "name": "Briela",
-          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
         }
       ],
-      "duration_ms": 190506,
-      "name": "Nie za\u015bpiewam Twojej mamie",
-      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
+      "duration_ms": 183311,
+      "name": "Zimne ognie",
+      "url": "https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0"
     },
     {
       "added_at": "2026-10-02 15:28:11",

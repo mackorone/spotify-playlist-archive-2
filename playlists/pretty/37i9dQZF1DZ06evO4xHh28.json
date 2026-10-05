@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 646494,
+  "num_followers": 646548,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAC7f03V5T0BRycoEbv6iC4e",
+  "snapshot_id": "asBFgAAAAABXA0HIq4Du/Pe8R7HTp0cx",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 231096,
-      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
+      "duration_ms": 326506,
+      "name": "Vampires Will Never Hurt You",
+      "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 326506,
-      "name": "Vampires Will Never Hurt You",
-      "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "added_at": null,

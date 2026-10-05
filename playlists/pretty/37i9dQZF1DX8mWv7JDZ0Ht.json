@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
-  "num_followers": 433206,
+  "num_followers": 433195,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
+        "name": "Errado pra mim",
+        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 151925,
+      "name": "Errado pra mim",
+      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
         "name": "Atemporal - PART II",
         "url": "https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 192050,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "te traindo com voc\u00ea",
-        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 188150,
-      "name": "te traindo com voc\u00ea",
-      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -315,28 +315,8 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "Errado pra mim",
-        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+        "name": "te traindo com voc\u00ea",
+        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
       },
       "artists": [
         {
@@ -344,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 151925,
-      "name": "Errado pra mim",
-      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
+      "duration_ms": 188150,
+      "name": "te traindo com voc\u00ea",
+      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -371,18 +351,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -407,6 +391,38 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
         "name": "N\u00e3o mente pra mim",
         "url": "https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 202666,
       "name": "N\u00e3o mente pra mim",
       "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "J\u00e1 Vi Fogo",
-        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 273281,
-      "name": "J\u00e1 Vi Fogo",
-      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "J\u00e1 Vi Fogo",
+        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 273281,
+      "name": "J\u00e1 Vi Fogo",
+      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -731,22 +731,18 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "NOVA: Surpresa",
-        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 255333,
-      "name": "NOVA: Surpresa",
-      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -767,18 +763,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+        "name": "NOVA: Surpresa",
+        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
+      "duration_ms": 255333,
+      "name": "NOVA: Surpresa",
+      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
         "name": "dois brilhantes",
         "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
       "artists": [
         {
           "name": "Doral",
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -871,6 +891,42 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "gosto de gostar",
+        "url": "https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        }
+      ],
+      "duration_ms": 163464,
+      "name": "gosto de gostar",
+      "url": "https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
         "name": "Ressaca de saudade",
         "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
       },
@@ -883,6 +939,22 @@
       "duration_ms": 143999,
       "name": "Ressaca de saudade",
       "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -927,26 +999,6 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
         "name": "Tudo que deu pra fazer em um ano",
         "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
@@ -963,22 +1015,6 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "gosto de gostar",
-        "url": "https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y"
-      },
-      "artists": [
-        {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        }
-      ],
-      "duration_ms": 163464,
-      "name": "gosto de gostar",
-      "url": "https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -1003,26 +1039,6 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
         "name": "Quero Descobrir",
         "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
@@ -1039,6 +1055,26 @@
       "duration_ms": 177647,
       "name": "Quero Descobrir",
       "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-10-02 03:00:12",
@@ -1139,6 +1175,22 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
+    },
+    {
+      "added_at": "2026-10-02 03:00:12",
+      "album": {
         "name": "N\u00e3o \u00e9 t\u00e3o ruim",
         "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
       },
@@ -1195,22 +1247,6 @@
     {
       "added_at": "2026-10-02 03:00:12",
       "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
         "name": "QUANDO ASSUM VOAR",
         "url": "https://open.spotify.com/album/0m909aW6kNTzgB05lzga06"
       },
@@ -1227,38 +1263,6 @@
       "duration_ms": 175801,
       "name": "QUANDO ASSUM VOAR",
       "url": "https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "A Minha Flor",
-        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Lobo",
-          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "A Minha Flor",
-      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
-    },
-    {
-      "added_at": "2026-10-02 03:00:12",
-      "album": {
-        "name": "COMO ELA VEM",
-        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
-      },
-      "artists": [
-        {
-          "name": "FERMI",
-          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
-        }
-      ],
-      "duration_ms": 145151,
-      "name": "COMO ELA VEM",
-      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
     }
   ],
   "unique_name": "Pop Leve",

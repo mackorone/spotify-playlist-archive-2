@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: CORTIS",
-  "num_followers": 468367,
+  "num_followers": 468432,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -277,42 +277,6 @@
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "rockstar (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
-    },
-    {
-      "added_at": "2025-05-02 04:00:35",
-      "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
       "added_at": "2024-12-13 05:00:12",
       "album": {
         "name": "Again (feat. XXXTENTACION)",
@@ -331,6 +295,42 @@
       "duration_ms": 193961,
       "name": "Again (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
+    },
+    {
+      "added_at": "2025-05-02 04:00:35",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "rockstar (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2025-06-20 04:00:48",
@@ -519,26 +519,22 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
       "artists": [
         {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2025-10-10 04:00:48",
@@ -559,22 +555,26 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
         },
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-24 04:00:47",
       "album": {
-        "name": "KGB",
-        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 157316,
-      "name": "KGB",
-      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
-    },
-    {
-      "added_at": "2026-04-24 04:00:47",
-      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "KGB",
+        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 157316,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
       "added_at": "2026-02-13 20:45:04",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "HIVE",
+        "url": "https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 133509,
+      "name": "UH OH! (feat. BENEE)",
+      "url": "https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"
+    },
+    {
       "added_at": "2026-04-24 04:00:47",
       "album": {
         "name": "Clarity (BUNT. Remix)",
@@ -1531,26 +1551,6 @@
       "duration_ms": 204110,
       "name": "Clarity - BUNT. Remix",
       "url": "https://open.spotify.com/track/13fVuFWEQOGlYY6EaxfQyj"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "HIVE",
-        "url": "https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 133509,
-      "name": "UH OH! (feat. BENEE)",
-      "url": "https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"
     },
     {
       "added_at": "2026-05-22 04:50:44",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "Bubee",
+        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 182448,
+      "name": "Bubee",
+      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
+    },
+    {
       "added_at": "2025-11-11 09:00:20",
       "album": {
         "name": "M.I.A (VALORANT Game Changers Version)",
@@ -1603,22 +1619,6 @@
       "duration_ms": 129587,
       "name": "M.I.A - VALORANT Game Changers Version",
       "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
-    },
-    {
-      "added_at": "2026-04-24 04:00:47",
-      "album": {
-        "name": "Bubee",
-        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 182448,
-      "name": "Bubee",
-      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
     },
     {
       "added_at": "2024-09-06 04:01:00",

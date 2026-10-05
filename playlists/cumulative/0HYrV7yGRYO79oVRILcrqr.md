@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-784 songs - 2 day 0 hr 49 min
+785 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Sol de plata](https://open.spotify.com/track/1dlknX8icptmcv1OLzcVne) | [Por Si Dicen Que Caí](https://open.spotify.com/artist/23LRY8EOOefJ8VsihBF6lM) | [Sol de plata](https://open.spotify.com/album/4bIfqEsGgT61ZNbnfSwqsV) | 5:21 | 2026-01-12 | 2026-03-18 |
 | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/track/2E01jh8rrkNapzVyFyQWzw) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/album/4Atk8Qt7icDaCPFcRbM76v) | 3:27 | 2025-09-01 | 2026-07-12 |
 | [Something Blue](https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Something Blue](https://open.spotify.com/album/226qtJTWbK1lfWh8aE82od) | 3:39 | 2025-10-17 |  |
+| [Somewhere I Belong](https://open.spotify.com/track/7qhubAcJBQyuVwCfvX0Lfz) | [Autogenic](https://open.spotify.com/artist/6d5cEuHc27DTtT4IkY6TJg) | [Somewhere I Belong](https://open.spotify.com/album/4zwc43bc9GQEBbElu8qgFg) | 4:25 | 2026-10-04 |  |
 | [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 | 2026-09-22 |  |
 | [Song of a Hooligan](https://open.spotify.com/track/3Ew5FF6YJfXre7pT2JaJZA) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Song of a Hooligan](https://open.spotify.com/album/3Z9FfksgrxLlXKPhTbobfJ) | 2:52 | 2025-10-27 | 2025-11-28 |
 | [Sonnenbrille im Club](https://open.spotify.com/track/5Jf9zLu8K5JYqFU9MK1bEW) | [ENFYS](https://open.spotify.com/artist/6mHsW7x3l8WQb2LQC1xAXd), [BrainDamage](https://open.spotify.com/artist/4SlcBG3iScSBYLtfoYpDDk) | [Sonnenbrille im Club](https://open.spotify.com/album/3C9W4naev7opKIi9mknkLJ) | 4:08 | 2026-04-27 | 2026-05-26 |

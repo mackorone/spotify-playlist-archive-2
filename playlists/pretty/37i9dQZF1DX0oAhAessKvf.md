@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,887 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,899 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 30 | [Si Pudiera Estar Con Ella](https://open.spotify.com/track/560COmYKZ7Jt9fq9X2GRgi) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:12 |
 | 31 | [Bomba Para Afincar](https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 3:33 |
 | 32 | [EL Desorden](https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 3:53 |
-| 33 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
+| 33 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
 | 34 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
-| 35 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
+| 35 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 36 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/6lE9VELD83mGckKH9Dp3Kt) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
 | 37 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
 | 38 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 55 | [Meneaito Mega\-Mix \(feat\. Aldo Ranks, Kungfu & Robert Dance\)](https://open.spotify.com/track/2yxKrSbzkk1O7E2Hps3yU1) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k), [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn), [Jam](https://open.spotify.com/artist/0vI3bsRWpEBvKSDQ3Av1dC), [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2), [Suppose](https://open.spotify.com/artist/1Q3OP8iAWXyM4pzBx23v8P), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3), [Kung Fu](https://open.spotify.com/artist/553xiHYRTLufVtTSroanwc), [Robert Dance](https://open.spotify.com/artist/0y4znT63W9LaVXJJMnR33g) | [Meneaito Mega\-Mix \(feat\. Robert Dance, Aldo Ranks & Kungfu\)](https://open.spotify.com/album/3cHiF5hk7IaKrguowPvOwu) | 7:09 |
 | 56 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
 | 57 | [Tira Un Ritmo Sandunguero](https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5) | [Great Kilo](https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:56 |
-| 58 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
-| 59 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
+| 58 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
+| 59 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
 | 60 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
 | 61 | [Desnudate](https://open.spotify.com/track/7a5dK2QQPkWMMebGely7Zq) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
 | 62 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |

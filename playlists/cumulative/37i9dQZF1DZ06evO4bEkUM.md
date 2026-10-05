@@ -4,7 +4,7 @@
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 41 min
+79 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2023-01-14 | 2023-02-14 |
 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 | 2023-02-13 | 2025-11-12 |
 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 | 2023-01-14 |  |
+| [The Only Exception \- Live at Red Rocks Amphitheatre, Morrison, CO, 8/12/2014](https://open.spotify.com/track/14UFeUG8RCx1XwSuGF9Tcs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 4:39 | 2026-10-05 |  |
 | [Thick Skull](https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:52 | 2024-05-10 |  |
-| [This Circle](https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:06 | 2025-07-27 |  |
+| [This Circle](https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:06 | 2025-07-27 | 2026-10-05 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 | 2024-07-06 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2023-01-14 | 2024-07-05 |
 | [Told You So](https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:08 | 2023-01-14 |  |

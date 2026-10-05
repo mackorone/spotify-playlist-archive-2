@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75284,
+  "num_followers": 75289,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABEB9do0OschLjel5cGnruc",
+  "snapshot_id": "asBFgAAAAADistxHg9EWBgBGcYJK4mQm",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3LiArYJoDOq9fiiVIBc893"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 305552,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7FlFVxnKwJl6E5B49Jn9S7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blah-Blah-Blah",
         "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
       },
@@ -271,6 +291,22 @@
       "duration_ms": 268533,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 221374,
+      "name": "Some Weird Sin",
+      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
     },
     {
       "added_at": null,
@@ -295,22 +331,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 221374,
-      "name": "Some Weird Sin",
-      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
     },
     {
       "added_at": null,
@@ -347,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -375,6 +379,22 @@
       "duration_ms": 392160,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
     },
     {
       "added_at": null,
@@ -423,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICONOCLASTS",
-        "url": "https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "The Whole Woman",
-      "url": "https://open.spotify.com/track/6hZmRzlIAOdOMFMx5iOoym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -487,6 +487,26 @@
       "duration_ms": 259113,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICONOCLASTS",
+        "url": "https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "The Whole Woman",
+      "url": "https://open.spotify.com/track/6hZmRzlIAOdOMFMx5iOoym"
     },
     {
       "added_at": null,
@@ -584,9 +604,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
     },
     {
       "added_at": null,
@@ -623,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Life Evolution",
-        "url": "https://open.spotify.com/album/74L4dvdjMnXTwMajarOTNm"
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
       "artists": [
-        {
-          "name": "Joan As Police Woman",
-          "url": "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef"
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 174578,
-      "name": "Funtime",
-      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 163013,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 433357,
-      "name": "Dum Dum Boys",
-      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 433357,
+      "name": "Dum Dum Boys",
+      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome To Goran Bregovic",
         "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 253480,
       "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Life Evolution",
+        "url": "https://open.spotify.com/album/74L4dvdjMnXTwMajarOTNm"
+      },
+      "artists": [
+        {
+          "name": "Joan As Police Woman",
+          "url": "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef"
     },
     {
       "added_at": null,
@@ -843,26 +863,6 @@
       "duration_ms": 238387,
       "name": "Chocolate Drops",
       "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/3LiArYJoDOq9fiiVIBc893"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 305552,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/7FlFVxnKwJl6E5B49Jn9S7"
     },
     {
       "added_at": null,

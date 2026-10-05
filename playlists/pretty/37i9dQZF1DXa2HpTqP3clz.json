@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168695,
+  "num_followers": 168694,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/14BFkK2Rq7IQ01qnFqIwth"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/0TUHqN9omctG8MsSwJMhej"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/14BFkK2Rq7IQ01qnFqIwth"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/0TUHqN9omctG8MsSwJMhej"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "The Highway Knows",
-        "url": "https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 250513,
-      "name": "The Highway Knows",
-      "url": "https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 194320,
       "name": "Eliza",
       "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "The Highway Knows",
+        "url": "https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 250513,
+      "name": "The Highway Knows",
+      "url": "https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Looks Like The End Of The Road",
-        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 220393,
-      "name": "Looks Like The End Of The Road",
-      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 202839,
       "name": "Not Broken",
       "url": "https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Hubbardville Store",
-        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
-      },
-      "artists": [
-        {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Hubbardville Store",
-      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Nowhere Next",
         "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 230733,
       "name": "Didn't Go Wrong",
       "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Hubbardville Store",
+        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+      },
+      "artists": [
+        {
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Hubbardville Store",
+      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Gas and Oil",
-        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Gas and Oil",
-      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Granite Mills",
         "url": "https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Gas and Oil",
+        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "Gas and Oil",
+      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Della Jane's Heart",
+        "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 170093,
+      "name": "Possum Up a 'Simmon Tree",
+      "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Into the Wild",
         "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 254316,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Della Jane's Heart",
-        "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "Possum Up a 'Simmon Tree",
-      "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Last Road Going Home",
-        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Last Road Going Home",
-      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1095,18 +1079,38 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
+        "name": "Last Road Going Home",
+        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
       "artists": [
         {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
         }
       ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
+      "duration_ms": 214306,
+      "name": "Last Road Going Home",
+      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+        }
+      ],
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
       "artists": [
         {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Maggie O'Connor",
-          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
         }
       ],
-      "duration_ms": 263317,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Long Way Around",
-        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 177858,
-      "name": "Long Way Around",
-      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Long Way Around",
+        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 177858,
+      "name": "Long Way Around",
+      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Come Out Of My Blues (feat. Tim O'Brien)",
         "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 227906,
       "name": "Come Out Of My Blues (feat. Tim O'Brien)",
       "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Lost John",
+        "url": "https://open.spotify.com/album/0ZFN0BBsuuQNin3bD4elvx"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
         },
         {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 154475,
+      "name": "Lost John",
+      "url": "https://open.spotify.com/track/5ydOwOiedCOttOb6ur4rNj"
     }
   ],
   "unique_name": "Grass Roots",

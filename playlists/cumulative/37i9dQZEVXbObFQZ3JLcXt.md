@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-783 songs - 2 day 0 hr 59 min
+784 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,7 +554,7 @@
 | [Roman Picisan](https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Roman Picisan](https://open.spotify.com/album/44cPwHYWVAm8DQruNmojpu) | 5:01 | 2021-12-24 | 2022-03-06 |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-29 | 2021-07-30 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-08-21 |
-| [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 | 2021-03-27\* | 2026-09-30 |
+| [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 | 2021-03-27\* |  |
 | [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2024-07-27 | 2025-02-16 |
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-08-28 | 2023-02-04 |
 | [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-03 | 2023-09-10 |
@@ -703,8 +703,9 @@
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-04-06 | 2024-06-02 |
-| [Terbelah Jadi Dua](https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Terbelah Jadi Dua](https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P) | 4:15 | 2026-09-21 |  |
-| [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 |  |
+| [Terbelah Jadi Dua](https://open.spotify.com/track/0euhFPZ2tlFElQzppQCzCw) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Blue.](https://open.spotify.com/album/10F8PeC10SDFw1ve8S6aDZ) | 4:15 | 2026-10-04 |  |
+| [Terbelah Jadi Dua](https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Terbelah Jadi Dua](https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P) | 4:15 | 2026-09-21 | 2026-10-05 |
+| [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 | 2026-10-05 |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2025-02-02 | 2025-02-06 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-02-15 | 2023-02-22 |
 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 | 2024-08-07 | 2024-10-30 |

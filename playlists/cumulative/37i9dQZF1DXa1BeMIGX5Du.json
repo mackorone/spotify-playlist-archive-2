@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 182093,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN"
@@ -3205,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Hard Questions",
+        "url": "https://open.spotify.com/album/4ty5EHaGyrGAXzlHBE9yB8"
+      },
+      "artists": [
+        {
+          "name": "#1 Dads",
+          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263506,
+      "name": "Hard Questions",
+      "url": "https://open.spotify.com/track/063Agpb94qT1yZlK5jl3qt"
+    },
+    {
+      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/7nyZWT6TFCXpO6ltRMNQKt"
       },
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 153065,
       "name": "I'm With You",
       "url": "https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox"
@@ -6106,6 +6124,24 @@
       "duration_ms": 188635,
       "name": "Rather Be Lonely",
       "url": "https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0"
+    },
+    {
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "album": {

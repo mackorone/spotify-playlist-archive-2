@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 384365,
+  "num_followers": 384379,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACP/X+gbg3qlcZru0hxJR1y",
+  "snapshot_id": "asBFgAAAAACsagOnovICXyqGw+T3RbUJ",
   "tracks": [
     {
       "added_at": null,
@@ -351,38 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "A Song About Being Sad",
-      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 133436,
       "name": "Every Way",
       "url": "https://open.spotify.com/track/7HOsPWfUoMjc2tcC4hVyQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "A Song About Being Sad",
+      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
     },
     {
       "added_at": null,
@@ -419,6 +403,38 @@
       "duration_ms": 320720,
       "name": "Boredom (feat. Rex Orange County & Anna of the North)",
       "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/6NBXqsTzRybSTRLXocRmUV"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/0TYufKGcTKJweqADcwe1LM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 146102,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 146102,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHO CARES?",
         "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 115400,
       "name": "MAKING TIME",
       "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 219799,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 298520,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 107170,
-      "name": "Rex (Intro)",
-      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178932,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 107170,
+      "name": "Rex (Intro)",
+      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Know Love",
-      "url": "https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You've Got a Friend in Me",
         "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 139521,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2zTvaaqnkgnOa5hdSPV61i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Know Love",
+      "url": "https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci"
     },
     {
       "added_at": null,

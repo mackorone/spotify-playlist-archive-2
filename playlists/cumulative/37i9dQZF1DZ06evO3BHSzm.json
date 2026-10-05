@@ -1900,10 +1900,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 161440,
       "name": "Squeeze Box",
       "url": "https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X"
+    },
+    {
+      "album": {
+        "name": "Squeeze Box (Acoustic / Stripped Mix 2026)",
+        "url": "https://open.spotify.com/album/4plZVMP0NIkyldGk0rreWy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Squeeze Box - Acoustic / Stripped Mix 2026",
+      "url": "https://open.spotify.com/track/2GFDqzmYb6hiw7ewTzpFQw"
     },
     {
       "album": {

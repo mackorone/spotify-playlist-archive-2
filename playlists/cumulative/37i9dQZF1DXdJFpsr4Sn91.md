@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,292 songs - 2 day 16 hr 35 min
+1,293 songs - 2 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-05 |
 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-21 | 2025-08-16 |
 | [Et ollut se](https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Et ollut se](https://open.spotify.com/album/3sine6HsKtZdgJTaoXp0NJ) | 3:18 | 2025-09-18 | 2025-11-21 |
-| [Etärakastaa](https://open.spotify.com/track/52ZKKXMog4cw5wgGpXKyJa) | [ISA&ALEKSI](https://open.spotify.com/artist/4GQW3FwUg5uqOTvKOGLf3W) | [Etärakastaa](https://open.spotify.com/album/0zBajjIRK4nMoaFWiGnDQn) | 3:25 | 2026-09-10 |  |
+| [Etärakastaa](https://open.spotify.com/track/52ZKKXMog4cw5wgGpXKyJa) | [ISA&ALEKSI](https://open.spotify.com/artist/4GQW3FwUg5uqOTvKOGLf3W) | [Etärakastaa](https://open.spotify.com/album/0zBajjIRK4nMoaFWiGnDQn) | 3:25 | 2026-09-10 | 2026-10-05 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-03 | 2024-10-25 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
 | [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 | 2026-01-01 | 2026-05-29 |
@@ -467,6 +467,7 @@
 | [Jossain sä oot](https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Jossain sä oot](https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou) | 3:37 | 2025-11-20 | 2025-12-12 |
 | [JOTAIN RUMAA](https://open.spotify.com/track/7IUWV9nVnp5RcWdIJ3DNOV) | [MAMMA](https://open.spotify.com/artist/45sD2bIEHPx2cM7iEc4e0g) | [JOTAIN RUMAA](https://open.spotify.com/album/1K1FSXfLGsfHmUFwDWlJHi) | 3:32 | 2026-08-27 | 2026-09-17 |
 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 | 2024-12-12 | 2025-01-03 |
+| [Joutsenet](https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Parasta ja paskinta](https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC) | 2:22 | 2026-10-01 |  |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-04 | 2024-07-12 |
 | [Juhannusvalssi](https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Juhannusvalssi](https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc) | 3:44 | 2026-05-14 | 2026-09-04 |
 | [Jumalat juhlivat öisin](https://open.spotify.com/track/1cTUxnoy0BqVpSs43J3mpV) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Jumalat juhlivat öisin](https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv) | 2:53 | 2025-09-04 | 2025-09-26 |
@@ -1109,7 +1110,7 @@
 | [Tikapuut \(Vain elämää kausi 16\)](https://open.spotify.com/track/661bSX8tJ948FzRRUTGZQD) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Tikapuut \(Vain elämää kausi 16\)](https://open.spotify.com/album/3NAsQ6NWWHOHmpg8ILpFOO) | 3:34 | 2025-09-18 | 2025-09-26 |
 | [Tilanne vaatii](https://open.spotify.com/track/6T2IVIG3RGB7ImxV9pglP8) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Tilanne vaatii](https://open.spotify.com/album/6UF8RIXjESZLMQFcsjIuLs) | 2:47 | 2025-06-26 | 2025-07-04 |
 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 | 2025-01-09 | 2025-02-14 |
-| [Tilulilulauluja](https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tilulilulauluja](https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP) | 4:07 | 2026-06-11 |  |
+| [Tilulilulauluja](https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tilulilulauluja](https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP) | 4:07 | 2026-06-11 | 2026-10-05 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 | 2024-11-15 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 | 2025-06-20 |
 | [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-07 | 2024-08-10 |
@@ -1151,7 +1152,7 @@
 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-28 | 2026-02-09 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-09 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-28 |
-| [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 | 2026-09-24 | 2026-10-02 |
+| [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 | 2026-09-24 |  |
 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 | 2026-01-09 | 2026-02-18 |
 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 | 2025-11-14 |
 | [Tyttöystävä](https://open.spotify.com/track/1ZYdynsL0Js9Ha7C9h6XtW) | [Julia Rautio](https://open.spotify.com/artist/1Ir1beWTLsaUykUvzctvFj) | [Tyttöystävä](https://open.spotify.com/album/1mcb7p1hHgV85NyPZvPpyL) | 3:05 | 2024-11-07 | 2024-11-29 |

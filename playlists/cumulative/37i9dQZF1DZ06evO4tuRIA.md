@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-124 songs - 5 hr 59 min
+125 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [David de los Acme](https://open.spotify.com/track/7I2sD39Gio77Gjny9NBnwM) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:44 | 2025-03-30 | 2025-10-04 |
 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 | 2024-10-13 | 2026-03-06 |
 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 | 2024-01-29 |  |
+| [De Periódico Un Gallito \- En Vivo](https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [De Periódico Un Gallito \(En Vivo\)](https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE) | 3:27 | 2026-10-05 |  |
 | [Dos Cabrones](https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Dos Cabrones](https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2) | 2:34 | 2024-03-24 | 2024-08-03 |
 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 | 2024-01-29 |  |
 | [El A1](https://open.spotify.com/track/2XNPAcsnR60PIujvWFYkqf) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:47 | 2025-02-04 | 2025-02-09 |
@@ -125,7 +126,7 @@
 | [Tu Forma De Ser](https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Tu Forma De Ser](https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ) | 2:57 | 2024-06-23 |  |
 | [UN CAFECITO](https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [UN CAFECITO](https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN) | 2:37 | 2026-07-12 |  |
 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-04-13 |  |
-| [UN WOODCITO](https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:55 | 2025-04-25 |  |
+| [UN WOODCITO](https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:55 | 2025-04-25 | 2026-10-05 |
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
 | [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 | 2024-11-19 |  |
 | [Voy A Llegar](https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Voy A Llegar](https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1) | 2:42 | 2024-11-25 | 2025-07-18 |

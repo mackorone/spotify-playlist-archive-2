@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122443,
+  "num_followers": 122471,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
-        "name": "Tambora",
-        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
-      },
-      "artists": [
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 150660,
-      "name": "Tambora",
-      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
         "name": "OBSESION",
         "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
       },
@@ -1415,22 +1391,26 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+        "name": "Tambora",
+        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
       },
       "artists": [
         {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
         },
         {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
         }
       ],
-      "duration_ms": 167397,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+      "duration_ms": 150660,
+      "name": "Tambora",
+      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -1447,6 +1427,26 @@
       "duration_ms": 163809,
       "name": "Una Velita",
       "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+        }
+      ],
+      "duration_ms": 167397,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
-        "name": "El Beso (feat. Mathieu Ruz)",
-        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 211547,
-      "name": "El Beso (feat. Mathieu Ruz)",
-      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 223731,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
+        "name": "AY PAPI",
+        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
+      },
+      "artists": [
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "AY PAPI",
+      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 197862,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "AY PAPI",
-        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
-      },
-      "artists": [
-        {
-          "name": "ACID HARRY",
-          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
-        }
-      ],
-      "duration_ms": 171124,
-      "name": "AY PAPI",
-      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
-        "name": "Baila Le Digo",
-        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        },
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 139702,
-      "name": "Baila Le Digo",
-      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1827,6 +1807,42 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
+        "name": "Rave En La Favela",
+        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Rave En La Favela",
+      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Baila Le Digo",
+        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 139702,
+      "name": "Baila Le Digo",
+      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 145908,
       "name": "Delante",
       "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Rave En La Favela",
-        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Rave En La Favela",
-      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2026-10-02 04:01:32",
       "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2026-10-02 04:01:32",

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-825 songs - 2 day 22 hr 40 min
+826 songs - 2 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 | 2023-06-30 |  |
 | [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 | 2024-11-22 |
 | [JOY IS COMING](https://open.spotify.com/track/2NbsouKqlRdujJEUir0Ecr) | [Dj Fetty](https://open.spotify.com/artist/2ZluNFnnyxXaXTJZKxxq04), [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [JOY IS COMING](https://open.spotify.com/album/3Jmzue2wE4nLbc1rCf5BvU) | 2:29 | 2026-08-28 | 2026-09-11 |
-| [Joy Is Coming](https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Joy Is Coming](https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk) | 2:34 | 2026-05-29 |  |
+| [Joy Is Coming](https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Joy Is Coming](https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk) | 2:34 | 2026-05-29 | 2026-10-05 |
 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 | 2025-01-07 |  |
 | [Ka Anyi Bulie \(feat\. Don Moen\)](https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Frankincense](https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh) | 3:29 | 2022-06-09 | 2024-11-08 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-09 | 2025-10-28 |
@@ -791,6 +791,7 @@
 | [Worship Medley](https://open.spotify.com/track/7HkX83YLeW3kh0qHnOshsJ) | [Toluwani](https://open.spotify.com/artist/43ANlDUE9h33tYuIQCmHj5) | [Kos'oluwa Laye](https://open.spotify.com/album/59mTp41rtwoWJG1oIZ9l7v) | 8:47 | 2022-10-14 | 2022-11-05 |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [Yabo Da Sujada \(Remake\)](https://open.spotify.com/track/23RE8EyR2GHxgh5ndXAJ65) | [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu) | [Overflow](https://open.spotify.com/album/6O7bLJ0d9fXFfsK2JQ7I4h) | 6:32 | 2022-10-14 | 2022-11-05 |
+| [Yahweh](https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yahweh](https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq) | 10:42 | 2026-10-02 |  |
 | [Yahweh](https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Theresa Phondo](https://open.spotify.com/album/2UMRplzblsIzW07Mr9SIX6) | 3:07 | 2024-07-12 | 2024-10-04 |
 | [Yahweh Be Praised](https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yahweh Be Praised](https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO) | 5:27 | 2023-06-30 | 2023-08-12 |
 | [Yahweh Sabaoth](https://open.spotify.com/track/5TJlT1FibWorDSMsQKYQEi) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yahweh Sabaoth](https://open.spotify.com/album/2sQzPNNQ0zWTwskcVY01a3) | 11:40 | 2024-12-31 | 2025-01-07 |

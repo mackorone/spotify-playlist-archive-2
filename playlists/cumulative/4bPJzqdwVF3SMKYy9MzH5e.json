@@ -7551,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx"
+    },
+    {
+      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },

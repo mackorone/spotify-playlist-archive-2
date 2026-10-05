@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 202965,
       "name": "Breath",
       "url": "https://open.spotify.com/track/4idFwBkWcTR8eYxTw8cbKd"
@@ -10365,6 +10365,28 @@
     },
     {
       "album": {
+        "name": "Gumsum",
+        "url": "https://open.spotify.com/album/29vtSVqCu8iJRhaZJeXewz"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229124,
+      "name": "Gumsum",
+      "url": "https://open.spotify.com/track/7eALzkcbdM7JeiIzfEWH1e"
+    },
+    {
+      "album": {
         "name": "Gunaah",
         "url": "https://open.spotify.com/album/0CFuHxMQXg9HqKtoEkrYEB"
       },
@@ -13618,7 +13640,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 192897,
       "name": "Jhooth (Roz roz roz)",
       "url": "https://open.spotify.com/track/5SybLclNymPGVDhVzvsIZk"
@@ -23778,6 +23800,28 @@
       "duration_ms": 194596,
       "name": "Piya Ki Najariya",
       "url": "https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl"
+    },
+    {
+      "album": {
+        "name": "Piyarva",
+        "url": "https://open.spotify.com/album/5cLlTDQUAfx3qGUcMzt6qb"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124366,
+      "name": "Piyarva",
+      "url": "https://open.spotify.com/track/7yhf8seGjPGmtxSFPYdeln"
     },
     {
       "album": {

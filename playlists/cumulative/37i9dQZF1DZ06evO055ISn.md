@@ -4,7 +4,7 @@
 
 > This is Alex Warren\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 45 min
+36 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,11 @@
 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 | 2025-12-30 | 2026-08-28 |
 | [On My Mind](https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-12-30 |  |
 | [One More I Love You](https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG) | 3:36 | 2025-12-30 |  |
-| [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 | 2026-08-30 |  |
+| [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 | 2026-08-30 | 2026-10-05 |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-12-30 |  |
 | [Ordinary \- Wedding Version](https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary \(Wedding Version\)](https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct) | 3:06 | 2026-05-10 |  |
-| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-06 |  |
+| [PASSENGER](https://open.spotify.com/track/4BSeso8HRRJVQzYdKi1YOX) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:39 | 2026-10-05 |  |
+| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-06 | 2026-10-05 |
 | [Remember Me Happy](https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember Me Happy](https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq) | 2:21 | 2025-12-30 |  |
 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-09 |  |
 | [SAME STARS](https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:19 | 2026-08-30 |  |

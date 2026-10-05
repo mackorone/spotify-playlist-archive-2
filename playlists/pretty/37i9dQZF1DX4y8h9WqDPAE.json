@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Victoria Mon\u00e9t",
-  "num_followers": 5389,
+  "num_followers": 5406,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -121,20 +121,24 @@
       "url": "https://open.spotify.com/track/00DzyABno47jfnjoQNn8AQ"
     },
     {
-      "added_at": "2026-02-27 16:58:42",
+      "added_at": "2026-02-20 18:30:52",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "added_at": "2026-08-28 05:53:51",
@@ -1273,24 +1277,20 @@
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
+      "added_at": "2026-02-27 16:58:42",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2025-11-07 06:39:38",
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm"
     },
     {
-      "added_at": "2026-01-09 18:34:46",
+      "added_at": "2025-05-16 04:09:36",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-11-14 11:13:06",
@@ -1377,20 +1377,20 @@
       "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
     },
     {
-      "added_at": "2025-05-16 04:09:36",
+      "added_at": "2026-01-09 18:34:46",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -1985,6 +1985,22 @@
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
+      "added_at": "2025-11-21 10:48:08",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
+    },
+    {
       "added_at": "2026-02-06 08:23:32",
       "album": {
         "name": "Piss In The Wind",
@@ -2003,22 +2019,6 @@
       "duration_ms": 135133,
       "name": "Piece of You (with Giveon)",
       "url": "https://open.spotify.com/track/5e4cPfjt4pEeNvik5Ld3df"
-    },
-    {
-      "added_at": "2025-11-21 10:48:08",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
       "added_at": "2026-02-20 18:30:52",
@@ -2309,24 +2309,20 @@
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
-      "added_at": "2026-06-12 06:16:48",
+      "added_at": "2025-10-17 05:35:16",
       "album": {
-        "name": "A LITTLE VENGEANCE",
-        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+        "name": "SAN ANDREAS",
+        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 193373,
-      "name": "DUSTY (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+      "duration_ms": 120000,
+      "name": "SAN ANDREAS",
+      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
       "added_at": "2026-07-24 04:43:12",
@@ -2365,20 +2361,24 @@
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
     },
     {
-      "added_at": "2025-10-17 05:35:16",
+      "added_at": "2026-06-12 06:16:48",
       "album": {
-        "name": "SAN ANDREAS",
-        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 120000,
-      "name": "SAN ANDREAS",
-      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "added_at": "2025-11-14 11:13:06",
@@ -2395,6 +2395,22 @@
       "duration_ms": 208972,
       "name": "FMT",
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
+    },
+    {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2561,22 +2577,6 @@
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
       "added_at": "2025-04-25 06:51:06",
       "album": {
         "name": "Why Not More?",
@@ -2591,22 +2591,6 @@
       "duration_ms": 267833,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
-    },
-    {
-      "added_at": "2026-08-14 05:19:04",
-      "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2025-10-03 04:48:40",
@@ -2627,6 +2611,22 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+    },
+    {
+      "added_at": "2026-08-14 05:19:04",
+      "album": {
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2025-04-25 06:51:06",

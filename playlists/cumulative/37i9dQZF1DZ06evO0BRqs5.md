@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-102 songs - 7 hr 22 min
+105 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Close Friend](https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アクセンティア](https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo) | 4:29 | 2022-06-09 |  |
 | [Crimson Eyes](https://open.spotify.com/track/5inof0KIoiMYX9rdQsBb0y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 4:25 | 2025-11-14 | 2025-11-27 |
 | [Dance with me](https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:48 | 2022-10-24 | 2023-10-06 |
-| [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 | 2022-06-09 |  |
+| [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 | 2022-06-09 | 2026-10-05 |
 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 | 2022-06-09 |  |
 | [Decay](https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER / 絵空事](https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu) | 3:53 | 2026-04-30 | 2026-08-19 |
 | [DRUM](https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER / 絵空事](https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu) | 4:07 | 2026-04-26 | 2026-10-04 |
@@ -37,6 +37,7 @@
 | [INNOCENCE](https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:37 | 2022-06-09 |  |
 | [INNOCENCE（Live at 渋谷公会堂）](https://open.spotify.com/track/0ZbSm8hdg3lGC3gnh5JZsn) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [虹の音](https://open.spotify.com/album/1yF6vfgTYetiqEG2DKqRX0) | 5:04 | 2023-08-23 | 2024-11-30 |
 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 | 2022-06-09 |  |
+| [KICK IT LOUD](https://open.spotify.com/track/21U2ZYJx0iYPLZHJUEsFMz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [UNBOUND](https://open.spotify.com/album/45YisWHJ7tDlfajP1Up1vK) | 3:33 | 2026-10-05 |  |
 | [Lament](https://open.spotify.com/track/3ZbnAjOJxirsvgoq5Y9Op5) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:20 | 2022-06-09 |  |
 | [Lapse From Virtue](https://open.spotify.com/track/1J2A4InBPQcfXyf9mF5IG8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:34 | 2022-06-09 | 2022-10-22 |
 | [Liar](https://open.spotify.com/track/2icFqeEOtiXscKh5FFyBVU) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:17 | 2022-06-09 | 2025-11-04 |
@@ -44,7 +45,7 @@
 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 | 2022-06-09 |  |
 | [MONSTER](https://open.spotify.com/track/7qXVWyhV26OV0yEFtIoZXU) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER](https://open.spotify.com/album/3EdsvSe5Kat47RB7PHeRQ4) | 3:50 | 2026-04-04 |  |
 | [ONENESS](https://open.spotify.com/track/3onTTLru4g0vGoOD8H8Aai) | [アイドルマスター\(中村繪里子・山崎はるか・大橋彩香\)](https://open.spotify.com/artist/5PWrN23XkUq3uwhnVHBAFh), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB), [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL), [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN), [Wake Up,Girls!](https://open.spotify.com/artist/29tW0ETcoveUVtlTIr1tiI), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU), [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq), [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC), [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E), [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6), [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU), [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae), [鈴木このみ](https://open.spotify.com/artist/2zL2DcyFc5UL5WI9zaWZqR), [STAR☆ANIS](https://open.spotify.com/artist/5AVLn44oMughW4oWx8mvg4), [Takayoshi Tanimoto](https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat), [田村ゆかり](https://open.spotify.com/artist/7iSJ9H9hMz0BzaL3dOv3DP), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Animelo Summer Live \(2014 \-ONENESS\-ﾃｰﾏｿﾝｸﾞ\)](https://open.spotify.com/album/6gUAibRBj3baFQ3jzjUenw) | 7:07 | 2024-10-30 | 2024-11-05 |
-| [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-06-09 |  |
+| [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-06-09 | 2026-10-05 |
 | [PHOENIX PRAYER \-TV size ver\-](https://open.spotify.com/track/2ZNivi9MHFRMpXFMB74G4V) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER \-special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 1:29 | 2025-10-11 | 2025-11-14 |
 | [POLYHEDRA](https://open.spotify.com/track/1qaLcNwnHDJEGKIsA1ZsLP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [POLYHEDRA](https://open.spotify.com/album/3SvIo3Fu9zkp2Lzxce0G2E) | 3:30 | 2024-12-03 | 2025-10-20 |
 | [POLYHEDRA](https://open.spotify.com/track/650kRgThSnER37hsNgsOZT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [POLYHEDRA](https://open.spotify.com/album/4kUBV823ueqF5wRZ5wg4eZ) | 3:30 | 2024-12-12 | 2025-05-15 |
@@ -64,6 +65,7 @@
 | [アクセンティア](https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:36 | 2022-06-09 |  |
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-09 |  |
 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 | 2022-06-09 |  |
+| [カリギュラ・カリキュラム](https://open.spotify.com/track/74ljIfTrHbXGU7AGifBbiT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [UNBOUND](https://open.spotify.com/album/45YisWHJ7tDlfajP1Up1vK) | 3:33 | 2026-10-05 |  |
 | [クロイウタ](https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 6:20 | 2022-06-09 |  |
 | [グローアップ](https://open.spotify.com/track/1JnzJ2SnSrsiUSXIGkvX06) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:19 | 2022-12-03 | 2023-02-17 |
 | [コバルト・スカイ](https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:32 | 2022-06-09 | 2023-05-06 |
@@ -73,6 +75,7 @@
 | [シリウス](https://open.spotify.com/track/5OCVWpORIRjRU12dHocyDa) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:24 | 2022-06-09 |  |
 | [シリウス\(TV Size ver.\)](https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [シリウス\(TV Size ver.\)](https://open.spotify.com/album/5y9EoOfyfcOwi3fKenxlLj) | 1:29 | 2022-10-12 | 2023-01-20 |
 | [シンシアの光](https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:17 | 2022-06-09 |  |
+| [タイムトラベラー](https://open.spotify.com/track/4dd3qCZduUPVNX4gC1k4YF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [UNBOUND](https://open.spotify.com/album/45YisWHJ7tDlfajP1Up1vK) | 4:13 | 2026-10-05 |  |
 | [ツナガルオモイ](https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:25 | 2022-06-09 | 2026-05-24 |
 | [ハナムケ](https://open.spotify.com/track/6qpbuxmxdJ6JD5xcclzZSD) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ハナムケ](https://open.spotify.com/album/43rN9V34h3yp3n8LBdBalR) | 4:03 | 2026-08-19 |  |
 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 | 2022-06-09 |  |
@@ -109,6 +112,6 @@
 | [閃光前夜](https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:11 | 2022-08-19 |  |
 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 | 2024-01-01 |  |
 | [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 | 2022-06-09 | 2026-05-21 |
-| [鼓動](https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [鼓動](https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3) | 4:03 | 2022-06-09 |  |
+| [鼓動](https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [鼓動](https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3) | 4:03 | 2022-06-09 | 2026-10-05 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

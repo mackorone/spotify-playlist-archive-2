@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "CATastrophe",
+        "url": "https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137814,
+      "name": "CATastrophe",
+      "url": "https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -11724,7 +11742,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 194444,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"

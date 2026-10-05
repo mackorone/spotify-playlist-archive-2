@@ -4,7 +4,7 @@
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 49 min
+68 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Guilty](https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [John Simmons & His Orchestra](https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 | 2026-02-02 |  |
 | [He's Funny That Way](https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:10 | 2025-07-20 |  |
 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 | 2025-07-20 |  |
-| [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 | 2025-07-20 |  |
+| [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 | 2025-07-20 | 2026-10-05 |
 | [I Must Have That Man!](https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:03 | 2025-07-20 |  |
 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 | 2025-07-20 | 2026-09-16 |
 | [I'll Be Seeing You](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:31 | 2025-07-20 |  |
@@ -58,6 +58,7 @@
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2025-07-20 |  |
 | [Speak Low](https://open.spotify.com/track/3Rt21NJeICfsr6LLyacfyn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:28 | 2026-08-26 | 2026-08-27 |
 | [Speak Low](https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:29 | 2025-07-20 | 2026-02-24 |
+| [Speak Low \- Bent Remix](https://open.spotify.com/track/7ujUko3QK8m1UFnexVmRbc) | [Ogden Nash](https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM), [Kurt Weill](https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa), [Simon Mills](https://open.spotify.com/artist/5XRbLABLIWCBjIw8B7Ia7p) | [Verve Remixed 3](https://open.spotify.com/album/36OJA0CFoB1DTYYojj3EEi) | 4:21 | 2026-10-05 |  |
 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 | 2025-07-20 |  |
 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 | 2025-07-20 |  |
 | [Summertime](https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:53 | 2026-08-26 | 2026-08-27 |

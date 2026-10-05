@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208617,
+  "num_followers": 208614,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACT6tH017lUrz0BjETeeKsx",
+  "snapshot_id": "asBFgAAAAAC3nqywW8qIE2LEfQP2VfX0",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch of Heaven / Alabaster Heart (Live)",
-        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
       "artists": [
         {
@@ -400,13 +400,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 630228,
-      "name": "Touch of Heaven / Alabaster Heart (Live)",
-      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+      "duration_ms": 500300,
+      "name": "No One Like The Lord - Live",
+      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
       },
       "artists": [
         {
@@ -436,13 +436,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 500300,
-      "name": "No One Like The Lord - Live",
-      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart (Live)",
+      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
     },
     {
       "added_at": null,
@@ -711,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Want Jesus (Live)",
         "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
@@ -751,26 +727,6 @@
       "duration_ms": 373371,
       "name": "He Has Done Great Things - Live",
       "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -795,6 +751,50 @@
       "duration_ms": 312426,
       "name": "Ten Fe Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "You're Worthy of My Praise/As The Deer - Live",
-      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (En Vivo)",
       "url": "https://open.spotify.com/track/4yE8DVGo9zXET84d8uRp4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 146993,
+      "name": "You're Worthy of My Praise/As The Deer - Live",
+      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
     },
     {
       "added_at": null,

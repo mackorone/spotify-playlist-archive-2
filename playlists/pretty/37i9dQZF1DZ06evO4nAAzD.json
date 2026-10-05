@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4463,
+  "num_followers": 4464,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADgH0EClW8ulgaPBuUOL25d",
+  "snapshot_id": "asBFgAAAAAAFpf5Cbbuvl7Xuunh+ah3b",
   "tracks": [
     {
       "added_at": null,
@@ -567,34 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "DESILUS\u00c3O",
-      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Que Isso?",
         "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
       },
@@ -615,6 +587,34 @@
       "duration_ms": 145979,
       "name": "Por Que Isso?",
       "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ONDE C\u00ca T\u00c1?",
+      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
       "added_at": null,
@@ -671,34 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ONDE C\u00ca T\u00c1?",
-      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Quero Love",
         "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
       },
@@ -719,6 +691,34 @@
       "duration_ms": 155833,
       "name": "N\u00e3o Quero Love",
       "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "DESILUS\u00c3O",
+      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "MELHOR DE MIM",
-      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "MELHOR DE MIM",
+      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
     },
     {
       "added_at": null,
@@ -1067,26 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faixa Anjo",
         "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 212375,
       "name": "Poc Poc",
       "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     },
     {
       "added_at": null,
@@ -1195,38 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
-      },
-      "artists": [
-        {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Casluh",
-          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        }
-      ],
-      "duration_ms": 497625,
-      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 170318,
       "name": "Gelo no Copo - Remix",
       "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
+      },
+      "artists": [
+        {
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Casluh",
+          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        }
+      ],
+      "duration_ms": 497625,
+      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
     },
     {
       "added_at": null,

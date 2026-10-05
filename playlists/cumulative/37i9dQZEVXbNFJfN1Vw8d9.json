@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 283386,
       "name": "Antifiesta",
       "url": "https://open.spotify.com/track/1iiW7pGwKj5Dv59oxx0Cql"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 145600,
       "name": "Baller Intro",
       "url": "https://open.spotify.com/track/2t7ZgGzv0WUmSEXbcju2Qj"
@@ -8190,7 +8190,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante RMX - Remix",
       "url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa"
@@ -9988,6 +9988,24 @@
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "album": {
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/4ArjbWv4T84aHRHzMsclzB"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Dime Baby",
+      "url": "https://open.spotify.com/track/1i1VqbJKfTMZYyO4fcMBO1"
     },
     {
       "album": {
@@ -14954,7 +14972,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 136000,
       "name": "Gra Gra Boom II",
       "url": "https://open.spotify.com/track/0OHcgZ1ehs0YfXmRhroTdd"
@@ -15034,7 +15052,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 140952,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2lMvCDoZGtNENrenYWSntP"
@@ -22352,7 +22370,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -27846,7 +27864,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 197872,
       "name": "Piso 30",
       "url": "https://open.spotify.com/track/3yeXPXxBOtksaJssgHqToz"
@@ -39100,7 +39118,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"

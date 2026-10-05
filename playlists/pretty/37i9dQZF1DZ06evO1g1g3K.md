@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,918 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Freefall \(feat\. Durand Bernarr\)](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 |
-| 2 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
-| 3 | [Facetime \(with Durand Bernarr\) \- Remix](https://open.spotify.com/track/36lhJvCzm7QxAHUCILGl0T) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Shea Butter Baby](https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv) | 3:16 |
+| 2 | [Facetime \(with Durand Bernarr\) \- Remix](https://open.spotify.com/track/36lhJvCzm7QxAHUCILGl0T) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Shea Butter Baby](https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv) | 3:16 |
+| 3 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 4 | [AM I OKAY?!](https://open.spotify.com/track/6QLRg3NlTVItMsH3WBLn6q) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:37 |
 | 5 | [Self Aware](https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [EP 8](https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4) | 3:04 |
 | 6 | [Weird \(feat\. Durand Bernarr\)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:27 |
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 8 | [Mango Butter](https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
 | 9 | [EFFORT.](https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
 | 10 | [Sam’s Vibe](https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unblocked](https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5) | 5:15 |
-| 11 | [New Phone, Who Dis? \(Remix\) \[feat\. Durand Bernarr\]](https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM) | [Cyanca](https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Isle Of Queens Deluxe](https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL) | 3:51 |
-| 12 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
+| 11 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
+| 12 | [New Phone, Who Dis? \(Remix\) \[feat\. Durand Bernarr\]](https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM) | [Cyanca](https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Isle Of Queens Deluxe](https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL) | 3:51 |
 | 13 | [HELLO!](https://open.spotify.com/track/3Yk3KZTxr7M2DKl44IkyK1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:24 |
 | 14 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 |
 | 15 | [Unknown](https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:50 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 47 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 48 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
 
-Snapshot ID: `ar70AAAAAABHdzNm/VDcoPwRh1oRg3jZ`
+Snapshot ID: `asBFgAAAAAAfHY5t+80D6+HY0gMfzXpA`

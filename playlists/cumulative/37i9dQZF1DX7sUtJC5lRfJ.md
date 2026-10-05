@@ -4,7 +4,7 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-77 songs - 4 hr 52 min
+78 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Nguyện Làm](https://open.spotify.com/track/5RQzl2mt5oUQywlXv9JGAT) | [Khắc Việt](https://open.spotify.com/artist/7luDDYsfkSivBsoTz3BKMq) | [Nguyện Làm](https://open.spotify.com/album/7pZ4CwEukGEGTz6MksRo35) | 4:38 | 2026-04-23 |  |
 | [Ngày Rời Chuyến Bay](https://open.spotify.com/track/73RcFjiDtStfP3GCW44vJu) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Pinny](https://open.spotify.com/artist/3qkLndunlLATOqHJeefh7J) | [Ngày Rời Chuyến Bay](https://open.spotify.com/album/7FSNmHkCRQNdiwzvLCV0FV) | 3:49 | 2026-04-23 | 2026-07-13 |
 | [Ngược Hướng \(feat\. Minh Tốc & Lam\)](https://open.spotify.com/track/58aEcLRp4DMKPyHMvvi4Kt) | [S.T Sơn Thạch](https://open.spotify.com/artist/3YwCEaM1uA75y4Iz6FLgRC), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Ngược Hướng \(feat\. Minh Tốc & Lam\)](https://open.spotify.com/album/3m64ILRM2CMHdBXAKb6Z3J) | 4:28 | 2026-06-24 |  |
+| [NHƯ NGÀY ĐẦU](https://open.spotify.com/track/2j4HaRXYKVPbpcZIKh3BgZ) | [Anh Trai Vượt Ngàn Chông Gai](https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv), [Thai VG](https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE), [Jun Phạm](https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD), [Huỳnh Lập](https://open.spotify.com/artist/0qLm3SxEV64WhTKTChH9Nb), [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Hồ Đông Quan](https://open.spotify.com/artist/29odnaxmCx4mwOKL4mjEFL) | [CÔNG DIỄN 5 \(Anh Trai Vượt Ngàn Chông Gai 2026\)](https://open.spotify.com/album/2EFRe5EWsKaDivV50cfCzW) | 4:03 | 2026-10-04 |  |
 | [Nhấc Máy](https://open.spotify.com/track/1sw1KUol417wLcw6w6yWZQ) | [Noo Phước Thịnh](https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw) | [Nhấc Máy](https://open.spotify.com/album/46l0nGmfwZCAGonJajsACp) | 3:50 | 2026-06-24 | 2026-07-06 |
 | [Níu Kéo Mãi Không Phải Cách](https://open.spotify.com/track/5j3Be6gng8vRRHn2ecuJLQ) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [HYO](https://open.spotify.com/artist/62W8AjUxG5FSRXzA9rm7sy) | [Níu Kéo Mãi Không Phải Cách](https://open.spotify.com/album/0LWZ20T4YsofUVsz5Dv8mI) | 3:56 | 2026-07-05 |  |
 | [Nói Cho Anh Nghe \(feat\. Chi Xê\)](https://open.spotify.com/track/7908yltwq4c9TZ0RpmsBCF) | [Truant Fu](https://open.spotify.com/artist/59ZFr32z5JkuNsVkB2KCPb), [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ) | [Nói Cho Anh Nghe \(feat\. Chi Xê\)](https://open.spotify.com/album/2czKWJZHbQocH6wNoPOIJU) | 2:37 | 2026-09-17 |  |

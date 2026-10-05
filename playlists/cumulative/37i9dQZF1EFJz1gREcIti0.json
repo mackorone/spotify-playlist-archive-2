@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186665,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw"
+    },
+    {
+      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
       },
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"

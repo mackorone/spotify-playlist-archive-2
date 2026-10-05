@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-110 songs - 7 hr 13 min
+111 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Lover of My Soul](https://open.spotify.com/track/5ze6VrEgWzR8Vw5D3XdJN3) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Utmost for His Highest](https://open.spotify.com/album/2a9FjnT8GF9Sy1Kb6tvGaK) | 5:16 | 2023-06-30 | 2025-02-10 |
 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 | 2023-04-02 |  |
 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 | 2023-04-02 |  |
-| [Please Don't Make Me Beg](https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 4:35 | 2026-05-10 |  |
+| [Please Don't Make Me Beg](https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 4:35 | 2026-05-10 | 2026-10-05 |
+| [Please Don't Make Me Beg \(feat\. Jon Foreman\)](https://open.spotify.com/track/2PI6subrU1myJuMHxsERqU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Me That Remains \(Deluxe Edition\)](https://open.spotify.com/album/1I6V6YY6DDzHca6Rt0vM9c) | 4:37 | 2026-10-05 |  |
 | [Politics Of Kissing](https://open.spotify.com/track/2Sc7egQWeIDBSZVxxT54G1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Politics Of Kissing](https://open.spotify.com/album/5xiuYBkk1ZnsaTDxRFeafb) | 4:13 | 2024-08-11 | 2024-09-08 |
 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 | 2023-04-02 |  |
 | [Raining On The Inside](https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:12 | 2023-04-02 |  |

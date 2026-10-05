@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-465 songs - 1 day 7 hr 9 min
+466 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 Far Gone \- Vocal Mix](https://open.spotify.com/track/52xfLFRofgK561PNQUlUTt) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [2 Far Gone \(Vocal Mix\)](https://open.spotify.com/album/6mNB0bSEqpW8qJiTZtU8B0) | 5:09 | 2021-11-24 | 2022-01-06 |
 | [28 Eyes](https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [holybones](https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0) | [28 Eyes](https://open.spotify.com/album/1803IIMVPWQpD4yc2UG0F0) | 3:46 | 2025-12-12 | 2026-01-31 |
 | [2am](https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [2am](https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx) | 5:36 | 2026-09-10 |  |
+| [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 | 2026-10-02 |  |
 | [6 De La Mañana](https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [6 De La Mañana](https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y) | 2:51 | 2024-01-05 | 2024-05-06 |
 | [8 Hours, Still No Rain](https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 3:02 | 2021-11-24 | 2024-06-07 |
 | [A Brand New Start](https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 2:35 | 2021-11-24 | 2024-07-05 |
@@ -334,7 +335,7 @@
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2023-09-22 | 2024-08-09 |
 | [Reality Refresh](https://open.spotify.com/track/7uL8DUexl0UASMEbv9saBt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh](https://open.spotify.com/album/6GqUKRbYWhE8z6yzYu2HUM) | 5:52 | 2021-11-24 | 2022-05-17 |
 | [Reflect](https://open.spotify.com/track/7Cjwgp1aDa7gcbWKJDQAgC) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Reflect](https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E) | 5:25 | 2021-11-24 | 2023-01-15 |
-| [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 | 2025-08-28 |  |
+| [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 | 2025-08-28 | 2026-10-05 |
 | [Repetition](https://open.spotify.com/track/0i4wuiCiNjXizN9vy4wfHF) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Repetition](https://open.spotify.com/album/6S6bz3lwphnaP5wPqMxqIe) | 5:50 | 2022-04-21 | 2022-06-09 |
 | [Replica](https://open.spotify.com/track/1nnqBFkojZ8gTazMJc7rn1) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 5:21 | 2021-11-24 | 2022-07-23 |
 | [Repose Tactics](https://open.spotify.com/track/14UZicXINbASANbsPRkDai) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Repose Tactics](https://open.spotify.com/album/1T1eGduaUejoA02GvpnRti) | 3:11 | 2021-11-24 | 2022-06-30 |

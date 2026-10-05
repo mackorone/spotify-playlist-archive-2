@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bestial Mouths, JUST LIZZY, Evil Level Live and more",
+  "description": "With Evil Level Live, Bestial Mouths, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 332903,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/0ZPlArEe2wCZVTky0c51XR"
@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/3zDIxb2YHxCrxu5ObouenM"
@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/1k1L0GUMWKX8mpB8Bw7VzY"
+      },
+      "artists": [
+        {
+          "name": "RULE OF TWO",
+          "url": "https://open.spotify.com/artist/3AwfRAzk2JeC9w5xyTGawX"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/3gjjSYJXKB9QL7LrcNhMLU"
+    },
+    {
+      "album": {
         "name": "Master of Silence",
         "url": "https://open.spotify.com/album/3xJhfNKvjBt9LSjqCH0qJ1"
       },
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 247093,
       "name": "Cruelty of the beast",
       "url": "https://open.spotify.com/track/4SQeLISqXhoXPNkfEZfWjy"
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 162769,
       "name": "Devil Tonight",
       "url": "https://open.spotify.com/track/0zejq9i4oFH9kW7sCQAiLx"
@@ -5624,7 +5642,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 281554,
       "name": "Distanced",
       "url": "https://open.spotify.com/track/33ibe6Qzgg394SV6f7OXIF"
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -8116,7 +8134,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 224398,
       "name": "Grass is Greener",
       "url": "https://open.spotify.com/track/4FlwETxW5MrGqbJU1xSFeQ"
@@ -8774,7 +8792,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 257952,
       "name": "HISS",
       "url": "https://open.spotify.com/track/12ZpVGHTxzavvVz96gTtrI"
@@ -11712,7 +11730,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -14272,7 +14290,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -14362,7 +14380,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 207795,
       "name": "Open",
       "url": "https://open.spotify.com/track/5Pxj2BaFEA9uukTHdUp6K0"
@@ -14578,7 +14596,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 199821,
       "name": "Pagan Love Song",
       "url": "https://open.spotify.com/track/0wnIb6Wkgv0V6lCeHpyigr"
@@ -15868,7 +15886,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 234230,
       "name": "Rowing To Zion",
       "url": "https://open.spotify.com/track/5rn5rurRAWRYfTZwG1DdC4"
@@ -16236,7 +16254,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -16640,7 +16658,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 232160,
       "name": "Shadow of You",
       "url": "https://open.spotify.com/track/2ZFX60LifF3tIClyRvSNOI"
@@ -19692,7 +19710,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 263054,
       "name": "The hand of doom",
       "url": "https://open.spotify.com/track/06qPUHQmfEAdyx2TppCopr"
@@ -19818,7 +19836,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 205040,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/1dcRx4S6Hpd9JM6PNT4mbU"
@@ -20814,7 +20832,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 242251,
       "name": "Till The End Of Time",
       "url": "https://open.spotify.com/track/4scTSFo58utNQNsjaPfpYu"
@@ -21510,7 +21528,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 155637,
       "name": "two vampires",
       "url": "https://open.spotify.com/track/7i4gNccpFhJaT4yMHPsWN2"
@@ -21600,7 +21618,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 227910,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/51G6FzflyakBJbUQZWofZW"
@@ -22020,6 +22038,24 @@
       "duration_ms": 254903,
       "name": "Viva L'Amore",
       "url": "https://open.spotify.com/track/7z7BqZrhoiDlBoi71n9VjG"
+    },
+    {
+      "album": {
+        "name": "Vivid Vortex",
+        "url": "https://open.spotify.com/album/0aXcX8gAinxqXH5dsaabZY"
+      },
+      "artists": [
+        {
+          "name": "The Inner Eclipse",
+          "url": "https://open.spotify.com/artist/2Ip0uQsOMcyifwWh8B3XVe"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330375,
+      "name": "Vivid Vortex",
+      "url": "https://open.spotify.com/track/6pmU1nQH5Q1z0LaE761DYL"
     },
     {
       "album": {
@@ -22482,7 +22518,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 238000,
       "name": "We are all the same",
       "url": "https://open.spotify.com/track/1kjre61dRBt3ea32dSTSMF"
@@ -22570,7 +22606,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 259813,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"
@@ -22924,7 +22960,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

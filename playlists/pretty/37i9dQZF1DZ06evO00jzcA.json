@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488325,
+  "num_followers": 488332,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAApJZ9t3qIEoIOtOPGhwiH/",
+  "snapshot_id": "asBFgAAAAABOIhm7H+0fJc3svlSCd1N/",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
-        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "King Of The Night Time World - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/5qGBFUToAl7XumOQqtHW1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
         "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
       },
@@ -740,9 +708,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 188399,
-      "name": "Let Me Go, Rock 'N Roll - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/1oRcSrFllWrEZjpQFGJRDX"
+      "duration_ms": 196296,
+      "name": "King Of The Night Time World - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/5qGBFUToAl7XumOQqtHW1t"
     },
     {
       "added_at": null,
@@ -763,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 149720,
       "name": "See You Tonight - Live From MTV Unplugged/1995",
       "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Let Me Go, Rock 'N Roll - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/1oRcSrFllWrEZjpQFGJRDX"
     },
     {
       "added_at": null,

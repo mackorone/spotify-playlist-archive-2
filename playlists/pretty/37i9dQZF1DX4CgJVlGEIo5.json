@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 387253,
+  "num_followers": 387252,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Beat of My Heart",
+      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Beat of My Heart",
-      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Heavy Metal Heart",
+        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
+      },
+      "artists": [
+        {
+          "name": "The Blessing Business",
+          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
+        }
+      ],
+      "duration_ms": 167658,
+      "name": "Moment in Time",
+      "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Beggars & Ballers (feat. Jay Nash, Tony Lucca & Matt Duke)",
         "url": "https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 197186,
       "name": "Maybe I Should Go (feat. Jay Nash, Tony Lucca & Matt Duke)",
       "url": "https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Heavy Metal Heart",
-        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
-      },
-      "artists": [
-        {
-          "name": "The Blessing Business",
-          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
-        }
-      ],
-      "duration_ms": 167658,
-      "name": "Moment in Time",
-      "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
     },
     {
       "added_at": "2024-07-05 21:33:59",

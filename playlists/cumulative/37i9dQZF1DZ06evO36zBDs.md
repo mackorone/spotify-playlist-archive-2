@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-127 songs - 8 hr 46 min
+128 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [アイデンティティ](https://open.spotify.com/track/1rSTT91gK0K4CbLOrGtaxu) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:51 | 2022-06-16 | 2022-09-26 |
 | [アイヲウタエ](https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 4:03 | 2022-06-09 |  |
 | [アサガオ](https://open.spotify.com/track/4yHYiD5mBQ98LuAnHEO8sJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:37 | 2024-06-03 |  |
-| [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 | 2022-06-09 |  |
+| [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 | 2022-06-09 | 2026-10-05 |
 | [アリシア](https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:51 | 2022-06-09 |  |
 | [アリシア \-season 03\-](https://open.spotify.com/track/5HXxpXL4mEXfJWF1fCeuxx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア \-season 03\-](https://open.spotify.com/album/2vHHpLmYBCYq7fHhkoGzTf) | 3:49 | 2025-05-16 |  |
 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-04 |  |
@@ -90,6 +90,7 @@
 | [サヨナラは言わない](https://open.spotify.com/track/19eLFMCNvcHFWhfDa4hZUa) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:54 | 2022-06-13 | 2025-03-16 |
 | [シグナル](https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:44 | 2022-06-09 | 2026-03-23 |
 | [シニカルサスペンス](https://open.spotify.com/track/4vn1bXoRyMZwqO4B9ihOTn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:12 | 2022-07-10 | 2025-01-03 |
+| [シンクロブルー](https://open.spotify.com/track/7MoPFmVvf5JNrZlMNvkI14) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [シンクロブルー](https://open.spotify.com/album/7fcGdcjTAkkYxM9ffgYcvU) | 3:39 | 2026-10-05 |  |
 | [スノーライト](https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:23 | 2022-12-12 | 2023-07-07 |
 | [スノーライト](https://open.spotify.com/track/6Ng2bz2i6m8LWypHg8xRhM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [スノーライト](https://open.spotify.com/album/2BalUGw6BefYls6CCAQzIa) | 4:23 | 2022-12-04 | 2022-12-13 |
 | [タカラモノ](https://open.spotify.com/track/6DtBcSjSFtfjYssshcR9CT) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [タカラモノ](https://open.spotify.com/album/0W3AclLgNjnLeoDdhWqupw) | 3:55 | 2026-03-03 |  |

@@ -4,20 +4,20 @@
 
 > y el soundtrack suena así...
 
-174 songs - 9 hr 17 min
+175 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 | 2026-03-16 |  |
-| [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 | 2025-12-11 |  |
+| [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 | 2025-12-11 | 2026-10-05 |
 | [1 de Enero, Puntacana](https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:35 | 2024-05-03 |  |
 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-10-02 |  |
 | [50mm](https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:03 | 2025-12-11 | 2026-09-02 |
 | [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 | 2024-06-06 | 2024-12-07 |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-08-01 | 2025-05-24 |
-| [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 | 2024-11-15 |  |
+| [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 | 2024-11-15 | 2026-10-05 |
 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 | 2024-05-17 | 2024-08-22 |
-| [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 | 2024-04-12 | 2026-10-02 |
+| [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 | 2024-04-12 |  |
 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 | 2023-08-28 |  |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-12-06 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2023-07-31 |  |
@@ -46,6 +46,7 @@
 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-07-31 | 2023-12-31 |
 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 | 2023-07-31 | 2024-10-01 |
 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 | 2026-10-02 |  |
+| [deditos cruzados](https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [deditos cruzados](https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j) | 3:25 | 2026-10-02 |  |
 | [Delirio](https://open.spotify.com/track/66wtRMoucasMcqUIYHzk7l) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:53 | 2023-11-22 | 2024-05-13 |
 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 | 2023-07-31 | 2024-12-07 |
 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 | 2023-07-31 | 2023-08-23 |

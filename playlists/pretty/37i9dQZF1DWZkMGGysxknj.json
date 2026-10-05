@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813011,
+  "num_followers": 813012,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "There's Nothing Holdin Me Back",
+        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 199419,
+      "name": "There's Nothing Holdin Me Back",
+      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
@@ -703,38 +719,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "There's Nothing Holdin Me Back",
-        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 199419,
-      "name": "There's Nothing Holdin Me Back",
-      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Conc\u00e9ntrica Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 162297,
-      "name": "Conc\u00e9ntrica Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Conc\u00e9ntrica Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 162297,
+      "name": "Conc\u00e9ntrica Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
-      },
-      "artists": [
-        {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
-        }
-      ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Trampoline (Acoustic)",
         "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 213098,
       "name": "Trampoline - Acoustic",
       "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+      },
+      "artists": [
+        {
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+        }
+      ],
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
-      },
-      "artists": [
-        {
-          "name": "Nina Olivia",
-          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 254296,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
+      },
+      "artists": [
+        {
+          "name": "Nina Olivia",
+          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 214917,
       "name": "Hablar de M\u00e1s",
       "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
-        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
-      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Sentir Que No Sabes",
         "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
+        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
+      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR"
       },
@@ -2367,6 +2367,22 @@
       "duration_ms": 198960,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Don\u2019t You Look At Me That Way",
+        "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Look At Me That Way",
+      "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2399,22 +2415,6 @@
       "duration_ms": 157826,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Don\u2019t You Look At Me That Way",
-        "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Look At Me That Way",
-      "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Young Boy EP",
         "url": "https://open.spotify.com/album/1dwkCa9oiQQMJXeBwCV6TS"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 142680,
       "name": "Young Boy - Home Recording",
       "url": "https://open.spotify.com/track/3ypH2Qjy1KpRUv8Yyw86Ie"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs"
     },
     {
       "added_at": "2025-06-20 16:07:31",

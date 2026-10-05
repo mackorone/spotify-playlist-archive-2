@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Get Me High",
+      "url": "https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN"
+    },
+    {
+      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Whether you’re into bats, cats, hats, something darker, or all of the above, your Halloween sounds for 2026 are here! Get your Halloween on with an eclectic mix of tracks to celebrate with flair, fashion, and a healthy dose of the fiendish, foul, and fearsome!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 109,395 likes - 86 songs - 6 hr 29 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 109,401 likes - 86 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-210 songs - 11 hr 5 min
+211 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Deja De Chingarme](https://open.spotify.com/track/6j8uzLF1cyZbfpg6HX10xi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:59 | 2024-05-02 | 2025-11-16 |
 | [Desde Que Te Tengo](https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:46 | 2026-05-13 |  |
 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 | 2024-06-02 |  |
-| [Doliendo Bastante](https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:45 | 2026-05-30 |  |
+| [Doliendo Bastante](https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:45 | 2026-05-30 | 2026-10-05 |
+| [Doliendo Bastante \- Live From Japan](https://open.spotify.com/track/3cHJ4wvxLRoxbmRiaxFIwj) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Live From Japan](https://open.spotify.com/album/3ifXLJNgEjwzoOXWGv7oPF) | 3:10 | 2026-10-05 |  |
 | [DUEÑO DE TI](https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [DUEÑO DE TI](https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR) | 3:32 | 2025-05-17 | 2026-01-15 |
 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 | 2024-12-09 |  |
 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 | 2022-06-01 | 2023-08-20 |

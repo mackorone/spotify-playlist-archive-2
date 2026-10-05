@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 106840,
+  "num_followers": 106864,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
         "name": "El Verdugo",
         "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 205200,
       "name": "No te vayas",
       "url": "https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
     },
     {
       "added_at": "2026-09-25 04:03:05",

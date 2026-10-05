@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 131539,
+  "num_followers": 131559,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABtTOgieZZDvvZUgKdFrRRM",
+  "snapshot_id": "asBFgAAAAAC48B+bGSQ2RhC2R7zESUHe",
   "tracks": [
     {
       "added_at": null,
@@ -111,34 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
-        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
-      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -167,6 +139,34 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VNDO",
+        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "VNDO",
+      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 165801,
       "name": "Borracho Gacho (feat. Dharius)",
       "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VNDO",
-        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "VNDO",
-      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Directo Hasta Arriba Vol.2",
         "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 237000,
       "name": "Ey Mezcal",
       "url": "https://open.spotify.com/track/61daymnimlsL1IkJuO5LeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,

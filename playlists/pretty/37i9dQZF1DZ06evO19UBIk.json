@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 696155,
+  "num_followers": 696194,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACvsoZwznCZ9fab+jtXKzoL",
+  "snapshot_id": "asBFgAAAAAAuGAeZ73gg7A0+moGQpzIE",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 170132,
-      "name": "Peace Frog",
-      "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
+      "duration_ms": 170132,
+      "name": "Peace Frog",
+      "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
     },
     {
       "added_at": null,

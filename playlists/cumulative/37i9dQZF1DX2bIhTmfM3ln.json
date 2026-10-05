@@ -4857,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
+      },
+      "artists": [
+        {
+          "name": "Yedika",
+          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163032,
+      "name": "Dey With Me",
+      "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
+    },
+    {
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 163399,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6"
@@ -8130,7 +8148,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 209514,
       "name": "HEAVENLY RACE",
       "url": "https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D"
@@ -10591,6 +10609,28 @@
     },
     {
       "album": {
+        "name": "Lekki Epe (Olombe) II",
+        "url": "https://open.spotify.com/album/4Tj5qvGogF9DYV9jWsirqJ"
+      },
+      "artists": [
+        {
+          "name": "SHON",
+          "url": "https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo"
+        },
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Lekki Epe (Olombe) II",
+      "url": "https://open.spotify.com/track/7bYuuZbzG3LS3oIIgIzpjI"
+    },
+    {
+      "album": {
         "name": "Lemme Know",
         "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
       },
@@ -12960,6 +13000,24 @@
       "duration_ms": 191505,
       "name": "Money & Love",
       "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
+    },
+    {
+      "album": {
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "album": {
@@ -17684,7 +17742,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"

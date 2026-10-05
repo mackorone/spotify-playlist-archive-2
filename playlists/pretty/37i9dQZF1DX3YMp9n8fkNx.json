@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1526733,
+  "num_followers": 1526854,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 325600,
-      "name": "Lightning Crashes",
-      "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 325600,
+      "name": "Lightning Crashes",
+      "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
       "artists": [
         {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
         }
       ],
-      "duration_ms": 257093,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Resident Alien",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
       "artists": [
         {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
         }
       ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+      "duration_ms": 257093,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 185093,
       "name": "Good",
       "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
-      },
-      "artists": [
-        {
-          "name": "The Verve Pipe",
-          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "The Freshmen",
-      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
       },
       "artists": [
         {
-          "name": "Del Amitri",
-          "url": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
+          "name": "The Verve Pipe",
+          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
         }
       ],
-      "duration_ms": 132306,
-      "name": "Roll To Me",
-      "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
+      "duration_ms": 269466,
+      "name": "The Freshmen",
+      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1047,6 +1031,22 @@
       "duration_ms": 298426,
       "name": "Stay (Faraway, So Close!)",
       "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
+      },
+      "artists": [
+        {
+          "name": "Del Amitri",
+          "url": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Roll To Me",
+      "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 189293,
       "name": "Right Here Right Now",
       "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Travelogue: Blues Traveler Classics",
-        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "Run-Around",
-      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 336800,
       "name": "Standing Outside a Broken Phone Booth with Money in My Hand",
       "url": "https://open.spotify.com/track/5hcer4MP5GeHqtSjDYx5AC"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Travelogue: Blues Traveler Classics",
+        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Run-Around",
+      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 192933,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
     },
     {
       "added_at": "2024-06-26 02:07:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 
 > This is Every Time I Die\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,065 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,068 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 22 | [Apocalypse Now And Then](https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:33 |
 | 23 | [Off Broadway](https://open.spotify.com/track/6D8kUiY6MGiBXUIUkyknXw) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:28 |
 | 24 | [Thing With Feathers](https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:38 |
-| 25 | [Cities And Years](https://open.spotify.com/track/04rAZqkDPyHoPFhvq5BAKY) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:56 |
+| 25 | [Leatherneck](https://open.spotify.com/track/0Slixd3mfdLlfx5twxD1DZ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:08 |
 | 26 | [The Marvelous Slut](https://open.spotify.com/track/0pdZXrH0pvXYDoofSq7NmJ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 1:43 |
 | 27 | [I Been Gone a Long Time](https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 3:02 |
 | 28 | [Kill The Music](https://open.spotify.com/track/3V7sCNSTdkMW8C0SF3XEcT) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 3:14 |
-| 29 | [Leatherneck](https://open.spotify.com/track/0Slixd3mfdLlfx5twxD1DZ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:08 |
-| 30 | [For The Record](https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
+| 29 | [Cities And Years](https://open.spotify.com/track/04rAZqkDPyHoPFhvq5BAKY) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:56 |
+| 30 | [Who Invited The Russian Soldier?](https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:45 |
 | 31 | [Romeo A Go\-Go](https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:40 |
 | 32 | [Gloom And How It Gets That Way](https://open.spotify.com/track/1esc6EuXlZmtPcSaEolqiU) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 1:57 |
 | 33 | [Typical Miracle](https://open.spotify.com/track/0GAtTt7CgIdiRoq1GnsXMt) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:25 |
-| 34 | [Who Invited The Russian Soldier?](https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:45 |
+| 34 | [For The Record](https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
 | 35 | [Godspeed Us to Sea](https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:32 |
 | 36 | [Bored Stiff](https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:18 |
 | 37 | [Moor](https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 3:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 42 | [The Sweet Life](https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:52 |
 | 43 | [Revival Mode](https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 3:46 |
 
-Snapshot ID: `ar70AAAAAAAgQRmdS7bmueddjo1av0Rd`
+Snapshot ID: `asBFgAAAAAACXMCmHbHtp28lmhuJzbxH`

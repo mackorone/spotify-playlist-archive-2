@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 233629,
+  "num_followers": 233676,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
         "url": "https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 106922,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
+      "duration_ms": 226186,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+      "duration_ms": 106922,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1639,6 +1623,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-07-12 18:08:37",

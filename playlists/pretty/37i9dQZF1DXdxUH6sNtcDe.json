@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1008386,
+  "num_followers": 1008523,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -435,22 +435,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -551,18 +547,22 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 242826,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Red Ragtop",
-      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Phil Vassar",
         "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 233880,
       "name": "Just Another Day In Paradise",
       "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Tim McGraw And The Dancehall Doctors",
+        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Red Ragtop",
+      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/1AGAaPw6yMh1WCAninJag0"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 239200,
       "name": "Bring On The Rain",
       "url": "https://open.spotify.com/track/1OnXz5v4hVdrNLJ9N4MqzL"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 236000,
       "name": "Making Memories Of Us",
       "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "My Next Thirty Years",
+      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+        "name": "Delicious Surprise",
+        "url": "https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Mud On the Tires",
-      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
+      "duration_ms": 198960,
+      "name": "My Give A Damn's Busted",
+      "url": "https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Delicious Surprise",
-        "url": "https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb"
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
       "artists": [
         {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 198960,
-      "name": "My Give A Damn's Busted",
-      "url": "https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6"
+      "duration_ms": 206720,
+      "name": "Mud On the Tires",
+      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
     },
     {
       "added_at": "2026-06-02 19:14:03",

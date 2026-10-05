@@ -4,7 +4,7 @@
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 58 min
+115 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 | 2025-09-06 |  |
 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/74AX64IEUTzk8Adec44fLb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [at my purest \(feat\. Offset\)](https://open.spotify.com/album/6fN7WX4pt1eY9JgJT4JRmZ) | 3:13 | 2025-08-10 | 2025-09-06 |
 | [Athlete](https://open.spotify.com/track/49FJesHfwQXqZS3qTPL90k) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 2:38 | 2025-09-06 | 2025-11-10 |
+| [Away \(feat\. Offset\)](https://open.spotify.com/track/694Fxl9wFBAmQHjLKF7ri9) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 2:23 | 2026-10-05 |  |
 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 | 2023-11-10 |  |
 | [Back In That Mode \(feat\. YFN Lucci\)](https://open.spotify.com/track/2cN9S9gCFKicJUVoEwHGgi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:36 | 2025-08-24 | 2025-12-29 |
 | [Backends Fasho](https://open.spotify.com/track/5Jbxa7x0BT6pYbbtOEnRmx) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 2:29 | 2025-09-16 |  |
@@ -65,7 +66,7 @@
 | [How Did I Get Here \(feat\. J\. Cole\)](https://open.spotify.com/track/32iPykTXUNZ9oGyACGUybq) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:36 | 2024-05-11 | 2024-07-24 |
 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 | 2023-11-10 | 2026-09-20 |
 | [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 | 2025-11-04 | 2026-04-24 |
-| [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-11-10 |  |
+| [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-11-10 | 2026-10-05 |
 | [Legacy \(feat\. Travis Scott & 21 Savage\)](https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:04 | 2023-11-10 |  |
 | [Lick](https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Best of Rap](https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z) | 3:24 | 2024-10-16 |  |
 | [Lick](https://open.spotify.com/track/4W9XGjEUVG9junR70FOLii) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:24 | 2023-11-10 | 2024-09-06 |

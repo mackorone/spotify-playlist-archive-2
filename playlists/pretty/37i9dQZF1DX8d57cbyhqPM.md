@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tontons Tiakola et Rema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,363 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,426 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

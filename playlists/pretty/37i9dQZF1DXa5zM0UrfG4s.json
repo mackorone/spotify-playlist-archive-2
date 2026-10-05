@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118350,
+  "num_followers": 118348,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "E45",
-        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 136285,
-      "name": "E45",
-      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
         "name": "Berre i natt",
         "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 136285,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "Cowboyhatten",
-        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Cowboyhatten",
-      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
+        "name": "Cowboyhatten",
+        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Cowboyhatten",
+      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "Promiski\u00f8s (PM)",
-        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Promiski\u00f8s (PM)",
-      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 157833,
       "name": "En d\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
+        "name": "Promiski\u00f8s (PM)",
+        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Promiski\u00f8s (PM)",
+      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
         "name": "Hjem med dej",
         "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 187832,
       "name": "Hjem med dej",
       "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -795,26 +795,6 @@
       "duration_ms": 144808,
       "name": "Dum i haue",
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
-        "name": "Sl\u00e5ss f\u00f6r dig",
-        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
-        }
-      ],
-      "duration_ms": 131807,
-      "name": "Sl\u00e5ss f\u00f6r dig",
-      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -863,6 +843,26 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
+        "name": "Sl\u00e5ss f\u00f6r dig",
+        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        }
+      ],
+      "duration_ms": 131807,
+      "name": "Sl\u00e5ss f\u00f6r dig",
+      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
+        "name": "Flammebj\u00f8rka",
+        "url": "https://open.spotify.com/album/39wvzIVlN19RmzGG2cvhhF"
+      },
+      "artists": [
+        {
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Livets landeveg",
+      "url": "https://open.spotify.com/track/0YDma62DmS8UqpyzSF2YH7"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
         "name": "Rypejakt",
         "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
+        "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
+        "url": "https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO"
       },
       "artists": [
         {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Sigrid Aase",
+          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
         }
       ],
-      "duration_ms": 212505,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
+      "duration_ms": 294600,
+      "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
+      "url": "https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -1039,22 +1059,18 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
-        "url": "https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO"
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        },
-        {
-          "name": "Sigrid Aase",
-          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
         }
       ],
-      "duration_ms": 294600,
-      "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
-      "url": "https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D"
+      "duration_ms": 212505,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -1075,22 +1091,6 @@
       "duration_ms": 176117,
       "name": "CAT 374",
       "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
-        "name": "Flammebj\u00f8rka",
-        "url": "https://open.spotify.com/album/39wvzIVlN19RmzGG2cvhhF"
-      },
-      "artists": [
-        {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Livets landeveg",
-      "url": "https://open.spotify.com/track/0YDma62DmS8UqpyzSF2YH7"
     },
     {
       "added_at": "2026-10-01 22:01:20",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
+        "name": "Vi va alt",
+        "url": "https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Vi va alt",
+      "url": "https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "Vi va alt",
-        "url": "https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Vi va alt",
-      "url": "https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
         "name": "Helt \u00c6rlig",
         "url": "https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-01 22:01:20",
       "album": {
-        "name": "Kveldssang til bonden",
-        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173163,
-      "name": "Kveldssang til bonden",
-      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
-    },
-    {
-      "added_at": "2026-10-01 22:01:20",
-      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-10-01 22:01:20",
+      "album": {
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2026-10-01 22:01:20",

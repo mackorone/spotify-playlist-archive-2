@@ -3163,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/6OgZQsg4pVBBh1OHT9cb2l"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167714,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6h2YMW20evARZRfZkUyalE"
+    },
+    {
+      "album": {
         "name": "Noites de Ver\u00e3o",
         "url": "https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P"
       },
@@ -5164,7 +5182,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 224000,
       "name": "Too Marvelous for Words",
       "url": "https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW"

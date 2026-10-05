@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Huan62, Ricky Martin & PEDRO SAMPAIO,  Paulo Londra, Andrea Bejar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,811 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,820 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

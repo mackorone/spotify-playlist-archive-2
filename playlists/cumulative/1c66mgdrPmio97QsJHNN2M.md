@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,975 songs - 6 day 12 hr 40 min
+2,980 songs - 6 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Adrenaline](https://open.spotify.com/track/6EKdchL5piEGBaBxeUrAaT) | [MindMaverik](https://open.spotify.com/artist/5knE8keQDt70TecXYDZUtx), [Niamh Lauren](https://open.spotify.com/artist/7GWFziOO4YjsRNoul6fgT0) | [Adrenaline](https://open.spotify.com/album/4KbHhSgvq90VNBVz6KAWph) | 3:25 | 2025-12-02 | 2026-01-04 |
 | [Adrenaline](https://open.spotify.com/track/50RQjG7miFoLtAyS8Jga1n) | [Sydney Mira](https://open.spotify.com/artist/5XwFYCv86rU6frthHUp9JS) | [Adrenaline](https://open.spotify.com/album/75ybgqO4jcR5wVBqJjhOty) | 2:54 | 2026-06-25 | 2026-07-26 |
 | [Adulterated LV song](https://open.spotify.com/track/23bpUrDCy4zrh2maf1cUiS) | [Rui Estevão](https://open.spotify.com/artist/4G6lB4mjPBlVzroQszmRDX) | [Adulterated LV song](https://open.spotify.com/album/18Czjwd1XWSW2Hvx29631x) | 3:45 | 2025-12-27 | 2026-01-28 |
+| [After Hour \(Still Lit\)](https://open.spotify.com/track/2386wldclBm6n61BXlrU4K) | [Bless The Artist](https://open.spotify.com/artist/1OXanIw6SvyFFA5ogVe3h4) | [After Hour \(Still Lit\)](https://open.spotify.com/album/6t5dvDF5Qx9l28t2UQsIcd) | 1:58 | 2026-10-04 |  |
 | [After Midnight](https://open.spotify.com/track/0YmKGqy2SZZS6SNIVdUvTK) | [Chris Ceee](https://open.spotify.com/artist/3xvbsexUenyFLSigMZ42fq) | [After Midnight](https://open.spotify.com/album/03qwOgeCy28NyQQaN4jSkV) | 3:07 | 2026-02-06 | 2026-03-10 |
 | [After The Fire](https://open.spotify.com/track/5rs0bqfMQKxJbizYiDHeRh) | [luizday](https://open.spotify.com/artist/1Pp6JUjIdcuyy49ZMUGJh5) | [After The Fire](https://open.spotify.com/album/1Pr3PW22wuuDXFY30vx5h4) | 2:59 | 2026-06-17 | 2026-07-19 |
 | [After the Fire](https://open.spotify.com/track/7nEH0mWFUp6JanvTPml3VY) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [After the Fire](https://open.spotify.com/album/3mJpKuRA7ifJ1tfRwEVdn9) | 2:35 | 2026-03-28 | 2026-04-30 |
@@ -500,6 +501,7 @@
 | [Community Take Over](https://open.spotify.com/track/7crkAspnuBKk4kOMo5sYYg) | [The Legacy of Bert Foundation](https://open.spotify.com/artist/3GUXuf0HUGc5nCFUEtZrWB) | [Community Take Over](https://open.spotify.com/album/3csgfFiUETIcVykehmghKJ) | 2:49 | 2026-01-16 | 2026-02-17 |
 | [Como Un Niño](https://open.spotify.com/track/10n2PuAwQs1p1UFQjGtcKr) | [Mario Galvan](https://open.spotify.com/artist/7zitMF4XpjAZO6e13aELko) | [Como Un Niño](https://open.spotify.com/album/6YqbaxFV4WjgEcgGCbZyrn) | 2:56 | 2025-12-07 | 2026-01-15 |
 | [Compass Heart](https://open.spotify.com/track/2IADPVmUDZWO8F0ULSyaLN) | [Modern Unity](https://open.spotify.com/artist/3wkafZRxaqoRK5sGV6EB9N) | [Compass Heart](https://open.spotify.com/album/68sL4YUyUtEInsiTEZQLta) | 2:45 | 2026-06-11 | 2026-07-13 |
+| [Conceited](https://open.spotify.com/track/4wEAx5VrpVJKrVm8LxRvuQ) | [Good Fortune](https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY) | [Conceited](https://open.spotify.com/album/63T9czx0zCoJ8qRUZq2dfo) | 2:50 | 2026-10-04 |  |
 | [Confessing](https://open.spotify.com/track/18H1KNefGu8vS6VxGoTESI) | [Aryan Nair](https://open.spotify.com/artist/0srr2ktacQYrZNOxG7Y0lS) | [Confessing](https://open.spotify.com/album/4J8nmJuw8lxb8jD3EpuwRm) | 2:18 | 2026-09-10 |  |
 | [Confidence](https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Confidence](https://open.spotify.com/album/5BDT4XiSR1kk8ou5JFaCkL) | 3:45 | 2025-10-04 | 2026-10-04 |
 | [Confidence \(Instrumental Version\)](https://open.spotify.com/track/6NBkVWpvbTXxKBZY33cQib) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Confidence \(Instrumental Version\)](https://open.spotify.com/album/549gF5UsGYbQw84t52F3sS) | 3:45 | 2026-04-03 | 2026-07-22 |
@@ -1557,6 +1559,7 @@
 | [Lucky Star](https://open.spotify.com/track/3IN3ut03VtMu5zqqc2f4rJ) | [Insanitii Exact](https://open.spotify.com/artist/3oFFnqctHfUvwotzl5Nzo3) | [Lucky Star](https://open.spotify.com/album/7Edp4rRVpuDIrE9JOTjuzB) | 4:27 | 2026-06-05 | 2026-07-07 |
 | [Lucy](https://open.spotify.com/track/3qXGSj3Op4KtWJFH6BzcXn) | [Delilah Cross](https://open.spotify.com/artist/6QzF7uzx7d9I64uy4925IP) | [Lucy](https://open.spotify.com/album/5gtgOxmB4f2uthfVdafqEI) | 3:01 | 2026-04-17 | 2026-05-18 |
 | [Lucy & Wanqiu](https://open.spotify.com/track/1jlOXKsBIZL9a7aJ3OmXiK) | [Vegas Girls 74](https://open.spotify.com/artist/25tCFYmFkIJ97sQNSCVOzK) | [Lucy & Wanqiu](https://open.spotify.com/album/37H07AmniakWPlhHHj1d0K) | 2:25 | 2026-08-15 | 2026-09-17 |
+| [Luminous Locus](https://open.spotify.com/track/6eDkITRQ6cXbPjAPpEocGp) | [nomadogma](https://open.spotify.com/artist/4IcelD3jZeFRfxXyFAwKtq) | [Luminous Locus](https://open.spotify.com/album/2EYt75eUiPQxlqP5mercMo) | 3:09 | 2026-10-04 |  |
 | [Lustful Grave](https://open.spotify.com/track/0lEev4RX1l5v7ocDQPNs3k) | [SelfHarMonica](https://open.spotify.com/artist/3wxbbLOVWoUrsmJ73g1rdP) | [Lustful Grave](https://open.spotify.com/album/1sVTVL3Zq5dvqZ8BSDQc5A) | 4:20 | 2025-11-03 | 2025-12-07 |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2025-12-11 | 2026-01-15 |
 | [Lying To Myself](https://open.spotify.com/track/5bt49rYHzV1tAzec6Xqe6J) | [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6), [Chris Fowler](https://open.spotify.com/artist/2rSGFU8JTjc04K6a4AVYO8) | [Legendary Encounter](https://open.spotify.com/album/267hiOLootzd1p08B9ibjs) | 2:38 | 2026-03-10 | 2026-04-11 |
@@ -2775,6 +2778,7 @@
 | [We Had A Good Run](https://open.spotify.com/track/6uSdmQGT9uqOU4nak1nevA) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [We Had A Good Run](https://open.spotify.com/album/2JA8IEGhElcwvNZvd5Apzk) | 3:23 | 2025-11-26 | 2025-12-28 |
 | [We Love This Song](https://open.spotify.com/track/4QM13yuuI59bNQr3SVYczO) | [Pink Peaches](https://open.spotify.com/artist/6aYTftFJlm73s2Xjf4qLUF) | [We Love This Song](https://open.spotify.com/album/7lPRne8sITGVgK6q5h7FuY) | 3:21 | 2025-11-06 | 2025-12-07 |
 | [We Never Ever Together Again](https://open.spotify.com/track/6cFaBjtKyh1V8sIi5le7GW) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HEY! BOY We Never Ever Together Again](https://open.spotify.com/album/68ExNbA2PAVgMvD31bpDUB) | 3:04 | 2026-04-07 | 2026-05-08 |
+| [We'll Never Know](https://open.spotify.com/track/6mSo9rLiT1CrgciIjtHRoI) | [Whistler Collective](https://open.spotify.com/artist/48F6AS5khz4GGPnVeDNVGZ), [Alyssa Jane](https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9) | [We'll Never Know](https://open.spotify.com/album/7g3ynsoCESDeJsRfCL8Izj) | 2:56 | 2026-10-04 |  |
 | [We're alive](https://open.spotify.com/track/2eSBoi6Zb3IzhXDHEerOyA) | [ChrisGCol](https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL), [Paula B](https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx) | [We're alive](https://open.spotify.com/album/5Qj5BXIP5DcVLzzmVO59Cs) | 3:36 | 2026-04-20 | 2026-05-22 |
 | [We're Here for a Reason](https://open.spotify.com/track/6uidH15Bo8DxMYTMmkZGNe) | [XAURAX](https://open.spotify.com/artist/5ABgbqKhlZ6OH5FLEKD8Nv) | [We're Here for a Reason](https://open.spotify.com/album/3DEwlvJidThYDo4q5p541N) | 2:08 | 2026-08-27 | 2026-09-29 |
 | [We're There](https://open.spotify.com/track/1dd0FKj77F6GV7s26ypcw8) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [We're There](https://open.spotify.com/album/6jkZSAT6RBxtuProjX5WsE) | 1:46 | 2026-08-08 | 2026-09-09 |
@@ -2790,6 +2794,7 @@
 | [West Palm Beach House](https://open.spotify.com/track/36Bu0fx0cZzJWzjRi2sphb) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [West Palm Beach House](https://open.spotify.com/album/4q4kyIj8JLOhjrSJWLkZlv) | 3:04 | 2026-07-22 | 2026-08-25 |
 | [Wet Sand](https://open.spotify.com/track/0qFUCfAbL12eS12uojXAbT) | [Asal Hazel](https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt) | [Wet Sand](https://open.spotify.com/album/6d4eLcVAYssC89pfoz3Fqg) | 2:48 | 2026-04-17 | 2026-05-18 |
 | [What A Tragedy](https://open.spotify.com/track/4sCFUBgLupIdoQb95r6ofd) | [Flashsonic](https://open.spotify.com/artist/0i0lvt6uP1Ht39Z3oJAkd9) | [What A Tragedy](https://open.spotify.com/album/7cVIk6TSViSkfMae8y2i1X) | 2:16 | 2026-04-13 | 2026-05-14 |
+| [What Am I](https://open.spotify.com/track/2pTAmnEvkTCAJst2V6YM5Q) | [Horizon Beyond](https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad) | [What Am I](https://open.spotify.com/album/14MOERu7JP2u8tB50FkhqL) | 4:57 | 2026-10-04 |  |
 | [What Do You Think?](https://open.spotify.com/track/4PfAbnetZ9d8fZUIYeKZD9) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [What Do You Think?](https://open.spotify.com/album/0oO9HH6cjXK0qGTHyW46AG) | 3:04 | 2026-09-02 | 2026-10-04 |
 | [What Follows Me Home](https://open.spotify.com/track/33qqTowI1pKP4Sxoi9z7sx) | [Syzygy](https://open.spotify.com/artist/0xBVYVLFNqsTe6SIJ9eiGz) | [What Follows Me Home](https://open.spotify.com/album/3UywPoec4QhWziKV8u0plq) | 3:20 | 2026-06-09 | 2026-07-10 |
 | [What If](https://open.spotify.com/track/6OthO7QTOcFrklwyR8xgLp) | [It‘s Me, Amelie](https://open.spotify.com/artist/4Wz0SDLT0SqkMhIKI6FmLD) | [What If](https://open.spotify.com/album/2xgXLeKv84o0hW2mSBj1XT) | 2:40 | 2026-04-05 | 2026-05-07 |

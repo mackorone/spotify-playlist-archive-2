@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 667147,
+  "num_followers": 667178,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAB+75VNpE13dMqfktdQOktM",
+  "snapshot_id": "asBFgAAAAABQSX7v3D2D3WeE9mXPURly",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 573497,
       "name": "Jungleland",
       "url": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 391764,
       "name": "Backstreets",
       "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
       "added_at": null,

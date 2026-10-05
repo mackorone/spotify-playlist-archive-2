@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-501 songs - 1 day 6 hr 24 min
+503 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 | 2024-03-07 | 2024-04-19 |
 | [captain's dance with the devil](https://open.spotify.com/track/5S7rqoAt14NRdZxfVNFtNf) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [captain's dance with the devil](https://open.spotify.com/album/53ZUMxyPB12MuCBkcRN5ig) | 2:26 | 2022-03-25 | 2023-09-23 |
 | [carry](https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [carry](https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk) | 2:40 | 2026-06-15 |  |
-| [Carry Me](https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN) | [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Carry Me](https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7) | 3:02 | 2024-11-19 |  |
+| [Carry Me](https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN) | [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Carry Me](https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7) | 3:02 | 2024-11-19 | 2026-10-05 |
 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 | 2022-08-25 | 2024-03-01 |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2022-03-25 | 2022-10-03 |
 | [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2022-06-17 | 2022-09-15 |
@@ -182,6 +182,7 @@
 | [Gummy Bamarra](https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Gummy Bamarra](https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B) | 4:43 | 2024-06-04 | 2024-09-10 |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-03-07 | 2024-09-23 |
 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-04-08 |  |
+| [Hard Questions](https://open.spotify.com/track/063Agpb94qT1yZlK5jl3qt) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [Hard Questions](https://open.spotify.com/album/4ty5EHaGyrGAXzlHBE9yB8) | 4:23 | 2026-10-04 |  |
 | [Heading Home](https://open.spotify.com/track/4zhLheQgQWmapYQ4r1y7ZL) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Heading Home](https://open.spotify.com/album/7nyZWT6TFCXpO6ltRMNQKt) | 3:33 | 2026-04-20 |  |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-17 | 2025-05-20 |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-22 | 2024-05-24 |
@@ -220,7 +221,7 @@
 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD), [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 | 2024-09-22 | 2025-05-06 |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2024-10-06 | 2025-07-01 |
 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 | 2024-06-18 | 2025-03-25 |
-| [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 | 2025-01-21 |  |
+| [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 | 2025-01-21 | 2026-10-05 |
 | [IDK You Yet](https://open.spotify.com/track/01ioNtYyhbVVhET2FtmAOK) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Chillax](https://open.spotify.com/album/29vMAFOme5FtzIilc4Npqk) | 3:04 | 2022-10-10 | 2022-11-13 |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-06-17 | 2023-09-23 |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2022-03-25 | 2022-07-29 |
@@ -338,6 +339,7 @@
 | [pocket protector](https://open.spotify.com/track/0woOAqSvbjSMR8BDHxzEkw) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [pocket protector](https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo) | 3:38 | 2024-03-07 | 2024-10-22 |
 | [Raindrops](https://open.spotify.com/track/3eMf2Hy7xiFWu7e6K8ZOeS) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [It's Lovely To Have You Here: Extended Stay](https://open.spotify.com/album/2lIUVPA23AFgUKwOcwMTxc) | 4:15 | 2025-06-02 |  |
 | [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 | 2024-04-02 | 2024-07-29 |
+| [Razor Love \- Spotify Singles](https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Razor Love \- Spotify Singles](https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js) | 6:04 | 2026-10-04 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2022-03-25 | 2024-03-08 |
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2024-12-09 |  |
 | [Rewarding Melody](https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Rewarding Melody](https://open.spotify.com/album/2z944o5q3z29mQaIwd58OG) | 2:32 | 2026-06-15 | 2026-07-14 |

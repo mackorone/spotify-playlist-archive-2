@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Yoly Saa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,969 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,967 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 10 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
 | 11 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
 | 12 | [veranos condenados](https://open.spotify.com/track/11joCLIPoBebavpMolW8wi) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [veranos condenados](https://open.spotify.com/album/32eCS8SR02sBKjvx6qMtKd) | 2:56 |
-| 13 | [Estoy Buscona](https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Estoy Buscona](https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh) | 3:16 |
-| 14 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
+| 13 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
+| 14 | [Estoy Buscona](https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Estoy Buscona](https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh) | 3:16 |
 | 15 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 16 | [Tiempos bonitos](https://open.spotify.com/track/258hs8zltfhkeItvntuQQp) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tiempos bonitos](https://open.spotify.com/album/7CJaAVgm66Bv93zDWgsVpk) | 2:34 |
 | 17 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [Agarra mi mano](https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Agarra mi mano](https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY) | 3:27 |
 | 38 | [Un Mundo Feliz](https://open.spotify.com/track/2DYuMgoUq4Dyiz7k2UfCJf) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Manual de Belleza](https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b) | 4:31 |
 | 39 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
-| 40 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
+| 40 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
 | 41 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 42 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
 | 43 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 44 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
+| 44 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 |
 | 45 | [Bichifokel](https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Bichifokel](https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q) | 3:07 |
-| 46 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 |
-| 47 | [Déjalo Ir](https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [La Insolación](https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j) | 3:07 |
+| 46 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
+| 47 | [Yo quiero un affaire](https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Yo quiero un affaire](https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj) | 3:04 |
 | 48 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
-| 49 | [Yo quiero un affaire](https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Yo quiero un affaire](https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj) | 3:04 |
+| 49 | [Déjalo Ir](https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [La Insolación](https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j) | 3:07 |
 | 50 | [OTA](https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [OTA](https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ) | 2:09 |
 
 Snapshot ID: `AAAAAEUI3fkETytuD+zsYb1CKR96FPkS`

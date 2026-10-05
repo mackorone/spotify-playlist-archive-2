@@ -4,7 +4,7 @@
 
 > This is Tainy\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 38 min
+88 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2023-08-03 |  |
 | [COLMILLO](https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 4:25 | 2026-01-01 |  |
 | [COLMILLO](https://open.spotify.com/track/6tg97bZpaIpDSEcWMGXfOT) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [COLMILLO](https://open.spotify.com/album/13ldB6ttaAq7okb9DHIscN) | 4:25 | 2023-11-10 | 2024-07-01 |
+| [Como El Primero](https://open.spotify.com/track/3o7D5IGCHkUHdUarqgrEiP) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [NO PASA NADA HOMBRE](https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr) | 2:44 | 2026-10-05 |  |
 | [Completamente Loco](https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:30 | 2023-06-24 | 2026-05-24 |
 | [CÁMARA LENTA](https://open.spotify.com/track/1m6yzbCrhxXXYKcCcrPgP0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:33 | 2023-07-08 | 2025-11-06 |
 | [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 | 2023-04-06 |  |

@@ -82,7 +82,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 187413,
       "name": "After",
       "url": "https://open.spotify.com/track/7pkKJG3w9pndGTNRX4RC3Y"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 198623,
       "name": "Cheetah Print",
       "url": "https://open.spotify.com/track/0iuTNksY8beesQvuwbXDx1"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 171429,
       "name": "Classic",
       "url": "https://open.spotify.com/track/2s2seehd980lW7hUSFcyBW"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 233386,
       "name": "Different Religion (feat. Model/Actriz)",
       "url": "https://open.spotify.com/track/1GcpSlH0WVIJLLQnkdUrlw"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 236341,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/0OSxldm1PQetNTPpYDRLIe"
@@ -1874,6 +1874,28 @@
       "duration_ms": 341365,
       "name": "Joy.",
       "url": "https://open.spotify.com/track/0rPfCUecJmVvMfUcTT84YY"
+    },
+    {
+      "album": {
+        "name": "Jukiar",
+        "url": "https://open.spotify.com/album/422USxd2or3gmdchqsey07"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202368,
+      "name": "Jukiar",
+      "url": "https://open.spotify.com/track/7bTQLtLEu6GGEAoqBUoedQ"
     },
     {
       "album": {
@@ -2279,6 +2301,32 @@
     },
     {
       "album": {
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/05oqu1s0LI6FeTJWbOwo6Y"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129737,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/76ZTUlqu2enQ7Yh3rqEv3y"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5vKwre9PNjKt6RLyDIaZ11"
       },
@@ -2290,7 +2338,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -2410,7 +2458,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 200853,
       "name": "NI TAN SANTX",
       "url": "https://open.spotify.com/track/31NbhHVGmaepwIhjiFFscr"
@@ -2866,7 +2914,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 228550,
       "name": "Pure (Live) | Presented by Spotify",
       "url": "https://open.spotify.com/track/1qsvzrtLNBtdK413pJ51A8"
@@ -3654,7 +3702,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 169365,
       "name": "TOO",
       "url": "https://open.spotify.com/track/0TmSmxjPMqFkBOJpPFwCKF"
@@ -3672,7 +3720,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -3900,7 +3948,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 363664,
       "name": "YO QUIERO - REMIX",
       "url": "https://open.spotify.com/track/1P3aLI0xuER7OMlDGpREXd"

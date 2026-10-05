@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 90965,
+  "num_followers": 90994,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,34 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Band Baaja Baaraat",
+        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 267624,
+      "name": "Ainvayi Ainvayi",
+      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
       },
@@ -919,34 +947,6 @@
       "duration_ms": 208169,
       "name": "Hum Pyaar Karne Wale",
       "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Band Baaja Baaraat",
-        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 267624,
-      "name": "Ainvayi Ainvayi",
-      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Coca Cola (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 179225,
       "name": "Coca Cola (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Yaad Piya Ki Aane Lagi",
+        "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Lalit Sen",
+          "url": "https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS"
+        }
+      ],
+      "duration_ms": 256678,
+      "name": "Yaad Piya Ki Aane Lagi",
+      "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Ishaqzaade",
         "url": "https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu"
       },
@@ -1519,30 +1543,6 @@
       "duration_ms": 310151,
       "name": "Chokra Jawaan",
       "url": "https://open.spotify.com/track/0hL7tvMKBLW30sige6ctu7"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Yaad Piya Ki Aane Lagi",
-        "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
-      },
-      "artists": [
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Lalit Sen",
-          "url": "https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS"
-        }
-      ],
-      "duration_ms": 256678,
-      "name": "Yaad Piya Ki Aane Lagi",
-      "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1815,6 +1815,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
         "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
       },
@@ -1871,30 +1895,6 @@
       "duration_ms": 313364,
       "name": "Tune Maari Entriyaan",
       "url": "https://open.spotify.com/track/5kg1GacbhgQfLcbgOBRO9c"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2026-09-23 05:15:16",

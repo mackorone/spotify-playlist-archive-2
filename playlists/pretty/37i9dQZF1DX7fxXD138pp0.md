@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > Lo siento, pero mis bias si se topan\. 📸 LOS DOS DE TAMAULIPAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,274 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,285 likes - 43 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

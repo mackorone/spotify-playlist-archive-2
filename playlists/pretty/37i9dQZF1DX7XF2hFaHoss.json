@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155853,
+  "num_followers": 155851,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "if i'm honest for once",
         "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 257384,
       "name": "generations in the making",
       "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Remember That Night? (Acoustic)",
-        "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 222955,
-      "name": "Remember That Night? - Acoustic",
-      "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Remember That Night? (Acoustic)",
+        "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 222955,
+      "name": "Remember That Night? - Acoustic",
+      "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -895,34 +879,18 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -943,6 +911,22 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Bad Luck Bad Habit",
-        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
-      },
-      "artists": [
-        {
-          "name": "Alycia Lang",
-          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "Bad Luck Bad Habit",
-      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 200996,
       "name": "Good for Something",
       "url": "https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Bad Luck Bad Habit",
+        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
+      },
+      "artists": [
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "Bad Luck Bad Habit",
+      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
     },
     {
       "added_at": "2026-03-08 15:34:05",

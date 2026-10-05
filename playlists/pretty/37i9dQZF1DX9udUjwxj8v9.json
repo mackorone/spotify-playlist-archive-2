@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154374,
+  "num_followers": 154384,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
-      },
-      "artists": [
-        {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Mal Acostumada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "De P\u00e9 No Ch\u00e3o",
         "url": "https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 189866,
       "name": "Vou Festejar",
       "url": "https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Mal Acostumada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 371720,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "L\u00e1 Vem O Guarda",
-        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
-      },
-      "artists": [
-        {
-          "name": "Luiz Caldas",
-          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "Haja Amor",
-      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Tribal Bahia",
         "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 307880,
       "name": "Margarida Perfumada (Ao Vivo)",
       "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "L\u00e1 Vem O Guarda",
+        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
+      },
+      "artists": [
+        {
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+        }
+      ],
+      "duration_ms": 215065,
+      "name": "Haja Amor",
+      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
-        "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 226388,
-      "name": "Clareiam\u00f4",
-      "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 271453,
       "name": "Hist\u00f3ria Para Ninar Gente Grande",
       "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
+        "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 226388,
+      "name": "Clareiam\u00f4",
+      "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Esta\u00e7\u00e3o da Luz",
-        "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 202005,
-      "name": "Esta\u00e7\u00e3o da Luz",
-      "url": "https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk"
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+        "name": "Esta\u00e7\u00e3o da Luz",
+        "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Nobre Vagabundo",
-      "url": "https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF"
+      "duration_ms": 202005,
+      "name": "Esta\u00e7\u00e3o da Luz",
+      "url": "https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Vagabundo Ao Vivo",
         "url": "https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 289466,
       "name": "Caio No Suingue",
       "url": "https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

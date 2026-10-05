@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Forrest Nolan
 
-2,538 songs - 5 day 15 hr 23 min
+2,540 songs - 5 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,7 @@
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
 | [EASY](https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [EASY](https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI) | 3:14 | 2024-01-20 | 2024-02-10 |
 | [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-17 | 2022-07-29 |
-| [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 | 2026-07-24 |  |
+| [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 | 2026-07-24 | 2026-10-05 |
 | [Easy](https://open.spotify.com/track/1fP3bbDuZBE2hiih9ZQhb1) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Easy](https://open.spotify.com/album/4mTRZFgxyEK6EZrC0P2yit) | 2:54 | 2021-02-24 | 2021-05-30 |
 | [Easy](https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Easy](https://open.spotify.com/album/25bVTJuPSWiiwdxgjJGRUi) | 3:46 | 2020-10-16 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 3:46 | 2022-06-17 | 2022-10-29 |
@@ -1173,6 +1173,7 @@
 | [In Or In\-Between \(Remix\)](https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [In Or In\-Between \(Remix\)](https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY) | 3:08 | 2023-04-05 | 2023-04-22 |
 | [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-07 | 2025-04-05 |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-10 | 2022-05-21 |
+| [in the middle of the night](https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:36 | 2026-10-02 |  |
 | [In Time](https://open.spotify.com/track/2fFfZSl0faCTDNXZ2Lo2KE) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Sleeping In](https://open.spotify.com/album/3NusJrwTXCCW7UnV0IxSwV) | 3:46 | 2022-04-08 | 2022-07-19 |
 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 | 2025-11-21 |  |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-02-25 | 2022-04-21 |
@@ -1470,7 +1471,7 @@
 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-26 | 2026-09-22 |
 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 | 2026-07-16 |
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-07-22 | 2022-08-06 |
-| [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 |  |
+| [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 | 2026-10-05 |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2021-05-08 | 2023-06-24 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-29 | 2022-08-06 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-07-19 | 2022-04-14 |
@@ -2060,6 +2061,7 @@
 | [Southern Youth](https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Southern Youth](https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg) | 4:02 | 2026-06-12 | 2026-07-20 |
 | [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2020-10-20 | 2020-10-21 |
 | [Special](https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Special](https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h) | 3:14 | 2025-06-20 | 2025-07-26 |
+| [Spider](https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A) | [Jade Street](https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11) | [Spider](https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG) | 2:53 | 2026-10-02 |  |
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-22 | 2022-04-16 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-05-10 | 2021-10-23 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-05-03 | 2021-10-14 |

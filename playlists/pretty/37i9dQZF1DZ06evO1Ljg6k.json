@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79056,
+  "num_followers": 79069,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAyLE4nU9Di6rvFDVGF3MWU",
+  "snapshot_id": "asBFgAAAAADPRZnh/3GLEbC5LGTx24b/",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 344346,
       "name": "Really Love",
       "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344493,
-      "name": "Spanish Joint",
-      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DILLAGENCE II",
         "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 261426,
       "name": "This Woman (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344493,
+      "name": "Spanish Joint",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 382333,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 355320,
       "name": "Betray My Heart",
       "url": "https://open.spotify.com/track/3RXr49TkL3wYHB7JJTnyn5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 382333,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 373026,
-      "name": "One Mo'Gin",
-      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tical 2000: Judgement Day",
         "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 233933,
       "name": "Break Ups 2 Make Ups",
       "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 373026,
+      "name": "One Mo'Gin",
+      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 358558,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 302840,
       "name": "Sugah Daddy",
       "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Hot + Riot",
         "url": "https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Till It's Done (Tutu)",
+      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Renaissance",
         "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 176986,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Till It's Done (Tutu)",
-      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
     }
   ],
   "unique_name": "This Is D'Angelo",

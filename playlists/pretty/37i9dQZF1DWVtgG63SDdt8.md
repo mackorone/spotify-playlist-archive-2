@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Gable Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,750 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,766 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

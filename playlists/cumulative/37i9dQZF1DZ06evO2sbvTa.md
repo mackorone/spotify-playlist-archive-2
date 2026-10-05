@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 21 min
+76 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Dope Talk \(feat\. 2 Chainz & Young Scooter\)](https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 4:08 | 2025-04-01 |  |
 | [Drug Deals](https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:10 | 2025-04-01 |  |
 | [Drugs](https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:07 | 2025-04-01 |  |
+| [Esse \(feat\. Future\)](https://open.spotify.com/track/4wnMzgP1vaDoFBCJP72RLJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 4:25 | 2026-10-05 |  |
 | [Fake Gold](https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fake Gold](https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c) | 2:58 | 2025-09-09 | 2025-11-03 |
-| [Fake Rappers](https://open.spotify.com/track/1dr6n2zXp6TFMO2wyiUEnk) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:21 | 2025-12-15 |  |
+| [Fake Rappers](https://open.spotify.com/track/1dr6n2zXp6TFMO2wyiUEnk) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:21 | 2025-12-15 | 2026-10-05 |
 | [For My Hutlers](https://open.spotify.com/track/5rNSTZgFHGCe69wlUXMZMF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:14 | 2025-09-13 | 2025-10-06 |
 | [Grew Up](https://open.spotify.com/track/0GE9xF6B72abnhLBrp60ri) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [High Class Street Music 3: Trappin' out a Mansion](https://open.spotify.com/album/11qFqK39bAL6MRegFESHPB) | 4:21 | 2025-04-01 |  |
 | [Grind Don't Stop](https://open.spotify.com/track/6iOBrCVAN4cmlYhJEBSbpj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 2:55 | 2025-09-16 | 2025-10-04 |

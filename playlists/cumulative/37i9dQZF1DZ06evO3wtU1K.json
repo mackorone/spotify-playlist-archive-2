@@ -458,7 +458,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 177201,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
@@ -908,6 +908,28 @@
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+    },
+    {
+      "album": {
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Enrique Holmes",
+          "url": "https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202753,
+      "name": "Happy (Reprise) / You've Been So Faithful",
+      "url": "https://open.spotify.com/track/0SgsZ6wy5YvV9dEO6707BP"
     },
     {
       "album": {

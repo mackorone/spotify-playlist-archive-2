@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-404 songs - 1 day 0 hr 52 min
+405 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2024-04-19 |  |
 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 | 2024-04-19 |  |
 | [ODDWADD \- From the Original Motion Picture Soundtrack 'Honey Don’t!'](https://open.spotify.com/track/34D78QnkBV42QouI2DE66p) | [Lace Manhattan](https://open.spotify.com/artist/0I7CZtEq5rPKtJewJvBjyJ) | [ODDWADD / In the Sun She Lies \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/album/2PlNR6OhQJ6aAnQH0rEbyj) | 2:18 | 2025-08-02 |  |
-| [On Video](https://open.spotify.com/track/2Flb8QXjKZKq3rWgWDmqq5) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [On Video](https://open.spotify.com/album/0e3lfMyRxV0sPgM8ItYuUA) | 3:31 | 2026-09-27 |  |
+| [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 | 2026-10-04 |  |
+| [On Video](https://open.spotify.com/track/2Flb8QXjKZKq3rWgWDmqq5) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [On Video](https://open.spotify.com/album/0e3lfMyRxV0sPgM8ItYuUA) | 3:31 | 2026-09-27 | 2026-10-05 |
 | [One Foot](https://open.spotify.com/track/1SGLgGAv1W2CRF9sovnJXu) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 3:31 | 2024-04-19 | 2026-03-29 |
 | [One Foot](https://open.spotify.com/track/7c6TRb4cvgHWVhTJDfRqth) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 3:31 | 2026-03-28 |  |
 | [Ordinary Heaven](https://open.spotify.com/track/37iTeSsKvk2PQqNMH5hfoc) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 5:12 | 2024-04-19 |  |

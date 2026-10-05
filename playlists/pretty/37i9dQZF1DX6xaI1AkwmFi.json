@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 32179,
+  "num_followers": 32184,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "lulu.",
-        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
+        "name": "ICONIC HEART",
+        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 270626,
-      "name": "lulu.",
-      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+      "duration_ms": 189000,
+      "name": "ICONIC HEART",
+      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "ICONIC HEART",
-        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
+        "name": "lulu.",
+        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 189000,
-      "name": "ICONIC HEART",
-      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
+      "duration_ms": 270626,
+      "name": "lulu.",
+      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
-    },
-    {
-      "added_at": "2026-09-22 15:00:36",
-      "album": {
         "name": "\u6df1\u6d77",
         "url": "https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 219733,
       "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R"
+    },
+    {
+      "added_at": "2026-09-22 15:00:36",
+      "album": {
+        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "\u98a8\u3068\u753a",
-        "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "\u98a8\u3068\u753a",
-      "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
-    },
-    {
-      "added_at": "2026-09-22 15:00:36",
-      "album": {
         "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
         "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 178380,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
-    },
-    {
-      "added_at": "2026-09-22 15:00:36",
-      "album": {
-        "name": "STARRING",
-        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Theater",
-      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -643,6 +611,22 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
+        "name": "STARRING",
+        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Theater",
+      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
+    },
+    {
+      "added_at": "2026-09-22 15:00:36",
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 206706,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL"
+    },
+    {
+      "added_at": "2026-09-22 15:00:36",
+      "album": {
+        "name": "\u98a8\u3068\u753a",
+        "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "\u98a8\u3068\u753a",
+      "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "I-BULL - iburu - BLEACH: Thousand-Year Blood War - The Calamity",
-        "url": "https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM"
+        "name": "\u6669\u9910\u6b4c - Bansanka",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 240233,
-      "name": "I-BULL - iburu",
-      "url": "https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL"
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c - Bansanka",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2026-09-22 15:00:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-22 15:00:36",
       "album": {
-        "name": "\u6669\u9910\u6b4c - Bansanka",
-        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "\u6669\u9910\u6b4c - Bansanka",
-      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
-    },
-    {
-      "added_at": "2026-09-22 15:00:36",
-      "album": {
         "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
         "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202394,
       "name": "\u30ce\u30fc\u30c0\u30a6\u30c8",
       "url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV"
+    },
+    {
+      "added_at": "2026-09-22 15:00:36",
+      "album": {
+        "name": "I-BULL - iburu - BLEACH: Thousand-Year Blood War - The Calamity",
+        "url": "https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "I-BULL - iburu",
+      "url": "https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL"
     }
   ],
   "unique_name": "\u30b9\u30c8\u30ed\u30dc",

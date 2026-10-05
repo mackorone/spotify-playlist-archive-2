@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-486 songs - 1 day 0 hr 35 min
+487 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Los Monstruos Existen de Verdad](https://open.spotify.com/track/6VHQ2vLiu7twSNzeHsOuFg) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Los Monstruos Existen de Verdad](https://open.spotify.com/album/0h6GRyOM2KewgA4nIRWJQ8) | 4:55 | 2025-06-05 | 2025-08-01 |
 | [Los Senderos del Faquir](https://open.spotify.com/track/5H9wmQyqIYKLlnAEG66YbL) | [Alkayata](https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ), [Samuel Barranco](https://open.spotify.com/artist/01n0og8D2QrWb7fWhxwYZS), [Def Con Dos](https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK), [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK), [Edu Guerrero](https://open.spotify.com/artist/4IJ3ztSKWieURfcgV5kCrU) | [Los Senderos del Faquir](https://open.spotify.com/album/4FN1bgQaXfOxlO8dbtXTjh) | 4:27 | 2026-02-01 | 2026-04-10 |
 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 | 2025-04-26 |
+| [Luigi](https://open.spotify.com/track/41kXkdEBkaOlZ9KSSSWDfw) | [Charnego](https://open.spotify.com/artist/3lK9i7z7TBiYOTZu7MnEAH) | [Luigi](https://open.spotify.com/album/4S4AcOEvCDs9pLYJY8MJiv) | 2:37 | 2026-10-02 |  |
 | [línea 11](https://open.spotify.com/track/1OH2VSaW4bi3PxQznaWUXv) | [Salmonetes Enfadados](https://open.spotify.com/artist/7tuH22TfYXoNA5OfUhPedZ) | [línea 11](https://open.spotify.com/album/0cZCa7vy1WrIVBCA1W613R) | 3:11 | 2025-07-17 | 2025-08-22 |
 | [Madrid Ha Muerto](https://open.spotify.com/track/6jrDxmAS6m2xkSD9v74sXD) | [Dr\. Gayolas](https://open.spotify.com/artist/4vCE8m5O8lGQXiyggF06BC) | [Madrid Ha Muerto](https://open.spotify.com/album/4Ah7fYbucAHZzsXiwsryIk) | 3:43 | 2026-05-07 | 2026-07-31 |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
@@ -316,7 +317,7 @@
 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 | 2024-09-13 | 2024-12-13 |
 | [Navaja y Veneno](https://open.spotify.com/track/6G3hl8pCP90TseYZXis3lo) | [13 Bats](https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt) | [Navaja y Veneno](https://open.spotify.com/album/6omVVRo7uAMx5bb5uYljSA) | 2:43 | 2025-10-09 | 2026-02-02 |
 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 | 2023-12-08 |  |
-| [Ni Dios Ni Amo](https://open.spotify.com/track/38OqmiFdfy1Cmcn2XI90oE) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/1mMB89P9sgw8WRsR6qk8Rg) | 5:16 | 2024-04-18 |  |
+| [Ni Dios Ni Amo](https://open.spotify.com/track/38OqmiFdfy1Cmcn2XI90oE) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/1mMB89P9sgw8WRsR6qk8Rg) | 5:16 | 2024-04-18 | 2026-10-05 |
 | [Ni Dios Ni Amo](https://open.spotify.com/track/1ShO18HJchAPsi9gk9aMSU) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera, Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/2AdGLqWCfeJb4a5JQoVe6C) | 5:16 | 2023-12-08 | 2024-04-19 |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 | 2025-08-14 |  |
 | [Nino Gramo](https://open.spotify.com/track/4ZBYc1udmmLy6INoqUyIcf) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Nino Gramo](https://open.spotify.com/album/67N6UuebvuJ8fxkAAI15SF) | 1:29 | 2024-06-20 | 2024-11-08 |

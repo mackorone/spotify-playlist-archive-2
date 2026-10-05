@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKZKZ+m3BCIM5kCkpcOVHuNQP4Vhr2",
+  "snapshot_id": "AAAKaoRUhDKHAHa3QHdPImC9lN5ha9gu",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -2547,22 +2547,6 @@
       "duration_ms": 205333,
       "name": "Tell Me Lies",
       "url": "https://open.spotify.com/track/0AnaopDiDkSWzDLeESKTqA"
-    },
-    {
-      "added_at": "2025-09-26 19:16:14",
-      "album": {
-        "name": "Il Primo Respiro",
-        "url": "https://open.spotify.com/album/0QoqdePhMMxu23dmVXgy7g"
-      },
-      "artists": [
-        {
-          "name": "Karlo e Maria",
-          "url": "https://open.spotify.com/artist/2ZuCvhJTEa87UhJY5o43Al"
-        }
-      ],
-      "duration_ms": 172639,
-      "name": "Fantasmi Fantasiosi",
-      "url": "https://open.spotify.com/track/0Jm3L5dWh7ZS1SmLPoQOCt"
     },
     {
       "added_at": "2025-09-24 22:14:52",
@@ -20992,8 +20976,8 @@
       },
       "artists": [
         {
-          "name": "DES\u00c8",
-          "url": "https://open.spotify.com/artist/5ZGM7ZcrSoxIYIv7fPxyZt"
+          "name": "Luce",
+          "url": "https://open.spotify.com/artist/6mfosE9RmLsAAoTIkr7iJt"
         }
       ],
       "duration_ms": 153931,
@@ -80051,6 +80035,74 @@
       "duration_ms": 167536,
       "name": "Clutter",
       "url": "https://open.spotify.com/track/4ifWQHZnCxZCqP28QazfoD"
+    },
+    {
+      "added_at": "2026-10-04 12:59:51",
+      "album": {
+        "name": "Sacred Lies",
+        "url": "https://open.spotify.com/album/1ZArM0WylCsaXpQ8VsELlz"
+      },
+      "artists": [
+        {
+          "name": "SuckerTrap",
+          "url": "https://open.spotify.com/artist/23D0LIpYPJxkQ9Kt85pBhl"
+        }
+      ],
+      "duration_ms": 266532,
+      "name": "Sacred Lies",
+      "url": "https://open.spotify.com/track/1BN0vvQPUxQo0JWqZnISue"
+    },
+    {
+      "added_at": "2026-10-04 17:29:33",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/35CImHdxIif3BJWXA4zzJl"
+      },
+      "artists": [
+        {
+          "name": "Tony Ray Pace",
+          "url": "https://open.spotify.com/artist/190f4z8As3hYZggN6JiHd4"
+        }
+      ],
+      "duration_ms": 274181,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/0cBiwdu8dD69h2UweTcH59"
+    },
+    {
+      "added_at": "2026-10-04 17:29:33",
+      "album": {
+        "name": "Between Moments & People",
+        "url": "https://open.spotify.com/album/4nuNxooAoPlY1P9AsQ6M7D"
+      },
+      "artists": [
+        {
+          "name": "Fabian Engelhardt Suno AI Music",
+          "url": "https://open.spotify.com/artist/4QraHGMu9reMvbQFUzpi7T"
+        },
+        {
+          "name": "Suno AI Music",
+          "url": "https://open.spotify.com/artist/08QF0s09VdFPjKDTYaJviE"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "The Loudest Cry",
+      "url": "https://open.spotify.com/track/5kAO7qQNE2B4VqXqMGoxFC"
+    },
+    {
+      "added_at": "2026-10-04 17:29:35",
+      "album": {
+        "name": "Bring Your Love Back",
+        "url": "https://open.spotify.com/album/7jYLY6zSZa8ZViS9sbylKt"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Bo Charles",
+          "url": "https://open.spotify.com/artist/20TfmujUZ2RDH6RolTMtHF"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Bring Your Love Back",
+      "url": "https://open.spotify.com/track/6Xo4ctpvfZLP86LGWW7lqo"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 968853,
+  "num_followers": 968970,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABcUK/jdORbOBNWjlO+U7rW",
+  "snapshot_id": "asBFgAAAAAAWxwpHIQqgQ7sbT5AuQ+Hb",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 154688,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 154688,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 116455,
-      "name": "Seca Tus Lagrimas",
-      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 205161,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/4woupD6nz235hkCKdIkQJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 116455,
+      "name": "Seca Tus Lagrimas",
+      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,

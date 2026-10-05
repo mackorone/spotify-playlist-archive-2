@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21557,
+  "num_followers": 21561,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABT/UP2CRCJk9pHG19DUaTo",
+  "snapshot_id": "asBFgAAAAAAeZMZ9if5P5pv6QgG0Itbd",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 183484,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hide Your Love",
-        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        }
-      ],
-      "duration_ms": 157959,
-      "name": "Hide Your Love",
-      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hide Your Love",
+        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        }
+      ],
+      "duration_ms": 157959,
+      "name": "Hide Your Love",
+      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
     },
     {
       "added_at": null,

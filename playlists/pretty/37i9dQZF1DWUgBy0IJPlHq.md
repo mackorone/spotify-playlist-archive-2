@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,170 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,195 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-140 songs - 11 hr 4 min
+141 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Hard Lovin' Woman](https://open.spotify.com/track/1p2rdOyJKHLuqJR9S3uevx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 3:25 | 2022-09-17 | 2022-12-01 |
 | [Hell to Pay \- Instrumental Version](https://open.spotify.com/track/26ZMByyHCWlVOqKLuCbESO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:11 | 2022-09-17 | 2023-02-13 |
 | [Help \- 2000 Remaster](https://open.spotify.com/track/1Xn1zGitnNwuVuBbY1naBx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 6:01 | 2022-09-17 | 2022-10-13 |
+| [Hey Joe](https://open.spotify.com/track/6REUf1JrrLP0FgoigOtc39) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple \- the Best Ballade](https://open.spotify.com/album/2apUG0HQEvU167BcPBdG5n) | 6:58 | 2026-10-05 |  |
 | [Highway Star \- Live in Milan 2022](https://open.spotify.com/track/0Iisp65tqglbQ8g0hMsjw8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Lazy Sod](https://open.spotify.com/album/1PA7VgAvDvCGJ6DbGhel10) | 6:25 | 2024-10-13 | 2024-11-10 |
 | [Highway Star \- Remastered 2012](https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 6:06 | 2022-09-17 |  |
 | [Hip Boots \- Rehearsal, Ian Paice Recording](https://open.spotify.com/track/0BE8oMxHZ91FWCoUzFH96d) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 4:00 | 2022-10-09 | 2022-10-13 |
@@ -99,7 +100,7 @@
 | [Pictures Of You](https://open.spotify.com/track/38iD58UjxdLJSC4V8rFyN4) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Pictures Of You](https://open.spotify.com/album/4BE9gEnLue88Xy5dqUebSw) | 3:51 | 2024-06-07 | 2024-07-05 |
 | [Pictures of You](https://open.spotify.com/track/5jAJWEiul0dh390FLvF5ML) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Pictures of You](https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl) | 3:51 | 2024-07-05 | 2024-07-27 |
 | [Pictures of You](https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:51 | 2024-07-27 | 2026-06-07 |
-| [Portable Door](https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:48 | 2024-07-22 |  |
+| [Portable Door](https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:48 | 2024-07-22 | 2026-10-05 |
 | [Portable Door](https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Portable Door](https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc) | 3:48 | 2024-05-03 | 2024-07-22 |
 | [Purpendicular Waltz \- Live in 95](https://open.spotify.com/track/2fKgboilteDu7GUkX8fVKX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 5:40 | 2022-09-17 | 2022-10-11 |
 | [Rapture of the Deep \- 20th Anniversary Remix](https://open.spotify.com/track/7ayF99jzq2CWQ8CVyrWw7K) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Rapture of the Deep \(20th Anniversary Remix\)](https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO) | 5:54 | 2025-08-31 | 2026-05-09 |

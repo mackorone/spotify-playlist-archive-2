@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,326 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,365 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 18 | [Nenani Neevani](https://open.spotify.com/track/3qcO9TrBzshhBpFZbvHwm4) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu), [Sirivennela Seetharama Sastry](https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO) | [Kothabangarulokam](https://open.spotify.com/album/3fyG1mITrUGtCyGtKvJYlw) | 5:09 |
 | 19 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
 | 20 | [Ramachakkani Sitha](https://open.spotify.com/track/7l5fS4lbkdwzteVyE6s2IO) | [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Godavari](https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE) | 3:51 |
-| 21 | [Muvvala Navakala](https://open.spotify.com/track/2ejFoHXs1ik9nCJeFaajmu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Pournamy](https://open.spotify.com/album/1kzQvmk8hEdMWXqM31ddaE) | 5:07 |
-| 22 | [Uyyalo Uyyalo \(Female\)](https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [The Paradise \(Telugu\)](https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9) | 3:42 |
+| 21 | [Uyyalo Uyyalo \(Female\)](https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [The Paradise \(Telugu\)](https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9) | 3:42 |
+| 22 | [Muvvala Navakala](https://open.spotify.com/track/2ejFoHXs1ik9nCJeFaajmu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Pournamy](https://open.spotify.com/album/1kzQvmk8hEdMWXqM31ddaE) | 5:07 |
 | 23 | [Atu Itu Ooguthu](https://open.spotify.com/track/24K2mrj2EdYowxLweHaEAl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Life Is Beautiful](https://open.spotify.com/album/31evgMUroCibkdMwan4s0W) | 5:27 |
 | 24 | [Nee Kallathoti](https://open.spotify.com/track/2mdEd4hfIKY9l3HrN7MXHx) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Gandham Sagar](https://open.spotify.com/artist/0BGX5oh7hWjWBqKODuzYYg) | [Tulasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69dwUxYtIfCn9TbJBVKSte) | 3:56 |
 | 25 | [Nidhare Kala](https://open.spotify.com/track/4dSs0v5rU0KCoZkSiuWZvl) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Sudha Ragunathan](https://open.spotify.com/artist/1wnVXMMfv0OElONAKrIS1r) | [Surya S/o Krishnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO) | 5:22 |

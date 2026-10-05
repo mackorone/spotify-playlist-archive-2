@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
-  "num_followers": 84572,
+  "num_followers": 84578,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas - En Vivo",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
+      "duration_ms": 205949,
+      "name": "Inv\u00e9ntame - En Vivo",
+      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -271,18 +267,22 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
         }
       ],
-      "duration_ms": 205949,
-      "name": "Inv\u00e9ntame - En Vivo",
-      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas - En Vivo",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "El Mensaje",
-        "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "El Mensaje",
-      "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Don Chon (En Vivo)",
         "url": "https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
         "name": "Golpe de Estado (En Vivo)",
         "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 149163,
       "name": "300 Locos - En Vivo",
       "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
-        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 268993,
-      "name": "Por Mujeres Como T\u00fa - Live",
-      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1067,6 +1051,22 @@
       "duration_ms": 227554,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 268993,
+      "name": "Por Mujeres Como T\u00fa - Live",
+      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "La Changa (En Vivo)",
         "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 344978,
       "name": "La Changa (En Vivo)",
       "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Dejando Huella (En Vivo)",
-        "url": "https://open.spotify.com/album/7q9VPZb6nCpWlSPjZ0ZR73"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 209375,
-      "name": "Agua Y Aceite - En Vivo",
-      "url": "https://open.spotify.com/track/5HUaMvZnDyE1Nob6Hi9ZeD"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Comando \u00danico con Compa Danny (En vivo)",
         "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 157500,
       "name": "El Sube y Baja - En vivo",
       "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Dejando Huella (En Vivo)",
+        "url": "https://open.spotify.com/album/7q9VPZb6nCpWlSPjZ0ZR73"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 209375,
+      "name": "Agua Y Aceite - En Vivo",
+      "url": "https://open.spotify.com/track/5HUaMvZnDyE1Nob6Hi9ZeD"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184124,
-      "name": "Caminos Diferentes - En Vivo",
-      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "El Ranchero",
         "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
       },
@@ -1755,6 +1739,38 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 184124,
+      "name": "Caminos Diferentes - En Vivo",
+      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "\u201cV1V0\u201d EN VIVO",
+        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218634,
+      "name": "DE SOBREMANERA - EN VIVO",
+      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1783,22 +1799,6 @@
       "duration_ms": 161026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/0GAB7waNGP9kAAFlvhK5hS"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "\u201cV1V0\u201d EN VIVO",
-        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218634,
-      "name": "DE SOBREMANERA - EN VIVO",
-      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     },
     {
       "added_at": "2026-09-18 21:31:17",

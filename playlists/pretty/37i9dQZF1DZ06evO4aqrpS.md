@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,292 likes - 46 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,328 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 27 | [Detesto En Mí](https://open.spotify.com/track/2V0qhsDoHYh5ugZ4FBXE8T) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:18 |
 | 28 | [Qué Problema](https://open.spotify.com/track/7FrX63yOHJZucV0MADP3iS) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/591cjIQ96fv6ZhWZu1YC5p) | 3:24 |
 | 29 | [Marchita](https://open.spotify.com/track/2yrN2kALBBWeqgyvcmei5g) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:46 |
-| 30 | [Milagro y Desastre](https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh) | 4:05 |
-| 31 | [Si Me Matan](https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 4:10 |
+| 30 | [Si Me Matan](https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 4:10 |
+| 31 | [Milagro y Desastre](https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh) | 4:05 |
 | 32 | [Porque Existo](https://open.spotify.com/track/6tN9gB6UrQ16ZeFHxcDiDD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 2:50 |
 | 33 | [Tristeza](https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:01 |
-| 34 | [Tom's Diner](https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0) | 3:40 |
-| 35 | [Aquí](https://open.spotify.com/track/6Dl4YchtNJFRswO95gyZMl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 2:52 |
+| 34 | [Aquí](https://open.spotify.com/track/6Dl4YchtNJFRswO95gyZMl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 2:52 |
+| 35 | [Tom's Diner](https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0) | 3:40 |
 | 36 | [Los Días](https://open.spotify.com/track/4xbe3iVH32qzMo3b4zT0jT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 2:55 |
 | 37 | [Más o Menos Antes](https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 2:15 |
 | 38 | [Amor Eterno](https://open.spotify.com/track/3kdehL0pJZJUhPbKXBx9K6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5a2ZqCTgZSVfV38Yhn093K) | 5:33 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 45 | [La Caña](https://open.spotify.com/track/6gSwd2DF4CvniStQTuk1fi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Xinto Stevenz](https://open.spotify.com/artist/1uEiRl4WQ98wcfAdLX0Xgg), [Juan Cubas](https://open.spotify.com/artist/7mhLvp0kBLclELTbMTRcY1) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 6:43 |
 | 46 | [El Agua Y La Miel](https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 4:38 |
 
-Snapshot ID: `ar70AAAAAAB37mwT75nofp5P7sgP6Kkt`
+Snapshot ID: `asBFgAAAAADVGr10ybV+O6v46PJnMaYn`

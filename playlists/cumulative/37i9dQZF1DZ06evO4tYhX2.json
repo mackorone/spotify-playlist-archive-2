@@ -1987,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473742,
+      "name": "Poderoso Dios (Grande y Fiel) - Live",
+      "url": "https://open.spotify.com/track/100Eha8isxmsMIgwRswi5V"
+    },
+    {
+      "album": {
         "name": "Proverbios",
         "url": "https://open.spotify.com/album/2Jk1xdlyvHZebQuCgyPhQR"
       },
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 375056,
       "name": "Rey Glorioso (En Vivo)",
       "url": "https://open.spotify.com/track/3PuxKbSndfvCFOjvkyMYzo"

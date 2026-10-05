@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: さとうもか
 
-3,898 songs - 10 day 7 hr 56 min
+3,899 songs - 10 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2099,7 +2099,7 @@
 | [Walkin' In My Lane](https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Walkin' In My Lane](https://open.spotify.com/album/02KI6B3EHutDYnZHSLnIkf) | 4:00 | 2022-05-29 | 2023-03-15 |
 | [Wangan Sniper](https://open.spotify.com/track/5AqD8OD0S8AA7dxawDQ6BF) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Cipher Cipher](https://open.spotify.com/album/5n5bU7pPYzcBN1pxu88yl0) | 3:17 | 2026-02-17 | 2026-02-25 |
 | [Wanna](https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Wanna](https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N) | 2:28 | 2023-08-22 | 2023-09-13 |
-| [Wanna me](https://open.spotify.com/track/2JUjL1621goUg9JbLGUsrA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [Wanna me](https://open.spotify.com/album/5Gm9NPCshVejCzruoNJRuh) | 3:56 | 2026-07-28 |  |
+| [Wanna me](https://open.spotify.com/track/2JUjL1621goUg9JbLGUsrA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [Wanna me](https://open.spotify.com/album/5Gm9NPCshVejCzruoNJRuh) | 3:56 | 2026-07-28 | 2026-10-05 |
 | [Want You](https://open.spotify.com/track/2DPxgdqVSrVeath58SUuJN) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [Want You / Merry\-Go\-Round](https://open.spotify.com/album/1Cg0oGrE8oXGgW0C64Oeqe) | 3:09 | 2024-02-13 | 2024-02-21 |
 | [Waruguchi](https://open.spotify.com/track/39M6nk527FfMzBOwVVQObv) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Hankei 3 Meters](https://open.spotify.com/album/5rGQ8LGef4lLNO6m5QEqA4) | 5:52 | 2026-03-03 | 2026-03-11 |
 | [Waruihito](https://open.spotify.com/track/5cMj2uTMAlEKQZKFW4kQu9) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Waruihito](https://open.spotify.com/album/6WX1NPNSWMsi1tJDVUSUIw) | 3:15 | 2024-09-17 | 2024-09-25 |
@@ -3729,6 +3729,7 @@
 | [花束じゃなくキミといたい](https://open.spotify.com/track/4OaLlRZLp11tRDioSRbCJk) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Wonder!](https://open.spotify.com/album/14lqQSxRw57mrcK2Powuld) | 5:01 | 2025-09-03 | 2025-09-17 |
 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 | 2022-05-31 | 2023-02-18 |
 | [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-03-18 | 2025-04-30 |
+| [花蔭](https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [花蔭](https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75) | 3:48 | 2026-09-29 |  |
 | [花雨](https://open.spotify.com/track/1LER8HqjV97yTkwE319KCJ) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [花雨](https://open.spotify.com/album/45nxRDg99QvBzeNn0BWg0S) | 3:46 | 2022-05-31 | 2022-07-22 |
 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 | 2024-06-25 | 2025-07-09 |
 | [苦渋](https://open.spotify.com/track/4nudyv05Dd1pAdO6z1YBoh) | [伊秩弘将](https://open.spotify.com/artist/6Ttbh64IwREzX4Al8AOMKf), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [禁じ手](https://open.spotify.com/album/0zOYbmHO5dAdRM6c7KyK00) | 3:49 | 2026-03-10 | 2026-05-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Sam Alfred
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,720 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,724 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 45 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
 | 46 | [C'est Toi](https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [C'est Toi](https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF) | 3:10 |
 | 47 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
-| 48 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
-| 49 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
+| 48 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
+| 49 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
 | 50 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
 
 Snapshot ID: `AAAAACHip6yoKdYGjnk7MOCAzEDb18Ml`

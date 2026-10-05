@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dexter and the Moonrocks, Noah Kahan, Drake, Victoria Monét,  Quavo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,640,499 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,640,514 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

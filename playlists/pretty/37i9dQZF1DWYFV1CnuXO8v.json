@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 205950,
+  "num_followers": 205992,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -265,10 +265,10 @@
       "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
     },
     {
-      "added_at": "2026-07-15 12:29:38",
+      "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
-        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
+        "name": "Lealy Nahary",
+        "url": "https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg"
       },
       "artists": [
         {
@@ -277,8 +277,8 @@
         }
       ],
       "duration_ms": 264228,
-      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
-      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
+      "name": "Qusad Einy",
+      "url": "https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo"
     },
     {
       "added_at": "2026-07-15 12:29:38",
@@ -655,22 +655,18 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Aamel Eh Fe Hayatak",
-        "url": "https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK"
+        "name": "Hazi Men El Sama",
+        "url": "https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o"
       },
       "artists": [
         {
           "name": "Amer Mounib",
           "url": "https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0"
-        },
-        {
-          "name": "Mariam Amer Mounib",
-          "url": "https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x"
         }
       ],
-      "duration_ms": 198422,
-      "name": "Aamel Eh Fe Hayatak",
-      "url": "https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw"
+      "duration_ms": 239920,
+      "name": "Kalam",
+      "url": "https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -739,18 +735,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Hazi Men El Sama",
-        "url": "https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o"
+        "name": "Aamel Eh Fe Hayatak",
+        "url": "https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK"
       },
       "artists": [
         {
           "name": "Amer Mounib",
           "url": "https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0"
+        },
+        {
+          "name": "Mariam Amer Mounib",
+          "url": "https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x"
         }
       ],
-      "duration_ms": 239920,
-      "name": "Kalam",
-      "url": "https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc"
+      "duration_ms": 198422,
+      "name": "Aamel Eh Fe Hayatak",
+      "url": "https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Kol Sana Wenta Tayeb",
         "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Ala Bali",
         "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
       },
@@ -1183,6 +1183,54 @@
       "duration_ms": 194454,
       "name": "Ala Bali",
       "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "Ya Bakhty Beh",
+        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 195535,
+      "name": "Ya Bakhty Beh",
+      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/5ot4ftP6Cfvu9R7hN3qEIN"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Khaled",
+          "url": "https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG"
+        }
+      ],
+      "duration_ms": 175460,
+      "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/7Ickn6od1uRttDA0OXgQEc"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
+        "url": "https://open.spotify.com/album/2HosZ208SfTstQtPXfccAC"
+      },
+      "artists": [
+        {
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
+        }
+      ],
+      "duration_ms": 232371,
+      "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
+      "url": "https://open.spotify.com/track/2hUeDTrPK1CoYt954u4TQF"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1207,54 +1255,6 @@
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/5ot4ftP6Cfvu9R7hN3qEIN"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Khaled",
-          "url": "https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG"
-        }
-      ],
-      "duration_ms": 175460,
-      "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/7Ickn6od1uRttDA0OXgQEc"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "Ya Bakhty Beh",
-        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
-      },
-      "artists": [
-        {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
-        }
-      ],
-      "duration_ms": 195535,
-      "name": "Ya Bakhty Beh",
-      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
-        "url": "https://open.spotify.com/album/2HosZ208SfTstQtPXfccAC"
-      },
-      "artists": [
-        {
-          "name": "Saber Rebai",
-          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
-        }
-      ],
-      "duration_ms": 232371,
-      "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
-      "url": "https://open.spotify.com/track/2hUeDTrPK1CoYt954u4TQF"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "Kol El Habiba",
+        "url": "https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA"
+      },
+      "artists": [
+        {
+          "name": "Mai Farouk",
+          "url": "https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP"
+        }
+      ],
+      "duration_ms": 287191,
+      "name": "Kol El Habiba",
+      "url": "https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Hena Hena",
         "url": "https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "Kol El Habiba",
-        "url": "https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA"
+        "name": "Bashouf Oyounak",
+        "url": "https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6"
       },
       "artists": [
         {
-          "name": "Mai Farouk",
-          "url": "https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP"
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
         }
       ],
-      "duration_ms": 287191,
-      "name": "Kol El Habiba",
-      "url": "https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR"
+      "duration_ms": 275298,
+      "name": "Bashouf Oyounak",
+      "url": "https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS"
     },
     {
       "added_at": "2026-09-03 14:50:01",
@@ -1367,22 +1383,6 @@
       "duration_ms": 217078,
       "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
       "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "Bashouf Oyounak",
-        "url": "https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6"
-      },
-      "artists": [
-        {
-          "name": "Haytham Shaker",
-          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
-        }
-      ],
-      "duration_ms": 275298,
-      "name": "Bashouf Oyounak",
-      "url": "https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS"
     },
     {
       "added_at": "2026-09-17 15:04:32",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "7elm B3eed",
+        "url": "https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 316264,
+      "name": "7elm B3eed",
+      "url": "https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
         "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/6EBKXT2EYYX4f0hqJCuDT0"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "Fe Hetta Tanya",
-        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Fe Hetta Tanya",
-      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
+        "name": "Fe Hetta Tanya",
+        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Fe Hetta Tanya",
+      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
         "name": "Moshtaah",
         "url": "https://open.spotify.com/album/7MsqjuGelR9G1RQCjgdWyT"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 291044,
       "name": "7obk Rezk",
       "url": "https://open.spotify.com/track/3UtgACzkw3ooxZm6aHS2Wy"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
-        "name": "7elm B3eed",
-        "url": "https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 316264,
-      "name": "7elm B3eed",
-      "url": "https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

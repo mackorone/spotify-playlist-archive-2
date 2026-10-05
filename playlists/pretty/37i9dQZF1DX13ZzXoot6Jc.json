@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449782,
+  "num_followers": 449772,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 199893,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": "2026-01-23 05:01:12",
@@ -559,8 +559,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Mamaw's House",
-        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Mamaw's House",
-      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1653,20 +1653,20 @@
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
+      "added_at": "2026-01-23 05:01:12",
       "album": {
-        "name": "Good News Sold",
-        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
+        "name": "Highway Money",
+        "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
         }
       ],
-      "duration_ms": 203432,
-      "name": "Good News Sold",
-      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+      "duration_ms": 197036,
+      "name": "Highway Money",
+      "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/2Y6U2OC9N1brRnTvhaoQdq"
     },
     {
-      "added_at": "2026-01-23 05:01:12",
+      "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Highway Money",
-        "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
+        "name": "Good News Sold",
+        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
       "artists": [
         {
-          "name": "Josh Stumpf",
-          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 197036,
-      "name": "Highway Money",
-      "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
+      "duration_ms": 203432,
+      "name": "Good News Sold",
+      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
     },
     {
       "added_at": "2025-07-04 04:00:22",

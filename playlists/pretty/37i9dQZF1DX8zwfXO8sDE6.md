@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,229 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,231 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 12 | [COBALT HOUR](https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:33 |
 | 13 | [ON THE MOVE](https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 5:51 |
 | 14 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
-| 15 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
-| 16 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
+| 15 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
+| 16 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
 | 17 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanaco Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
-| 18 | [レインボー・シー・ライン](https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MINAKO](https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8) | 3:57 |
-| 19 | [THE TOKYO TASTE](https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:46 |
+| 18 | [THE TOKYO TASTE](https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:46 |
+| 19 | [レインボー・シー・ライン](https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MINAKO](https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8) | 3:57 |
 | 20 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 21 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
 | 22 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 28 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
 | 29 | [砂の女](https://open.spotify.com/track/3KauV05L57307GtIr7qDzn) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(リマスター2017\)](https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO) | 3:55 |
 | 30 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
-| 31 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
-| 32 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
+| 31 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
+| 32 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
 | 33 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
 | 34 | [LADY PINK PANTHER](https://open.spotify.com/track/2fbyESl5b0FVR6yCDsQGPe) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [LAGOON \(リマスター2017\)](https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf) | 2:55 |
 | 35 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |

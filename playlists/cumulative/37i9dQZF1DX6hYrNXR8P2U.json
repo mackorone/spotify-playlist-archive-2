@@ -5441,6 +5441,28 @@
     },
     {
       "album": {
+        "name": "Carisma Secreto",
+        "url": "https://open.spotify.com/album/7kPvkm0UJSOxrL9EA7TjxP"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "Hablo Dormido",
+      "url": "https://open.spotify.com/track/2LRreAAhX5DXlVclZml142"
+    },
+    {
+      "album": {
         "name": "Hacedora",
         "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
       },
@@ -13810,7 +13832,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 141163,
       "name": "TUS OJOS",
       "url": "https://open.spotify.com/track/5hW3Qj6FdctGkHXdvaj23J"

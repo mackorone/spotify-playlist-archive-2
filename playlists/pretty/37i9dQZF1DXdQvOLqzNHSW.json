@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1012131,
+  "num_followers": 1012128,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Tarika Blue",
-        "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
-      },
-      "artists": [
-        {
-          "name": "Tarika Blue",
-          "url": "https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Dreamflower",
-      "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "I'll Still Call",
         "url": "https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 175612,
       "name": "I'll Still Call",
       "url": "https://open.spotify.com/track/1SerYv7SabsGxVl0qIKES9"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Tarika Blue",
+        "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
+      },
+      "artists": [
+        {
+          "name": "Tarika Blue",
+          "url": "https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Dreamflower",
+      "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Okonski",
-          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "By The Lake",
-      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Craterellus Tubaeformis",
         "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 206394,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "By The Lake",
+      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "The After Taste",
         "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197267,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Pleasure Is Everything",
-        "url": "https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 167231,
-      "name": "Cold Paris Vogue",
-      "url": "https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Dick Arkive: Issue 2",
         "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 242345,
       "name": "I Think I Lost That Love",
       "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Pleasure Is Everything",
+        "url": "https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 167231,
+      "name": "Cold Paris Vogue",
+      "url": "https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1151,42 +1151,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Moonlit Breakers (feat. Dijon)",
-        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
-      },
-      "artists": [
-        {
-          "name": "Paul Dally",
-          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
-        },
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 234681,
-      "name": "Moonlit Breakers (feat. Dijon)",
-      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
-      },
-      "artists": [
-        {
-          "name": "Hannovr",
-          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
-        }
-      ],
-      "duration_ms": 255624,
-      "name": "DRIVE",
-      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Six Songs",
         "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
@@ -1219,6 +1183,42 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
+      },
+      "artists": [
+        {
+          "name": "Hannovr",
+          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Need To Talk (Kordz Remix)",
         "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 218431,
       "name": "Need To Talk - Kordz Remix",
       "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        },
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 160062,
       "name": "I Just Can't Be Alone (with Billy Lemos)",
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 203864,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "We're Here, My Dear",
         "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 185333,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Holy Waters",
-        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Dream Of You",
-      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "East",
         "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+        "name": "Holy Waters",
+        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 169253,
-      "name": "Back Then",
-      "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
+      "duration_ms": 183426,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1691,6 +1675,22 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
     }
   ],
   "unique_name": "late night vibes",

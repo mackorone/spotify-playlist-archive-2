@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover:  Tamer Ashour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,528 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,544 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 19 | [Yetalemo](https://open.spotify.com/track/7FgBRZYvvEqyRNvnMX8QHE) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Kol Hayaty](https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC) | 3:56 |
 | 20 | [Albi Ashe2ha \- Remake Version](https://open.spotify.com/track/40fFiVk4mt0qRYFb2laAFC) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Albi Ashe2ha \(Remake Version\)](https://open.spotify.com/album/7CIRsb5Dvy3VZhFby5gLW0) | 3:50 |
 | 21 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 |
-| 22 | [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 |
-| 23 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 |
+| 22 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 |
+| 23 | [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 |
 | 24 | [Bardo Betewhashni](https://open.spotify.com/track/6o25gM7QU4WmiZxCea7yNt) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg), [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Bardo Betewhashni](https://open.spotify.com/album/29mrsnZ7Pbq3OjHqX5qHBC) | 4:01 |
 | 25 | [Leena Ra2sa](https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Leena Ra2sa](https://open.spotify.com/album/79QFJVtyVVreerzC2ysapQ) | 3:51 |
 | 26 | [Hayat](https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:10 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 31 | [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 |
 | 32 | [هي الي](https://open.spotify.com/track/5gsySuD8jP4quf9HHmBpeZ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 | 33 | [Aam Yes2alou](https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Aam Yes2alou](https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq) | 3:32 |
-| 34 | [Kon Nafsak](https://open.spotify.com/track/3R0pAjEBqu82wcv1naZ44M) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:46 |
+| 34 | [Al Kawn Janni Maak](https://open.spotify.com/track/404zVDendZybr93Pue8nmf) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:15 |
 | 35 | [Kifak Enta](https://open.spotify.com/track/61k5XrVEJdOD5vCXcjBKF7) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Aman](https://open.spotify.com/album/3XPWs3JfOkQCp018108l5q) | 3:44 |
 | 36 | [3Einy Shayfa Feky](https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [3Einy Shayfa Feky](https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW) | 3:19 |
 | 37 | [Wassellik Khabar](https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Wassellik Khabar](https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT) | 3:56 |
 | 38 | [Mawali](https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mawali](https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN) | 4:28 |
-| 39 | [Al Kawn Janni Maak](https://open.spotify.com/track/404zVDendZybr93Pue8nmf) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:15 |
+| 39 | [Kon Nafsak](https://open.spotify.com/track/3R0pAjEBqu82wcv1naZ44M) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:46 |
 | 40 | [Addaysh Bhebak](https://open.spotify.com/track/4YPTEQmyafBQpEqPlnmBsX) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Byeb’a Nas](https://open.spotify.com/album/75Kg82i925AgtrYJTqJyJU) | 4:07 |
 | 41 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
 | 42 | [Bahebak](https://open.spotify.com/track/6ma9Xd53y0elLkH1KfiSU5) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Bahebak](https://open.spotify.com/album/5uPTWqnAfnZrrGi4Kxnes0) | 3:19 |

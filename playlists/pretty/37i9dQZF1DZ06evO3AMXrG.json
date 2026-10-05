@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 253775,
+  "num_followers": 253848,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA6w7zs6uATjofUyg7kZDtR",
+  "snapshot_id": "asBFgAAAAADyo5suGOngm6lQrWMDvHaa",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Saca, Prende Y Sorprende",
+        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 304973,
-      "name": "De Antes",
-      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+      "duration_ms": 357619,
+      "name": "Saca, Prende Y Sorprende",
+      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saca, Prende Y Sorprende",
-        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 357619,
-      "name": "Saca, Prende Y Sorprende",
-      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
+      "duration_ms": 304973,
+      "name": "De Antes",
+      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 349226,
-      "name": "Ritmo Que Pesa",
-      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marcri\u00e1",
         "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 256750,
       "name": "dame la verde",
       "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 349226,
+      "name": "Ritmo Que Pesa",
+      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229150,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+        "name": "Le da Igual",
+        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 281760,
-      "name": "Sube el Humo",
-      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
+      "duration_ms": 249770,
+      "name": "Le da Igual",
+      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le da Igual",
-        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 249770,
-      "name": "Le da Igual",
-      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
@@ -576,25 +544,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 248533,
-      "name": "La Noche Vibra",
-      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
+      "duration_ms": 281760,
+      "name": "Sube el Humo",
+      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
     },
     {
       "added_at": null,
@@ -631,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
@@ -640,9 +608,41 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 332533,
-      "name": "Nadie Se Atreve",
-      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
+      "duration_ms": 248533,
+      "name": "La Noche Vibra",
+      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
+      "duration_ms": 332533,
+      "name": "Nadie Se Atreve",
+      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
     },
     {
       "added_at": null,

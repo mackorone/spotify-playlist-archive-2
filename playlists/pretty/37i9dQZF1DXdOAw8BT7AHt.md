@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,548 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,570 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

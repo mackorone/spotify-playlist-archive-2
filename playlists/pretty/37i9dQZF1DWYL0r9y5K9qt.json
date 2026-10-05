@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: New Lore",
-  "num_followers": 623985,
+  "num_followers": 623959,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "TUNNEL VISION",
         "url": "https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 185000,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM"
     },
     {
       "added_at": "2026-09-11 04:00:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "Forever July",
-        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Forever July",
-      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "HOT SAUCE",
         "url": "https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "Forever July",
+        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Forever July",
+      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
     },
     {
       "added_at": "2026-09-11 04:00:30",

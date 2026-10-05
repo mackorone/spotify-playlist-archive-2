@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 475250,
       "name": "Gymnopedie N. 1",
       "url": "https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs"
@@ -6992,7 +6992,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 176517,
       "name": "No volver\u00e1n",
       "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
@@ -8401,6 +8401,28 @@
     },
     {
       "album": {
+        "name": "Ruedan por los ra\u00edles",
+        "url": "https://open.spotify.com/album/3h3ua1J5vI9KMQRdPNbVQH"
+      },
+      "artists": [
+        {
+          "name": "Miguel Rivera",
+          "url": "https://open.spotify.com/artist/1uFhzCISeRHWSg1s3Olw6V"
+        },
+        {
+          "name": "Roc\u00edo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Ruedan por los ra\u00edles",
+      "url": "https://open.spotify.com/track/5rbbHe6DoakkAwVgGcEYOH"
+    },
+    {
+      "album": {
         "name": "Run Your Mouth",
         "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
@@ -9758,7 +9780,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 246600,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"

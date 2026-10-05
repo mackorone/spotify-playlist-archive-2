@@ -19699,6 +19699,24 @@
     },
     {
       "album": {
+        "name": "Que Saudade da Gente",
+        "url": "https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143181,
+      "name": "Que Saudade da Gente",
+      "url": "https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c"
+    },
+    {
+      "album": {
         "name": "Que saudade de voc\u00ea",
         "url": "https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5"
       },
@@ -20336,7 +20354,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"

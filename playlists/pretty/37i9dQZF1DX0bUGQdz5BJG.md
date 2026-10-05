@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Blake Proehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,494 likes - 193 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,525 likes - 193 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

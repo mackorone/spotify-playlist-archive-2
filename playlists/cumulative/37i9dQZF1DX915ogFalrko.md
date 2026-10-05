@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-275 songs - 16 hr 2 min
+276 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 | 2026-01-30 | 2026-03-07 |
 | [Good Grief](https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 4:21 | 2026-02-19 | 2026-07-24 |
 | [Good News](https://open.spotify.com/track/3ClBKQkKoaUQ6UOhe2xlJK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Good News](https://open.spotify.com/album/4CCaoRnCugI6RsHHBKiMLs) | 5:42 | 2025-07-18 | 2025-08-08 |
+| [Grab](https://open.spotify.com/track/5k4GcGWTjJFR0LSRwg6nB9) | [Yesteban](https://open.spotify.com/artist/3ggXcl4EFpa5MM7Nnazzwy), [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg) | [Grab](https://open.spotify.com/album/2C3SrEndZq9TIyDFdWHFQR) | 3:19 | 2026-10-02 |  |
 | [Grizzly Bear](https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone](https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6) | 4:08 | 2025-08-12 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2025-07-18 | 2026-08-22 |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2025-07-18 | 2025-08-13 |
@@ -241,7 +242,7 @@
 | [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 | 2026-09-10 |  |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2025-07-18 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2025-07-18 |  |
-| [the plushies, they love you bro](https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [the plushies, they love you bro](https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS) | 1:45 | 2026-07-23 |  |
+| [the plushies, they love you bro](https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [the plushies, they love you bro](https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS) | 1:45 | 2026-07-23 | 2026-10-05 |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-04 | 2026-07-25 |
 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 |  |
 | [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-09-25 | 2025-12-05 |

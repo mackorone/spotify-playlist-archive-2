@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,503 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,560 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 39 | [mother tongue](https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:37 |
 | 40 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 |
 | 41 | [A Lot Like Vegas \- 2026 Repented](https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings \| Repented](https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO) | 2:11 |
-| 42 | [seenitallbefore\_xx.arch](https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:28 |
+| 42 | [shadowm0ses.frq](https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:46 |
 | 43 | [heavy metal \(feat\. Rahzel\)](https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Rahzel](https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:00 |
 | 44 | [Tell Slater Not to Wash His Dick \- 2026 Repented](https://open.spotify.com/track/64JZAC5iYe4eymrII98Fwg) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings \| Repented](https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO) | 3:39 |
-| 45 | [losT\_404.nll](https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:27 |
-| 46 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 |
+| 45 | [sTr4nG3r5.vsn0](https://open.spotify.com/track/5OjkJMfEVBAVgoYshwZuRt) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:05 |
+| 46 | [med!cine.fbk](https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 5:09 |
 | 47 | [sL33pwalking.idl](https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 4:25 |
-| 48 | [in\_the\_dark.ech](https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
-| 49 | [med!cine.fbk](https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 5:09 |
+| 48 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 |
+| 49 | [in\_the\_dark.ech](https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
 
-Snapshot ID: `ar70AAAAAABdHrcHiCn7EHcaJaKF3r5o`
+Snapshot ID: `asBFgAAAAADShS1lLDP3OpalHH1BV+qB`

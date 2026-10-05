@@ -1,6 +1,6 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 83744,
+  "num_followers": 83804,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "The PlayMaker",
-        "url": "https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 288680,
-      "name": "Fada Fada",
-      "url": "https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
         "name": "Manya",
         "url": "https://open.spotify.com/album/5TaQ82vUKpFXRCY6p55Fq7"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 231272,
       "name": "Manya",
       "url": "https://open.spotify.com/track/0uaKM65fL3aEgZdmwabvDb"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
+        "name": "The PlayMaker",
+        "url": "https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 288680,
+      "name": "Fada Fada",
+      "url": "https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086"
     },
     {
       "added_at": "2026-09-22 19:05:19",

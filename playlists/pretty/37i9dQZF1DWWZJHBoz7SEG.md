@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas y pumpkin spice en compañía del compa Rabbanito
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,556 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,646 likes - 72 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

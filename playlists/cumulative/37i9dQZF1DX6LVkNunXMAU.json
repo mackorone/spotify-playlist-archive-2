@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk latino de estaci\u00f3n. Foto: Sof\u00eda Campos",
+  "description": "Folk latino de estaci\u00f3n. Foto: Milo j & Mon Laferte",
   "name": "folk & primavera",
   "tracks": [
     {
@@ -2299,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Despert\u00e9",
+        "url": "https://open.spotify.com/album/7sfjYqeEsBoiwalniMgj25"
+      },
+      "artists": [
+        {
+          "name": "May Santoro",
+          "url": "https://open.spotify.com/artist/6ObwluZSrj3FxKRuH7JBau"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Despert\u00e9",
+      "url": "https://open.spotify.com/track/6LLuCkYVYrKvoeDESY6Te0"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s del Despu\u00e9s",
         "url": "https://open.spotify.com/album/7aGGHJSvoKHWncxaEdgzsK"
       },
@@ -3556,6 +3574,28 @@
       "duration_ms": 110762,
       "name": "Iuju",
       "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "album": {
+        "name": "La Jangada",
+        "url": "https://open.spotify.com/album/4eOTZGLOLYa8L4OFKdrXGr"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315780,
+      "name": "Jangadero - La Jangada",
+      "url": "https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB"
     },
     {
       "album": {
@@ -7615,6 +7655,28 @@
     },
     {
       "album": {
+        "name": "Vaiv\u00e9n",
+        "url": "https://open.spotify.com/album/1hssX0GvvvBz7Zw3w9Vueb"
+      },
+      "artists": [
+        {
+          "name": "Pablo Joaqu\u00edn",
+          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167077,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/1YurcW7xK9lgC8YsnwMDIZ"
+    },
+    {
+      "album": {
         "name": "Vamos",
         "url": "https://open.spotify.com/album/7uwdLfmetBYd2pdDFSyCAI"
       },
@@ -7860,6 +7922,24 @@
       "duration_ms": 215721,
       "name": "Volver Atr\u00e1s",
       "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e1s al Sur",
+        "url": "https://open.spotify.com/album/1aSEJcrfeWq5sXR1tP6R8U"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249538,
+      "name": "Volver\u00e1s al Sur",
+      "url": "https://open.spotify.com/track/0VJRZ4nn6N0HyxjRsv3SBC"
     },
     {
       "album": {

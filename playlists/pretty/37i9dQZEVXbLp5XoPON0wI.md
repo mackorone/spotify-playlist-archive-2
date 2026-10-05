@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,573 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,591 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [I Can't Love You Anymore](https://open.spotify.com/track/61rwYQu9An4QWrcCUyFUyq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dandelion](https://open.spotify.com/album/14l4mGBY4BJYi5TNJk9kV6) | 3:48 |
 | 50 | [onsra](https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND) | [comehelpglo](https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l) | [whos whybie?](https://open.spotify.com/album/6VRhmdnmR4787VqIfIYauL) | 2:11 |
 
-Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlXT4AAAAAAAAAAAAAAAAAAAAAAAAGVu`

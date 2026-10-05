@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 72396,
+  "num_followers": 72415,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 150226,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 195293,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "99 Cents",
-        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "XXYYXX",
         "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "99 Cents",
+        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Be a Body",
+      "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 260413,
-      "name": "Be a Body",
-      "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
@@ -1311,38 +1327,6 @@
       "duration_ms": 279000,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
-      },
-      "artists": [
-        {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
-      },
-      "artists": [
-        {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
-        }
-      ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1471,6 +1471,22 @@
       "duration_ms": 344158,
       "name": "Hours",
       "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196052,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+        "name": "Electric Lines (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
         }
       ],
-      "duration_ms": 196052,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
+      "duration_ms": 239076,
+      "name": "Truth Is Light",
+      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Truth Is Light",
-      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Simmer Down",
         "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 281303,
-      "name": "She Just Likes to Fight",
-      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 329169,
       "name": "Huarache Lights",
       "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281303,
+      "name": "She Just Likes to Fight",
+      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
     },
     {
       "added_at": "2025-08-22 17:54:07",

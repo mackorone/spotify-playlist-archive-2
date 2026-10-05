@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13768,
+  "num_followers": 13771,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACKEJz5H5jMeQ9VSvNWlBZl",
+  "snapshot_id": "asBFgAAAAAAwujKBhDDKREnJpT4xcxo0",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOMETIMES",
-        "url": "https://open.spotify.com/album/7o6ZgUrSefKTAiqwFLlo7b"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 138580,
-      "name": "SOMETIMES",
-      "url": "https://open.spotify.com/track/7pPN7CAODxYTEylcC0Jat0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -447,6 +431,26 @@
       "duration_ms": 106843,
       "name": "Can't Be Fucked With",
       "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Flash (feat. Bloodhound Q50)",
+      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
     },
     {
       "added_at": null,
@@ -483,26 +487,6 @@
       "duration_ms": 151956,
       "name": "Members Only (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Flash (feat. Bloodhound Q50)",
-      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
     },
     {
       "added_at": null,
@@ -551,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 125885,
       "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
       "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
     },
     {
       "added_at": null,
@@ -635,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141015,
-      "name": "Ball Forever",
-      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Art",
         "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
       },
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141015,
+      "name": "Ball Forever",
+      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -727,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Special Remix (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -763,6 +727,26 @@
       "duration_ms": 199203,
       "name": "Taught Different",
       "url": "https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Special Remix (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REAL INSIDE COLD OUTSIDE",
         "url": "https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 176564,
       "name": "Niggas Win",
       "url": "https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,

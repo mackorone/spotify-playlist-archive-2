@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 2241,
+  "num_followers": 2247,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABjmj4CKUMAGEbG6DTiGVsX",
+  "snapshot_id": "asBFgAAAAACfE3SnscG+enLY5YNjsxFt",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Regency",
+        "url": "https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l"
+      },
+      "artists": [
+        {
+          "name": "Dominik Johnson",
+          "url": "https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5"
+        },
+        {
+          "name": "Daniela Kosinova",
+          "url": "https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Romanze: from Piano Concerto in A Minor Op.7",
+      "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -187,26 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regency",
-        "url": "https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l"
+        "name": "Women Composers",
+        "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
       },
       "artists": [
         {
-          "name": "Dominik Johnson",
-          "url": "https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5"
-        },
-        {
-          "name": "Daniela Kosinova",
-          "url": "https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW"
-        },
-        {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Solveig Funseth",
+          "url": "https://open.spotify.com/artist/6l3GMOsBBND81JhWMgbMgF"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Romanze: from Piano Concerto in A Minor Op.7",
-      "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
+      "duration_ms": 207000,
+      "name": "3 Romances, Op. 11: I. Andante",
+      "url": "https://open.spotify.com/track/4AkbwbgCeXMiwte4Hr2cQN"
     },
     {
       "added_at": null,
@@ -259,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Composers",
-        "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Solveig Funseth",
-          "url": "https://open.spotify.com/artist/6l3GMOsBBND81JhWMgbMgF"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "3 Romances, Op. 11: I. Andante",
-      "url": "https://open.spotify.com/track/4AkbwbgCeXMiwte4Hr2cQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -312,9 +312,29 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Trois romances op.11 Andante",
-      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+      "duration_ms": 372986,
+      "name": "Romance sans num\u00e9ro d'opus",
+      "url": "https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+        }
+      ],
+      "duration_ms": 210860,
+      "name": "3 Romances, Op. 11: I. Andante",
+      "url": "https://open.spotify.com/track/1EgFLL0KvYrU86T2zJflqp"
     },
     {
       "added_at": null,
@@ -332,33 +352,9 @@
           "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 142755,
-      "name": "Piano Sonata in G Minor: III. Scherzo",
-      "url": "https://open.spotify.com/track/5WJCRBz081QSlKz0jBBjB0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nocturnes Part: 4",
-        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
-      },
-      "artists": [
-        {
-          "name": "Bart Van Oort",
-          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Peter Arts",
-          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
-      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
+      "duration_ms": 165045,
+      "name": "Piano Sonata in G Minor: II. Adagio",
+      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
     },
     {
       "added_at": null,
@@ -396,9 +392,33 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 372986,
-      "name": "Romance sans num\u00e9ro d'opus",
-      "url": "https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5"
+      "duration_ms": 174640,
+      "name": "Trois romances op.11 Andante",
+      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturnes Part: 4",
+        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
+      },
+      "artists": [
+        {
+          "name": "Bart Van Oort",
+          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Peter Arts",
+          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
+      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
     },
     {
       "added_at": null,
@@ -416,29 +436,9 @@
           "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 165045,
-      "name": "Piano Sonata in G Minor: II. Adagio",
-      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
+      "duration_ms": 142755,
+      "name": "Piano Sonata in G Minor: III. Scherzo",
+      "url": "https://open.spotify.com/track/5WJCRBz081QSlKz0jBBjB0"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 210860,
-      "name": "3 Romances, Op. 11: I. Andante",
-      "url": "https://open.spotify.com/track/1EgFLL0KvYrU86T2zJflqp"
+      "duration_ms": 335000,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
-        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Martin Malto",
-          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
-      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
         "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 737973,
       "name": "Variations op.20",
       "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
+        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Martin Malto",
+          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
+      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drei Romanzen, Nr. 1 Andante molto",
-        "url": "https://open.spotify.com/album/4PZV9hg0vJwe4Qw37Sy9Ln"
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Martin Malto",
-          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
         }
       ],
-      "duration_ms": 175821,
-      "name": "Drei Romanzen, Nr. 1 Andante molto",
-      "url": "https://open.spotify.com/track/34LzK0nabDvOLGFKYTJu5E"
+      "duration_ms": 292733,
+      "name": "Piano Concerto in a Minor, Op. 7: Romanze. Andante Non Troppo con Grazia",
+      "url": "https://open.spotify.com/track/1cYELcPN0TgWPNCPWT5RkQ"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
+        "name": "Drei Romanzen, Nr. 1 Andante molto",
+        "url": "https://open.spotify.com/album/4PZV9hg0vJwe4Qw37Sy9Ln"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+          "name": "Martin Malto",
+          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
         }
       ],
-      "duration_ms": 292733,
-      "name": "Piano Concerto in a Minor, Op. 7: Romanze. Andante Non Troppo con Grazia",
-      "url": "https://open.spotify.com/track/1cYELcPN0TgWPNCPWT5RkQ"
+      "duration_ms": 175821,
+      "name": "Drei Romanzen, Nr. 1 Andante molto",
+      "url": "https://open.spotify.com/track/34LzK0nabDvOLGFKYTJu5E"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
       "duration_ms": 123158,
       "name": "Soir\u00e9es musicales - N\u00b0 5 Mazurka",
       "url": "https://open.spotify.com/track/1siOkybas59yBpzfMTHqe2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Women Composers",
-        "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Solveig Funseth",
-          "url": "https://open.spotify.com/artist/6l3GMOsBBND81JhWMgbMgF"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "3 Romances, Op. 21: I. Andante",
-      "url": "https://open.spotify.com/track/0yYHpgxYYjgSnzFUcNEPQo"
     },
     {
       "added_at": null,
@@ -959,6 +939,26 @@
       "duration_ms": 168000,
       "name": "Gemischte Ch\u00f6re No. 1-3: Gondoliera",
       "url": "https://open.spotify.com/track/5Lp0G0KGqbt4wEyGybRsUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Women Composers",
+        "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Solveig Funseth",
+          "url": "https://open.spotify.com/artist/6l3GMOsBBND81JhWMgbMgF"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "3 Romances, Op. 21: I. Andante",
+      "url": "https://open.spotify.com/track/0yYHpgxYYjgSnzFUcNEPQo"
     },
     {
       "added_at": null,

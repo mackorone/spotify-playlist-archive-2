@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,689 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,796 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 62 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 63 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 64 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
-| 65 | [Yo Confio](https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Sígueme](https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k) | 5:33 |
-| 66 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
-| 67 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
-| 68 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
+| 65 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
+| 66 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
+| 67 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
+| 68 | [Yo Confio](https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Sígueme](https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k) | 5:33 |
 | 69 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
 | 70 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
 | 71 | [Nuestro Encuentro](https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx) | [Daniel Piedra Soto](https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF) | [Atracción](https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2) | 6:12 |

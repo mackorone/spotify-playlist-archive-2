@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 8 hr 20 min
+141 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Lay Down Your Weapons](https://open.spotify.com/track/2w6I2yONriX6WzHib25zMk) | [K Koke](https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Lay Down Your Weapons](https://open.spotify.com/album/2W7HyCndYpIXMlz6DrywV2) | 3:44 | 2023-12-30 |  |
 | [Lean on Me](https://open.spotify.com/track/7gCNtJeohlyZu80aHGu1Wz) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [No Genre 2](https://open.spotify.com/album/76cB74tvU9m5tqNOjUe6Ti) | 3:52 | 2023-12-30 | 2024-09-13 |
 | [Leave Me Lonely](https://open.spotify.com/track/27PTd8bvvSpk9qXtNwxbe7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:49 | 2023-12-30 |  |
-| [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 | 2026-06-18 |  |
+| [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 | 2026-06-18 | 2026-10-05 |
+| [Let Me](https://open.spotify.com/track/3uDGmyK7X3SuGiVCH6aQSc) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:51 | 2026-10-04 |  |
 | [Let Me \- Live Rendition](https://open.spotify.com/track/2Aca1Iw9a3tH9xYeX7E7zs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/2sVYM7Tc0VWHcYQJE4O1Nd) | 4:51 | 2026-06-18 |  |
 | [Let Me Love You](https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:43 | 2023-12-30 |  |
 | [Liquid Courage](https://open.spotify.com/track/5XQNBZX6rWFAakZlCZA9SJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Victoria Monet](https://open.spotify.com/artist/41bfRTTH5t8O5DcUxiBwr8) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 3:46 | 2023-12-30 | 2024-09-13 |
@@ -116,7 +117,8 @@
 | [Persuasion \(feat\. Victoria Monét\)](https://open.spotify.com/track/49v5ttae4SvGE6XqfP7PY4) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:49 | 2026-06-18 |  |
 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 | 2023-12-30 |  |
 | [Rather Be](https://open.spotify.com/track/2zwBZoOiGNnytNmesLPboA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:50 | 2023-12-30 |  |
-| [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-09-30 |  |
+| [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 | 2026-10-04 |  |
+| [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-09-30 | 2026-10-05 |
 | [Reflection](https://open.spotify.com/track/7IHlcNipLVFTGch6r2H354) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:08 | 2023-12-30 | 2024-09-13 |
 | [See the Light](https://open.spotify.com/track/4idUdNW28Rj7TZKk0zkrn1) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:35 | 2024-07-10 |  |
 | [See The Light](https://open.spotify.com/track/4rsdlesMejOXWvEt3I99dN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:17 | 2023-12-30 | 2024-07-11 |

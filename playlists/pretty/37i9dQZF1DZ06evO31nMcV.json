@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 27976,
+  "num_followers": 27980,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACj8UNTcGG1kaNG8zHNtoBo",
+  "snapshot_id": "asBFgAAAAABqVie4hvJHhAUI6yd9nOQS",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 234057,
-      "name": "S\u00f6",
-      "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 268613,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "S\u00f6",
+      "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 166810,
-      "name": "Last Trip Around the Sun",
-      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 166810,
+      "name": "Last Trip Around the Sun",
+      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 133647,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackbird Rising & Blackbird Returns",
         "url": "https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 134436,
       "name": "Blackbird Returning",
       "url": "https://open.spotify.com/track/57u22n34Gm8r3KIyiRPsXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 133647,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

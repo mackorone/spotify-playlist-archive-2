@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,050 likes - 202 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,208 likes - 202 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-121 songs - 7 hr 57 min
+122 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [あの夏のあいまいME \- feat.SUPER EIGHT](https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [あの夏のあいまいME \(feat.SUPER EIGHT\)](https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm) | 3:53 | 2024-08-10 |  |
 | [しらけちまうぜ](https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:53 | 2023-01-14 |  |
 | [そばにいて黙るとき \- Silent By Your Side](https://open.spotify.com/track/0LiFBKOyVZb1y5a6iOl99l) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 | 2023-01-14 | 2023-03-15 |
-| [まだ、諦めてないだろ？](https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [まだ、諦めてないだろ？](https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD) | 3:02 | 2025-01-18 |  |
+| [まだ、諦めてないだろ？](https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [まだ、諦めてないだろ？](https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD) | 3:02 | 2025-01-18 | 2026-10-05 |
 | [めくれたオレンジ](https://open.spotify.com/track/2UC9VOUmqjHeUd2fnZpxbG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 5:15 | 2023-01-14 | 2025-02-25 |
 | [めくれたオレンジ](https://open.spotify.com/track/3ZPC68H12Hvy34CNFNcc4z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 5:16 | 2025-02-25 |  |
 | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/track/61aXifFjpzPth7uaCPUjEx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/album/4jQPR3IaxMJkH8e8gCwZoH) | 4:42 | 2023-01-14 |  |
@@ -125,6 +125,7 @@
 | [銀河と迷路](https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [HIGH NUMBERS](https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr) | 4:13 | 2023-01-14 |  |
 | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/track/0OVMFhMuBXzoD85KU0cK5e) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/album/12qDx0AL3Ci2thLC9LAlg8) | 4:00 | 2025-02-15 |  |
 | [青い春のエチュード \- feat\. 長屋晴子 \(緑黄色社会\)](https://open.spotify.com/track/3bAobLtFa0QXOlo9KWYJpD) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [長屋晴子](https://open.spotify.com/artist/4KCnJygLmUpT4KETlDFz3K) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:33 | 2023-03-07 |  |
+| [革命道中 \- On The Way x アイナ・ジ・エンド \- ［SKA］SHOWDOWN 2026.3.31 at TOKYO GARDEN THEATER](https://open.spotify.com/track/3XwuQ8t1Vo2vTLQ76tvisn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [［SKA］SHOWDOWN 2026.3.31 at TOKYO GARDEN THEATER](https://open.spotify.com/album/1tXqALKiZ27oDwlov2jBT0) | 5:42 | 2026-10-05 |  |
 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 | 2024-06-04 |  |
 | [風のプロフィール \- feat.習志野高校吹奏楽部](https://open.spotify.com/track/0xK5Yd81zI9ZHL21cSm3jF) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:16 | 2024-04-11 | 2024-04-12 |
 | [驟雨の街〜哀愁のテーマ〜2](https://open.spotify.com/track/7HWDf6g596qneuQZrV3fkD) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [新 仁義なき戦い/謀殺 オリジナルサウンドトラック](https://open.spotify.com/album/7y0gkVpSJXEyHTrtTqEtpg) | 1:24 | 2025-12-03 | 2025-12-07 |

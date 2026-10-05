@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,089 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,102 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 31 | [Imma Let My Body Move](https://open.spotify.com/track/3SQjRTSwHPDqTeenwzSqHq) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:45 |
 | 32 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 33 | [Fear: Life In A Dozen Years](https://open.spotify.com/track/47n27sNyRKnnpFI36e9lUu) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:23 |
-| 34 | [It's About Being Free Really](https://open.spotify.com/track/0w0Lpg4kzE558vIYuuJAqc) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Fire Doesn't Grow On Trees](https://open.spotify.com/album/3Fkh5eKM6giKSamqmJy61h) | 3:29 |
-| 35 | [Pirouette](https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Pirouette](https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF) | 3:16 |
+| 34 | [Pirouette](https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Pirouette](https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF) | 3:16 |
+| 35 | [It's About Being Free Really](https://open.spotify.com/track/0w0Lpg4kzE558vIYuuJAqc) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Fire Doesn't Grow On Trees](https://open.spotify.com/album/3Fkh5eKM6giKSamqmJy61h) | 3:29 |
 | 36 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 37 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 |
 | 38 | [Partition](https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 6:03 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 57 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 58 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 59 | [Our Love Will Still Be There](https://open.spotify.com/track/1wJDuuHd4t1xfb2vdOxSsl) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Lagniappe Session](https://open.spotify.com/album/4riFbIzAuXOwH3s6FzstTB) | 3:07 |
-| 60 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
+| 60 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 
 Snapshot ID: `AAAAADYKXU9FruIYZ4EPeqscbRyq2UEZ`

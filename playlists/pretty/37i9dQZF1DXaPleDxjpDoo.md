@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,890 likes - 170 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,989 likes - 170 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 169 | [Reach](https://open.spotify.com/track/2jDbgwfBc2BjYlh3EdZrCn) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Reach](https://open.spotify.com/album/1VwTkqotErO8juMoGGYgeS) | 2:31 |
 | 170 | [Gentle Stream](https://open.spotify.com/track/7aiiwQw56N7B21TkB33ZB7) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Gentle Stream](https://open.spotify.com/album/1z5WBLGmGPvGbSbRo3waDi) | 2:35 |
 
-Snapshot ID: `AAAAAPmV5Zjjms9YBkoQAb8wXWw9a7SW`
+Snapshot ID: `AAAAANhW19KXkoyWx6YhPoocYj1XTliq`

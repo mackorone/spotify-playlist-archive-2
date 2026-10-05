@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19932,
+  "num_followers": 19937,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAC4RmOHBPVNKPk+wcahqCef",
+  "snapshot_id": "asBFgAAAAADr/glNf2DU9KuXWQptG3Cc",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Healing",
-        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 342346,
-      "name": "Song of a Dream",
-      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
+      "duration_ms": 349133,
+      "name": "Kyoto Garden",
+      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bamboo Forest",
-        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 349133,
-      "name": "Kyoto Garden",
-      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
     },
     {
       "added_at": null,

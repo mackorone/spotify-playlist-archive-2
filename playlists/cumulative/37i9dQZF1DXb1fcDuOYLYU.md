@@ -4,7 +4,7 @@
 
 > These are the talented women of Latin music\. Cover: AKRIILA
 
-465 songs - 1 day 0 hr 33 min
+466 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 | 2023-02-16 | 2025-12-11 |
 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 | 2026-03-06 | 2026-05-13 |
 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 | 2022-03-14 | 2026-09-11 |
-| [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 | 2024-03-07 |  |
+| [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 | 2024-03-07 | 2026-10-05 |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-12-10 |  |
 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 | 2024-07-12 | 2025-12-11 |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-03-14 | 2023-02-16 |
@@ -372,6 +372,7 @@
 | [Quiero Bailar](https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 3:06 | 2024-04-12 | 2026-06-15 |
 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2023-02-16 | 2024-07-10 |
 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2023-02-16 |  |
+| [Quién Contra Mí \- Live From Los Ángeles](https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Quién Contra Mí \(Live From Los Ángeles\)](https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n) | 3:39 | 2026-10-02 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2022-03-14 | 2023-02-16 |
 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 | 2024-06-21 |  |
 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2023-02-16 | 2024-06-22 |

@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-713 songs - 2 day 1 hr 7 min
+714 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 | 2023-12-30 |  |
 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 | 2023-12-30 |  |
-| [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 | 2023-12-30 |  |
+| [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4RJUT9qK5UGEIOXs5fe4OE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes, Thrashes & Hits](https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u) | 3:28 | 2026-10-04 |  |
+| [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 | 2023-12-30 | 2026-10-05 |
 | [5 Minutes With God](https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/5o6uSZ10sJSUnn8WomuO3R) | 3:31 | 2023-12-30 | 2025-02-01 |
 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 | 2025-01-31 |  |
 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 | 2023-12-30 |  |
@@ -237,7 +238,7 @@
 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 | 2024-01-24 |  |
 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 | 2023-12-30 |  |
 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 | 2024-07-04 |  |
-| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 |  |
+| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 | 2026-10-05 |
 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 | 2023-12-30 |  |
 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 | 2023-12-30 |  |
 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1cTATYMdB3N8Hq3TEwSZ0F) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing \(Official HD Video\)](https://open.spotify.com/album/3osPdU4wgtinhHvwKtLHNP) | 4:52 | 2024-01-21 | 2024-02-01 |

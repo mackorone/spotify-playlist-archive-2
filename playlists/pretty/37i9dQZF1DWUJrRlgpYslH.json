@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 128635,
+  "num_followers": 128707,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 258133,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Mirage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -943,6 +927,22 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Breakthrough (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Fallin' For You",
-      "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Carpenters",
         "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 231506,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Breakthrough (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Fallin' For You",
+      "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "F.I.G",
-        "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
-      },
-      "artists": [
-        {
-          "name": "Naomi Scott",
-          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Gracie",
-      "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "I Choose (From The Netflix Original Film The Willoughbys)",
         "url": "https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 217347,
       "name": "I Choose - From The Netflix Original Film \"The Willoughbys\"",
       "url": "https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "F.I.G",
+        "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "If I Let You",
-        "url": "https://open.spotify.com/album/1zUpkYqngSZ4juLdfUVwvg"
-      },
-      "artists": [
-        {
-          "name": "The Womack Sisters",
-          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "If I Let You",
-      "url": "https://open.spotify.com/track/5lyLBXZXjHNX0wi5zy2Wrt"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 280093,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "If I Let You",
+        "url": "https://open.spotify.com/album/1zUpkYqngSZ4juLdfUVwvg"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "If I Let You",
+      "url": "https://open.spotify.com/track/5lyLBXZXjHNX0wi5zy2Wrt"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 168491,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 168491,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "The Beach Boys Love Songs",
         "url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq"
       },
@@ -1611,18 +1595,38 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5N1akjZZDVXTwvhgzl3RR8"
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/1qwb32B32x1JruBLIA09qB"
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     }
   ],
   "unique_name": "Sunday Mood",

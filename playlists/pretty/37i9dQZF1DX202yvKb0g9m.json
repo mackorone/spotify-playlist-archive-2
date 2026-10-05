@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 153382,
+  "num_followers": 153421,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
         }
       ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Rip It Up",
         "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
       },
@@ -475,18 +459,34 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
       },
       "artists": [
         {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 344013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
     },
     {
       "added_at": "2024-07-10 08:16:23",

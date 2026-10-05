@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26792,
+  "num_followers": 26797,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Red Bull 64 Bars",
+        "url": "https://open.spotify.com/album/7cD1fMnf3CH70hNAYj57zX"
+      },
+      "artists": [
+        {
+          "name": "Reichi",
+          "url": "https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D"
+        },
+        {
+          "name": "XLII",
+          "url": "https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN"
+        }
+      ],
+      "duration_ms": 215525,
+      "name": "Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/7MJL0Vc4D5ux4ZsHGFXjZ8"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "DOSHABURI (Remix)",
         "url": "https://open.spotify.com/album/1944sAOFXg8lgrYznJUKmD"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 240175,
       "name": "DOSHABURI (feat. JUMADIBA & ralph) - Remix",
       "url": "https://open.spotify.com/track/30iyDoqghH5gs3I7bAFT4a"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "Red Bull 64 Bars",
-        "url": "https://open.spotify.com/album/7cD1fMnf3CH70hNAYj57zX"
-      },
-      "artists": [
-        {
-          "name": "Reichi",
-          "url": "https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D"
-        },
-        {
-          "name": "XLII",
-          "url": "https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN"
-        }
-      ],
-      "duration_ms": 215525,
-      "name": "Red Bull 64 Bars",
-      "url": "https://open.spotify.com/track/7MJL0Vc4D5ux4ZsHGFXjZ8"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Hot Rodder",
-        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
-      },
-      "artists": [
-        {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Hot Rodder",
-      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "Type 1 Diabetes",
         "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 197088,
       "name": "For Real (feat. Fuji Taito & SIMON)",
       "url": "https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Hot Rodder",
+        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Hot Rodder",
+      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Sightseeing",
+        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "Sightseeing",
+      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "TOKYO \u534d REVENGERS (feat. GNB AAlucarD & HAKU FiFTY)",
         "url": "https://open.spotify.com/album/4EMt8yLn821Oo8l0SwBvkl"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 153004,
       "name": "TOKYO \u534d REVENGERS (feat. GNB AAlucarD & HAKU FiFTY)",
       "url": "https://open.spotify.com/track/2aSDjN9urt9z3og8yCnhKC"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "Sightseeing",
-        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
-      },
-      "artists": [
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "Sightseeing",
-      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
     },
     {
       "added_at": "2026-08-19 00:34:26",

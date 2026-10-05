@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-660 songs - 1 day 15 hr 12 min
+661 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-10-20 |  |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-10-24 |
+| [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 | 2026-10-02 |  |
 | [Entre deux montagnes](https://open.spotify.com/track/4ZMMRQAoDqftCgABEKwE1A) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 2:59 | 2022-07-08 | 2022-09-09 |
 | [Entre deux montagnes](https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 2:59 | 2021-01-03\* | 2022-07-26 |
 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* | 2025-10-07 |
@@ -487,7 +488,7 @@
 | [Qtv](https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 4:59 | 2022-10-14 | 2023-05-07 |
 | [Qtv](https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 4:59 | 2021-07-31 | 2022-10-13 |
 | [Quand j'te vois](https://open.spotify.com/track/0eaLnITFfQL5Qn0MvjWDGl) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Des milliers de plumes](https://open.spotify.com/album/7CUWKrepTHMWp3YmfgF20h) | 3:39 | 2021-01-03\* | 2021-01-30 |
-| [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-01-31 |  |
+| [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-01-31 | 2026-10-05 |
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quand vient le soir](https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Quand vient le soir](https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R) | 3:45 | 2026-05-08 | 2026-07-18 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |

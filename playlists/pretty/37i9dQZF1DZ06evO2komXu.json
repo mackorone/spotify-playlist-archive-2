@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 59177,
+  "num_followers": 59189,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABW+nIiCwaIaGgwM0Ksv6fU",
+  "snapshot_id": "asBFgAAAAABnc23xcg3icXQgVC6Ie5WW",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 126338,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/7dk2sVgiQzXyEp0VjlQbQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/52085LvRgtzPvV4wWps54A"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime - Re-Up",
       "url": "https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 126338,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7dk2sVgiQzXyEp0VjlQbQS"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 225310,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 181788,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 181788,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "Amazing (feat. kwn)",
-      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 398862,
+  "num_followers": 398858,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 228557,
       "name": "Like She Does",
       "url": "https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "A Cat in the Rain",
         "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200930,
       "name": "Chipping Mill",
       "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
-      },
-      "artists": [
-        {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2026-08-07 04:01:44",

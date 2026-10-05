@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,874 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,883 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 11 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
 | 12 | [I'll Look Around](https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:15 |
 | 13 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
-| 14 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
-| 15 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 |
-| 16 | [P.S\. I Love You](https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Billie Holiday On Verve 1945 \- 1959](https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC) | 3:34 |
+| 14 | [P.S\. I Love You](https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Billie Holiday On Verve 1945 \- 1959](https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC) | 3:34 |
+| 15 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
+| 16 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 |
 | 17 | [Moonglow](https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
 | 18 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
 | 19 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 45 | [There Is No Greater Love](https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:59 |
 | 46 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
 | 47 | [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 |
-| 48 | [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 |
+| 48 | [He's Funny That Way](https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:10 |
 | 49 | [That Ole Devil Called Love](https://open.spotify.com/track/0AQneI6Ek7V7pQEcRZfPwF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:55 |
-| 50 | [He's Funny That Way](https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:10 |
+| 50 | [Speak Low \- Bent Remix](https://open.spotify.com/track/7ujUko3QK8m1UFnexVmRbc) | [Ogden Nash](https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM), [Kurt Weill](https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa), [Simon Mills](https://open.spotify.com/artist/5XRbLABLIWCBjIw8B7Ia7p) | [Verve Remixed 3](https://open.spotify.com/album/36OJA0CFoB1DTYYojj3EEi) | 4:21 |
 
-Snapshot ID: `ar70AAAAAAD/Q8pPVEeVNCeV3nZMjf1h`
+Snapshot ID: `asBFgAAAAAAnDm1b0kXbGes/2hfFpPjI`

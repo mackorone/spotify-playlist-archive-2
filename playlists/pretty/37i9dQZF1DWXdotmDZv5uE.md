@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,205 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,202 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 67 | [Vudú](https://open.spotify.com/track/3NOqbsgsUlgDIqSyUGy85R) | [Garigoles](https://open.spotify.com/artist/4wPyNRBXqP3IZLVJP3AsTX) | [No esperes por el caos..\. este llega cada fin de semana](https://open.spotify.com/album/46DXNSqal3i2c4gq9BLPDB) | 3:50 |
 | 68 | [Drunk Again](https://open.spotify.com/track/7M0Xd0SzUUSr35QLQjWVqV) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:15 |
 | 69 | [Negra soledad \- STUDIO](https://open.spotify.com/track/5YEFZKi7cAxJkapqoj31g3) | [El Personal](https://open.spotify.com/artist/50lv7gkWdpupWhAB0iGOfe) | [La Última y Nos Vamos...](https://open.spotify.com/album/6cMi6Afus0crugjVaUHcuy) | 4:30 |
-| 70 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
-| 71 | [Guadalajara](https://open.spotify.com/track/7IIpcHozdBuQtKYHq24XPF) | [Tragicomi\-K](https://open.spotify.com/artist/3EleX5Y0fbsEKlvBuXInB4) | [El club de los corazones rotos](https://open.spotify.com/album/5m82gfZ2Rr7vVh7lQ3reDd) | 3:36 |
+| 70 | [Guadalajara](https://open.spotify.com/track/7IIpcHozdBuQtKYHq24XPF) | [Tragicomi\-K](https://open.spotify.com/artist/3EleX5Y0fbsEKlvBuXInB4) | [El club de los corazones rotos](https://open.spotify.com/album/5m82gfZ2Rr7vVh7lQ3reDd) | 3:36 |
+| 71 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
 | 72 | [Chapala Surfin](https://open.spotify.com/track/5K927CEPQwhkY6eZ2TVkGH) | [The Blue Boys](https://open.spotify.com/artist/1HEeUuAhlG9jQ8zm6MEEic) | [Puro Amor](https://open.spotify.com/album/0hFZkw9XGwxPj95PB5So0Z) | 2:38 |
 | 73 | [Cuando Salga la Luna](https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH) | [Radaid](https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz) | [Luz Escondida](https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3) | 4:36 |
 | 74 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |

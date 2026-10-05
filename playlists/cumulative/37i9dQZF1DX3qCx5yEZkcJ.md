@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-597 songs - 1 day 0 hr 55 min
+598 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-03-23 | 2026-08-02 |
 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 | 2023-04-27 | 2024-02-15 |
 | [Clout Chaser](https://open.spotify.com/track/4JiMEB4RvSXODgSnuv12n7) | [Sorbet](https://open.spotify.com/artist/6qTV5zSs0XxRpVhb1ADE0H), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Sea Flap Flap](https://open.spotify.com/artist/4aPzws5w5zMmiRvcF4j9ZL) | [Clout Chaser](https://open.spotify.com/album/3z5CpWdWFgwbBkaBoSJDrf) | 1:52 | 2020-06-19 | 2022-07-06 |
+| [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 | 2026-09-22 |  |
 | [Coastal Drift](https://open.spotify.com/track/2VBmbnFWjxMsjHA4QTeU6o) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Coastal Drift](https://open.spotify.com/album/4VCAfD5ZkAdRplyNULBJKd) | 2:12 | 2020-06-29 | 2022-04-20 |
 | [Coffee Nap](https://open.spotify.com/track/2LZJaynuXZL9YWrsNkq1Yg) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Old School](https://open.spotify.com/album/61kntO8ai8PRanFmxbto1m) | 1:48 | 2024-01-25 | 2024-02-11 |
 | [Coffee Nap](https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Coffee Nap](https://open.spotify.com/album/2XkOmaC5Y8TeYRqo9cfGcJ) | 1:48 | 2020-01-14 | 2022-06-10 |
@@ -518,7 +519,7 @@
 | [swag on](https://open.spotify.com/track/2S36OuK8PYZkkLkled3GAd) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [swag on](https://open.spotify.com/album/4H1qSzq3XjPpht57ZtxsDL) | 2:19 | 2019-05-26\* | 2020-01-14 |
 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 | 2019-08-31 | 2025-05-30 |
 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 | 2019-05-26\* |  |
-| [Tarde Invernal](https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Tarde Invernal](https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb) | 2:22 | 2025-10-24 |  |
+| [Tarde Invernal](https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Tarde Invernal](https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb) | 2:22 | 2025-10-24 | 2026-10-05 |
 | [Teka](https://open.spotify.com/track/64z6fgsd7813f8cOvzyJnE) | [Ack Ibanez](https://open.spotify.com/artist/3WGu5fuIpbVnL62Db3ZzNK) | [Chillmonger ILL Tape](https://open.spotify.com/album/08qyY6hsa4PpNeYZqMS5GC) | 4:33 | 2020-11-06 | 2022-07-28 |
 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 | 2022-03-01 |  |
 | [That's Just Me](https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [That's Just Me](https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq) | 1:30 | 2019-06-14 | 2026-07-09 |

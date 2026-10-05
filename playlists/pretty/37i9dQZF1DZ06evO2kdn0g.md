@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,134 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,141 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
-| 2 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
-| 3 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 |
-| 4 | [Art of War](https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:06 |
-| 5 | [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 |
+| 2 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 |
+| 3 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
+| 4 | [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 |
+| 5 | [Art of War](https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:06 |
 | 6 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |
 | 7 | [TMW](https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY) | 2:08 |
 | 8 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 25 | [MORTAL](https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:21 |
 | 26 | [Desert Oasis](https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:34 |
 
-Snapshot ID: `ar70AAAAAAAUfCUcurs7C2yze8IiAU72`
+Snapshot ID: `asBFgAAAAAA6CI6MPX7SiQ8IhjnhtncP`

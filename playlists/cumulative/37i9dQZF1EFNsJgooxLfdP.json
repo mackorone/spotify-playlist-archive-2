@@ -1482,10 +1482,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/3uDGmyK7X3SuGiVCH6aQSc"
     },
     {
       "album": {
@@ -2161,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF"
+    },
+    {
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
       },
@@ -2172,7 +2208,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 159493,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"

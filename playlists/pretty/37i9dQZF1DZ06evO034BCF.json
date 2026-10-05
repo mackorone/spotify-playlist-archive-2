@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2303,
+  "num_followers": 2301,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAm/5LZCCt+9us5Y8Y7yX2C",
+  "snapshot_id": "asBFgAAAAABNBJTefJZX7IN5DzTXFcYb",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 32626,
-      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 9. L'istesso tempo",
-      "url": "https://open.spotify.com/track/339hPl0mIVrJDsd96P8h50"
+      "duration_ms": 35013,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 8. Tempo I",
+      "url": "https://open.spotify.com/track/1RycyBUI4zrMxUA4k6cmEb"
     },
     {
       "added_at": null,
@@ -543,26 +543,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discoveries",
-        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
+        "name": "Dvo\u0159\u00e1k: Symphonies Nos. 7-9",
+        "url": "https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 67826,
-      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
-      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
+      "duration_ms": 591586,
+      "name": "Symphony No. 8 in G Major, Op. 88, B. 163: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3Xg6nZtQsjamXL7vDrdNMl"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 35013,
-      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 8. Tempo I",
-      "url": "https://open.spotify.com/track/1RycyBUI4zrMxUA4k6cmEb"
+      "duration_ms": 32626,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. 9. L'istesso tempo",
+      "url": "https://open.spotify.com/track/339hPl0mIVrJDsd96P8h50"
     },
     {
       "added_at": null,
@@ -643,26 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphonies Nos. 7-9",
-        "url": "https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt"
+        "name": "Discoveries",
+        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 591586,
-      "name": "Symphony No. 8 in G Major, Op. 88, B. 163: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3Xg6nZtQsjamXL7vDrdNMl"
+      "duration_ms": 67826,
+      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
+      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 65120,
-      "name": "Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens",
-      "url": "https://open.spotify.com/track/5ePWR9SYDsADEMLyAcCcJU"
+      "duration_ms": 340200,
+      "name": "Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev",
+      "url": "https://open.spotify.com/track/0LA9d83t4o38aoXfFRIwJz"
     },
     {
       "added_at": null,

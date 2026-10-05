@@ -12512,7 +12512,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 214956,
       "name": "I Used to Kill",
       "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
@@ -19740,6 +19740,24 @@
       "duration_ms": 148000,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
+    },
+    {
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1GyQJfH4zcKpj0jxz9vp3w"
+      },
+      "artists": [
+        {
+          "name": "Chrome Is Everything",
+          "url": "https://open.spotify.com/artist/79AwwYDFXk6xJLx9Z39mug"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144921,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/3JeZ6MkB4oBIhz9LNM2BoG"
     },
     {
       "album": {

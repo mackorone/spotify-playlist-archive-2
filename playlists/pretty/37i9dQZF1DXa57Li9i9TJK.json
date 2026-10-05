@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 37473,
+  "num_followers": 37483,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 211255,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 189696,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Locos De Amor",
-        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "YCQVM",
         "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 183253,
       "name": "YCQVM",
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1051,22 +1067,6 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "MU\u00d1EQUITA",
-        "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "MU\u00d1EQUITA",
-      "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "MU\u00d1EQUITA",
+        "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "MU\u00d1EQUITA",
+      "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 160626,
       "name": "La ni\u00f1a fresa",
       "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 161293,
       "name": "Y Me Besa",
       "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Est\u00e1s Cancelada",
-      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 126307,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Est\u00e1s Cancelada",
+      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
     }
   ],
   "unique_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",

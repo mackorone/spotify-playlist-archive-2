@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12943,
+  "num_followers": 12946,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "It\u2019s secret",
-        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "It\u2019s secret",
-      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 147903,
       "name": "9 to 2",
       "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "It\u2019s secret",
+        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "It\u2019s secret",
+      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -851,26 +851,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "banana milk",
-        "url": "https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY"
+        "name": "hamster wheel",
+        "url": "https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ"
       },
       "artists": [
         {
-          "name": "YECHAN",
-          "url": "https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr"
-        },
-        {
-          "name": "EID\u00aeechoesindream.",
-          "url": "https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv"
-        },
-        {
-          "name": "AVN",
-          "url": "https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm"
+          "name": "Kimmuse",
+          "url": "https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN"
         }
       ],
-      "duration_ms": 160946,
-      "name": "banana milk",
-      "url": "https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad"
+      "duration_ms": 169325,
+      "name": "hamster wheel",
+      "url": "https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO"
     }
   ],
   "unique_name": "\uc378 !",

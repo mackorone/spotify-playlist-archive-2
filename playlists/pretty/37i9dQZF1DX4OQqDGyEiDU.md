@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: Hatsune Miku ©︎ CFM
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,314 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,308 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 39 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 | 40 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 41 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
-| 42 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
-| 43 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
-| 44 | [シャルル](https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [Corridor](https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z) | 3:53 |
+| 42 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
+| 43 | [シャルル](https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [Corridor](https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z) | 3:53 |
+| 44 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
 | 45 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 46 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
-| 47 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 |
+| 46 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 |
+| 47 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
 | 48 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 49 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 50 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 113453,
+  "num_followers": 113478,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAWhS75W+/EEARE6GQU29M3",
+  "snapshot_id": "asBFgAAAAAAlaueQYBndUXGnE9oG9u+K",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 309618,
       "name": "Quadros",
       "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRODUTO DO AMBIENTE",
         "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 193941,
       "name": "Morro Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 245710,
       "name": "se joga",
       "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 189914,
+      "name": "Gatilhos",
+      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 159984,
       "name": "O Que Sobra Disso Tudo",
       "url": "https://open.spotify.com/track/06y977jqu2JnTiAx3CMNGR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 189914,
-      "name": "Gatilhos",
-      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
     },
     {
       "added_at": null,
@@ -967,34 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Odeio o Dia dos Namorados",
-        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "N\u00e3o Me Abandona",
-      "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRODUTO DO AMBIENTE",
         "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
@@ -1019,6 +991,34 @@
       "duration_ms": 170192,
       "name": "Por A\u00ed",
       "url": "https://open.spotify.com/track/0HdWS8OLFeAQTntk2jBoMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Odeio o Dia dos Namorados",
+        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "N\u00e3o Me Abandona",
+      "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
     },
     {
       "added_at": null,

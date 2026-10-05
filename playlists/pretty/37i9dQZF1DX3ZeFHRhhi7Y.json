@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: BOYNEXTDOOR) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1325072,
+  "num_followers": 1325082,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
-        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
-      },
-      "artists": [
-        {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
-    },
-    {
-      "added_at": "2026-09-29 07:52:57",
-      "album": {
         "name": "GOLDEN HOUR : Part.4",
         "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "added_at": "2026-09-29 07:52:57",
+      "album": {
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
     },
     {
       "added_at": "2026-09-29 07:52:57",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-09-29 07:52:57",
-      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 170694,
       "name": "Vanilla Days",
       "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
+    },
+    {
+      "added_at": "2026-09-29 07:52:57",
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "added_at": "2026-09-29 07:52:57",
@@ -659,18 +659,22 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5"
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
         }
       ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa"
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
       "added_at": "2026-09-29 07:52:57",
@@ -691,22 +695,18 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "LOOP",
-        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5"
       },
       "artists": [
         {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 163480,
-      "name": "LOOP (feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa"
     },
     {
       "added_at": "2026-09-29 07:52:57",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+    },
+    {
+      "added_at": "2026-09-29 07:52:57",
+      "album": {
         "name": "COLOR - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
-    },
-    {
-      "added_at": "2026-09-29 07:52:57",
-      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
-        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
-      },
-      "artists": [
-        {
-          "name": "ALPHA DRIVE ONE",
-          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "BORN DIRE",
-      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
-    },
-    {
-      "added_at": "2026-09-29 07:52:57",
-      "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 159686,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/41FzP8TjIK1aK4LTVY5TUy"
+    },
+    {
+      "added_at": "2026-09-29 07:52:57",
+      "album": {
+        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
+        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "BORN DIRE",
+      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
     },
     {
       "added_at": "2026-09-29 07:52:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-29 07:52:57",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
-    },
-    {
-      "added_at": "2026-09-29 07:52:57",
-      "album": {
         "name": "EXTRA",
         "url": "https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 150733,
       "name": "EXTRA",
       "url": "https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI"
+    },
+    {
+      "added_at": "2026-09-29 07:52:57",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
     },
     {
       "added_at": "2026-09-29 07:52:57",

@@ -799,18 +799,26 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
       "artists": [
         {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        },
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Hakan Aysev",
+          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
         }
       ],
-      "duration_ms": 293151,
-      "name": "A\u015fk\u0131n ile ey nevcivan",
-      "url": "https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK"
+      "duration_ms": 277199,
+      "name": "Esinti (K\u00fcrdi Saz Eseri)",
+      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -847,6 +855,38 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
+        "name": "Sevda Yolunda",
+        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnip Utand\u0131",
+          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+        }
+      ],
+      "duration_ms": 293151,
+      "name": "A\u015fk\u0131n ile ey nevcivan",
+      "url": "https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Ona Selam",
+        "url": "https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hakk\u0131 Turabi",
+          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
+        }
+      ],
+      "duration_ms": 90066,
+      "name": "Rast Ud Taksimi-Ba\u015fak Harmanc\u0131",
+      "url": "https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
         "name": "Duygu Pinari",
         "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
@@ -864,25 +904,9 @@
           "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
         }
       ],
-      "duration_ms": 277199,
-      "name": "Esinti (K\u00fcrdi Saz Eseri)",
-      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
-        "name": "Ona Selam",
-        "url": "https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hakk\u0131 Turabi",
-          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
-        }
-      ],
-      "duration_ms": 90066,
-      "name": "Rast Ud Taksimi-Ba\u015fak Harmanc\u0131",
-      "url": "https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2"
+      "duration_ms": 221146,
+      "name": "Serenat (Hicaz Medhal)",
+      "url": "https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -915,22 +939,6 @@
       "duration_ms": 84241,
       "name": "H\u00fczzam Saz Semai",
       "url": "https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
-        "name": "Kaftan (Instrumental Palace of Songs)",
-        "url": "https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Cenneto\u011flu",
-          "url": "https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8"
-        }
-      ],
-      "duration_ms": 80146,
-      "name": "\u00c7argah Sirto",
-      "url": "https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd"
     }
   ],
   "unique_name": "Iftar",

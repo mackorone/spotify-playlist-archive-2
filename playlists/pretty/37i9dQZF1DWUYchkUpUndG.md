@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Gabriel Eziashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,892 likes - 101 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,924 likes - 101 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

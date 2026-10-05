@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-140 songs - 8 hr 56 min
+141 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,10 +96,11 @@
 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 | 2025-06-17 |  |
 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 | 2024-10-03 |  |
 | [Latte Di Chaadar](https://open.spotify.com/track/750CbPOpDXypQF2tzaCwTA) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj), [Fusedhead](https://open.spotify.com/artist/2AYncTUJDzM5oo84LXFu0k) | [Latte Di Chaadar](https://open.spotify.com/album/2yu3Xji3BFHDIzXqlr71vR) | 2:30 | 2025-02-19 | 2025-03-22 |
-| [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 | 2026-07-03 |  |
+| [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 | 2026-07-03 | 2026-10-05 |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 | 2024-04-19 |
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 |  |
 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 | 2025-07-02 |  |
+| [Laung Gawacha](https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Laung Gawacha](https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6) | 2:30 | 2026-09-30 |  |
 | [Lok Boliyan](https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4) | [Pal Singh Samaon](https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu), [Harinder Hundal](https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm) | [Lok Boliyan](https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR) | 9:26 | 2025-04-18 | 2026-06-17 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
 | [Maavaan Thandiyan Chhavan](https://open.spotify.com/track/0hLQDYOR8LDWTfZR3EFJY9) | [Tanvi Sharma](https://open.spotify.com/artist/3n8g62X5MiJLU2PTUuknN2) | [Folk Colours](https://open.spotify.com/album/42W7F6dBaitbVuHzHmk1dF) | 2:42 | 2024-12-02 | 2025-07-03 |

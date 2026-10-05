@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,030 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,033 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 36 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |
 | 37 | [RPG](https://open.spotify.com/track/1TBk77NylAFvQbkmKBYePi) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [RPG](https://open.spotify.com/album/5XKRd978I6t3pb0U82hTuV) | 2:56 |
 | 38 | [Tequila In My Eyes](https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Tequila In My Eyes](https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ) | 3:03 |
-| 39 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
-| 40 | [The FOMO](https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV), [Complex](https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5) | [The FOMO](https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx) | 3:28 |
+| 39 | [The FOMO](https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV), [Complex](https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5) | [The FOMO](https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx) | 3:28 |
+| 40 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
 | 41 | [BEAST INSIDE ME](https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [BEAST INSIDE ME](https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ) | 3:04 |
 | 42 | [Uptempo Airlines](https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Uptempo Airlines](https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP) | 2:44 |
 | 43 | [Gabber Ship](https://open.spotify.com/track/7MAsnRKCi5wRKDkx7dQOeS) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Rave & Plunder](https://open.spotify.com/artist/2hd38DvOnFUZtWDHrNt6n7) | [Gabber Ship](https://open.spotify.com/album/6DyBDJQIwGKykC0QCnz3xq) | 2:03 |

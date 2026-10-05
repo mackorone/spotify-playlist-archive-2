@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Murat Dalkılıç
 
-750 songs - 1 day 14 hr 9 min
+751 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Serseri](https://open.spotify.com/track/33uHDjMPVYI8Mcct0HUiD2) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Efsane I](https://open.spotify.com/album/0Bf2XouHZMoSGn50fxfrcA) | 3:15 | 2026-03-05 | 2026-03-20 |
 | [Serseri](https://open.spotify.com/track/0xY4QkNJD0GLXUBvLLE0Zr) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Serseri](https://open.spotify.com/album/4GSCFa6EujYqbWxn1lwx6a) | 2:44 | 2026-06-29 | 2026-08-28 |
 | [Serseri Serseri](https://open.spotify.com/track/1aW0Huof1FIgXPjS84Bg4B) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Serseri Serseri](https://open.spotify.com/album/1cZjM7WVZt5JWUNGcGzSkL) | 2:39 | 2026-05-22 | 2026-06-13 |
-| [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
+| [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 | 2026-10-05 |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-10-24 |
 | [Sev Seveceksen](https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z) | [Sev Seveceksen](https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc) | 2:58 | 2026-04-09 | 2026-09-27 |
@@ -713,6 +713,7 @@
 | [Yıkılmayız Öyle](https://open.spotify.com/track/7JaJ9XbLEaCGvFsY4cxkAJ) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Yıkılmayız Öyle](https://open.spotify.com/album/5hzKdDrcKcaZUGENPKMaFW) | 3:14 | 2026-08-20 |  |
 | [Yıllar Sonra Ne Güzel Olmuşsun](https://open.spotify.com/track/2BigllsJaELRIdoog1fDCO) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:06 | 2024-07-11 | 2024-07-27 |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 | 2024-08-15 |
+| [Zamparanın Ölümü](https://open.spotify.com/track/4duuUHfDDSmQ2XlWDbD2OY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Zamparanın Ölümü](https://open.spotify.com/album/0mhlwU3kw5aXyNNOUTAZqa) | 4:12 | 2026-09-29 |  |
 | [Zarf](https://open.spotify.com/track/0YOQGvIBJMYSylAD10tW6X) | [Erol Evgin](https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo) | [Zarf](https://open.spotify.com/album/6Vs3alB3ZQJtMxqStSVho4) | 4:02 | 2026-07-23 | 2026-08-07 |
 | [Zehir](https://open.spotify.com/track/6YivIuIiz8YMWmqQUj2t8z) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Zehir](https://open.spotify.com/album/5XaXCqJkXl8dQjv4ojVIi8) | 3:09 | 2025-03-06 | 2025-03-14 |
 | [Zehir \- Motive Remix](https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 3:52 | 2025-09-04 | 2026-03-20 |

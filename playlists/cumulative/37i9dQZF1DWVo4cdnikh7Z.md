@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Jailer 2
 
-2,727 songs - 6 day 19 hr 15 min
+2,728 songs - 6 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1953,6 +1953,7 @@
 | [Ratchasa Maamaney \(From "Ponniyin Selvan Part\-1"\)](https://open.spotify.com/track/6aNiR1YsERzcABil2gYQ1b) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palakad Sreeram](https://open.spotify.com/artist/4kFcACv63ngx7w0d5HGeMR), [Mahesh Vinayakram](https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC) | [Ratchasa Maamaney \(From "Ponniyin Selvan Part\-1"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4eIu5vpBm9VNHVQ3HzcLa0) | 4:49 | 2022-09-06 | 2023-02-21 |
 | [Rathamaarey](https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 4:12 | 2023-07-28 | 2023-12-24 |
 | [Rathinamey](https://open.spotify.com/track/1fFrouoBcHa3D1K5aRY0UY) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Lakshmikanth M](https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA), [GKB](https://open.spotify.com/artist/748c7ljswxC7ExDdBsGsAj) | [Aanpaavam Pollathathu](https://open.spotify.com/album/4Eqi5mV5PaeJHj8YcoO6Pr) | 2:16 | 2025-11-03 | 2025-11-22 |
+| [Rathinamo \- Female Version](https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup), [Tanisha Gnanavel](https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt) | [Rathinamo \(Female Version\)](https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO) | 2:57 | 2026-10-04 |  |
 | [Raththam Title Track \(From "Raththam"\)](https://open.spotify.com/track/7Beb5hmmY7syIjc37vy71X) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Kannan Narayanan](https://open.spotify.com/artist/4AGY446jF0YS1MYuEUgEC0), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Raththam Title Track \(From "Raththam"\)](https://open.spotify.com/album/6nifCKPlcI1RW7NHFEDrtG) | 4:03 | 2023-10-04 | 2023-10-21 |
 | [Ratnamala \(From "Parasakthi"\) \(Tamil\)](https://open.spotify.com/track/7pk4KSPgRu0QPfYUaT9VEd) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Sreeleela](https://open.spotify.com/artist/61W6fd3IV7LDXXzwoqg0DP), [Jayashree Mathimaran](https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu) | [Ratnamala \(From "Parasakthi"\) \(Tamil\)](https://open.spotify.com/album/75HCUZSLrxcCbGAymNUyJz) | 4:39 | 2025-11-25 | 2026-02-20 |
 | [Rattakka Rattakka \(From Kadapuraa Kalaikuzhu\)](https://open.spotify.com/track/0WjlhGRpHpDQ7uqKJvc3wn) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Rattakka Rattakka \(From "Kadapuraa Kalaikuzhu"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6jenXL4hG8H4NzSTygX4DF) | 3:46 | 2023-06-30 | 2023-07-13 |

@@ -2405,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -2716,7 +2738,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 171428,
       "name": "Blood Don't Make Family",
       "url": "https://open.spotify.com/track/6H6Maog5CLKlUix8TKGipZ"

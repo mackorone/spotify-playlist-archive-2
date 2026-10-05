@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Arde Bogotá, Cano, David Bisbal, Barry B, Samuraï y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,417 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,406 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

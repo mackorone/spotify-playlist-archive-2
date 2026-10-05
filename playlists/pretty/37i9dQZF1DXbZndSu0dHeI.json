@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234050,
+  "num_followers": 234049,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/2du7wlu759cPa2PGSteik8"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Anything He Was",
@@ -367,6 +351,22 @@
       "duration_ms": 239480,
       "name": "Anything He Was",
       "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Everything Is About You",
@@ -623,6 +607,22 @@
     {
       "added_at": "2026-08-14 13:22:54",
       "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 231716,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -699,6 +683,22 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "From the Night",
-        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 251821,
-      "name": "From the Night",
-      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "can we just forget?",
         "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
       },
@@ -967,6 +935,38 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sink Into Me",
+        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 290840,
       "name": "Honey Water",
       "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Sink Into Me",
-        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
-      },
-      "artists": [
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Sink Into Me",
-      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Energizer",
-        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Energizer",
-      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "The Loved Ones",
         "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 214387,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Energizer",
+        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Energizer",
+      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
     },
     {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Sabbath Deep Cuts",
+        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Sabbath Deep Cuts",
+      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
+    },
+    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Crash Landing",
@@ -1303,22 +1319,6 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Sabbath Deep Cuts",
-        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
-      },
-      "artists": [
-        {
-          "name": "Jake Whiskin",
-          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Sabbath Deep Cuts",
-      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
       "artists": [
         {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
         }
       ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Tractor Beam",
+        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Accidental Tattoo",
         "url": "https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 195862,
       "name": "Accidental Tattoo",
       "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Tractor Beam",
-        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Tractor Beam",
-      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
     },
     {
       "added_at": "2026-06-18 23:01:00",

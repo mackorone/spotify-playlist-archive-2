@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 64 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 65 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 |
 | 66 | [Just Like Jenny](https://open.spotify.com/track/5C2EPFs7ZWqARGv5qZJurY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:58 |
-| 67 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
-| 68 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
+| 67 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
+| 68 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
 | 69 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
 | 70 | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/track/56NHfqWbnWX60iQYybskqO) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06), [Mutungi](https://open.spotify.com/artist/1yOaXpYr3A6jMRhHrj3MZS) | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/album/48AsdNKzSJqOGNSRICdUWP) | 2:39 |
 | 71 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 105 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 106 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `Acd/OgAAAAA6KPD+A35huStQolPMAviB`
+Snapshot ID: `AceE2gAAAACvj23/xYjt5YlBLmPM4Wwo`

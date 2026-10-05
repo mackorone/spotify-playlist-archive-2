@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-476 songs - 1 day 6 hr 33 min
+477 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Street Wave](https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d), [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW) | [Lift Off](https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa) | 12:47 | 2025-05-23 |  |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 | 2025-04-02 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 | 2024-05-25 |
-| [summer in the city](https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [summer in the city](https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr) | 2:54 | 2026-07-17 |  |
+| [summer in the city](https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [summer in the city](https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr) | 2:54 | 2026-07-17 | 2026-10-05 |
 | [Summertime](https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl) | [Odaiba](https://open.spotify.com/artist/0ZLRzLs36ymAz7aquYoE3l), [Hola Bay](https://open.spotify.com/artist/7tYFTNdaLTVOfW6LXalwvL) | [Summertime](https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ) | 2:47 | 2024-11-01 | 2025-10-28 |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 | 2023-09-23 |
 | [Sunshine Club](https://open.spotify.com/track/4Xj3Wv23iulVlBXOyHbM3s) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Sunshine Club](https://open.spotify.com/album/7yXe36K6wGEOmmEUkCyREu) | 3:48 | 2026-09-18 |  |
@@ -450,6 +450,7 @@
 | [Velvet Avenue](https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [The Night Trip](https://open.spotify.com/album/3VZvOCAB238uicvonx2U95) | 3:26 | 2026-01-09 |  |
 | [Velvet Seas \- Ray Mang Remix Short](https://open.spotify.com/track/6EHU5HEN4XZ3Z9M77AN0Px) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Velvet Seas Remixed](https://open.spotify.com/album/6nvCRrz1vIjUYkFRo2TdiO) | 4:20 | 2026-09-04 | 2026-10-02 |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 | 2025-09-27 |
+| [Wait a Minute](https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E) | [Wait a Minute](https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84) | 3:11 | 2026-10-02 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2023-05-19 | 2026-05-16 |
 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 | 2025-11-14 |  |
 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 | 2021-07-24 | 2023-05-20 |

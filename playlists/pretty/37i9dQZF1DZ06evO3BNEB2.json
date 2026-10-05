@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41163,
+  "num_followers": 41168,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAATE489/4J5IZw6OjCPzQQx",
+  "snapshot_id": "asBFgAAAAADX6g+bTU7cHFSQFKwBFiNH",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 277970,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
       },
       "artists": [
         {
@@ -582,7 +582,7 @@
       ],
       "duration_ms": 156000,
       "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+      "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drew Barrymore (feat. Wale)",
+        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216246,
+      "name": "Drew Barrymore (feat. Wale)",
+      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 236866,
       "name": "MY PYT",
       "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drew Barrymore (feat. Wale)",
-        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216246,
-      "name": "Drew Barrymore (feat. Wale)",
-      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Chillin",
-      "url": "https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Lunch",
         "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 269657,
       "name": "My Boy (feat. J. Cole) - Freestyle",
       "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Chillin",
+      "url": "https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W"
     }
   ],
   "unique_name": "This Is Wale",

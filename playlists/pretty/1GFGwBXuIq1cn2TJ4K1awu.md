@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 40 min 38 sec
+[royva06](https://open.spotify.com/user/royva06) - 38 likes - 11 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I can do what I want](https://open.spotify.com/track/3pAggfK0BtAzU6fDyW6DUy) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:00 |
-| 2 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
-| 3 | [Are You That Somebody?](https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/1Sh0y0PpnIKfyWJqqIk8LP) | 4:25 |
-| 4 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
-| 5 | [Katherine The Grateful](https://open.spotify.com/track/4eODjOjquuFtkHlqoSqety) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [This Conversation Is Ending Starting Right Now](https://open.spotify.com/album/0wGnULzBLkxGa1FS4LSqmK) | 3:17 |
-| 6 | [Is It Real?](https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 3:01 |
-| 7 | [Wild Side Of Life](https://open.spotify.com/track/0K8iGXV5TXDz6RWfHMcJ1m) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 3:07 |
-| 8 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 |
-| 9 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 |
-| 10 | [I'm a Ramblin' Man](https://open.spotify.com/track/5cXdB92xagJr4b30GjRbfX) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 2:46 |
-| 11 | [Long Promised Road \- Remastered 2009](https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 3:32 |
+| 1 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/0Dv4ArPFwSFPWrubYdExKq) | 3:32 |
+| 2 | [all night](https://open.spotify.com/track/5Yuh9aLRq5ZAgHTxphvV39) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/7bv80mLhewTyKFyHlUBYev) | 3:42 |
+| 3 | [Stay](https://open.spotify.com/track/2G1GLZpZBSMc0C85OHT6fg) | [Bernard Butler](https://open.spotify.com/artist/28pqwEjm2WDueRWP4AjA1x) | [People Move On](https://open.spotify.com/album/2kS1Mg5BiuKmStYMwbgvlC) | 5:15 |
+| 4 | [Traffic Tickets](https://open.spotify.com/track/5Gb5H2kDognJE4HF3TfwL8) | [The Gadjits](https://open.spotify.com/artist/4KsM4oeDrY0Akg6fGtvn1i) | [At Ease](https://open.spotify.com/album/2rt4oHBHyjg9BJqrujMY4H) | 3:02 |
+| 5 | [Hard Luck & Circumstances](https://open.spotify.com/track/2mQKESg8IMAZO3zd31dA0D) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:04 |
+| 6 | [Press Rewind](https://open.spotify.com/track/736y1ZQptSw5iaMkbmvu9X) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Both Sides Of The Brain](https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv) | 4:37 |
+| 7 | [Angel Baby](https://open.spotify.com/track/2W3cgIDRgmVXcbP7tKLics) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [So Proud of Dreaming](https://open.spotify.com/album/70WstELqx4W15LwLv6eOPy) | 3:47 |
+| 8 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 9 | [2](https://open.spotify.com/track/79nmz3sTog69GJWtBQUzWH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [THIS IS WEIRD](https://open.spotify.com/album/08LM2t7hWS2M5ZZX6qSQSK) | 3:56 |
+| 10 | [It's Thunder and It's Lightning](https://open.spotify.com/track/6U9ugzM29qVCHj2z2AFXk3) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/3fBmUNtexE0cEnuis3NM3J) | 4:48 |
+| 11 | [B A D I D E A](https://open.spotify.com/track/20wriybYLs9XjTo9mgC5Dd) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 1:49 |
 
-Snapshot ID: `AAAMXzL6huSAPrtpum0TyP4yYstRbckZ`
+Snapshot ID: `AAAMdfRBUo2yZhh7xbvJ47kgYrJBGNHs`

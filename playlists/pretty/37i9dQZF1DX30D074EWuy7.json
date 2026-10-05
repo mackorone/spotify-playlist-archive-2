@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35123,
+  "num_followers": 35131,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Reality And Fantasy (Special Edition)",
-        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
-      },
-      "artists": [
-        {
-          "name": "Raphael Gualazzi",
-          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Follia D'Amore",
-      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Tindouf",
         "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 230173,
       "name": "Kontiki Blues",
       "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
+        }
+      ],
+      "duration_ms": 265526,
+      "name": "Song for Ellis",
+      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Reality And Fantasy (Special Edition)",
+        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
+      },
+      "artists": [
+        {
+          "name": "Raphael Gualazzi",
+          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Follia D'Amore",
+      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Other Directions (Remastered and Unreleased Tracks)",
         "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 239226,
       "name": "Sea and Sand",
       "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 265526,
-      "name": "Song for Ellis",
-      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Carioca",
-        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
-      },
-      "artists": [
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "Luz Negra",
-      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Carioca",
+        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
+      },
+      "artists": [
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        }
+      ],
+      "duration_ms": 300453,
+      "name": "Luz Negra",
+      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Editto Dal Sottoscoglio",
         "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 206204,
       "name": "Editto Dal Sottoscoglio",
       "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "L'Anguria",
-        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211623,
-      "name": "L'Anguria",
-      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "10 situazioni",
         "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "L'Anguria",
+        "url": "https://open.spotify.com/album/6LLJZZ25lCKXn7QQi8EYhp"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211623,
+      "name": "L'Anguria",
+      "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Baccanalia",
         "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
       },
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "WadiruM",
         "url": "https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 192400,
       "name": "High Fever",
       "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1647,6 +1647,22 @@
       "duration_ms": 270513,
       "name": "Ma Gnossienne",
       "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1695,22 +1711,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "NAXOS",
-        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
-      },
-      "artists": [
-        {
-          "name": "Francesco Buzzurro",
-          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Song for Django",
-      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Freaky People",
         "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1863,6 +1863,30 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Audio File",
+        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
+      },
+      "artists": [
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        },
+        {
+          "name": "Alberto Manco",
+          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Audio File",
+      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1883,22 +1907,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Cratere",
         "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
       },
@@ -1915,18 +1923,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     }
   ],
   "unique_name": "Jazz Italia",

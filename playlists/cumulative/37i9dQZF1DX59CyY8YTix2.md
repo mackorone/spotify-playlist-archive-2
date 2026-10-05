@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 明くる夜の羊
 
-2,093 songs - 5 day 9 hr 33 min
+2,094 songs - 5 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -964,6 +964,7 @@
 | [utouto](https://open.spotify.com/track/49RH7RyhJnF83In6yelKJO) | [sitaq](https://open.spotify.com/artist/6lajY9kGucnlFVlixs7Ne7) | [night](https://open.spotify.com/album/13DkAPBzkRZ1MxYdZO1Ywi) | 3:22 | 2022-11-01 | 2022-11-09 |
 | [Valentine and Youth](https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Valentine and Youth](https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl) | 3:11 | 2025-02-04 | 2025-02-19 |
 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
+| [VENUS](https://open.spotify.com/track/29qdzgzZFNmOVcku74aBGX) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [VENUS](https://open.spotify.com/album/32y0aMUkwDQbvl2TMlGIgu) | 3:56 | 2026-09-29 |  |
 | [violet](https://open.spotify.com/track/7G7ugnWj3iYMCCEYn171lN) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [violet](https://open.spotify.com/album/04bHJcq13Fuh20o3pgmDY0) | 3:52 | 2023-02-21 | 2023-03-01 |
 | [Virus Buster](https://open.spotify.com/track/47ghKf5vH4unAKTXLkvoWu) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [Virus Buster](https://open.spotify.com/album/08yJkMIGw3ATCmqGoGXl6F) | 3:30 | 2023-10-24 | 2023-11-01 |
 | [Vision](https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L) | 3:29 | 2023-05-09 | 2023-05-11 |
@@ -1822,7 +1823,7 @@
 | [暗闇](https://open.spotify.com/track/1aT56py72Iv2nZl86wXGSu) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [暗闇](https://open.spotify.com/album/1K9X2PvPQCZ0yLu0zugLcJ) | 3:17 | 2022-07-14 | 2022-07-20 |
 | [暮らし](https://open.spotify.com/track/1Bo3mAZ6d0DFzvWDdDpUOM) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [暮らし](https://open.spotify.com/album/1S6zjUA3v7mj34xGCummLo) | 2:09 | 2022-06-07 | 2022-06-13 |
 | [暴露](https://open.spotify.com/track/7Moykyl5fw6tqXdjW4MFye) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [暴露](https://open.spotify.com/album/4qFru6zhfdyb4B7BEokPOw) | 3:09 | 2023-07-11 | 2023-07-13 |
-| [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 |  |
+| [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 | 2026-10-05 |
 | [更衣室ディストピア](https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [更衣室ディストピア](https://open.spotify.com/album/1lMcGC8tL5QEGIFCNrXexL) | 4:16 | 2023-10-10 | 2023-10-18 |
 | [書きたい](https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2fgcE8yz8GWI7pCUWD0puM) | 3:44 | 2023-04-11 | 2023-04-13 |
 | [最後にひとつ](https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [未成線上](https://open.spotify.com/album/4a1ZiuceJCKjRm6lMdx5gT) | 4:04 | 2024-01-23 | 2024-01-25 |

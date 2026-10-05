@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 778497,
+  "num_followers": 778564,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABecl/Pfa8CZt5Loc067VbD",
+  "snapshot_id": "asBFgAAAAAAU1QYJJJvZRdpMgnYAcZSo",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/57TEkZN3f84tFJFHFrD4pO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 181621,
       "name": "Cowgirls",
       "url": "https://open.spotify.com/track/4mtmmBBEgdJLYWnLy5zvWE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/57TEkZN3f84tFJFHFrD4pO"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/4Sb8neYCkT7lyMIo2kOOEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 205453,
       "name": "Chasin' You",
       "url": "https://open.spotify.com/track/0WiyWiJDkNCyGNqkv7NByy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/4Sb8neYCkT7lyMIo2kOOEC"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/57a4iloBWqan5rtqPJBoVY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spin You Around (1/24)",
         "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 209427,
       "name": "Spin You Around (1/24)",
       "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/57a4iloBWqan5rtqPJBoVY"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 169226,
       "name": "Heartless (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Ain\u2019t That Some",
-      "url": "https://open.spotify.com/track/1rFH4TZS38gkcLcW02bEm7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 208280,
       "name": "The Way I Talk",
       "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/1rFH4TZS38gkcLcW02bEm7"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 251776,
-      "name": "Neon Moon (with Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
+      "duration_ms": 251776,
+      "name": "Neon Moon (with Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
     },
     {
       "added_at": null,

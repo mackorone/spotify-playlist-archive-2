@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 693 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 16 | [Ordinary Feelings](https://open.spotify.com/track/79rC6hgv09gnIRQGEqDNit) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:52 |
 | 17 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 |
 | 18 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 |
-| 19 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
-| 20 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 19 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 20 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
 | 21 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 |
 | 22 | [Summer love](https://open.spotify.com/track/7BK3QFosVThjZri2dDGRmE) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Summer love](https://open.spotify.com/album/5rTsYX0iFZXRsKrKV0ao1Q) | 3:20 |
 | 23 | [Circlesz](https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:21 |

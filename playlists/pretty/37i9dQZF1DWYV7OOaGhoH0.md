@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Bo Staloch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,234 likes - 134 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,256 likes - 134 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

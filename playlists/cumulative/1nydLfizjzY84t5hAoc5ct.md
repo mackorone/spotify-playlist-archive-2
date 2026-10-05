@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1nydLfizjzY84t5hAoc5ct.md) - cumulative - [plain](/playlists/plain/1nydLfizjzY84t5hAoc5ct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1nydLfizjzY84t5hAoc5ct)
 
-### [Off Axis Gigs \. com](https://open.spotify.com/playlist/1nydLfizjzY84t5hAoc5ct)
+### [Off Axis Tours \. com](https://open.spotify.com/playlist/1nydLfizjzY84t5hAoc5ct)
 
-> OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
+> OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
 454 songs - 1 day 3 hr 24 min
 

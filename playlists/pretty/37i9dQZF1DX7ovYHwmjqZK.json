@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 281532,
+  "num_followers": 281543,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Voc\u00ea",
+        "url": "https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sousa Bossa",
+          "url": "https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ"
+        }
+      ],
+      "duration_ms": 213550,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Perfei\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 250880,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Voc\u00ea",
-        "url": "https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sousa Bossa",
-          "url": "https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ"
-        }
-      ],
-      "duration_ms": 213550,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Rosa Morena EP",
-        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
-      },
-      "artists": [
-        {
-          "name": "Duo Flamingo",
-          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
-        }
-      ],
-      "duration_ms": 246079,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "After You've Gone",
         "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 191174,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Rosa Morena EP",
+        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
+      },
+      "artists": [
+        {
+          "name": "Duo Flamingo",
+          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
+        }
+      ],
+      "duration_ms": 246079,
+      "name": "Rosa Morena",
+      "url": "https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Rosa Morena EP",
-        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
-      },
-      "artists": [
-        {
-          "name": "Duo Flamingo",
-          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Flor De Lis",
-      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 272556,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TgO9jAdOOber4wK9Sn6FN"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Rosa Morena EP",
+        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
+      },
+      "artists": [
+        {
+          "name": "Duo Flamingo",
+          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Flor De Lis",
+      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "O Barquinho",
         "url": "https://open.spotify.com/album/3622VWYaBU5dTNqajJ4F5g"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 191255,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/3gHziDterpyWKTHnawogcZ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -751,22 +731,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Ins\u00f4nia",
-        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
-      },
-      "artists": [
-        {
-          "name": "Davide Sosa",
-          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Bela Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Caminhos Cruzados",
         "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
       },
@@ -783,18 +747,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Davide Sosa",
+          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+      "duration_ms": 196179,
+      "name": "Bela Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -815,6 +779,42 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -831,22 +831,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "As Cores das Flores",
-        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "M\u00e1rcio Moreira",
-          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
         }
       ],
-      "duration_ms": 181894,
-      "name": "As Cores das Flores",
-      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -867,18 +863,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+        "name": "As Cores das Flores",
+        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
       },
       "artists": [
         {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcio Moreira",
+          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
         }
       ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+      "duration_ms": 181894,
+      "name": "As Cores das Flores",
+      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Na Palavra",
         "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Media\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 151109,
       "name": "Media\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o",
-        "url": "https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v"
-      },
-      "artists": [
-        {
-          "name": "Jana Andrade",
-          "url": "https://open.spotify.com/artist/110kMQksFS986W3yIbKozG"
-        },
-        {
-          "name": "Pedro Palma",
-          "url": "https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "Voc\u00ea N\u00e3o",
-      "url": "https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1479,6 +1459,26 @@
       "duration_ms": 221300,
       "name": "No Gurufim do Tio Sam",
       "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o",
+        "url": "https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v"
+      },
+      "artists": [
+        {
+          "name": "Jana Andrade",
+          "url": "https://open.spotify.com/artist/110kMQksFS986W3yIbKozG"
+        },
+        {
+          "name": "Pedro Palma",
+          "url": "https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Voc\u00ea N\u00e3o",
+      "url": "https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A"
     },
     {
       "added_at": "2026-08-14 03:00:55",

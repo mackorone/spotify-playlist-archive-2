@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,945 likes - 109 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,970 likes - 109 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

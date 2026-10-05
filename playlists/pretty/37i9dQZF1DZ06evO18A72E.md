@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,052 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,043 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 45 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 |
 | 46 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
 
-Snapshot ID: `ar70AAAAAABScBvDeBEskGjkIMn0HN+k`
+Snapshot ID: `asBFgAAAAABC8+6NgsCeglnLfU0+BYuH`

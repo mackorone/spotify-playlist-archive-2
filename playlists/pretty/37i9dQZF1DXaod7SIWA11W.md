@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,419 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,424 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

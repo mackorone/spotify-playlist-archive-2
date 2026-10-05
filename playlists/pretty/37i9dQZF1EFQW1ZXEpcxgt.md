@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 91 | [Heaven](https://open.spotify.com/track/6npZ8fQgQqvXwqzLzFhkhb) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Heaven](https://open.spotify.com/album/6qgCzcQfYKGv15NnFCoY2K) | 3:24 |
 | 92 | [Don't Come Around \(feat\. Kendall Morgan\)](https://open.spotify.com/track/4E4rmyjWo1BNduBxUcAf62) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 3:10 |
 | 93 | [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 |
-| 94 | [Vans On](https://open.spotify.com/track/620HJqJyx6sB4yt5WdHuPg) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Vans On](https://open.spotify.com/album/54AFsTGuBaGll5nhcCZbwX) | 2:57 |
-| 95 | [Fool](https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:00 |
+| 94 | [Fool](https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:00 |
+| 95 | [Vans On](https://open.spotify.com/track/620HJqJyx6sB4yt5WdHuPg) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Vans On](https://open.spotify.com/album/54AFsTGuBaGll5nhcCZbwX) | 2:57 |
 | 96 | [Not Done Yet](https://open.spotify.com/track/43xjMIpJBtPsCd8QdVTyf7) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:20 |
 | 97 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 |
 | 98 | [Dollar Wine](https://open.spotify.com/track/0F2Py4ogjJZIprJkQwD4IW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/2R5kNP2ojFzhcHUi2SyenE) | 5:47 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 151 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 152 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Acd/WAAAAACHm567Fgp9/8U6bLgG/sSf`
+Snapshot ID: `AceE7gAAAABeX9h4G9b/mPn/Tf1zCJRN`

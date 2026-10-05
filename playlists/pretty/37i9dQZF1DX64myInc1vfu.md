@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,840 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,864 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 16 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
 | 17 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
 | 18 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
-| 19 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
-| 20 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
+| 19 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
+| 20 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 21 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
 | 22 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
 | 23 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 58 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
 | 59 | [Jaque Mate](https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1) | [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U) | [Jaque Mate](https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ) | 3:06 |
 | 60 | [Muy Agradecido](https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Tiza](https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs) | 2:45 |
-| 61 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
-| 62 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
-| 63 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 61 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 62 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
+| 63 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
 | 64 | [La Mudanza](https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Mudanza](https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl) | 3:43 |
 | 65 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
 | 66 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |

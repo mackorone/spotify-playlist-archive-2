@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 45 min
+120 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-09-16 |  |
 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:57 | 2024-10-23 |  |
 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 | 2024-04-21 | 2024-10-23 |
+| [Raised By The Radio \(A Reintroduction\)](https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 2:02 | 2026-10-05 |  |
 | [Sage \(Feat\. Adekunle Gold\)](https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Sage \(Feat\. Adekunle Gold\)](https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor) | 2:53 | 2026-08-23 |  |
 | [Say You Will](https://open.spotify.com/track/2garoQsT8YUfXVKA8vYRYR) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:39 | 2023-12-14 | 2025-04-08 |
 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 | 2024-05-12 |  |
@@ -104,7 +105,7 @@
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-22 | 2026-03-29 |
 | [Taking Things For Granted](https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:36 | 2026-03-29 |  |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-09-16 | 2024-07-23 |
-| [The End Of The World](https://open.spotify.com/track/7hVJSOZBIGN78RFyiq9ILw) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:26 | 2026-09-27 |  |
+| [The End Of The World](https://open.spotify.com/track/7hVJSOZBIGN78RFyiq9ILw) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:26 | 2026-09-27 | 2026-10-05 |
 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 | 2023-04-30 | 2026-03-29 |
 | [this little lighter of mine \(joy version\)](https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [this little lighter of mine \(joy version\)](https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4) | 3:49 | 2024-12-08 | 2025-04-20 |
 | [Time Is A River](https://open.spotify.com/track/6UsgsliuU5gTLxKkfCfPFN) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 2:28 | 2026-09-27 |  |

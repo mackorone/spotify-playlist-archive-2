@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 380150,
+  "num_followers": 380241,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 299866,
+      "name": "Friendly Skies (feat. Ginuwine)",
+      "url": "https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Three Kings",
         "url": "https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 169066,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Supa Dupa Fly",
-        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 299866,
-      "name": "Friendly Skies (feat. Ginuwine)",
-      "url": "https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx"
     },
     {
       "added_at": "2024-09-02 12:32:28",

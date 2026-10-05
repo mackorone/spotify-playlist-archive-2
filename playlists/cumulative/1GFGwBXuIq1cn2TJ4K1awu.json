@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "THIS IS WEIRD",
+        "url": "https://open.spotify.com/album/08LM2t7hWS2M5ZZX6qSQSK"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236756,
+      "name": "2",
+      "url": "https://open.spotify.com/track/79nmz3sTog69GJWtBQUzWH"
+    },
+    {
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -657,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Any Human Friend",
+        "url": "https://open.spotify.com/album/7bv80mLhewTyKFyHlUBYev"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "all night",
+      "url": "https://open.spotify.com/track/5Yuh9aLRq5ZAgHTxphvV39"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2mbRiwM3GFzekNyTiYgvur"
       },
@@ -931,6 +967,24 @@
     },
     {
       "album": {
+        "name": "So Proud of Dreaming",
+        "url": "https://open.spotify.com/album/70WstELqx4W15LwLv6eOPy"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2W3cgIDRgmVXcbP7tKLics"
+    },
+    {
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1170,7 +1224,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 265666,
       "name": "Are You That Somebody?",
       "url": "https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4"
@@ -1318,6 +1372,24 @@
       "duration_ms": 270893,
       "name": "Ava Adore",
       "url": "https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6"
+    },
+    {
+      "album": {
+        "name": "God Save The Gun",
+        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109634,
+      "name": "B A D I D E A",
+      "url": "https://open.spotify.com/track/20wriybYLs9XjTo9mgC5Dd"
     },
     {
       "album": {
@@ -4640,7 +4712,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 236360,
       "name": "Eyeless",
       "url": "https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz"
@@ -5787,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184575,
+      "name": "Hard Luck & Circumstances",
+      "url": "https://open.spotify.com/track/2mQKESg8IMAZO3zd31dA0D"
+    },
+    {
+      "album": {
         "name": "Over Easy",
         "url": "https://open.spotify.com/album/1FfpE3Yj3hYdDfVa0EI8Ay"
       },
@@ -6480,7 +6570,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 180606,
       "name": "I can do what I want",
       "url": "https://open.spotify.com/track/3pAggfK0BtAzU6fDyW6DUy"
@@ -7136,7 +7226,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 166933,
       "name": "I'm a Ramblin' Man",
       "url": "https://open.spotify.com/track/5cXdB92xagJr4b30GjRbfX"
@@ -7720,7 +7810,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 181233,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO"
@@ -7826,6 +7916,24 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
+    },
+    {
+      "album": {
+        "name": "These Four Walls",
+        "url": "https://open.spotify.com/album/3fBmUNtexE0cEnuis3NM3J"
+      },
+      "artists": [
+        {
+          "name": "We Were Promised Jetpacks",
+          "url": "https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288933,
+      "name": "It's Thunder and It's Lightning",
+      "url": "https://open.spotify.com/track/6U9ugzM29qVCHj2z2AFXk3"
     },
     {
       "album": {
@@ -8082,7 +8190,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 197133,
       "name": "Katherine The Grateful",
       "url": "https://open.spotify.com/track/4eODjOjquuFtkHlqoSqety"
@@ -8808,7 +8916,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 212573,
       "name": "Long Promised Road - Remastered 2009",
       "url": "https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai"
@@ -9346,7 +9454,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -9400,7 +9508,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
@@ -11477,6 +11585,28 @@
     },
     {
       "album": {
+        "name": "The Virgin Suicides (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/0Dv4ArPFwSFPWrubYdExKq"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Gordon Tracks",
+          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "Playground Love (with Gordon Tracks)",
+      "url": "https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb"
+    },
+    {
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/4b0YU2JfWbGrT51Eete3cf"
       },
@@ -11684,6 +11814,24 @@
       "duration_ms": 146533,
       "name": "Preservation",
       "url": "https://open.spotify.com/track/124DjfCOxrqEXpHD04Hk8i"
+    },
+    {
+      "album": {
+        "name": "Both Sides Of The Brain",
+        "url": "https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "Press Rewind",
+      "url": "https://open.spotify.com/track/736y1ZQptSw5iaMkbmvu9X"
     },
     {
       "album": {
@@ -12652,7 +12800,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
@@ -13722,6 +13870,24 @@
       "duration_ms": 178973,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "album": {
+        "name": "People Move On",
+        "url": "https://open.spotify.com/album/2kS1Mg5BiuKmStYMwbgvlC"
+      },
+      "artists": [
+        {
+          "name": "Bernard Butler",
+          "url": "https://open.spotify.com/artist/28pqwEjm2WDueRWP4AjA1x"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315960,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2G1GLZpZBSMc0C85OHT6fg"
     },
     {
       "album": {
@@ -15411,6 +15577,24 @@
     },
     {
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/2rt4oHBHyjg9BJqrujMY4H"
+      },
+      "artists": [
+        {
+          "name": "The Gadjits",
+          "url": "https://open.spotify.com/artist/4KsM4oeDrY0Akg6fGtvn1i"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Traffic Tickets",
+      "url": "https://open.spotify.com/track/5Gb5H2kDognJE4HF3TfwL8"
+    },
+    {
+      "album": {
         "name": "Harm's Way",
         "url": "https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM"
       },
@@ -15924,6 +16108,24 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
+    },
+    {
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "album": {
@@ -16548,7 +16750,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 187136,
       "name": "Wild Side Of Life",
       "url": "https://open.spotify.com/track/0K8iGXV5TXDz6RWfHMcJ1m"

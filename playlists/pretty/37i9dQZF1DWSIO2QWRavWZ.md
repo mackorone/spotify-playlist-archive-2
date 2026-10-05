@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,326 likes - 175 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,333 likes - 175 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61429,
+  "num_followers": 61428,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-10-01 22:00:57",
-      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-10-01 22:00:57",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-10-01 22:00:57",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
-        "name": "Half Of Me",
-        "url": "https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV"
-    },
-    {
-      "added_at": "2026-10-01 22:00:57",
-      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 156035,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
+    },
+    {
+      "added_at": "2026-10-01 22:00:57",
+      "album": {
+        "name": "Half Of Me",
+        "url": "https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV"
     },
     {
       "added_at": "2026-10-01 22:00:57",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
-        "name": "Bara du \u00e4r d\u00e4r",
-        "url": "https://open.spotify.com/album/48PQflk1qcTzmWM4ydT2En"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Bara du \u00e4r d\u00e4r",
-      "url": "https://open.spotify.com/track/3zYTYk15l0ahY6cJ9MFrNT"
-    },
-    {
-      "added_at": "2026-10-01 22:00:57",
-      "album": {
         "name": "BEAUTIFUL MADNESS",
         "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 215388,
       "name": "EGO",
       "url": "https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L"
+    },
+    {
+      "added_at": "2026-10-01 22:00:57",
+      "album": {
+        "name": "Bara du \u00e4r d\u00e4r",
+        "url": "https://open.spotify.com/album/48PQflk1qcTzmWM4ydT2En"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Bara du \u00e4r d\u00e4r",
+      "url": "https://open.spotify.com/track/3zYTYk15l0ahY6cJ9MFrNT"
     },
     {
       "added_at": "2026-10-01 22:00:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 210292,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
-    },
-    {
-      "added_at": "2026-10-01 22:00:57",
-      "album": {
         "name": "KNOCKED DOWN",
         "url": "https://open.spotify.com/album/5qNhnAH6Tg7n2BEA8EPGEt"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 182918,
       "name": "KNOCKED DOWN",
       "url": "https://open.spotify.com/track/2fmFzhUmp5uMDbynpXWRpQ"
+    },
+    {
+      "added_at": "2026-10-01 22:00:57",
+      "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 210292,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
     },
     {
       "added_at": "2026-10-01 22:00:57",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
-        "name": "Kyss mig",
-        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
+        "name": "Where Strippers Go To Die",
+        "url": "https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf"
       },
       "artists": [
         {
-          "name": "JULIETT",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
         }
       ],
-      "duration_ms": 182464,
-      "name": "Kyss mig",
-      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
+      "duration_ms": 186645,
+      "name": "S\u00e4g n\u00e5t",
+      "url": "https://open.spotify.com/track/0hbUHe3JbfwuVQ3QsGOUNE"
     },
     {
       "added_at": "2026-10-01 22:00:57",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-10-01 22:00:57",
       "album": {
+        "name": "Kyss mig",
+        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
+      },
+      "artists": [
+        {
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 182464,
+      "name": "Kyss mig",
+      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
+    },
+    {
+      "added_at": "2026-10-01 22:00:57",
+      "album": {
         "name": "Jack & Coke",
         "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 169687,
       "name": "Jack & Coke",
       "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
-    },
-    {
-      "added_at": "2026-10-01 22:00:57",
-      "album": {
-        "name": "Where Strippers Go To Die",
-        "url": "https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 186645,
-      "name": "S\u00e4g n\u00e5t",
-      "url": "https://open.spotify.com/track/0hbUHe3JbfwuVQ3QsGOUNE"
     },
     {
       "added_at": "2026-10-01 22:00:57",

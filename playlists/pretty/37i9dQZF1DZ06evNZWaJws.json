@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 360273,
+  "num_followers": 360310,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAB9LNlZanriA4JGM8tDgAV5",
+  "snapshot_id": "asBFgAAAAAChOoGtvvBkj96o9WAPnkkU",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romance Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Se Fue Mi Amor",
-      "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clave Nueva",
         "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 169853,
       "name": "Temporada En La Sierra",
       "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romance Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Se Fue Mi Amor",
+      "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+        "name": "Corridos Time Season Two \"Los Implacables\"",
+        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
+      "duration_ms": 196226,
+      "name": "Panchito El F1",
+      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time Season Two \"Los Implacables\"",
-        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Panchito El F1",
-      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 178080,
-      "name": "Los Juniors",
-      "url": "https://open.spotify.com/track/1dHJ7ndhZv6Yw1h0p0EnW3"
+      "duration_ms": 174013,
+      "name": "Los Mas Buscados",
+      "url": "https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Los Mas Buscados",
-      "url": "https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA"
+      "duration_ms": 178080,
+      "name": "Los Juniors",
+      "url": "https://open.spotify.com/track/1dHJ7ndhZv6Yw1h0p0EnW3"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
-        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173417,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 153221,
       "name": "El \u00c1guila Blanca - En Vivo",
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
+        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173417,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": null,

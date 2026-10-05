@@ -1,12 +1,12 @@
 {
   "description": "This is Feid. The essential tracks, all in one playlist.",
-  "num_followers": 872705,
+  "num_followers": 872736,
   "original_name": "This Is Feid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACBqqB12VQFRaRW+PtLxfcR",
+  "snapshot_id": "asBFgAAAAAA5ewgpGuTPZhK8RgH5yTXB",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Xon De Que",
+        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Xon De Que",
-        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141465,
-      "name": "A Xon De Que",
-      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Que vuelta vox",
-      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 242959,
       "name": "HAXTA EL DIA FINAL",
       "url": "https://open.spotify.com/track/0P9yIskm1XlR0cKMLKLZT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Que vuelta vox",
+      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Brickell",
-      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 194339,
       "name": "DE DIOR XL",
       "url": "https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 157593,
       "name": "TIEMPO SIN VXRTX",
       "url": "https://open.spotify.com/track/1IA7a4Q967PCZELcgCkmk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "SE LO JURO MOR",
-      "url": "https://open.spotify.com/track/4MSfAq3HZsIbTri2IEsCH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 208168,
       "name": "SE PUSO FEO",
       "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/4MSfAq3HZsIbTri2IEsCH1"
     },
     {
       "added_at": null,
@@ -915,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 286243,
-      "name": "Read My Lips",
-      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
     },
     {
       "added_at": null,
@@ -971,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 176086,
-      "name": "Salir Con Vida",
-      "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
+      "duration_ms": 286243,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
     },
     {
       "added_at": null,

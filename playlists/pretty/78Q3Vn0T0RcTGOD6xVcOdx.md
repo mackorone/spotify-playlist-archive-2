@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
-### [Today’s Top Hits\-Afrobeats ·   Trap ·   Rap ·   Hip Hop ·   RnB  ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
+### [Top Hits 2026 🔥 Best Songs Right Now, Chart Hits, Pop & R&B Hits](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 532 likes - 78 songs - 4 hr 50 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 533 likes - 78 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 77 | [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 |
 | 78 | [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 |
 
-Snapshot ID: `AAACX3V0AS445jHtMy0m4+07yO/I9GBS`
+Snapshot ID: `AAACYCRyOSqwm4KdeXEqluXjLsgMSBKU`

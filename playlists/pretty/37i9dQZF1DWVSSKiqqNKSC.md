@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,814 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,851 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 6 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 7 | [GuaChiNeo – Con La Punta del Pie \- Reparto / Repaton Edit](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [GUACHINEO](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 8 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
-| 9 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
+| 9 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
 | 10 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 11 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
 | 12 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:44 |
 | 13 | [Un Mal Sueño](https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe) | [Tirso Duarte](https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu) | [Timba Cubana](https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9) | 5:25 |
-| 14 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
+| 14 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
 | 15 | [Mi Música \- Remasterizado](https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Haciendo Historia \(Remasterizado\)](https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W) | 5:47 |
 | 16 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 17 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |

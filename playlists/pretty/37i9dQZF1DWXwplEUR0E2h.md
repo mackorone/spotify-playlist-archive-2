@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,762 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,794 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

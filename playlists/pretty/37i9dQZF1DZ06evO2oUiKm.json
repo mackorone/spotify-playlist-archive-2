@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABc0yFo9LFGQ8gh6VzwFAlP",
+  "snapshot_id": "asBFgAAAAACsm6Nv1Qb23UiWexvp2ZbA",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Harriet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
       },
       "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 72200,
+      "name": "Goodbye Song",
+      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harriet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 72200,
-      "name": "Goodbye Song",
-      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 43546,
-      "name": "Until You Saw Me - Interlude",
-      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
+      "duration_ms": 163704,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
     },
     {
       "added_at": null,

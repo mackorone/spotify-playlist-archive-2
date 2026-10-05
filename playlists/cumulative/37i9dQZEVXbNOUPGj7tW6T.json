@@ -6962,7 +6962,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
@@ -16254,7 +16254,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 183170,
       "name": "Recordar\u00e1s que te amo - \u00c9xitos Sudam\u00e9rica",
       "url": "https://open.spotify.com/track/3MGnmGjGVg0HjDI6R0PnBk"
@@ -18521,6 +18521,24 @@
     },
     {
       "album": {
+        "name": "Cosa De Locos",
+        "url": "https://open.spotify.com/album/6pwgM7tdlKtXAMiIOKlX06"
+      },
+      "artists": [
+        {
+          "name": "Los Grey's",
+          "url": "https://open.spotify.com/artist/5KU9XgpOIxG0kd75YjunQ4"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194174,
+      "name": "Te Imagine",
+      "url": "https://open.spotify.com/track/3XjEUVHTkBgkSt2wiO74jL"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -18594,7 +18612,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 177841,
       "name": "Te Quiero Asi",
       "url": "https://open.spotify.com/track/372WH7eXbJKJX37iYPeqvR"
@@ -21948,7 +21966,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 242840,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"

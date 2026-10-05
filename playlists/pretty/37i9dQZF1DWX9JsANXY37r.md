@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,615 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,614 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 36 | [Pressure \(with SG Lewis\)](https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Pressure \(with SG Lewis\)](https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW) | 2:49 |
 | 37 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 38 | [Fatal](https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY](https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g) | 3:16 |
-| 39 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
-| 40 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
+| 39 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
+| 40 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
 | 41 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 42 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 43 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 51 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 52 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
 | 53 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
-| 54 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
-| 55 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
+| 54 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
+| 55 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
 | 56 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 |
 | 57 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 58 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |

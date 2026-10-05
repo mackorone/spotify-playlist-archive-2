@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-848 songs - 1 day 16 hr 51 min
+849 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-05-01 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-16 | 2024-03-03 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-02-07 |
+| [Apala Groove](https://open.spotify.com/track/3DRcePAOqjaqfpjV5nlLy9) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Apala Groove](https://open.spotify.com/album/4Fi4ydQzaJ2709uu2yQMNr) | 3:35 | 2026-10-02 |  |
 | [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 | 2025-04-07 | 2025-12-19 |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 | 2025-07-26 |
 | [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 | 2026-02-27 | 2026-03-17 |
@@ -653,7 +654,7 @@
 | [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-11 | 2023-06-23 |
 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 | 2026-04-03 |  |
 | [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 | 2023-12-01 | 2023-12-04 |
-| [Signs](https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Sevn](https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Signs](https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4) | 3:06 | 2026-07-10 |  |
+| [Signs](https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Sevn](https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Signs](https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4) | 3:06 | 2026-07-10 | 2026-10-05 |
 | [Simone](https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar \- Side A](https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3) | 2:08 | 2026-07-24 | 2026-09-01 |
 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 | 2024-01-26 | 2024-03-22 |
 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-06-09 | 2023-10-18 |

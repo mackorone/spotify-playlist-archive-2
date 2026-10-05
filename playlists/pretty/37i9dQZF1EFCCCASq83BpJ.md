@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,138 likes - 135 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,137 likes - 135 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 71 | [obvious](https://open.spotify.com/track/0q85C1JiECyYIQthz1posA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:26 |
 | 72 | [Heatstroke \(feat\. Young Thug, Pharrell Williams & Ariana Grande\)](https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:49 |
 | 73 | [Right There](https://open.spotify.com/track/47rzxY9wSpomHE1gT94jIT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 4:07 |
-| 74 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 |
-| 75 | [dandelion](https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:24 |
-| 76 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
+| 74 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
+| 75 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 |
+| 76 | [dandelion](https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:24 |
 | 77 | [shut up](https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:37 |
 | 78 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 |
 | 79 | [Winter Things](https://open.spotify.com/track/0zrQwV4XbcwZ2bS9r7F944) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:38 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 112 | [Wit It This Christmas](https://open.spotify.com/track/2E5R3USq1SSOFDnl4SHe1Z) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:41 |
 | 113 | [big feelings](https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 2:53 |
 | 114 | [bad thing \(bunny hop\)](https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:28 |
-| 115 | [Intro](https://open.spotify.com/track/0qMNPhpRzbghJy6G3SgRag) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 1:19 |
-| 116 | [nowhere, nobody](https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 2:52 |
+| 115 | [nowhere, nobody](https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 2:52 |
+| 116 | [Intro](https://open.spotify.com/track/0qMNPhpRzbghJy6G3SgRag) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 1:19 |
 | 117 | [How I Look On You](https://open.spotify.com/track/4mDLApzbhjNSutiW2EOakg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:54 |
 | 118 | [freak](https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:19 |
 | 119 | [Not Just On Christmas](https://open.spotify.com/track/09VVVW2VxsmXE5Pyo3T0ah) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:03 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 134 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 135 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Acd/WAAAAADXrn2A+KRfFuIvVOA/1dBt`
+Snapshot ID: `AceE7gAAAACnLmvRStSKJJAsW7VnaLQI`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 6650,
+  "num_followers": 6654,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,46 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "High Society",
+        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TBNY",
+          "url": "https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "\ud53c\ud574\ub9dd\uc0c1 Pt.3 (with TBNY)",
+      "url": "https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "\ub208\uc744 \ub728\uba74",
+      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Quiet Storm: A Night Record",
         "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
       },
@@ -647,46 +687,6 @@
       "duration_ms": 252920,
       "name": "Airplane Music (feat. Basick, Rimi, Beenzino, Fana & San E)",
       "url": "https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "\ub208\uc744 \ub728\uba74",
-      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "High Society",
-        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "TBNY",
-          "url": "https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "\ud53c\ud574\ub9dd\uc0c1 Pt.3 (with TBNY)",
-      "url": "https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
         "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Quiet Storm: A Night Record",
-        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
       "artists": [
         {
@@ -1512,17 +1512,21 @@
           "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Notorious Kid",
+          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
         },
         {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+          "name": "Friz",
+          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
+        },
+        {
+          "name": "Pumkin",
+          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
         }
       ],
-      "duration_ms": 218893,
-      "name": "Stars (feat. Verbal Jint & Swings)",
-      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
+      "duration_ms": 218265,
+      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
+      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1603,8 +1607,8 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Q Train (Remaster)",
-        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+        "name": "Quiet Storm: A Night Record",
+        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
       },
       "artists": [
         {
@@ -1612,13 +1616,17 @@
           "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
         }
       ],
-      "duration_ms": 84925,
-      "name": "Interlude (feat. Mad Clown)",
-      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
+      "duration_ms": 218893,
+      "name": "Stars (feat. Verbal Jint & Swings)",
+      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1655,8 +1663,8 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Luckynumbers",
-        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+        "name": "A Giant Step",
+        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
       },
       "artists": [
         {
@@ -1664,13 +1672,13 @@
           "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         },
         {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 220880,
-      "name": "BAAAM",
-      "url": "https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk"
+      "duration_ms": 316944,
+      "name": "AEAO",
+      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1700,21 +1708,13 @@
           "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "Notorious Kid",
-          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
-        },
-        {
-          "name": "Friz",
-          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
-        },
-        {
-          "name": "Pumkin",
-          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
         }
       ],
-      "duration_ms": 218265,
-      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
-      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
+      "duration_ms": 84925,
+      "name": "Interlude (feat. Mad Clown)",
+      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
+        "name": "Luckynumbers",
+        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
       },
       "artists": [
         {
@@ -1768,13 +1768,13 @@
           "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         },
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
         }
       ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
+      "duration_ms": 220880,
+      "name": "BAAAM",
+      "url": "https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk"
     },
     {
       "added_at": "2024-11-20 08:34:55",

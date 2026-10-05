@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "\"'Preludes to a Dream: Bach, Chopin & more\"",
+        "url": "https://open.spotify.com/album/23PyllvoPgfPXWsaeWxAVi"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98653,
+      "name": "Lyric Pieces Book 3, Op. 43: No. 4, Little Bird",
+      "url": "https://open.spotify.com/track/5IfHWGEJBZ6mrXEULlIdoz"
+    },
+    {
+      "album": {
         "name": "\"Symphonies of Space: Bach, Beethoven & more\"",
         "url": "https://open.spotify.com/album/40xYKGHMn90yvAFmgsRdkk"
       },
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 56933,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
       "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
@@ -1592,10 +1614,32 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 96440,
       "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
       "url": "https://open.spotify.com/track/3dfA3Cy8G5nRali9FqoQU9"
+    },
+    {
+      "album": {
+        "name": "\"'Nocturne for an Empty Room: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/2Nvp9ToPk2WngfSD6xtACB"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96440,
+      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
+      "url": "https://open.spotify.com/track/6oiyLMRmCPi3LkvenStWmj"
     },
     {
       "album": {

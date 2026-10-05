@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,716 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,743 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

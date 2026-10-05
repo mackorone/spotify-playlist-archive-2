@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 127 songs - 8 hr 6 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,907 likes - 128 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 125 | [Highway Cricket](https://open.spotify.com/track/16ArNql4lUmXSGsD0GeEbW) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 4:11 |
 | 126 | [Fields of Life](https://open.spotify.com/track/2ZKwoUgERG8768n6ZQ6V6w) | [William Drake](https://open.spotify.com/artist/3Y40ISCrUgYcnwGexhaGxu) | [Fields of Life](https://open.spotify.com/album/1kIcy1XnVk1yFQL7FJQUVM) | 2:26 |
 | 127 | [біли троянди](https://open.spotify.com/track/3V6RRSOeREtm9aZBFSdLyH) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Тільки Рок](https://open.spotify.com/album/3gWo1Y2sznqFno2yJobq7q) | 4:57 |
+| 128 | [Somewhere I Belong](https://open.spotify.com/track/7qhubAcJBQyuVwCfvX0Lfz) | [Autogenic](https://open.spotify.com/artist/6d5cEuHc27DTtT4IkY6TJg) | [Somewhere I Belong](https://open.spotify.com/album/4zwc43bc9GQEBbElu8qgFg) | 4:25 |
 
-Snapshot ID: `AAAMrCCntrxP/9mbXc8jIXliOJFnab+c`
+Snapshot ID: `AAAMrV0ktQI5MMQhJw0gDX2ChW7PZpGp`

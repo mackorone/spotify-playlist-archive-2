@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 71199,
+  "num_followers": 71216,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADyviip2NaY5KG+/YHJFCD2",
+  "snapshot_id": "asBFgAAAAABHZIanW7zxUy4IJy95D1RV",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
-        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 172640,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
+      "duration_ms": 197626,
+      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
+      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
-      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Indeseable",
-        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Que Me Perdone Dios",
-      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 134000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -819,6 +803,38 @@
       "duration_ms": 178938,
       "name": "Sin Recompensa Ni Esperanza - En Vivo",
       "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "En Mil Pedazos",
+      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
     },
     {
       "added_at": null,
@@ -851,38 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambi\u00e9n De Los Ranchos Bajan",
-        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "En Mil Pedazos",
-      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Los Sauces Llorones",
-      "url": "https://open.spotify.com/track/4usEulEiuTXderzs33oblT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 170352,
       "name": "Sabor De Enga\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Los Sauces Llorones",
+      "url": "https://open.spotify.com/track/4usEulEiuTXderzs33oblT"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Pero Mar\u00eda",
-      "url": "https://open.spotify.com/track/3gIWoXj9KTMBDBcL1xt2Xb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
         "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193813,
       "name": "Baraja de Oro",
       "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Pero Mar\u00eda",
+      "url": "https://open.spotify.com/track/3gIWoXj9KTMBDBcL1xt2Xb"
     }
   ],
   "unique_name": "This Is Lalo Mora",

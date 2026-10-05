@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 343024,
+  "num_followers": 343095,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+      },
+      "artists": [
+        {
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
-      },
-      "artists": [
-        {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
-      },
-      "artists": [
-        {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 140573,
       "name": "Don't Cry for Me, Argentina",
       "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
+      },
+      "artists": [
+        {
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
+        }
+      ],
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -499,38 +499,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Somewhere In Time - Main Theme",
-      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -551,34 +519,34 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Manolo Sanlucar",
-        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
+        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
       },
       "artists": [
         {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+      "duration_ms": 204173,
+      "name": "Somewhere In Time - Main Theme",
+      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
     },
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "40 Hits Latinos",
-        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
       "artists": [
         {
-          "name": "Mantovani y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -599,6 +567,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Manolo Sanlucar",
+        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
+      },
+      "artists": [
+        {
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "40 Hits Latinos",
+        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
+      },
+      "artists": [
+        {
+          "name": "Mantovani y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Viol\u00edn M\u00e1gico 3 Alegria",
+        "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
+      },
+      "artists": [
+        {
+          "name": "Mila Khodorkovsky",
+          "url": "https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "El N\u00e1vajo Azul",
+      "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
         "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 111026,
       "name": "Music to Watch Girls By",
       "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Viol\u00edn M\u00e1gico 3 Alegria",
-        "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
-      },
-      "artists": [
-        {
-          "name": "Mila Khodorkovsky",
-          "url": "https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "El N\u00e1vajo Azul",
-      "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Heimat Deine Sterne, Folge 4",
         "url": "https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 133733,
       "name": "Wenn wir auseinandergeh'n (Please Release Me)",
       "url": "https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169773,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2025-02-14 17:45:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, La Mano 1.9, Ronisia x Meryl x Shay, Fontaines D.C\. et Angèle x Caroline Polachek x SebastiAn au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,091 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,082 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

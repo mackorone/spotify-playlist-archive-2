@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Laudo
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,693 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,707 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 3 | [Aksie Braai](https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Aksie Braai](https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03) | 3:01 |
 | 4 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 5 | [Wit Limousine](https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Wit Limousine](https://open.spotify.com/album/255Dxh5TNNVZJkOiuggNJX) | 3:03 |
-| 6 | [DOOD](https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [DOOD](https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC) | 3:25 |
+| 6 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
 | 7 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 8 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 9 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
 | 10 | [Ryk Met Tyd](https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Ryk Met Tyd](https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct) | 2:28 |
-| 11 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
+| 11 | [DOOD](https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [DOOD](https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC) | 3:25 |
 | 12 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 | 13 | [Vir die Aardskinders](https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Vir die Aardskinders](https://open.spotify.com/album/3EJrnq41sWpsLUtSOYQUbZ) | 3:43 |
 | 14 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 26 | [Opgef0k](https://open.spotify.com/track/37DcWLild6E1q6RMf7avij) | [TonnelVisie](https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT) | [Opgef0k](https://open.spotify.com/album/1Q7U1erJLEGx1qRFKFkqfZ) | 5:06 |
 | 27 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
 | 28 | [Self Respect](https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ) | [Mercury's in the Microwave](https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h) | [Lazerbeams of Love](https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT) | 3:24 |
-| 29 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
+| 29 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
 | 30 | [ROER](https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8) | [ALTRA\-MAL](https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx) | [ROER](https://open.spotify.com/album/5xk1r1UIiF4WiDc6TuRzTr) | 3:56 |
-| 31 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
-| 32 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 31 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 32 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
 | 33 | [Ghost Girl](https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU) | [Crying in Colour](https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn) | [Ghost Girl](https://open.spotify.com/album/5ZcSNo605tBB2f00QQsK43) | 2:58 |
 | 34 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 35 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 46 | [Ek Wil Jou Sien](https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h) | [SENTIMENT](https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt) | [Ek Wil Jou Sien](https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO) | 3:03 |
 | 47 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
 | 48 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
-| 49 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
-| 50 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
+| 49 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
+| 50 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 
 Snapshot ID: `AAAAAJFnPbkiageW9pAJYXj23G2vLaql`

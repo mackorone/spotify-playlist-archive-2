@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 750312,
+  "num_followers": 750365,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "All We Know (feat. Phoebe Ryan)",
         "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -991,6 +971,26 @@
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "The Ocean (feat. Shy Martin)",
+        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "The Ocean (feat. Shy Martin)",
+      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Lovers On The Dancefloor",
+        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Lovers On The Dancefloor",
+      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Lovers On The Dancefloor",
-        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 153088,
-      "name": "Lovers On The Dancefloor",
-      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Constance Power",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Constance Power",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "The Last Dance, Pt 2",
         "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
       },
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Love Songs (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+        "name": "Caracal (Deluxe)",
+        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 198425,
-      "name": "Love Songs (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
+      "duration_ms": 199245,
+      "name": "Magnets",
+      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Caracal (Deluxe)",
-        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         },
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
         }
       ],
-      "duration_ms": 199245,
-      "name": "Magnets",
-      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 180120,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 151820,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-07-10 04:00:56",

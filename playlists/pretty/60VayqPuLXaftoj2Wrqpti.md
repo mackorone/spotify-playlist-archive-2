@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,616 likes - 68 songs - 4 hr 10 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,618 likes - 68 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 34 | [Give Me More](https://open.spotify.com/track/0YdOXx99AeZY330L2S4rms) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Feel At Home](https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG) | 2:36 |
 | 35 | [My World](https://open.spotify.com/track/7i89LR6mmiB2hPLbw9U0il) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 3:30 |
 | 36 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1p8OXp7kbrcgPQ0h2ccaQS) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 2:48 |
-| 37 | [Can’t Let a Good Thing Go \(feat\. Gareth Donkin, CARRTOONS\)](https://open.spotify.com/track/2oa8sFQ6mwd9hgWQ2Pumgq) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Memory Bomb](https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB) | 4:16 |
+| 37 | [Can’t Let a Good Thing Go \(feat\. Gareth Donkin, CARRTOONS, Luke Titus\)](https://open.spotify.com/track/2oa8sFQ6mwd9hgWQ2Pumgq) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2) | [Memory Bomb](https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB) | 4:16 |
 | 38 | [Feelin’ Wee](https://open.spotify.com/track/6EIVSrZeRMJBAJSO52rYEg) | [Kiko Mizuhara](https://open.spotify.com/artist/7eVTIz5qapLlk7CgcFVRbL) | [Feelin’ Wee](https://open.spotify.com/album/4r5GXKiAKZfNG0gnN13wFT) | 4:09 |
 | 39 | [Never Gonna Be A Boxer \- corto.alto Remix](https://open.spotify.com/track/2ohovsTPwDzIc3l4wRxKm1) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Never Gonna Be A Boxer \(corto.alto remix\)](https://open.spotify.com/album/1B07h3poL9H0oJXULRDR3m) | 4:00 |
 | 40 | [Light the Way](https://open.spotify.com/track/3G1hTUddM2diIyYA0yy9kS) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime](https://open.spotify.com/album/2TSVHmU9pkzCVaJk3GGXGO) | 3:31 |

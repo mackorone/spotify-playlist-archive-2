@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: AKRIILA",
-  "num_followers": 134353,
+  "num_followers": 134368,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "COMPA COLETO (uy_como)",
-        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 200653,
-      "name": "COMPA COLETO (uy_como)",
-      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "PUERTA ABIERTA",
-        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "A La Ni\u00f1a Que Fui",
-      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Latinaje",
         "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Mi Vida Es Cantar",
         "url": "https://open.spotify.com/album/4WNp803MnuN5yhH2NuyA35"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 194106,
       "name": "Suerte (Whenever, Wherever)",
       "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 202817,
-      "name": "Azul (Vers\u00e3o Espanhol)",
-      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 202817,
+      "name": "Azul (Vers\u00e3o Espanhol)",
+      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 255760,
       "name": "Conga",
       "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Easy Love",
         "url": "https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 162802,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Qui\u00e9n Contra M\u00ed (Live From Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Elsa y Elmar (Spotify Sessions)",
         "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
       },
@@ -1603,8 +1619,8 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
       },
       "artists": [
         {
@@ -1612,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "no llames lo m\u00edo nuestro",
         "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
@@ -1719,18 +1703,34 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "la nena de un gang$ter",
-        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 206256,
-      "name": "la nena de un gang$ter",
-      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     }
   ],
   "unique_name": "Women of Latin",

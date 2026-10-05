@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11644,
+  "num_followers": 11641,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Hit 'Em Up",
-        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 250785,
-      "name": "Hit 'Em Up",
-      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
         "url": "https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Hit 'Em Up",
+        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "duration_ms": 250785,
+      "name": "Hit 'Em Up",
+      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "ROCKST4R DELUXE",
-        "url": "https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 160990,
-      "name": "Lovestory",
-      "url": "https://open.spotify.com/track/138nZjrDtHcnJmGjpKgxUV"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "R\u00f3\u017cowe Diamenty",
         "url": "https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "ROCKST4R DELUXE",
+        "url": "https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 160990,
+      "name": "Lovestory",
+      "url": "https://open.spotify.com/track/138nZjrDtHcnJmGjpKgxUV"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
         "url": "https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Wszystkim Czym Chcesz",
-        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
-      },
-      "artists": [
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        }
-      ],
-      "duration_ms": 74629,
-      "name": "Wszystkim Czym Chcesz",
-      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Quattro",
         "url": "https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 177933,
       "name": "Quattro",
       "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Wszystkim Czym Chcesz",
+        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "duration_ms": 74629,
+      "name": "Wszystkim Czym Chcesz",
+      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "Kwiatek HAZE",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 200354,
+      "name": "DAW",
+      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Tenten",
         "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        },
-        {
-          "name": "Kwiatek HAZE",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 200354,
-      "name": "DAW",
-      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
     },
     {
       "added_at": "2026-04-09 22:12:46",

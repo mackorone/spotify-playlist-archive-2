@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,270 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,279 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 36 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 37 | [You Were There](https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [You Were There](https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh) | 4:15 |
 | 38 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
-| 39 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
-| 40 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
+| 39 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
+| 40 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
 | 41 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 42 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
 | 43 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 48 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 49 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
 | 50 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
-| 51 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
-| 52 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
+| 51 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
+| 52 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 53 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
 | 54 | [Autumn Fires](https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8) | [RIVER RIVER](https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1) | [Autumn Fires](https://open.spotify.com/album/2sYPnUUk5RFoT53FM2NW3r) | 3:00 |
 | 55 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |

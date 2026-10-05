@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,831 likes - 81 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,925 likes - 81 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

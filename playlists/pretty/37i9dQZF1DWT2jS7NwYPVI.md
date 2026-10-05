@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: mercury
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,170 likes - 154 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,222 likes - 154 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

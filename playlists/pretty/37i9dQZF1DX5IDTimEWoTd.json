@@ -1,6 +1,6 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 3971869,
+  "num_followers": 3972020,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
-      "added_at": "2025-02-07 05:00:27",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "a thousand years",
@@ -187,6 +171,22 @@
       "duration_ms": 285120,
       "name": "a thousand years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2025-02-07 05:00:27",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207139,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207139,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
-      "added_at": "2026-02-27 05:00:26",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 211063,
-      "name": "God Was Showing Off",
-      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "Bluebird Days",
@@ -599,6 +583,22 @@
       "duration_ms": 175226,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
+    },
+    {
+      "added_at": "2026-02-27 05:00:26",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 211063,
+      "name": "God Was Showing Off",
+      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
-      "added_at": "2025-10-24 04:22:54",
+      "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 172306,
-      "name": "LOVE SONG",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+      "duration_ms": 213386,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
-      "added_at": "2024-08-12 15:54:12",
+      "added_at": "2025-10-24 04:22:54",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
-      "added_at": "2025-10-24 04:22:54",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Moon Music",
@@ -1051,6 +1035,22 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2025-10-24 04:22:54",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Tenerife Sea",
-      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Atlas: I",
         "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 180086,
       "name": "You Are Enough",
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 158446,
       "name": "sun to me",
       "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
+      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 257699,
       "name": "LEVII'S JEANS",
       "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
-      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
-      "added_at": "2026-06-26 04:00:29",
-      "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "I Was / I Am",
@@ -1463,6 +1447,22 @@
       "duration_ms": 188046,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf"
+    },
+    {
+      "added_at": "2026-06-26 04:00:29",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     },
     {
       "added_at": "2025-06-30 03:19:46",

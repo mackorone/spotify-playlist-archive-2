@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Sunriser (All-Nighter)",
+        "url": "https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "That's All I Know",
+      "url": "https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT"
+    },
+    {
+      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/3U7EtcuzL2mqr61AgQqsuy"
       },

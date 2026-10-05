@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -8458,7 +8458,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8502,7 +8502,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -15906,7 +15906,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 184173,
       "name": "Marlboro Rojo",
       "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
@@ -18112,7 +18112,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 189821,
       "name": "No Contesta",
       "url": "https://open.spotify.com/track/2QB2S8wIrOwI7PoaNkS3dS"
@@ -23220,7 +23220,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 183934,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
@@ -23820,6 +23820,28 @@
       "duration_ms": 223521,
       "name": "Salelengna Dingolukku",
       "url": "https://open.spotify.com/track/0mL4yEujCT4momg1Khgcre"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/6R0fIFcUqDgQMyYdRWZJje"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267746,
+      "name": "Salgo Pa' la Calle",
+      "url": "https://open.spotify.com/track/4WSCQzsVo8ucr3FwGmUkHw"
     },
     {
       "album": {
@@ -28290,7 +28312,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
@@ -29246,7 +29268,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"
@@ -29490,7 +29512,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 158074,
       "name": "Ya Borracho",
       "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"

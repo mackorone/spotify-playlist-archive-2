@@ -4,7 +4,7 @@
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 25 min
+109 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,12 +65,13 @@
 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 | 2022-06-01 | 2025-04-22 |
 | [Juan Martha](https://open.spotify.com/track/6XxETo2rCSl3A9I6zXjR0f) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Los Mejores 15 Exitos](https://open.spotify.com/album/2nfLRPRrEuNLHbiOtxgdu9) | 3:46 | 2022-06-01 | 2023-02-16 |
 | [La Caspa Del Diablo](https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Caspa Del Diablo\-Corridos A Toda Ley](https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD) | 2:36 | 2022-06-01 |  |
+| [La Libertad No Tiene Precio](https://open.spotify.com/track/7rjRmqHH2Uo0qs8L29klHt) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Libertad No Tiene Precio](https://open.spotify.com/album/4FAgG3Vce8elyeg9WoJn4v) | 2:59 | 2026-10-05 |  |
 | [La Mujer Perfecta](https://open.spotify.com/track/5hy2wuuFVF0f14MzZBjLfx) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:28 | 2024-02-03 | 2024-02-20 |
 | [La Noche Perfecta](https://open.spotify.com/track/7cQu1Br0VrCs193cn3eyTO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:07 | 2022-06-01 | 2025-03-25 |
 | [La Noche Perfecta](https://open.spotify.com/track/2OrvSQTMHDlBx9t9WGVck0) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:09 | 2025-03-25 |  |
 | [Ladrona](https://open.spotify.com/track/5owfn8hOqJpbMkQxTJTYWw) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:54 | 2022-06-01 |  |
 | [Las Dos Hectareas](https://open.spotify.com/track/1UIdAIVIQMJGmfobHPxnkg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Entre la Mafia](https://open.spotify.com/album/2QjXU5AHNFqdmJoPiF9YkR) | 2:24 | 2023-07-06 | 2023-09-26 |
-| [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 | 2022-06-01 |  |
+| [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 | 2022-06-01 | 2026-10-05 |
 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 | 2022-06-01 |  |
 | [Loco \(Version Mariachi\)](https://open.spotify.com/track/1n2PoW1W7t6u2OtHPfYHYq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/0tG5uSGSrroWvjjfHljhas) | 3:01 | 2023-03-29 | 2023-04-29 |
 | [Loco \- Version Mariachi](https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6) | 3:01 | 2022-06-01 | 2023-03-30 |

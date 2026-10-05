@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAD68oGgiUUNaReNMEXcMbp8",
+  "snapshot_id": "asBFgAAAAABfyKaPF6iN1twiUjYIR2CA",
   "tracks": [
     {
       "added_at": null,
@@ -219,34 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Pavane pour une infante d\u00e9funte, M. 19",
-      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plus d'\u00e9motions",
         "url": "https://open.spotify.com/album/4DtoVqfGAjvNcRIiwQzLbU"
       },
@@ -271,6 +243,34 @@
       "duration_ms": 161080,
       "name": "Hurwitz / Arr. Bouchard: La la land: Mia and Sebastian's Theme",
       "url": "https://open.spotify.com/track/5qY0DKB7qYMHAw5qSFAUs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
     },
     {
       "added_at": null,
@@ -436,16 +436,12 @@
       },
       "artists": [
         {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+          "name": "Franz Leh\u00e1r",
+          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         },
         {
           "name": "Orchestre de chambre de Paris",
@@ -456,9 +452,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 180706,
-      "name": "Un homme et une femme",
-      "url": "https://open.spotify.com/track/1ikhKDROkfu0Rpvlt6snJE"
+      "duration_ms": 152600,
+      "name": "Heure exquise (From La Veuve joyeuse)",
+      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
     },
     {
       "added_at": null,
@@ -552,12 +548,16 @@
       },
       "artists": [
         {
-          "name": "Franz Leh\u00e1r",
-          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         },
         {
           "name": "Orchestre de chambre de Paris",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Heure exquise (From La Veuve joyeuse)",
-      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+      "duration_ms": 180706,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/1ikhKDROkfu0Rpvlt6snJE"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relaxing Classical for Studying",
         "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/4RPoCHgFfVjgITQdxDp3nQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -1307,30 +1307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "La Boh\u00e8me",
-      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: String Quintet, Op. 163 & Lieder",
         "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 913335,
       "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
       "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "La Boh\u00e8me",
+      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

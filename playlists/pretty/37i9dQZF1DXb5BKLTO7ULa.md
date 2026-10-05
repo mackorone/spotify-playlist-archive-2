@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Froukje, Suzan & Freek, Frsh, Justen de Wildt & Donnie, Franky Rizardo en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,398 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,394 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

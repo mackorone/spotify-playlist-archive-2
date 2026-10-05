@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: TEEKS",
-  "num_followers": 58076,
+  "num_followers": 58084,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Oh Honey",
         "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "The Celestial Suite",
+        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+      "duration_ms": 187295,
+      "name": "Under The Magnolia Tree",
+      "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -471,22 +487,6 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "The Celestial Suite",
-        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 187295,
-      "name": "Under The Magnolia Tree",
-      "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH"
     },
     {
       "added_at": "2026-06-11 14:00:34",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Come Around and Love Me",
-      "url": "https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 423028,
       "name": "Remember Me - Original Mix",
       "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Come Around and Love Me",
+      "url": "https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Change & Remain",
         "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
       },
@@ -775,6 +759,38 @@
       "duration_ms": 175813,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
       "artists": [
         {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -839,22 +855,6 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -887,6 +887,22 @@
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Elegantly Wasted [Feat. Leon Bridges]",
         "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -1023,6 +1007,38 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
-      },
-      "artists": [
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     },
     {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "I Only Look to You",
-      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Speakerboxxx/The Love Below",
@@ -1135,6 +1119,22 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "I Only Look to You",
+      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
     },
     {
       "added_at": "2026-01-23 01:47:43",

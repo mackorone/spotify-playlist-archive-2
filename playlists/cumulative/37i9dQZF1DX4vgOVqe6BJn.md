@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-357 songs - 19 hr 36 min
+358 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 | 2026-09-10 |  |
 | [Chat dans la nuit](https://open.spotify.com/track/4uDKCKUgF4H4yD3qRH8qOy) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [DOPALOVA](https://open.spotify.com/album/1ljWrYpF8cvC6UeWyYszn9) | 3:10 | 2026-09-10 |  |
 | [Cherophobe Rock](https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [You're Gonna Need A Little Music](https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO) | 2:52 | 2026-09-10 |  |
+| [Chirotear](https://open.spotify.com/track/4TQ4Q6zYB3bNvujQUApEYd) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Chirotear](https://open.spotify.com/album/1VBlETVglxgCmCd9QsMBYL) | 2:37 | 2026-09-25 |  |
 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 | 2023-01-25 | 2024-04-19 |
 | [Choose A Life](https://open.spotify.com/track/1NARnOS0c6P41vyMD0xEyV) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/2Qe5Tps4jsUs0WWDzWa2ZX) | 3:26 | 2023-01-25 | 2023-12-11 |
 | [Choose A Life](https://open.spotify.com/track/206aJvufLWSF3RRJJonlFl) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/17lK7ASdyllINtO0BczUs2) | 3:26 | 2022-09-30 | 2025-09-16 |
@@ -211,7 +212,7 @@
 | [Monster](https://open.spotify.com/track/0ArK2SbGCLuuWsSdF2YFGS) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Future Sounds of Argentina](https://open.spotify.com/album/4zinhFZq5IL2vf701O0kv7) | 3:00 | 2026-09-10 | 2026-09-23 |
 | [Moon And Back](https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [Moon And Back](https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx) | 3:24 | 2026-09-10 |  |
 | [Moon And Back](https://open.spotify.com/track/7g2YduzYoIzNW4U4Qgaum0) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [BBQ Summer Vibes](https://open.spotify.com/album/30RsC6ujRsMduoPaBqGmtj) | 3:24 | 2026-09-10 | 2026-10-02 |
-| [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2026-09-10 |  |
+| [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2026-09-10 | 2026-10-05 |
 | [Motivation](https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu) | [Rylo & Le Prof](https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4) | [Motivation](https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s) | 2:42 | 2026-09-10 |  |
 | [MOTO](https://open.spotify.com/track/44XhnPbTET1lEvQK8pdgoT) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [MOTO](https://open.spotify.com/album/1DMfotgXi2NtVg62NLgfcE) | 2:59 | 2025-09-15 | 2026-09-11 |
 | [Mountain Top](https://open.spotify.com/track/0AqWEuMIS9ZF26VwlfXW0j) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 4:03 | 2025-09-15 | 2026-09-11 |

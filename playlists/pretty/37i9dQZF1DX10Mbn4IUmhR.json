@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "someone new",
-        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "someone new",
-      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "someone new",
+        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "someone new",
+      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "Fuji Xtra",
-        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Life Of The Faaji",
-      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "Only Like You Do",
         "url": "https://open.spotify.com/album/3pUou1oes1CEVrST0w4aMr"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 190733,
       "name": "Only Like You Do",
       "url": "https://open.spotify.com/track/0ENqC0poWs0qhVHKOFI3gy"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "Love Is for Suckers",
-        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
-      },
-      "artists": [
-        {
-          "name": "RAYNE",
-          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Love Is for Suckers",
-      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 254115,
       "name": "If U Love Me Now",
       "url": "https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "Love Is for Suckers",
+        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Love Is for Suckers",
+      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 189898,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-09-11 07:05:13",

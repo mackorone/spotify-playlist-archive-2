@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,322 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,330 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 30 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 31 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
 | 32 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
-| 33 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
-| 34 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
+| 33 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
+| 34 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 35 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 | 36 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 |
 | 37 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
-| 38 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
-| 39 | [SUNDAY BRUNCH](https://open.spotify.com/track/4wC9F4ykpyYjOLJpVhqfvo) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [KANA](https://open.spotify.com/album/5KnNJ4FRoVFyGvlMZDciwE) | 3:55 |
+| 38 | [SUNDAY BRUNCH](https://open.spotify.com/track/4wC9F4ykpyYjOLJpVhqfvo) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [KANA](https://open.spotify.com/album/5KnNJ4FRoVFyGvlMZDciwE) | 3:55 |
+| 39 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 | 40 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |
 | 41 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
 | 42 | [電話しても \- 2020 Remaster](https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR) | [Kazuhito Murata](https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd) | [一本の音楽 〜MOON YEARS〜](https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl) | 3:49 |

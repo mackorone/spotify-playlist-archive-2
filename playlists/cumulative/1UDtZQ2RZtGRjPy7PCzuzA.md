@@ -4,7 +4,7 @@
 
 > 
 
-2,153 songs - 5 day 4 hr 23 min
+2,155 songs - 5 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Blur](https://open.spotify.com/track/0Y7exe8Yu2nbuIvGDRGXcz) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:08 | 2026-10-02 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2024-12-30 |  |
 | [Body Language \- Intro](https://open.spotify.com/track/2Tl0t18jgqJo0S7Fs2iy50) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:16 | 2026-09-13 |  |
+| [BOOGIE](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 3:13 | 2026-10-05 |  |
 | [Born To Die](https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:45 | 2023-07-15 |  |
 | [Born to Make You Happy](https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:03 | 2025-07-31 |  |
 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 | 2025-08-03 | 2026-06-28 |
@@ -771,6 +772,7 @@
 | [Here On Who \- Original Broadway Cast Recording](https://open.spotify.com/track/4hG6UXPhxt4HXPOILQTyj5) | [Stuart Zagnit](https://open.spotify.com/artist/1dRUskyLp2BEX5npCZDdj4) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 6:00 | 2025-11-05 |  |
 | [Hey Baby](https://open.spotify.com/track/0R2wFVBSGE7elPxW582IWy) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 2:23 | 2026-09-11 |  |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2024-10-30 | 2026-06-28 |
+| [Hey Lover](https://open.spotify.com/track/4q283tKkBnz6OKcqZNVlmI) | [The Daughters Of Eve](https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On) | [Hey Lover](https://open.spotify.com/album/3GmTWPaA8hw4nWlekViAQk) | 2:24 | 2026-10-05 |  |
 | [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 | 2024-11-23 | 2026-05-29 |
 | [Hey Stephen](https://open.spotify.com/track/3CI1f4yLwdHzcUnH7o0Xyh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 4:14 | 2025-05-31 |  |
 | [Hey, Little Songbird](https://open.spotify.com/track/3sinFkDuVOd2oJ8XKCyKuf) | [Patrick Page](https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 3:32 | 2025-07-27 |  |
@@ -2145,7 +2147,7 @@
 | [You'll Be Back](https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:28 | 2024-07-13 |  |
 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 | 2026-09-13 |  |
 | [You're Not Sorry](https://open.spotify.com/track/3JhvYnOfKLJuWC7jEU0GmJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 4:21 | 2025-05-31 |  |
-| [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-06-22 |  |
+| [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-06-22 | 2026-10-05 |
 | [you're so cool](https://open.spotify.com/track/5XLgE4yoU9MyR5vkjNxpdF) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:50 | 2025-01-08 | 2026-06-01 |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2026-01-30 |  |
 | [You're Stuck](https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 4:04 | 2026-09-21 |  |

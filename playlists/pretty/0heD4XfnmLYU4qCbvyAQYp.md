@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 106 songs - 6 hr 52 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,758 likes - 108 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 104 | [Gold Apple of the Sun \(2026\)](https://open.spotify.com/track/7oHJwWh91Nsc85BQPZG6n1) | [Charlie Crash Msc](https://open.spotify.com/artist/0Gz327pnjWwQUuzWhr7wF9) | [Gold Apple of the Sun \(2026\)](https://open.spotify.com/album/0dKK66hFAJp1JHejoIqkLT) | 3:44 |
 | 105 | [Du bist ein Held](https://open.spotify.com/track/2V43jLMAzuJhqhUrkp8YqN) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d), [Carsten Hölscher](https://open.spotify.com/artist/1Ezh4xpZQAq2YYAXBN52et), [Robbert Geurts](https://open.spotify.com/artist/39RmmGCvzZwUGivvJdMiN7) | [Du bist ein Held](https://open.spotify.com/album/6AodESxeYMIKBbBFlxQhsi) | 4:02 |
 | 106 | [Same Same](https://open.spotify.com/track/2zzepEPukOeBPCTkxIC7Kk) | [Shugi](https://open.spotify.com/artist/3tkEaWGZQKxZpIQTXJwjXl) | [Same Same](https://open.spotify.com/album/40liCRJq38XDNqZbkpbiWA) | 4:38 |
+| 107 | [They Plunder \- Young Blood Brother's Shanty Version](https://open.spotify.com/track/3i2eSkqPA4xITfGtkfW8Df) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [They Plunder \(Young Blood Brother's Shanty Version\)](https://open.spotify.com/album/4VE53IFJocmwv5whQQFEZI) | 2:05 |
+| 108 | [TONIGHT](https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt) | [YESOD MALKUTH](https://open.spotify.com/artist/5L0hR8284jW5qANEy47NNE) | [TONIGHT](https://open.spotify.com/album/0NclpJClWLbcWCd9viMFdb) | 2:58 |
 
-Snapshot ID: `AAAPRGR2toVeJ0+bvTYIt6v2axLRr80F`
+Snapshot ID: `AAAPRkAC71i35GaGrFmN1VDle5APhlSx`

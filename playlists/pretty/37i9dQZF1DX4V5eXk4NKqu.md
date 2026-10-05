@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,417 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,415 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 32 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 33 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 34 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
-| 35 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
-| 36 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
-| 37 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
+| 35 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
+| 36 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
+| 37 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 38 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 |
 | 39 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
 | 40 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 50 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
 | 51 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 52 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
-| 53 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 54 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
+| 53 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
+| 54 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 55 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
 | 56 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
 | 57 | [ya no me llames](https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:21 |

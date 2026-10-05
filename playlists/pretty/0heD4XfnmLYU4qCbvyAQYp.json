@@ -1,12 +1,12 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4756,
+  "num_followers": 4758,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPRGR2toVeJ0+bvTYIt6v2axLRr80F",
+  "snapshot_id": "AAAPRkAC71i35GaGrFmN1VDle5APhlSx",
   "tracks": [
     {
       "added_at": "2026-10-03 18:54:49",
@@ -1755,6 +1755,38 @@
       "duration_ms": 278207,
       "name": "Same Same",
       "url": "https://open.spotify.com/track/2zzepEPukOeBPCTkxIC7Kk"
+    },
+    {
+      "added_at": "2026-10-04 21:15:43",
+      "album": {
+        "name": "They Plunder (Young Blood Brother's Shanty Version)",
+        "url": "https://open.spotify.com/album/4VE53IFJocmwv5whQQFEZI"
+      },
+      "artists": [
+        {
+          "name": "Pair O'Dee's",
+          "url": "https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG"
+        }
+      ],
+      "duration_ms": 125159,
+      "name": "They Plunder - Young Blood Brother's Shanty Version",
+      "url": "https://open.spotify.com/track/3i2eSkqPA4xITfGtkfW8Df"
+    },
+    {
+      "added_at": "2026-10-04 21:22:02",
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/0NclpJClWLbcWCd9viMFdb"
+      },
+      "artists": [
+        {
+          "name": "YESOD MALKUTH",
+          "url": "https://open.spotify.com/artist/5L0hR8284jW5qANEy47NNE"
+        }
+      ],
+      "duration_ms": 178799,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt"
     }
   ],
   "unique_name": "Indie Rock",

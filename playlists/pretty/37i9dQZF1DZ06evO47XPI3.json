@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12979,
+  "num_followers": 12982,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAlwwDaN+wG6+12lCZN9xLC",
+  "snapshot_id": "asBFgAAAAABypWOH1eSjMQ5x1AVNuAaF",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "Walk Right Up to the Sun",
+      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 166693,
       "name": "Stop and Look (And You Have Found Love)",
       "url": "https://open.spotify.com/track/62O22vUP112FgIibBffSNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "Walk Right Up to the Sun",
-      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Delfonics",
-        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
-      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
+      "duration_ms": 241348,
+      "name": "Lying To Myself",
+      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+        "name": "Best Of Delfonics",
+        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 241348,
-      "name": "Lying To Myself",
-      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61"
+      "duration_ms": 204000,
+      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
+      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 156506,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of The Delfonics",
         "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 300710,
       "name": "For the Love I Gave to You",
       "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 158400,
       "name": "Love\u2019s Melody",
       "url": "https://open.spotify.com/track/3T4GjP2tnpfd5dMF59tuQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Face It Girl, It's Over - Remastered",
-      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delfonics Today All Platinium",
-        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Strangers Again",
-      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delfonics Today All Platinium",
+        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
     },
     {
       "added_at": null,

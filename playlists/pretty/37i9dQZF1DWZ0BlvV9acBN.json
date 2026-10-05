@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148798,
+  "num_followers": 148800,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 244566,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 244566,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 240704,
       "name": "For\u00e7a",
       "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -507,18 +507,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Me Fez Vivo (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
       },
       "artists": [
         {
-          "name": "Stone Band",
-          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 241088,
+      "name": "Me Fez Vivo (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -543,22 +547,18 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Me Fez Vivo (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Stone Band",
+          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
         }
       ],
-      "duration_ms": 241088,
-      "name": "Me Fez Vivo (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2026-08-03 21:13:53",

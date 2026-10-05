@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 307665,
+  "num_followers": 307662,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "ART (feat. Latto)",
         "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
       },
@@ -1051,6 +1035,38 @@
       "duration_ms": 108800,
       "name": "ART (feat. Latto)",
       "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "CREED: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1091,22 +1107,6 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "CREED: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 151040,
-      "name": "Panini - DaBaby Remix",
-      "url": "https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "Alive (with Offset & 2 Chainz)",
         "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 235897,
       "name": "Alive (with Offset & 2 Chainz)",
       "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 151040,
+      "name": "Panini - DaBaby Remix",
+      "url": "https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Quaresma",
-        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 74500,
-      "name": "Quaresma",
-      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 249040,
       "name": "American Dream (feat. J. Cole, Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2j8MsmmNqmc6UBEA54KOlY"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "Quaresma",
+        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 74500,
+      "name": "Quaresma",
+      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1943,34 +1943,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "DID IT AGAIN (feat. Fred again..) [cu.rve Remix]",
-        "url": "https://open.spotify.com/album/6NNJKbawvOg7MABiq0ZwRL"
-      },
-      "artists": [
-        {
-          "name": "Travy",
-          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
-        },
-        {
-          "name": "Elzzz",
-          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
-        },
-        {
-          "name": "cu.rve",
-          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "DID IT AGAIN (feat. Fred again..) - cu.rve Remix",
-      "url": "https://open.spotify.com/track/580gr4q6E3ih5xXVF2GgGZ"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -1995,6 +1967,34 @@
       "duration_ms": 217373,
       "name": "The Half",
       "url": "https://open.spotify.com/track/69bDRy5MeWQl1lNeEJQIBE"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "DID IT AGAIN (feat. Fred again..) [cu.rve Remix]",
+        "url": "https://open.spotify.com/album/6NNJKbawvOg7MABiq0ZwRL"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "DID IT AGAIN (feat. Fred again..) - cu.rve Remix",
+      "url": "https://open.spotify.com/track/580gr4q6E3ih5xXVF2GgGZ"
     },
     {
       "added_at": "2026-08-07 14:26:24",

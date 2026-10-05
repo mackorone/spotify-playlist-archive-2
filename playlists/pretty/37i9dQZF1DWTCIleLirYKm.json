@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 228262,
+  "num_followers": 228314,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Good Godly Woman",
         "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 147598,
       "name": "Good Godly Woman",
       "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -675,22 +675,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -711,34 +707,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "The Road Goes On Forever",
-        "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
-      },
-      "artists": [
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
         {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 281400,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -755,6 +739,22 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "The Road Goes On Forever",
+        "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "I Been to Georgia on a Fast Train",
+      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "They Call Us The Lucky Ones",
         "url": "https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 200446,
       "name": "My Last Drink Of Wine",
       "url": "https://open.spotify.com/track/3z5cIlHXa47eaa905sxo7Q"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "I Been to Georgia on a Fast Train",
-      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
-        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 121400,
-      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
-      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Little Victories",
         "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 214253,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
+        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
+      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
     },
     {
       "added_at": "2026-08-21 04:01:33",

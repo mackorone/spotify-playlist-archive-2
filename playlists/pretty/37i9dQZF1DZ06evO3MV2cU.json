@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141608,
+  "num_followers": 141613,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAC53MZEWxe36lsYmofAYc0",
+  "snapshot_id": "asBFgAAAAADVNZatXVXiiQdnRpcIF9wm",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 274814,
       "name": "Lord, I Need You - Live",
       "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 221186,
       "name": "The Cross",
       "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Awakening (Live)",
         "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 328160,
       "name": "Our God - Live",
       "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
     },
     {
       "added_at": null,
@@ -619,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Songs Of Worship",
+        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
+      },
+      "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 450461,
+      "name": "This Is Our God / Obsession - Medley",
+      "url": "https://open.spotify.com/track/21VV721AM5T1qoYbZyJf3i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -647,26 +671,6 @@
       "duration_ms": 285115,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Songs Of Worship",
-        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
-      },
-      "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "We Fall Down / Agnus Dei - Medley",
-      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
     },
     {
       "added_at": null,

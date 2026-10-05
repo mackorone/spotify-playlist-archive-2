@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 338766,
+  "num_followers": 338786,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADEx8PqKHjCtiexBkYiEQHM",
+  "snapshot_id": "asBFgAAAAACE945Eu7e8euHS8tIMBGA/",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Outlaw Cherie Lee & Other Western Tales",
         "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kehlani (Uncut Edition)",
         "url": "https://open.spotify.com/album/5IAfvzdgSu25KAnerb6YsJ"
       },
@@ -195,26 +195,6 @@
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/1WJjatHZ4HRU7U1MUUsJmF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
     },
     {
       "added_at": null,
@@ -255,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Ring (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIRLS (feat. Kehlani) [Remix]",
         "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 152979,
       "name": "GIRLS (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": null,

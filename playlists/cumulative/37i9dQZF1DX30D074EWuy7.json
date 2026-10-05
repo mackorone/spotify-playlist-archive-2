@@ -945,6 +945,32 @@
     },
     {
       "album": {
+        "name": "Audio File",
+        "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
+      },
+      "artists": [
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        },
+        {
+          "name": "Alberto Manco",
+          "url": "https://open.spotify.com/artist/5j7r9SKaMVTDHKiTajIDoN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149397,
+      "name": "Audio File",
+      "url": "https://open.spotify.com/track/3bjAOHIWIYliHwOmN2dbY5"
+    },
+    {
+      "album": {
         "name": "Recollections Of The Big Band Era",
         "url": "https://open.spotify.com/album/6JzIQniQzYrbmuVJZCUG64"
       },
@@ -4452,7 +4478,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"

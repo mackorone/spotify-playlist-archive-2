@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,836 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,875 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 7 | [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 |
 | 8 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 9 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
-| 10 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
-| 11 | [Tacata \- Remix](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 10 | [Tacata \- Remix](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 11 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
 | 12 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 13 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 14 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |

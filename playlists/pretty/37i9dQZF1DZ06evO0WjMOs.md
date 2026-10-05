@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,309 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,344 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 43 | [House of the Rising Sun](https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [House of the Rising Sun](https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1) | 3:08 |
 | 44 | [Two elevens](https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 |
 
-Snapshot ID: `ar70AAAAAADfUErreYy7n+o94bzMee3i`
+Snapshot ID: `asBFgAAAAADRMVbmdo2zyYZqMRoFpN0W`

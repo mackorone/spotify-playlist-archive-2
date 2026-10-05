@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 129 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 130 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,6 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
 | 127 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
+| 129 | [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 |
+| 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `Acd/OgAAAACUYG8QXfaI0ckslh0ESzvd`
+Snapshot ID: `AceE2gAAAACuvnwIBqR1H/+/V+xwghMZ`

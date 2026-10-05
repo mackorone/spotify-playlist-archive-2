@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 204046,
       "name": "Baaghi",
       "url": "https://open.spotify.com/track/6cRSpS7085ye7N83OBQ6x7"
@@ -2447,6 +2447,32 @@
     },
     {
       "album": {
+        "name": "Kaun Marvana",
+        "url": "https://open.spotify.com/album/7JfXrTOs73RMeR0FdmBwI0"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Priyam",
+          "url": "https://open.spotify.com/artist/6zHVlpak6U0fqQ5FjAeZN2"
+        },
+        {
+          "name": "Amar Karnawal",
+          "url": "https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Kaun Marvana",
+      "url": "https://open.spotify.com/track/4aFmzuZXXtCbwW7SfWXFFZ"
+    },
+    {
+      "album": {
         "name": "Khappar Bharni",
         "url": "https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl"
       },
@@ -3377,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Pump Up",
+        "url": "https://open.spotify.com/album/6P5bsCxA5MPDzMNY88kpoR"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143168,
+      "name": "Pump Up",
+      "url": "https://open.spotify.com/track/2ILq3zBBPP2qQThFNb7rHK"
+    },
+    {
+      "album": {
         "name": "Ram Ram Ji",
         "url": "https://open.spotify.com/album/5xKv5CE1f2cbmBk1URdlYr"
       },
@@ -3948,7 +3992,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 169285,
       "name": "Tha Tha",
       "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"

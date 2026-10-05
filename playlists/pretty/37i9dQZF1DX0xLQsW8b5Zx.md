@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,359 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,382 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 3 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
 | 4 | [Umbrella](https://open.spotify.com/track/7jitSubqkCwYHDlKX5xHn0) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/78rZdymvhwKEaFdavjUnca) | 3:07 |
 | 5 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:55 |
-| 6 | [Midnight Dynamos](https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [Midnight Dynamos](https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy) | 3:06 |
+| 6 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
 | 7 | [Funnel of Love](https://open.spotify.com/track/4hoF5V2AQPpzsXR9kqJ065) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Deluxe: Classics](https://open.spotify.com/album/5lKeIecT4StO6RwzBCGqgP) | 2:08 |
-| 8 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
+| 8 | [Midnight Dynamos](https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [Midnight Dynamos](https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy) | 3:06 |
 | 9 | [If Love Don't Work On You](https://open.spotify.com/track/35JhHtM0bCboIkWHQnBsga) | [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [Candy](https://open.spotify.com/album/5IyCgTYgXhCzNTfN3YMKTM) | 2:08 |
 | 10 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 53 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
 | 54 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 55 | [Graceland](https://open.spotify.com/track/6uvs2pw75LSJjH5tCvpyGR) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 3:25 |
-| 56 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
-| 57 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
+| 56 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
+| 57 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
 | 58 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
 | 59 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
 | 60 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 |

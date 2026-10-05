@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "p\u00e5 en m\u00e5de er det rart",
+        "url": "https://open.spotify.com/album/7EdU9BjQTvrm80SumtTPFK"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163872,
+      "name": "hvad hvis du d\u00f8r og jeg ik engang ved det",
+      "url": "https://open.spotify.com/track/3wFKS6i6JxjoYt3SxDaayC"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
@@ -8432,7 +8450,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 171200,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Westcross in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,524 likes - 65 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,523 likes - 65 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

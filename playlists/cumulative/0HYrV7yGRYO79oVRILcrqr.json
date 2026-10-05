@@ -11259,6 +11259,24 @@
     },
     {
       "album": {
+        "name": "Somewhere I Belong",
+        "url": "https://open.spotify.com/album/4zwc43bc9GQEBbElu8qgFg"
+      },
+      "artists": [
+        {
+          "name": "Autogenic",
+          "url": "https://open.spotify.com/artist/6d5cEuHc27DTtT4IkY6TJg"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/7qhubAcJBQyuVwCfvX0Lfz"
+    },
+    {
+      "album": {
         "name": "Sommarn i mitt blod",
         "url": "https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2"
       },

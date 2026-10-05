@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 133262,
+  "num_followers": 133306,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Cinema Paradiso [Love Theme]",
-      "url": "https://open.spotify.com/track/5lsR6wuL7T7vR5IOZwPaEc"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Cinema Paradiso [Love Theme]",
+      "url": "https://open.spotify.com/track/5lsR6wuL7T7vR5IOZwPaEc"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Sound Of Johnny Smith",
-        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Misty - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Angular Blues",
         "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 315493,
       "name": "H\u00fcttengriffe",
       "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "The Sound Of Johnny Smith",
+        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Misty - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Intermodulation",
         "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Kreisberg",
-          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Canto De Ossanha",
-      "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Green Street (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+        "name": "One",
+        "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Jonathan Kreisberg",
+          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
         }
       ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+      "duration_ms": 311000,
+      "name": "Canto De Ossanha",
+      "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Imaginary Day",
         "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2025-09-10 12:20:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 
 > This is Cleo Sol\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,069 likes - 38 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,099 likes - 38 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 16 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 17 | [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 |
 | 18 | [Don't Let It Go to Your Head](https://open.spotify.com/track/6cyOEQBfXRO7RofaFpzlT4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:19 |
-| 19 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 |
-| 20 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 19 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 20 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 |
 | 21 | [Force of Love](https://open.spotify.com/track/0eTuYIcKA7pqvTCkEeOxaK) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:01 |
 | 22 | [In Your Own Home](https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:08 |
 | 23 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 28 | [23](https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:06 |
 | 29 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 |
 | 30 | [Gold](https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:39 |
-| 31 | [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 |
-| 32 | [Rose in the Dark](https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:46 |
-| 33 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
-| 34 | [Miss Romantic](https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:21 |
+| 31 | [Rose in the Dark](https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:46 |
+| 32 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
+| 33 | [Miss Romantic](https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:21 |
+| 34 | [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 |
 | 35 | [Still Cold](https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Winter Songs](https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq) | 4:19 |
 | 36 | [Try and You Try](https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Try and You Try](https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY) | 4:58 |
 | 37 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 38 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 
-Snapshot ID: `ar70AAAAAAAyY4mPubevCLfSA495che0`
+Snapshot ID: `asBFgAAAAABHjeWnus7R1PpeICuQM6/f`

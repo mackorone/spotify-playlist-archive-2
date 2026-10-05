@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,562 likes - 92 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,620 likes - 92 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

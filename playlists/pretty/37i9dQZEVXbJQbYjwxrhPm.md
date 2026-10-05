@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,946 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,949 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [На пожар](https://open.spotify.com/track/0kRWgpSYzfouXapQfum4jf) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [KSIOR](https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6) | [На пожар](https://open.spotify.com/album/39eWes8OoQRLSYhDp79DdC) | 3:14 |
 | 2 | [БОМ\-БОК](https://open.spotify.com/track/5igEXmQo4UruzPSXTAb1rn) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [БОМ\-БОК](https://open.spotify.com/album/75ALv1pn6VCh7KrmkO2PNg) | 4:05 |
-| 3 | [Забранените игри](https://open.spotify.com/track/23sidjYjCS6C2DNasaTBYv) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Забранените игри](https://open.spotify.com/album/02SmLRl8xoFXYeDKf7fyeC) | 2:59 |
+| 3 | [Забранените игри](https://open.spotify.com/track/4kOpIlZMRSe7kmzbVh54Wo) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Забранените игри](https://open.spotify.com/album/7oum5s0PmGzzU2j9vbhTTS) | 2:59 |
 | 4 | [Прахосмукачка](https://open.spotify.com/track/6c2PAUaxUBF4m4DUlR0Ls6) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Прахосмукачка](https://open.spotify.com/album/0YlGdhKmSHh3D1Eso7rQy8) | 3:18 |
 | 5 | [Върколакът](https://open.spotify.com/track/3FsUOQOBUUigiAX4r8qNAD) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Върколакът](https://open.spotify.com/album/6r48njlMUEBQxdV4thWN4m) | 3:25 |
 | 6 | [BMW](https://open.spotify.com/track/117cR1Qm4uwOQQhp0uvD94) | [KSIOR](https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6), [SISS](https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn) | [BMW](https://open.spotify.com/album/5me6Ch1WoMbmY2vbZg5p3P) | 2:46 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 37 | [Iskam ot teb](https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae) | [Djulia](https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY) | [Tochka za men](https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP) | 2:54 |
 | 38 | [И на всички като тебе](https://open.spotify.com/track/2ch2fanSZq6LCXdlPskq5C) | [Desi Slava](https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG) | [И на всички като тебе](https://open.spotify.com/album/4fgvuUzhQdImDpL5Slt4Ej) | 3:30 |
 | 39 | [Beni Al \(Ta Ki Seni Görene Kadar\) \- Afro House Remix](https://open.spotify.com/track/4lCE0Ny5bcuQXO86rKgAN2) | [Ankara Echoes](https://open.spotify.com/artist/18SuKvcITcf0mACwhitMeM), [Kürşad Kahraman](https://open.spotify.com/artist/6KmaeBAxvfEYozb0DQSkGU) | [VOL BİR](https://open.spotify.com/album/4vV3sbTCFonIgiSVcoDMr0) | 4:12 |
-| 40 | [Завърти Го](https://open.spotify.com/track/3gW5D8UaWWLOb5E3YjI4YO) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Завърти Го](https://open.spotify.com/album/05SFSFgcQlXPl4KHj348rz) | 2:51 |
+| 40 | [Завърти Го](https://open.spotify.com/track/0ab61cb0WJ0FUITu81Is4g) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Завърти Го](https://open.spotify.com/album/5gvDx2EfHq3Ebtwr4Ui7yo) | 2:51 |
 | 41 | [Danoto kopay](https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/5VZ7ACYZjoPVerXbmtIcAt) | 4:08 |
 | 42 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
 | 43 | [Mutsuna](https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Mutsuna](https://open.spotify.com/album/4FTs7rrwjPManpg3KZM0SX) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Nito minuta](https://open.spotify.com/track/3Sp3iAOjnQygYlhAEsLcHY) | [Yanitsa](https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR) | [Izkushenie](https://open.spotify.com/album/5Ccyh5zPTF9EXQPwTBtcou) | 4:06 |
 | 50 | [Skapoto se plashta](https://open.spotify.com/track/5jumClRHFt7meCQ8vbKyDf) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Skapoto se plashta](https://open.spotify.com/album/0M8StUFvLIE0c459cGZYwd) | 3:19 |
 
-Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlXT4AAAAAAAAAAAAAAAAAAAAAAAAGVu`

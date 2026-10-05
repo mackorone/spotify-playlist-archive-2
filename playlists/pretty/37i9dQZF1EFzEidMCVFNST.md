@@ -280,8 +280,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 270 | [Nem Espinho, Nem Flor](https://open.spotify.com/track/38gD2C0LwxmPLubCLcqMVL) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 3:25 |
 | 271 | [RASCUNHO](https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:43 |
 | 272 | [Louco por Tu \(Ao Vivo\)](https://open.spotify.com/track/3rRgb24SWRECGFNoXNQPh8) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:41 |
-| 273 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 |
-| 274 | [Tudo Menos Eu](https://open.spotify.com/track/6p0x5kaKOKHVsIwXbxrY36) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/6zFv6lGXG71eVSR75F6dlA) | 3:00 |
+| 273 | [Tudo Menos Eu](https://open.spotify.com/track/6p0x5kaKOKHVsIwXbxrY36) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/6zFv6lGXG71eVSR75F6dlA) | 3:00 |
+| 274 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 |
 | 275 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 |
 | 276 | [Apaga Apaga Apaga](https://open.spotify.com/track/0AblU4v5EVSvYuH2iddLox) | [Chupando Halles](https://open.spotify.com/artist/0AZuVrycUN3ZPRBIY4Wca0) | [Chupando Halles \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/0jV4XKftXfuBFzwoL9J0DJ) | 4:12 |
 | 277 | [Meu Mundo E Voce](https://open.spotify.com/track/6f3dG2tqxZM5MuSUXbu31a) | [Marcos & Fernando](https://open.spotify.com/artist/0cHeelq87RR6yX2ttH6MTg) | [Marcos E Fernando](https://open.spotify.com/album/4VXqWRr0tDpgKb0Gc0O8NI) | 3:21 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 309 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 310 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Acd/bAAAAAAu37993YWheWnHHIsBq0Q8`
+Snapshot ID: `AceE0AAAAAAGQQX7/6TJbIR63gTw1h8/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 
 > This is Daniel Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,746 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,861 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 | 23 | [Blessed](https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:01 |
 | 24 | [Valentina](https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:34 |
 | 25 | [Call On Me](https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 2:49 |
-| 26 | [TOO DEEP TO TURN BACK](https://open.spotify.com/track/3EOzLBxti9kA01UvwfbPxs) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 5:18 |
-| 27 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 |
+| 26 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 |
+| 27 | [TOO DEEP TO TURN BACK](https://open.spotify.com/track/3EOzLBxti9kA01UvwfbPxs) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 5:18 |
 | 28 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 29 | [Root of all Evil](https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 4:25 |
 | 30 | [Violet](https://open.spotify.com/track/6CVciPxACaLYZfx49VGSPy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Violet](https://open.spotify.com/album/2VxBRnteLPjdKcAW9w3Zwp) | 2:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 | 43 | [A Cappella](https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa) | 1:28 |
 | 44 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 
-Snapshot ID: `ar70AAAAAABqLsB8nCUvKeOngxJtqY92`
+Snapshot ID: `asBFgAAAAAC0oVBaf1Ew6GiyoCc3eMyu`

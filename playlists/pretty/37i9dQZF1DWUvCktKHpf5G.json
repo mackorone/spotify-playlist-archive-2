@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 271764,
+  "num_followers": 271790,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -263,46 +263,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 212857,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "PERFuMITO NUEVO",
-      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "SI NO ES CONTIGO (REMIX)",
         "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
       },
@@ -327,6 +287,26 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 212857,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "Ponle",
+        "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 164764,
+      "name": "Ponle",
+      "url": "https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "TiTis",
         "url": "https://open.spotify.com/album/5XuPajFl5ZCXTGXrO6op1Q"
       },
@@ -1259,26 +1283,22 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Ponle",
-        "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 164764,
-      "name": "Ponle",
-      "url": "https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4"
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1299,26 +1319,6 @@
       "duration_ms": 220189,
       "name": "Dile A \u00c9L - Remix",
       "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 179893,
       "name": "Cinco Estrellas",
       "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "EMPELOTICA",
-        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 190322,
-      "name": "EMPELOTICA",
-      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1871,30 +1871,34 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Sexxo",
-        "url": "https://open.spotify.com/album/7Dc90FL2Odr90iQiQ7z8hg"
+        "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
+        "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
       "artists": [
         {
-          "name": "Dj Aza",
-          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
         },
         {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "name": "Gaelo",
-          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 218633,
-      "name": "Sexxo",
-      "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"
+      "duration_ms": 310588,
+      "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
+      "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1963,38 +1967,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
-        "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
-      },
-      "artists": [
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 310588,
-      "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
-      "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Coolant",
         "url": "https://open.spotify.com/album/6hURCisLKBolUaJJRhStAs"
       },
@@ -2007,6 +1979,34 @@
       "duration_ms": 211436,
       "name": "Coolant",
       "url": "https://open.spotify.com/track/2fHOqQ9K6eY0wsbVZiYZPw"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Sexxo",
+        "url": "https://open.spotify.com/album/7Dc90FL2Odr90iQiQ7z8hg"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Gaelo",
+          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+        }
+      ],
+      "duration_ms": 218633,
+      "name": "Sexxo",
+      "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"
     },
     {
       "added_at": "2026-10-02 06:00:13",

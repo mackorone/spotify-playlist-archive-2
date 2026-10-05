@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 11 hr 5 min
+211 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Faces](https://open.spotify.com/track/32eAYk36CwX2cP81zfRl4M) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:22 | 2024-01-29 |  |
 | [Fall](https://open.spotify.com/track/2BEXL3mUgofqfZ4OyxWfHQ) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Fall](https://open.spotify.com/album/0ZL2T8qNUEbBf6pzg8IGin) | 2:54 | 2024-01-29 |  |
 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 | 2025-01-09 | 2025-04-12 |
+| [Feel Again](https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Feel Again](https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0) | 3:26 | 2026-10-04 |  |
 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 | 2024-07-21 |  |
 | [Finding Our Way](https://open.spotify.com/track/0Uc2Bg05ybIP7eMu2U73O5) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Finding Our Way](https://open.spotify.com/album/0uHc8tnBZlYglLFzVHyfUT) | 2:53 | 2024-01-29 |  |
 | [Flames \(feat\. Bandit\)](https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Flames \(feat\. Bandit\)](https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O) | 2:59 | 2026-03-06 |  |

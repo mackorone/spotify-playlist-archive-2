@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 172405,
       "name": "Behtar",
       "url": "https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 166000,
       "name": "Behte Jana Hai",
       "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
@@ -2304,6 +2304,32 @@
       "duration_ms": 146424,
       "name": "Billo (feat. Natania)",
       "url": "https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC"
+    },
+    {
+      "album": {
+        "name": "Bindaas (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/1kaUylqRjDsBLsRlHzWZzj"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254304,
+      "name": "Bindaas (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7pzb0l1VPGlAwNIjHCQjg0"
     },
     {
       "album": {
@@ -2814,6 +2840,32 @@
       "duration_ms": 280837,
       "name": "Challa",
       "url": "https://open.spotify.com/track/4ugGqXCu47dobEUGhAb6Yc"
+    },
+    {
+      "album": {
+        "name": "Chammo Deewani",
+        "url": "https://open.spotify.com/album/3f86QKltHGHmzvOLSpaKco"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Poorvi Koutish",
+          "url": "https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Chammo Deewani",
+      "url": "https://open.spotify.com/track/2taGFv9IJZG9t2vPw9ovmo"
     },
     {
       "album": {
@@ -3824,7 +3876,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 246374,
       "name": "Dil Ki Giraft",
       "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
@@ -16594,6 +16646,28 @@
       "duration_ms": 199333,
       "name": "Uff",
       "url": "https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB"
+    },
+    {
+      "album": {
+        "name": "Ummeed",
+        "url": "https://open.spotify.com/album/5AY2OLG3qKgENLWJohfa8U"
+      },
+      "artists": [
+        {
+          "name": "Deepika Seth",
+          "url": "https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ummeed",
+      "url": "https://open.spotify.com/track/2spNzt48cglEh6vgoRi283"
     },
     {
       "album": {

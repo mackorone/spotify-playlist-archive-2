@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Frank Mastra",
-  "num_followers": 428800,
+  "num_followers": 428839,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Staring at the Wall",
-        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
+        "name": "Proxy",
+        "url": "https://open.spotify.com/album/6ORcyp8n70CkBNYLl4sTxK"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 271257,
-      "name": "Staring at the Wall",
-      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
+      "duration_ms": 179541,
+      "name": "Proxy",
+      "url": "https://open.spotify.com/track/0eQ3xyagO73zhiR4DmF0SY"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Is Joy Easy",
-        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
+        "name": "Staring at the Wall",
+        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Is Joy Easy",
-      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
+      "duration_ms": 271257,
+      "name": "Staring at the Wall",
+      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Is Joy Easy",
+        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Is Joy Easy",
+      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Take It As It Is",
         "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 289313,
       "name": "Take It As It Is",
       "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "Proxy",
-        "url": "https://open.spotify.com/album/6ORcyp8n70CkBNYLl4sTxK"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Proxy",
-      "url": "https://open.spotify.com/track/0eQ3xyagO73zhiR4DmF0SY"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 217099,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Half Moon",
         "url": "https://open.spotify.com/album/2GVt4U0txtqfafj4HPshQc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 196293,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/3C3Nat4uILSgRlmQMj671p"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
       "artists": [
         {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+      "duration_ms": 221280,
+      "name": "Devil in Me",
+      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Devil in Me",
-      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
-      },
-      "artists": [
-        {
-          "name": "Luke Tyler Shelton",
-          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
-        }
-      ],
-      "duration_ms": 183776,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -715,22 +699,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Sushi and Coca-Cola",
-        "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 157414,
-      "name": "Sushi and Coca-Cola",
-      "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -747,18 +715,34 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "The Siren's Song",
-        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
       },
       "artists": [
         {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+          "name": "Luke Tyler Shelton",
+          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
         }
       ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
+      "duration_ms": 183776,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Sushi and Coca-Cola",
+        "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 157414,
+      "name": "Sushi and Coca-Cola",
+      "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "The Siren's Song",
+        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "The Light Of Day",
+      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -815,18 +831,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -851,26 +871,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Moonlit Breakers (feat. Dijon)",
-        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
-      },
-      "artists": [
-        {
-          "name": "Paul Dally",
-          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
-        },
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 234681,
-      "name": "Moonlit Breakers (feat. Dijon)",
-      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Wandering Star",
         "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 210517,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -919,6 +903,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Fake It Till You Make It",
         "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
       },
@@ -931,6 +931,26 @@
       "duration_ms": 219120,
       "name": "Fake It Till You Make It",
       "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh"
+      },
+      "artists": [
+        {
+          "name": "Ali Angel",
+          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
+        },
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -963,26 +983,6 @@
       "duration_ms": 223164,
       "name": "Unforgivable",
       "url": "https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "Hold",
-        "url": "https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh"
-      },
-      "artists": [
-        {
-          "name": "Ali Angel",
-          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
-        },
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Act I",
-        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
-      },
-      "artists": [
-        {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
-        }
-      ],
-      "duration_ms": 192463,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "By The River",
         "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 159750,
       "name": "By The River",
       "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 192463,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Red Shoes",
-        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Red Shoes",
-      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+        "name": "Red Shoes",
+        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
         }
       ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+      "duration_ms": 168666,
+      "name": "Red Shoes",
+      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1267,6 +1251,22 @@
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Like We Used To",
-        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
         "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "It's Been Too Long (Since I've Loved Someone)",
-        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+        "name": "Like We Used To",
+        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
       },
       "artists": [
         {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
         }
       ],
-      "duration_ms": 178081,
-      "name": "It's Been Too Long (Since I've Loved Someone)",
-      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+      "duration_ms": 229950,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Electric Fever",
         "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Overtime",
-        "url": "https://open.spotify.com/album/6nWI56pEGSVt0sKrF6CscK"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Krisko & The Broadcast",
-          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Hold On (Hourglass)",
         "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 248613,
       "name": "Hold On (Hourglass)",
       "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Overtime",
+        "url": "https://open.spotify.com/album/6nWI56pEGSVt0sKrF6CscK"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/07MCLATu2RLZKLzA0uLZEY"
+        "name": "Choose Love / It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
       },
       "artists": [
         {
-          "name": "Brother Wallace",
-          "url": "https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 128724,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5he4NFr0l4taR757Jfy88k"
+      "duration_ms": 234801,
+      "name": "Choose Love",
+      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1627,38 +1627,34 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Choose Love / It\u2019s Been Too Long",
-        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/07MCLATu2RLZKLzA0uLZEY"
       },
       "artists": [
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Brother Wallace",
+          "url": "https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z"
         }
       ],
-      "duration_ms": 234801,
-      "name": "Choose Love",
-      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
+      "duration_ms": 128724,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5he4NFr0l4taR757Jfy88k"
     },
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "It Must Change",
-        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
+        "name": "I Got A Lover",
+        "url": "https://open.spotify.com/album/409ODNlPOMWS16V3AlCY9T"
       },
       "artists": [
         {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
         }
       ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
+      "duration_ms": 162413,
+      "name": "I Got A Lover",
+      "url": "https://open.spotify.com/track/4P9kOpyeRrkzeDbDchWjnh"
     }
   ],
   "unique_name": "the new retro",

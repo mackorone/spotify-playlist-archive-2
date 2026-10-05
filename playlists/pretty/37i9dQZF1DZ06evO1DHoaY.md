@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073,485 likes - 49 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073,466 likes - 49 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 48 | [Trenchtown Rock \- Live At The Hammersmith Odeon, London, UK \- June, 1976](https://open.spotify.com/track/2tDAKitkEAzVCmiFRGYEj9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Roots, Rock, Reggae \(Live At The Hammersmith Odeon, London, UK \- June 1976\)](https://open.spotify.com/album/7BOZnuMh0OXao3TRQrg8Dh) | 4:08 |
 | 49 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 |
 
-Snapshot ID: `ar70AAAAAAD4XDdjUfJNjoPXEjTH8GqY`
+Snapshot ID: `asBFgAAAAABJel+z7r2t+EGHG/8QPR47`

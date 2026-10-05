@@ -4,7 +4,7 @@
 
 > algorave\_ˋˏ♡ˎˊ˗\_hyper\_sleaze.electro\_glitch\_☆▽☆\_⏻⏻⏻\_w/meatcomputer\_\[FINAL\]\_\[REAL\]\_\_coverartist.DJ\_Dave
 
-1,482 songs - 2 day 13 hr 50 min
+1,483 songs - 2 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-15 | 2023-07-15 |
 | [i of the storm](https://open.spotify.com/track/0OktnjMxp7dF3zXfRfdadn) | [Perry Maysun](https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0), [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE) | [i of the storm](https://open.spotify.com/album/26BbMv6aZkI5KnF91PA4XA) | 2:31 | 2023-06-09 | 2023-08-12 |
 | [i see london i see france](https://open.spotify.com/track/4wwoTaV7tQmGTshV7aYjBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i see london i see france](https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx) | 2:32 | 2022-10-14 | 2022-12-03 |
-| [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 | 2026-08-14 |  |
+| [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 | 2026-08-14 | 2026-10-05 |
 | [I Wanna Be A Star](https://open.spotify.com/track/6KT9jnBp5urt4WuOpS34fD) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8) | [I Wanna Be A Star](https://open.spotify.com/album/3ou7VjRaMTdTWUPyVoTWSO) | 2:42 | 2026-09-04 |  |
 | [i wna be like you](https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i wna be like you](https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe) | 2:03 | 2023-04-14 | 2023-07-08 |
 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 | 2026-03-20 | 2026-05-09 |
@@ -1013,6 +1013,7 @@
 | [PAMPER PAMPER](https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 1:52 | 2023-10-20 | 2024-01-09 |
 | [PAP SHIESTY](https://open.spotify.com/track/63QsJJakeUZs3hg3LLnT9Y) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [\#HEAVENSGATE VOL\. 1](https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY) | 1:48 | 2024-02-02 | 2024-06-22 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-09-17 |
+| [Paralyzed](https://open.spotify.com/track/3JeZ6MkB4oBIhz9LNM2BoG) | [Chrome Is Everything](https://open.spotify.com/artist/79AwwYDFXk6xJLx9Z39mug) | [Paralyzed](https://open.spotify.com/album/1GyQJfH4zcKpj0jxz9vp3w) | 2:24 | 2026-10-04 |  |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-04-24 | 2024-10-05 |
 | [paris hilton](https://open.spotify.com/track/2mh2dmPfKLBuh50eyy5jry) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:03 | 2026-03-09 | 2026-03-21 |

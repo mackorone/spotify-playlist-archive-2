@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140680,
+  "num_followers": 140696,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 180302,
       "name": "You Make Me Feel Like It\u2019s Halloween",
       "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Flexorcist",
-        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 357463,
-      "name": "Flexorcist",
-      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Flexorcist",
+        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 357463,
+      "name": "Flexorcist",
+      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -747,38 +747,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Evil Urges",
-        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Highly Suspicious",
-      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "It's Halloween!",
         "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Evil Urges",
+        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Highly Suspicious",
+      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "Vampire Again",
         "url": "https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 242959,
       "name": "Vampire Again",
       "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Four Words to Stand On",
-        "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Standing on Ghosts",
-      "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Four Words to Stand On",
+        "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Standing on Ghosts",
+      "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Screen Violence: Director's Cut",
-        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Struggle With the Beast",
         "url": "https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 524693,
       "name": "Struggle With the Beast",
       "url": "https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Screen Violence: Director's Cut",
+        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Attack Of The Ghost Riders",
-        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Young-Girl Forever",
         "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 170990,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Attack Of The Ghost Riders",
+        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Samhain",
-        "url": "https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n"
-      },
-      "artists": [
-        {
-          "name": "The Crush",
-          "url": "https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Nancy Nightmare",
         "url": "https://open.spotify.com/album/7bjgFaOouB7zLsHH2d5mb2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 302000,
       "name": "Nancy Nightmare",
       "url": "https://open.spotify.com/track/56pbBTkY6PAokTBZy84znF"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Samhain",
+        "url": "https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n"
+      },
+      "artists": [
+        {
+          "name": "The Crush",
+          "url": "https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
     },
     {
       "added_at": "2026-08-28 07:24:22",

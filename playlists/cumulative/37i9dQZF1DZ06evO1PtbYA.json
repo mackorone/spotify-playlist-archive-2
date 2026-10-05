@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "IKEBE 3000",
+        "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "IKEBE 3000",
+      "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
+    },
+    {
+      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },

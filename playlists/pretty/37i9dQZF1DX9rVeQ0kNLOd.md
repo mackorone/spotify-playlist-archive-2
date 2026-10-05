@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,692 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,698 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 19 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 |
 | 20 | [say my name](https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [say my name](https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p) | 4:03 |
 | 21 | [Ride Remix \(feat\. IO\)](https://open.spotify.com/track/17m0eoXqIgtgb1BmjGepBx) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride Remix \(feat\. IO\)](https://open.spotify.com/album/2napSCAGTjs7byXHfCWjOr) | 4:33 |
-| 22 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 |
-| 23 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
+| 22 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
+| 23 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 |
 | 24 | [第六感](https://open.spotify.com/track/6UfDzlvYvZLfp6FcSxXgOP) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 2:26 |
 | 25 | [花と望み](https://open.spotify.com/track/0lxj8WdbaiEeoGNkrncoXT) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [花と望み](https://open.spotify.com/album/2jk1eb98lYl4ObAi8dlLrd) | 4:05 |
 | 26 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 34 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 35 | [Daydreaming Ⅰ](https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Daydreaming](https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq) | 7:36 |
 | 36 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
-| 37 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |
-| 38 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
+| 37 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
+| 38 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |
 | 39 | [好きなこと \- Remix](https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [098RADIO vol.2 Hosted by Awich](https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i) | 3:49 |
 | 40 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
 | 41 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
-| 42 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
-| 43 | [Player \(feat\. KID FRESINO\)](https://open.spotify.com/track/2c2njvdiusdOv1M2HtBz6R) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Massive](https://open.spotify.com/album/7hkllL5xMbAfynE2nkWPCF) | 4:01 |
+| 42 | [Player \(feat\. KID FRESINO\)](https://open.spotify.com/track/2c2njvdiusdOv1M2HtBz6R) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Massive](https://open.spotify.com/album/7hkllL5xMbAfynE2nkWPCF) | 4:01 |
+| 43 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
 | 44 | [ネオンを消して](https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [the youth night](https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c) | 3:23 |
 | 45 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 | 46 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |

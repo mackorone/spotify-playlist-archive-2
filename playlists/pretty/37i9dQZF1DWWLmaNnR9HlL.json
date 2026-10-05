@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 393511,
+  "num_followers": 393521,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "State Lines",
-      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/3GfLFBVOXEUHqxAAKcBOtu"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 213538,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/5f5YqZZe34nsabun39eqo8"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "State Lines",
+      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/3bxZhauuIU4ubctdRZwPYW"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/3bxZhauuIU4ubctdRZwPYW"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "The Shepherd's Dog",
         "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 241917,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 217240,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 329649,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Currency Of Man",
         "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 305265,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Mas, Que Nada!",
-      "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Donny Hathaway",
         "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 325946,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Mas, Que Nada!",
+      "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Edith Piaf - The Best Of",
         "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 187733,
       "name": "La Vie en rose",
       "url": "https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Tous les gar\u00e7ons et les filles",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Stereo Mix",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2026-08-20 15:24:38",

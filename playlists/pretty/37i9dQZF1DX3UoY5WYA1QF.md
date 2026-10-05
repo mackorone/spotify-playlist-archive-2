@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,733 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,763 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 97 | [Melodia Para Dos](https://open.spotify.com/track/7s10cSCJcdnzGswgpYGyDF) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i) | 2:45 |
 | 98 | [Amor Sin Cuenta](https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:26 |
 | 99 | [El Perdedor](https://open.spotify.com/track/0NnEpjGXz9Sz752vzuhkOm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:07 |
-| 100 | [Bandido de Amores](https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8) | 2:59 |
+| 100 | [Soy Como Quiero Ser](https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:32 |
 
 Snapshot ID: `AAAAAHIJYznBlM6VH8v2tBLVlGe5WyMr`

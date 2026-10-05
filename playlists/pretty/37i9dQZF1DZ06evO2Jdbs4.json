@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32779,
+  "num_followers": 32781,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA0aZwUyNCDItHx6BCd+2Jf",
+  "snapshot_id": "asBFgAAAAAB2awvmjCFb2KNvNyHszATX",
   "tracks": [
     {
       "added_at": null,
@@ -612,29 +612,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "D\u00edas de Ayer",
-      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
+      "duration_ms": 238387,
+      "name": "D\u00edgale - En Vivo",
+      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 216345,
       "name": "Amor Se Escribe Con Llanto - En Vivo",
       "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "D\u00edas de Ayer",
+      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
     },
     {
       "added_at": null,
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Sergio El Bailador - En Vivo",
-      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 238387,
-      "name": "D\u00edgale - En Vivo",
-      "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
+      "duration_ms": 182533,
+      "name": "Sergio El Bailador - En Vivo",
+      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736 likes - 116 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 116 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 95 | [Último Aviso](https://open.spotify.com/track/1AAq8oRKRz1sNtK2cPXyiH) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [¿Qué Pasaría?](https://open.spotify.com/album/0vXUz7B7Oq0NsAwK27ZQyk) | 3:06 |
 | 96 | [ADIVINEN](https://open.spotify.com/track/17in5rJq9EZpI7REwnqkTo) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:01 |
 | 97 | [Ya Convéncete](https://open.spotify.com/track/02hdSPNDvFWBjyJreepoLk) | [Cesar Arturo Navarro](https://open.spotify.com/artist/2Iq6ZunH7OSvgbsdFdvGSO) | [Ya Convéncete](https://open.spotify.com/album/1adWURSBFV4SgogIZfkGxb) | 2:40 |
-| 98 | [DEPRE INNECESARIA](https://open.spotify.com/track/5kMeGTrytSLltpc2p2MBbV) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Catarsis](https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v) | 2:35 |
-| 99 | [El Mundo Rueda](https://open.spotify.com/track/3BdYjVKvOR8HU1iEESeVJt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 2:45 |
+| 98 | [El Mundo Rueda](https://open.spotify.com/track/3BdYjVKvOR8HU1iEESeVJt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 2:45 |
+| 99 | [DEPRE INNECESARIA](https://open.spotify.com/track/5kMeGTrytSLltpc2p2MBbV) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Catarsis](https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v) | 2:35 |
 | 100 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
 | 101 | [TERCIA DE REINAS](https://open.spotify.com/track/5hplZBdE6niMvT5Ltlag1m) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:09 |
 | 102 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 115 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 116 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `Acd/OgAAAABDpAQr2Dv9mGY6QtCFOcfs`
+Snapshot ID: `AceE2gAAAABEoMbDeoZ823Ux7UWCMurQ`

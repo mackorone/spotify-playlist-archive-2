@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,548 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 89 | [Pretty Thing](https://open.spotify.com/track/2akDcoPwGl4175JFmQdqGb) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:16 |
 | 90 | [Make Me Feel](https://open.spotify.com/track/1xajUPr86m2Ge25UPxwJGA) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:09 |
 | 91 | [Too Proud](https://open.spotify.com/track/4AhMh0i9mBTXpfg35u1YQQ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 3:09 |
-| 92 | [Aerial Love](https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:34 |
-| 93 | [Killing You](https://open.spotify.com/track/7rOPsPvih0DakVEkHWC8ae) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:33 |
-| 94 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 92 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 93 | [Aerial Love](https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:34 |
+| 94 | [Killing You](https://open.spotify.com/track/7rOPsPvih0DakVEkHWC8ae) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:33 |
 | 95 | [Where Is Home \(feat\. Twin Shadow\)](https://open.spotify.com/track/7p5WNhM1wIyzW82a9KPfRe) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:20 |
 | 96 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
 | 97 | [Sober](https://open.spotify.com/track/6UYVmlLGQ9MeObE5v7SnTu) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:02 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 142 | [Our Song](https://open.spotify.com/track/1t6loNOqI2kUDE74FDjE6f) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:51 |
 | 143 | [All for You](https://open.spotify.com/track/53VfHyJ5ka24B09kC10ye7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 4:51 |
 | 144 | [Jack](https://open.spotify.com/track/3UEu97qlpV46BamOF5KI02) | [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [No Romeo \(Deluxe\)](https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ) | 3:28 |
-| 145 | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5) | 5:13 |
+| 145 | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \(Holy Hell!\)](https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5) | 5:13 |
 | 146 | [Zion](https://open.spotify.com/track/5FYJwbHkPk6Cb1u4eKZS3Z) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:49 |
 | 147 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 |
 | 148 | [Loner](https://open.spotify.com/track/13zX3ZirV5BtAPfY7hxwPs) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:18 |
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 151 | [Everybody Knows](https://open.spotify.com/track/2vNIaQssHuCb3ZetSoVcRG) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:13 |
 | 152 | [Sugarpills](https://open.spotify.com/track/3w0DRBcknOR9HeT8LE1KmW) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
 | 153 | [Candy Talk](https://open.spotify.com/track/2Bo0ZRNAhLm7BBbMNrAvk0) | [October](https://open.spotify.com/artist/6LHsMejRitRuzmfafX0F59) | [Ultra Red](https://open.spotify.com/album/6HrhskF1YKVHHj5OBwt1os) | 3:27 |
-| 154 | [Serpent Queen Pt 2](https://open.spotify.com/track/2xnP1PTC9lFwitBt3wy3p7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:53 |
+| 154 | [All Hail The Serpent Queen Pt 2 of 3 \(Trilogy\)](https://open.spotify.com/track/2xnP1PTC9lFwitBt3wy3p7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:53 |
 | 155 | [San Fran](https://open.spotify.com/track/6cjxIBKlxTIMLFdOf601YC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:31 |
 | 156 | [AYO \(That's What I Like\)](https://open.spotify.com/track/7C00Nu91xbJQAvMwBhwsYz) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:17 |
 | 157 | [Only the Young](https://open.spotify.com/track/15q2y19rSHDsx779Ca0v0k) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Velvet Days \| Piano Covers](https://open.spotify.com/album/2NluDOItMqQUKplkvjrtz8) | 1:32 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `Acd/TgAAAADA08ZYVUN7yXEUpPx/amZB`
+Snapshot ID: `AceE7gAAAACEcotxSDCZXR3euH0uXYBa`

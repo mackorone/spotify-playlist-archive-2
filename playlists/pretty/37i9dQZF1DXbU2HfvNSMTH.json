@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 567346,
+  "num_followers": 567436,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 282062,
-      "name": "Dirty Diana",
-      "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+      "duration_ms": 282062,
+      "name": "Dirty Diana",
+      "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -515,6 +499,22 @@
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
-      },
-      "artists": [
-        {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 258317,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Flashdance (Original Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 258317,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -887,6 +867,26 @@
       "duration_ms": 236800,
       "name": "Relax (Come Fighting)",
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "Martika (Expanded Edition)",
         "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
       },
@@ -1207,18 +1187,22 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -1235,6 +1219,22 @@
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/2qURodWJech5Dv9T0Irrda"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     }
   ],
   "unique_name": "Summer Hits of the 80s",

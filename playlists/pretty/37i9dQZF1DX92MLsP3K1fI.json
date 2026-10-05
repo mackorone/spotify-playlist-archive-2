@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Yeri Mua en portada \u2728",
-  "num_followers": 96477,
+  "num_followers": 96476,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Antes Que Te Cases",
+        "url": "https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 203486,
+      "name": "Antes Que Te Cases",
+      "url": "https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "ella brilla",
         "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 198493,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Antes Que Te Cases",
-        "url": "https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 203486,
-      "name": "Antes Que Te Cases",
-      "url": "https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 165500,
       "name": "Jet",
       "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Si T\u00fa Te Vas",
-        "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Mil A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 252060,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -655,8 +655,8 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "MISI\u00d3N IMPOSIBLE",
-        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 166693,
-      "name": "MISI\u00d3N IMPOSIBLE",
-      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 203865,
-      "name": "cu\u00eddame de mi",
-      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
         "name": "Estas Ganas",
         "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
       },
@@ -747,8 +731,24 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 203865,
+      "name": "cu\u00eddame de mi",
+      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
       },
       "artists": [
         {
@@ -756,9 +756,41 @@
           "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "(no) te quiero perder [By Bershka Music]",
+        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 141663,
+      "name": "(no) te quiero perder - By Bershka Music",
+      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -795,22 +827,6 @@
       "duration_ms": 280733,
       "name": "Mismo Equipo",
       "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "(no) te quiero perder [By Bershka Music]",
-        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+        "name": "QUIERO OLVIDARTE (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 141663,
-      "name": "(no) te quiero perder - By Bershka Music",
-      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
+      "duration_ms": 162099,
+      "name": "QUIERO OLVIDARTE - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -887,18 +903,58 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "QUIERO OLVIDARTE (Respuesta #1)",
-        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 162099,
-      "name": "QUIERO OLVIDARTE - Respuesta #1",
-      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -935,58 +991,18 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "qu\u00e9 ves en m\u00ed? / interesante",
-        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        },
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "qu\u00e9 ves en m\u00ed?",
-      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "HAGAMOS QUE PASE",
+        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "HAGAMOS QUE PASE",
+      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -1095,26 +1111,6 @@
       "duration_ms": 180648,
       "name": "Tengamos Pasado",
       "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -1143,6 +1139,26 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Gui\u00f1o Gui\u00f1o",
         "url": "https://open.spotify.com/album/0iRbsjP7p4EtdUyfYMxu5O"
       },
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Hot Cherry Bomb",
+        "url": "https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Hot Cherry Bomb",
+      "url": "https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "VIGENTE",
         "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
       },
@@ -1179,22 +1211,6 @@
       "duration_ms": 200125,
       "name": "Lo Que Por Ti Yo Siento",
       "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Hot Cherry Bomb",
-        "url": "https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV"
-      },
-      "artists": [
-        {
-          "name": "ALMAS",
-          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Hot Cherry Bomb",
-      "url": "https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -1227,22 +1243,6 @@
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "HAGAMOS QUE PASE",
-        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "HAGAMOS QUE PASE",
-      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
     },
     {
       "added_at": "2026-10-02 06:00:36",

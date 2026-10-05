@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 64 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 64 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 5 | [TRUST!](https://open.spotify.com/track/1i0ouuQkH4ZYugUI9VyCKs) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 2:51 |
 | 6 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 7 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
-| 8 | [Paid In Pleasure](https://open.spotify.com/track/0aixSIaFcj3Ba0VDACOV62) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 1:46 |
-| 9 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 8 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 9 | [Paid In Pleasure](https://open.spotify.com/track/0aixSIaFcj3Ba0VDACOV62) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 1:46 |
 | 10 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 |
 | 11 | [SWEET SOUR](https://open.spotify.com/track/3TPPESvMtVS5zt7FAX2M9n) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN) | 2:57 |
 | 12 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 63 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 64 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `Acd/TgAAAAAE1a43YDYXMsuNNTCMCWal`
+Snapshot ID: `AceE7gAAAAB3ostsGLClRzaThiF7CK1+`

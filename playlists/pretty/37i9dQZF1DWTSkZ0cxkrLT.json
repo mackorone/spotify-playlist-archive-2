@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 426547,
+  "num_followers": 426552,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
-        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
-        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 66666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
         "name": "Vos",
         "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 211000,
       "name": "Suerte y Hasta Pronto",
       "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
+        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
+        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 66666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
     },
     {
       "added_at": "2026-10-02 13:04:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
         "name": "I'LL STAY (EP)",
         "url": "https://open.spotify.com/album/3a3VPuqZpU505o0LifvwWt"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 225130,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6NHLDaBJR7QZd7Q8iS8VO0"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-10-02 13:04:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
-        "name": "Me Entrego",
-        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Me Entrego",
-      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
         "name": "Por Amor al Arte",
         "url": "https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 125611,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
+        "name": "Me Entrego",
+        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Me Entrego",
+      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
     },
     {
       "added_at": "2026-10-02 13:04:00",

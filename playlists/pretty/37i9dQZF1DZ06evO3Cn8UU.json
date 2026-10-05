@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39597,
+  "num_followers": 39603,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAA3fEh11XkNYpXiQ2fVQ8xC",
+  "snapshot_id": "asBFgAAAAACd6D15nRUaDmBqdEjtLmN5",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "I Miss You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 360400,
       "name": "It Don't Hurt Now",
       "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 332866,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 518000,
-      "name": "I Miss You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
+      "duration_ms": 332866,
+      "name": "Feel the Fire",
+      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 391733,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
+      "duration_ms": 320666,
+      "name": "I'm Always Thinking About You",
+      "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
     },
     {
       "added_at": null,
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 320666,
-      "name": "I'm Always Thinking About You",
-      "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/50kzOHg2xUUKogVLFt6FBt"
+      "duration_ms": 391733,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 302106,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/50kzOHg2xUUKogVLFt6FBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 303720,
       "name": "Can't We Try",
       "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 289813,
-      "name": "You're My Choice Tonight (Choose Me)",
-      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 180346,
       "name": "I Can't Live Without Your Love",
       "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teddy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 273000,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
     },
     {
       "added_at": null,
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This One's For You",
         "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 272773,
       "name": "Cold, Cold World",
       "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,

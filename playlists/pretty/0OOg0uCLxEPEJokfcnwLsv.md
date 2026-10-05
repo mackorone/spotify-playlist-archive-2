@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,342 likes - 101 songs - 5 hr 59 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,345 likes - 102 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 99 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
 | 100 | [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 |
 | 101 | [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 |
+| 102 | [Auntie Emma](https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Auntie Emma](https://open.spotify.com/album/50EX9qCftb1U3d1PshCKkQ) | 2:56 |
 
-Snapshot ID: `AAAHDuWeDRlKD3lsh9d6D1PCu7jbyOdB`
+Snapshot ID: `AAAHD9qrP9EdSlYbLokGEryFhV7hgw27`

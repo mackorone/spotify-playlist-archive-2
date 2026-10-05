@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Mumbai Monsoon Drive",
+        "url": "https://open.spotify.com/album/6m3MpCUAGntmNHqk0moUbn"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276380,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/5VCHlKKMHwlZ7aS3b3HKzW"
+    },
+    {
+      "album": {
         "name": "Bairan",
         "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
       },
@@ -2792,7 +2814,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 281856,
       "name": "O Meri Laila",
       "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"

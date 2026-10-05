@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,849 likes - 88 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,857 likes - 88 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

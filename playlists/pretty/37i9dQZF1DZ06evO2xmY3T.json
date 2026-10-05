@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 695772,
+  "num_followers": 695789,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADn7inndYn0bHDhTrK/KNZ5",
+  "snapshot_id": "asBFgAAAAAAVPKRlI4SfI9WrB3utQGLQ",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
       "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
     },
     {
       "added_at": null,
@@ -427,26 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
       },
       "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 303076,
-      "name": "MotorSport",
-      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "I Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -719,22 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "Who Want The Smoke?",
+        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 161167,
-      "name": "Bet You Wanna (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+      "duration_ms": 198666,
+      "name": "Who Want The Smoke?",
+      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
     },
     {
       "added_at": null,
@@ -751,6 +755,26 @@
       "duration_ms": 104066,
       "name": "Bodega Baddie",
       "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
     },
     {
       "added_at": null,
@@ -791,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Like What (Freestyle)",
-      "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },
@@ -827,26 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Want The Smoke?",
-        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Who Want The Smoke?",
-      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PROLIFIC",
         "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 226185,
       "name": "I Just Wanna Know (feat. Ty Dolla $ign & Cardi B)",
       "url": "https://open.spotify.com/track/5eD5JBetKz2JdeGlIBIPvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": null,

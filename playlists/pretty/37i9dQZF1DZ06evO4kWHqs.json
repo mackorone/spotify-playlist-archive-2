@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADpeO38k8CqA+5EbwbgUgNy",
+  "snapshot_id": "asBFgAAAAABlZPLhwwOKO8A9AlrCVUDc",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rice Bowl",
-        "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Rice Bowl",
-      "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUMMY",
         "url": "https://open.spotify.com/album/5WnOY9rpvxdLsigpwJpCO0"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 128278,
       "name": "DUMMY",
       "url": "https://open.spotify.com/track/40iOzuzKxg6pBiNRpudtoq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rice Bowl",
+        "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Rice Bowl",
+      "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
     },
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOTCORE",
+        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "WEAPON",
+      "url": "https://open.spotify.com/track/7B4olPzqxzLFbL4J7vu0cD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D-RIDE (feat. SadBoi)",
         "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
       },
@@ -279,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOTCORE",
-        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
       "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 151475,
-      "name": "WEAPON",
-      "url": "https://open.spotify.com/track/7B4olPzqxzLFbL4J7vu0cD"
+      "duration_ms": 94925,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/7N3MtUnlmXlrNe9Zs85Qjy"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
       "duration_ms": 143200,
       "name": "Did That",
       "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 94925,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/7N3MtUnlmXlrNe9Zs85Qjy"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Gameboi",
-      "url": "https://open.spotify.com/track/6rVhcAfzVXye2Rv5dxplKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 173823,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/6rVhcAfzVXye2Rv5dxplKy"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Curry Goat",
-      "url": "https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 129705,
       "name": "Slide",
       "url": "https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Curry Goat",
+      "url": "https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "All My Girls",
-      "url": "https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 243529,
       "name": "DESLIZA - Slide Remix",
       "url": "https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "All My Girls",
+      "url": "https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me 10's",
         "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
       },
@@ -631,6 +631,30 @@
       "duration_ms": 116800,
       "name": "Give Me 10's",
       "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Sky (feat. LYZZA & SadBoi)",
+        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "Blue Sky (feat. LYZZA & SadBoi)",
+      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
     },
     {
       "added_at": null,
@@ -671,30 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Sky (feat. LYZZA & SadBoi)",
-        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 142914,
-      "name": "Blue Sky (feat. LYZZA & SadBoi)",
-      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "watch it all fall",
         "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 170666,
       "name": "watch it all fall",
       "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 123428,
       "name": "L's",
       "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Go! (SadBoi Remix)",
         "url": "https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 150017,
       "name": "Easy Go! - SadBoi Remix",
       "url": "https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": null,

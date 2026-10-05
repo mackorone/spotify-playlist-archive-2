@@ -9064,7 +9064,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 173731,
       "name": "SO TRU",
       "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
@@ -10894,6 +10894,32 @@
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
+    },
+    {
+      "album": {
+        "name": "Twice As Nice",
+        "url": "https://open.spotify.com/album/4y0R1nqcF9uKO9zjKCFUAU"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172684,
+      "name": "Twice As Nice",
+      "url": "https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R"
     },
     {
       "album": {

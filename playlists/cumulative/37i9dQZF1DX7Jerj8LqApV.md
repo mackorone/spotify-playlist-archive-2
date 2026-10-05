@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-518 songs - 1 day 9 hr 0 min
+520 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-04-30 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-10-18 | 2024-04-19 |
 | [Nahuhulog](https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a) | [JUSWA](https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs) | [Nahuhulog](https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU) | 3:10 | 2025-12-08 | 2026-01-20 |
+| [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/album/7s3Gy06Iv0kmrtVBnO9t0n) | 3:18 | 2026-10-05 |  |
 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 | 2025-04-30 |  |
 | [Nakakabighani](https://open.spotify.com/track/0isK5sHesL3Hw3L5odItFK) | [Brandon Kail](https://open.spotify.com/artist/5qtaCawWuhPeW3GlHErpgt) | [Nakakabighani](https://open.spotify.com/album/3p8oaj2nN2rAecQPiT6Rk4) | 3:03 | 2026-09-02 | 2026-09-29 |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 | 2025-11-08 |
@@ -322,6 +323,7 @@
 | [Oh Babe](https://open.spotify.com/track/1dfi7lRgBdS5jRk1zoo5zt) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [In Other Words](https://open.spotify.com/album/0t1iffAumjQ64OXKgiwMeQ) | 3:17 | 2026-07-20 | 2026-07-29 |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-10 | 2024-07-25 |
 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 | 2025-02-19 | 2025-02-25 |
+| [Oo](https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi) | [Midnight Talking](https://open.spotify.com/artist/0I9iFNGtuhl2elalmioDoy) | [Oo](https://open.spotify.com/album/6cL6hj5BjAsIk1HHcvGJQf) | 4:12 | 2026-10-05 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 | 2023-12-02 |
 | [OSA](https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [OSA](https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr) | 3:35 | 2025-11-24 | 2025-12-02 |
 | [OYAYI](https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Keene Leonor](https://open.spotify.com/artist/71B2UzHJV0hBcWOMY5kUOb) | [OYAYI](https://open.spotify.com/album/6Ds1JbP4vYQ69HmRYPvyBA) | 5:24 | 2024-10-24 | 2024-11-21 |
@@ -338,7 +340,7 @@
 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 | 2025-11-13 |  |
 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 | 2025-07-16 | 2025-08-02 |
 | [Pakiusap](https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balik\-tanaw](https://open.spotify.com/album/4trBemFPhex5qU3515inkl) | 5:04 | 2025-12-01 | 2026-01-20 |
-| [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-08 |  |
+| [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-08 | 2026-10-05 |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 |  |
 | [Palaging Masaya](https://open.spotify.com/track/4I7T76QWKWEjCpPTfGP6jq) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Palaging Masaya](https://open.spotify.com/album/4R60jek85Uw3wF6Wq4RyXc) | 3:58 | 2025-04-30 | 2025-05-10 |
 | [Palaisipan](https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v), [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Saan Ba Pupunta?](https://open.spotify.com/album/3Zch40hPayH1X01LvDwBF7) | 3:57 | 2026-09-29 |  |
@@ -405,7 +407,7 @@
 | [Sa Akin](https://open.spotify.com/track/2v45munevlvd1txsa6cNRx) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Sa Akin](https://open.spotify.com/album/4gxkPjllQ8dyLt3frMA5wI) | 3:10 | 2026-02-03 | 2026-02-12 |
 | [Sa Isip Na Lang](https://open.spotify.com/track/6mVStviIlLI5EtnLXv8BOw) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Isip Na Lang](https://open.spotify.com/album/78QtZ5hOfs3TuMQoAwHc3A) | 4:42 | 2026-07-20 | 2026-07-29 |
 | [Sa Pagkupas](https://open.spotify.com/track/5aaBUE4cCE4VAq9CuUy3YZ) | [Levii](https://open.spotify.com/artist/6y1Co0ko15kskGzLkhAN7d) | [Sa Pagkupas](https://open.spotify.com/album/2uolhm9rBQn6Uxn5HQLyva) | 4:59 | 2025-11-07 | 2025-11-18 |
-| [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
+| [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 | 2026-10-05 |
 | [Sa Uulitin](https://open.spotify.com/track/0lAZd9knO0d5whnNyc9CSd) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Sa Uulitin](https://open.spotify.com/album/1WrFw4bSjAWfSDTphv7tPJ) | 4:06 | 2025-11-17 | 2025-11-25 |
 | [Sa Walang Hanggan](https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY), [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Sa Walang Hanggan](https://open.spotify.com/album/300Q4DS2z7WHxexjY4js3O) | 3:53 | 2026-04-22 | 2026-04-29 |
 | [Saan\-saan](https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [LUXEMBOURG](https://open.spotify.com/album/7kZMLlLjTEFwJ7NNmjxYcj) | 4:13 | 2026-03-30 | 2026-04-15 |

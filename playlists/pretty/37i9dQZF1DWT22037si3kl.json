@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151494,
+  "num_followers": 151497,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2026-09-28 02:21:00",
@@ -587,6 +587,30 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
       },
@@ -643,30 +667,6 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "JECI",
-          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Foco",
-      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
         "name": "Linguagem De Rua",
         "url": "https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 128966,
       "name": "DE ONDE ELE VEM?",
       "url": "https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Acha que Eu N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
     },
     {
       "added_at": "2026-09-28 02:21:00",
@@ -727,6 +707,26 @@
       "duration_ms": 146677,
       "name": "Sentido Aranha",
       "url": "https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Acha que Eu N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
     },
     {
       "added_at": "2026-09-28 02:21:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
+        "name": "Eu Meto Bronca",
+        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Eu Meto Bronca",
+      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
         "name": "\u00c9 Que os Menino \u00c9 Bom",
         "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 145655,
       "name": "\u00c9 Que os Menino \u00c9 Bom",
       "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
-        "name": "Eu Meto Bronca",
-        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Eu Meto Bronca",
-      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
       "added_at": "2026-09-28 02:21:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
+        "name": "Alta Massa (ATM)",
+        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Alta Massa (ATM)",
+      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
         "name": "Spliff",
         "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 137142,
       "name": "Spliff",
       "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
-        "name": "Alta Massa (ATM)",
-        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Alta Massa (ATM)",
-      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
     },
     {
       "added_at": "2026-09-28 02:21:00",
@@ -983,6 +983,30 @@
     {
       "added_at": "2026-09-28 02:21:00",
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+    },
+    {
+      "added_at": "2026-09-28 02:21:00",
+      "album": {
         "name": "Lealdade Primeiro",
         "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
       },
@@ -1007,30 +1031,6 @@
       "duration_ms": 198771,
       "name": "Grandeza",
       "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
-    },
-    {
-      "added_at": "2026-09-28 02:21:00",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
     },
     {
       "added_at": "2026-09-28 02:21:00",

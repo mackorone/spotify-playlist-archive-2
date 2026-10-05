@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31386,
+  "num_followers": 31383,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAACJPAnwhRNRJWKat5P7bgAr",
+  "snapshot_id": "asBFgAAAAAC6PdM+woxyBCjnq45H+BzK",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130612,
-      "name": "Meet The Redds (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Meet The Redds (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girlz Run The World",
-        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "5 Star Freak (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girlz Run The World",
+        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "5 Star Freak (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Sexyy Love Money (feat. VonOff1700)",
-      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
     },
     {
       "added_at": null,

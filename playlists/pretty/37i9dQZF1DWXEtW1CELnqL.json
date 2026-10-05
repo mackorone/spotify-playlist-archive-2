@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 92022,
+  "num_followers": 92033,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,18 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
-        "name": "My Only Angel (Desert Road Version)",
-        "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 255818,
-      "name": "My Only Angel",
-      "url": "https://open.spotify.com/track/2xkypDKYP2cyvRIfPKQ3hX"
+      "duration_ms": 226106,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
     },
     {
       "added_at": "2026-06-01 14:22:07",
@@ -831,34 +827,22 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+        "name": "My Only Angel (Desert Road Version)",
+        "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
       },
       "artists": [
         {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
-    },
-    {
-      "added_at": "2026-06-01 14:22:07",
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
         {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Unsung",
-      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/2xkypDKYP2cyvRIfPKQ3hX"
     },
     {
       "added_at": "2026-06-01 14:22:07",
@@ -875,6 +859,22 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "added_at": "2026-06-01 14:22:07",
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Unsung",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
     },
     {
       "added_at": "2026-06-01 14:22:07",

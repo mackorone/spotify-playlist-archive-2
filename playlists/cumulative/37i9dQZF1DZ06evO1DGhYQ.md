@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 39 min
+73 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [I Want A Chance For Romance](https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:00 | 2023-08-19 |  |
 | [IN THE MOOD FOR LOVE](https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:29 | 2023-01-26 |  |
 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 | 2022-12-23 |  |
-| [Jungle Love（Instrumental）](https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 | 2024-11-20 |  |
+| [Jungle Love（Instrumental）](https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 | 2024-11-20 | 2026-10-05 |
 | [KEEP YOUR HEAD UP](https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:14 | 2022-12-23 |  |
 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 | 2023-07-29 |  |
 | [Lonely](https://open.spotify.com/track/5zVKtLmay2prqHsRSDBuCR) | [Evie Clair](https://open.spotify.com/artist/7K4kPTcSdsMPSgUZuMOBpH), [Christina](https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Lonely](https://open.spotify.com/album/09BAPBuFcC954BFuppwQNq) | 2:34 | 2023-04-08 | 2023-10-02 |
 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 | 2023-03-05 |  |
 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 | 2023-03-30 | 2026-04-27 |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2022-12-23 |  |
+| [LOST IN PARADISE x ALI, AKLO \- ［SKA］SHOWDOWN 2026.3.31 at TOKYO GARDEN THEATER](https://open.spotify.com/track/0jUUtUMAYx0cyThzkLk9FK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [［SKA］SHOWDOWN 2026.3.31 at TOKYO GARDEN THEATER](https://open.spotify.com/album/1tXqALKiZ27oDwlov2jBT0) | 6:17 | 2026-10-05 |  |
 | [LOVE IS KILLING ME](https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE IS KILLING ME](https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS) | 3:29 | 2025-02-22 |  |
 | [Luna](https://open.spotify.com/track/0P2hVvORlSTc4YWGmXwNxF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Shadowdancer](https://open.spotify.com/album/0HIabbhlrC7YyxOGzgVLTP) | 1:50 | 2023-09-21 | 2023-09-26 |
 | [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 | 2023-01-28 |  |

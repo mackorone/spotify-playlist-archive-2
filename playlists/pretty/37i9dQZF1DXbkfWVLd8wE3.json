@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 306320,
+  "num_followers": 306457,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,34 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
+      },
+      "artists": [
+        {
+          "name": "Terror Squad",
+          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "remy",
+          "url": "https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Lean Back",
+      "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -515,34 +543,6 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
-      },
-      "artists": [
-        {
-          "name": "Terror Squad",
-          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        },
-        {
-          "name": "remy",
-          "url": "https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Lean Back",
-      "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Hood Hop",
-        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
-      },
-      "artists": [
-        {
-          "name": "J-Kwon",
-          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Tipsy - Club Mix",
-      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Thank Me Later (Int'l Version)",
-        "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB"
+        "name": "Hood Hop",
+        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "J-Kwon",
+          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1EoHEkVcysf4WVDx6r9WzQ"
+      "duration_ms": 243226,
+      "name": "Tipsy - Club Mix",
+      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -895,6 +879,22 @@
       "duration_ms": 303026,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Thank Me Later (Int'l Version)",
+        "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1EoHEkVcysf4WVDx6r9WzQ"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Gossip Folks (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 191600,
       "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Gossip Folks (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "God's Favorite",
-        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
-      },
-      "artists": [
-        {
-          "name": "N.O.R.E.",
-          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Nothin'",
-      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 238600,
       "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
       "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
     },
     {
       "added_at": "2024-10-25 23:07:14",

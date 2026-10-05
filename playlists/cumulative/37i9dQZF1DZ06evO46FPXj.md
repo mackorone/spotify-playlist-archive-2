@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-249 songs - 1 day 5 hr 14 min
+250 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cichli](https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 8:52 | 2023-02-14 |  |
 | [Cichli](https://open.spotify.com/track/7frCwFeWuBpTEV4s23cslO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:52 | 2022-05-29 | 2023-02-15 |
 | [Cipater](https://open.spotify.com/track/5sRGRFwxl6adPFahFo5duq) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:57 | 2022-05-29 | 2023-02-15 |
-| [Cipater](https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 8:57 | 2023-02-14 |  |
+| [Cipater](https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 8:57 | 2023-02-14 | 2026-10-05 |
 | [Clipper](https://open.spotify.com/track/0tH7mxb2ML1VlOinHRcelQ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:34 | 2022-05-29 | 2023-02-17 |
 | [Clipper](https://open.spotify.com/track/1ArhkZYHmJGXZOMV6NwxjJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 8:34 | 2023-02-16 |  |
 | [cloudline](https://open.spotify.com/track/3Q0IL8QISH9jsChlpj81Yp) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 10:12 | 2022-06-26 | 2022-09-20 |
@@ -114,6 +114,7 @@
 | [ii.pre esc](https://open.spotify.com/track/5dpsBQjhLbNSv43WLwhUAc) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/1uFL8idnNTz0CdvLYyCGBC) | 4:47 | 2026-01-15 | 2026-02-12 |
 | [ilanders](https://open.spotify.com/track/5VdNacx3OG9fhO8mxd7YKq) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 5:32 | 2025-03-26 | 2025-11-30 |
 | [IO](https://open.spotify.com/track/4IszMyXH7RFkR12pumBuQF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 3:08 | 2024-06-06 | 2024-12-19 |
+| [Ipacial Section](https://open.spotify.com/track/2xWlyEuNYOuRSC4MdCn0CF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/5GkWqRrNyaJHMDrVOQK2bt) | 9:57 | 2026-10-05 |  |
 | [Ipacial Section](https://open.spotify.com/track/6CWoiavul0eaq8zxxM5yx5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 9:57 | 2022-05-29 | 2022-10-12 |
 | [irlite \(get 0\)](https://open.spotify.com/track/2WvxMVdPnhdyXVUDSDlXYK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 10:01 | 2023-12-29 | 2026-06-21 |
 | [irlite \(get 0\)](https://open.spotify.com/track/7amseaXaT2ULOwWALO8gNl) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 10:01 | 2022-06-20 | 2022-09-11 |

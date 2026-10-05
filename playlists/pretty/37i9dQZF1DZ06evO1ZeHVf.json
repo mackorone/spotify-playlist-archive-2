@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 58498,
+  "num_followers": 58518,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADkGY1D9YASYzPy5eAmSqLQ",
+  "snapshot_id": "asBFgAAAAADFEM7XqGWP4KSe28NE2npz",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hymns",
-        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 253337,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrating Fisk! (The 150th Anniversary Album)",
         "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 220923,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hymns",
+        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 320110,
-      "name": "Waging War",
-      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 260200,
       "name": "No One",
       "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210893,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
     },
     {
       "added_at": null,

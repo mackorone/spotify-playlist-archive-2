@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: KUKO
 
-410 songs - 1 day 3 hr 21 min
+411 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Báilalo](https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [KRACH](https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G) | [Báilalo](https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM) | 2:17 | 2026-02-19 | 2026-04-24 |
 | [Call You](https://open.spotify.com/track/49LfEfjcR0iLKNIEaWvBAe) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [Call You](https://open.spotify.com/album/6rLQJEfNQDStkDBgfUldrZ) | 3:27 | 2025-07-22 | 2025-07-25 |
 | [Calvin Klein](https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR) | [Andrew Cairns](https://open.spotify.com/artist/6DqZtx0QR4tIjt9sRN4kO1) | [Calvin Klein](https://open.spotify.com/album/57SHeyxA2ubPJFNExodhzB) | 7:42 | 2024-06-14 | 2024-06-17 |
+| [Came To Meet My Fate](https://open.spotify.com/track/7t3NowbN4PIRNLYBAtMJlN) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ), [F8](https://open.spotify.com/artist/3MgJTUyF6qWAd5OUpb0559) | [Came To Meet My Fate](https://open.spotify.com/album/4OnZq7jnUXY3BchBveJRXP) | 2:46 | 2026-09-24 |  |
 | [Can You Feel It](https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [CHAST](https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB) | [Can You Feel It](https://open.spotify.com/album/57bbRzO01n3k5md318EFtK) | 4:06 | 2024-07-21 | 2024-08-06 |
 | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/track/4fXvts788dXktwkYXJeYJt) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/album/2EZpctLyjdoeLVrR5kf7KU) | 3:33 | 2025-02-07 | 2025-02-21 |
 | [Catharsis](https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Catharsis](https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie) | 3:46 | 2026-06-25 |  |
@@ -283,7 +284,7 @@
 | [Overdose](https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Overdose](https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT) | 2:51 | 2026-04-03 |  |
 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 | 2024-08-03 |
 | [People Stomping](https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [People Stomping](https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy) | 3:20 | 2025-08-08 | 2026-04-04 |
-| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
+| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 | 2026-10-05 |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 | 2025-11-21 | 2026-02-05 |

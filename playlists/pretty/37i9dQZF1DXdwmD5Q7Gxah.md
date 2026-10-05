@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > sometimes i rush\. cover: daine <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,773 likes - 137 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,745 likes - 137 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

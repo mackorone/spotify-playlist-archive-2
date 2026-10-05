@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 124 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 124 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
-| 2 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
+| 1 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 |
+| 2 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
 | 3 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
 | 4 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
 | 5 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 66 | [Te Amar É O Meu Respirar](https://open.spotify.com/track/1BqopyXnUS7xF10gO52s1t) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 2:57 |
 | 67 | [Grande Dia](https://open.spotify.com/track/3p2evDMVG7jHZvRXpOYdF0) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração \(Deluxe Edition\)](https://open.spotify.com/album/3aV52rP9GGmEsceRcdKWqv) | 4:48 |
 | 68 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 |
-| 69 | [Escreve o Teu Nome em Nós \- Playback](https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Escreve o Teu Nome em Nós \(Playback\)](https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy) | 4:56 |
-| 70 | [Excede o Entendimento \- Live Session](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Live Session\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
+| 69 | [Excede o Entendimento \- Live Session](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Live Session\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
+| 70 | [Escreve o Teu Nome em Nós \- Playback](https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Escreve o Teu Nome em Nós \(Playback\)](https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy) | 4:56 |
 | 71 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 |
 | 72 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
 | 73 | [Deus Faz \- Ao Vivo](https://open.spotify.com/track/26SL8KF1JjJQjFTmfjLLWB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 4:59 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 123 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
 | 124 | [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/1IrtF2Mnk8i4OJY2zgdZiq) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 |
 
-Snapshot ID: `Acd/bAAAAADLHKK3RT9J13SAod8dMR93`
+Snapshot ID: `AceE0AAAAAAgQVMVpmo6ttn9wihtWhRj`

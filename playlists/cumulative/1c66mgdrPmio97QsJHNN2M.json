@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "After Hour (Still Lit)",
+        "url": "https://open.spotify.com/album/6t5dvDF5Qx9l28t2UQsIcd"
+      },
+      "artists": [
+        {
+          "name": "Bless The Artist",
+          "url": "https://open.spotify.com/artist/1OXanIw6SvyFFA5ogVe3h4"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118080,
+      "name": "After Hour (Still Lit)",
+      "url": "https://open.spotify.com/track/2386wldclBm6n61BXlrU4K"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/03qwOgeCy28NyQQaN4jSkV"
       },
@@ -9130,6 +9148,24 @@
       "duration_ms": 165430,
       "name": "Compass Heart",
       "url": "https://open.spotify.com/track/2IADPVmUDZWO8F0ULSyaLN"
+    },
+    {
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/63T9czx0zCoJ8qRUZq2dfo"
+      },
+      "artists": [
+        {
+          "name": "Good Fortune",
+          "url": "https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170345,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/4wEAx5VrpVJKrVm8LxRvuQ"
     },
     {
       "album": {
@@ -28760,6 +28796,24 @@
       "duration_ms": 145612,
       "name": "Lucy & Wanqiu",
       "url": "https://open.spotify.com/track/1jlOXKsBIZL9a7aJ3OmXiK"
+    },
+    {
+      "album": {
+        "name": "Luminous Locus",
+        "url": "https://open.spotify.com/album/2EYt75eUiPQxlqP5mercMo"
+      },
+      "artists": [
+        {
+          "name": "nomadogma",
+          "url": "https://open.spotify.com/artist/4IcelD3jZeFRfxXyFAwKtq"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Luminous Locus",
+      "url": "https://open.spotify.com/track/6eDkITRQ6cXbPjAPpEocGp"
     },
     {
       "album": {
@@ -51295,6 +51349,28 @@
     },
     {
       "album": {
+        "name": "We'll Never Know",
+        "url": "https://open.spotify.com/album/7g3ynsoCESDeJsRfCL8Izj"
+      },
+      "artists": [
+        {
+          "name": "Whistler Collective",
+          "url": "https://open.spotify.com/artist/48F6AS5khz4GGPnVeDNVGZ"
+        },
+        {
+          "name": "Alyssa Jane",
+          "url": "https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176598,
+      "name": "We'll Never Know",
+      "url": "https://open.spotify.com/track/6mSo9rLiT1CrgciIjtHRoI"
+    },
+    {
+      "album": {
         "name": "We're alive",
         "url": "https://open.spotify.com/album/5Qj5BXIP5DcVLzzmVO59Cs"
       },
@@ -51570,6 +51646,24 @@
       "duration_ms": 136751,
       "name": "What A Tragedy",
       "url": "https://open.spotify.com/track/4sCFUBgLupIdoQb95r6ofd"
+    },
+    {
+      "album": {
+        "name": "What Am I",
+        "url": "https://open.spotify.com/album/14MOERu7JP2u8tB50FkhqL"
+      },
+      "artists": [
+        {
+          "name": "Horizon Beyond",
+          "url": "https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297432,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/2pTAmnEvkTCAJst2V6YM5Q"
     },
     {
       "album": {

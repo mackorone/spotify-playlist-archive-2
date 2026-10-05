@@ -4,7 +4,7 @@
 
 > This is imase\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 10 min
+58 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [EGOIST](https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [EGOIST](https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d) | 3:12 | 2025-01-11 |  |
 | [Fiction](https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Fiction](https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe) | 3:22 | 2026-07-11 |  |
 | [FRIENDS!!!](https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [FRIENDS!!!](https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc) | 3:52 | 2025-02-23 |  |
-| [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 | 2024-05-17 |  |
+| [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 | 2024-05-17 | 2026-10-05 |
 | [Happy Order?](https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Happy Order?](https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG) | 3:31 | 2024-04-04 | 2024-07-29 |
 | [Happy Order?](https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 3:32 | 2024-07-29 |  |
 | [Have a nice day](https://open.spotify.com/track/5SWxyVd5Q5c1jzPpdL9olt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 2:55 | 2023-12-29 |  |
@@ -34,15 +34,16 @@
 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 | 2024-03-09 |  |
 | [Soyokaze](https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Soyokaze](https://open.spotify.com/album/153YmjTil9pifgOigfs315) | 3:36 | 2025-03-30 |  |
 | [あべこべ](https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:20 | 2023-12-26 |  |
-| [いい湯だな 2025 \- imase × mabanua MIX](https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [いい湯だな 2025 \(imase × mabanua MIX\)](https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z) | 3:54 | 2025-05-25 |  |
+| [いい湯だな 2025 \- imase × mabanua MIX](https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [いい湯だな 2025 \(imase × mabanua MIX\)](https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z) | 3:54 | 2025-05-25 | 2026-10-05 |
 | [うたう](https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [うたう](https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu) | 3:07 | 2023-12-26 |  |
 | [でもね、たまには](https://open.spotify.com/track/6xxFBc6UtaHbAfHJ2SpfpV) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:06 | 2023-12-26 |  |
+| [ねぇ、きっと](https://open.spotify.com/track/1az03rCfF143HqmFZCsbJ4) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:13 | 2026-10-05 |  |
 | [アウトライン](https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [アウトライン](https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej) | 3:59 | 2024-10-28 |  |
 | [アナログライフ](https://open.spotify.com/track/6iYr7CUH6RckGSB3yGOm81) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:13 | 2023-12-26 |  |
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-06 |  |
 | [ココロウチュウ](https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ココロウチュウ](https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb) | 3:16 | 2024-09-27 |  |
 | [サービスエリア](https://open.spotify.com/track/4x7FxtOoeIAtDU1mTggeOa) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:49 | 2026-10-04 |  |
-| [ツナガルウチュウ！](https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ツナガルウチュウ！](https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz) | 2:40 | 2024-09-27 |  |
+| [ツナガルウチュウ！](https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ツナガルウチュウ！](https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz) | 2:40 | 2024-09-27 | 2026-10-05 |
 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 | 2023-12-26 |  |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-12-26 |  |
 | [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 | 2024-11-10 |  |
@@ -52,6 +53,8 @@
 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 | 2024-09-01 |  |
 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 | 2023-12-26 |  |
 | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 | 2024-07-03 |  |
+| [二度寝を許さない猫](https://open.spotify.com/track/3J2rnsK2b0fj1lJ5NEScdv) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 2:07 | 2026-10-05 |  |
+| [仕草](https://open.spotify.com/track/3051x0qI9TSndFLGMEL5qe) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 4:09 | 2026-10-05 |  |
 | [僕らだ](https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [僕らだ](https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV) | 3:18 | 2023-12-26 |  |
 | [名前のない日々](https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [名前のない日々](https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1) | 4:14 | 2025-04-19 |  |
 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 | 2024-02-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  CHANGMO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,791 likes - 101 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,751 likes - 101 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

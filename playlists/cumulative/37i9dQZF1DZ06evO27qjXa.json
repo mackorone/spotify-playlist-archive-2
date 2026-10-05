@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Burning Energy!",
+        "url": "https://open.spotify.com/album/59K3YaAwxti0OT65SChvno"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242175,
+      "name": "I Got That Rhythm!",
+      "url": "https://open.spotify.com/track/4RNI2T3VjXFgu4PtrSdK8T"
+    },
+    {
+      "album": {
         "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
         "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 214614,
       "name": "Math Whiz - Addition Version",
       "url": "https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW"

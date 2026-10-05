@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117450,
+  "num_followers": 117445,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Crusades Of The Restless Knights",
         "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "It Had To Happen",
-        "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 439440,
-      "name": "No More Buffalo",
-      "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Tennessee",
         "url": "https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 235680,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "It Had To Happen",
+        "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 439440,
+      "name": "No More Buffalo",
+      "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
+        "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
+      },
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "You Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 245333,
       "name": "Mountain Girl",
       "url": "https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
-        "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
-      },
-      "artists": [
-        {
-          "name": "Loudon Wainwright III",
-          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "You Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
+      "duration_ms": 280320,
+      "name": "Tennessee Song",
+      "url": "https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL"
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
         }
       ],
-      "duration_ms": 280320,
-      "name": "Tennessee Song",
-      "url": "https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5"
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
     },
     {
       "added_at": "2026-06-19 04:01:42",

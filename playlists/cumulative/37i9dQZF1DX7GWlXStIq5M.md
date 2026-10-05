@@ -4,7 +4,7 @@
 
 > Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita
 
-1,228 songs - 2 day 12 hr 53 min
+1,229 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [que pasa cntg?](https://open.spotify.com/track/2w39P6mpknbYougEyLm4la) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [que pasa cntg?](https://open.spotify.com/album/4dt9o9LvRQyYQOTgo6qX5F) | 4:32 | 2023-07-07 | 2023-08-26 |
 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 | 2023-06-16 | 2023-09-16 |
 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 | 2025-01-31 | 2025-05-23 |
+| [Que Saudade da Gente](https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Que Saudade da Gente](https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB) | 2:23 | 2026-10-02 |  |
 | [Que saudade de você](https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [Gene Evaro Jr.](https://open.spotify.com/artist/1YRe2Misa5PCCUiR8jAPZE) | [Que saudade de você](https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5) | 4:25 | 2023-12-08 | 2024-01-13 |
 | [Que Tal](https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:10 | 2023-08-16 | 2025-05-03 |
 | [Queda Livre](https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14) | [NATI OFICIAL](https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4) | [Queda Livre](https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj) | 1:41 | 2025-11-28 | 2026-03-14 |
@@ -952,7 +953,7 @@
 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 | 2025-08-22 | 2026-06-19 |
 | [Remédio](https://open.spotify.com/track/4Y1SaY635z0kijjE26jD4Y) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [JOVEM](https://open.spotify.com/album/3DMgCHjSZYnwbPQfdK0Ybk) | 2:40 | 2023-06-16 | 2023-07-08 |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-14 | 2023-04-01 |
-| [Ressaca da Saudade](https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD), [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Ressaca da Saudade](https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj) | 2:52 | 2026-05-01 |  |
+| [Ressaca da Saudade](https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD), [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Ressaca da Saudade](https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj) | 2:52 | 2026-05-01 | 2026-10-05 |
 | [Reunião Dos Cria](https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Miatã](https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5) | 3:48 | 2020-10-20 | 2022-07-27 |
 | [Revoada](https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Revoada](https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK) | 3:27 | 2023-12-22 | 2024-02-24 |
 | [REVOLTA](https://open.spotify.com/track/0NmYnUM5xHZ9HbHU94sxca) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [REVOLTA](https://open.spotify.com/album/6mRGVZwI1KEc5QdGpu0VQd) | 2:41 | 2023-05-26 | 2023-06-17 |

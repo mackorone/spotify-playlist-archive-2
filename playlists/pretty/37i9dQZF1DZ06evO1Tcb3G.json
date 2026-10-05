@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 535711,
+  "num_followers": 535765,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAQdl55OtFSQnS2C92xARcw",
+  "snapshot_id": "asBFgAAAAAAUZcHh1iZda8OQ5GYMGsmB",
   "tracks": [
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 312626,
-      "name": "Tompkins Square Park",
-      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
+      "duration_ms": 312626,
+      "name": "Tompkins Square Park",
+      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
       "duration_ms": 192333,
       "name": "Icarus (with Gigi Perez)",
       "url": "https://open.spotify.com/track/7KK6Cd4lhD1szEpIUGCB1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Wilder Mind",
-      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
     },
     {
       "added_at": null,
@@ -403,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Roll Away Your Stone",
-      "url": "https://open.spotify.com/track/2g4tUgmWsuK6wzsqSzftrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Traveller (Special Edition)",
         "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 266930,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Roll Away Your Stone",
+      "url": "https://open.spotify.com/track/2g4tUgmWsuK6wzsqSzftrr"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Timshel",
-      "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 339720,
       "name": "Ghosts That We Knew",
       "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
     },
     {
       "added_at": null,

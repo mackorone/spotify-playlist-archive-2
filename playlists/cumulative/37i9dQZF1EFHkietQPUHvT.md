@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-131 songs - 6 hr 38 min
+132 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 | 2024-02-26 |  |
 | [First Last Time](https://open.spotify.com/track/5gFYe6ngpSJe0fH7snUMfe) | [Deeps](https://open.spotify.com/artist/2Z6S0daezacaUwUukXQUqJ) | [First Last Time](https://open.spotify.com/album/50aXhsbgDyCQAsBynMNTBP) | 3:03 | 2025-06-26 |  |
 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 | 2025-02-02 |  |
+| [Get Me High](https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 3:25 | 2026-10-04 |  |
 | [Ghummi Ghummi](https://open.spotify.com/track/6NmOh0O40DecD1xCJSuf7p) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:12 | 2024-02-26 |  |
 | [Glasheen Road](https://open.spotify.com/track/50Y6DDQlOLdVOFHIktJBgw) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 3:20 | 2024-12-11 |  |
 | [Guess She's Cool](https://open.spotify.com/track/2EHfWbPuShkr77dbidqZ1k) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Guess She’s Cool](https://open.spotify.com/album/3RAyDRKWY6KfrcsKZzpQFC) | 3:43 | 2025-08-11 | 2026-02-02 |

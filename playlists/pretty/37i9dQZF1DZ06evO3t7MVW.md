@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,346 likes - 47 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,348 likes - 47 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 23 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
 | 24 | [Above the Storm](https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:54 |
 | 25 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
-| 26 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
-| 27 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
+| 26 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
+| 27 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
 | 28 | [In This Love](https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:12 |
 | 29 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
 | 30 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 46 | [Fight the Feeling](https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:02 |
 | 47 | [Vibes Alive](https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 4:48 |
 
-Snapshot ID: `ar70AAAAAABsKr81oIJabaAfbgLvw9ye`
+Snapshot ID: `asBFgAAAAAB1YzRqfMpWA0TnI04sNx10`

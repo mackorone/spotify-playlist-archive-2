@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 1 min
+96 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 | 2022-05-25 | 2023-05-12 |
 | [Just to Be](https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:19 | 2026-07-18 | 2026-10-03 |
 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 | 2022-05-25 | 2026-07-18 |
+| [Just To Be](https://open.spotify.com/track/1W8GisAMHL4pGRtGfYZXgL) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Just To Be](https://open.spotify.com/album/0YAszlcLKCOWKIE2lee84V) | 2:19 | 2026-10-05 |  |
 | [Let Me In Your Mind](https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:10 | 2022-08-13 | 2026-08-20 |
 | [Let's Try It Again](https://open.spotify.com/track/2aPvrQet8EzBFwwO1RZsg1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:24 | 2022-10-30 | 2023-09-26 |
 | [Lonely Lonely](https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:18 | 2022-07-21 | 2026-03-09 |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,936 songs - 5 day 11 hr 22 min
+1,937 songs - 5 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,7 +1036,7 @@
 | [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 | 2022-10-30 |
 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 | 2023-01-13 | 2024-03-02 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2020-03-17 | 2021-03-06 |
-| [Love Pains](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Love Pains](https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9) | 4:25 | 2026-01-23 |  |
+| [Love Pains](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Love Pains](https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9) | 4:25 | 2026-01-23 | 2026-10-05 |
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
@@ -1882,6 +1882,7 @@
 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-06-23 | 2024-08-03 |
 | [Why Not](https://open.spotify.com/track/63fZmLcCAnG1tgGlqLQf0e) | [UTAH](https://open.spotify.com/artist/4n9KeaJeVwx1408RaOsUgL) | [Long Play](https://open.spotify.com/album/2528arkGrs9T77vJsE6nlM) | 3:16 | 2020-07-03 | 2020-10-09 |
 | [Why?](https://open.spotify.com/track/04wkYeLXejtH879CwgX3bR) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Why?](https://open.spotify.com/album/1WQntL25hIv8KTQBqSOCfW) | 4:32 | 2020-07-18 | 2020-10-10 |
+| [WIDE AWAKE](https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [WIDE AWAKE](https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6) | 3:06 | 2026-10-02 |  |
 | [Wide Awake](https://open.spotify.com/track/67V4jumh3KeYtekP8ggy6i) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [Wide Awake](https://open.spotify.com/album/1A9lTISWDSu04MUbGXGoLt) | 4:16 | 2021-12-10 | 2022-07-29 |
 | [Wide Awake](https://open.spotify.com/track/2ZPDsG5Ps3VUaXHEvsjxV6) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Wide Awake](https://open.spotify.com/album/0oKYGtIpwZHsPFi1rAwA6z) | 3:15 | 2020-03-16 | 2020-10-09 |
 | [Wild](https://open.spotify.com/track/1AmvRKGEjNMhHlk2Uwlamy) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wild](https://open.spotify.com/album/5coQBv0VrEkvkMvpmP89CI) | 3:46 | 2021-05-28 | 2022-07-29 |

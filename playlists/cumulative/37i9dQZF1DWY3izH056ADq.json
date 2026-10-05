@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 212850,
       "name": "DO or DIE",
       "url": "https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 205920,
       "name": "New \uff06 Classic",
       "url": "https://open.spotify.com/track/6pkYkpcB1VbexZRe7Epz3o"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 187464,
       "name": "ONE WAY",
       "url": "https://open.spotify.com/track/3TN8y8iLSjlPP7oZyg7jnp"
@@ -3226,6 +3226,24 @@
       "duration_ms": 232672,
       "name": "\u042fesonance",
       "url": "https://open.spotify.com/track/5fxY8RGA1HVss4W2MRExks"
+    },
+    {
+      "album": {
+        "name": "Paradox Live covers \u201cPROPS\u201d",
+        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210032,
+      "name": "\u304b\u3064\u3066\u5929\u624d\u3060\u3063\u305f\u4ffa\u305f\u3061\u3078",
+      "url": "https://open.spotify.com/track/3eSN3QAJsLqWzvWA61j4Wk"
     },
     {
       "album": {

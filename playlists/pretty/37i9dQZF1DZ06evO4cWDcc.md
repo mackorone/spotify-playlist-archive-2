@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,342 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,356 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 14 | [Somewhere](https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 4:06 |
 | 15 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 |
 | 16 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
-| 17 | [Foxey Lady](https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:18 |
+| 17 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
 | 18 | [Mercy, Mercy \- Single/LP Version](https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 2:25 |
 | 19 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 |
 | 20 | [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 |
-| 21 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
+| 21 | [Foxey Lady](https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:18 |
 | 22 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
 | 23 | [Come On \(Let the Good Times Roll\)](https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:09 |
 | 24 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 38 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 |
 | 39 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
 | 40 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:59 |
-| 41 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
-| 42 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
-| 43 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 |
-| 44 | [Drifting](https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:49 |
+| 41 | [Drifting](https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:49 |
+| 42 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
+| 43 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
+| 44 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 |
 | 45 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
 | 46 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 | 47 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 |
 | 50 | [Power To Love \- Live](https://open.spotify.com/track/7uYNdZA4LnxEwTsmIIUCCu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live At Fillmore East, 1970\)](https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2) | 6:58 |
 
-Snapshot ID: `ar70AAAAAACVFGBO11cuG8zfyWDpbfFp`
+Snapshot ID: `asBFgAAAAAA6Orkkerjg6IjLpEzASQNf`

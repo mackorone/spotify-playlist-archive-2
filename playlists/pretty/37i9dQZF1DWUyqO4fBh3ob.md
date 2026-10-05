@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,530 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,538 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wein](https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Wein](https://open.spotify.com/album/6qpyG94O0DlV4wubXAlyLN) | 2:52 |
 | 2 | [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 |
-| 3 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 |
-| 4 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnoon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
+| 3 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnoon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
+| 4 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 |
 | 5 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
 | 6 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 |
 | 7 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 22 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 |
 | 23 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
 | 24 | [El'nayzak](https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [El'nayzak](https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9) | 2:16 |
-| 25 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 26 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
+| 25 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
+| 26 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 27 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
 | 28 | [Hakyatik Tarab](https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS) | [Samer Gabro](https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH) | [Hakyatik Tarab](https://open.spotify.com/album/6n2KNufhAMPBX5mALEEUWb) | 3:32 |
 | 29 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 34 | [Ra7 7ibbak Mn Jdeed](https://open.spotify.com/track/5ZiThWWzFLChqM3ijxPjH3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Ra7 7ibbak Mn Jdeed](https://open.spotify.com/album/1ganulkBkR9PjD288vm2Fj) | 4:05 |
 | 35 | [Kellon Annek Sa'alouni](https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy) | [Elias Karam](https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR), [Rawhi Tohme](https://open.spotify.com/artist/4Lh8FRO93HuhBYbgC0rJ4S) | [Bass Elak](https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1) | 6:01 |
 | 36 | [Ma Mallet](https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Sarya Al Sawas 2014](https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V) | 4:12 |
-| 37 | [Sallemi](https://open.spotify.com/track/2I6PXRnHtL6G6YDOM4Ljfo) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Sallemi](https://open.spotify.com/album/3lEELLmqKTFtlkD0pTx83b) | 3:12 |
-| 38 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
+| 37 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
+| 38 | [Sallemi](https://open.spotify.com/track/2I6PXRnHtL6G6YDOM4Ljfo) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Sallemi](https://open.spotify.com/album/3lEELLmqKTFtlkD0pTx83b) | 3:12 |
 | 39 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 |
 | 40 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
 | 41 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 |

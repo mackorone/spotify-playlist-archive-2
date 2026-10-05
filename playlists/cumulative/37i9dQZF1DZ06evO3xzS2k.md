@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 58 min
+81 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Downward Years to Come](https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:08 | 2022-09-16 |  |
 | [Eaten by Worms](https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:00 | 2022-09-16 |  |
 | [Endlessly](https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:13 | 2022-09-16 |  |
-| [essential tremors](https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:10 | 2026-03-01 | 2026-10-03 |
+| [essential tremors](https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:10 | 2026-03-01 |  |
 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 | 2022-09-16 |  |
 | [Fever Queen](https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 2:56 | 2022-09-16 |  |
 | [Forever Well](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:07 | 2023-12-13 |  |
@@ -41,6 +41,7 @@
 | [Heavy Water / I'd Rather Be Sleeping \- DOTB B Side](https://open.spotify.com/track/79KTG4D0tqWjAAU0eFcLYY) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 4:08 | 2022-09-16 | 2025-09-21 |
 | [Holocaust](https://open.spotify.com/track/5GmSO2eJM2BBuYEmWao2Ta) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty Of Everything 10 Year B Sides](https://open.spotify.com/album/55eNrnAl6w7sLhUE19xE56) | 4:38 | 2023-12-13 | 2024-01-22 |
 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 | 2022-09-16 |  |
+| [I DON'T WANNA SAY GOODBYE](https://open.spotify.com/track/1RtGRCzPkX03Lkv9G7FjLZ) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [I DON'T WANNA SAY GOODBYE](https://open.spotify.com/album/44isyyACYz1jWZshEBSBAc) | 3:31 | 2026-10-05 |  |
 | [I Hate the Flowers](https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:21 | 2022-09-16 |  |
 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 | 2022-09-16 | 2025-11-08 |
 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 | 2022-10-21 |  |
@@ -60,7 +61,7 @@
 | [Our Plague](https://open.spotify.com/track/52GxXiWKYRCy1z8RxGYWiT) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:29 | 2024-05-24 | 2024-07-22 |
 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 | 2022-09-16 | 2025-10-06 |
 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 | 2022-09-16 |  |
-| [purple strings](https://open.spotify.com/track/1yZT5UA1LMo6cAyJfNwgzu) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:42 | 2026-03-15 |  |
+| [purple strings](https://open.spotify.com/track/1yZT5UA1LMo6cAyJfNwgzu) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:42 | 2026-03-15 | 2026-10-05 |
 | [purple strings](https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [purple strings](https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH) | 4:42 | 2025-12-10 | 2026-03-04 |
 | [Rhythmic Waterside Dreams](https://open.spotify.com/track/03zzARsjqHmGksgczjTkK6) | [Ambient Quokka](https://open.spotify.com/artist/11Fsp1uMcnrDlwjqM2kxzk), [At The End Of Times](https://open.spotify.com/artist/7CoryHVKlglEp1s0zkchc5), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Flowing Harmony: River's Serenading Tunes](https://open.spotify.com/album/3nT0dPS7oXPAmf838XLmYR) | 2:00 | 2024-01-06 | 2024-01-10 |
 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 | 2023-12-13 |  |

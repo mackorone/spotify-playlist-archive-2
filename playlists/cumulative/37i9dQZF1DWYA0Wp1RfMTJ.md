@@ -4,7 +4,7 @@
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-79 songs - 17 hr 1 min
+80 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\#3【アオのハコ】  千葉翔也×鬼頭明里 「愛のあるいじりって思いながら、演じています！」](https://open.spotify.com/episode/7mX9pQOodLMhxp8vl03pQu) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:26 | 2025-04-04 |  |
 | [\#4【アオのハコ】  千葉翔也×鬼頭明里 「第４話は“ぶっ飛んだ非日常”ですよ！！」](https://open.spotify.com/episode/4kSBxktB7rXBUJtbHibM3k) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:47 | 2025-04-04 |  |
 | [1 on 1](https://open.spotify.com/track/7COvUGnWFcl87jeSt6LkJO) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 2:12 | 2025-04-03 |  |
+| [blue in](https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [blue in](https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X) | 3:53 | 2026-10-05 |  |
 | [CRAZY](https://open.spotify.com/track/6yzAizkNqyqV64bIirHrPy) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:43 | 2025-04-04 |  |
 | [Nostalgic Place](https://open.spotify.com/track/2Vdh2BC8nndwPv96rOFRYU) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:29 | 2025-04-04 |  |
 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2025-04-03 |  |

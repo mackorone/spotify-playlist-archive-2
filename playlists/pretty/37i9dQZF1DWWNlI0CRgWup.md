@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,784 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,788 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

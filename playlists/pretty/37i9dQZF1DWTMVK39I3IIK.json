@@ -1,6 +1,6 @@
 {
   "description": "unge kniv \ud83d\udd2a @Fine",
-  "num_followers": 47213,
+  "num_followers": 47210,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "gao dan dan",
-        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 132696,
-      "name": "nan peng you",
-      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 150938,
       "name": "drikker med mig selv",
       "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -443,22 +443,18 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "I Made It (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+        "name": "124",
+        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
       },
       "artists": [
         {
           "name": "JOSVA",
           "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
         }
       ],
-      "duration_ms": 209923,
-      "name": "I Made It (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
+      "duration_ms": 175605,
+      "name": "124",
+      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -495,22 +491,6 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "Mandag Til Fredag",
-        "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
-      },
-      "artists": [
-        {
-          "name": "Asger",
-          "url": "https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d"
-        }
-      ],
-      "duration_ms": 197397,
-      "name": "Mandag Til Fredag",
-      "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
         "name": "F\u00f8r du siger farvel",
         "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
       },
@@ -527,18 +507,38 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "124",
-        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
+        "name": "Mandag Til Fredag",
+        "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
+      },
+      "artists": [
+        {
+          "name": "Asger",
+          "url": "https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d"
+        }
+      ],
+      "duration_ms": 197397,
+      "name": "Mandag Til Fredag",
+      "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
       "artists": [
         {
           "name": "JOSVA",
           "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
         }
       ],
-      "duration_ms": 175605,
-      "name": "124",
-      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -559,22 +559,6 @@
       "duration_ms": 215668,
       "name": "HEL IGEN (feat. Chris Abolade)",
       "url": "https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "lao shi",
-        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "lao shi",
-      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
         "name": "Synger Bare",
         "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
@@ -623,38 +623,6 @@
       "duration_ms": 107812,
       "name": "Synger Bare",
       "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "Udsving",
-        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 188752,
-      "name": "Udsving",
-      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -675,6 +643,22 @@
       "duration_ms": 171614,
       "name": "Solrig Altan",
       "url": "https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
+        "name": "Udsving",
+        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 188752,
+      "name": "Udsving",
+      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
         "name": "En Stor Lykkelig Familie",
         "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 195777,
       "name": "En Stor Lykkelig Familie",
       "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "I'm On It",
+        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "I'm On It",
+      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -743,22 +759,6 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "I'm On It",
-        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "I'm On It",
-      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 206434,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 312000,
       "name": "H\u00e6ng En Mand",
       "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 206434,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -871,26 +871,6 @@
       "duration_ms": 197589,
       "name": "S\u00e6tter Alt P\u00e5 Spil",
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        },
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -947,6 +927,26 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
+        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
@@ -983,6 +983,38 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
+        "name": "F\u00f8rhen",
+        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 199313,
+      "name": "F\u00f8rhen",
+      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "p\u00e5 en m\u00e5de er det rart",
+        "url": "https://open.spotify.com/album/7EdU9BjQTvrm80SumtTPFK"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        }
+      ],
+      "duration_ms": 163872,
+      "name": "hvad hvis du d\u00f8r og jeg ik engang ved det",
+      "url": "https://open.spotify.com/track/3wFKS6i6JxjoYt3SxDaayC"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
         "name": "H\u00f8j P\u00e5 Livet",
         "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
       },
@@ -1003,54 +1035,6 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "F\u00f8rhen",
-        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 199313,
-      "name": "F\u00f8rhen",
-      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "Ingen Bund",
-        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 219124,
-      "name": "Ingen Bund",
-      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
-        "name": "Whatyoufeellike",
-        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 166209,
-      "name": "Whatyoufeellike",
-      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "Ingen Bund",
+        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 219124,
+      "name": "Ingen Bund",
+      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -1099,6 +1099,22 @@
       "duration_ms": 208375,
       "name": "S\u00f8mand Af Verden",
       "url": "https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw"
+    },
+    {
+      "added_at": "2026-10-01 22:00:33",
+      "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
     },
     {
       "added_at": "2026-10-01 22:00:33",
@@ -1151,26 +1167,6 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "KOMMER DU HJEM",
-        "url": "https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB"
-      },
-      "artists": [
-        {
-          "name": "MARQ",
-          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
-        },
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "KOMMER DU HJEM",
-      "url": "https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y"
-    },
-    {
-      "added_at": "2026-10-01 22:00:33",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2026-10-01 22:00:33",
       "album": {
-        "name": "Walmart",
-        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
+        "name": "KOMMER DU HJEM",
+        "url": "https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB"
       },
       "artists": [
         {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+          "name": "MARQ",
+          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
+        },
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Walmart",
-      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+      "duration_ms": 199093,
+      "name": "KOMMER DU HJEM",
+      "url": "https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y"
     }
   ],
   "unique_name": "ung kniv ",

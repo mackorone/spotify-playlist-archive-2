@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,089 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,102 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
-| 2 | [Psycho Killer](https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 4:20 |
+| 1 | [Psycho Killer](https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 4:20 |
+| 2 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 3 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 |
 | 4 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 5 | [Take Me to the River](https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [Love for Sale \- 2005 Remaster](https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 4:31 |
 | 50 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 |
 
-Snapshot ID: `ar70AAAAAACCgMUTAKkBD+OASH1Gmb/I`
+Snapshot ID: `asBFgAAAAABPa01kH26ZVbRba/R5YjEf`

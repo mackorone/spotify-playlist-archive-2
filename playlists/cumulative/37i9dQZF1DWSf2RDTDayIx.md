@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-552 songs - 1 day 5 hr 11 min
+553 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-12-03 | 2022-01-08 |
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-07-29 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-25 | 2023-02-04 |
-| [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-18 |  |
+| [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-18 | 2026-10-05 |
 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 | 2026-05-08 |  |
 | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD) | 2:57 | 2021-12-03 | 2023-05-13 |
 | [Somebody \- Stadiumx Edit](https://open.spotify.com/track/7Akjeeqf80wiB6vuxLjNBh) | [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Somebody \(Stadiumx Edit\)](https://open.spotify.com/album/3jpkIypKG8VBVjbNwxEmVN) | 3:16 | 2021-12-03 | 2022-01-08 |
@@ -500,6 +500,7 @@
 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 | 2026-04-13 |  |
 | [Turn Back Time](https://open.spotify.com/track/1AhiOzObMBqfonJDKtirj9) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Turn Back Time](https://open.spotify.com/album/6ISAjoZeji9okRE4icKBmB) | 3:01 | 2022-01-07 | 2024-09-21 |
 | [Turn The Lights Off \(with Jaxstyle\) \- HILLS & Dansyn Remix](https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Turn The Lights Off \(with Jaxstyle\) \[HILLS & Dansyn Remix\]](https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD) | 2:53 | 2026-01-23 | 2026-07-05 |
+| [Twice As Nice](https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Twice As Nice](https://open.spotify.com/album/4y0R1nqcF9uKO9zjKCFUAU) | 2:52 | 2026-10-02 |  |
 | [Up To You](https://open.spotify.com/track/458L8eSLbts1r7JnHlA4b9) | [Disco Killerz](https://open.spotify.com/artist/0WfWABuarRrUticTLylKQl), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Up To You](https://open.spotify.com/album/38RqrJiEvnRMY36oklUCXr) | 3:00 | 2021-12-03 | 2022-01-08 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2024-12-20 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-14 | 2022-12-10 |

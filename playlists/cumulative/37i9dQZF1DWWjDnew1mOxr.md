@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Blossoms
 
-497 songs - 1 day 4 hr 7 min
+498 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 | 2024-02-23 | 2026-08-28 |
 | [Money](https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV) | [Fuzzy Sun](https://open.spotify.com/artist/40uK7RAJlyEALdLWZ1qNmb) | [Money](https://open.spotify.com/album/19F6Ai9NloBmTqrhcz9N0M) | 3:30 | 2023-01-10 | 2023-04-19 |
 | [Mother](https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Mother](https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF) | 2:47 | 2024-01-26 | 2024-04-08 |
+| [Moving Target](https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Moving Target](https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z) | 3:15 | 2026-10-01 |  |
 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 | 2024-08-21 |  |
 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 | 2025-06-06 | 2026-06-18 |
 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2023-01-10 | 2024-07-13 |
@@ -474,7 +475,7 @@
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 | 2024-01-08 |
 | [Wallow](https://open.spotify.com/track/6OFv5yKa6PTY44tSvvKePY) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Wallow](https://open.spotify.com/album/2gEnznMJS3NsZHxrlf55Rb) | 3:09 | 2026-08-28 |  |
-| [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 | 2026-08-20 |  |
+| [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 | 2026-08-20 | 2026-10-05 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2023-01-10 | 2024-10-07 |
 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 | 2026-04-13 | 2026-04-25 |
 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 | 2023-06-13 | 2024-04-19 |

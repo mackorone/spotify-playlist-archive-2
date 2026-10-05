@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 
 > Disfruta la música de la serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,154 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,179 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 | 35 | [Así Fue \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/60qMgWUIxjbO6sxH2Nfs4l) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor en Bellas Artes \- 40 Aniversario](https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88) | 7:02 |
 | 36 | [Pero Qué Necesidad](https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:54 |
 | 37 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
-| 38 | [Amor Eterno \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 7:08 |
+| 38 | [Amor Eterno \- En el Palacio de Bellas Artes](https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 7:08 |
 | 39 | [Yo Te Recuerdo \- Version Salsa](https://open.spotify.com/track/5Di8dpmfkDRp8waYbXbohB) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:34 |
 | 40 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
 

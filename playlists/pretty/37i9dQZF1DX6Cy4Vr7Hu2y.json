@@ -1,6 +1,6 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: Hearts2Hearts) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 1075835,
+  "num_followers": 1076035,
   "original_name": "Women of K-Pop",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
         "name": "Gnarly",
         "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -411,8 +411,8 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 190806,
-      "name": "earthquake",
-      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
         "name": "I'LL LIKE YOU",
         "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176854,
       "name": "Cherish (My Love)",
       "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
-    },
-    {
-      "added_at": "2026-08-13 10:35:46",
-      "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
+    },
+    {
+      "added_at": "2026-08-13 10:35:46",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
       "added_at": "2026-08-13 10:35:46",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2026-08-13 10:35:46",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 184155,
-      "name": "FXCK UP THE WORLD (feat. Future)",
-      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
+      "duration_ms": 194733,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
     }
   ],
   "unique_name": "Women of K-Pop",

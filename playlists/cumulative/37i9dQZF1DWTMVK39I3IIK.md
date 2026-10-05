@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Fine
 
-472 songs - 1 day 0 hr 11 min
+473 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Hva Nu Hvis](https://open.spotify.com/track/4taQDbXw2ioOHIy6uj6XOG) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Hva Nu Hvis](https://open.spotify.com/album/6zBoSmv6vEwoys2yOvKChF) | 3:03 | 2025-02-27 | 2025-03-28 |
 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 | 2024-09-05 | 2025-04-05 |
 | [Hvad Det Ku’ Have Blevet Til](https://open.spotify.com/track/0aWxygBYOgRf6XmxlNCSVW) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Hvad Det Ku’ Have Blevet Til](https://open.spotify.com/album/30Bbwd8DlhvNRsA99KMmxS) | 2:34 | 2025-06-05 | 2025-06-13 |
+| [hvad hvis du dør og jeg ik engang ved det](https://open.spotify.com/track/3wFKS6i6JxjoYt3SxDaayC) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv) | [på en måde er det rart](https://open.spotify.com/album/7EdU9BjQTvrm80SumtTPFK) | 2:43 | 2026-10-01 |  |
 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 | 2024-08-29 |  |
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 | 2026-08-15 |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
@@ -460,7 +461,7 @@
 | [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/6OMdkRGQXsRaLKAh2qp2FX) | 2:57 | 2025-10-30 | 2025-11-07 |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 | 2026-04-24 |
-| [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 | 2026-06-26 |  |
+| [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 | 2026-06-26 | 2026-10-05 |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-02-06 |
 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 | 2025-12-11 | 2026-03-03 |

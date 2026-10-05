@@ -4,7 +4,7 @@
 
 > Chechi de Marcos en portada.
 
-767 songs - 1 day 16 hr 8 min
+768 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Géminis](https://open.spotify.com/track/6Tpdyk2is0EG3fP0MzmAVy) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 3:22 | 2026-09-25 |  |
 | [Ha Muerto](https://open.spotify.com/track/7DpJkIO5oiEWX0FL27nFO0) | [Susobrino](https://open.spotify.com/artist/77XvwNYFwIc71Q8314oPyu), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Ha Muerto](https://open.spotify.com/album/6V8eCmfHjt9FitfsT63bnb) | 2:33 | 2023-11-24 | 2024-03-30 |
 | [Ha Pasado Tiempo](https://open.spotify.com/track/5Kv3akRvvVxd4c1GDHYhdO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Ha Pasado Tiempo](https://open.spotify.com/album/0HQ3FBFo8Uqkosfph0Wf5C) | 2:32 | 2024-03-29 | 2024-04-27 |
+| [Hablo Dormido](https://open.spotify.com/track/2LRreAAhX5DXlVclZml142) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP) | [Carisma Secreto](https://open.spotify.com/album/7kPvkm0UJSOxrL9EA7TjxP) | 3:05 | 2026-10-04 |  |
 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 | 2023-10-13 | 2024-05-11 |
 | [Haku \- Bonus Track](https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mala \(Edición Malísima\)](https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq) | 3:40 | 2023-11-24 | 2024-01-05 |
 | [Hasta la Raíz](https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH) | [N1za](https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Hasta la Raíz](https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5) | 2:39 | 2026-05-15 |  |
@@ -701,7 +702,7 @@
 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 | 2025-09-01 | 2025-11-29 |
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-10-13 | 2024-01-20 |
 | [TURRO TOUR](https://open.spotify.com/track/2Ic6lCqcUQMOAY2OeZyQly) | [Ana Milagros](https://open.spotify.com/artist/4TGvzenBbWpfCsNf5S4WyI), [Zé Pequeña](https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C), [Yul0](https://open.spotify.com/artist/7oIzXBybUtW6yVeoIOC79r) | [TURRO TOUR](https://open.spotify.com/album/1pD1tXO4v41GYV7jKKZGyH) | 2:27 | 2026-05-15 | 2026-06-26 |
-| [TUS OJOS](https://open.spotify.com/track/5hW3Qj6FdctGkHXdvaj23J) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [A.D.N](https://open.spotify.com/album/6FlX69ORWKVKuSXsoHPSFa) | 2:21 | 2025-04-29 |  |
+| [TUS OJOS](https://open.spotify.com/track/5hW3Qj6FdctGkHXdvaj23J) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [A.D.N](https://open.spotify.com/album/6FlX69ORWKVKuSXsoHPSFa) | 2:21 | 2025-04-29 | 2026-10-05 |
 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 | 2023-11-10 | 2024-07-19 |
 | [Ultrademente](https://open.spotify.com/track/3Mens03q0PF0NAK5VvxayF) | [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Ultrademente](https://open.spotify.com/album/1gOFeAmzrGwviem8yDU0u1) | 3:37 | 2025-08-29 | 2026-05-02 |
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 | 2024-06-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 514548,
+  "num_followers": 514669,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABlQWgnXyW8g2+b9jU6E+Sr",
+  "snapshot_id": "asBFgAAAAAAm25t68u72hCPPvqY7Duyb",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 299240,
-      "name": "Entombed",
-      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 317706,
       "name": "Cherry Waves",
       "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Entombed",
+      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 413346,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "private music",
         "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 248957,
       "name": "i think about you all the time",
       "url": "https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 413346,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211146,
       "name": "You've Seen the Butcher",
       "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "ecdysis",
-      "url": "https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220826,
       "name": "Root",
       "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "ecdysis",
+      "url": "https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx"
     },
     {
       "added_at": null,

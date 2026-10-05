@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,498 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,518 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 20 | [For Your Glory](https://open.spotify.com/track/70VJujLz2uUo28xWNuc7ID) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [For Your Glory](https://open.spotify.com/album/3fNNAjL8EF75DfXo8k8ySZ) | 3:23 |
 | 21 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 |
 | 22 | [A Heart Like Yours](https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:39 |
-| 23 | [Amazing Grace](https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns](https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9) | 4:13 |
-| 24 | [Blessed Assurance](https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Celebrating Fisk! \(The 150th Anniversary Album\)](https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF) | 3:40 |
+| 23 | [Blessed Assurance](https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Celebrating Fisk! \(The 150th Anniversary Album\)](https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF) | 3:40 |
+| 24 | [Amazing Grace](https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns](https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9) | 4:13 |
 | 25 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
 | 26 | [Blessed Assurance \- Live/Bonus Track](https://open.spotify.com/track/4KO6WWPDNsZRXK6yn7EJQm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:32 |
 | 27 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 36 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 37 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 |
 | 38 | [King of Glory \- Live](https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 10:35 |
-| 39 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 |
-| 40 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
+| 39 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
+| 40 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 |
 | 41 | [Is He Worthy?](https://open.spotify.com/track/7gx4IXabnni9Xx1XoPgMgf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:07 |
 | 42 | [Because Of You](https://open.spotify.com/track/2mcVTWPqxa2LVC8LJdD2xJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:52 |
-| 43 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
-| 44 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 |
+| 43 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 |
+| 44 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
 | 45 | [Sanctuary](https://open.spotify.com/track/4rBFZdjLJvBzGawP7XH52S) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 1:19 |
 | 46 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
 | 47 | [Jesus Paid It All](https://open.spotify.com/track/0M6nQDtrZ2qE7MRhtpLX4I) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Resurrection Of A King](https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Jesus Loves Me](https://open.spotify.com/track/1HhMmo7BiHudre8MRAUn4w) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns](https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9) | 3:06 |
 | 50 | [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 |
 
-Snapshot ID: `ar70AAAAAADkGY1D9YASYzPy5eAmSqLQ`
+Snapshot ID: `asBFgAAAAADFEM7XqGWP4KSe28NE2npz`

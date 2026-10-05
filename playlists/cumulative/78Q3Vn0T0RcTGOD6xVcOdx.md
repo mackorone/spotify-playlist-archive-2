@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/78Q3Vn0T0RcTGOD6xVcOdx.md) - cumulative - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
-### [Today’s Top Hits\-Afrobeats ·   Trap ·   Rap ·   Hip Hop ·   RnB  ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
+### [Top Hits 2026 🔥 Best Songs Right Now, Chart Hits, Pop & R&B Hits](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 

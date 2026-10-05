@@ -4,7 +4,7 @@
 
 > The hottest hits right now.
 
-581 songs - 1 day 6 hr 41 min
+583 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-03 | 2025-01-05 |
 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-22 | 2023-03-05 |
 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-13 | 2023-08-15 |
+| [Fille à Papa](https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Fille à Papa](https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl) | 2:49 | 2026-10-04 |  |
 | [Folded](https://open.spotify.com/track/6sTlzpJaFGkFQ4BNccmbW9) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 3:57 | 2026-05-29 | 2026-06-13 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2025-01-04 | 2025-04-18 |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-09-09 | 2026-06-13 |
@@ -204,7 +205,7 @@
 | [GTB](https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [FLEM KGB](https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi) | [Faits Divers](https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51) | 2:56 | 2023-08-18 | 2024-07-05 |
 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-11 | 2024-12-24 |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-08-11 | 2023-12-01 |
-| [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 | 2025-11-10 |  |
+| [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 | 2025-11-10 | 2026-10-05 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2022-11-21 | 2023-02-19 |
 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 | 2025-06-19 | 2026-01-15 |
 | [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 | 2025-11-14 | 2026-08-26 |
@@ -334,7 +335,7 @@
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-22 | 2025-04-25 |
 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 | 2024-11-11 | 2025-06-13 |
 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 | 2025-04-07 | 2026-01-25 |
-| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-10 |  |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-10 | 2026-10-05 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-05-05 | 2023-06-09 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-10 | 2023-05-08 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-06-10 | 2025-07-20 |
@@ -352,6 +353,7 @@
 | [My Darling \- Habibti](https://open.spotify.com/track/5oflgQFgT6gmPsNGfLzvCI) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:40 | 2025-05-19 | 2025-07-04 |
 | [Mélancolique.](https://open.spotify.com/track/5CWZc1mtT7r33th3nwyMJh) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Mélancolique.](https://open.spotify.com/album/6C5Q1wAG3PrMqfk2iZYLY0) | 3:17 | 2024-11-19 | 2025-02-20 |
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-06-13 | 2024-07-19 |
+| [Mélo Décalé](https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo Décalé](https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc) | 2:36 | 2026-10-04 |  |
 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 | 2024-12-06 | 2025-04-22 |
 | [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 | 2023-06-15 | 2024-07-19 |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2022-05-12 | 2022-06-03 |

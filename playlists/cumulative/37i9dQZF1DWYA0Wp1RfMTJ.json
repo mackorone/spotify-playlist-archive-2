@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "blue in",
+        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "blue in",
+      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30aa\u306e\u30cf\u30b3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq"
       },

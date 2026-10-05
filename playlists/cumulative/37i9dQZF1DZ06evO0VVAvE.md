@@ -4,12 +4,13 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 47 min
+62 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 | 2025-07-12 |  |
 | [Adura](https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Adura](https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy) | 2:54 | 2025-07-12 | 2026-10-04 |
+| [Akube](https://open.spotify.com/track/4OAtzMeRzHT7Ns6PEFJHKR) | [D£JAVU](https://open.spotify.com/artist/1Ig25E3GH7TovSosx5Gf4F), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Akube](https://open.spotify.com/album/7JYM4nzVM01kKolPIprB8s) | 2:16 | 2026-10-05 |  |
 | [Ali \- Remix](https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg) | [Steven Adeoye](https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ali \(Remix\)](https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv) | 3:22 | 2025-07-12 |  |
 | [All Eyes On Me](https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Different Lane](https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F) | 2:12 | 2025-07-12 |  |
 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 | 2025-07-12 |  |

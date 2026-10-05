@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 341914,
+  "num_followers": 341963,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 96000,
       "name": "Sunshine, Lollipops And Rainbows",
       "url": "https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Spirit Of America",
         "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169296,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169296,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+        "name": "The Good Life With the Drifters",
+        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 153626,
+      "name": "Saturday Night at the Movies",
+      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Good Life With the Drifters",
-        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Saturday Night at the Movies",
-      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 162866,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
-        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
       },
       "artists": [
         {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1931,22 +1947,6 @@
       "duration_ms": 173973,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Up-Tight Everything's Alright",
-        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387663,
+  "num_followers": 387669,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+        "name": "The Best Of Jimmy Dean",
+        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Jimmy Dean",
+          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+      "duration_ms": 182560,
+      "name": "Big Bad John",
+      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Best Of Jimmy Dean",
-        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
       "artists": [
         {
-          "name": "Jimmy Dean",
-          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 182560,
-      "name": "Big Bad John",
-      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 179847,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "Prison",
         "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 186800,
       "name": "Branded Man - Remastered",
       "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 179847,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
     },
     {
       "added_at": "2026-02-17 04:47:51",

@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Caroline Rose",
-  "num_followers": 186741,
+  "num_followers": 186742,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,30 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 211057,
-      "name": "Naked In Manhattan",
-      "url": "https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av"
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
       "added_at": "2026-09-30 04:01:06",
@@ -127,30 +139,18 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Not Strong Enough",
-      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+      "duration_ms": 211057,
+      "name": "Naked In Manhattan",
+      "url": "https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av"
     },
     {
       "added_at": "2026-09-30 04:01:06",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "Wet Cement",
-        "url": "https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 167206,
-      "name": "Wet Cement",
-      "url": "https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD"
-    },
-    {
-      "added_at": "2026-09-30 04:01:06",
-      "album": {
         "name": "Good at Falling",
         "url": "https://open.spotify.com/album/7qcAgj6CoV0VeRLo6ILiF2"
       },
@@ -847,18 +831,34 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 167206,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD"
+    },
+    {
+      "added_at": "2026-09-30 04:01:06",
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg"
     },
     {
       "added_at": "2026-09-30 04:01:06",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2026-09-30 04:01:06",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Miss Misunderstood",
-      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
-    },
-    {
-      "added_at": "2026-09-30 04:01:06",
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
+    },
+    {
+      "added_at": "2026-09-30 04:01:06",
+      "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Miss Misunderstood",
+      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
     },
     {
       "added_at": "2026-09-30 04:01:06",

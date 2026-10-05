@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17442,
+  "num_followers": 17448,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -535,30 +535,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "TATTUU",
-        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 194734,
-      "name": "TATTUU",
-      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
       },
@@ -579,22 +555,26 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -627,6 +607,26 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "PorquE Si Te QuedAs",
-        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "PorquE Si Te QuedAs",
-      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
+        "name": "PorquE Si Te QuedAs",
+        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "PorquE Si Te QuedAs",
+      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Feriado",
         "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 166399,
       "name": "Feriado",
       "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
+        "name": "Un Vac\u00edo",
+        "url": "https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 151956,
+      "name": "Un Vac\u00edo",
+      "url": "https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Un Vac\u00edo",
-        "url": "https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 151956,
-      "name": "Un Vac\u00edo",
-      "url": "https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "NO SE DA (Bah\u00eda Aguacate)",
         "url": "https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Me Enamor\u00f3",
-        "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
+        "name": "Nunca Es Tarde",
+        "url": "https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G"
       },
       "artists": [
         {
-          "name": "Osman M\u00fasica",
-          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
         }
       ],
-      "duration_ms": 154411,
-      "name": "Me Enamor\u00f3",
-      "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
+      "duration_ms": 161664,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
+        "name": "Me Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
+      },
+      "artists": [
+        {
+          "name": "Osman M\u00fasica",
+          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Me Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
         "name": "Ojitos Chinos",
         "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 141575,
       "name": "Ojitos Chinos",
       "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
-        "name": "Nunca Es Tarde",
-        "url": "https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G"
-      },
-      "artists": [
-        {
-          "name": "Fifty",
-          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
-        }
-      ],
-      "duration_ms": 161664,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Partycito",
-        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
-      },
-      "artists": [
-        {
-          "name": "Nohaaddana",
-          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Partycito",
-      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+        "name": "Partycito",
+        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
         }
       ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+      "duration_ms": 153786,
+      "name": "Partycito",
+      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -1231,6 +1215,22 @@
       "duration_ms": 157259,
       "name": "Aqu\u00ed Me Tienes",
       "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2026-09-18 04:59:32",

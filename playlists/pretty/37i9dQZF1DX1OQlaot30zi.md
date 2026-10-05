@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Geolier, Tony Boy, Rkomi con Khodi, Battista, Westcross, Salmo, Fresh Mula e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,234 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,235 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

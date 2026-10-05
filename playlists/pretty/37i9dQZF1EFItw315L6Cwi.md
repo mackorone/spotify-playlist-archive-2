@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 143 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 143 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 25 | [5 Sterne GTA](https://open.spotify.com/track/6ephRAh9PtkgBTvAmTznkS) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:35 |
 | 26 | [Balla Balla](https://open.spotify.com/track/72xyrg5BsT0FDHucoQV8Eh) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Balla Balla](https://open.spotify.com/album/1LbEQDKdxgRZrlHpHqghiG) | 2:25 |
 | 27 | [Scherbenhaus](https://open.spotify.com/track/1ehSSVqtdKXUqFxklpRjRX) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:51 |
-| 28 | [Hart gehen ohne Grund](https://open.spotify.com/track/4zST3MYTa3Mj31aMyhLUel) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:06 |
-| 29 | [KOMM NÄHER](https://open.spotify.com/track/6AyMpyLG4LUHniExd4hRZc) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:18 |
+| 28 | [KOMM NÄHER](https://open.spotify.com/track/6AyMpyLG4LUHniExd4hRZc) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:18 |
+| 29 | [Hart gehen ohne Grund](https://open.spotify.com/track/4zST3MYTa3Mj31aMyhLUel) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:06 |
 | 30 | [AUF ERNST](https://open.spotify.com/track/0DECiuzVbz9t52gx3qNzO0) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Wilmersdorfs Kind](https://open.spotify.com/album/1bhPhPgQJxQS7KvDQa4tDd) | 2:29 |
 | 31 | [Lindenberg](https://open.spotify.com/track/2chjwLPFuaT95BbYYqjHNm) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:27 |
 | 32 | [Kann nicht warten](https://open.spotify.com/track/1QBEj0mG8w2Dg0yxGlWdF8) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 46 | [Dónde](https://open.spotify.com/track/1LKw3e64aRH8OBQTnRD3qu) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 |
 | 47 | [Seite an Seite](https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Seite an Seite](https://open.spotify.com/album/56he14BpKsirM76ZLonOa1) | 3:30 |
 | 48 | [NRW](https://open.spotify.com/track/4WcUdGXHHtKfZj9ysZka2D) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:19 |
-| 49 | [JUST DO IT](https://open.spotify.com/track/57BT3KQYw0kS68QFkSuQ9k) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:43 |
-| 50 | [ALLEIN](https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:23 |
+| 49 | [ALLEIN](https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:23 |
+| 50 | [JUST DO IT](https://open.spotify.com/track/57BT3KQYw0kS68QFkSuQ9k) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:43 |
 | 51 | [Water Freestyle](https://open.spotify.com/track/75CfQ5KmvgV3WsJ8dFOHwJ) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 3:27 |
 | 52 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 |
 | 53 | [Tage die uns brechen](https://open.spotify.com/track/4A6FX1XiK7tD48Omknk2Bs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:16 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 63 | [A6](https://open.spotify.com/track/46a10pDBgDcctpaU5TuzZu) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:12 |
 | 64 | [Du](https://open.spotify.com/track/26ofPvyl0PjSGiU6FiP4fs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:19 |
 | 65 | [All white](https://open.spotify.com/track/3o4DCIy3KGlRLjqbNwJhD3) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:05 |
-| 66 | [TONY STARK](https://open.spotify.com/track/3gke8lkcCbMv5D8ab3PMjx) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:04 |
-| 67 | [triff mich halben Weg](https://open.spotify.com/track/2BJkO8RkAzyFTVAwB1tjXE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:36 |
+| 66 | [triff mich halben Weg](https://open.spotify.com/track/2BJkO8RkAzyFTVAwB1tjXE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:36 |
+| 67 | [TONY STARK](https://open.spotify.com/track/3gke8lkcCbMv5D8ab3PMjx) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:04 |
 | 68 | [Pferde Emblem](https://open.spotify.com/track/3RgOhD2UZtQ7qYPzADtzJs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:26 |
 | 69 | [500 Joints](https://open.spotify.com/track/07mqNcvJcPWufsUtowNlTx) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:53 |
 | 70 | [Gazo](https://open.spotify.com/track/6OVA3aHCUbRGjSRGBAcFuz) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 1:33 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 86 | [stich in mein herz](https://open.spotify.com/track/3XDP4nGBcE0sXjDukzAlz1) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [stich in mein herz](https://open.spotify.com/album/0JCCjiK9p9mm9DaOBzQa5q) | 2:07 |
 | 87 | [PINKE CUPS](https://open.spotify.com/track/4NEhe2iMl5aTV56ybgi874) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 1:44 |
 | 88 | [Vibration](https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:23 |
-| 89 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
-| 90 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 89 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 90 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
 | 91 | [PREMIUM CHAYA](https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:29 |
 | 92 | [Song 2](https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:20 |
 | 93 | [STOP](https://open.spotify.com/track/10wN7VGTQH6EyFTtc6Jquk) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:05 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 142 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 143 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `Acd/TgAAAABp02Hjn9T8LhyvWkqtdxkX`
+Snapshot ID: `AceE7gAAAADac7a5mP0Dq+i6XRToqR5A`

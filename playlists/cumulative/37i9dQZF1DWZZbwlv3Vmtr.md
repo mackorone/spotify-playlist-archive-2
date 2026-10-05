@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,231 songs - 1 day 23 hr 18 min
+1,232 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 | 2025-07-19 |
+| [One More Hour](https://open.spotify.com/track/5vK4xXCLyn58r1hwcDw4wS) | [Corridor](https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld) | [One More Hour](https://open.spotify.com/album/18q8CvnHf1kd1Ilo1AVO7p) | 2:09 | 2026-09-25 |  |
 | [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2025-07-01 |
 | [open](https://open.spotify.com/track/7KNKl6ZoNTqPYgaz4Oe1wF) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [open](https://open.spotify.com/album/29g1WgULLDK8aWg7Ain3xC) | 2:00 | 2026-06-12 | 2026-09-19 |
 | [Open Sky](https://open.spotify.com/track/3Ks3mEDB1j2BVT7Ui3Wcv7) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Open Sky](https://open.spotify.com/album/6m5jEICAaEiCg9J18H12lp) | 2:07 | 2026-05-15 |  |
@@ -822,7 +823,7 @@
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-04-15 | 2022-07-29 |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2023-10-06 |
-| [Rain on Vinyl](https://open.spotify.com/track/269FwHXaSWfPZLGMJ6fux0) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Rain on Vinyl](https://open.spotify.com/album/1MPg9OIXF6SKgStSCf2ifp) | 2:11 | 2026-08-28 |  |
+| [Rain on Vinyl](https://open.spotify.com/track/269FwHXaSWfPZLGMJ6fux0) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Rain on Vinyl](https://open.spotify.com/album/1MPg9OIXF6SKgStSCf2ifp) | 2:11 | 2026-08-28 | 2026-10-05 |
 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 | 2022-04-15 | 2025-05-24 |
 | [Raindrop City](https://open.spotify.com/track/2QoJN8vhVHL47q0MvXaVl0) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Raindrop City](https://open.spotify.com/album/2dvLcQvZyheV6DQ4CDbo5k) | 2:36 | 2024-02-23 | 2025-07-19 |
 | [Rainy Nights](https://open.spotify.com/track/4mnhygv21Qe8j5JKSiomYa) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/5bB4JZSe15XaR8XkbKSipH) | 2:13 | 2022-10-14 | 2022-11-06 |

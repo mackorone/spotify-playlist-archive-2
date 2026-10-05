@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468 likes - 192 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 192 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 114 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 |
 | 115 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 |
 | 116 | [The Wrong Party](https://open.spotify.com/track/3zpUhSVw7S1lD6okDqZ2yX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:39 |
-| 117 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
-| 118 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 117 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 118 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
 | 119 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 |
 | 120 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
 | 121 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
@@ -157,9 +157,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 147 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 148 | [Middle of Love](https://open.spotify.com/track/4JjjhFFQ3Spgnl2BrXfKtN) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:15 |
 | 149 | [Rest In Peace](https://open.spotify.com/track/6LiBrstA5KyGCOuO7PH8Km) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/3zwVhRR9amRs0gBU2mEZ6a) | 2:55 |
-| 150 | [The Phone Call](https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:29 |
-| 151 | [miss america](https://open.spotify.com/track/1KnPoungklUoDF0I2uNA1R) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/4aqHiEdSSgOgjmxFUuV5v9) | 3:51 |
-| 152 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 150 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 151 | [The Phone Call](https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:29 |
+| 152 | [miss america](https://open.spotify.com/track/1KnPoungklUoDF0I2uNA1R) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/4aqHiEdSSgOgjmxFUuV5v9) | 3:51 |
 | 153 | [Quarter Life Crisis](https://open.spotify.com/track/2tanvkYElTbqn48K3uawne) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [Yesterday's Tomorrow Night](https://open.spotify.com/album/0YUEyU02GWdY3xRs55DfzE) | 3:12 |
 | 154 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
 | 155 | [Another Lover](https://open.spotify.com/track/60MsF9GzQ3imaYkwPwOafo) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Another Lover](https://open.spotify.com/album/7IO1EU1mGahgDTiU9qeTDS) | 3:09 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 191 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 192 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Acd/WAAAAADw8gq4k7uk+nb85stAODMj`
+Snapshot ID: `AceE7gAAAAAF3QsycTDs1fXjm5nRLzhc`

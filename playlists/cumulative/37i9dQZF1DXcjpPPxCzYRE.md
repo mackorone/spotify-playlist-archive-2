@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-571 songs - 1 day 8 hr 16 min
+572 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-03-04 | 2024-08-03 |
 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 | 2026-05-14 |  |
 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n) | 5:03 | 2023-01-05 | 2023-02-18 |
-| [Gymnopedie N\. 1](https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs) | [Zurito](https://open.spotify.com/artist/3zyjOpipjSnFWFRKQvO57T) | [Tamesis](https://open.spotify.com/album/1TJGpB0M8m8PAycC8vCDo9) | 7:55 | 2026-09-28 | 2026-10-02 |
+| [Gymnopedie N\. 1](https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs) | [Zurito](https://open.spotify.com/artist/3zyjOpipjSnFWFRKQvO57T) | [Tamesis](https://open.spotify.com/album/1TJGpB0M8m8PAycC8vCDo9) | 7:55 | 2026-09-28 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-07-06 | 2023-08-19 |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-11-11 | 2024-04-19 |
 | [Hasta los Glaciares](https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Hasta los Glaciares](https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs) | 3:21 | 2026-09-28 |  |
@@ -370,7 +370,7 @@
 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 | 2024-10-24 |  |
 | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/album/724d6AWwToirfFH00SSUxl) | 4:04 | 2026-07-30 |  |
 | [No Valdrá La Pena](https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw), [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8) | [amor 925.](https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7) | 3:29 | 2026-06-11 | 2026-09-05 |
-| [No volverán](https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Dollhouse](https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy) | 2:56 | 2026-03-26 |  |
+| [No volverán](https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Dollhouse](https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy) | 2:56 | 2026-03-26 | 2026-10-05 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 | 2025-08-07 |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2024-03-04 | 2024-05-03 |
 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 | 2022-11-11 | 2024-04-19 |
@@ -444,6 +444,7 @@
 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 | 2024-04-19 |
 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-09-18 | 2026-01-17 |
 | [rodeo](https://open.spotify.com/track/27f887zAAUFY80xyqt67MB) | [Poster Boy](https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze) | [rodeo](https://open.spotify.com/album/1EocBshKziq5ihMvgM4LRg) | 3:18 | 2026-06-11 |  |
+| [Ruedan por los raíles](https://open.spotify.com/track/5rbbHe6DoakkAwVgGcEYOH) | [Miguel Rivera](https://open.spotify.com/artist/1uFhzCISeRHWSg1s3Olw6V), [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Ruedan por los raíles](https://open.spotify.com/album/3h3ua1J5vI9KMQRdPNbVQH) | 3:41 | 2026-09-28 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-12-24 |
 | [Rápido](https://open.spotify.com/track/12ioDClbTNNgKPWDCWvqRp) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [N2STAL5IA](https://open.spotify.com/album/7HspaFYvdDnUitaW4KS2iF) | 2:41 | 2025-11-21 | 2026-03-27 |
 | [Saberse Definir](https://open.spotify.com/track/6RmjhswhS9rau9WJbRBYyF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Saberse Definir](https://open.spotify.com/album/5EpaPoqJvSDNNaoyW9zTcm) | 4:22 | 2025-10-09 | 2025-11-15 |
@@ -515,7 +516,7 @@
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-28 | 2023-04-21 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2022-11-11 | 2023-03-28 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-16 | 2023-03-28 |
-| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 |  |
+| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 | 2026-10-05 |
 | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4) | 3:06 | 2025-10-09 | 2026-04-10 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 | 2025-12-07 |
 | [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 | 2026-03-14 |

@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 117779,
       "name": "Mi tierra",
       "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Pepe's Tacos",
       "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 65893,
       "name": "Sonora (Interludio 2)",
       "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 150097,
       "name": "Taco de barbacoa",
       "url": "https://open.spotify.com/track/0HmemevuitE85g3zqOVk78"

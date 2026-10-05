@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 37 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 37 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
 | 2 | [Commas](https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:37 |
-| 3 | [Bloody Samaritan](https://open.spotify.com/track/3y2aLURnEQgtHJoQJjVDjj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:07 |
-| 4 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
+| 3 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
+| 4 | [Bloody Samaritan](https://open.spotify.com/track/3y2aLURnEQgtHJoQJjVDjj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:07 |
 | 5 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
 | 6 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/45oNVuV82avS40SMYB41na) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Chapter X](https://open.spotify.com/album/7zIoW4tHEM1u6bFAnxDh9u) | 3:25 |
 | 7 | [Sability](https://open.spotify.com/track/76mICRITD4cOg5KnqH9f3s) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability / Rush / Bloody Samaritan \(with Kelly Rowland\)](https://open.spotify.com/album/46AsExTYJHcAQSWvIdgD83) | 2:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGcHV6BqOiQl.md) - [plain]
 | 36 | [Mind](https://open.spotify.com/track/5F8eCL9KDpMgny7MAS7AkD) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 2:21 |
 | 37 | [Kayama](https://open.spotify.com/track/7I7aUudSiVMZPj5gqGcbTG) | [DNA](https://open.spotify.com/artist/1FlxUQ2UXUNGGXqJipuytq) | [Gemini EP](https://open.spotify.com/album/4YikoYZN8EAjWlBw3763sU) | 2:56 |
 
-Snapshot ID: `Acd/OgAAAAALMRDa5FQtmUnjkHjb73Pc`
+Snapshot ID: `AceE2gAAAADoevHWpFzuLBKEZKF1Cf5X`

@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月30日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月3日付。
 
 7,910 songs - 19 day 15 hr 30 min
 
@@ -4159,7 +4159,7 @@
 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-17 | 2025-06-24 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-01-21 | 2026-01-23 |
 | [Stay Strong](https://open.spotify.com/track/5QpUC7xEHDtfb8LDKjQL1X) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 3:57 | 2025-11-03 | 2025-12-23 |
-| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 | 2026-09-28 |
+| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 |  |
 | [Stay With Me](https://open.spotify.com/track/0fsKNLLBYG3rKS2TqkjFK1) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/7kVrV33IC6X8fFjhbI8Bej) | 2:57 | 2026-01-05 | 2026-01-15 |
 | [STAY with ME](https://open.spotify.com/track/5jSydhgZhCHzEooYlRnK3y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [LiKE](https://open.spotify.com/album/0JKdtgiu4SQsxn463ay4WE) | 4:59 | 2026-04-23 | 2026-04-25 |
 | [stay with me](https://open.spotify.com/track/2H9QGcpwQ9kaPxNK5qBOEc) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [理屈で話す君と、感情論の僕](https://open.spotify.com/album/3VgIlelKWt7n48M80O7CHx) | 3:39 | 2026-02-16 | 2026-02-21 |
@@ -5279,7 +5279,7 @@
 | [お前の彼氏寝取ってやったの。](https://open.spotify.com/track/2lxRPuairVTSc7aKW2lyxo) | [Яu\-a](https://open.spotify.com/artist/79dFfRIECY1rmHs24fHbnb) | [お前の彼氏寝取ってやったの。](https://open.spotify.com/album/6YfrgHIfFbUIO4tCzpkbrZ) | 2:07 | 2026-01-16 | 2026-01-20 |
 | [お姫様にはなれない](https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [お姫様にはなれない](https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT) | 3:43 | 2026-02-12 | 2026-02-14 |
 | [お姫様の作り方](https://open.spotify.com/track/4YUYUQs5qmuUeEwy9fRkUd) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [劇薬中毒](https://open.spotify.com/album/5wAMUMxSartipUGujztkSd) | 3:53 | 2026-04-07 | 2026-07-15 |
-| [お嫁さんになるの](https://open.spotify.com/track/0LEHZKsrM5joVDzrGY4s1d) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [あたしを選んだ君とあたしを選ばなかった君へ](https://open.spotify.com/album/5zMjE09DDAZ3miHKZZmfhr) | 4:52 | 2026-07-22 |  |
+| [お嫁さんになるの](https://open.spotify.com/track/0LEHZKsrM5joVDzrGY4s1d) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [あたしを選んだ君とあたしを選ばなかった君へ](https://open.spotify.com/album/5zMjE09DDAZ3miHKZZmfhr) | 4:52 | 2026-07-22 | 2026-10-05 |
 | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr) | [吉本おじさん](https://open.spotify.com/artist/4MIxktyK7yU1k2cKcER5t0), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/album/2Coxc7T3PLMWJlBXy9as2h) | 3:04 | 2025-06-09 | 2025-06-21 |
 | [お願いバッハ！](https://open.spotify.com/track/1Y9klhaSMMI4m3bB46Rxdo) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [お願いバッハ！](https://open.spotify.com/album/5O9LgvKDCuxOiaxnvFFpVh) | 4:44 | 2025-08-29 | 2025-09-10 |
 | [かがみ](https://open.spotify.com/track/3D8ZVcI5Y2muA58nXs9d8M) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [かがみ](https://open.spotify.com/album/6Ax8qQgQNQbF63kaLisGhf) | 4:14 | 2025-09-05 | 2025-10-08 |
@@ -7708,7 +7708,7 @@
 | [謳う](https://open.spotify.com/track/2eqSORXMS2s9UoJ3r9gHrt) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [謳う](https://open.spotify.com/album/6E4AjOcvQT4hOjAGeRZOap) | 3:53 | 2025-03-17 | 2025-03-18 |
 | [谺する](https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [谺する](https://open.spotify.com/album/5rneoMxGzl8AKW3Pqxj11O) | 5:00 | 2024-01-28 | 2024-02-09 |
 | [豆まき](https://open.spotify.com/track/7jpbslSyEYvWoAiuTEVLVx) | [Mori no ki jido Gasshoudan](https://open.spotify.com/artist/5dHo72OCBnN8ENoHXKXSbk) | [2月の歌～豆まき・雪とこども～from HiHiRecords](https://open.spotify.com/album/76Ki1TXxlbEyH7TuITk7IY) | 0:47 | 2025-02-04 | 2026-02-07 |
-| [負けないで](https://open.spotify.com/track/3liCKCPEavLxzTdlyAw9kl) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [揺れる想い](https://open.spotify.com/album/1ZC8iKbEBZ1EkajXjuwmGu) | 3:45 | 2026-08-31 |  |
+| [負けないで](https://open.spotify.com/track/3liCKCPEavLxzTdlyAw9kl) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [揺れる想い](https://open.spotify.com/album/1ZC8iKbEBZ1EkajXjuwmGu) | 3:45 | 2026-08-31 | 2026-10-05 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-06-08 | 2024-09-20 |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-06-06 | 2024-06-25 |
 | [貴方解剖純愛歌〜死ね〜](https://open.spotify.com/track/2H3bOGOE50qEo5wAYoJiwL) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [tamago](https://open.spotify.com/album/2QDPEpzxtuvLuE21DtGTBh) | 4:26 | 2025-05-22 | 2025-05-24 |

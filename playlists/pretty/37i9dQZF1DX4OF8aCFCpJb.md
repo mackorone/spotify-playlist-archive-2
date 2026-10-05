@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,329 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,335 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Naiv](https://open.spotify.com/track/5qFctlq6LI01bQYQmqWaje) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Naiv](https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB) | 2:56 |
 | 2 | [Fakkin fin](https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Garalaowit](https://open.spotify.com/album/1yEJRvVMeJD40BXtIUl0Me) | 4:02 |
 | 3 | [Andra Sidan](https://open.spotify.com/track/4mgjdD83RABXAM64vB3AQu) | [Rhymes & Riddim](https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3) | [Revolution](https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo) | 2:58 |
-| 4 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
-| 5 | [Miss Fatty](https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [From A Far \(2007 Edition\)](https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z) | 3:57 |
+| 4 | [Miss Fatty](https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [From A Far \(2007 Edition\)](https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z) | 3:57 |
+| 5 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
 | 6 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
 | 7 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 | 8 | [Likadant](https://open.spotify.com/track/7ghbl9klH7MAjvofXyuGkb) | [Rhymes & Riddim](https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3) | [Revolution](https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo) | 2:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 46 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
 | 47 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
 | 48 | [Love We Deal With](https://open.spotify.com/track/4mpXlXzGmXf1objQcgFVMX) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Everyday](https://open.spotify.com/album/20jhBPM77Fuqx1bAj8q1Ot) | 3:58 |
-| 49 | [Common Sense](https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt) | [Marx Gallo](https://open.spotify.com/artist/4sHsAEoZZJLuskIZPuXE1H) | [Common Sense](https://open.spotify.com/album/0i8wOJrM6kSOQ1fRB88o4y) | 3:41 |
+| 49 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
 | 50 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 
 Snapshot ID: `AAAAAL7OxM2fgXL1t5sPH2Micg8nwBNX`

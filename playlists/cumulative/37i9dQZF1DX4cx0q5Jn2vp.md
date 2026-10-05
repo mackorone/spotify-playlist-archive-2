@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-322 songs - 19 hr 7 min
+324 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bagkos](https://open.spotify.com/track/1vIy9LahYQR6fWmsgryjbD) | [Slico](https://open.spotify.com/artist/1n32OOMDyy2zi6y9cACjLP) | [Bagkos](https://open.spotify.com/album/6C1PRXiyvjCmDWeKnm7ZgZ) | 3:44 | 2025-09-12 | 2025-09-27 |
 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 | 2022-04-04 | 2022-07-29 |
 | [Balse ng Gabi](https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb) | [Cesca](https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10), [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Balse Ng Gabi](https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC) | 3:32 | 2023-08-30 | 2023-09-14 |
-| [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 | 2025-03-21 |  |
+| [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 | 2025-03-21 | 2026-10-05 |
 | [Bawat Segundo](https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Bawat Segundo](https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M) | 4:11 | 2026-09-25 |  |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-05 | 2023-04-04 |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2022-06-27 | 2025-05-02 |
@@ -124,7 +124,7 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-06-27 | 2026-06-06 |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-02-27 | 2025-05-10 |
 | [Hopia](https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [afteryou.](https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc) | 4:42 | 2024-12-04 | 2024-12-17 |
-| [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-04-14 |  |
+| [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-04-14 | 2026-10-05 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-23 | 2025-09-17 |
 | [HSP](https://open.spotify.com/track/03WtEgVEYY2p55mzoYLFg7) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [HSP](https://open.spotify.com/album/4ZQm7J0Jb7rCtw7CRbkbBy) | 4:24 | 2025-07-16 | 2025-09-11 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-13 |  |
@@ -220,6 +220,7 @@
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 | 2024-04-19 |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-09 | 2023-09-17 |
 | [Nahuhulog](https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a) | [JUSWA](https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs) | [Nahuhulog](https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU) | 3:10 | 2025-12-08 | 2026-01-15 |
+| [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/album/7s3Gy06Iv0kmrtVBnO9t0n) | 3:18 | 2026-10-05 |  |
 | [Nakakabighani](https://open.spotify.com/track/0isK5sHesL3Hw3L5odItFK) | [Brandon Kail](https://open.spotify.com/artist/5qtaCawWuhPeW3GlHErpgt) | [Nakakabighani](https://open.spotify.com/album/3p8oaj2nN2rAecQPiT6Rk4) | 3:03 | 2026-09-02 | 2026-09-26 |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 | 2025-07-08 |
 | [Nandito Ako](https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 6:01 | 2025-11-13 |  |
@@ -234,6 +235,7 @@
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-07-07 | 2025-11-08 |
 | [Once in a Lifetime](https://open.spotify.com/track/49ExR0iSivJlXcMhwXlleb) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Once In A Lifetime](https://open.spotify.com/album/5LmJO14NtbCxNlGs6iXDjv) | 4:15 | 2022-04-04 | 2022-07-29 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-04-04 | 2022-07-24 |
+| [Oo](https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi) | [Midnight Talking](https://open.spotify.com/artist/0I9iFNGtuhl2elalmioDoy) | [Oo](https://open.spotify.com/album/6cL6hj5BjAsIk1HHcvGJQf) | 4:12 | 2026-10-05 |  |
 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 | 2025-10-03 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-09-13 | 2023-10-19 |
 | [OSA](https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [OSA](https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr) | 3:35 | 2025-11-24 | 2025-12-02 |

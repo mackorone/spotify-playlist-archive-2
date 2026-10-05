@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAAAkwtTZ1vbiPNeGkZNkCuV/",
+  "snapshot_id": "asBFgAAAAAD0ooHY5rtAY1/L6qrAbMbg",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Bob Sherman",
+          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 124786,
-      "name": "Valse Sentimentale, Op. 51, No. 6",
-      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
+      "duration_ms": 1379240,
+      "name": "WQXR Radio Broadcast, February 14, 1984: \"Valentine to Vilna\"",
+      "url": "https://open.spotify.com/track/6Kkwxiw2n7OXjCOQJpERib"
     },
     {
       "added_at": null,
@@ -271,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "Bob Sherman",
-          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 1379240,
-      "name": "WQXR Radio Broadcast, February 14, 1984: \"Valentine to Vilna\"",
-      "url": "https://open.spotify.com/track/6Kkwxiw2n7OXjCOQJpERib"
+      "duration_ms": 124786,
+      "name": "Valse Sentimentale, Op. 51, No. 6",
+      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
     },
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 443520,
-      "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
-      "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music In and On The Air",
         "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
@@ -643,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 443520,
+      "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
+      "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ionisation (1927-1945)",
         "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
       },
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Song of Grusia, Op. 4, No. 4",
+      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 204066,
       "name": "Elegy: Do not tempt me needlessly.",
       "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Song of Grusia, Op. 4, No. 4",
-      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
     },
     {
       "added_at": null,

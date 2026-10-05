@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124455,
+  "num_followers": 124473,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -355,8 +355,8 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "B\u01b0\u1edbc Za \u0110i Xa",
-        "url": "https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
@@ -364,17 +364,21 @@
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "Marlykid",
-          "url": "https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI"
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
         },
         {
-          "name": "Lucin3x",
-          "url": "https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2"
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "LVK",
+          "url": "https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL"
         }
       ],
-      "duration_ms": 168774,
-      "name": "B\u01b0\u1edbc Za \u0110i Xa",
-      "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
+      "duration_ms": 279605,
+      "name": "Tim Anh Ghen",
+      "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
     },
     {
       "added_at": "2026-10-01 17:00:27",
@@ -447,54 +451,6 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        }
-      ],
-      "duration_ms": 255256,
-      "name": "N\u1ebfu (feat. Obito)",
-      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
-    },
-    {
-      "added_at": "2026-10-01 17:00:27",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "LVK",
-          "url": "https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL"
-        }
-      ],
-      "duration_ms": 279605,
-      "name": "Tim Anh Ghen",
-      "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
-    },
-    {
-      "added_at": "2026-10-01 17:00:27",
-      "album": {
         "name": "\u0110O\u00c1 HOA",
         "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
       },
@@ -515,6 +471,50 @@
       "duration_ms": 158987,
       "name": "\u0110O\u00c1 HOA",
       "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
+    },
+    {
+      "added_at": "2026-10-01 17:00:27",
+      "album": {
+        "name": "B\u01b0\u1edbc Za \u0110i Xa",
+        "url": "https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Marlykid",
+          "url": "https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI"
+        },
+        {
+          "name": "Lucin3x",
+          "url": "https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2"
+        }
+      ],
+      "duration_ms": 168774,
+      "name": "B\u01b0\u1edbc Za \u0110i Xa",
+      "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
+    },
+    {
+      "added_at": "2026-10-01 17:00:27",
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 255256,
+      "name": "N\u1ebfu (feat. Obito)",
+      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
     },
     {
       "added_at": "2026-10-01 17:00:27",
@@ -547,22 +547,18 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+        "name": "WILD WEST",
+        "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
       },
       "artists": [
         {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+          "name": "Yung Ni99",
+          "url": "https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA"
         }
       ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+      "duration_ms": 154285,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
     },
     {
       "added_at": "2026-10-01 17:00:27",
@@ -671,6 +667,26 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+        }
+      ],
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+    },
+    {
+      "added_at": "2026-10-01 17:00:27",
+      "album": {
         "name": "C\u00f4ng Ty 4",
         "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
@@ -735,6 +751,22 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "duration_ms": 190343,
+      "name": "L\u1ed1i S\u1ed1ng",
+      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
+    },
+    {
+      "added_at": "2026-10-01 17:00:27",
+      "album": {
         "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
         "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
       },
@@ -751,22 +783,6 @@
       "duration_ms": 220289,
       "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
       "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
-    },
-    {
-      "added_at": "2026-10-01 17:00:27",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        }
-      ],
-      "duration_ms": 190343,
-      "name": "L\u1ed1i S\u1ed1ng",
-      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
     },
     {
       "added_at": "2026-10-01 17:00:27",
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "WILD WEST",
-        "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
-      },
-      "artists": [
-        {
-          "name": "Yung Ni99",
-          "url": "https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
-    },
-    {
-      "added_at": "2026-10-01 17:00:27",
-      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -895,22 +895,26 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
       "artists": [
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
         },
         {
-          "name": "REX",
-          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
     },
     {
       "added_at": "2026-10-01 17:00:27",
@@ -931,22 +935,22 @@
     {
       "added_at": "2026-10-01 17:00:27",
       "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
+        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
       },
       "artists": [
         {
-          "name": "nhan.",
-          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
         },
         {
-          "name": "Xuanpac",
-          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
         }
       ],
-      "duration_ms": 180000,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
+      "duration_ms": 192631,
+      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
     },
     {
       "added_at": "2026-10-01 17:00:27",

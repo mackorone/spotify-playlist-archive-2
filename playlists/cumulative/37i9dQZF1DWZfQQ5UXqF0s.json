@@ -180,7 +180,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 428466,
-      "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
+      "name": "Amor Eterno - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm"
     },
     {
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 244506,
       "name": "Muchacha Triste",
       "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
@@ -2634,6 +2634,24 @@
       "duration_ms": 213973,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
       "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+    },
+    {
+      "album": {
+        "name": "89-99",
+        "url": "https://open.spotify.com/album/2V11wrGGMAohJgREkKntlJ"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300693,
+      "name": "T\u00fa Necesitas",
+      "url": "https://open.spotify.com/track/2RRNykB8lcVUwiNdBrkrQu"
     },
     {
       "album": {

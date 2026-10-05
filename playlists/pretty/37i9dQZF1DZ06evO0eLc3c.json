@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55682,
+  "num_followers": 55689,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABEqB2vdGA/ajB70ES/CVc9",
+  "snapshot_id": "asBFgAAAAADQeIgFPVXVXTKhFubQd+n/",
   "tracks": [
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "The Things You Leave Behind",
+        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
       },
       "artists": [
+        {
+          "name": "Lenny Kaye",
+          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
+        },
         {
           "name": "Patti Smith",
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 72226,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
+      "duration_ms": 293934,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Things You Leave Behind",
-        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
-        {
-          "name": "Lenny Kaye",
-          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
-        },
         {
           "name": "Patti Smith",
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 293934,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
+      "duration_ms": 72226,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,772 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,780 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 66 | [Reel 9](https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Soundtrack\)](https://open.spotify.com/album/1T9FXEBAlOOUvwNxjI2Jad) | 10:56 |
 | 67 | [Side A](https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt) | [David Lynch & Alan R\. Splet](https://open.spotify.com/artist/29O0eYoRjupuO4wth6D0k7) | [Eraserhead Soundtrack](https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ) | 20:08 |
 | 68 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
-| 69 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 |
+| 69 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams: Witches Of Eastwick O.S.T.](https://open.spotify.com/artist/4qPYVPGWvZvXrqXCnwct76) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 |
 | 70 | [The Twilight Zone \- Remastered 1992](https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35), [Kevin Reeves](https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 2:36 |
 | 71 | [Pas De Deux](https://open.spotify.com/track/3OHCNumN480cuIojhklljX) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gkLMuAnI8U5z2yhyhhRQk) | 2:51 |
 | 72 | [Hellraiser](https://open.spotify.com/track/1Vya0Wd5w4HGeEvCipqg74) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Hellraiser 30th Anniversary Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kStQ1fN11Yv9tajnZ2vN1) | 1:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Wxoda
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,719 likes - 85 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,814 likes - 85 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

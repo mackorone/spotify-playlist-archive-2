@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,140 likes - 177 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,138 likes - 177 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 52 | [Open \(Passionate\)](https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:05 |
 | 53 | [Shot & Wine](https://open.spotify.com/track/1M1k3Sxtf7u8Zj3eIzrJm0) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Shot & Wine](https://open.spotify.com/album/1bkP3XCKZg4v9fywRkiS1a) | 3:28 |
 | 54 | [LOVEHAPPY](https://open.spotify.com/track/7szhY56rkD20Ai9AxJaicE) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:49 |
-| 55 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
-| 56 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 |
+| 55 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 |
+| 56 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
 | 57 | [Early 2K \(feat\. Tank\)](https://open.spotify.com/track/5ukTyGI2xoGVVvsjlTACEL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:46 |
 | 58 | [$$$ \(feat\. Normani\)](https://open.spotify.com/track/1qmTyz4l8mLlxGqGP2YjCF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:01 |
 | 59 | [Tweakin](https://open.spotify.com/track/4MAHqzuljxMPl1ibUrC57Y) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Mixed Emotions](https://open.spotify.com/album/2iSs4IZZHQ5lrFIbUqC1NX) | 3:19 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 142 | [Running Away \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/6QChGL1rJ3R4VpESDVCb7w) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:01 |
 | 143 | [Heaven](https://open.spotify.com/track/40gW1rV6dtDWUORO9Tn7HE) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:30 |
 | 144 | [Rare](https://open.spotify.com/track/5LYZJ6kIXUQkryKCMriD1z) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:06 |
-| 145 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
-| 146 | [In Between](https://open.spotify.com/track/3wOK6LvRJQfbGoBok6ypUJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:30 |
+| 145 | [In Between](https://open.spotify.com/track/3wOK6LvRJQfbGoBok6ypUJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:30 |
+| 146 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
 | 147 | [CUT THE LIGHTS\. \- CHAMPIONSHIP VERSION](https://open.spotify.com/track/3hjfnZgJM3BYiEA6fQ7Dlb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:44 |
 | 148 | [SWERVE](https://open.spotify.com/track/66o2MJYTvdoanjOLH0UCp8) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 2:51 |
 | 149 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 176 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 177 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `Acd/TgAAAADbWJ8OAyjspxevLhITPI1+`
+Snapshot ID: `AceE7gAAAAA+yGwUY+blKE167Xud35l6`

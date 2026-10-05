@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 63 | [Steal My Thunder](https://open.spotify.com/track/7yk6FXxIoIdCp3rgc4Uz5E) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 7:16 |
 | 64 | [Holding The Other](https://open.spotify.com/track/4WiMhArdb8BD7KKkin1g8h) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:54 |
 | 65 | [History](https://open.spotify.com/track/1Ph2vX0dNoisuWlguYpl49) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [History](https://open.spotify.com/album/0r32baYSVuF4T76NxZ5848) | 2:57 |
-| 66 | [What Are We Doing](https://open.spotify.com/track/4kLgxi0By3jbFDtVbkLFKK) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:18 |
-| 67 | [Bad Memory](https://open.spotify.com/track/3jBF7iixsuIDm6KaLdMqXr) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 2:55 |
+| 66 | [Bad Memory](https://open.spotify.com/track/3jBF7iixsuIDm6KaLdMqXr) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 2:55 |
+| 67 | [What Are We Doing](https://open.spotify.com/track/4kLgxi0By3jbFDtVbkLFKK) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:18 |
 | 68 | [COUNTRY PSALM](https://open.spotify.com/track/6p8LvjoMYzbX6KHUszjTng) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 5:05 |
 | 69 | [Red Wine + White Couch](https://open.spotify.com/track/53VQYdLcJSMZcv1ZXcDp5b) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:09 |
 | 70 | [Do For Love](https://open.spotify.com/track/0Oas9Rbqxv0FD7HZvSYgIH) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:37 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 218 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 219 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Acd/OgAAAACHYxln7z1lSqL0hXRgG+l1`
+Snapshot ID: `AceE2gAAAAA+xaQnTt3+vWhAnd/KFr7q`

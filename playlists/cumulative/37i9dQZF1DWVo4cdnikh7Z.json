@@ -48803,6 +48803,28 @@
     },
     {
       "album": {
+        "name": "Rathinamo (Female Version)",
+        "url": "https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        },
+        {
+          "name": "Tanisha Gnanavel",
+          "url": "https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177390,
+      "name": "Rathinamo - Female Version",
+      "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
+    },
+    {
+      "album": {
         "name": "Raththam Title Track (From \"Raththam\")",
         "url": "https://open.spotify.com/album/6nifCKPlcI1RW7NHFEDrtG"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 2 hr 2 min
+45 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 | 2026-06-09 |  |
 | [On & On](https://open.spotify.com/track/7cjUFCh2aWX9E9bXig3nV7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:21 | 2026-06-09 |  |
 | [Paid My Dues](https://open.spotify.com/track/1dgGxvy8OsMBSrOclIN2Bg) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [4EVERFRIDAY SZN 4](https://open.spotify.com/album/71PJbNosy3eE6RhSTsjWnf) | 2:16 | 2026-06-09 |  |
-| [Pilots](https://open.spotify.com/track/6NkBqyuboalFLRRjAj60av) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/23LtEO3qlV6e39pmS5RYuL) | 1:39 | 2026-06-09 |  |
+| [Pilots](https://open.spotify.com/track/0fXaCPwS7rcWUpq9XvHHNf) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/4Nart5xB3FKJj2xiGkUCNL) | 1:39 | 2026-10-04 |  |
+| [Pilots](https://open.spotify.com/track/6NkBqyuboalFLRRjAj60av) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/23LtEO3qlV6e39pmS5RYuL) | 1:39 | 2026-06-09 | 2026-10-05 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2026-06-09 |  |
 | [Ride \(feat\. Young Thug\)](https://open.spotify.com/track/2H5bVnyhhffT7pKFvY04TB) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:00 | 2026-06-09 |  |
 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 | 2026-09-27 |  |

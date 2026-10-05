@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,007,378 likes - 151 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,007,426 likes - 151 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

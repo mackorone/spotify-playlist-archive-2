@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,444 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,606 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 67 | [Dr\. Feelgood](https://open.spotify.com/track/7xMud4sf8Lv1UievrJ9Sj6) | [Cool James](https://open.spotify.com/artist/2OKOpqYl2H7q3AFjuJo0XK), [Black Teacher](https://open.spotify.com/artist/1209vfijpAIn5WvDlhLpfB) | [Zooming You](https://open.spotify.com/album/44K4ugSpPPOKlLrsqXZ0WJ) | 3:49 |
 | 68 | [Tears Don't Lie \- Long Version](https://open.spotify.com/track/77DBnoXYTP9HNMunNaUqch) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [90s Charthits](https://open.spotify.com/album/070WMuqRUg4LdGqpzQzp1Q) | 3:39 |
 | 69 | [Leave It Behind](https://open.spotify.com/track/3QHfylquL6fwyhLqjOlW8E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 3:42 |
-| 70 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
+| 70 | [Das Boot](https://open.spotify.com/track/0yMIs70Fr4pd8f4KV6jmHC) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/5geE4R8hMSYwkmJiUAAgCW) | 5:14 |
 
 Snapshot ID: `AAAAALLPTyLxZkeJYiwNMwrEAeKeHiiK`

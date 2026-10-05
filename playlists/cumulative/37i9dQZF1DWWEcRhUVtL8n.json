@@ -12724,7 +12724,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 230637,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
@@ -21543,6 +21543,24 @@
     },
     {
       "album": {
+        "name": "hunting what we already killed",
+        "url": "https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216729,
+      "name": "in the middle of the night",
+      "url": "https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET"
+    },
+    {
+      "album": {
         "name": "Sleeping In",
         "url": "https://open.spotify.com/album/3NusJrwTXCCW7UnV0IxSwV"
       },
@@ -27076,7 +27094,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 158936,
       "name": "Mesmerized",
       "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
@@ -38034,6 +38052,24 @@
       "duration_ms": 194754,
       "name": "Special",
       "url": "https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7"
+    },
+    {
+      "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG"
+      },
+      "artists": [
+        {
+          "name": "Jade Street",
+          "url": "https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173849,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A"
     },
     {
       "album": {

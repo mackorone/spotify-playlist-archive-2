@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,434 songs - 5 day 10 hr 32 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,435 songs - 5 day 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2442,5 +2442,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2432 | [Bind That Bitch](https://open.spotify.com/track/3ebpXLD39hCZUHM5g9XczH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 2:49 |
 | 2433 | [Bounce 2](https://open.spotify.com/track/0VaiXDfqOxgGvKHZess24r) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/7Mf5jGADF6j0h2QTND4Yg9) | 3:20 |
 | 2434 | [你喜欢我闪耀的样子吗???](https://open.spotify.com/track/4hf1LcGhGfZaqIIzhwRUhS) | [Xextapes](https://open.spotify.com/artist/6Bz6u2PFf3Bptxqnk4ZXAK) | [你喜欢我闪耀的样子吗???](https://open.spotify.com/album/0Yg2VSz0cANfbris0wVPvj) | 1:56 |
+| 2435 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 |
 
-Snapshot ID: `AAAFi7XJoa7WB1PgOvjbmeq3D4nEn3Cp`
+Snapshot ID: `AAAFjLKEENWzfoAl7itvtQ8ULZ3ekXt3`

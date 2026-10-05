@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1308648,
+  "num_followers": 1308611,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Frances",
-      "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 148597,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Frances",
+      "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Don't Cry, Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Don't Cry, Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Don't Cry, Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Don't Cry, Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 207242,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 217237,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Hearts Break and People Change",
         "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 209787,
       "name": "Hearts Break and People Change",
       "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 217237,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1223,6 +1207,38 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
       "artists": [
         {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1291,22 +1307,6 @@
       "duration_ms": 291538,
       "name": "I Know A Place - Acoustic",
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 155049,
       "name": "Live First, Love Later",
       "url": "https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Someone That's Better",
         "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "the minute you're gone",
+        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "the minute you're gone",
+      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
     },
     {
       "added_at": "2026-04-16 23:00:52",

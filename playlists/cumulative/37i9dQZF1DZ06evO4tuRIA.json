@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
+        "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207140,
+      "name": "De Peri\u00f3dico Un Gallito - En Vivo",
+      "url": "https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ"
+    },
+    {
+      "album": {
         "name": "Dos Cabrones",
         "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
       },
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 175680,
       "name": "UN WOODCITO",
       "url": "https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs"

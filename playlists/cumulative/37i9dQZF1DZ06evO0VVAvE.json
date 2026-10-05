@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Akube",
+        "url": "https://open.spotify.com/album/7JYM4nzVM01kKolPIprB8s"
+      },
+      "artists": [
+        {
+          "name": "D\u00a3JAVU",
+          "url": "https://open.spotify.com/artist/1Ig25E3GH7TovSosx5Gf4F"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136157,
+      "name": "Akube",
+      "url": "https://open.spotify.com/track/4OAtzMeRzHT7Ns6PEFJHKR"
+    },
+    {
+      "album": {
         "name": "Ali (Remix)",
         "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
       },

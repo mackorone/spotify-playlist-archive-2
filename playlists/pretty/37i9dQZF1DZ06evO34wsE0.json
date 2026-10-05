@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254879,
+  "num_followers": 254891,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAADMzdHHDfQULnt3mNIR1tLn",
+  "snapshot_id": "asBFgAAAAAAisGCaw18XGyJE4LFocUQp",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
       "artists": [
         {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+      "duration_ms": 200813,
+      "name": "Forever And Ever, Amen",
+      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
+        "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
       "artists": [
         {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Forever And Ever, Amen",
-      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,216 likes - 235 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,217 likes - 235 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 59 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
 | 60 | [LoveDrug](https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:13 |
 | 61 | [Gimme What I Want](https://open.spotify.com/track/4v8jmsVox8VwU5js3JHOJZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:31 |
-| 62 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
-| 63 | [Perfect Celebrity](https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 |
+| 62 | [Perfect Celebrity](https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 |
+| 63 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
 | 64 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
 | 65 | [Under the Graveyard](https://open.spotify.com/track/0LagWpYHMaQjbCeAIoOKVg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 4:57 |
 | 66 | [Killah \(feat\. Gesaffelstein\)](https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:30 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 107 | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/3Clcn0JjqakucsAAAMV646) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 108 | [Finish Line](https://open.spotify.com/track/6KU4IwlxqeODKgwKiSDOWB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 4:24 |
 | 109 | [GBG \(feat\. Marshmello\)](https://open.spotify.com/track/1yMCbZBF44fhCfoAO4ETI0) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:10 |
-| 110 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/2t0iRmBWsSwPIv7OY8ypiZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:44 |
-| 111 | [Hate The Game](https://open.spotify.com/track/7xfueRdAGnr8pKEIhkGcc8) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:44 |
+| 110 | [Hate The Game](https://open.spotify.com/track/7xfueRdAGnr8pKEIhkGcc8) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:44 |
+| 111 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/2t0iRmBWsSwPIv7OY8ypiZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:44 |
 | 112 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2QEHe3FQLbbXDz14YKzqU8) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [In The Dark \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/58EwvlQo4harE9P2i3bafT) | 3:05 |
 | 113 | [2step \(feat\. Quevedo\)](https://open.spotify.com/track/0YbUKWAVjJvfOvRpnvNEOz) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 114 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/0KLz5YzEQXXxEUBwtgxxM8) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 4:49 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 234 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 235 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `Acd/WAAAAAAhb/2kNAZkI/6YMEKqUM61`
+Snapshot ID: `AceE7gAAAAD9pKU8fxBolqZ0XlwFoqto`

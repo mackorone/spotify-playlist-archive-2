@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Osmán Música
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,625 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,619 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 69 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
 | 70 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
 
-Snapshot ID: `AAAAAPWyTCoyEbVB19FX4b/wZA17GSpx`
+Snapshot ID: `AAAAAPVSU+pbxYfaAdIM+EWJHilgqnUv`

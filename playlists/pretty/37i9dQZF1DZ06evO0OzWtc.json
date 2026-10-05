@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2223,
+  "num_followers": 2224,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar70AAAAAABzTZIhG0g6vWfa6KdNvy9M",
+  "snapshot_id": "asBFgAAAAACgF2shZeJ7sD9qHFn4uwEi",
   "tracks": [
     {
       "added_at": null,
@@ -891,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "A 150",
+        "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "A 150",
+      "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modo B\u00e9lico",
         "url": "https://open.spotify.com/album/71vdRULLh8GlCxAEkU8XTQ"
       },
@@ -1131,34 +1159,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico",
       "url": "https://open.spotify.com/track/4g5Ad0cbZUvTmacoqIBqMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A 150",
-        "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "A 150",
-      "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,913 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,932 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Todo x Nada](https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Todo x Nada](https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe) | 6:14 |
 | 50 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 
-Snapshot ID: `ar70AAAAAAA6xkGnH4uvAbOg1u73ycsn`
+Snapshot ID: `asBFgAAAAABgQ7xv+hF/BfEEvT4eYAQ/`

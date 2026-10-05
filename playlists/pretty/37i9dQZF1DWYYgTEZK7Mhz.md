@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,668 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,674 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 16 | [Tropicana](https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R) | [Gruppo Italiano](https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft) | [Gruppo Italiano](https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD) | 3:30 |
 | 17 | [Quando quando quando](https://open.spotify.com/track/5x3Hpqf0pvVGELLVLf4bNd) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Tony Renis](https://open.spotify.com/album/3ClTylraxBpTRumWOwuXnm) | 2:46 |
 | 18 | [Legata a un granello di sabbia](https://open.spotify.com/track/6LlthKltcBuc1tOIeUUtI1) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Nico Fidenco](https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA) | 4:12 |
-| 19 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
-| 20 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |
+| 19 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |
+| 20 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
 | 21 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
 | 22 | [Tintarella di luna](https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Ritratto di Mina: I singoli, Vol\. 1](https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN) | 2:59 |
 | 23 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/41mqT9VZCiE4r9Kpga5Frr) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Renato Carosone: Solo Grandi Successi](https://open.spotify.com/album/0WG3ahQQelMxtsjTAW5psE) | 3:28 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 26 | [Se Puoi Uscire Una Domenica Sola Con Me](https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Ritratto Di Gianni](https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo) | 2:16 |
 | 27 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
 | 28 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Nico Fidenco](https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA) | 2:40 |
-| 29 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
-| 30 | [Pinne, Fucile Ed Occhiali](https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:39 |
+| 29 | [Pinne, Fucile Ed Occhiali](https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:39 |
+| 30 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
 | 31 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 |
 | 32 | [Pezzetini di bikini](https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Jolly LPJ 5018](https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI) | 2:15 |
 | 33 | [Sei Diventata Nera](https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [I Marcellos Ferial](https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Unos buenos riffs de guitarra para acompa\u00f1arte en el camino. ",
-  "num_followers": 214546,
+  "num_followers": 214548,
   "original_name": "Viaje en Carretera: Rock",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Sun Has Set",
-        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 260229,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 350573,
-      "name": "Goodbye Stranger - Remastered 2010",
-      "url": "https://open.spotify.com/track/67oyFnjJnn78fZP9KjeZx0"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 350573,
+      "name": "Goodbye Stranger - Remastered 2010",
+      "url": "https://open.spotify.com/track/67oyFnjJnn78fZP9KjeZx0"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Always Alright",
-        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 249169,
-      "name": "Always Alright",
-      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+        "name": "Always Alright",
+        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
       },
       "artists": [
         {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+      "duration_ms": 249169,
+      "name": "Always Alright",
+      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1195,6 +1179,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2026-09-11 06:00:08",

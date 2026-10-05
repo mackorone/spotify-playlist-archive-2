@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63923,
+  "num_followers": 63936,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Foggy Morning Breaking",
         "url": "https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Moon in Motion 1",
         "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 251000,
       "name": "Moon in Motion 1",
       "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Song of the Water Kelpie (unsung)",
         "url": "https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
         }
       ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -867,22 +883,6 @@
       "duration_ms": 142106,
       "name": "Work Away",
       "url": "https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "A Reef Where Two Seas Met",
-        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
-      },
-      "artists": [
-        {
-          "name": "The Riverside",
-          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "A Reef Where Two Seas Met",
-      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -951,38 +935,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+        "name": "A Reef Where Two Seas Met",
+        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Grandfather's Clock",
-        "url": "https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Grandfather's Clock",
-      "url": "https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV"
+      "duration_ms": 139000,
+      "name": "A Reef Where Two Seas Met",
+      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1007,6 +971,42 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Grandfather's Clock",
+        "url": "https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Grandfather's Clock",
+      "url": "https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 305160,
       "name": "Blue Men Of The Sahara",
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1043,22 +1059,6 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
       "artists": [
         {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Addie Levy",
-        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "Addie Levy",
-          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Flight Pattern",
-      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
         }
       ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+      "duration_ms": 178946,
+      "name": "Flight Pattern",
+      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Cliffhanger",
-        "url": "https://open.spotify.com/album/0OPubM9XUmhjnyd7BUVmKl"
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Cliffhanger",
-      "url": "https://open.spotify.com/track/3dAvN1Y8IUQ1Akle71r2i5"
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+        "name": "Cliffhanger",
+        "url": "https://open.spotify.com/album/0OPubM9XUmhjnyd7BUVmKl"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+      "duration_ms": 240000,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/3dAvN1Y8IUQ1Akle71r2i5"
     },
     {
       "added_at": "2026-08-28 04:01:30",

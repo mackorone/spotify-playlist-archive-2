@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-05",
       "duration_ms": 132555,
       "name": "Recordando Al Chavalon",
       "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
@@ -1458,6 +1458,24 @@
       "duration_ms": 135709,
       "name": "Todo Veo",
       "url": "https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT"
+    },
+    {
+      "album": {
+        "name": "TROPIEZOS",
+        "url": "https://open.spotify.com/album/7KHg49ltLnNh4DRfWhVejU"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "TROPIEZOS",
+      "url": "https://open.spotify.com/track/1YnSjImuf66CsvBA4tnitg"
     },
     {
       "album": {

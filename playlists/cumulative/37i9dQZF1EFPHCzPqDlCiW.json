@@ -1343,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206218,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
+    },
+    {
+      "album": {
         "name": "Find Love Now",
         "url": "https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF"
       },

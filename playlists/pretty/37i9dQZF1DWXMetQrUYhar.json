@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111313,
+  "num_followers": 111314,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -556,22 +556,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 217855,
-      "name": "mother tongue - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
@@ -583,6 +567,22 @@
       "duration_ms": 205583,
       "name": "For You - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 217855,
+      "name": "mother tongue - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Dead Boys - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "macrodosing - Spotify Singles",
         "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 170897,
       "name": "macrodosing - Spotify Singles",
       "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Dead Boys - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -780,22 +780,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "When the Night is Over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
       },
       "artists": [
@@ -807,6 +791,22 @@
       "duration_ms": 239465,
       "name": "I Can Hardly Speak",
       "url": "https://open.spotify.com/track/6RE0waxUF2FpqFmcUlJI1O"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 310400,
+      "name": "When the Night is Over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1004,22 +1004,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
       },
       "artists": [
@@ -1031,6 +1015,22 @@
       "duration_ms": 208396,
       "name": "Electric Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1196,22 +1196,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214410,
-      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
       },
       "artists": [
@@ -1223,6 +1207,22 @@
       "duration_ms": 188196,
       "name": "My Backwards Walk - Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214410,
+      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1404,17 +1404,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
+      "duration_ms": 194313,
+      "name": "Be Sweet - Spotify Singles",
+      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1440,17 +1440,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 194313,
-      "name": "Be Sweet - Spotify Singles",
-      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1520,22 +1520,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
@@ -1552,17 +1536,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 214823,
-      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1579,6 +1563,22 @@
       "duration_ms": 253514,
       "name": "Los Ageless - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa"
     },
     {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "flower boy - Spotify Singles",
-        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "flower boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -1691,6 +1675,22 @@
       "duration_ms": 287960,
       "name": "Ups & Downs - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5086U7EXKa23260GlpbLUy"
+    },
+    {
+      "added_at": "2025-01-27 20:00:12",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1728,17 +1728,21 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 212449,
-      "name": "Softly - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1760,21 +1764,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
         {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        },
-        {
-          "name": "BLACKPAW",
-          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
-      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
+      "duration_ms": 212449,
+      "name": "Softly - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1812,22 +1812,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Fire Escape - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
       },
       "artists": [
@@ -1839,6 +1823,22 @@
       "duration_ms": 316108,
       "name": "Mourning Sound - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "Fire Escape - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2020,17 +2020,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+        "url": "https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf"
       },
       "artists": [
         {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 295649,
-      "name": "Seventeen - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv"
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",
