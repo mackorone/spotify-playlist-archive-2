@@ -1,12 +1,12 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 729,
+  "num_followers": 730,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAAWwrQ+kbZLY50yl37P9tGc",
+  "snapshot_id": "asGXAAAAAABOfOTrrwq0bTcdfhXW6rR7",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 176640,
-      "name": "B4U",
-      "url": "https://open.spotify.com/track/6H1V8A3LEtogBwoCI2QIoO"
+      "duration_ms": 184040,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX"
+      "duration_ms": 176640,
+      "name": "B4U",
+      "url": "https://open.spotify.com/track/6H1V8A3LEtogBwoCI2QIoO"
     },
     {
       "added_at": null,

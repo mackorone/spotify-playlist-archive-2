@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > BLANCO in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,830 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708,781 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 32 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 |
 | 33 | [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 |
 | 34 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
-| 35 | [TUTTO](https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [TUTTO](https://open.spotify.com/album/3ny7Mls4spvGmdy10ma13x) | 3:24 |
+| 35 | [WINNER](https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [WINNER](https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt) | 3:05 |
 | 36 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
 | 37 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
 | 38 | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 | 50 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
 
-Snapshot ID: `AAAAACr+vvUAT33rx4vE37XfYClDGsjQ`
+Snapshot ID: `AAAAAL15kcJxrZ4lVgHuprs28uttJN2y`

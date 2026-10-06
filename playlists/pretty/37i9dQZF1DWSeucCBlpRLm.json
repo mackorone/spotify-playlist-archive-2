@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 90994,
+  "num_followers": 91020,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -863,8 +863,8 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "3:00 AM Sessions",
-        "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },
       "artists": [
         {
@@ -872,17 +872,13 @@
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Devika Badyal",
-          "url": "https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 171272,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -987,50 +983,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Ungli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Anushka Manchanda",
-          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "Dance Basanti",
-      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Bang Bang (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu"
       },
@@ -1051,6 +1003,54 @@
       "duration_ms": 320000,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/464gxyow4GJ7Wuz3cHrdBB"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "3:00 AM Sessions",
+        "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Devika Badyal",
+          "url": "https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Ungli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "Dance Basanti",
+      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Tanu Weds Manu",
+        "url": "https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd"
+      },
+      "artists": [
+        {
+          "name": "Lehmber Hussainpuri",
+          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
+        },
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 264900,
+      "name": "Sadi Gali",
+      "url": "https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Tanu Weds Manu",
-        "url": "https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd"
-      },
-      "artists": [
-        {
-          "name": "Lehmber Hussainpuri",
-          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
-        },
-        {
-          "name": "Krsna Solo",
-          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 264900,
-      "name": "Sadi Gali",
-      "url": "https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1787,6 +1787,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Aiyyaa",
         "url": "https://open.spotify.com/album/7tNzT9KTlTQNG8m0ODRS13"
       },
@@ -1811,30 +1835,6 @@
       "duration_ms": 264382,
       "name": "Aga Bai",
       "url": "https://open.spotify.com/track/5IIoQg5A7agXCksmdRLX7i"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2026-09-23 05:15:16",

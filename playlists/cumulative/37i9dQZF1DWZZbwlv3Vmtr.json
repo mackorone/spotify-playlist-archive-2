@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Biboon",
       "url": "https://open.spotify.com/track/3EoBlre6s5wDqLEXtIaX9R"
@@ -5925,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "Falling Gold",
+        "url": "https://open.spotify.com/album/6e7h1iy2xReoguXwanIaRi"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "Falling Gold",
+      "url": "https://open.spotify.com/track/1y8blwpbwumm2oulorgLcm"
+    },
+    {
+      "album": {
         "name": "Falling Leaves",
         "url": "https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey"
       },
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 135205,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3VyltTqr3UexnfSTQOzN3Y"
@@ -9148,7 +9166,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 130500,
       "name": "Ivy Shadow",
       "url": "https://open.spotify.com/track/1WyVxCp5Xtxc4moD8zNO3m"
@@ -13774,7 +13792,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 147916,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/0MF8wPjQiBbEnJAJ2dO2k7"
@@ -14554,6 +14572,28 @@
       "duration_ms": 142000,
       "name": "piece of cake",
       "url": "https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw"
+    },
+    {
+      "album": {
+        "name": "Piemonte",
+        "url": "https://open.spotify.com/album/3sZRXxfgsu5bAHs6XjeVSQ"
+      },
+      "artists": [
+        {
+          "name": "Revoir",
+          "url": "https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f"
+        },
+        {
+          "name": "Hazue",
+          "url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Piemonte",
+      "url": "https://open.spotify.com/track/5j2xjwHnOlW12wFpSfFqlQ"
     },
     {
       "album": {

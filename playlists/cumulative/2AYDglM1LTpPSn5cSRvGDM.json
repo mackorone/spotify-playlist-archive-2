@@ -4405,6 +4405,28 @@
     },
     {
       "album": {
+        "name": "Repeater (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/0kive9rpF9C8EjnZCBJgwx"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Repeater - Einmusik Remix",
+      "url": "https://open.spotify.com/track/06dth88m6vDY5LFMZ7cobm"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
       },

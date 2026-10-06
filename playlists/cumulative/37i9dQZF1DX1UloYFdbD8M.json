@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 145000,
       "name": "Changilethudippu pole",
       "url": "https://open.spotify.com/track/1wmjvc24elUaEpzB4hSLPf"
@@ -6671,6 +6671,28 @@
     },
     {
       "album": {
+        "name": "MARAVIL",
+        "url": "https://open.spotify.com/album/2VPdNQfCbAsGOnyyJ8PSHa"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Fura",
+          "url": "https://open.spotify.com/artist/1UU38bxciz89p83GtdogcH"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166656,
+      "name": "MINSARAM",
+      "url": "https://open.spotify.com/track/7AUyEBQDcSpp0NpQj3ZqDT"
+    },
+    {
+      "album": {
         "name": "Mizhikal",
         "url": "https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY"
       },
@@ -6998,7 +7020,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 168749,
       "name": "Muth Honey",
       "url": "https://open.spotify.com/track/4vhQZRZhSOcpUvMrM3v1wr"
@@ -7526,6 +7548,28 @@
       "duration_ms": 420174,
       "name": "Neeli",
       "url": "https://open.spotify.com/track/4faDfd02dzmI2DjTBLpdSa"
+    },
+    {
+      "album": {
+        "name": "MARAVIL",
+        "url": "https://open.spotify.com/album/2VPdNQfCbAsGOnyyJ8PSHa"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Navoca",
+          "url": "https://open.spotify.com/artist/2NxoYj8fP6fJz3w2RoZhgh"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207596,
+      "name": "NEEYAA",
+      "url": "https://open.spotify.com/track/6XBl0VM4xnbr1L0SlozVKT"
     },
     {
       "album": {
@@ -8146,6 +8190,28 @@
       "duration_ms": 263625,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C"
+    },
+    {
+      "album": {
+        "name": "MARAVIL",
+        "url": "https://open.spotify.com/album/2VPdNQfCbAsGOnyyJ8PSHa"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Jkfactor",
+          "url": "https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "ODI ODI",
+      "url": "https://open.spotify.com/track/6aoex7pWmQzMCKzobipbI6"
     },
     {
       "album": {
@@ -9068,6 +9134,36 @@
       "duration_ms": 335750,
       "name": "Pilleranu",
       "url": "https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd"
+    },
+    {
+      "album": {
+        "name": "Pokam Dhoore",
+        "url": "https://open.spotify.com/album/3vW9R9rtBZ06paEb0qjFBl"
+      },
+      "artists": [
+        {
+          "name": "Ahad Ayyaril",
+          "url": "https://open.spotify.com/artist/5UT8wC1cMQzw31BYrCPfad"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Divya Vineeth",
+          "url": "https://open.spotify.com/artist/6Tbn00OQg5ZSjtvHOez29z"
+        },
+        {
+          "name": "Ajay Unnirajan",
+          "url": "https://open.spotify.com/artist/4PFufLE4TnsX6J2cWqg6Up"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Pokam Dhoore",
+      "url": "https://open.spotify.com/track/5y6lOZrsKbK16252lV6PY4"
     },
     {
       "album": {

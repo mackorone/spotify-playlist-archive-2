@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Greg Freeman
 
-537 songs - 1 day 10 hr 33 min
+538 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-04-30 |  |
 | [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 | 2026-06-12 | 2026-09-27 |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-11 | 2025-01-31 |
+| [decembers](https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [decembers](https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h) | 4:35 | 2026-10-01 |  |
 | [Devil in Your Shoes \- Liquid Gold Version](https://open.spotify.com/track/6rmJSvNyxwoOCZO18WoOge) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Devil in Your Shoes \(Liquid Gold version\)](https://open.spotify.com/album/5bTwfCnOVHtDSUjosfkZyD) | 4:20 | 2024-06-14 | 2024-08-15 |
 | [Dialing In](https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Dialing In](https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK) | 4:40 | 2025-05-30 | 2026-07-31 |
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-06-14 | 2024-08-22 |
@@ -428,7 +429,7 @@
 | [Sousoume Tamacheq](https://open.spotify.com/track/6Y3OFWI9zIWP4ClMeOUqBx) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq) | 5:40 | 2024-07-18 | 2024-09-17 |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-10-06 | 2024-10-18 |
 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 | 2025-05-08 | 2026-06-19 |
-| [Spin](https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spin](https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d) | 3:50 | 2026-06-18 |  |
+| [Spin](https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spin](https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d) | 3:50 | 2026-06-18 | 2026-10-06 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2024-06-14 | 2024-12-14 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-04-30 | 2026-09-03 |
 | [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 | 2026-06-18 | 2026-09-23 |

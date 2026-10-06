@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 522 songs - 1 day 6 hr 2 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 523 songs - 1 day 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -530,5 +530,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 520 | [Bonita](https://open.spotify.com/track/3579K5JbVHWgUqEJWF2BHc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Las Aparicio \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3yPxTgJ8viftLZ8GEiXkHG) | 3:38 |
 | 521 | [Suji](https://open.spotify.com/track/2zehAIFkpZhvz18TA9lex7) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:32 |
 | 522 | [The Taste of Cockroach](https://open.spotify.com/track/5jVAe8oLRsZWDGTvXMeOlf) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [The Taste of Cockroach](https://open.spotify.com/album/17gTkKTbA7OZfWYnDyZ3Ul) | 4:26 |
+| 523 | [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 |
 
-Snapshot ID: `AAAKgebZnXjsRUov1bag1NDksngISstP`
+Snapshot ID: `AAAKgk2K+yR6j6br6xJAgYxtbj2BIrlk`

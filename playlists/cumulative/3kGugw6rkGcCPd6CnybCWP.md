@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-510 songs - 1 day 5 hr 33 min
+516 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 | 2026-04-16 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 | 2026-05-14 |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 | 2026-04-16 |
+| [And Just Like That](https://open.spotify.com/track/37AwKEwkI6TF8yL7EtVwPm) | [Decaf Jones](https://open.spotify.com/artist/2vEcpslAFprvdX4wv5rpVl) | [And Just Like That](https://open.spotify.com/album/5KRVX1O2lUJ2mzf6t4EXDU) | 2:49 | 2026-10-05 |  |
 | [Angelina](https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn) | [Strange Waves](https://open.spotify.com/artist/1oa5Kzosk1DffIXOU4Hurt) | [Angelina](https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z) | 2:45 | 2026-07-01 | 2026-08-18 |
 | [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 | 2026-04-24 | 2026-07-02 |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 | 2026-04-16 |
@@ -134,6 +135,7 @@
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 | 2026-01-17 |
 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 | 2026-05-15 | 2026-07-24 |
 | [don't take this all for granted](https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi) | [rose wallace goldaline](https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD) | [don't take this all for granted](https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35) | 3:22 | 2026-06-03 | 2026-08-18 |
+| [Don't U Dare](https://open.spotify.com/track/1WtO1bHKvJ8kGh6kPaekiE) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Don't U Dare](https://open.spotify.com/album/1ehAcGDL9SKmjhODnte3Fo) | 3:28 | 2026-10-05 |  |
 | [Don’t Say No to Hitler](https://open.spotify.com/track/5pfAfzVMrjNvGP4pa4UIeJ) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Don’t Say No to Hitler](https://open.spotify.com/album/5tevGfFQVKch83TcdIHbBf) | 2:41 | 2026-02-07 | 2026-03-10 |
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-08 | 2026-05-14 |
 | [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 | 2026-03-26 | 2026-04-21 |
@@ -156,6 +158,7 @@
 | [ENERGY 2](https://open.spotify.com/track/26Q4qA2QVYisQ6IopZW8y5) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [ENERGY 2](https://open.spotify.com/album/6GtP13hzBJ5ZXygoiWbq2A) | 2:20 | 2026-02-08 | 2026-03-29 |
 | [Enough](https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE) | [Kaela Gillman](https://open.spotify.com/artist/7EoOrLX9Fb6o2cN25fpHdu), [Pop•&Friends](https://open.spotify.com/artist/39Vpw5RSeipPPq871XeMSV) | [Enough](https://open.spotify.com/album/0CkdJpaFtHDJN9mAmvGSuq) | 3:16 | 2026-04-09 | 2026-05-14 |
 | [Ermine](https://open.spotify.com/track/2WRwIkKaa22ieYZVTLsV7H) | [Faye Ophelia](https://open.spotify.com/artist/6MNLBbT6ctnLmJLuypt7pz) | [Lunar Eclipse](https://open.spotify.com/album/6WBZOSeCrdUxT2zF3ljCuC) | 4:42 | 2026-01-15 | 2026-02-20 |
+| [Ever Ender Star Infinity](https://open.spotify.com/track/5Eghp4z1hOQOz6xNdHVvGU) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [Ever Ender Star Infinity](https://open.spotify.com/album/6Cjbs3NByagmkMVG0sOWh2) | 4:33 | 2026-10-05 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/0NovACJ6dEiMAGkNswOFkm) | [Rainbow Conspiracy](https://open.spotify.com/artist/1vIoyFvg5aqVtR2to6HLIn), [Jay Embi](https://open.spotify.com/artist/2UEed5jP8AeBExfVyqcocT) | [Eyes Wide Shut](https://open.spotify.com/album/7DRwzzubjvtBcTmQkUsgti) | 3:56 | 2026-04-20 | 2026-07-01 |
 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 | 2026-02-23 | 2026-04-16 |
 | [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 | 2026-05-06 | 2026-07-24 |
@@ -192,6 +195,7 @@
 | [good stuff](https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM) | [string lights](https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV) | [good stuff](https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0) | 1:10 | 2026-09-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |
 | [Grackle Grackle](https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Kindred Spirits](https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB) | 2:22 | 2026-05-26 | 2026-07-24 |
+| [Grand Parade](https://open.spotify.com/track/5LaZeUeAbWf7AdlqJube9u) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Grand Parade](https://open.spotify.com/album/3ojxXTX7wbPjfyk4v4pf3z) | 4:42 | 2026-10-05 |  |
 | [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 | 2026-03-26 | 2026-04-21 |
 | [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 | 2026-01-05 | 2026-03-29 |
 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 | 2026-02-19 | 2026-04-16 |
@@ -252,6 +256,7 @@
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2026-01-12 | 2026-02-20 |
 | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/track/0b1x4o4APSYGjWTmLe5eHI) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/album/0QRneNwpd3eLpI5O4Gna21) | 3:14 | 2025-11-04 | 2026-01-17 |
 | [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 | 2026-04-17 | 2026-07-01 |
+| [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 | 2026-10-05 |  |
 | [Josef K](https://open.spotify.com/track/7ESCsOZPxGS1uvGriuUJfh) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 6:31 | 2026-01-12 | 2026-02-20 |
 | [Juvenile](https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Juvenile](https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj) | 2:58 | 2026-01-22 | 2026-03-10 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-21 | 2026-07-02 |
@@ -297,6 +302,7 @@
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 | 2026-02-07 |
 | [Me desviví](https://open.spotify.com/track/7Moz8l65RSvMyvWzwL0AcI) | [Sean Kyrk](https://open.spotify.com/artist/57fMXyE7NSg5tVHlE8Bgk2) | [Me desviví](https://open.spotify.com/album/3g6ovyU775phwb4L284jBi) | 3:12 | 2026-01-16 | 2026-02-20 |
 | [Medicine](https://open.spotify.com/track/4IL6fBdGtJdTWHaBlq0ygR) | [Melissa Seals](https://open.spotify.com/artist/3yFgqYjP0ljLGdlm2Tel3t) | [Medicine](https://open.spotify.com/album/2FWui2L2Bz5jMhpYBFbVgp) | 2:50 | 2026-01-13 | 2026-02-20 |
+| [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 | 2026-10-05 |  |
 | [midnight](https://open.spotify.com/track/3Dj8351qYVaXJadChnfTFg) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [midnight](https://open.spotify.com/album/17Awl62nf01DXJzPKSb5UN) | 2:09 | 2025-11-07 | 2026-01-17 |
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-30 | 2026-03-29 |
 | [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 | 2026-04-21 | 2026-05-07 |

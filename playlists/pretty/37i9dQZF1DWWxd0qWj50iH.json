@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 608261,
+  "num_followers": 608248,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
     },
     {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 112879,
+      "name": "Sappho",
+      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
+    },
+    {
       "added_at": "2026-07-23 17:10:49",
       "album": {
         "name": "I Wish",
@@ -575,22 +591,6 @@
       "duration_ms": 180281,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 112879,
-      "name": "Sappho",
-      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 168013,
       "name": "Piece Of Shit",
       "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 174972,
+      "name": "Ain't It Easy",
+      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "God Save The Animals",
-        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 174972,
-      "name": "Ain't It Easy",
-      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Not for Nothing",
-        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 189290,
-      "name": "Not for Nothing",
-      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "New Heart Designs",
@@ -1139,6 +1123,22 @@
       "duration_ms": 141940,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Not for Nothing",
+        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 189290,
+      "name": "Not for Nothing",
+      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 200025,
-      "name": "Montana",
-      "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
-    },
-    {
       "added_at": "2025-02-28 15:54:30",
       "album": {
         "name": "Dumb Feeling",
@@ -1219,6 +1203,22 @@
       "duration_ms": 190264,
       "name": "Dumb Feeling",
       "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 200025,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Meet Me At The Record Store",
-        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
-      },
-      "artists": [
-        {
-          "name": "Pa Sheehy",
-          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
-        }
-      ],
-      "duration_ms": 233111,
-      "name": "Meet Me At The Record Store",
-      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "A Stranger Desired",
@@ -1607,6 +1591,22 @@
       "duration_ms": 180479,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Meet Me At The Record Store",
+        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "duration_ms": 233111,
+      "name": "Meet Me At The Record Store",
+      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
     },
     {
       "added_at": "2024-05-31 15:25:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,208 likes - 202 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,320 likes - 202 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 29 | [my girl could too](https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [hey hey](https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe) | [Indie Movie Soundtrack](https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw) | 3:09 |
 | 30 | [Altitude](https://open.spotify.com/track/1Pb6gm6fY65cMsO1zUwIYR) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Altitude](https://open.spotify.com/album/6dme2fXEF8aQKJwGCtxaQY) | 3:02 |
 | 31 | [YOU CAN'T TELL ME NOTHING](https://open.spotify.com/track/0B3S45DjfqmyEcxrGzAyft) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [YOU CAN'T TELL ME NOTHING](https://open.spotify.com/album/6tlt8XwEuFDBNKEGoYT5t0) | 1:57 |
-| 32 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/0lmgJn9n4lXS6Mc1kFGEyf), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 32 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 33 | [destroy you](https://open.spotify.com/track/03FTCzsqV9DoX3x5FVLvAa) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [when no one's watching](https://open.spotify.com/album/7I0tO7HY82oFjUMpeIpPQE) | 3:33 |
 | 34 | [t r a n s f u s 1 0 n](https://open.spotify.com/track/4qGO3eCYrTyByWgY8B8LW0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [t r a n s f u s 1 0 n](https://open.spotify.com/album/0Dl7W1GDurgpGVmZbAVILr) | 4:47 |
 | 35 | [Everything Ends In Silence](https://open.spotify.com/track/1IAjbjtQk23OyWKeg1Capm) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [We Were Bleeding Anyway](https://open.spotify.com/album/3Fv9UES0mXzes5hb2TF8jY) | 3:41 |

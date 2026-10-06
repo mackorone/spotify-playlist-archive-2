@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Marathon 2 (Mont-Royal)",
+        "url": "https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384040,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
+    },
+    {
+      "album": {
         "name": "Cycle d\u00e9licat (Deluxe)",
         "url": "https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy"
       },
@@ -8930,7 +8948,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 213798,
       "name": "Rinque de m\u00eame que c'est",
       "url": "https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU"

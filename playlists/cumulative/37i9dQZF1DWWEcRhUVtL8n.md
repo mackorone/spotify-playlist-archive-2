@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Forrest Nolan
 
-2,540 songs - 5 day 15 hr 30 min
+2,541 songs - 5 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2236,6 +2236,7 @@
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-06-20 |
 | [The Bug](https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [The Bug](https://open.spotify.com/album/2A1c0zO7rYkPtlSrEiZTGP) | 3:56 | 2024-04-26 | 2024-06-01 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-09 |
+| [The Chapel](https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [The Chapel](https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8) | 3:02 | 2026-09-25 |  |
 | [The Clouds](https://open.spotify.com/track/5SegYKHnOYeNSroxWdJ1Wc) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [The Clouds](https://open.spotify.com/album/6FFq4AVPFU1Ig4uAIi14kr) | 2:19 | 2020-11-20 | 2021-02-28 |
 | [the craziest thing i've ever done](https://open.spotify.com/track/504MLnUGC8qPxtsWmwY3hl) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [the craziest thing i've ever done](https://open.spotify.com/album/4s2wMCiGFlOwbJwW63ZRec) | 3:11 | 2021-03-16 | 2021-05-28 |
 | [The Drummer](https://open.spotify.com/track/6hfjUCMCN2uA4PVAek7yU3) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb) | [The Drummer](https://open.spotify.com/album/1Y1X2eWAXaiYhaG2UXTPXA) | 3:29 | 2022-09-09 | 2022-09-17 |
@@ -2297,7 +2298,7 @@
 | [through the looking glass](https://open.spotify.com/track/5gNFiKtsghTvymDRaaPL0J) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 3:28 | 2021-09-10 | 2022-04-15 |
 | [Throw It In The Fire](https://open.spotify.com/track/6R8Y7KP9l1wmD5TLnXIrDJ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [But I'll Wait For You](https://open.spotify.com/album/7xf10YYeWq7g1sdqCD36Qv) | 3:50 | 2024-04-19 | 2024-06-15 |
 | [Throw me out a window](https://open.spotify.com/track/6dXRZeiUDfq3znjy7IzbhN) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [Throw me out a window](https://open.spotify.com/album/14BUqv2KfDxKGL3fSGQp7S) | 2:26 | 2022-07-22 | 2022-07-24 |
-| [Thunder](https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Thunder](https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP) | 3:48 | 2026-06-12 |  |
+| [Thunder](https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Thunder](https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP) | 3:48 | 2026-06-12 | 2026-10-06 |
 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-19 | 2025-10-04 |
 | [Til U Hate Me](https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Til U Hate Me](https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt) | 3:19 | 2023-04-18 | 2024-01-13 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2022-07-23 |

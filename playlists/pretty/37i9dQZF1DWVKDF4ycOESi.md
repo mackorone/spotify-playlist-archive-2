@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE, Geolier, Rkomi e Khodi, Tony Boy, Giorgia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,981 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,976 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 6 | [Le\_Ali](https://open.spotify.com/track/2OYueGwDUsSGFcghiSaXII) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Le\_Ali](https://open.spotify.com/album/043xwOFQiFzY1wqGXl9Kyq) | 4:06 |
 | 7 | [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 |
 | 8 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
-| 9 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 9 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 10 | [Music I Love](https://open.spotify.com/track/7bfatnIdi5mshwUUG6IGlc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Music I Love](https://open.spotify.com/album/0amjEk4ud3AiqBBH4MefHf) | 2:34 |
 | 11 | [Test My Luck](https://open.spotify.com/track/7JDWtj2fkSW4XftcaN6BwC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Test My Luck](https://open.spotify.com/album/3LmJsN8XC0S9CIfHixhXBI) | 3:40 |
 | 12 | [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 |

@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Soul Wun
 
-773 songs - 1 day 19 hr 17 min
+774 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-19 | 2025-07-11 |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-06 | 2025-05-28 |
 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 | 2026-06-11 |  |
-| [Emailz](https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S](https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid) | 3:37 | 2026-08-20 |  |
+| [Emailz](https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S](https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid) | 3:37 | 2026-08-20 | 2026-10-06 |
 | [Empty Garden](https://open.spotify.com/track/766DQH0fC0VJoDmq8T0aCw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Empty Garden](https://open.spotify.com/album/1KqgXGh6A5M311iezcYM3R) | 3:10 | 2025-10-09 | 2025-11-07 |
 | [empty pages](https://open.spotify.com/track/4pBcuAcQJLLhTtPgEgkcaY) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [empty pages](https://open.spotify.com/album/5EvEzapMmAaJ3du1AimXe9) | 4:24 | 2025-03-13 | 2025-04-25 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-24 |  |
@@ -511,6 +511,7 @@
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 | 2026-05-20 |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 | 2025-01-24 |
+| [Paradise](https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Paradise](https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B) | 3:01 | 2026-10-01 |  |
 | [Paradise](https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Paradise](https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL) | 3:14 | 2026-08-14 | 2026-09-04 |
 | [Parallel Desire](https://open.spotify.com/track/6WMEkLBTvj1nFWO62YtW8B) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Parallel Desire](https://open.spotify.com/album/18s8juzVIHkxMQ48wgwHG0) | 2:40 | 2025-09-25 | 2025-10-03 |
 | [Parched](https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Parched](https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN) | 3:55 | 2024-11-21 | 2025-04-12 |

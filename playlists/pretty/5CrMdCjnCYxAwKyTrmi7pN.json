@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...",
-  "num_followers": 130542,
+  "num_followers": 130540,
   "original_name": "HERFST 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+Q5ZaFucf2W6GBOFXrjWEBp8bAZ9b",
+  "snapshot_id": "AAA+ROkXL++I7uMt9qQoDIN2L06FiSl8",
   "tracks": [
     {
       "added_at": "2026-10-02 08:04:24",
@@ -583,6 +583,22 @@
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-10-05 08:20:43",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
     },
     {
       "added_at": "2026-10-02 08:04:24",

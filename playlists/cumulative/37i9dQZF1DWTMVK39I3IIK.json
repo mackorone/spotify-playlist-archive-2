@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Big Spender",
+        "url": "https://open.spotify.com/album/6KwTupgXxkIUDg29rCKSKF"
+      },
+      "artists": [
+        {
+          "name": "Yvonnes",
+          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187173,
+      "name": "Big Spender",
+      "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm"
+    },
+    {
+      "album": {
         "name": "Bind Mig",
         "url": "https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu"
       },
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 199093,
       "name": "KOMMER DU HJEM",
       "url": "https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y"

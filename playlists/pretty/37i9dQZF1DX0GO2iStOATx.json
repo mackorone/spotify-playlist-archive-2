@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 238404,
+  "num_followers": 238443,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -691,30 +691,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        },
-        {
-          "name": "Hrmnn",
-          "url": "https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H"
-        }
-      ],
-      "duration_ms": 172242,
-      "name": "Midnight Desires",
-      "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 173638,
       "name": "Future",
       "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Hrmnn",
+          "url": "https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H"
+        }
+      ],
+      "duration_ms": 172242,
+      "name": "Midnight Desires",
+      "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -959,22 +959,18 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "What Ve",
-        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 188000,
-      "name": "What Ve",
-      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
+      "duration_ms": 127802,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

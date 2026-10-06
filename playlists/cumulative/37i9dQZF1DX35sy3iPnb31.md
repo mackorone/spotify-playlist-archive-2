@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-502 songs - 1 day 2 hr 41 min
+503 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 | 2026-06-01 | 2026-07-04 |
 | [Past Life](https://open.spotify.com/track/4Ckl9wqbIhMIbQCw0nTNyX) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Past Life](https://open.spotify.com/album/32vwxGRTcO4fo4dSzXsBsP) | 3:04 | 2026-02-06 | 2026-03-06 |
 | [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 | 2026-04-01 | 2026-05-02 |
+| [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 | 2026-10-01 |  |
 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 | 2026-07-03 | 2026-08-01 |
 | [Perfect Soul](https://open.spotify.com/track/7CoiOXsrfI58wUZBt45HgL) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:59 | 2025-12-03 | 2026-02-07 |
 | [Phoenix Rising](https://open.spotify.com/track/5Bgu7DJxepMaBt5UsK5dbS) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My World Is The Sun](https://open.spotify.com/album/2h1iYX66Vxm2DLFZgrdMp4) | 3:05 | 2026-03-05 | 2026-04-02 |
@@ -355,7 +356,7 @@
 | [Plaster](https://open.spotify.com/track/2Uxcxzwhd02rbNJ1bwqfgL) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Mythologie de la dérape](https://open.spotify.com/album/5JIcYV17n7Lakw38rt8ogM) | 4:02 | 2026-07-03 | 2026-08-01 |
 | [Play the Game](https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub) | [Virgo Rising](https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf) | [Play the Game](https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya) | 4:28 | 2026-10-01 |  |
 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 | 2026-10-01 |  |
-| [pls don't](https://open.spotify.com/track/72rUI6IZFVra9w66d4txyI) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [pls don't](https://open.spotify.com/album/2RxB85rejhTC7UpWigwYFI) | 2:30 | 2026-10-01 |  |
+| [pls don't](https://open.spotify.com/track/72rUI6IZFVra9w66d4txyI) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [pls don't](https://open.spotify.com/album/2RxB85rejhTC7UpWigwYFI) | 2:30 | 2026-10-01 | 2026-10-06 |
 | [Podjab](https://open.spotify.com/track/65lAYSuVNKppkeI0NEJLW3) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Podjab](https://open.spotify.com/album/6qJpflZY8jaIRMf1y4x8dN) | 4:12 | 2026-07-31 | 2026-09-01 |
 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 | 2026-03-05 | 2026-04-02 |
 | [Preacherman](https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Preacherman](https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn) | 2:12 | 2026-09-01 | 2026-10-01 |

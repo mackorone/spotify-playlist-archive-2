@@ -1,13 +1,29 @@
 {
   "description": "All the biggest House &amp; Tech House anthems of right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63471,
+  "num_followers": 63474,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAAqdSgyy9G770hv68JK0mLlp2tHT/uF",
+  "snapshot_id": "AAAqezo+oiVEt0kQe9Pxrry1MOygoAps",
   "tracks": [
+    {
+      "added_at": "2026-10-05 11:02:13",
+      "album": {
+        "name": "Burnin' Deep",
+        "url": "https://open.spotify.com/album/4WbRtbkL52F4XOgZ5LCzPE"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Burnin' Deep",
+      "url": "https://open.spotify.com/track/2tLRxZlDubV6G2CipkLmrH"
+    },
     {
       "added_at": "2026-09-25 10:02:18",
       "album": {
@@ -1899,66 +1915,6 @@
       "duration_ms": 169250,
       "name": "Danca",
       "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
-    },
-    {
-      "added_at": "2026-05-29 11:10:58",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/2M1g78NcTlCslDoqyrz9qZ"
-      },
-      "artists": [
-        {
-          "name": "Alaia & Gallo",
-          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
-        }
-      ],
-      "duration_ms": 197583,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/6hyQYRBReZsg3rX7uBZLcg"
-    },
-    {
-      "added_at": "2026-05-08 10:18:31",
-      "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
-    },
-    {
-      "added_at": "2026-05-15 10:04:09",
-      "album": {
-        "name": "Something Something",
-        "url": "https://open.spotify.com/album/6QzMUvYUW1gcQpw2dJJH7X"
-      },
-      "artists": [
-        {
-          "name": "Syncia",
-          "url": "https://open.spotify.com/artist/4Qo2ASkp9NWJsYllhc4S7i"
-        },
-        {
-          "name": "Cash Only",
-          "url": "https://open.spotify.com/artist/3YCvK0FOrGJifQmDc12PVE"
-        },
-        {
-          "name": "Elj\u00e9",
-          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
-        }
-      ],
-      "duration_ms": 170675,
-      "name": "Something Something",
-      "url": "https://open.spotify.com/track/3PnFGZAj3YvVLLCRYiEAaW"
     }
   ],
   "unique_name": "Toolroom House 2026",

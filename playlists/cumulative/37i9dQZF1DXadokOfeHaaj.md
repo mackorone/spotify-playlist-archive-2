@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-550 songs - 1 day 10 hr 27 min
+551 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/track/3lIGc9ugPh6E9LWnSmPH6Q) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/album/2llVj3pdMaqG7RJLrka6NX) | 3:20 | 2021-10-28 | 2023-10-27 |
 | [20:30 Matlock](https://open.spotify.com/track/2oaJGdFU48klcIlBgy0hu1) | [King Emerald](https://open.spotify.com/artist/3w2bgMhJPzzbHGYXCtBSA1) | [20:30 Matlock](https://open.spotify.com/album/5AZ5WrnrEmXndCQfgU9Uas) | 3:29 | 2021-10-28 | 2024-02-02 |
 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 | 2025-05-08 | 2026-02-13 |
+| [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 | 2026-10-02 |  |
 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 | 2021-10-28 | 2024-03-22 |
 | [A Dream I Have](https://open.spotify.com/track/4YaezxWIpJd3Po2LHYhGVd) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:33 | 2021-10-28 | 2024-03-02 |
 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2021-10-28 | 2023-09-25 |
@@ -248,7 +249,7 @@
 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 2:49 | 2025-08-22 | 2026-09-11 |
 | [ITVLO](https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [ITVLO](https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR) | 4:47 | 2026-06-25 | 2026-08-02 |
 | [I’m your girl right? \- Fcukers Remix](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 | 2026-06-18 |  |
-| [Jersey \(feat\. Jam City\)](https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Jersey \(feat\. Jam City\)](https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h) | 3:30 | 2026-08-20 |  |
+| [Jersey \(feat\. Jam City\)](https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Jersey \(feat\. Jam City\)](https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h) | 3:30 | 2026-08-20 | 2026-10-06 |
 | [Jini](https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3) | [Justin Faust](https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl) | [Jini](https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze) | 4:20 | 2021-10-28 | 2024-03-29 |
 | [Jomox](https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Jomox](https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82) | 2:56 | 2026-08-20 |  |
 | [Journey \(feat\. Mysie\)](https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Journey \(feat\. Mysie\)](https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW) | 5:00 | 2024-02-02 | 2024-10-25 |

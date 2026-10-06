@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADnuwFn8penfejONU5Lflv2",
+  "snapshot_id": "asGXAAAAAACeCkw18UD52X5EKp9wCWoZ",
   "tracks": [
     {
       "added_at": null,
@@ -342,15 +342,11 @@
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Janoya",
-          "url": "https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9"
         }
       ],
-      "duration_ms": 126006,
-      "name": "Wanwu",
-      "url": "https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK"
+      "duration_ms": 59280,
+      "name": "Eleven d",
+      "url": "https://open.spotify.com/track/1oaf9vUGUqXsrVH9S6BmMT"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Janoya",
+          "url": "https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9"
         }
       ],
-      "duration_ms": 59280,
-      "name": "Eleven d",
-      "url": "https://open.spotify.com/track/1oaf9vUGUqXsrVH9S6BmMT"
+      "duration_ms": 126006,
+      "name": "Wanwu",
+      "url": "https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 229418,
-      "name": "Lilieae",
-      "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
+      "duration_ms": 260199,
+      "name": "Sudany",
+      "url": "https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 260199,
-      "name": "Sudany",
-      "url": "https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN"
+      "duration_ms": 229418,
+      "name": "Lilieae",
+      "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
     },
     {
       "added_at": null,

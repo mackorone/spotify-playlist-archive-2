@@ -2,7 +2,7 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist\. Cover: Ilse DeLange
+> \#fyp songs voor je playlist\. Cover: Issah
 
 936 songs - 1 day 22 hr 58 min
 

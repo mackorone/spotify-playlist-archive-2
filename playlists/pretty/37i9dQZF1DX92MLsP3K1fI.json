@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Yeri Mua en portada \u2728",
-  "num_followers": 96476,
+  "num_followers": 96488,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "Mil A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 252060,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "(no) te quiero perder [By Bershka Music]",
+        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 141663,
+      "name": "(no) te quiero perder - By Bershka Music",
+      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Estas Ganas",
         "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 166998,
       "name": "Estas Ganas",
       "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 203865,
-      "name": "cu\u00eddame de mi",
-      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "(no) te quiero perder [By Bershka Music]",
-        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 141663,
-      "name": "(no) te quiero perder - By Bershka Music",
-      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
+      "duration_ms": 203865,
+      "name": "cu\u00eddame de mi",
+      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "as\u00ed eres t\u00fa",
         "url": "https://open.spotify.com/album/1HRPSK8c5x45irt5w5fJUa"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 173621,
       "name": "as\u00ed eres t\u00fa",
       "url": "https://open.spotify.com/track/0PTWNq1YbL9XTbDf2P7v6d"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
-        "name": "Mismo Equipo",
-        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "Mismo Equipo",
-      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "added_at": "2026-10-02 06:00:36",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
         "name": "Bella Nostalgia",
         "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-02 06:00:36",
       "album": {
-        "name": "Tuve que irme",
-        "url": "https://open.spotify.com/album/7kfK3XFO18IbKLlHN1Y0LF"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 147552,
-      "name": "Tuve que irme",
-      "url": "https://open.spotify.com/track/4aa1Lx2MeRgFaAudgrYX3i"
-    },
-    {
-      "added_at": "2026-10-02 06:00:36",
-      "album": {
         "name": "HAGAMOS QUE PASE",
         "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 173112,
       "name": "HAGAMOS QUE PASE",
       "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
+    },
+    {
+      "added_at": "2026-10-02 06:00:36",
+      "album": {
+        "name": "Tuve que irme",
+        "url": "https://open.spotify.com/album/7kfK3XFO18IbKLlHN1Y0LF"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "duration_ms": 147552,
+      "name": "Tuve que irme",
+      "url": "https://open.spotify.com/track/4aa1Lx2MeRgFaAudgrYX3i"
     },
     {
       "added_at": "2026-10-02 06:00:36",

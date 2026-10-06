@@ -727,18 +727,18 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
+        "name": "Mind Laundry",
+        "url": "https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4"
       },
       "artists": [
         {
-          "name": "Norwegian Wood",
-          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
         }
       ],
-      "duration_ms": 238575,
-      "name": "Hug Me (I'm In Your Arms)",
-      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
+      "duration_ms": 230000,
+      "name": "Could you?",
+      "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -759,34 +759,18 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Mind Laundry",
-        "url": "https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4"
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
       },
       "artists": [
         {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Could you?",
-      "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
-        "name": "Snow spectacle",
-        "url": "https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Snow spectacle",
-      "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
+      "duration_ms": 238575,
+      "name": "Hug Me (I'm In Your Arms)",
+      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -807,18 +791,34 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ"
+        "name": "Snow spectacle",
+        "url": "https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo"
       },
       "artists": [
         {
-          "name": "CHOSNG",
-          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 198852,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/2T6F2riVLpJfmDywPgbI7N"
+      "duration_ms": 191000,
+      "name": "Snow spectacle",
+      "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
+        "name": "My Old Story",
+        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "My Old Story",
+      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

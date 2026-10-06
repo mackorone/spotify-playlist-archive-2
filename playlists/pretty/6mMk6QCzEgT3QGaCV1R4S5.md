@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,717 likes - 99 songs - 5 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,716 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 97 | [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 |
 | 98 | [Freaky Like That](https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 2:21 |
 | 99 | [I Feel Love](https://open.spotify.com/track/2b65InUDd78nPS9fbuElA0) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n) | [I Feel Love](https://open.spotify.com/album/2uGKUwthbzObN2reu5PwIV) | 3:28 |
+| 100 | [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/track/0lVwceIL4ITv4wi4Hgm8fK) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/album/5IKxKYRH2WRehMSCBh8rn0) | 2:51 |
 
-Snapshot ID: `AAAjALDV4MtVBZbBIjcj4EfI4hn5gXa3`
+Snapshot ID: `AAAjAY6uFPHUahbk/YzSi8FdXcQMoI6L`

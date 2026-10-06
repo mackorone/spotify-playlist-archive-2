@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! Cover: Tony Iommi",
+  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! Cover: Amon Amarth",
   "name": "VOLUME SWEDEN",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203633,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6LEOmNbiBCdwsc6rppuYf4"
+    },
+    {
+      "album": {
         "name": "BEST OF (Volume 2)",
         "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
       },
@@ -1720,6 +1738,24 @@
       "duration_ms": 226500,
       "name": "Cold - 2025 VERSION",
       "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
+    },
+    {
+      "album": {
+        "name": "Come This Madness",
+        "url": "https://open.spotify.com/album/5zaikljPJZyvgRy9uHIAhj"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242249,
+      "name": "Come This Madness",
+      "url": "https://open.spotify.com/track/26nfD0mKZGkMl1YAmSYFLN"
     },
     {
       "album": {
@@ -2226,6 +2262,24 @@
       "duration_ms": 252461,
       "name": "Disciple",
       "url": "https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW"
+    },
+    {
+      "album": {
+        "name": "Bloodstain",
+        "url": "https://open.spotify.com/album/5bARcaWrNYHkhInjLZq1PT"
+      },
+      "artists": [
+        {
+          "name": "Bloodstain",
+          "url": "https://open.spotify.com/artist/6uG9Od49dC2XZyHVJS9aEZ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220860,
+      "name": "Disdained",
+      "url": "https://open.spotify.com/track/0IyFalkuhXAj0k0BEwUMaW"
     },
     {
       "album": {
@@ -3440,6 +3494,24 @@
       "duration_ms": 272467,
       "name": "Hail To The King",
       "url": "https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/7KilbxlxzqTxpt4PMe52wl"
+      },
+      "artists": [
+        {
+          "name": "Hardcore Superstar",
+          "url": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ghseqHhlvOEvxGlgK4w1T"
     },
     {
       "album": {
@@ -5972,7 +6044,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 147173,
       "name": "Punk Rock Song",
       "url": "https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX"
@@ -6574,6 +6646,24 @@
       "duration_ms": 223325,
       "name": "She Does It Right",
       "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
+    },
+    {
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293174,
+      "name": "Shed Your Skin",
+      "url": "https://open.spotify.com/track/6qPZi0an9of1lO3O0Y5VJn"
     },
     {
       "album": {
@@ -7551,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+    },
+    {
+      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
       },
@@ -8442,6 +8550,24 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "album": {
+        "name": "unwanted",
+        "url": "https://open.spotify.com/album/3w2biga72syy4OKrSmmDBc"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130721,
+      "name": "unwanted",
+      "url": "https://open.spotify.com/track/79QmoyRkeqV96rKFRhAUed"
     },
     {
       "album": {

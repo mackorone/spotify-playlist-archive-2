@@ -11304,7 +11304,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 120612,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
@@ -15246,6 +15246,28 @@
       "duration_ms": 155151,
       "name": "Palava",
       "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
+    },
+    {
+      "album": {
+        "name": "Pami",
+        "url": "https://open.spotify.com/album/647NndPt3TbMUYlTojxes9"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ"
     },
     {
       "album": {

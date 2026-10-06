@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm"
+      },
+      "artists": [
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX"
+    },
+    {
+      "album": {
         "name": "MET GALA",
         "url": "https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh"
       },

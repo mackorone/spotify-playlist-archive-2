@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-348 songs - 18 hr 35 min
+349 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Body](https://open.spotify.com/track/6fa3nIU8mkBkF1AZS2Vjeh) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Body](https://open.spotify.com/album/7g2dcTKXdf1EA5ZSLhwSCM) | 3:10 | 2024-11-15 | 2025-09-27 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-12-08 | 2024-10-05 |
 | [Bodyology](https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU) | 2:28 | 2025-04-04 | 2025-08-23 |
+| [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/track/0lVwceIL4ITv4wi4Hgm8fK) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/album/5IKxKYRH2WRehMSCBh8rn0) | 2:51 | 2026-10-05 |  |
 | [BOYS AIN'T SHIT](https://open.spotify.com/track/1btSva6AIe9FM24cUgalq1) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BOYS AIN'T SHIT](https://open.spotify.com/album/1KRduKaFCe7FeyPdIf5NoA) | 1:58 | 2025-07-25 | 2026-02-21 |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-12-08 | 2024-01-20 |
 | [Bullet](https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Bullet](https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ) | 2:35 | 2025-04-25 |  |

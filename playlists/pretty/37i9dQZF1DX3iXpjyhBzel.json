@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1220994,
+  "num_followers": 1221164,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": "2026-10-02 19:18:52",
+      "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-10-02 19:18:52",
-      "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "added_at": "2026-10-02 19:18:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 489442,
-      "name": "Messias - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
-    },
-    {
-      "added_at": "2026-10-02 19:18:52",
-      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": "2026-10-02 19:18:52",
+      "album": {
+        "name": "Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 489442,
+      "name": "Messias - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
     },
     {
       "added_at": "2026-10-02 19:18:52",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "Messias",
-        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 367846,
-      "name": "Messias",
-      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
-    },
-    {
-      "added_at": "2026-10-02 19:18:52",
-      "album": {
         "name": "Eu Vou Abrir O Mar (Ao Vivo)",
         "url": "https://open.spotify.com/album/58AGyBJwB5sXJogXBgWwFi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 285578,
       "name": "Eu Vou Abrir O Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/2Nr4wtTQgOUDPvuObu2PCe"
+    },
+    {
+      "added_at": "2026-10-02 19:18:52",
+      "album": {
+        "name": "Messias",
+        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 367846,
+      "name": "Messias",
+      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
     },
     {
       "added_at": "2026-10-02 19:18:52",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "Eu Vou Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+        "name": "Eu Confio em Ti",
+        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
       },
       "artists": [
         {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
         }
       ],
-      "duration_ms": 1356604,
-      "name": "Eu Vou Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+      "duration_ms": 303582,
+      "name": "Eu Confio em Ti",
+      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2026-10-02 19:18:52",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2026-10-02 19:18:52",
       "album": {
-        "name": "Eu Confio em Ti",
-        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
       },
       "artists": [
         {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
         }
       ],
-      "duration_ms": 303582,
-      "name": "Eu Confio em Ti",
-      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
     },
     {
       "added_at": "2026-10-02 19:18:52",

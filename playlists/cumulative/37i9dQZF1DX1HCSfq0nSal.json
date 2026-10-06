@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Anuel, ROA",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. YOLAMASCARA",
   "name": "PEGAO",
   "tracks": [
     {
@@ -15682,7 +15682,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 115200,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
@@ -16438,7 +16438,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 151048,
       "name": "Quiero m\u00e1s",
       "url": "https://open.spotify.com/track/0P95y11fiaArEEDcT995WF"
@@ -19785,6 +19785,24 @@
     },
     {
       "album": {
+        "name": "TOO",
+        "url": "https://open.spotify.com/album/71H1IsH4tfMzUkmVARUE00"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166625,
+      "name": "TOO",
+      "url": "https://open.spotify.com/track/318NR7D302xujYnNHHFv13"
+    },
+    {
+      "album": {
         "name": "TOORA",
         "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
       },
@@ -22190,6 +22208,36 @@
       "duration_ms": 194772,
       "name": "yo pr1mero",
       "url": "https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy"
+    },
+    {
+      "album": {
+        "name": "YO QUIERO (REMIX)",
+        "url": "https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362908,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
     },
     {
       "album": {

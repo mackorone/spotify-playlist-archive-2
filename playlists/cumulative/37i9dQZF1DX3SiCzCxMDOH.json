@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 232561,
       "name": "Archway",
       "url": "https://open.spotify.com/track/7dYWVK67QlZpzozutKTnDI"
@@ -5710,7 +5710,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 229162,
       "name": "Gold and Beyond",
       "url": "https://open.spotify.com/track/6ee9o1LqEZWC86aGJFhhOQ"
@@ -11837,6 +11837,24 @@
     },
     {
       "album": {
+        "name": "Omaha After Dark",
+        "url": "https://open.spotify.com/album/3HovvIxFG9y4AY5m9dmcVA"
+      },
+      "artists": [
+        {
+          "name": "The Blue Alley",
+          "url": "https://open.spotify.com/artist/2OqSm9mH0el2YOy4V6gG6w"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274644,
+      "name": "Omaha After Dark",
+      "url": "https://open.spotify.com/track/160vY1etB0i5bj5xHKeJqg"
+    },
+    {
+      "album": {
         "name": "On A Clear Day",
         "url": "https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0"
       },
@@ -12896,6 +12914,24 @@
       "duration_ms": 167393,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj"
+    },
+    {
+      "album": {
+        "name": "Reminiscent",
+        "url": "https://open.spotify.com/album/4O22cW3JN7ptjNVXYZIvoM"
+      },
+      "artists": [
+        {
+          "name": "Dean St. Trio",
+          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278395,
+      "name": "Reminiscent",
+      "url": "https://open.spotify.com/track/1kSgVoVd7WQ6PCUDPIIRv2"
     },
     {
       "album": {

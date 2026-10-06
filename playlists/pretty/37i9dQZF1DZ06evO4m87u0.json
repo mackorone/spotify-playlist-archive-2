@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAB7JbdxGB2UeaeZSAQW4G0F",
+  "snapshot_id": "asGXAAAAAAAkXdibQrqlTeYZ08NS/nr+",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Turn Blue",
-      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peaches!",
         "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 223325,
       "name": "She Does It Right",
       "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chulahoma",
-        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Meet Me in the City",
-      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peaches!",
         "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 268120,
       "name": "In Time",
       "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "She's Long Gone",
-      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Rain, No Flowers",
-        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196774,
-      "name": "No Rain, No Flowers",
-      "url": "https://open.spotify.com/track/4ns4t9csFyWBMjyHAzwLl0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peaches!",
         "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235696,
       "name": "Tomorrow Night",
       "url": "https://open.spotify.com/track/3z7scrm9w3OiSiGNZmWa8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196774,
+      "name": "No Rain, No Flowers",
+      "url": "https://open.spotify.com/track/4ns4t9csFyWBMjyHAzwLl0"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 228053,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/4gtK1dONrcHFlHAupP3h7C"
+      "duration_ms": 228972,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 228972,
-      "name": "Going Down South",
-      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
+      "duration_ms": 228053,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/4gtK1dONrcHFlHAupP3h7C"
     },
     {
       "added_at": null,

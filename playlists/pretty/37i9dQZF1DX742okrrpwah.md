@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, La Mano 1.9, Ronisia x Meryl x Shay, Fontaines D.C\. et Angèle x Caroline Polachek x SebastiAn au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,082 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,067 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 3 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
 | 4 | [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 |
 | 5 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
-| 6 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 6 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 7 | [Pas Comme Eux](https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas Comme Eux](https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw) | 2:32 |
 | 8 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |
 | 9 | [Only Gets Better](https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Only Gets Better](https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC) | 3:54 |

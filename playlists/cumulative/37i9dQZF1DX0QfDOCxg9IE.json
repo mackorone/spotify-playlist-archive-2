@@ -1111,6 +1111,32 @@
     },
     {
       "album": {
+        "name": "Aliteia",
+        "url": "https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY"
+      },
+      "artists": [
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171595,
+      "name": "Allo Class",
+      "url": "https://open.spotify.com/track/6BRcfiMW72tcTFde2gsPUZ"
+    },
+    {
+      "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
       },
@@ -1885,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "COUP DE GRACE",
+        "url": "https://open.spotify.com/album/6HA9Yo62lAQv2r52IbFzGX"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/2Pfy1OZP2yuCTzkKAxSbeS"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -2444,7 +2492,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 160151,
       "name": "Bijo Bijo",
       "url": "https://open.spotify.com/track/6TMlv6rPQCsjrBSa1mCfEe"
@@ -2706,7 +2754,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 223375,
       "name": "BORBOLETA",
       "url": "https://open.spotify.com/track/2JPiAVj5Qx6aLdSsXdQKZT"
@@ -3940,7 +3988,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 96007,
       "name": "DEN",
       "url": "https://open.spotify.com/track/7kWYN9PFXER8uwVYh4Og8t"
@@ -7638,7 +7686,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 179999,
       "name": "JALLA",
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
@@ -7926,6 +7974,40 @@
       "duration_ms": 146526,
       "name": "Kale... Poios Einai Autos?",
       "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
+    },
+    {
+      "album": {
+        "name": "Arkham Asylum",
+        "url": "https://open.spotify.com/album/5sNZUcnt4fo3nJj2bNQZws"
+      },
+      "artists": [
+        {
+          "name": "Bong Da City",
+          "url": "https://open.spotify.com/artist/2BoYZXRotRYXi6ZVNlUt5Y"
+        },
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "Styl Mo",
+          "url": "https://open.spotify.com/artist/5vcLO0kMM1sarGeTNRoQks"
+        },
+        {
+          "name": "Mani",
+          "url": "https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS"
+        },
+        {
+          "name": "Jessy Blue",
+          "url": "https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Kalinyxta / To Tsirko Me Ta Terata",
+      "url": "https://open.spotify.com/track/4YwYcqmrGsjzIbzooKbqVz"
     },
     {
       "album": {
@@ -9950,7 +10032,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 196250,
       "name": "Metallo",
       "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
@@ -10074,6 +10156,32 @@
       "duration_ms": 303333,
       "name": "MIA MERA STO KENTRO",
       "url": "https://open.spotify.com/track/2D1dwchIoSpfZcC4uyqIBK"
+    },
+    {
+      "album": {
+        "name": "Toso Konta Sto Telos",
+        "url": "https://open.spotify.com/album/4fgJKnVAuFzZfBaovacpTr"
+      },
+      "artists": [
+        {
+          "name": "Fi Vita Sigma",
+          "url": "https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I"
+        },
+        {
+          "name": "Mani",
+          "url": "https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS"
+        },
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/5521NezFH11BqC62R1WCWW"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266275,
+      "name": "Mia Nixta Pou Ponas Kai Egkataleipeis",
+      "url": "https://open.spotify.com/track/5H7fHOAWuqm4tWjpcrjaD4"
     },
     {
       "album": {
@@ -13439,6 +13547,24 @@
     },
     {
       "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
+    },
+    {
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -14500,7 +14626,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 208556,
       "name": "Spiti",
       "url": "https://open.spotify.com/track/0EiWvy2pfU8sul3wG6PiYz"
@@ -15414,6 +15540,24 @@
       "duration_ms": 233560,
       "name": "Telia",
       "url": "https://open.spotify.com/track/1hM5FY0uXg0NqTaeibm2cq"
+    },
+    {
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "album": {
@@ -17581,6 +17725,24 @@
     },
     {
       "album": {
+        "name": "WYW",
+        "url": "https://open.spotify.com/album/2mQ3ixncFGBvlkOL8nksm6"
+      },
+      "artists": [
+        {
+          "name": "Jonny Slick",
+          "url": "https://open.spotify.com/artist/5deAIoCQlEgNOjAjXyQ7eo"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104071,
+      "name": "WYW",
+      "url": "https://open.spotify.com/track/6GbRvzlz16ebnMB7CZDsSR"
+    },
+    {
+      "album": {
         "name": "Xaderfaki",
         "url": "https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA"
       },
@@ -18146,7 +18308,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 156000,
       "name": "\u0391\u03c4\u03b5\u03bb\u03b9\u03ad",
       "url": "https://open.spotify.com/track/0vXYrIUdPXRvARKMJT1E98"

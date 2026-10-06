@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 173818,
+  "num_followers": 173865,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 201786,
       "name": "Kom Allemaal Maar In Mijn Armen",
       "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-09-24 22:08:52",

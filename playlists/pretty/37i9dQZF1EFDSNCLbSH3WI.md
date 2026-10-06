@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 168 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 168 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 118 | [Miserable Without Your Love](https://open.spotify.com/track/0BzuQrmm8Ko3ageOau60kX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:23 |
 | 119 | [El Pleito](https://open.spotify.com/track/03tGrmMB0dvXPIflRCE8qL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 2:34 |
 | 120 | [Life in a Box](https://open.spotify.com/track/4WTVDq3QSaQYR8C2ry06bd) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [You're a Man Now, Boy \(Deluxe\)](https://open.spotify.com/album/50EXi4hlRIPF7fLQcWCXyp) | 4:22 |
-| 121 | [War Against Love](https://open.spotify.com/track/2hF4sKG55HlGpUIsoNFfLG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:47 |
-| 122 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 121 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 122 | [War Against Love](https://open.spotify.com/track/2hF4sKG55HlGpUIsoNFfLG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:47 |
 | 123 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 |
 | 124 | [CHURCH ON THE MOVE](https://open.spotify.com/track/1D5fBK4jRwqjKfOsgSJZM3) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:46 |
 | 125 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 143 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
 | 144 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
 | 145 | [Stay for a While](https://open.spotify.com/track/04cnZuf2GVxH3NGW2DuPEV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:32 |
-| 146 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
-| 147 | [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 |
+| 146 | [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 |
+| 147 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
 | 148 | [Colonize](https://open.spotify.com/track/2dsnRzDX6BprwJSeml0FqY) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize](https://open.spotify.com/album/5VXcZnepZ0dpLCWFundnrW) | 3:03 |
 | 149 | [Sincerely Casey](https://open.spotify.com/track/53Zq4HtiPffqCyGbTtifge) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Live & Grow](https://open.spotify.com/album/4YsS6HUCoyntWFTReZD1GU) | 3:00 |
 | 150 | [Bad Attitude](https://open.spotify.com/track/446zGDLKKEDELRQDvmoEtD) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 4:08 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 167 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 168 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AceE7gAAAADsAYJ3PDsBhUTWmxH7RWun`
+Snapshot ID: `AceKygAAAAAgT+8z7GECduSWSStsfkPX`

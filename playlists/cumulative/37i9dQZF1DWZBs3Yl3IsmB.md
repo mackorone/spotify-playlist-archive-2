@@ -4,16 +4,17 @@
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-50 songs - 1 hr 57 min
+51 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [airy](https://open.spotify.com/track/2vIlIPXSDiJrnf6LdGIkNr) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [airy](https://open.spotify.com/album/4bRf45Bv3HVvqNXVP7SC8Z) | 2:06 | 2026-05-27 |  |
-| [All Nighter](https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [All Nighter](https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv) | 2:05 | 2026-05-27 |  |
+| [All Nighter](https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [All Nighter](https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv) | 2:05 | 2026-05-27 | 2026-10-06 |
 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 | 2026-05-27 |  |
 | [Beach Memory](https://open.spotify.com/track/4Covj8sPzMt12wlhxWD5C9) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Beach Memory](https://open.spotify.com/album/0v0nhQBXSQNc064HCrTxqN) | 2:12 | 2026-05-27 |  |
 | [Breaking the Frost](https://open.spotify.com/track/6rvhAZNO1UZLgofmEBXzgb) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Breaking the Frost](https://open.spotify.com/album/4kSK83jMMfyNLhdLWsFrBh) | 2:58 | 2026-05-27 |  |
 | [Bus 471](https://open.spotify.com/track/6fyQkVnNLHYzwCIfG0aSYU) | [Demized](https://open.spotify.com/artist/2ObEDdI5CoHwLzGVhesRqC) | [Bus 471](https://open.spotify.com/album/1gLSNeTXKbRPxHB4e9WHsv) | 1:56 | 2026-05-27 |  |
+| [Clementine Road](https://open.spotify.com/track/5pZwrEW6cCAETY3Z9JyML9) | [LoserKidz](https://open.spotify.com/artist/209wLqLqtgvCTxwtBgDyyF) | [Clementine Road](https://open.spotify.com/album/2bpjetR5kUNNyftOhfzi4B) | 2:01 | 2026-10-05 |  |
 | [Contemplation](https://open.spotify.com/track/2EAPaYvSuOQd4zCUTIyJc1) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [Contemplation](https://open.spotify.com/album/2jG0rJUN43JPLZJdPuqoCf) | 2:25 | 2026-05-27 |  |
 | [Cozy Nights](https://open.spotify.com/track/2XWoaHilDGezt1YlLn7VVB) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Cozy Nights](https://open.spotify.com/album/2z7oCQmLzZ3JFVGKSfkZVk) | 2:15 | 2026-05-27 |  |
 | [days spent](https://open.spotify.com/track/2GquJbENhdzM0oz7RC4f6z) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [days spent](https://open.spotify.com/album/1LUbMxU9pgwgJmA3dXbf62) | 2:12 | 2026-05-27 |  |

@@ -1,13 +1,45 @@
 {
   "description": "Today\u2019s pop, plugged into the culture w/ Ang\u00e8le, Caroline Polachek",
-  "num_followers": 537417,
+  "num_followers": 537416,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTM1dis5Zw60iwyvBd3d7vmDJAI",
+  "snapshot_id": "AAAAAI40rhRDpOiW9XjQp2JC+rZGdz5B",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:03:55",
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-02 04:03:55",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/00knGNIQakUzCifcbfbVMf"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 157020,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/2GEwU8KN5kcfHAejWJXkFx"
+    },
     {
       "added_at": "2026-10-02 04:03:55",
       "album": {
@@ -67,6 +99,58 @@
     {
       "added_at": "2026-10-02 04:03:55",
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "added_at": "2026-10-02 04:03:55",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Let\u2019s Get Married",
+      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
+    },
+    {
+      "added_at": "2026-10-02 04:03:55",
+      "album": {
+        "name": "Sinnatuumakka (Dreams)",
+        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Sinnatuumakka (Dreams)",
+      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
+    },
+    {
+      "added_at": "2026-10-02 04:03:55",
+      "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
       },
@@ -115,22 +199,6 @@
     {
       "added_at": "2026-10-02 04:03:55",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/00knGNIQakUzCifcbfbVMf"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 157020,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/2GEwU8KN5kcfHAejWJXkFx"
-    },
-    {
-      "added_at": "2026-10-02 04:03:55",
-      "album": {
         "name": "World's Greatest!",
         "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
       },
@@ -159,22 +227,6 @@
       "duration_ms": 140645,
       "name": "Anything",
       "url": "https://open.spotify.com/track/6yPJwUOy13ceAFTnsRwYCx"
-    },
-    {
-      "added_at": "2026-10-02 04:03:55",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Nobody Wanna Dance Anymore",
-      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
       "added_at": "2026-10-02 04:03:55",
@@ -215,42 +267,6 @@
     {
       "added_at": "2026-10-02 04:03:55",
       "album": {
-        "name": "Draw You Out",
-        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 255984,
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
-    },
-    {
-      "added_at": "2026-10-02 04:03:55",
-      "album": {
-        "name": "Sinnatuumakka (Dreams)",
-        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Sinnatuumakka (Dreams)",
-      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
-    },
-    {
-      "added_at": "2026-10-02 04:03:55",
-      "album": {
         "name": "heels",
         "url": "https://open.spotify.com/album/6TVoH0FCRINzgfouJRCBaZ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 219287,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
-    },
-    {
-      "added_at": "2026-10-02 04:03:55",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Let\u2019s Get Married",
-      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
     },
     {
       "added_at": "2026-10-02 04:03:55",

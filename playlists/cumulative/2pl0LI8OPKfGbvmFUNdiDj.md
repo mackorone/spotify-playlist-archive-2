@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-589 songs - 1 day 9 hr 25 min
+591 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Orbit](https://open.spotify.com/track/73Bv1zWG07mVOuRMY9Hyhx) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [Orbit](https://open.spotify.com/album/7I6IVz3d9uV2G54Hu0hQLh) | 3:58 | 2026-08-25 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 | 2026-01-05 |
 | [Paranoia](https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Paranoia](https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH) | 3:24 | 2025-12-28 | 2026-01-25 |
+| [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 | 2026-10-05 |  |
 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 | 2025-12-23 | 2026-01-15 |
 | [Persephone](https://open.spotify.com/track/54bU2JvnZ03zsHNaNaU98v) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [Persephone](https://open.spotify.com/album/4jwuM7kTSJEE7IHelVBVnw) | 4:08 | 2025-11-17 | 2026-01-05 |
 | [Picket Fences On Fire](https://open.spotify.com/track/7wTmXJVVrhDYpYXceSNupJ) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:04 | 2025-11-24 | 2026-01-05 |
@@ -583,6 +584,7 @@
 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-07-07 | 2026-08-08 |
 | [xxx$.Eden.$xxx](https://open.spotify.com/track/09OWD6ngk05M1vaXzVobGT) | [A Gxd Named Gawd](https://open.spotify.com/artist/4zoT5ZrAVFrTeRe1vNlQ2q) | [xxx$.Eden.$xxx](https://open.spotify.com/album/6swDrSNbu4RHkopK5qULq5) | 2:50 | 2025-12-25 | 2026-01-15 |
 | [Y2KBABY](https://open.spotify.com/track/7bS1ITQT3u1KZtPLfBZFls) | [Young Scorcher](https://open.spotify.com/artist/68GhZVQrGi3cjHwDfas3IX) | [Y2KBABY](https://open.spotify.com/album/7dLJQj3yZQGHL5ujjpSalx) | 2:14 | 2025-11-17 | 2026-01-05 |
+| [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 | 2026-10-05 |  |
 | [Yeti](https://open.spotify.com/track/5Im51GtWo7shSTcT1lLyu5) | [The Lunar Conspiracy](https://open.spotify.com/artist/5s8FHpyZT9uMPbPpnZGhPA) | [Yeti](https://open.spotify.com/album/1y52VUBQmPBqDw4lOKK5Dk) | 4:30 | 2025-12-26 | 2026-01-15 |
 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-17 | 2026-05-26 |
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 | 2026-01-05 |

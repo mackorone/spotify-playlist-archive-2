@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Provinz, Leony, Kontra K, Holly Humberstone, Mark Forster, Martin Garrix & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,126 likes - 92 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,079 likes - 92 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 4 | [Way Too Late](https://open.spotify.com/track/6x6qpL0Qxi68Z0POHaIToF) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Way Too Late](https://open.spotify.com/album/4MGP41iZLRFvEf0uNqnLQx) | 3:05 |
 | 5 | [BA \(feat\. Future\)](https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 2:29 |
 | 6 | [Cool](https://open.spotify.com/track/2QxUK5UwFJq5SCBMuhWxcb) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Cool](https://open.spotify.com/album/63TlkB72XCwOElLyu0ve5a) | 2:59 |
-| 7 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 7 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 8 | [Mein Type](https://open.spotify.com/track/3CuZpU2jfSEGwKfGsHC81w) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R), [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Mein Type](https://open.spotify.com/album/2lFP0O9R5k9sRDFttQqqWT) | 2:48 |
 | 9 | [Test My Luck](https://open.spotify.com/track/7JDWtj2fkSW4XftcaN6BwC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Test My Luck](https://open.spotify.com/album/3LmJsN8XC0S9CIfHixhXBI) | 3:40 |
 | 10 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |

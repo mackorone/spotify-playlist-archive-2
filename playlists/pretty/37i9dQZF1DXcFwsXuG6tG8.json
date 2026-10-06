@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 24712,
+  "num_followers": 24721,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
+        "name": "deditos cruzados",
+        "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205233,
+      "name": "deditos cruzados",
+      "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -639,22 +659,6 @@
       "duration_ms": 220830,
       "name": "Gordo",
       "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -675,6 +679,22 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
         "name": "milveces",
         "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 220800,
       "name": "milveces",
       "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
-        "name": "deditos cruzados",
-        "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205233,
-      "name": "deditos cruzados",
-      "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "no llames lo m\u00edo nuestro",
-        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "no llames lo m\u00edo nuestro",
-      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:38",
+      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
-    },
-    {
-      "added_at": "2026-10-02 04:02:38",
-      "album": {
-        "name": "GOLPE",
-        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 216875,
-      "name": "GOLPE",
-      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-10-02 04:02:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-10-02 04:02:38",
       "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     }
   ],
   "unique_name": "mi vida es una peli",

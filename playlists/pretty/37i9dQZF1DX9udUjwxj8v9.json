@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154384,
+  "num_followers": 154388,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Nada Sem Ela",
-        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Dorival",
-      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "O Canto da Cidade",
         "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 204093,
       "name": "O Canto da Cidade",
       "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Nada Sem Ela",
+        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Dorival",
+      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 371720,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 371720,
-      "name": "Vai Passar",
-      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Pra Abalar",
-        "url": "https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Alo Paixao",
-      "url": "https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Nem Ouro Nem Prata",
         "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221960,
       "name": "Nem Ouro Nem Prata",
       "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Pra Abalar",
+        "url": "https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Alo Paixao",
+      "url": "https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "A M\u00fasica Do Olodum - 20 Anos",
-        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Nossa Gente (Avisa L\u00e1)",
-      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 271453,
       "name": "Hist\u00f3ria Para Ninar Gente Grande",
       "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "A M\u00fasica Do Olodum - 20 Anos",
+        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Nossa Gente (Avisa L\u00e1)",
+      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Fala tamborim",
-      "url": "https://open.spotify.com/track/4zY7bjnkTGdc70CFQSFqWi"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 206560,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Fala tamborim",
+      "url": "https://open.spotify.com/track/4zY7bjnkTGdc70CFQSFqWi"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Portela Na Avenida",
+      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "Esta\u00e7\u00e3o da Luz",
         "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 225546,
-      "name": "Portela Na Avenida",
-      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -835,22 +851,6 @@
       "duration_ms": 289466,
       "name": "Caio No Suingue",
       "url": "https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

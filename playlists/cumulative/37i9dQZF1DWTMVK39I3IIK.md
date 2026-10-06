@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Fine
 
-473 songs - 1 day 0 hr 13 min
+474 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-23 | 2026-06-12 |
 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 | 2025-08-14 | 2025-09-15 |
 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-20 | 2026-04-24 |
+| [Big Spender](https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Big Spender](https://open.spotify.com/album/6KwTupgXxkIUDg29rCKSKF) | 3:07 | 2026-10-01 |  |
 | [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [Bitter](https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Bitter](https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs) | 2:42 | 2026-06-04 | 2026-08-14 |
 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 | 2025-09-04 | 2026-03-13 |
@@ -243,7 +244,7 @@
 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 | 2026-08-30 |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
-| [KOMMER DU HJEM](https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [KOMMER DU HJEM](https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB) | 3:19 | 2026-07-10 |  |
+| [KOMMER DU HJEM](https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [KOMMER DU HJEM](https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB) | 3:19 | 2026-07-10 | 2026-10-06 |
 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 | 2026-05-03 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 | 2025-06-26 | 2025-09-05 |

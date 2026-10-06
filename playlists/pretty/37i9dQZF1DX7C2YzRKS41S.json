@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 151239,
+  "num_followers": 151244,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Roll it on Home",
+      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "A Encomenda da Minha Vida",
         "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
@@ -419,6 +419,38 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -443,22 +475,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "Um Ver\u00e3o Qualquer",
         "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 162214,
       "name": "Minha Voz",
       "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "His Three Daughters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 210614,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Eu Sou Outro",
         "url": "https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z"
       },
@@ -943,18 +959,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "His Three Daughters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO"
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT"
       },
       "artists": [
         {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 210614,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
+      "duration_ms": 193136,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -991,26 +1011,6 @@
       "duration_ms": 223593,
       "name": "A\u00e7a\u00ed",
       "url": "https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "Meu Primeiro Amor",
-        "url": "https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 193136,
-      "name": "Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
     },
     {
       "added_at": "2025-10-25 00:54:25",

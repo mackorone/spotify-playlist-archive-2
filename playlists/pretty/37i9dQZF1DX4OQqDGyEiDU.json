@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Hatsune Miku \u00a9\ufe0e CFM",
-  "num_followers": 121308,
+  "num_followers": 121303,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-10-01 00:33:22",
       "album": {
-        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
+        "name": "Corridor",
+        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
       },
       "artists": [
         {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
         }
       ],
-      "duration_ms": 189412,
-      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
+      "duration_ms": 233875,
+      "name": "\u30b7\u30e3\u30eb\u30eb",
+      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
     },
     {
       "added_at": "2026-10-01 00:33:22",
@@ -755,6 +755,22 @@
       "duration_ms": 155692,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+    },
+    {
+      "added_at": "2026-10-01 00:33:22",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
+      },
+      "artists": [
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k"
+        }
+      ],
+      "duration_ms": 161872,
+      "name": "\u6625\u5d50",
+      "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
     },
     {
       "added_at": "2026-10-01 00:33:22",
@@ -779,34 +795,18 @@
     {
       "added_at": "2026-10-01 00:33:22",
       "album": {
-        "name": "Corridor",
-        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
+        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
       },
       "artists": [
         {
-          "name": "balloon",
-          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
         }
       ],
-      "duration_ms": 233875,
-      "name": "\u30b7\u30e3\u30eb\u30eb",
-      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
-    },
-    {
-      "added_at": "2026-10-01 00:33:22",
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
-      },
-      "artists": [
-        {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k"
-        }
-      ],
-      "duration_ms": 161872,
-      "name": "\u6625\u5d50",
-      "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
+      "duration_ms": 189412,
+      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
     },
     {
       "added_at": "2026-10-01 00:33:22",

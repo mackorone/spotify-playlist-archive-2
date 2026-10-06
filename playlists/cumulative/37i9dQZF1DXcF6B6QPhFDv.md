@@ -2,7 +2,7 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Rock never dies\. It's alive with Dexter and the Moonrocks.
+> Rock never dies\. It's alive with Dexter and The Moonrocks.
 
 1,447 songs - 3 day 8 hr 35 min
 

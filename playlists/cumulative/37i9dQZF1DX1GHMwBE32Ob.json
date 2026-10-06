@@ -613,7 +613,7 @@
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165929,
+      "duration_ms": 155309,
       "name": "Alafia (Peace)",
       "url": "https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu"
     },
@@ -4179,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
+    },
+    {
+      "album": {
         "name": "Giddem",
         "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
       },
@@ -4296,7 +4314,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 124878,
       "name": "GO GO!",
       "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"

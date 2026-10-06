@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,386 songs - 5 day 3 hr 45 min
+2,387 songs - 5 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,7 @@
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 | 2023-04-28 |
 | [Hercules](https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hercules](https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD) | 3:20 | 2024-04-19 | 2024-05-24 |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
-| [Here we go again](https://open.spotify.com/track/41D2LiJ2S8JtKkDt4Ur6wE) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Here we go again](https://open.spotify.com/album/1MVrU64RBwick8NcuD5KBo) | 3:12 | 2026-09-10 |  |
+| [Here we go again](https://open.spotify.com/track/41D2LiJ2S8JtKkDt4Ur6wE) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Here we go again](https://open.spotify.com/album/1MVrU64RBwick8NcuD5KBo) | 3:12 | 2026-09-10 | 2026-10-06 |
 | [High On Life](https://open.spotify.com/track/5XQ9N8tQH3vKe7gbFvIVqo) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [High On Life](https://open.spotify.com/album/0t7QlpZaFc7UaJwJYRvKhg) | 2:54 | 2025-09-04 | 2025-09-14 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 | 2025-09-17 |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |
@@ -1961,6 +1961,7 @@
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-03-20 |  |
 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 | 2025-05-01 | 2025-10-17 |
 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 | 2026-09-24 |  |
+| [Supernatural](https://open.spotify.com/track/7dFYLouQB4sAe6hWqNQuRQ) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Supernatural](https://open.spotify.com/album/5TAP6BzFiAUsXosKJsc2Wt) | 2:48 | 2026-10-01 |  |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU) | 3:15 | 2024-03-14 | 2024-04-19 |
 | [Supersonic](https://open.spotify.com/track/0ywWRd04tEgmZAMG4YGTg0) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Supersonic](https://open.spotify.com/album/2A4LRj5gmxvgWRht3JEz0g) | 3:02 | 2026-04-23 | 2026-05-18 |
 | [Supersonic P\*$$y](https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Supersonic P\*$$y](https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN) | 2:47 | 2024-05-03 | 2024-06-01 |

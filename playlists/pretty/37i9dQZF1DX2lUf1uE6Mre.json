@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 907222,
+  "num_followers": 907202,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "Ghetto Superstars",
         "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 185377,
       "name": "Ghetto Superstars",
       "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Ballon d'Or",
-        "url": "https://open.spotify.com/album/6m5qtGdEimUmtcLiDNKPEe"
-      },
-      "artists": [
-        {
-          "name": "Sosa La M",
-          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Ballon d'Or",
-      "url": "https://open.spotify.com/track/27ozli2KWtDzTt86BuaRBq"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "Vermisse",
         "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 154653,
       "name": "Vermisse",
       "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Ballon d'Or",
+        "url": "https://open.spotify.com/album/6m5qtGdEimUmtcLiDNKPEe"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Ballon d'Or",
+      "url": "https://open.spotify.com/track/27ozli2KWtDzTt86BuaRBq"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Xalaz",
-        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        }
-      ],
-      "duration_ms": 92653,
-      "name": "Xalaz",
-      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "Sera",
         "url": "https://open.spotify.com/album/2kWyLXF7bVqnbVGWGQBKha"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 149553,
       "name": "Sera",
       "url": "https://open.spotify.com/track/3C24jbcbotdNpyDUqNIJEi"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Xalaz",
+        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "duration_ms": 92653,
+      "name": "Xalaz",
+      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Red Bull Weiss",
-        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
-      },
-      "artists": [
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 110363,
-      "name": "Red Bull Weiss",
-      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "Sommernacht",
         "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 201843,
       "name": "Sommernacht",
       "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Red Bull Weiss",
+        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 110363,
+      "name": "Red Bull Weiss",
+      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Lamborghini",
-        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
+        "name": "FEELINGS",
+        "url": "https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89"
       },
       "artists": [
         {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
         },
         {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+          "name": "Southside Q",
+          "url": "https://open.spotify.com/artist/31iD3wB1injwPbHsq3LI1l"
         }
       ],
-      "duration_ms": 156340,
-      "name": "Lamborghini",
-      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
+      "duration_ms": 116444,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "FEELINGS",
-        "url": "https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89"
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
       },
       "artists": [
         {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
         },
         {
-          "name": "Southside Q",
-          "url": "https://open.spotify.com/artist/31iD3wB1injwPbHsq3LI1l"
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
         }
       ],
-      "duration_ms": 116444,
-      "name": "FEELINGS",
-      "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
+      "duration_ms": 156340,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1079,6 +1079,26 @@
       "duration_ms": 130909,
       "name": "KODEX",
       "url": "https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
       },
       "artists": [
         {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
         }
       ],
-      "duration_ms": 139000,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1183,42 +1199,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "V.T.Z.R.",
-        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
-      },
-      "artists": [
-        {
-          "name": "Azu",
-          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
         "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE"
       },
@@ -1319,38 +1335,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Luftkuss",
-        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "Luftkuss",
-      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "Bend Over 2",
         "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 131428,
       "name": "Bend Over 2",
       "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "AKRAPOVIC",
         "url": "https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 139780,
       "name": "AKRAPOVIC",
       "url": "https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-09-29 15:22:02",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-09-29 15:22:02",
       "album": {
-        "name": "Fashion Killa",
-        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 132112,
-      "name": "Fashion Killa",
-      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
-    },
-    {
-      "added_at": "2026-09-29 15:22:02",
-      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 118986,
       "name": "REDE",
       "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+    },
+    {
+      "added_at": "2026-09-29 15:22:02",
+      "album": {
+        "name": "Fashion Killa",
+        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 132112,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
     },
     {
       "added_at": "2026-09-29 15:22:02",

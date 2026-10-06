@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 333265,
+  "num_followers": 333267,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFb+R1yS/HC+Wmclu01RpZbRHSav",
+  "snapshot_id": "AAAAAPyfUjHWSLNPbxtBCtaRWKnexw+F",
   "tracks": [
     {
       "added_at": "2026-10-01 22:00:38",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-10-01 22:00:38",
       "album": {
+        "name": "Your Turn In Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 130870,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
         "name": "Ger dig all min love",
         "url": "https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 143844,
       "name": "Tills vi ses igen",
       "url": "https://open.spotify.com/track/1WzaiQ8J7JAsnzrF4t2x9N"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "Your Turn In Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 130870,
-      "name": "Came Up",
-      "url": "https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau"
     },
     {
       "added_at": "2026-10-01 22:00:38",
@@ -167,6 +167,122 @@
     {
       "added_at": "2026-10-01 22:00:38",
       "album": {
+        "name": "Man in the Dark",
+        "url": "https://open.spotify.com/album/6LSkORK2lLludjWIl9gku5"
+      },
+      "artists": [
+        {
+          "name": "LB",
+          "url": "https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Man in the Dark",
+      "url": "https://open.spotify.com/track/02fVLkPsYiwQ12RyihMkAV"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "Min Historia",
+        "url": "https://open.spotify.com/album/1I0iy29nOngYxtfR47090f"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Min Historia",
+      "url": "https://open.spotify.com/track/7thjeSK8rvU3R3Oz6gOLGT"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "NIGHTVISION",
+        "url": "https://open.spotify.com/album/7kL76LZzEHGXhoe5PvTdTR"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "PIXEL",
+      "url": "https://open.spotify.com/track/2VuYDwgIh76zdQ5RWAXhua"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k"
+      },
+      "artists": [
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "duration_ms": 124067,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "K\u00e4rleksmartyrer II",
+        "url": "https://open.spotify.com/album/2SINbkLAUomo2lL55rc01F"
+      },
+      "artists": [
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "duration_ms": 179459,
+      "name": "Nasini",
+      "url": "https://open.spotify.com/track/0R4NRSS9jH7ciOi7ayvQdb"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "Gatubarn",
+        "url": "https://open.spotify.com/album/4Z5w2qIKOqXScPNgGHXhWt"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "duration_ms": 114278,
+      "name": "Gatubarn",
+      "url": "https://open.spotify.com/track/6LWTVZtCFXLOCCvP1sz3lU"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
+        "name": "STILL HERE",
+        "url": "https://open.spotify.com/album/1ZcSdlJ2Htap4JzUXd2ixw"
+      },
+      "artists": [
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        },
+        {
+          "name": "Mukki",
+          "url": "https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y"
+        }
+      ],
+      "duration_ms": 169696,
+      "name": "2 2\u2019s",
+      "url": "https://open.spotify.com/track/2Ild4kndcMMXwNL3R0pPei"
+    },
+    {
+      "added_at": "2026-10-01 22:00:38",
+      "album": {
         "name": "Inte h\u00e4r",
         "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
       },
@@ -207,86 +323,6 @@
     {
       "added_at": "2026-10-01 22:00:38",
       "album": {
-        "name": "Man in the Dark",
-        "url": "https://open.spotify.com/album/6LSkORK2lLludjWIl9gku5"
-      },
-      "artists": [
-        {
-          "name": "LB",
-          "url": "https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Man in the Dark",
-      "url": "https://open.spotify.com/track/02fVLkPsYiwQ12RyihMkAV"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "NIGHTVISION",
-        "url": "https://open.spotify.com/album/7kL76LZzEHGXhoe5PvTdTR"
-      },
-      "artists": [
-        {
-          "name": "2M",
-          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "PIXEL",
-      "url": "https://open.spotify.com/track/2VuYDwgIh76zdQ5RWAXhua"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "Min Historia",
-        "url": "https://open.spotify.com/album/1I0iy29nOngYxtfR47090f"
-      },
-      "artists": [
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Min Historia",
-      "url": "https://open.spotify.com/track/7thjeSK8rvU3R3Oz6gOLGT"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k"
-      },
-      "artists": [
-        {
-          "name": "T.G Boogie",
-          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
-        }
-      ],
-      "duration_ms": 124067,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "K\u00e4rleksmartyrer II",
-        "url": "https://open.spotify.com/album/2SINbkLAUomo2lL55rc01F"
-      },
-      "artists": [
-        {
-          "name": "Nuqi",
-          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
-        }
-      ],
-      "duration_ms": 179459,
-      "name": "Nasini",
-      "url": "https://open.spotify.com/track/0R4NRSS9jH7ciOi7ayvQdb"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/7era07S82gOJG3PRolPLZR"
       },
@@ -299,42 +335,6 @@
       "duration_ms": 197349,
       "name": "W",
       "url": "https://open.spotify.com/track/5L7ZjyykDFPHktavvwTlaX"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "Gatubarn",
-        "url": "https://open.spotify.com/album/4Z5w2qIKOqXScPNgGHXhWt"
-      },
-      "artists": [
-        {
-          "name": "Ninety",
-          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
-        }
-      ],
-      "duration_ms": 114278,
-      "name": "Gatubarn",
-      "url": "https://open.spotify.com/track/6LWTVZtCFXLOCCvP1sz3lU"
-    },
-    {
-      "added_at": "2026-10-01 22:00:38",
-      "album": {
-        "name": "STILL HERE",
-        "url": "https://open.spotify.com/album/1ZcSdlJ2Htap4JzUXd2ixw"
-      },
-      "artists": [
-        {
-          "name": "Euroo",
-          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
-        },
-        {
-          "name": "Mukki",
-          "url": "https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "2 2\u2019s",
-      "url": "https://open.spotify.com/track/2Ild4kndcMMXwNL3R0pPei"
     },
     {
       "added_at": "2026-10-01 22:00:38",

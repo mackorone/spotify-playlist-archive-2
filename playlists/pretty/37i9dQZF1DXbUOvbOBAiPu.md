@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Judith, La Mano 1.9, Suzan & Freek, Angèle, x Caroline Polachek, SebastiAn and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,150 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,148 likes - 124 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 17 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |
 | 18 | [Feel Again](https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Feel Again](https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0) | 3:26 |
 | 19 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
-| 20 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 20 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 21 | [Test My Luck](https://open.spotify.com/track/7JDWtj2fkSW4XftcaN6BwC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Test My Luck](https://open.spotify.com/album/3LmJsN8XC0S9CIfHixhXBI) | 3:40 |
 | 22 | [Hate That I Love You](https://open.spotify.com/track/06uCbexXF37f3Am70dM7XN) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Chloe](https://open.spotify.com/artist/5rtdgi7VGCN0SqveMGc2kx), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Hate that I love You](https://open.spotify.com/album/4dzFOZ9SAwHj5JxQ6rznAO) | 2:09 |
 | 23 | [DIP](https://open.spotify.com/track/0cLQo9kMwh075LzY4vWit0) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sommer Ray](https://open.spotify.com/artist/7EdXiDSXhpAzHmb2PWd2Kp) | [DIP](https://open.spotify.com/album/7hogRmRSMRuGz63RqgqqBU) | 3:27 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 41 | [I Found You](https://open.spotify.com/track/2XfTPH9SXF8deti27fSFyk) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [I Found You](https://open.spotify.com/album/36DnO8qxizJ4HZxkpJI6p1) | 2:52 |
 | 42 | [How to Offer a Hand to Hold](https://open.spotify.com/track/3cONQmpOTOIJZtCkS51Gvp) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [MAZDA](https://open.spotify.com/album/3DVHoS09gcMOMWaq04TzGS) | 3:30 |
 | 43 | [Si tu pars](https://open.spotify.com/track/4CvgIIbyLiXGUjaO8DsaYE) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [L'histoire sans fin](https://open.spotify.com/album/72rxLvk3sKPg0pTzkQYtOt) | 3:42 |
-| 44 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
+| 44 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
 | 45 | [Born For You](https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Born For You](https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r) | 2:35 |
 | 46 | [Marido Dansa](https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Marido Dansa EP](https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p) | 2:34 |
 | 47 | [Follow You Down](https://open.spotify.com/track/1muvCL0z5fPnbiLv8tyVFo) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Follow You Down](https://open.spotify.com/album/57aSWD8aD8qyosIcHN1rtD) | 3:58 |

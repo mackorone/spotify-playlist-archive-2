@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Laudo",
-  "num_followers": 28707,
+  "num_followers": 28711,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
       "added_at": "2026-09-24 22:01:39",
@@ -623,22 +627,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Gatvol",
-        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
       "artists": [
         {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 166031,
-      "name": "Gatvol",
-      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-09-24 22:01:39",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
       },
       "artists": [
         {
-          "name": "aKING",
-          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     }
   ],
   "unique_name": "SA Rock ",

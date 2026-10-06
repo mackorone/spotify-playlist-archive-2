@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 437257,
+  "num_followers": 437264,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-10-02 08:04:18",
       "album": {
+        "name": "Canta Pajarito",
+        "url": "https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe"
+      },
+      "artists": [
+        {
+          "name": "Alisun",
+          "url": "https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb"
+        }
+      ],
+      "duration_ms": 230697,
+      "name": "Canta Pajarito",
+      "url": "https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma"
+    },
+    {
+      "added_at": "2026-10-02 08:04:18",
+      "album": {
         "name": "Guaro con Ron",
         "url": "https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 148454,
       "name": "Guaro con Ron",
       "url": "https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM"
-    },
-    {
-      "added_at": "2026-10-02 08:04:18",
-      "album": {
-        "name": "Canta Pajarito",
-        "url": "https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe"
-      },
-      "artists": [
-        {
-          "name": "Alisun",
-          "url": "https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb"
-        }
-      ],
-      "duration_ms": 230697,
-      "name": "Canta Pajarito",
-      "url": "https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma"
     },
     {
       "added_at": "2026-10-02 08:04:18",

@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 133869,
+  "num_followers": 133873,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Heart of a Lion",
         "url": "https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 205821,
       "name": "Heart of a Lion",
       "url": "https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Six60",
+        "url": "https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "Don\u2019t Forget Your Roots",
+      "url": "https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Keep Jamming",
         "url": "https://open.spotify.com/album/233QYWuGeFQ7uSG0pV7oh8"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 229090,
       "name": "Keep Jamming",
       "url": "https://open.spotify.com/track/4CjzpOmmmEHg6VEIdSgSVJ"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Six60",
-        "url": "https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "Don\u2019t Forget Your Roots",
-      "url": "https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "M\u0101ori Ki Te Ao",
-        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 200734,
-      "name": "M\u0101ori Ki Te Ao",
-      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "Nothing To Hide",
         "url": "https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 245933,
       "name": "Darling Angel",
       "url": "https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "M\u0101ori Ki Te Ao",
+        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 200734,
+      "name": "M\u0101ori Ki Te Ao",
+      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Sensitive To A Smile",
+        "url": "https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg"
+      },
+      "artists": [
+        {
+          "name": "Herbs",
+          "url": "https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA"
+        }
+      ],
+      "duration_ms": 259106,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Drop It Down",
         "url": "https://open.spotify.com/album/7Go5wb6T1WNwY0Y9r4hYdJ"
       },
@@ -991,18 +1007,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Sensitive To A Smile",
-        "url": "https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg"
+        "name": "Country Mon",
+        "url": "https://open.spotify.com/album/52UufU9ngjQuCvak9HJ8KA"
       },
       "artists": [
         {
-          "name": "Herbs",
-          "url": "https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA"
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        },
+        {
+          "name": "Classick J",
+          "url": "https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq"
         }
       ],
-      "duration_ms": 259106,
-      "name": "Long Ago",
-      "url": "https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC"
+      "duration_ms": 265488,
+      "name": "Country Mon",
+      "url": "https://open.spotify.com/track/3ldK4fR05sXHEgX6UEGO0V"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1027,26 +1047,6 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Country Mon",
-        "url": "https://open.spotify.com/album/52UufU9ngjQuCvak9HJ8KA"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        },
-        {
-          "name": "Classick J",
-          "url": "https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq"
-        }
-      ],
-      "duration_ms": 265488,
-      "name": "Country Mon",
-      "url": "https://open.spotify.com/track/3ldK4fR05sXHEgX6UEGO0V"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "ROLLIN ON",
-        "url": "https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU"
-      },
-      "artists": [
-        {
-          "name": "Rokk\u014d",
-          "url": "https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b"
-        }
-      ],
-      "duration_ms": 196689,
-      "name": "ROLLIN ON",
-      "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "PRETTY GYAL",
         "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
       },
@@ -1147,22 +1131,6 @@
       "duration_ms": 218134,
       "name": "PRETTY GYAL",
       "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Good on You",
-        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Good on You",
-      "url": "https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1219,6 +1187,38 @@
       "duration_ms": 332000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "Good on You",
+        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Good on You",
+      "url": "https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "ROLLIN ON",
+        "url": "https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU"
+      },
+      "artists": [
+        {
+          "name": "Rokk\u014d",
+          "url": "https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b"
+        }
+      ],
+      "duration_ms": 196689,
+      "name": "ROLLIN ON",
+      "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+        "name": "Do That To Me One More Time",
+        "url": "https://open.spotify.com/album/7DCPgwiy3QybrkirypwX2c"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Junior Soqeta",
+          "url": "https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA"
         }
       ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
+      "duration_ms": 270344,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0"
     }
   ],
   "unique_name": "Island Time",

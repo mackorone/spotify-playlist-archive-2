@@ -2,9 +2,9 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Dabda \(South Korea\)
+> Hottest indie sounds from Asia\. Cover: Jūji \(Thailand\)
 
-2,866 songs - 7 day 7 hr 10 min
+2,867 songs - 7 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1023,6 +1023,7 @@
 | [I Feel Like You Do](https://open.spotify.com/track/2E2xvf0xcBaBLNHy78JVQm) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 1.0](https://open.spotify.com/album/4XYRG5Gxx3ONMRxqn6BKgO) | 2:59 | 2024-06-21 | 2024-07-27 |
 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 | 2023-10-05 | 2024-02-01 |
 | [I Felt That Insecure](https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM) | [Junva](https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt) | [I Felt That Insecure](https://open.spotify.com/album/3iUuupxjT8dAgpejcNG6V4) | 3:31 | 2025-01-31 | 2025-02-14 |
+| [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 | 2026-10-05 |  |
 | [I Forget](https://open.spotify.com/track/4kteUmv5itspdKMNHAMF8A) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [KAYD](https://open.spotify.com/artist/083fVmyz4CEiqzDnLaSpU7) | [I Forget](https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB) | 3:37 | 2022-07-21 | 2022-08-19 |
 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-06 | 2024-09-13 |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 | 2022-07-16 |
@@ -2835,7 +2836,7 @@
 | [荒唐的盡頭](https://open.spotify.com/track/3SlT7LcKdDY0yGEAtss6xg) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [荒唐的盡頭](https://open.spotify.com/album/4EeV6PLkovXhliJXzAZfba) | 4:58 | 2025-11-21 | 2026-03-27 |
 | [菠蘿包配雞尾包](https://open.spotify.com/track/58MPSajhLYQeyh5mzwNEX1) | [Sammi Szeto](https://open.spotify.com/artist/0Y5iRhhRnWJ0RX81wL087g) | [菠蘿包配雞尾包](https://open.spotify.com/album/6NLGJu3dVlZy8AJFXnRINs) | 3:36 | 2026-03-12 | 2026-03-27 |
 | [蜃気楼](https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [蜃気楼](https://open.spotify.com/album/5DJKBXc6OyavLzdYQdHHdg) | 3:14 | 2024-08-01 | 2025-10-14 |
-| [蝴蝶](https://open.spotify.com/track/0u9VdaUZbMmhDTaUshhcaR) | [動物園釘子戶](https://open.spotify.com/artist/4wsvUkStMsVqj9xJHqsR58) | [蝴蝶](https://open.spotify.com/album/1nwn7Pqg6Ox2ltNpAnGxzL) | 4:31 | 2026-07-24 |  |
+| [蝴蝶](https://open.spotify.com/track/0u9VdaUZbMmhDTaUshhcaR) | [動物園釘子戶](https://open.spotify.com/artist/4wsvUkStMsVqj9xJHqsR58) | [蝴蝶](https://open.spotify.com/album/1nwn7Pqg6Ox2ltNpAnGxzL) | 4:31 | 2026-07-24 | 2026-10-06 |
 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 | 2026-04-30 | 2026-06-26 |
 | [言伝](https://open.spotify.com/track/28O58Xm1nOFvVOERz1JCpx) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [言伝](https://open.spotify.com/album/6IiKp43rjWo4N1jVEhBzhw) | 4:35 | 2026-01-15 | 2026-01-30 |
 | [討厭想你的時候](https://open.spotify.com/track/3npvcimJh6cf7A9znNYwYv) | [Mango Street Papa 芒果街老爸](https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0) | [討厭想你的時候](https://open.spotify.com/album/3zu4T598pQMVBTU7F0fcxc) | 3:46 | 2026-07-02 | 2026-09-15 |

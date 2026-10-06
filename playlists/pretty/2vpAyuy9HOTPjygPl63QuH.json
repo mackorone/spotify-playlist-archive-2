@@ -1,13 +1,33 @@
 {
   "description": "only the best tech house &amp; house music",
-  "num_followers": 16235,
+  "num_followers": 16234,
   "original_name": "tech house heaters",
   "owner": {
     "name": "tech house heaters",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAon7QDMJR0M8HhwPAKaqhcU1w/HC51",
+  "snapshot_id": "AAAotdH0e33IHZDVE2JWPztYDEbCNU7C",
   "tracks": [
+    {
+      "added_at": "2026-10-05 21:54:21",
+      "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
     {
       "added_at": "2026-09-13 23:02:45",
       "album": {
@@ -41,6 +61,22 @@
       "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
+      "added_at": "2026-09-13 23:00:51",
+      "album": {
+        "name": "Brain Dance",
+        "url": "https://open.spotify.com/album/1L8qDfPpVetgVhAjBDxABM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Brain Dance",
+      "url": "https://open.spotify.com/track/2zVuxLKF0vsQpzJyrELJok"
+    },
+    {
       "added_at": "2026-09-13 23:01:00",
       "album": {
         "name": "Not A Problem",
@@ -65,20 +101,36 @@
       "url": "https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw"
     },
     {
-      "added_at": "2026-09-13 23:00:51",
+      "added_at": "2026-09-25 10:52:09",
       "album": {
-        "name": "Brain Dance",
-        "url": "https://open.spotify.com/album/1L8qDfPpVetgVhAjBDxABM"
+        "name": "In N Out / Dream Girl",
+        "url": "https://open.spotify.com/album/3oWfS4NiXNfO3pKyDZzRRC"
       },
       "artists": [
         {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Brain Dance",
-      "url": "https://open.spotify.com/track/2zVuxLKF0vsQpzJyrELJok"
+      "duration_ms": 163846,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/7MKOQvZjygiK8Jeeiz8rOz"
+    },
+    {
+      "added_at": "2026-10-05 21:54:53",
+      "album": {
+        "name": "Act Up",
+        "url": "https://open.spotify.com/album/0YkhuH7cAhNG6DXmprL4DO"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/6T6OV77EDClmN0SJHqAwR5"
     },
     {
       "added_at": "2026-09-13 23:01:06",
@@ -153,6 +205,94 @@
       "url": "https://open.spotify.com/track/5KWd96Ghid6wCAYfWKc8Re"
     },
     {
+      "added_at": "2026-10-05 21:54:27",
+      "album": {
+        "name": "So Sweet",
+        "url": "https://open.spotify.com/album/2LWpbO5tLgQCBpf6Nejt3L"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/1NSMESBn8Qttng9kUl9KQ4"
+    },
+    {
+      "added_at": "2026-10-05 21:55:49",
+      "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/3uRoVXvf3GfjmtlKkBUnNh"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 202123,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
+    },
+    {
+      "added_at": "2026-09-25 10:52:18",
+      "album": {
+        "name": "Flights",
+        "url": "https://open.spotify.com/album/5ztAPJWWzoPGuVHoyBmBPR"
+      },
+      "artists": [
+        {
+          "name": "Harry Thompson",
+          "url": "https://open.spotify.com/artist/0gFymBOEsTR2D6zSWwyVlv"
+        },
+        {
+          "name": "Cris Orube",
+          "url": "https://open.spotify.com/artist/1e6pDVeCVjYBcB2YLBx7Qv"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Flights",
+      "url": "https://open.spotify.com/track/5DqKEPFdMGtJ6RqGfO3KOQ"
+    },
+    {
+      "added_at": "2026-09-13 23:05:00",
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
+      "added_at": "2026-09-25 10:51:25",
+      "album": {
+        "name": "Dirty Dancing (feat. LexBlaze)",
+        "url": "https://open.spotify.com/album/6qvScpeWjjNJmAfWUioJx7"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Dirty Dancing (feat. LexBlaze)",
+      "url": "https://open.spotify.com/track/3Z171IH0jNBMZCZg4i99I0"
+    },
+    {
       "added_at": "2026-09-13 23:01:57",
       "album": {
         "name": "4 UR SOUL",
@@ -219,6 +359,22 @@
       "duration_ms": 230624,
       "name": "Ooo La La",
       "url": "https://open.spotify.com/track/0EgNdnumineEdwSgYg7TBt"
+    },
+    {
+      "added_at": "2026-10-05 21:55:27",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
     },
     {
       "added_at": "2026-09-13 23:03:18",
@@ -309,22 +465,6 @@
       "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
     },
     {
-      "added_at": "2026-09-13 23:05:00",
-      "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
-      },
-      "artists": [
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "1997 - Radio Edit",
-      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
-    },
-    {
       "added_at": "2026-09-13 23:05:27",
       "album": {
         "name": "Friction",
@@ -345,6 +485,26 @@
       "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
     },
     {
+      "added_at": "2026-09-25 10:52:13",
+      "album": {
+        "name": "BEATBOX ROCKER",
+        "url": "https://open.spotify.com/album/6XflqI473ed5nxc4Buig8H"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "BEATBOX ROCKER",
+      "url": "https://open.spotify.com/track/08aUQAEtGYYOqcghUEuptT"
+    },
+    {
       "added_at": "2026-09-13 23:05:38",
       "album": {
         "name": "I Luv It",
@@ -361,6 +521,26 @@
       "url": "https://open.spotify.com/track/69XQo8h9hfXUspdlNGtLkA"
     },
     {
+      "added_at": "2026-10-05 21:54:24",
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6H5KAhqf2zsAE0y1mMLrgU"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/7mFoGLIUn1M7ORFx53eEVa"
+    },
+    {
       "added_at": "2026-09-13 23:05:50",
       "album": {
         "name": "Steppin' In EP",
@@ -375,6 +555,22 @@
       "duration_ms": 165382,
       "name": "Steppin' In",
       "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
+    },
+    {
+      "added_at": "2026-10-05 21:55:16",
+      "album": {
+        "name": "Baby Do You Wanna Bump",
+        "url": "https://open.spotify.com/album/1KnYyxYPqjIfIi6epO99wm"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "Baby Do You Wanna Bump",
+      "url": "https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX"
     },
     {
       "added_at": "2026-09-13 23:06:23",
@@ -455,82 +651,6 @@
       "duration_ms": 171350,
       "name": "Back Of The Club",
       "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
-    },
-    {
-      "added_at": "2026-09-25 10:51:25",
-      "album": {
-        "name": "Dirty Dancing (feat. LexBlaze)",
-        "url": "https://open.spotify.com/album/6qvScpeWjjNJmAfWUioJx7"
-      },
-      "artists": [
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        },
-        {
-          "name": "LexBlaze",
-          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Dirty Dancing (feat. LexBlaze)",
-      "url": "https://open.spotify.com/track/3Z171IH0jNBMZCZg4i99I0"
-    },
-    {
-      "added_at": "2026-09-25 10:52:09",
-      "album": {
-        "name": "In N Out / Dream Girl",
-        "url": "https://open.spotify.com/album/3oWfS4NiXNfO3pKyDZzRRC"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "In N Out",
-      "url": "https://open.spotify.com/track/7MKOQvZjygiK8Jeeiz8rOz"
-    },
-    {
-      "added_at": "2026-09-25 10:52:13",
-      "album": {
-        "name": "BEATBOX ROCKER",
-        "url": "https://open.spotify.com/album/6XflqI473ed5nxc4Buig8H"
-      },
-      "artists": [
-        {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "BEATBOX ROCKER",
-      "url": "https://open.spotify.com/track/08aUQAEtGYYOqcghUEuptT"
-    },
-    {
-      "added_at": "2026-09-25 10:52:18",
-      "album": {
-        "name": "Flights",
-        "url": "https://open.spotify.com/album/5ztAPJWWzoPGuVHoyBmBPR"
-      },
-      "artists": [
-        {
-          "name": "Harry Thompson",
-          "url": "https://open.spotify.com/artist/0gFymBOEsTR2D6zSWwyVlv"
-        },
-        {
-          "name": "Cris Orube",
-          "url": "https://open.spotify.com/artist/1e6pDVeCVjYBcB2YLBx7Qv"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Flights",
-      "url": "https://open.spotify.com/track/5DqKEPFdMGtJ6RqGfO3KOQ"
     }
   ],
   "unique_name": "tech house heaters",

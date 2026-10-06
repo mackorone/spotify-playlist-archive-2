@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 118705,
+  "num_followers": 118763,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 223700,
-      "name": "Different Religion (feat. Model/Actriz)",
-      "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "I'm Sorry But I Love You",
         "url": "https://open.spotify.com/album/70ZSfvPwbX3ThC2nxopjdm"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 242014,
       "name": "I'm Sorry But I Love You",
       "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 223700,
+      "name": "Different Religion (feat. Model/Actriz)",
+      "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "I Won't Cry",
         "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 260146,
       "name": "I Won\u2019t Cry",
       "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 196910,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Beauty Sleep",
         "url": "https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 222967,
       "name": "Beauty Sleep",
       "url": "https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 196910,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "No Rest for The Wicked",
-        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
-      },
-      "artists": [
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 152946,
-      "name": "Lamb Truck Keys",
-      "url": "https://open.spotify.com/track/0YZkkvAyPLdpNLB8Uj07XE"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Plein Soleil",
         "url": "https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 205746,
       "name": "Plein Soleil",
       "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 152946,
+      "name": "Lamb Truck Keys",
+      "url": "https://open.spotify.com/track/0YZkkvAyPLdpNLB8Uj07XE"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Comedy Show",
+        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Comedy Show",
+      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Perderte",
         "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 151179,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Comedy Show",
-        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Comedy Show",
-      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "San Francisco, 2005",
-        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 247364,
-      "name": "San Francisco, 2005",
-      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "ON THE SCHEDULE",
         "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 196566,
       "name": "ON THE SCHEDULE",
       "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "San Francisco, 2005",
+        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "San Francisco, 2005",
+      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "The Whale",
-        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
-      },
-      "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
-        {
-          "name": "D.A. Crimson",
-          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
-        }
-      ],
-      "duration_ms": 205563,
-      "name": "The Whale",
-      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Alright, alright",
         "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 151011,
       "name": "Alright, alright",
       "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
+        }
+      ],
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "I see them, I see me",
-        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 129840,
-      "name": "Wave Has a Place",
-      "url": "https://open.spotify.com/track/71xCkmstbvZJwpu8lKNAFW"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 191786,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 129840,
+      "name": "Wave Has a Place",
+      "url": "https://open.spotify.com/track/71xCkmstbvZJwpu8lKNAFW"
     },
     {
       "added_at": "2026-10-01 14:03:25",

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311012,
+  "num_followers": 1311035,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
       "added_at": "2026-07-10 04:01:45",
       "album": {
         "name": "Work",
@@ -1435,22 +1451,6 @@
       "duration_ms": 182379,
       "name": "Work",
       "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-05-15 15:18:31",
@@ -1501,26 +1501,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fuck It Up",
@@ -1543,6 +1523,26 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
-      "added_at": "2026-07-24 04:02:19",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Let Me Clear My Throat",
@@ -1895,6 +1879,22 @@
       "duration_ms": 161818,
       "name": "Let Me Clear My Throat",
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
+    },
+    {
+      "added_at": "2026-07-24 04:02:19",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Rhythm Has Control",
-        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Rhythm Has Control",
-      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Deeper Underground",
@@ -1973,20 +1953,24 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
+      "added_at": "2026-08-21 04:01:29",
       "album": {
-        "name": "No Bite",
-        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+        "name": "Rhythm Has Control",
+        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
         }
       ],
-      "duration_ms": 181417,
-      "name": "No Bite",
-      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+      "duration_ms": 179076,
+      "name": "Rhythm Has Control",
+      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2011,6 +1995,22 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "No Bite",
+        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "No Bite",
+      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2213,22 +2213,6 @@
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
-      },
-      "artists": [
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -2247,6 +2231,22 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2349,26 +2349,6 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Body Work",
-        "url": "https://open.spotify.com/album/3LGHuK6BWfBh1KihjxAseB"
-      },
-      "artists": [
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        },
-        {
-          "name": "Shdws",
-          "url": "https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg"
-        }
-      ],
-      "duration_ms": 182431,
-      "name": "Body Work",
-      "url": "https://open.spotify.com/track/1a1f210GFksvkZzVkdIAzs"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
@@ -2387,6 +2367,26 @@
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Body Work",
+        "url": "https://open.spotify.com/album/3LGHuK6BWfBh1KihjxAseB"
+      },
+      "artists": [
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        },
+        {
+          "name": "Shdws",
+          "url": "https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg"
+        }
+      ],
+      "duration_ms": 182431,
+      "name": "Body Work",
+      "url": "https://open.spotify.com/track/1a1f210GFksvkZzVkdIAzs"
     },
     {
       "added_at": "2026-01-09 16:39:37",

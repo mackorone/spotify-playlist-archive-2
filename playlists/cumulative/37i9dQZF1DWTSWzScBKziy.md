@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Jovonta Patton
 
-1,593 songs - 4 day 2 hr 34 min
+1,594 songs - 4 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,7 +911,7 @@
 | [Messed Up Messenger](https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Messed Up Messenger](https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj) | 3:17 | 2026-07-03 | 2026-08-08 |
 | [Messy](https://open.spotify.com/track/2KDuAmTLmw3dIpIqJSncMP) | [Bella Santander](https://open.spotify.com/artist/0bfrEX3n3YcThb70c84Kgm) | [Messy](https://open.spotify.com/album/0oGE8nzoo4AnFTfmWrTkqB) | 3:03 | 2026-06-19 | 2026-07-18 |
 | [Metamorphosis](https://open.spotify.com/track/0iIqqIXc7yuVbpLkpCxiLG) | [lydi lynn](https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI) | [Metamorphosis](https://open.spotify.com/album/7gR279hpmAUnEM267JNN7v) | 2:54 | 2026-02-20 | 2026-04-05 |
-| [Middle Of A Miracle \- Live](https://open.spotify.com/track/7foDpqL3QfnSLG2NGamL1x) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Middle Of A Miracle \(Live\)](https://open.spotify.com/album/02hVFQqj5vqTFu1PIe4FqL) | 6:44 | 2026-09-18 |  |
+| [Middle Of A Miracle \- Live](https://open.spotify.com/track/7foDpqL3QfnSLG2NGamL1x) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Middle Of A Miracle \(Live\)](https://open.spotify.com/album/02hVFQqj5vqTFu1PIe4FqL) | 6:44 | 2026-09-18 | 2026-10-06 |
 | [Mighty To Save](https://open.spotify.com/track/3TaVmFx9DAsBrFyqy374zO) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Mighty To Save](https://open.spotify.com/album/2cMMOJDPVfSTFtzV6tveLM) | 3:03 | 2025-04-30 | 2025-06-07 |
 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-05-27 | 2022-10-30 |
 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 | 2022-10-29 | 2024-06-08 |
@@ -1378,6 +1378,7 @@
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2022-10-29 | 2024-04-19 |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-29 | 2023-02-25 |
 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 | 2025-11-15 | 2026-01-18 |
+| [This is Still Amazing Grace](https://open.spotify.com/track/72LonVhXl9NcrW9197Mv3a) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [This is Still Amazing Grace](https://open.spotify.com/album/52lYsSpvm8WdAYM4x2cTJg) | 2:51 | 2026-10-02 |  |
 | [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 | 2026-07-17 | 2026-08-18 |
 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 | 2022-05-27 | 2024-06-08 |
 | [This Is The Kingdom](https://open.spotify.com/track/6X2Hk6NqJZtRaQKi0yDNdR) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [This Is The Kingdom](https://open.spotify.com/album/7KozhBzKtdVRPbQpGF8eQf) | 3:22 | 2025-10-06 | 2025-11-16 |

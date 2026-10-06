@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,034 likes - 95 songs - 5 hr 20 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,035 likes - 97 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 93 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 |
 | 94 | [Always Kind \(Sempre Gentile\)](https://open.spotify.com/track/5MOlrbOzQci7IFzkUjI0ho) | [Walter Nestola](https://open.spotify.com/artist/3coAcYbeeNA0IX8xK2CbtL) | [Always Kind \(Sempre Gentile\)](https://open.spotify.com/album/0hKx9P1wa1BOY7eWfZYIDT) | 3:08 |
 | 95 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 |
+| 96 | [Mountain Meditation](https://open.spotify.com/track/6Gj1LPrs1G23Hn5WkBJ9JG) | [Dreamweaver](https://open.spotify.com/artist/3KiwMzVL0Z5iyHIUBJB0tp) | [My Way \(Markus Pitzer\)](https://open.spotify.com/album/2hkBwxQmtGd2tsDRJGO9XW) | 4:59 |
+| 97 | [The Way](https://open.spotify.com/track/3Qs4DzYZfRYCsvVYySC68q) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [The Way](https://open.spotify.com/album/209R5C78jtU7cYoPkzjpK1) | 4:27 |
 
-Snapshot ID: `AABj6eGzEIftqbpTJgx35YKiUg4s4+iK`
+Snapshot ID: `AABj/rj7QDxSLj8GEU1Gyck4lA7niE24`

@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 125538,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR"
@@ -110,6 +110,24 @@
       "duration_ms": 116244,
       "name": "Bus 471",
       "url": "https://open.spotify.com/track/6fyQkVnNLHYzwCIfG0aSYU"
+    },
+    {
+      "album": {
+        "name": "Clementine Road",
+        "url": "https://open.spotify.com/album/2bpjetR5kUNNyftOhfzi4B"
+      },
+      "artists": [
+        {
+          "name": "LoserKidz",
+          "url": "https://open.spotify.com/artist/209wLqLqtgvCTxwtBgDyyF"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Clementine Road",
+      "url": "https://open.spotify.com/track/5pZwrEW6cCAETY3Z9JyML9"
     },
     {
       "album": {

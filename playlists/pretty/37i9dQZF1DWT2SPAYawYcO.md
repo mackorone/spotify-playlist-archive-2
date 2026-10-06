@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Dom Dolla, Solumun, Skepta, Noah Kahn, Fontaines D.C., Victoria Monet, SZA + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,609 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,603 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [Happy](https://open.spotify.com/track/1SBYruzHCKFuVMPJp8R6mb) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Happy](https://open.spotify.com/album/0Pn8ZXUudOlNFw0NsjVnzZ) | 3:37 |
 | 52 | [Tadpoles](https://open.spotify.com/track/3P5oeGtFMpPq3SGivEZoL7) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Tadpoles](https://open.spotify.com/album/3tTuQe71fzEiRfwKJHdjgM) | 2:06 |
 | 53 | [Demon](https://open.spotify.com/track/2pODBdcRoEO2cCVVA4vZLn) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Demon](https://open.spotify.com/album/33DLhStECkWHNf4O8rfjzu) | 2:39 |
-| 54 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/0lmgJn9n4lXS6Mc1kFGEyf), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 54 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 55 | [Fun!](https://open.spotify.com/track/2BjDgOYaVX5xdNi8DFV6UW) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Fun!](https://open.spotify.com/album/4jZ1ClfjRkEyMlVNVK65dw) | 2:56 |
 | 56 | [Suitcase](https://open.spotify.com/track/4ZxqI6FC1Da6eOFvFBWBJe) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [INNANETAPE](https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs) | 2:20 |
 | 57 | [Whistlin' By The Waves](https://open.spotify.com/track/1Lb0fX2r5ALc6HgKUa18sT) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Another Helping of The Sweet Enoughs](https://open.spotify.com/album/0rieEm0qYxDcnSpxR8ObHT) | 6:36 |

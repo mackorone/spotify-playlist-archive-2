@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-120 songs - 5 hr 26 min
+122 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [639 Hz \- Mental Balance](https://open.spotify.com/track/1v6e4XQBI3yhbQmTtgJuVX) | [Solfonia Bliss](https://open.spotify.com/artist/5ZCCivqbuWNWLeUWqcJ56h) | [639 Hz \- Mental Balance](https://open.spotify.com/album/2mzED8np7g81vQAzSg9T07) | 2:48 | 2024-07-13 |  |
 | [639 Hz \- Miracle Tone](https://open.spotify.com/track/5cxSqzfzsmjrzkigCq7BNB) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Solfeggio Frequencies \- Miracle Tone](https://open.spotify.com/album/1FeOwrv5KIrJp5znjhqUrQ) | 1:51 | 2023-03-10 | 2024-03-14 |
 | [639 Hz \- Quiet Stars](https://open.spotify.com/track/7GuGA5CPZnX4W24WHsqK53) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg) | 1:55 | 2023-03-10 | 2024-03-14 |
+| [639 Hz \- Slow Dreaming](https://open.spotify.com/track/5xS8M7w3rawa8H6YazvaGq) | [Serein Nivane](https://open.spotify.com/artist/5BVnKeNY4UFWrwzbEski4v) | [Slow Dreaming \- Solfeggio](https://open.spotify.com/album/6l2WN6RkmEHqGYne8kBeqN) | 2:26 | 2026-10-05 |  |
 | [639 Hz \- Soledad Tranquilo](https://open.spotify.com/track/0WsjYAdmOnywit1hutalKK) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:16 | 2023-03-10 |  |
 | [639 Hz \- Solfeggio For Clarity](https://open.spotify.com/track/1fE8Q51rvOGoZe4HNCrgMK) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Solfeggio For Clarity](https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM) | 2:05 | 2023-03-10 |  |
 | [639 Hz \- Talentueuse](https://open.spotify.com/track/3SjAKVRP5e7Yytdbs9DpZc) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 1:22 | 2023-03-10 |  |
@@ -96,6 +97,7 @@
 | [Heart Chakra Singing Bowl](https://open.spotify.com/track/0E1EnKXb3ip5pW4FkmxW8U) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:37 | 2023-03-10 | 2023-08-08 |
 | [Heart Solfeggio 639 Hz](https://open.spotify.com/track/2IRagwg8j7yjshAYTSLFFO) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:47 | 2023-11-30 |  |
 | [Heartbeat 639 Hz](https://open.spotify.com/track/0EEV9nCjJQOFwucysFrWRV) | [Maylda](https://open.spotify.com/artist/2qKaMLiV5wvW4FBrgXXlx7) | [Heartbeat 639 Hz](https://open.spotify.com/album/5aXGn0pmSCiwB3G9MdL48K) | 2:57 | 2023-11-30 |  |
+| [Heliocentric 639 Hz](https://open.spotify.com/track/7dpqL9PVMI5yefBkPazUIx) | [Njordir](https://open.spotify.com/artist/2ZwwoRPpp2zp4txNRwjlew) | [Heliocentric 639 Hz](https://open.spotify.com/album/3mig3jplB68a75lxIxVAUB) | 4:10 | 2026-10-05 |  |
 | [Herzchakra – 639 Hz](https://open.spotify.com/track/4jten6BtLoJ7OOgHKPFDH0) | [Zen Buddhismus Regeneration Sammlung](https://open.spotify.com/artist/16AvlhBA5Spw9JLPb62DZ7) | [Heilende Musik \(144 Hz – 728Hz, Die Solfeggio\-Frequenzen Heilung Meditation, Entspannung, Stressabbau, Reparatur DNA, Körperbewusstsein\)](https://open.spotify.com/album/1PNVtHBAwQAIYQpsnlJ1t5) | 4:08 | 2023-03-10 | 2024-11-21 |
 | [Infinite Horizon 639 Hz](https://open.spotify.com/track/0eCJSxvdD74DS2P5YfMr4l) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [Infinite Horizon 639 Hz](https://open.spotify.com/album/1dHEG4f7Ef385Xsk3gMnU2) | 2:27 | 2026-02-23 |  |
 | [Liquid Movements 639 Hz](https://open.spotify.com/track/13UsfmT1Rvl9occSdq3cvz) | [Sarema](https://open.spotify.com/artist/1OF0ZCmjYDKSrSTGRgGdm0) | [Liquid Movements 639 Hz](https://open.spotify.com/album/0x5MaxILSt3kCpbjJPTZmz) | 2:40 | 2023-08-07 |  |

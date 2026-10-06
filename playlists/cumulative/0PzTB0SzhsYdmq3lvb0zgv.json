@@ -7395,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "Panic First!",
+        "url": "https://open.spotify.com/album/3RfTi4xYVmJeOBq785CDJu"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "panic first!",
+      "url": "https://open.spotify.com/track/7wakoFGB8xsobcKVKOqoa7"
+    },
+    {
+      "album": {
         "name": "Exit & Entrances",
         "url": "https://open.spotify.com/album/5RHHd7GsdcjR8gLJlgPWFW"
       },

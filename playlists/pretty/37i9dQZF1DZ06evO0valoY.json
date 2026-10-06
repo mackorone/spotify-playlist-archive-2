@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 219942,
+  "num_followers": 220001,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADKQ4G9LiUphyTS2B9gwjxz",
+  "snapshot_id": "asGXAAAAAACjQVvexui/eqE0W1tf+kd0",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,22 @@
       "duration_ms": 193352,
       "name": "Dame un Chanze",
       "url": "https://open.spotify.com/track/2PYCB1k4WFFYlxztPUv2Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

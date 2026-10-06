@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eda Baba, Cem Adrian ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,255 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,257 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 94 | [Bir Ayrılık Bir Yoksulluk](https://open.spotify.com/track/12ohXCqPAj5A8bPMfA04eU) | [Fatma Aydoğan](https://open.spotify.com/artist/4jdsLmV5iC9cgEf0lnMvs8) | [Bir Ayrılık](https://open.spotify.com/album/6MEtMyF8yea30SdY7p55Fv) | 4:19 |
 | 95 | [Violin Sonata No\. 1, Op\. 80: III\. Andante](https://open.spotify.com/track/2eeijyjDKvxYnKub5StAQC) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Patricia Kopatchinskaja](https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Prokofiev: Violin Sonata No\. 1, Op\. 80: III\. Andante](https://open.spotify.com/album/0SWedKQ6tHmi6eRPVHymls) | 7:04 |
 | 96 | [Yasaklı Aşk](https://open.spotify.com/track/4l7EhOlbsUuGJfL2KJj8JS) | [Zeki Toprak](https://open.spotify.com/artist/7APyxDFr1z3aoyyIbqZHrI) | [Yasaklı Aşk](https://open.spotify.com/album/2XmrnnQDFmR9mBxsdzQUzt) | 2:15 |
-| 97 | [Gönlügüzelim](https://open.spotify.com/track/0LR50JDZvgRcwgfzQrv5tL) | [Di'Lara](https://open.spotify.com/artist/3gy2KYatNJwwGNQ29h20CI) | [Gönlügüzelim](https://open.spotify.com/album/5tqeRT3m4t8inymu3fJmmm) | 3:00 |
+| 97 | [Gönlügüzelim \- Canlı Akustik](https://open.spotify.com/track/0LR50JDZvgRcwgfzQrv5tL) | [Di'Lara](https://open.spotify.com/artist/3gy2KYatNJwwGNQ29h20CI) | [Gönlügüzelim \(Canlı Akustik\)](https://open.spotify.com/album/5tqeRT3m4t8inymu3fJmmm) | 3:00 |
 | 98 | [Uçup Gitti Aşk](https://open.spotify.com/track/38Xve4IJadsIxdBUouxDRT) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Uçup Gitti Aşk](https://open.spotify.com/album/6t8NvyeOCvRNEaHUKyj2rx) | 2:34 |
 | 99 | [Yok Yok Yok](https://open.spotify.com/track/58x5IIdli01gKVSUnNLb4D) | [Oğuzhan Efe](https://open.spotify.com/artist/2lTQtp7Q6WS7tpbsU431Nj) | [Yok Yok Yok](https://open.spotify.com/album/7bDhf0CzJeSxHxvXuSLHYB) | 1:54 |
 | 100 | [düşünme](https://open.spotify.com/track/7pRbs7y4YTcebAdf2EgdIh) | [Deniz Mert](https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm) | [düşünme](https://open.spotify.com/album/5Qqdr8K8wmgs8KGqRfdeCh) | 4:31 |
@@ -125,8 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 115 | [Vazgeçtim](https://open.spotify.com/track/3vAC4oncXJUBKsMRTxnvNJ) | [Ekin Kayatekin](https://open.spotify.com/artist/1KPGoF8Lbf3DTZK4aIk6iR) | [Vazgeçtim](https://open.spotify.com/album/4v50WFcF1bqFngw8nB2Y9I) | 2:34 |
 | 116 | [Gold Leaf](https://open.spotify.com/track/1h0gq7hC4deOf0BEQyfsnd) | [Simge Kartal](https://open.spotify.com/artist/0dyufYHDgOq4tSxHTMfNvp) | [Gold Leaf](https://open.spotify.com/album/3zf180sdn5TRBYfrZS8nyw) | 2:57 |
 | 117 | [ölüyorum](https://open.spotify.com/track/22mB92vHyGadpcAs80xG9c) | [mâtem](https://open.spotify.com/artist/4cuqzwOSrd5Aozt9S5uje6) | [ölüyorum](https://open.spotify.com/album/3zctM5bw4ALw1gHkByn5xQ) | 2:11 |
-| 118 | [Adını Sakladım](https://open.spotify.com/track/2x9mck9irYXjLPyGq6ipcy) | [Hamza Karakaya](https://open.spotify.com/artist/3sMN6DFTCsKidXks2oU3wk) | [Adını Sakladım](https://open.spotify.com/album/2QCKKNrk2gX3DjS5Pesg2e) | 3:45 |
-| 119 | [Sinestesia](https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA) | [Conrado Stein](https://open.spotify.com/artist/3hlX8k8X5zTTkRw5icDEe3), [logos](https://open.spotify.com/artist/1RtYA8YugrzNGCttUbOAku) | [Sinestesia](https://open.spotify.com/album/3bDrawok1I0kejA7IBEiff) | 4:57 |
-| 120 | [ALIŞVERİŞ](https://open.spotify.com/track/3Qc479JV9UUX9QYITyONu2) | [AKU](https://open.spotify.com/artist/53aHCVlwJZRkvyJl0oZcPN), [Staff](https://open.spotify.com/artist/7mXFe1cqfFeVtAjpPDKUW6) | [ALIŞVERİŞ](https://open.spotify.com/album/4kFor7IZzTl5mc03xQKaHC) | 2:20 |
+| 118 | [Sinestesia](https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA) | [Conrado Stein](https://open.spotify.com/artist/3hlX8k8X5zTTkRw5icDEe3), [logos](https://open.spotify.com/artist/1RtYA8YugrzNGCttUbOAku) | [Sinestesia](https://open.spotify.com/album/3bDrawok1I0kejA7IBEiff) | 4:57 |
+| 119 | [ALIŞVERİŞ](https://open.spotify.com/track/3Qc479JV9UUX9QYITyONu2) | [AKU](https://open.spotify.com/artist/53aHCVlwJZRkvyJl0oZcPN), [Staff](https://open.spotify.com/artist/7mXFe1cqfFeVtAjpPDKUW6) | [ALIŞVERİŞ](https://open.spotify.com/album/4kFor7IZzTl5mc03xQKaHC) | 2:20 |
 
-Snapshot ID: `AAAAAIFCq3cEnoxlGAZ1TEwTk+D6mHx3`
+Snapshot ID: `AAAAAHGEnyCi7kj+LcosuUUWU4WfE6s9`

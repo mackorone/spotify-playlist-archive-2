@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,269 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,289 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 67 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
 | 68 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 69 | [After Gold](https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Cambio Wechsel](https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2) | 6:30 |
-| 70 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
-| 71 | [Night And Day](https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 1:45 |
+| 70 | [Night And Day](https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 1:45 |
+| 71 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
 | 72 | [Tanz Mit Mir](https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Tanz Mit Mir](https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn) | 5:43 |
 | 73 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 |
 | 74 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 78 | [Cathart](https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Lucky Cat](https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8) | 5:12 |
 | 79 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 |
 | 80 | [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 |
-| 81 | [Side Two](https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Side Two](https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI) | 5:27 |
-| 82 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 |
+| 81 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 |
+| 82 | [Side Two](https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Side Two](https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI) | 5:27 |
 | 83 | [The Cheek of Daniel](https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Building Blocks, Pt\. 5](https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq) | 4:40 |
 | 84 | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:38 |
 | 85 | [Walter's Jam](https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Coasting](https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw) | 2:44 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 99 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
 | 100 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 |
 | 101 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
-| 102 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 |
-| 103 | [Journey to the Lemon Moon](https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 3:30 |
+| 102 | [Journey to the Lemon Moon](https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 3:30 |
+| 103 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 |
 | 104 | [Never a Dull Moment](https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh) | [ToiToiToi](https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De) | [Vaganten](https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax) | 2:41 |
 | 105 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
 | 106 | [Empty Space](https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Empty Space](https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I) | 4:17 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 112 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
 | 113 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
 | 114 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
-| 115 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
-| 116 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
+| 115 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
+| 116 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
 | 117 | [Ciutat de sorra \- Instrumental](https://open.spotify.com/track/43mIM61mitnuRzxRgttpek) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ciutat de sorra](https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA) | 11:44 |
 | 118 | [Tech](https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw) | [Lemon Cal](https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9) | [Dreamy Riot](https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd) | 5:50 |
 | 119 | [Chirp](https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 3:06 |

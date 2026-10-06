@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-293 songs - 16 hr 48 min
+294 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Read My Mind](https://open.spotify.com/track/0foQv8GJyl3RqAXYH02gY0) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Read My Mind](https://open.spotify.com/album/16pPZmG94egpjl2UFdOhXc) | 3:30 | 2025-07-11 |  |
 | [Ready For Love](https://open.spotify.com/track/1bWSXWm6pgjY8ufBk9Tjw2) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Ready For Love](https://open.spotify.com/album/6DX1zutIyO9hkllVrYYgKE) | 3:14 | 2025-07-11 | 2025-10-22 |
 | [Real Real](https://open.spotify.com/track/6umBv8BZ6XOoZQ5LOReO6V) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Real Real](https://open.spotify.com/album/33npKwJalTtdqANAUsAVzq) | 2:58 | 2025-11-28 |  |
+| [Repeater \- Einmusik Remix](https://open.spotify.com/track/06dth88m6vDY5LFMZ7cobm) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Repeater \(Einmusik Remix\)](https://open.spotify.com/album/0kive9rpF9C8EjnZCBJgwx) | 4:02 | 2026-10-05 |  |
 | [Run](https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Run](https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv) | 3:30 | 2025-11-14 | 2026-01-15 |
 | [Running](https://open.spotify.com/track/5yjdwwA23Jtbwe8Sfs31gQ) | [Northbound](https://open.spotify.com/artist/6KCuLoN1z3hqwIagUq3FRr), [Carolina Eymann](https://open.spotify.com/artist/1Ag14g2DYmZbOgIK1r5a5g), [Mnexsis](https://open.spotify.com/artist/1rMPHZlV3URryBScHKjHct) | [Running](https://open.spotify.com/album/2imxQAxxG16Xf9Vuk5zE5h) | 3:35 | 2025-07-11 | 2025-11-08 |
 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 | 2025-10-10 | 2026-02-28 |

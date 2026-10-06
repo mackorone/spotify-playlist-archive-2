@@ -28733,6 +28733,24 @@
     },
     {
       "album": {
+        "name": "Pushing It Down and Praying (Live from AFAS, Amsterdam)",
+        "url": "https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239323,
+      "name": "Pushing It Down and Praying - Live from AFAS, Amsterdam",
+      "url": "https://open.spotify.com/track/17uCITlzfTYFubzabQunsn"
+    },
+    {
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },

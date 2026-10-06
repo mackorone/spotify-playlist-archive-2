@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Caciquiando",
+        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Yo Soy Asi",
+      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Caciquiando",
-        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Yo Soy Asi",
-      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Chic\u00e1n",
         "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 262321,
       "name": "Como una Loba",
       "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Por un Poco de Amor",
+        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1531,8 +1547,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Por un Poco de Amor",
-        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
       },
       "artists": [
         {
@@ -1540,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 221100,
-      "name": "Que Pasara",
-      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
+      "duration_ms": 228231,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1611,8 +1627,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
       },
       "artists": [
         {
@@ -1620,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 228231,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
+      "duration_ms": 264515,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
+        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 264515,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
+      "duration_ms": 223653,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1719,22 +1735,6 @@
       "duration_ms": 284421,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
-        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 300280,
-      "name": "Cuarto de Hotel",
-      "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 224784,
       "name": "El Motor",
       "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 300280,
+      "name": "Cuarto de Hotel",
+      "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
     },
     {
       "added_at": "2024-06-28 21:55:14",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 129744,
+  "num_followers": 129757,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Dend\u00ea",
-        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
-      },
-      "artists": [
-        {
-          "name": "Matheus de Bezerra",
-          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
-        },
-        {
-          "name": "Tin\u00e9",
-          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
-        }
-      ],
-      "duration_ms": 286320,
-      "name": "Dend\u00ea",
-      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Te Vi Na Rua",
         "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 174310,
       "name": "Te Vi Na Rua",
       "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Dend\u00ea",
+        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        },
+        {
+          "name": "Tin\u00e9",
+          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Dend\u00ea",
+      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
     },
     {
       "added_at": "2026-06-17 15:55:41",

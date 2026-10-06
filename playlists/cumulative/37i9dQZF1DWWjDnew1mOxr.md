@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Blossoms
 
-498 songs - 1 day 4 hr 10 min
+499 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Don't Stop Me](https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Don't Stop Me](https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q) | 3:16 | 2023-10-20 | 2024-07-13 |
 | [Don't Stop Me](https://open.spotify.com/track/6oTczJENNzHA6MHmX8yyiT) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Once Upon A Weekend](https://open.spotify.com/album/4Atbyz2PyX0mdtH9J2lZYW) | 3:16 | 2024-10-06 | 2025-03-01 |
 | [Don't Throw Rocks](https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Don't Throw Rocks](https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8) | 3:01 | 2025-10-10 |  |
+| [Dreams](https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Dreams](https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL) | 3:11 | 2026-10-01 |  |
 | [Drifting](https://open.spotify.com/track/3zpSTN1LPvGzPtkYW7F7k9) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Once Upon A Weekend](https://open.spotify.com/album/4Atbyz2PyX0mdtH9J2lZYW) | 3:07 | 2025-02-21 | 2025-03-13 |
 | [Drive](https://open.spotify.com/track/1o9cwnsgKXaYUplrvyxe63) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [Don't Be A Stranger](https://open.spotify.com/album/31LDM8aFFwEcgQmYQqu0qt) | 3:03 | 2024-11-15 | 2024-11-25 |
 | [Eclipse](https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Eclipse](https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3) | 4:07 | 2023-02-24 | 2023-04-19 |
@@ -286,7 +287,7 @@
 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 | 2024-08-29 |  |
 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 | 2025-03-12 | 2025-08-18 |
 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 | 2023-01-10 | 2024-01-27 |
-| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-03-12 |  |
+| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-03-12 | 2026-10-06 |
 | [Love Bomb](https://open.spotify.com/track/40QWTLvuO04mxTJH7QTCl8) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Make Me Your National Anthem](https://open.spotify.com/album/0crbLH9y8joC8UgWSOuBuI) | 2:46 | 2024-10-06 | 2024-12-24 |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-02-02 | 2024-04-19 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-22 | 2024-05-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62626,
+  "num_followers": 62627,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADdZbFGnHAPmHuie3Swi4oC",
+  "snapshot_id": "asGXAAAAAACZEriEHYo6OYauWXkhifeb",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 247470,
-      "name": "I Hate Myself For Loving You",
-      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+      "duration_ms": 159986,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/3tafV5ntIMSZRYIWkFFiR2"
     },
     {
       "added_at": null,
@@ -179,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 159986,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/3tafV5ntIMSZRYIWkFFiR2"
+      "duration_ms": 247470,
+      "name": "I Hate Myself For Loving You",
+      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "The French Song",
-      "url": "https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Love Me Two Times",
-      "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
+      "duration_ms": 214813,
+      "name": "The French Song",
+      "url": "https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Love Me Two Times",
+      "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Long Time - Acoustic",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215440,
       "name": "Activity Grrrl",
       "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Long Time - Acoustic",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

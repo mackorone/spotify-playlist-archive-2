@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,063 songs - 2 day 14 hr 16 min
+1,065 songs - 2 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Another way](https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Another way](https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE) | 3:31 | 2024-05-23 | 2025-07-24 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-04-11 | 2025-08-20 |
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 | 2023-06-23 |
-| [Archway](https://open.spotify.com/track/7dYWVK67QlZpzozutKTnDI) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Archway](https://open.spotify.com/album/1AmITiHXUCuX0JSQS8jPPF) | 3:52 | 2025-04-15 |  |
+| [Archway](https://open.spotify.com/track/7dYWVK67QlZpzozutKTnDI) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Archway](https://open.spotify.com/album/1AmITiHXUCuX0JSQS8jPPF) | 3:52 | 2025-04-15 | 2026-10-06 |
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-10 | 2024-07-23 |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 | 2023-03-10 |
 | [As Long as I Remember](https://open.spotify.com/track/3yNPrHXW5Sk6xmKikBSdTu) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [As Long as I Remember](https://open.spotify.com/album/0LOYMlqDB85bzpxsLX4w65) | 3:35 | 2025-02-20 | 2026-06-13 |
@@ -321,7 +321,7 @@
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 | 2025-01-08 |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 | 2024-09-04 |
 | [Going Our Separate Ways](https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg) | [Dusty Diamond Trio](https://open.spotify.com/artist/1FAFvLZfHJDhpfzib7ple0) | [Moonlight Hour](https://open.spotify.com/album/6dEcOLbZYo356tByGTH8Ff) | 4:08 | 2022-04-11 | 2023-05-12 |
-| [Gold and Beyond](https://open.spotify.com/track/6ee9o1LqEZWC86aGJFhhOQ) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Gold and Beyond](https://open.spotify.com/album/1uZvuV0Tg3te2mogqLrrVl) | 3:49 | 2025-01-20 |  |
+| [Gold and Beyond](https://open.spotify.com/track/6ee9o1LqEZWC86aGJFhhOQ) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Gold and Beyond](https://open.spotify.com/album/1uZvuV0Tg3te2mogqLrrVl) | 3:49 | 2025-01-20 | 2026-10-06 |
 | [Golden Moments](https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Golden Moments](https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K) | 3:28 | 2024-02-23 | 2026-01-15 |
 | [Good Morning Heartache](https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 4:56 | 2022-04-11 | 2022-08-31 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 | 2024-07-02 |
@@ -662,6 +662,7 @@
 | [Old Folks](https://open.spotify.com/track/64KGP5Prm4UmpDvKXKHhW6) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Old Folks](https://open.spotify.com/album/445g95wiQjWRCMntxXr0qS) | 4:36 | 2025-02-10 | 2025-06-06 |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-02-09 | 2023-06-23 |
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2023-02-10 |
+| [Omaha After Dark](https://open.spotify.com/track/160vY1etB0i5bj5xHKeJqg) | [The Blue Alley](https://open.spotify.com/artist/2OqSm9mH0el2YOy4V6gG6w) | [Omaha After Dark](https://open.spotify.com/album/3HovvIxFG9y4AY5m9dmcVA) | 4:34 | 2026-10-05 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 | 2025-11-15 |
 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 | 2022-04-11 | 2022-09-07 |
 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 | 2024-06-25 |
@@ -721,6 +722,7 @@
 | [Remembering You](https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Remembering You](https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o) | 3:10 | 2024-07-15 | 2024-11-19 |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 | 2025-07-02 |
 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 | 2025-07-24 |
+| [Reminiscent](https://open.spotify.com/track/1kSgVoVd7WQ6PCUDPIIRv2) | [Dean St\. Trio](https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7) | [Reminiscent](https://open.spotify.com/album/4O22cW3JN7ptjNVXYZIvoM) | 4:38 | 2026-10-05 |  |
 | [Rendezvous in Rhythm](https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Rendezvous in Rhythm](https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E) | 3:12 | 2023-11-17 | 2026-01-15 |
 | [Reutlingen](https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Reutlingen](https://open.spotify.com/album/7zRiDdpgqqLlfh6ZZ0xTMv) | 4:43 | 2023-01-19 | 2023-08-18 |
 | [Reutlingen](https://open.spotify.com/track/5IXC0ObkxCvH5i2olqCm6A) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Reutlingen](https://open.spotify.com/album/12nVEHdB9d9JjFe7wcqIrT) | 4:15 | 2024-11-25 | 2025-02-04 |

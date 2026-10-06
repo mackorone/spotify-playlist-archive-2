@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: TML Vibez
 
-537 songs - 1 day 0 hr 28 min
+538 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [AKAMOLE \- Sped Up](https://open.spotify.com/track/7uNqUG6JWpB5XRmNOAIIc7) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [AKAMOLE \(Sped Up\)](https://open.spotify.com/album/49L9HRirjSrIp3M7ccCueJ) | 2:19 | 2025-10-10 | 2025-11-07 |
 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 | 2026-01-23 | 2026-08-21 |
 | [AKPOR \- feat\. ODUMODUBLVCK, Magnito & Portable](https://open.spotify.com/track/2phrffYY0zzvRTnMiy48tb) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AKPOR \(feat\. ODUMODUBLVCK, Magnito & Portable\)](https://open.spotify.com/album/04FnxfTL8M1xuQ8BBc2iSy) | 2:38 | 2025-07-04 | 2025-08-01 |
-| [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:45 | 2026-08-21 |  |
+| [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:35 | 2026-08-21 |  |
 | [Alajo Emilokan](https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Alajo Emilokan](https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo) | 1:14 | 2022-06-29 | 2023-01-23 |
 | [Alhamdulillah](https://open.spotify.com/track/0iQbrllM4TkC8BQrk155sx) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Alhamdulillah](https://open.spotify.com/album/1V2eHcLypl1r0RcNfhNfxJ) | 2:15 | 2024-04-19 | 2024-05-24 |
 | [Alimanjiri](https://open.spotify.com/track/7nYvrKpbodXxGfYU2sMgIU) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-03-21 |
@@ -209,12 +209,13 @@
 | [Gbeff](https://open.spotify.com/track/1zr6TtMmNTTDKbyzWxybdY) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Gbeff](https://open.spotify.com/album/1YK8ApM3tX4BPjfSNgcg4U) | 2:15 | 2023-08-10 | 2023-11-03 |
 | [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 | 2026-07-17 |  |
 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 | 2022-06-29 | 2023-04-15 |
+| [Gentleman](https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:23 | 2026-10-02 |  |
 | [Giddem](https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Giddem](https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH) | 2:58 | 2024-06-21 | 2025-08-01 |
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 | 2026-01-15 |
 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 | 2024-04-19 | 2024-11-23 |
 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:59 | 2023-09-27 | 2024-04-19 |
 | [Glory Days](https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [What Would You Do Without Me](https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM) | 2:37 | 2024-05-31 | 2024-06-24 |
-| [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 | 2026-06-19 |  |
+| [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 | 2026-06-19 | 2026-10-06 |
 | [God Abeg](https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [God Abeg](https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN) | 3:10 | 2026-07-17 | 2026-08-22 |
 | [God Abeg](https://open.spotify.com/track/7pRKdVbFEZU3LkzLY1hi3g) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [God Abeg](https://open.spotify.com/album/0ukv2lTBdUDNuiRHgTV3Rk) | 3:24 | 2022-09-01 | 2023-01-27 |
 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 | 2026-02-20 | 2026-07-24 |

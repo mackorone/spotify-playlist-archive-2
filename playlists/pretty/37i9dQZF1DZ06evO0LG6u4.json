@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADw5Xw/ur5NdFzHUkC2g3Oe",
+  "snapshot_id": "asGXAAAAAADjFtpSvPKM8d3/P+SjKcBt",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 261799,
-      "name": "Devenir musicienne",
-      "url": "https://open.spotify.com/track/1OrlxOHSlotYdRyW9Rwvvn"
+      "duration_ms": 48433,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48433,
-      "name": "Le soleil",
-      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
+      "duration_ms": 261799,
+      "name": "Devenir musicienne",
+      "url": "https://open.spotify.com/track/1OrlxOHSlotYdRyW9Rwvvn"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 87608,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 80745,
+      "name": "Commande musicale",
+      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 80745,
-      "name": "Commande musicale",
-      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
+      "duration_ms": 87608,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

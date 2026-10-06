@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-394 songs - 22 hr 38 min
+395 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,8 @@
 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 | 2024-02-07 |  |
 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2024-02-07 |  |
 | [Welcome To St Tropez](https://open.spotify.com/track/2uhEXYOwmbEWH3ZEdAi0jT) | [Dj Antoine vs Timati](https://open.spotify.com/artist/6uCpLZSsr3yInW4r3xsShz), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [Welcome To St Tropez](https://open.spotify.com/album/6yoVUh5ZaKkjPLzHDvE9gh) | 3:15 | 2026-08-09 | 2026-10-04 |
-| [Welcome to St\. Tropez \(2K27\) \- DJ Antoine & Mad Mark Radio Edit](https://open.spotify.com/track/31hhekajaG0AfdPr2lYUHp) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [Welcome to St\. Tropez \(2K27\)](https://open.spotify.com/album/41HkYXomkTBZkDdlLoguLd) | 2:13 | 2026-10-03 |  |
+| [Welcome to St\. Tropez \(2K27\) \- DJ Antoine & Mad Mark Radio Edit](https://open.spotify.com/track/31hhekajaG0AfdPr2lYUHp) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [Welcome to St\. Tropez \(2K27\)](https://open.spotify.com/album/41HkYXomkTBZkDdlLoguLd) | 2:13 | 2026-10-03 | 2026-10-06 |
+| [Welcome to St\. Tropez \(2K27\) \- DJ Antoine & Mad Mark Radio Edit](https://open.spotify.com/track/6E7NeGDgIHObFpEnTNYmSk) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [Welcome to St\. Tropez \(2K27\)](https://open.spotify.com/album/25inOM6M1Vg2y0ow2u0alv) | 2:13 | 2026-10-05 |  |
 | [Welcome to St\. Tropez \- DJ Antoine & Mad Mark Remix](https://open.spotify.com/track/6dvgqazg6JxC12sAjWSHYW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ) | [Welcome to St\. Tropez](https://open.spotify.com/album/0iWdaOoaqfaUlUjPs1TF3g) | 6:14 | 2026-08-06 | 2026-08-08 |
 | [Welcome to St\. Tropez \- DJ Antoine vs\. Mad Mark Radio Edit](https://open.spotify.com/track/5DZ78SHRkKVpgD6uhmqfZK) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [WOW](https://open.spotify.com/album/1pzYoN3awhmtVLJsN3p69p) | 3:15 | 2024-02-07 | 2026-08-06 |
 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 | 2024-02-07 |  |

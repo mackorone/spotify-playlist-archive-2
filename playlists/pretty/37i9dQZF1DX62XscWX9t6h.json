@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 228509,
+  "num_followers": 228537,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Could We Be More Remixes",
-        "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
+        "name": "\u015einanay / French Disko (Lagniappe Session)",
+        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
         }
       ],
-      "duration_ms": 189480,
-      "name": "Home (anaiis Remix)",
-      "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
+      "duration_ms": 236578,
+      "name": "\u015einanay",
+      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "\u015einanay / French Disko (Lagniappe Session)",
-        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
+        "name": "Could We Be More Remixes",
+        "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
       },
       "artists": [
         {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
         }
       ],
-      "duration_ms": 236578,
-      "name": "\u015einanay",
-      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+      "duration_ms": 189480,
+      "name": "Home (anaiis Remix)",
+      "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 209925,
       "name": "Sina Vaishu",
       "url": "https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "I \u00e8s ?",
+        "url": "https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g"
+      },
+      "artists": [
+        {
+          "name": "Cocanha",
+          "url": "https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl"
+        }
+      ],
+      "duration_ms": 136040,
+      "name": "Dempu\u00e8i auriac",
+      "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Worldly World (Ohaa Uha Uha)",
         "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 186173,
       "name": "Worldly World (Ohaa Uha Uha)",
       "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "I \u00e8s ?",
-        "url": "https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g"
-      },
-      "artists": [
-        {
-          "name": "Cocanha",
-          "url": "https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl"
-        }
-      ],
-      "duration_ms": 136040,
-      "name": "Dempu\u00e8i auriac",
-      "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Dromomania",
+        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
+      },
+      "artists": [
+        {
+          "name": "Cemento Atlantico",
+          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
+        }
+      ],
+      "duration_ms": 293253,
+      "name": "Garawek khaos",
+      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Feira De Mangaio",
         "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Dromomania",
-        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
-      },
-      "artists": [
-        {
-          "name": "Cemento Atlantico",
-          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Garawek khaos",
-      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Black To The Future",
         "url": "https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
         }
       ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1295,6 +1279,22 @@
       "duration_ms": 213900,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Enkaz",
+        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 200121,
+      "name": "Enkaz",
+      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Remotely Close: Silkyway",
         "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Enkaz",
-        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 200121,
-      "name": "Enkaz",
-      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "NO ME DABA CUENTA",
-        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Luna",
-          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
-        }
-      ],
-      "duration_ms": 209304,
-      "name": "NO ME DABA CUENTA",
-      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Up from the Dust",
         "url": "https://open.spotify.com/album/54RiFl146sDKcHQr5Poi58"
       },
@@ -1491,22 +1471,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+        "name": "NO ME DABA CUENTA",
+        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
         },
         {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+          "name": "Mar\u00eda Jos\u00e9 Luna",
+          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
         }
       ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+      "duration_ms": 209304,
+      "name": "NO ME DABA CUENTA",
+      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1523,6 +1503,26 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1623,26 +1623,18 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Tanokumbia",
-        "url": "https://open.spotify.com/album/7DbNqsdFbogU9spBn4N35X"
+        "name": "Hrudja",
+        "url": "https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl"
       },
       "artists": [
         {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
-        },
-        {
-          "name": "El Dusty",
-          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
-        },
-        {
-          "name": "Black Bear",
-          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
         }
       ],
-      "duration_ms": 202060,
-      "name": "Tanokumbia",
-      "url": "https://open.spotify.com/track/1gkCspjXUHg8lYLXxKZXxt"
+      "duration_ms": 289266,
+      "name": "Jev\u00e2",
+      "url": "https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1663,18 +1655,26 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Hrudja",
-        "url": "https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl"
+        "name": "Tanokumbia",
+        "url": "https://open.spotify.com/album/7DbNqsdFbogU9spBn4N35X"
       },
       "artists": [
         {
-          "name": "Massimo Silverio",
-          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "El Dusty",
+          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Jev\u00e2",
-      "url": "https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt"
+      "duration_ms": 202060,
+      "name": "Tanokumbia",
+      "url": "https://open.spotify.com/track/1gkCspjXUHg8lYLXxKZXxt"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Ting Mong",
-        "url": "https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E"
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
       },
       "artists": [
         {
-          "name": "Dengue Fever",
-          "url": "https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5"
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
         }
       ],
-      "duration_ms": 262589,
-      "name": "Touch Me Not",
-      "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     }
   ],
   "unique_name": "Folk Fabrique",

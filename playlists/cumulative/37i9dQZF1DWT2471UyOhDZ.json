@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "decembers",
+        "url": "https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275973,
+      "name": "decembers",
+      "url": "https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1"
+    },
+    {
+      "album": {
         "name": "Devil in Your Shoes (Liquid Gold version)",
         "url": "https://open.spotify.com/album/5bTwfCnOVHtDSUjosfkZyD"
       },
@@ -7760,7 +7778,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 230866,
       "name": "Spin",
       "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"

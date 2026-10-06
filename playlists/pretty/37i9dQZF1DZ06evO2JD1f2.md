@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,771 likes - 48 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,774 likes - 48 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 47 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
 | 48 | [RICH PROBLEMS](https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:06 |
 
-Snapshot ID: `asBFgAAAAAAwujKBhDDKREnJpT4xcxo0`
+Snapshot ID: `asGXAAAAAABEbV0jwRWCJFY75tUds7/L`

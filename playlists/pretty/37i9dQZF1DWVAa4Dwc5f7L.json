@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 396586,
+  "num_followers": 396615,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqnrRwWIl8sNh36LMcAUBvq6eZ8",
+  "snapshot_id": "AAAAAFxxS4h8VwwQcRg4wbsYLEEQyR+Y",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Por Ti Amor",
-        "url": "https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5"
-      },
-      "artists": [
-        {
-          "name": "Liz",
-          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
-        }
-      ],
-      "duration_ms": 257424,
-      "name": "Por Ti Amor",
-      "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Coleccion Diamante",
         "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 255080,
       "name": "El Hombre Divertido",
       "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "Por Ti Amor",
+        "url": "https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5"
+      },
+      "artists": [
+        {
+          "name": "Liz",
+          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
+        }
+      ],
+      "duration_ms": 257424,
+      "name": "Por Ti Amor",
+      "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1255,22 +1255,6 @@
       "duration_ms": 243200,
       "name": "Est\u00e1s Enamorada",
       "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "La Faldita",
-        "url": "https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1311,6 +1295,22 @@
       "duration_ms": 265680,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "La Faldita",
+        "url": "https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx"
     },
     {
       "added_at": "2026-03-27 04:00:26",

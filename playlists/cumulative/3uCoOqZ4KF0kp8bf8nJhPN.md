@@ -4,7 +4,7 @@
 
 > 
 
-330 songs - 13 hr 5 min
+331 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blur](https://open.spotify.com/track/1CBy3jD5S8MDEI1dRyvoiu) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-03-11 |  |
 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 | 2026-04-04 |  |
 | [BOREDOM!](https://open.spotify.com/track/5dTAODGBAaEjfmyzaReN3Y) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:09 | 2024-12-06 |  |
+| [BRAND NEW BITCH!](https://open.spotify.com/track/7vYucY1kx3iwWqViZl1GGB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 2:06 | 2026-10-06 |  |
 | [BRB!](https://open.spotify.com/track/4GosLecj1wCrAdmRBVD337) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BRB!](https://open.spotify.com/album/0MA5nkZTEFn9tT4adIjfyX) | 2:53 | 2024-12-08 |  |
 | [Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6), [Schizoscriptures](https://open.spotify.com/artist/64LYhSAUT9Qa6vetuexsfQ) | [Break This The Breaking Point 2](https://open.spotify.com/album/43JCLCZathutygyC6Fhjok) | 7:27 | 2026-04-04 |  |
 | [Breathing!](https://open.spotify.com/track/74Dqn3jSYcihyBmGzumyUN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Breathing!](https://open.spotify.com/album/7007az12IqoNjw9Ouid8aW) | 1:34 | 2025-05-28 |  |

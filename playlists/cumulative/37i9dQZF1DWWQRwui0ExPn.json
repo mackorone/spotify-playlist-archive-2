@@ -51602,7 +51602,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 145000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6hDASHOG725YvUImbwcu3y"
@@ -57756,6 +57756,24 @@
       "duration_ms": 140571,
       "name": "Highway to Shell",
       "url": "https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP"
+    },
+    {
+      "album": {
+        "name": "Hike in Yosemite",
+        "url": "https://open.spotify.com/album/3CLLsPeFZbWfUUcoogRZzU"
+      },
+      "artists": [
+        {
+          "name": "Valgre",
+          "url": "https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Hike in Yosemite",
+      "url": "https://open.spotify.com/track/5W8LaDTj6jIMfMv1EmeBOM"
     },
     {
       "album": {
@@ -64554,7 +64572,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 140571,
       "name": "Iris",
       "url": "https://open.spotify.com/track/7LF4JQB1UHjcKJOe4JlJAi"
@@ -93578,7 +93596,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 126778,
       "name": "Nox Petal",
       "url": "https://open.spotify.com/track/0Ixl8bTe7WC6DBO43Og0U6"
@@ -96516,7 +96534,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 150455,
       "name": "one step at a time",
       "url": "https://open.spotify.com/track/1otNiclMDmuzocCkolwZaE"
@@ -98766,7 +98784,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 138947,
       "name": "Pale Moon",
       "url": "https://open.spotify.com/track/2wBEp6d5ErhMho6yAuZDrM"
@@ -103322,6 +103340,24 @@
       "duration_ms": 118689,
       "name": "por ti",
       "url": "https://open.spotify.com/track/71SldLC7hOSRp2hKhmWcr0"
+    },
+    {
+      "album": {
+        "name": "Porchlight",
+        "url": "https://open.spotify.com/album/7tTGz1YWFpcIf7Oy6tUldS"
+      },
+      "artists": [
+        {
+          "name": "Hazy Letters",
+          "url": "https://open.spotify.com/artist/6LJBBI622hNzaEnjCKw0Iz"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127482,
+      "name": "Porchlight",
+      "url": "https://open.spotify.com/track/5glYDYBlIbDRk2Bg0t3KA2"
     },
     {
       "album": {
@@ -114167,6 +114203,28 @@
     },
     {
       "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/5iMW6hVKbPPw0mN79oWeYy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4jGv2khMmjkAGN4yPw5n7o"
+    },
+    {
+      "album": {
         "name": "Rainy Nights",
         "url": "https://open.spotify.com/album/2pq83TfJ9u6H4PgaXRoEcK"
       },
@@ -118193,6 +118251,24 @@
     },
     {
       "album": {
+        "name": "slow sunday",
+        "url": "https://open.spotify.com/album/5C1oTUn4AbISaADuTlIDMw"
+      },
+      "artists": [
+        {
+          "name": "adrift",
+          "url": "https://open.spotify.com/artist/2AQIupBopWWkOkrIisSX78"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130217,
+      "name": "slow sunday",
+      "url": "https://open.spotify.com/track/5m2Qphg7XXd7LVKqkH3BDi"
+    },
+    {
+      "album": {
         "name": "Slow Sundays",
         "url": "https://open.spotify.com/album/4GulZE45Ry4qD6kvfftkhS"
       },
@@ -119978,7 +120054,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 138000,
       "name": "Soft Echo",
       "url": "https://open.spotify.com/track/3T4KBGHaMeLyLfzekgBCl9"
@@ -121582,7 +121658,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 114834,
       "name": "Sora",
       "url": "https://open.spotify.com/track/3jzUS5ot7khHwdyb8r25nq"
@@ -141280,7 +141356,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 107755,
       "name": "Up North",
       "url": "https://open.spotify.com/track/1WUYSyHcNEiIe1XT2LRBtP"

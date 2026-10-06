@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-613 songs - 1 day 11 hr 56 min
+614 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 | 2026-04-10 |  |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-05-16 | 2026-06-12 |
 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 | 2025-08-14 | 2026-07-17 |
-| [Make You Sweat \(feat\. Amarha\)](https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Amarha](https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh) | [Energy Crew Pt\. 2](https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ) | 3:01 | 2026-08-06 |  |
+| [Make You Sweat \(feat\. Amarha\)](https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Amarha](https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh) | [Energy Crew Pt\. 2](https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ) | 3:01 | 2026-08-06 | 2026-10-06 |
 | [make your move](https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [make your move](https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV) | 3:41 | 2026-05-21 | 2026-10-05 |
 | [Mamacita](https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2) | [Yung Omz ](https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04) | [Mamacita](https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P) | 2:08 | 2025-05-16 | 2026-06-12 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-08-26 | 2024-04-20 |
@@ -355,6 +355,7 @@
 | [Memories \(Burning in Time\)](https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Memories \(Burning in Time\)](https://open.spotify.com/album/2Lt2eRqMeVMr0ayksEh7mD) | 2:33 | 2023-06-30 | 2023-07-27 |
 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 | 2023-07-26 | 2024-04-19 |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2022-08-26 | 2023-09-01 |
+| [Mi Casa](https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Mi Casa](https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO) | 3:49 | 2026-10-01 |  |
 | [Mi Combi](https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Dany Gomez](https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt), [EMBI](https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0) | [Mi Combi EP](https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd) | 2:46 | 2026-05-14 |  |
 | [Mind Alert](https://open.spotify.com/track/69mO0n022H0cggGm85wYZw) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW) | [Mind Alert](https://open.spotify.com/album/1tnktXAiKSuqIFK6YNPOch) | 3:18 | 2026-07-01 | 2026-07-24 |
 | [Mind, Body & Soul](https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Mind, Body & Soul](https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI) | 3:17 | 2026-04-30 | 2026-07-17 |

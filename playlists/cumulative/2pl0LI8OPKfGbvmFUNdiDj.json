@@ -7039,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165723,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO"
+    },
+    {
+      "album": {
         "name": "Album, No. 1",
         "url": "https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD"
       },
@@ -10692,6 +10710,24 @@
       "duration_ms": 134462,
       "name": "Y2KBABY",
       "url": "https://open.spotify.com/track/7bS1ITQT3u1KZtPLfBZFls"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259793,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ"
     },
     {
       "album": {

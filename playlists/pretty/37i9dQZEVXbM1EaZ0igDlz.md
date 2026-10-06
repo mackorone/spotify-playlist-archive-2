@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,030 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,031 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 50 | [MO' MONEY MO' HATERS](https://open.spotify.com/track/5wNL9XBGoMjeZM3FzkpnMm) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [MO' MONEY MO' HATERS](https://open.spotify.com/album/1LxVJL1XpcvVD84ZRssFHB) | 2:22 |
 
-Snapshot ID: `MlXT4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlcuwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

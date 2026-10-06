@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-93 songs - 4 hr 36 min
+97 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [B \(Crown Chakra\)](https://open.spotify.com/track/02ileubP6RE16EKbkS4Lxk) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-07-13 | 2023-12-01 |
 | [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 | 2025-03-15 |
 | [Celestial Bliss 963 Hz](https://open.spotify.com/track/5tK3g3RTji0MkaSO9elK9H) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Celestial Bliss 963 Hz](https://open.spotify.com/album/28UQoO3St05ozzbpEGpn4y) | 3:15 | 2025-05-14 |  |
+| [Celestial Nightshade \(963 Hz\)](https://open.spotify.com/track/4c5T49zFuUBHzFsZMwTIYq) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Celestial Nightshade \(963 Hz\)](https://open.spotify.com/album/0sIKd4djb0bYUcCeuxnCtA) | 3:19 | 2026-10-05 |  |
 | [Centering exercise \- 963Hz](https://open.spotify.com/track/7hm1Ke9BbUipfI2pYuGzm3) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Centering exercise \- 963Hz](https://open.spotify.com/album/1nnNbTYiyDrz5PZ9upXiTV) | 2:32 | 2025-03-14 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 | 2026-02-24 |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |
@@ -59,6 +60,7 @@
 | [Crown Chakra Sahasrara Balancer](https://open.spotify.com/track/1ay4icpyVLgldNG8FbuhUA) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 2:06 | 2023-07-13 |  |
 | [Crown Chakra Singing Bowl](https://open.spotify.com/track/3rGpsgObsOHHO5pCG6t4r6) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:30 | 2023-07-13 |  |
 | [Crown Solfeggio 963 Hz](https://open.spotify.com/track/7EFfT9fSZNRjHHHOMaVpkJ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:50 | 2023-11-30 |  |
+| [Cyan Fields 963Hz](https://open.spotify.com/track/1FT9OOVWCpyB4SsnPULPem) | [Blue Clay](https://open.spotify.com/artist/17VVUnf65sMy4WYPbUegr9) | [Cyan Fields 963Hz](https://open.spotify.com/album/3fMAXtWuUpczozkzU6imY8) | 2:23 | 2026-10-05 |  |
 | [Deep Energy Cleansing 963 Hz](https://open.spotify.com/track/0rux7MpkP12CtygdwsQqcr) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 | 2023-07-13 |  |
 | [Dissolving Tension 963 Hz](https://open.spotify.com/track/06bjoMmEMTXh2Xv5Xp7Acu) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Dissolving Tension 963 Hz](https://open.spotify.com/album/4jfmV4UmZum9mhBTXuo4Jw) | 3:24 | 2024-05-11 |  |
 | [Divine Hemispheres 963 Hz](https://open.spotify.com/track/3lnR4q4hog4TLdisyEXS97) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Divine Hemispheres 963 Hz](https://open.spotify.com/album/4B9ApONvomSvUlR6lIiNEo) | 2:55 | 2023-07-13 |  |
@@ -71,6 +73,8 @@
 | [Letting Go](https://open.spotify.com/track/1zgTC1Bt5gimoH84HfX9Km) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Letting Go](https://open.spotify.com/album/2einESbC1mpHussGKlQyJ6) | 2:28 | 2023-07-13 |  |
 | [Lotus \(963Hz\)](https://open.spotify.com/track/6adD7Hdwn5UZHdlWPjoM3e) | [Wyndon](https://open.spotify.com/artist/1BqAkR85z3mqqeQcCaHUpa) | [Lotus \(963Hz\)](https://open.spotify.com/album/3qEPU2gGsi7boRBowYoEC4) | 2:31 | 2023-11-30 |  |
 | [Love Without Judgement](https://open.spotify.com/track/3DGqfaVcobXCuWdCw8p0Sq) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 1:19 | 2023-07-13 | 2024-03-14 |
+| [Lunar Field \(963 Hz\)](https://open.spotify.com/track/0zau2hVwoo0jv5BeaplkfH) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [Lunar Field \(963 Hz\)](https://open.spotify.com/album/1A3wHMatGj3O7X8jPdzFr4) | 2:32 | 2026-10-05 |  |
+| [Lunar Quiet 963 Hz](https://open.spotify.com/track/78GJeiono5vLQLqAEL6Ubm) | [Terra Silva](https://open.spotify.com/artist/3QcRF5A3knoVN56ZQgcvWV) | [Lunar Quiet 963 Hz](https://open.spotify.com/album/619cpIslw0QTFyNXX2hfvP) | 2:33 | 2026-10-05 |  |
 | [Miracles 963 Hz](https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Miracles 963 Hz](https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ) | 2:45 | 2023-07-13 |  |
 | [Modulation 936 Hz](https://open.spotify.com/track/1pU8MyUHJpkzSAAeRrSYJk) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [Modulation 936 Hz](https://open.spotify.com/album/5zGmJRB6wUZdSnEMCylxQX) | 2:30 | 2025-12-17 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2023-07-13 |  |

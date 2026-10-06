@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-236 songs - 17 hr 16 min
+237 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 | 2022-02-11 |  |
 | [Birth Marks](https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 2:42 | 2023-01-09 | 2025-04-03 |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2022-02-11 | 2023-01-10 |
-| [bloom](https://open.spotify.com/track/3frDiSCCOXlVbZiwbMoH3K) | [still surface](https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [bloom](https://open.spotify.com/album/00X0m3Bl3gaiYiOL8HZryn) | 1:19 | 2026-09-23 |  |
+| [bloom](https://open.spotify.com/track/3frDiSCCOXlVbZiwbMoH3K) | [still surface](https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [bloom](https://open.spotify.com/album/00X0m3Bl3gaiYiOL8HZryn) | 1:19 | 2026-09-23 | 2026-10-06 |
 | [Blues](https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Blues](https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2) | 2:52 | 2025-09-05 |  |
 | [breath under snow](https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM) | [dunsky](https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5), [danvy](https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He) | [snowlight](https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq) | 2:47 | 2026-03-20 | 2026-06-13 |
 | [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 | 2025-03-14 | 2026-08-19 |
@@ -71,6 +71,7 @@
 | [East Hastings](https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 17:58 | 2022-02-11 | 2022-03-15 |
 | [eclipse](https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc) | [Rōōh](https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB), [Symoo](https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV) | [eclipse](https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR) | 1:52 | 2026-05-15 | 2026-06-13 |
 | [Enerhodar](https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [II](https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI) | 4:27 | 2022-05-06 | 2022-11-10 |
+| [entity.](https://open.spotify.com/track/67BaHy0IDZNcw4hxCGZ7UO) | [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [in/between.](https://open.spotify.com/album/0NRiEqM3p6ytRYhlvCvA5o) | 2:10 | 2026-09-23 |  |
 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 | 2022-11-09 |  |
 | [Eternity](https://open.spotify.com/track/29NbVRFjhjmMf7HzAiU6iW) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Eternity](https://open.spotify.com/album/09W0CdJ6JTcCu2gM1BHxfN) | 1:40 | 2025-11-06 |  |
 | [Even The Horizon Knows Its Bounds VIII](https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI), [Chris Abrahams](https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK), [Jim O'Rourke](https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f) | [Even The Horizon Knows Its Bounds](https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40) | 4:21 | 2025-02-27 | 2026-09-07 |

@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Broken Social Scene
 
-288 songs - 17 hr 27 min
+289 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 | 2024-06-07 | 2024-10-19 |
 | [Hotel](https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:17 | 2023-11-03 | 2024-07-27 |
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-27 | 2025-03-08 |
+| [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 | 2026-10-05 |  |
 | [hudson \- demo](https://open.spotify.com/track/3fLSTZwKza9Wjb3wzj7K2u) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE \(5 Year Anniversary Edition\)](https://open.spotify.com/album/00xS2v4q9DUBBLlslZX6pG) | 2:50 | 2024-12-15 | 2025-03-01 |
 | [Hydroplaning Off the Edge of the World](https://open.spotify.com/track/6BLHt08Gaa41PmY07pryul) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Hydroplaning Off the Edge of the World](https://open.spotify.com/album/06lhK9JxaL50CiIP2NuXsW) | 4:49 | 2025-03-07 |  |
 | [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 | 2024-02-16 | 2025-04-02 |

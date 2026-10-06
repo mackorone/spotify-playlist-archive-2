@@ -4,7 +4,7 @@
 
 > we got it covered
 
-2,863 songs - 6 day 4 hr 55 min
+2,864 songs - 6 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2539,6 +2539,7 @@
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 | 2025-03-26 |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-09 | 2024-11-09 |
 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 | 2025-10-03 | 2025-11-29 |
+| [Things I've Learned \(So Far\) \- Tour Version](https://open.spotify.com/track/2ZOS3cr6Sx48av8h9YdAK8) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v) | [Things I've Learned \(So Far\) \- Tour Version](https://open.spotify.com/album/3hw7M3Vyu7uk5cifUlDoIN) | 2:53 | 2026-10-05 |  |
 | [Think Twice](https://open.spotify.com/track/0McFWtA8kgl5Y92yAuYgwC) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Think Twice](https://open.spotify.com/album/3H3dPvACFYGMDqLGdF8uB5) | 2:28 | 2026-09-25 |  |
 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 | 2026-01-02 | 2026-02-28 |
 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 | 2025-08-15 | 2025-10-04 |

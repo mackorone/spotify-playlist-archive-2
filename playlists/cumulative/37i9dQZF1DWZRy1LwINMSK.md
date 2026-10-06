@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AK4:20
 
-311 songs - 15 hr 51 min
+312 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ninja](https://open.spotify.com/track/1KA0rapksWOFfakg6nWxCz) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Ninja](https://open.spotify.com/album/7wzvfaRD20FC9S5yJYNlxQ) | 2:20 | 2022-05-27 | 2023-11-23 |
 | [No Days Off](https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [No Days Off](https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm) | 2:04 | 2022-01-20 | 2023-11-23 |
 | [No Puedo Volver](https://open.spotify.com/track/79KMmSTjBXjHeKK3iCKX4F) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:03 | 2022-01-20 | 2023-02-25 |
+| [NO QUIERAS SER COMO YO](https://open.spotify.com/track/1OfzQOkeM7PNHTRh8DkPrf) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [FLAITES X SIEMPRE](https://open.spotify.com/album/2erZkTGZUk95Wfuo5VY0b0) | 3:22 | 2026-10-05 |  |
 | [No Quiero Atraso](https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Rey De Los Trenches](https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX) | 3:34 | 2023-02-24 | 2026-04-25 |
 | [Norty](https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Young Kieff](https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4) | [Onward](https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc) | 2:33 | 2022-01-20 | 2025-04-26 |
 | [OG's](https://open.spotify.com/track/2LSn8p8LjO6TB7NwtXcDx8) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [OG's](https://open.spotify.com/album/19RmjPEFQq9xtamjNojLzH) | 2:16 | 2023-07-21 | 2025-06-28 |
@@ -258,7 +259,7 @@
 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 | 2022-01-20 |  |
 | [Sismo](https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sismo](https://open.spotify.com/album/4PE50mQjdk0hHwWFf2ymEB) | 2:37 | 2022-01-20 | 2024-09-14 |
 | [Sismo](https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 2:37 | 2022-08-25 | 2024-04-19 |
-| [Ski Mask](https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK) | [Queen Parker](https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ski Mask](https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba) | 1:57 | 2025-06-13 |  |
+| [Ski Mask](https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK) | [Queen Parker](https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ski Mask](https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba) | 1:57 | 2025-06-13 | 2026-10-06 |
 | [SO HIGH](https://open.spotify.com/track/452vnm4c6cCo9EZCJoOAWq) | [nick near](https://open.spotify.com/artist/718QnoFcMo3XaWS7g1Rcyx), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF) | [SO HIGH](https://open.spotify.com/album/39nLCVzGW01PMNJCDo0SCq) | 3:10 | 2024-10-04 | 2024-11-23 |
 | [SOLO DIME](https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Dj Osar](https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 3:19 | 2024-06-07 |  |
 | [South Beach](https://open.spotify.com/track/72APDBxXJYdznq3YL9iGqZ) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Déjà Vu](https://open.spotify.com/album/3uvDfKZqZaIbnFYR4qGAJa) | 3:49 | 2022-01-20 | 2022-05-28 |

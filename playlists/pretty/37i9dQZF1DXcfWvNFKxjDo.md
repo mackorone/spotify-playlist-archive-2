@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Solomun, Dom Dolla, Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,476 likes - 66 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,480 likes - 66 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [Mariô](https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Mariô](https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c) | 2:00 |
 | 3 | [Follow You Down](https://open.spotify.com/track/1muvCL0z5fPnbiLv8tyVFo) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Follow You Down](https://open.spotify.com/album/57aSWD8aD8qyosIcHN1rtD) | 3:58 |
 | 4 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
-| 5 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 5 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 6 | [Hard To be Around](https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [Hard To be Around](https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H) | 2:56 |
 | 7 | [Enter Ecstasy](https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Enter Ecstasy](https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm) | 3:03 |
 | 8 | [Say Nothing](https://open.spotify.com/track/7t2s1JIVyjP0FyQ07pFmyf) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [44030](https://open.spotify.com/album/1Rz0AZ7vubdT66WgJIR1ZD) | 2:51 |

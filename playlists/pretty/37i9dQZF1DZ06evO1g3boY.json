@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174822,
+  "num_followers": 174829,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADhaUq0mYvux7Nvi4KyHVas",
+  "snapshot_id": "asGXAAAAAADVYsMzSBgjxT+FXwaKiGp3",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicidio",
-        "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Cohen",
-          "url": "https://open.spotify.com/artist/6cylcuA3oELFDG3QboTMxD"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Eu Gosto Dela",
-      "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cohen",
+          "url": "https://open.spotify.com/artist/6cylcuA3oELFDG3QboTMxD"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Eu Gosto Dela",
+      "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barbatuques Convida",
+        "url": "https://open.spotify.com/album/1OB2x4jljcbR73eRD76M6W"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/20oJG8uVRwGEnIAejJtJ6k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
         "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbatuques Convida",
-        "url": "https://open.spotify.com/album/1OB2x4jljcbR73eRD76M6W"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/20oJG8uVRwGEnIAejJtJ6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pantera Negra",
         "url": "https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3"
       },
@@ -939,6 +939,30 @@
       "duration_ms": 199613,
       "name": "Pantera Negra",
       "url": "https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
     },
     {
       "added_at": null,
@@ -979,30 +1003,6 @@
       "duration_ms": 344373,
       "name": "A mema pra\u00e7a",
       "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
     },
     {
       "added_at": null,
@@ -1063,26 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        }
-      ],
-      "duration_ms": 162350,
-      "name": "Finado Neguim memo?",
-      "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
@@ -1107,6 +1087,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        }
+      ],
+      "duration_ms": 162350,
+      "name": "Finado Neguim memo?",
+      "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -1127,22 +1127,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
+        "name": "Quintal dos Prettos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
       },
       "artists": [
+        {
+          "name": "Prettos",
+          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
+        },
+        {
+          "name": "Magnu Sous\u00e1",
+          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
+        },
+        {
+          "name": "Maurilio de Oliveira",
+          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        },
+        {
+          "name": "Arlindinho",
+          "url": "https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq"
+        },
+        {
+          "name": "Salgadinho",
+          "url": "https://open.spotify.com/artist/1zZcaxPgRLMHbHmas2c8hR"
+        },
+        {
+          "name": "Fred Camacho",
+          "url": "https://open.spotify.com/artist/1VhCv2vQBYPF9gCtn04fiG"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
+      "duration_ms": 390002,
+      "name": "Batucada dos Nossos Tant\u00e3s - Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/069ceJiGEkMnK31CYnL08v"
     }
   ],
   "unique_name": "This Is Emicida",

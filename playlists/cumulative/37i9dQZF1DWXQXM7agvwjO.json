@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: Dabda (South Korea)",
+  "description": "Hottest indie sounds from Asia. Cover: J\u016bji (Thailand)",
   "name": ".ORG",
   "tracks": [
     {
@@ -19104,6 +19104,24 @@
       "duration_ms": 211636,
       "name": "I Felt That Insecure",
       "url": "https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM"
+    },
+    {
+      "album": {
+        "name": "As Written in the Stars",
+        "url": "https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225112,
+      "name": "I for Little Things",
+      "url": "https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK"
     },
     {
       "album": {
@@ -53434,7 +53452,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 271600,
       "name": "\u8774\u8776",
       "url": "https://open.spotify.com/track/0u9VdaUZbMmhDTaUshhcaR"

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-883 songs - 3 day 5 hr 25 min
+884 songs - 3 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Emmanuel Reloaded](https://open.spotify.com/track/6AsF3FYa3dpc31GwRPUjnF) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Emmanuel Reloaded](https://open.spotify.com/album/2xbcCQD5ATKq4Z6AYl6RfB) | 9:19 | 2025-06-06 | 2025-06-27 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2025-06-20 |
 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 | 2024-05-24 |
-| [Enough](https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [The Address](https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl) | 3:43 | 2026-08-14 |  |
+| [Enough](https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [The Address](https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl) | 3:43 | 2026-08-14 | 2026-10-06 |
 | [Enough for Me](https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Yielded](https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D) | 7:26 | 2026-04-10 | 2026-05-10 |
 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 | 2026-05-22 |
 | [EPHPHATHA](https://open.spotify.com/track/6VMUu3ZzyZ0JWxebwGHNrL) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [EPHPHATHA](https://open.spotify.com/album/3rHMJcx5EM67HGJspt7Cy1) | 9:43 | 2025-07-04 | 2025-07-29 |
@@ -665,6 +665,7 @@
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-08-16 | 2025-06-27 |
 | [Re Baeti / Pa Lweendo](https://open.spotify.com/track/63wEcQuc6bYUD4oTqxpcDs) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU), [Malcolm VX](https://open.spotify.com/artist/0ZUd7XhP6ZLBMiBEsU32jE) | [Re Baeti / Pa Lweendo](https://open.spotify.com/album/6S3pedZdhbF7ETfnJZju9O) | 3:34 | 2025-06-06 | 2025-07-11 |
 | [Ready](https://open.spotify.com/track/5xTDvjETI0M1xpqTtNqffo) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Ready](https://open.spotify.com/album/2cbzL66lCOQqfizLgD9plV) | 2:11 | 2025-05-16 | 2025-06-27 |
+| [REDEEMED](https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M), [Loveroom NextGen](https://open.spotify.com/artist/3YNm415mw4dRYhKYKui39m) | [REDEEMED](https://open.spotify.com/album/0taxK9X7Hzyhs7U14Qjc1o) | 3:29 | 2026-09-25 |  |
 | [Repairman](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 2:55 | 2026-03-13 | 2026-07-22 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-09-15 | 2024-03-16 |
 | [Revival Is Calling](https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW) | [Macwealth & The Seraphs](https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Revival Is Calling](https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK) | 8:58 | 2026-01-30 | 2026-03-22 |

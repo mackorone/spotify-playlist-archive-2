@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Osmán Música
 
-225 songs - 11 hr 27 min
+226 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Atardecer](https://open.spotify.com/track/1pw677psLc8OrOdg88Yy2E) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg) | [Atardecer](https://open.spotify.com/album/4TPFhLCLHZHSIUU1y0VCRG) | 3:16 | 2023-07-21 | 2024-08-06 |
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2024-12-12 | 2025-01-18 |
 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-09-25 |  |
+| [Beibi \- Spotify Sessions](https://open.spotify.com/track/1LxJgHd4IZbrSHnS8ET7Tw) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 3:33 | 2026-10-05 |  |
 | [Belixe](https://open.spotify.com/track/0S4w5ZBEbxYxiygvz9wWdK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2023-07-21 | 2025-08-23 |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-13 | 2024-12-13 |
 | [Boquilla](https://open.spotify.com/track/5MvgkRO7FMuA9zmJTIg2yn) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [MAREA](https://open.spotify.com/album/3P8wyyT1s7M03UDNmSKXe0) | 3:03 | 2026-09-25 |  |
@@ -74,7 +75,7 @@
 | [Eso Va](https://open.spotify.com/track/7pWRDPP0gPR02u2Ghg7szo) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk), [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM), [Jao Beats](https://open.spotify.com/artist/4Q53RDJb0LrokF4Ef2S3Wm) | [Eso Va](https://open.spotify.com/album/1DwfbspEey5BeJivtiaZ81) | 3:03 | 2025-03-14 | 2025-06-14 |
 | [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-29 | 2025-04-26 |
 | [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 | 2023-10-06 | 2024-04-19 |
-| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-07-21 |  |
+| [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-07-21 | 2026-10-06 |
 | [FERXXO EDITION](https://open.spotify.com/track/5JyzfewQ2ovt9WB03Jj12j) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:41 | 2023-10-06 | 2024-04-19 |
 | [FERXXO EDITION](https://open.spotify.com/track/1XliaOvtQuV1hoXiIik2aQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:41 | 2023-09-29 | 2026-03-19 |
 | [Flaka](https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H) | [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Flaka](https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY) | 3:37 | 2025-11-14 |  |

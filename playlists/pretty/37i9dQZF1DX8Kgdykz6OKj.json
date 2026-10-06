@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1594471,
+  "num_followers": 1594604,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "Ziplock / Rich Don't Stop",
         "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "added_at": "2026-10-02 04:02:26",
@@ -711,42 +747,6 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Cable Box",
-      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
-      },
-      "artists": [
-        {
-          "name": "ICXN",
-          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
     },
     {
       "added_at": "2026-10-02 04:02:26",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
-        "name": "PAELLA!",
-        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
-      },
-      "artists": [
-        {
-          "name": "Stoic",
-          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "PAY NO MIND",
-      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "PAELLA!",
+        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
+      },
+      "artists": [
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 152142,
+      "name": "PAY NO MIND",
+      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "BusyForYa",
         "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 214837,
       "name": "BusyForYa (feat. Planet Giza, Shibo)",
       "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2026-10-02 04:02:26",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "vitamins n minerals",
+        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 150312,
+      "name": "vitamins n minerals",
+      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "vitamins n minerals",
-        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 150312,
-      "name": "vitamins n minerals",
-      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
     },
     {
       "added_at": "2026-10-02 04:02:26",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "Boulangerie Deux",
+        "url": "https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "More Colour Money",
+      "url": "https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "Boulangerie Deux",
-        "url": "https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "More Colour Money",
-      "url": "https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9"
     },
     {
       "added_at": "2026-10-02 04:02:26",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2026-10-02 04:02:26",
       "album": {
+        "name": "Simple Days",
+        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "Simple Days",
+      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
+    },
+    {
+      "added_at": "2026-10-02 04:02:26",
+      "album": {
         "name": "Crumbs",
         "url": "https://open.spotify.com/album/2MzwwsScAKSXZk1HatdHvv"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 219570,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH"
-    },
-    {
-      "added_at": "2026-10-02 04:02:26",
-      "album": {
-        "name": "Simple Days",
-        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "Simple Days",
-      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
     },
     {
       "added_at": "2026-10-02 04:02:26",

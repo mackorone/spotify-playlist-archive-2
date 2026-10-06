@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,035 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,033 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 8 | [Resonant Strings](https://open.spotify.com/track/2hj7cpSEMt3qqjPaOPX6FO) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Resonant Strings](https://open.spotify.com/album/24hxATNKQdYiwRxwEqJGjY) | 4:00 |
 | 9 | [天球\(そら\)のMúsica](https://open.spotify.com/track/2X3zHvUVqnMX081GIXpnMi) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [天球\(そら\)のMúsica](https://open.spotify.com/album/1ypTFEY0nlC2nSl74hPNM3) | 4:39 |
 | 10 | [起死開戦](https://open.spotify.com/track/3dhWspMJASIE3VoCDpaNtw) | [millsage](https://open.spotify.com/artist/7cBKwPovugxX15beVkPZGA) | [起死開戦](https://open.spotify.com/album/71lR2BjA2FcxGwcTBTLlW4) | 3:15 |
-| 11 | [愛は衝動](https://open.spotify.com/track/1SjiVVGBcmBrkVlru5dVrF) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [愛は衝動](https://open.spotify.com/album/3XgzIioZcfjjJBtDJTjC2k) | 3:49 |
+| 11 | [ホーミー・タイッ！！](https://open.spotify.com/track/7xDPmQoY2vlr05ys49NO0j) | [一家Dumb Rock!](https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH) | [ホーミー・タイッ！！](https://open.spotify.com/album/7DDeXJyQ0yLTmy0RyjZNh6) | 3:35 |
 | 12 | [Abracadabra \- Cover](https://open.spotify.com/track/58WUQ6HgftHygkRMcEGN6c) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Abracadabra \(Cover\)](https://open.spotify.com/album/4LVOjWiWu1sgqOi33uYVAH) | 3:42 |
-| 13 | [ホーミー・タイッ！！](https://open.spotify.com/track/7xDPmQoY2vlr05ys49NO0j) | [一家Dumb Rock!](https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH) | [ホーミー・タイッ！！](https://open.spotify.com/album/7DDeXJyQ0yLTmy0RyjZNh6) | 3:35 |
+| 13 | [愛は衝動](https://open.spotify.com/track/1SjiVVGBcmBrkVlru5dVrF) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [愛は衝動](https://open.spotify.com/album/3XgzIioZcfjjJBtDJTjC2k) | 3:49 |
 | 14 | [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 |
 | 15 | [HOWLING AMBITION](https://open.spotify.com/track/2NYWu8xDb8g6Q8d6MxdmQV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [HOWLING AMBITION](https://open.spotify.com/album/6Wt3DPGwFBzlG4wjrn6eaw) | 4:18 |
 | 16 | [これはぼくたちの生存のあらすじ](https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [これはぼくたちの生存のあらすじ](https://open.spotify.com/album/1SUzJ7tRQjNDySYuJUqd26) | 3:54 |

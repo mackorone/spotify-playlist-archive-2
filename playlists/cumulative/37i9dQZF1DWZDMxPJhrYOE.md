@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,298 songs - 2 day 19 hr 41 min
+1,299 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [4 Øjne](https://open.spotify.com/track/2jHOgrwS8zgTBlH93u7Hc5) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ), [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [4 Øjne](https://open.spotify.com/album/5DGlWiMdZ2OeU3s31uTpE9) | 3:24 | 2025-01-24 | 2025-02-07 |
 | [4:44](https://open.spotify.com/track/2v28o9UzJpaFVxtJqH25XN) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [4:44](https://open.spotify.com/album/7nj291ovgMINOO9owFsM2o) | 1:57 | 2025-01-24 | 2025-01-26 |
 | [4Life](https://open.spotify.com/track/4LeniRFvwcdR2PSBfSuAxA) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [4Life](https://open.spotify.com/album/7jn2X2VAW52JXzShOYTkcJ) | 3:02 | 2025-09-04 | 2025-09-20 |
+| [9 Liv](https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [9 Liv](https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK) | 1:55 | 2026-09-25 |  |
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-07-01 | 2024-09-20 |
 | [9mm](https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [9mm](https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK) | 3:30 | 2026-08-28 |  |
 | [A Better World](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [A Better World](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 | 2025-06-12 | 2025-07-30 |
@@ -248,7 +249,7 @@
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-27 | 2025-05-23 |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-06-19 | 2025-07-02 |
 | [Den Danske Sommer \(feat\. Birthe Kjær\)](https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Birthe Kjær](https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5) | [Den Danske Sommer \(feat\. Birthe Kjær\)](https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw) | 2:25 | 2026-04-09 | 2026-06-27 |
-| [den forbandede kærlighed](https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [den forbandede kærlighed](https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi) | 2:51 | 2026-08-20 |  |
+| [den forbandede kærlighed](https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [den forbandede kærlighed](https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi) | 2:51 | 2026-08-20 | 2026-10-06 |
 | [Den Her Sang \(Handler Ik' Om Dig\)](https://open.spotify.com/track/3O5RYuqcJBigWD7umWGSuc) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Den Her Sang \(Handler Ik' Om Dig\)](https://open.spotify.com/album/7ukvOXEPw0GKO9orenZldH) | 3:27 | 2026-05-28 | 2026-06-05 |
 | [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 | 2026-02-12 | 2026-02-27 |
 | [Den Værste \(feat\. Lamin\)](https://open.spotify.com/track/52IGdLdV9AZVcRzr2MHvjr) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Den Værste \(feat\. Lamin\)](https://open.spotify.com/album/6OLWOyGE6bq4rd2f1g7G4s) | 2:40 | 2025-05-29 | 2025-06-13 |

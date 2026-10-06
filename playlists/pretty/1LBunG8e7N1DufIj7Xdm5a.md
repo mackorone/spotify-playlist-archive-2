@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,910 songs - 11 day 2 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,914 songs - 11 day 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4918,5 +4918,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4908 | [Let It Bleed](https://open.spotify.com/track/0cBiwdu8dD69h2UweTcH59) | [Tony Ray Pace](https://open.spotify.com/artist/190f4z8As3hYZggN6JiHd4) | [Let It Bleed](https://open.spotify.com/album/35CImHdxIif3BJWXA4zzJl) | 4:34 |
 | 4909 | [The Loudest Cry](https://open.spotify.com/track/5kAO7qQNE2B4VqXqMGoxFC) | [Fabian Engelhardt Suno AI Music](https://open.spotify.com/artist/4QraHGMu9reMvbQFUzpi7T), [Suno AI Music](https://open.spotify.com/artist/08QF0s09VdFPjKDTYaJviE) | [Between Moments & People](https://open.spotify.com/album/4nuNxooAoPlY1P9AsQ6M7D) | 3:42 |
 | 4910 | [Bring Your Love Back](https://open.spotify.com/track/6Xo4ctpvfZLP86LGWW7lqo) | [Jeffrey Bo Charles](https://open.spotify.com/artist/20TfmujUZ2RDH6RolTMtHF) | [Bring Your Love Back](https://open.spotify.com/album/7jYLY6zSZa8ZViS9sbylKt) | 3:59 |
+| 4911 | [Let Me Go](https://open.spotify.com/track/3aijmSI95NV61VNQoIYNgl) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Let Me Go](https://open.spotify.com/album/65AC0ewgLffUCSyF5yTALU) | 3:10 |
+| 4912 | [No quiero estar solo nunca más](https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl) | [Blackstonia](https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR) | [Días Mejores](https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx) | 3:24 |
+| 4913 | [24/7](https://open.spotify.com/track/1uY5WRATMThxmTSpofWjp4) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 3:23 |
+| 4914 | [Only If](https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q) | [GRG T](https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd) | [Only If](https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n) | 1:40 |
 
-Snapshot ID: `AAAKaoRUhDKHAHa3QHdPImC9lN5ha9gu`
+Snapshot ID: `AAAKbtOqg1O11dE9anfDHFli7XFT7lTE`

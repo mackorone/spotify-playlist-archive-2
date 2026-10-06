@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Murat Dalkılıç
 
-751 songs - 1 day 14 hr 13 min
+752 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Mahalleler](https://open.spotify.com/track/62sdF5BIMtzpc3DU4CgfU1) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Mahalleler](https://open.spotify.com/album/6N1O1TTR94Fhm3pWeoqQqu) | 2:32 | 2026-09-29 |  |
 | [Mavi Boncuk](https://open.spotify.com/track/30jTzuGmvdEEGyslBTTAcK) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Mavi Boncuk](https://open.spotify.com/album/4Hs7lpH4O30GL6im3efQmL) | 2:34 | 2025-11-13 | 2025-11-28 |
 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 | 2025-05-27 | 2025-09-06 |
+| [MAYDAY](https://open.spotify.com/track/44jUg7qjow5TpR3TIneGrC) | [Besti](https://open.spotify.com/artist/5F8ukinyiwap9dQv4XVkm5) | [MAYDAY](https://open.spotify.com/album/2v90BXAVypob3OJgRkt1Of) | 2:08 | 2026-09-29 |  |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 | 2025-01-20 |
 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-26 | 2026-06-27 |
 | [Mecburi İstikamet](https://open.spotify.com/track/4JEprDdXZFgeQE65LYkFHa) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Mecburi İstikamet](https://open.spotify.com/album/6r5IgaWLedwtUYVmTqyrcZ) | 3:33 | 2026-07-02 | 2026-07-13 |
@@ -649,7 +650,7 @@
 | [Yakacak Belli](https://open.spotify.com/track/5Ra1k4mBQjP2NPk5NX5Pbq) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Yakacak Belli](https://open.spotify.com/album/3ZWj5U8qZf8RNvsSUkI76x) | 2:48 | 2024-06-27 | 2024-07-25 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-06-27 | 2024-12-21 |
 | [Yalancı Şahidim \- Live](https://open.spotify.com/track/6zQZla6Gu8FBPUVpWHGQdX) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yalancı Şahidim \(Live\)](https://open.spotify.com/album/3qMNGwXXt31nA7k9jllSw9) | 3:58 | 2026-04-03 |  |
-| [Yalnızlar Treni](https://open.spotify.com/track/0pC8VeFnVbkF9tO921ZPZJ) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [PLAYLIST](https://open.spotify.com/album/5Ub5DA1P5U15uggSORLe8E) | 3:10 | 2026-09-03 |  |
+| [Yalnızlar Treni](https://open.spotify.com/track/0pC8VeFnVbkF9tO921ZPZJ) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [PLAYLIST](https://open.spotify.com/album/5Ub5DA1P5U15uggSORLe8E) | 3:10 | 2026-09-03 | 2026-10-06 |
 | [YALVARIYO](https://open.spotify.com/track/0MTpRe0w1AOn5TlzrbVDYP) | [Ecrin Su Çoban](https://open.spotify.com/artist/13trRHQvVRg3Zu4TuVJdGH) | [YALVARIYO](https://open.spotify.com/album/4kdyofWcuGB9dP24zeruLQ) | 2:24 | 2026-06-29 | 2026-07-24 |
 | [Yan](https://open.spotify.com/track/41c2gJ18n7v8STRgPl19x4) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Yan](https://open.spotify.com/album/73OiuhV8bIHNsSbdBMAF4A) | 3:10 | 2025-10-09 | 2025-11-14 |
 | [Yan Ulan Yan](https://open.spotify.com/track/4keyTjLtympG8GMGH2ITUM) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Yan Ulan Yan](https://open.spotify.com/album/6XnHf2NpkzAXS0wG5paTU2) | 2:25 | 2025-10-23 | 2025-11-24 |

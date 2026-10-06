@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 594324,
+  "num_followers": 594429,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/6oO0Y4DCsJVCJ4RAj56snX"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 189100,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/2cqxedldJT5vfjverE1n18"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "zombie",
         "url": "https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 131433,
       "name": "zombie",
       "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/6oO0Y4DCsJVCJ4RAj56snX"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 189100,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/2cqxedldJT5vfjverE1n18"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Party Favors",
         "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
       },
@@ -2439,26 +2455,6 @@
       "duration_ms": 149283,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     }
   ],
   "unique_name": "teen angst",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。なとり, Eve, RADWIMPS, imase,  Victoria Monét and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,838 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,867 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 39 | [類友SWAG](https://open.spotify.com/track/2Kpc97Go1wV508qLBK5ilz) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva) | [SIDE](https://open.spotify.com/album/5bDCBmSExDKJCgIlHzG4jz) | 2:33 |
 | 40 | [Party Shhh](https://open.spotify.com/track/1JYKO6urmayZnDaghAwUBv) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Party Shhh](https://open.spotify.com/album/31AN6f9PDSzZ690Ewg9Bsb) | 2:07 |
 | 41 | [After Summer](https://open.spotify.com/track/2R9BkDcdVgzsUhDa063sXW) | [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd), [Rashel](https://open.spotify.com/artist/7asBfEyd6XdZfC3agkULGl) | [After Summer](https://open.spotify.com/album/5oObnSfrkcEvzLnjTx6hL7) | 3:28 |
-| 42 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 42 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 43 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
 | 44 | [Pang Pang Pang](https://open.spotify.com/track/17upXStU80To2HOMpCdn8t) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Pang Pang Pang](https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3) | 2:45 |
 | 45 | [Angels On The Dancefloor \- 原口沙輔 Remix](https://open.spotify.com/track/7hG05KUtEH0zKoeSPaFrKu) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [Angels On The Dancefloor \(原口沙輔 Remix\)](https://open.spotify.com/album/0TRYfCDcPHuNPlNkE3iUZA) | 4:40 |

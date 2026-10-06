@@ -5534,7 +5534,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 157830,
       "name": "Dreams in Blue",
       "url": "https://open.spotify.com/track/4C6M1M5EkA5XABc7ol3EEz"
@@ -13768,7 +13768,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 170232,
       "name": "Midnight Memories",
       "url": "https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS"
@@ -15082,7 +15082,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 164000,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/2NRILkVKGzv1DDTumMgKYV"
@@ -18326,7 +18326,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 277309,
       "name": "Sliding Slowly Down",
       "url": "https://open.spotify.com/track/2e7Jwp0KMRGaevIte08Xve"
@@ -18780,6 +18780,24 @@
       "duration_ms": 150597,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj"
+    },
+    {
+      "album": {
+        "name": "Some Odd Change",
+        "url": "https://open.spotify.com/album/1bbEtbHe2WkoFu9V8hcyDh"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183177,
+      "name": "Some Odd Change",
+      "url": "https://open.spotify.com/track/7tpgPSiI2VrpFjRBEllagv"
     },
     {
       "album": {
@@ -21753,6 +21771,24 @@
     },
     {
       "album": {
+        "name": "These golden hours",
+        "url": "https://open.spotify.com/album/4FebmPakVxBEEwxlFIahRU"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Static",
+          "url": "https://open.spotify.com/artist/1tlwlaELqls4v44QERlHXk"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "These golden hours",
+      "url": "https://open.spotify.com/track/6iYgadSbE7DVEKGsk3D2ld"
+    },
+    {
+      "album": {
         "name": "They Said",
         "url": "https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t"
       },
@@ -24133,6 +24169,24 @@
     },
     {
       "album": {
+        "name": "Where the light remains",
+        "url": "https://open.spotify.com/album/3buNHdihVOzlNHjR1ahl95"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174627,
+      "name": "Where the light remains",
+      "url": "https://open.spotify.com/track/2uKb3Q2OfbfHMI8dtVXWnP"
+    },
+    {
+      "album": {
         "name": "Where Two Oceans Meet",
         "url": "https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw"
       },
@@ -24588,6 +24642,24 @@
       "duration_ms": 221392,
       "name": "Worry and Gossip",
       "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
+    },
+    {
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/1JuJlQOkOEb8qHk0eEleWI"
+      },
+      "artists": [
+        {
+          "name": "The Side Street Trio",
+          "url": "https://open.spotify.com/artist/65exyUswWei3q7wX4fQaDD"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202875,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3KJsKPwU0kQIq8guLpD52p"
     },
     {
       "album": {

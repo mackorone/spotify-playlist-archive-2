@@ -4,7 +4,7 @@
 
 > Apne mulk ki homegrown hits 🎶 Cover: Izzchughtai, Hasan Raheem, Umair
 
-346 songs - 23 hr 31 min
+349 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Ayi Re](https://open.spotify.com/track/22ooMzKVXhRR1ou7h3ALDo) | [Haniya Aslam](https://open.spotify.com/artist/2erxv4mbd7CpiGRrDw08s1) | [Ayi Re](https://open.spotify.com/album/3xSJ9hkLkXbv2TFXhrWYi9) | 4:17 | 2024-08-16 | 2024-08-20 |
 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 | 2023-05-04 | 2023-11-30 |
 | [Baat \(From "Meem Se Mohabbat"\)](https://open.spotify.com/track/4yQQJ9Tj3DDYG3zgHhEgtq) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Qirat Haider](https://open.spotify.com/artist/1wY7OsIekAW9BGIPnPRinW) | [Baat \(From "Meem Se Mohabbat"\)](https://open.spotify.com/album/4RcxIGslWPqZJ4XgzmVyci) | 3:22 | 2025-04-11 |  |
+| [baemisaal](https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [MADEMEN](https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W) | 2:49 | 2026-10-05 |  |
 | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/6TuHcNdYaKoV3bnKtJCTnq) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/6Gfgfm8Ubbhmic7Bkhl5oQ) | 8:44 | 2026-03-06 | 2026-03-14 |
 | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Atta Ullah Khan Esakhelvi](https://open.spotify.com/artist/5goEfEtiQpnBEZBfGGeCrL) | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/album/22RiQmJXIj68bbqOUNlVAm) | 3:22 | 2024-05-06 | 2024-06-15 |
 | [Beby](https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 3:03 | 2023-11-13 | 2023-11-30 |
@@ -130,6 +131,7 @@
 | [Hoor](https://open.spotify.com/track/2tmlxsN78o0hR1CXuKhBpT) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/5bXnPJlYCuUK5JngUgRx3h) | 3:30 | 2026-08-07 |  |
 | [Hum](https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Hum](https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f) | 4:35 | 2026-01-28 |  |
 | [Humsafar](https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Humsafar \(2011\)](https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH) | 6:21 | 2023-12-29 | 2024-12-20 |
+| [Hun Ishq Main](https://open.spotify.com/track/4B4aEVKwc2ZQUwkQaodceV) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/2DWyg29G3hZ8WaHhyzDWuf) | 5:48 | 2026-10-05 |  |
 | [Hun Ishq Main](https://open.spotify.com/track/5tHkXCQ2abWE8TSPFZiNmU) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 5:48 | 2026-08-07 |  |
 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 | 2024-01-12 | 2024-04-27 |
 | [Ik Lamha](https://open.spotify.com/track/3foRjN56V1B3ihuiXq0a57) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/3vTQGdTHilFb21CPgH4xVd) | 4:18 | 2024-12-04 | 2026-07-09 |
@@ -278,6 +280,7 @@
 | [Roshni](https://open.spotify.com/track/26nFx234x1u8akj122pdpK) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Roshni](https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS) | 3:46 | 2026-01-02 | 2026-01-17 |
 | [Rung](https://open.spotify.com/track/6ProxDWSLnmYbmvSIRElWy) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4), [DJ Abdur](https://open.spotify.com/artist/0JM3R8J6hjJmu8PavauSXZ), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Rung](https://open.spotify.com/album/7oxZeYRSW8clprQQFjkHWR) | 2:52 | 2026-01-28 | 2026-07-09 |
 | [Saamnay](https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saamnay](https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA) | 3:44 | 2026-08-07 |  |
+| [Sadaayein](https://open.spotify.com/track/1a2mSdWOWMcdXiohlzuo6S) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Sadaayein](https://open.spotify.com/album/5Ax9kqM4sClgQGx4U6fqU2) | 3:42 | 2026-10-05 |  |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-02 | 2026-07-09 |
 | [Safar](https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:36 | 2026-01-28 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2023-05-04 | 2023-11-30 |

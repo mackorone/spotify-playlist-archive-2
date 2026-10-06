@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,471 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,487 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 85 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 |
 | 86 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |
 | 87 | [AY PAPI](https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk) | [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW) | [AY PAPI](https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw) | 2:51 |
-| 88 | [La Bamba](https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz) | [MESSINA.](https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV), [Rawling](https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J) | [La Bamba](https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U) | 3:17 |
-| 89 | [Vida](https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc) | [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Lina Torres](https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1) | [Vida](https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI) | 2:32 |
+| 88 | [Vida](https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc) | [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Lina Torres](https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1) | [Vida](https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI) | 2:32 |
+| 89 | [La Bamba](https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz) | [MESSINA.](https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV), [Rawling](https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J) | [La Bamba](https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U) | 3:17 |
 | 90 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 |
 | 91 | [Bandolera](https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Junior Black](https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa) | [Bandolera](https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp) | 1:57 |
 | 92 | [Rave En La Favela](https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Rave En La Favela](https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8) | 3:14 |

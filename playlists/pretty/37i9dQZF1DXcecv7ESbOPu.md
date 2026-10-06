@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Fanny Avonne, Norlie & KKV och Yasin med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,487 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,485 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [The Allfather Awakes](https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Allfather Awakens](https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh) | 4:36 |
 | 73 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 |
 | 74 | [GOLD](https://open.spotify.com/track/4T0q23JRKupWYnEhcZrDxf) | [valdemar](https://open.spotify.com/artist/0zsCCIP0zUM5C23JenI6tK), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [GOLD](https://open.spotify.com/album/0wokC2Q1Y6pOzvd4J8Y0LR) | 2:50 |
-| 75 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 75 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 76 | [Tiempo](https://open.spotify.com/track/2Lr5mPexAb08HvsmvTld3Z) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Luna / Tiempo](https://open.spotify.com/album/5HnB8emh10lkcils8vldh6) | 2:53 |
 | 77 | [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 |
 | 78 | [curbstone](https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [curbstone](https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt) | 3:19 |

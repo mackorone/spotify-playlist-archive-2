@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,722 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,736 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 8 | [OMG](https://open.spotify.com/track/7o4dOF2LuipnxcbEucdGr3) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [OMG](https://open.spotify.com/album/3eM0GofwEvCxvyxE1SCoG9) | 2:57 |
 | 9 | [Ma Che Bella Compagnia](https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij) | [Melania](https://open.spotify.com/artist/4BgqxhBc4xQYh4LtvsdY1j), [Christian Lisi](https://open.spotify.com/artist/2Y5F7YnM8WtYuFgedTtrXW) | [Ma Che Bella Compagnia](https://open.spotify.com/album/6mMymPze76dt6udn3DvpID) | 3:01 |
 | 10 | [Cuba Libre](https://open.spotify.com/track/4EFIYY4k3beAWgukY7iCck) | [Nico LaOnda](https://open.spotify.com/artist/0Yca831vR8H4lvXhY6Rfzu) | [Champagne](https://open.spotify.com/album/6EOcGdRD5VFGuR6qPiOeZ4) | 3:26 |
-| 11 | [LA VITA FANTASTICA](https://open.spotify.com/track/62IdygzDY2CmGEMdmvJHNM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK) | [LA VITA FANTASTICA](https://open.spotify.com/album/0Skc8jyzlIslNW6KVZWCiS) | 4:16 |
+| 11 | [LA VITA FANTASTICA](https://open.spotify.com/track/62IdygzDY2CmGEMdmvJHNM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Adriana Salomone](https://open.spotify.com/artist/6xhMaKpL7JwWrFw3FyEw6H) | [LA VITA FANTASTICA](https://open.spotify.com/album/0Skc8jyzlIslNW6KVZWCiS) | 4:16 |
 | 12 | [A Roma tutto è bello](https://open.spotify.com/track/0wT5Q5UGDgZI1uTrzjnLJp) | [Miranda Martino](https://open.spotify.com/artist/5Tu7KEsiLMT7gyi8Dvg6FO) | [Fabio Fabor \- My Italian Songs \(1957\-1969\)](https://open.spotify.com/album/0vNTLULbQZ16Fs5jXpM6u1) | 2:37 |
 | 13 | [Neon Love](https://open.spotify.com/track/2znErVMpsu5a33QDURUPZR) | [Odessa](https://open.spotify.com/artist/4w1COmCanj5j09M36UcwbE), [Deville](https://open.spotify.com/artist/6r2soKLzCXh4AePvgi4oSR) | [Neon Love](https://open.spotify.com/album/3nHKhzoHT0MvDSA3WIHQg5) | 2:24 |
 | 14 | [Mille incendi \(Bonus Track\)](https://open.spotify.com/track/7qg29LkEgjwzWxI5Waw9OP) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H) | [Sabbia](https://open.spotify.com/album/41N0AYZisNnoKPwdUflPD7) | 3:37 |

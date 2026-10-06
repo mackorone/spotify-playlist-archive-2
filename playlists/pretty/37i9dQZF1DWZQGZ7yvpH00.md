@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Compa Steve y Adriel Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,571 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,532 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 18 | [Sad Rockstar Nights](https://open.spotify.com/track/5ntQJGdwGPa0s8dviBHZs2) | [Jerold](https://open.spotify.com/artist/636inJTjso0ZCSifE4d3mH) | [Sad Rockstar Nights](https://open.spotify.com/album/170igkvAR7E6pEUIZ5XsD1) | 3:25 |
 | 19 | [HD](https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [HD](https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC) | 3:13 |
 | 20 | [Ella Es](https://open.spotify.com/track/1lNYu8zwRXUwI9YtxH0vBV) | [TACH](https://open.spotify.com/artist/2xoC488qPVU6XiNV9vjhGZ) | [Ella Es](https://open.spotify.com/album/5Rgc8Lpwc44vtzn7RR5MZx) | 4:00 |
-| 21 | [Sin Ti \- En Vivo](https://open.spotify.com/track/7cYydjujCY4R9buRk9kTM3) | [Fiesta Fresh](https://open.spotify.com/artist/1TuugS1XFnJjtrUNPFI6Br) | [Santy Y Su Estilo Unico \| Mercadito \(En Vivo\)](https://open.spotify.com/album/4JEyoZ0iJbSp6DWeYrDApl) | 2:46 |
+| 21 | [Sin Ti \- En Vivo](https://open.spotify.com/track/7cYydjujCY4R9buRk9kTM3) | [Fiesta Fresh](https://open.spotify.com/artist/1TuugS1XFnJjtrUNPFI6Br), [Santy Y Su Estilo Unico](https://open.spotify.com/artist/3ItLLyfyHmiI9jX0uIQijy), [Nueva Ilusion](https://open.spotify.com/artist/6ovjbMjL8ESfuYW4I8awxA) | [Santy Y Su Estilo Unico \| Mercadito \(En Vivo\)](https://open.spotify.com/album/4JEyoZ0iJbSp6DWeYrDApl) | 2:46 |
 | 22 | [CASI TÚ](https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [CASI TÚ](https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn) | 2:37 |
 | 23 | [Atención](https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 4:13 |
 | 24 | [MI CUERNO](https://open.spotify.com/track/7uudc322twEMQnJiFL1KNL) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Yng H](https://open.spotify.com/artist/73fECKkmLG1JhM4FeWmOib), [KVYN](https://open.spotify.com/artist/1xznCruZ0AWbDzsPXTX3d6) | [MI CUERNO](https://open.spotify.com/album/21GlXlFLPqtfNaBjQi0gAk) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2026\. Cover: ARIA VEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,172 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,173 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 7 | [ENTRE TU Y YO](https://open.spotify.com/track/5qWf1WJSGYDCdRQSCdE9Wg) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ENTRE TU Y YO](https://open.spotify.com/album/0j2ddnXXH8srvVx8A9s1op) | 3:41 |
 | 8 | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw) | 2:53 |
 | 9 | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL) | 3:28 |
-| 10 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
-| 11 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
+| 10 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
+| 11 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
 | 12 | [Hombre De Bien](https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Hombre De Bien](https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3) | 3:01 |
 | 13 | [Mar Azul](https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mar Azul](https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH) | 3:41 |
 | 14 | [After \(feat\. Young Miko\)](https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [After \(feat\. Young Miko\)](https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq) | 3:09 |

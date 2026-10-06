@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,189 likes - 28 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,214 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 16 | [wn up](https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn up](https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl) | 3:23 |
 | 17 | [all fours \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:11 |
 | 18 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
-| 19 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
-| 20 | [lord i've tried](https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [lord i've tried](https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa) | 1:46 |
+| 19 | [lord i've tried](https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [lord i've tried](https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa) | 1:46 |
+| 20 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 21 | [rather never love again](https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 5:26 |
 | 22 | [stand on it](https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:33 |
 | 23 | [wn way or another](https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn way or another](https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q) | 2:10 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 27 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 |
 | 28 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `asBFgAAAAAAwI09D8arIMRxGnLE8U0b8`
+Snapshot ID: `asGXAAAAAAA3CzJYJbk9L0g0hQnoT89K`

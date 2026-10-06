@@ -4,7 +4,7 @@
 
 > 
 
-2,155 songs - 5 day 4 hr 29 min
+2,156 songs - 5 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1432,6 +1432,7 @@
 | [Pushin' against a Stone](https://open.spotify.com/track/0BikvdxnBECsZwa5avyplB) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 5:14 | 2026-08-07 |  |
 | [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2026-03-25 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:54 | 2026-07-04 |  |
+| [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 | 2026-10-05 |  |
 | [Put Me Through It](https://open.spotify.com/track/05iiUswjL7bPTeAcOfcIGR) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:03 | 2026-07-04 |  |
 | [Pyramids](https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 9:52 | 2026-09-08 |  |
 | [Quartet at the Ballet](https://open.spotify.com/track/670Te259H79f3TiiEgzd2B) | [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4), [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw), [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT), [Ramin Karimloo](https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 3:45 | 2025-10-11 |  |

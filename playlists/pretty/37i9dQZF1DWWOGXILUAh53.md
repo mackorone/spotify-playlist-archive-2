@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,647 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,786 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't In LA \- Coachella 2016 Remix](https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Ain't In LA \(Coachella 2016 Remix\)](https://open.spotify.com/album/6V4OIUUSIuf6Hfx9lbYVMG) | 2:50 |
-| 2 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 2 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 3 | [Twice As Nice](https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Twice As Nice](https://open.spotify.com/album/4y0R1nqcF9uKO9zjKCFUAU) | 2:52 |
 | 4 | [Hard To be Around](https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [Hard To be Around](https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H) | 2:56 |
 | 5 | [Need That Love](https://open.spotify.com/track/5naE2RTuFzv12BDWROZCSL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Need That Love](https://open.spotify.com/album/61s6hSUjCklbKFsw1Pmmx1) | 2:36 |

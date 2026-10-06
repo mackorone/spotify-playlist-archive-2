@@ -9047,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af",
+        "url": "https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "\u50d5\u3092\u305d\u3093\u306a\u76ee\u3067\u898b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo"
+    },
+    {
+      "album": {
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
       },

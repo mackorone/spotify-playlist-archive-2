@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122580,
+  "num_followers": 122583,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVzAgMCJtHcKVvgpXSuq73liW56L/c",
+  "snapshot_id": "AAAVz42JYq0fK/meq3JjjADs5dWyQqs5",
   "tracks": [
+    {
+      "added_at": "2026-10-05 14:26:15",
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 222827,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0"
+    },
     {
       "added_at": "2026-10-02 15:06:24",
       "album": {
@@ -1179,90 +1199,6 @@
       "duration_ms": 138226,
       "name": "a different self, not this time - Ward Wills Remix",
       "url": "https://open.spotify.com/track/2xvYN1qrV3JPsyT8ZwLQPS"
-    },
-    {
-      "added_at": "2026-06-24 15:24:17",
-      "album": {
-        "name": "Heart On Fire",
-        "url": "https://open.spotify.com/album/3jLewI3rO5Vu4je8lZzh2P"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/71DcFIQWfKtNE4mr13dv7G"
-    },
-    {
-      "added_at": "2026-06-22 14:48:41",
-      "album": {
-        "name": "TECHNO BOY TECHNO GIRL",
-        "url": "https://open.spotify.com/album/300fnPP9Amw0HZDhCTbygY"
-      },
-      "artists": [
-        {
-          "name": "MNK",
-          "url": "https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        },
-        {
-          "name": "Mashd N Kutcher",
-          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
-        }
-      ],
-      "duration_ms": 150083,
-      "name": "TECHNO BOY TECHNO GIRL",
-      "url": "https://open.spotify.com/track/5TxE9ha36lh7c5m8UtAA5n"
-    },
-    {
-      "added_at": "2026-06-22 14:48:03",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/18dWMm2DXRXFIhjIaFU3Wb"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 227327,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
-    },
-    {
-      "added_at": "2026-06-18 14:21:17",
-      "album": {
-        "name": "End of the Universe",
-        "url": "https://open.spotify.com/album/6sHp3WiM6GvWx1sTrl2bxb"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 252659,
-      "name": "find cagescript",
-      "url": "https://open.spotify.com/track/1zPfLq3eoKm2auisFPCIxS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

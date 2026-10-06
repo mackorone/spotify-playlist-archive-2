@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-214 songs - 12 hr 16 min
+215 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 | 2022-05-11 | 2026-04-09 |
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-17 |  |
+| [Love Story](https://open.spotify.com/track/3fTsOMpID9fwiu2SPBy5Kd) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Strange Hero \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4WRhl8GSpgADqxn7XZjL7Z) | 3:19 | 2026-04-25 |  |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-05-11 | 2022-07-27 |
 | [Lovestruck](https://open.spotify.com/track/6XDITtqHGbwGabvBRoVDIV) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Lovestruck](https://open.spotify.com/album/333YGW1Uy6WEOe79iQi1Yn) | 3:12 | 2025-04-22 | 2026-03-04 |
 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-09 | 2026-02-25 |
@@ -151,7 +152,7 @@
 | [Spring Day](https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) | 4:34 | 2022-05-11 | 2022-07-29 |
 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 | 2022-07-04 | 2024-04-19 |
 | [Spring Day](https://open.spotify.com/track/5AkCOaaVZ7GQoKnH3cRxg9) | [HAN HYE RI](https://open.spotify.com/artist/3Puh5THs0wd7lu8Ecr3x0P) | [Spring Day](https://open.spotify.com/album/10XrrbDSCPH6W8sJo1nTRK) | 3:22 | 2022-05-11 | 2022-07-28 |
-| [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 | 2022-05-11 |  |
+| [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 | 2022-05-11 | 2026-10-06 |
 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 | 2022-07-04 | 2024-04-19 |
 | [Spring Flowers](https://open.spotify.com/track/63tzhE9woGEnPVhgWzUTtk) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:36 | 2022-05-11 | 2022-07-29 |
 | [Spring has come](https://open.spotify.com/track/3DiFdxy4BRNL1obLqYNDh5) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Song of spring](https://open.spotify.com/album/6wSoAwQbrwKlOn4yroa1CP) | 3:23 | 2022-06-09 | 2022-06-27 |

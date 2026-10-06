@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 70790,
+  "num_followers": 70833,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADrYuIoBMa3dsxUKWmlJqj8",
+  "snapshot_id": "asGXAAAAAACAoa8iMjz9gvzSNZizijWc",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
+      "duration_ms": 165213,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 165213,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
     },
     {
       "added_at": null,

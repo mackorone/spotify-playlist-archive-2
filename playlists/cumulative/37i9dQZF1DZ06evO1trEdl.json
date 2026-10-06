@@ -1726,10 +1726,28 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 274240,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Shades of Green",
+      "url": "https://open.spotify.com/track/3otLXwCQzIHqLxxoHKTXiJ"
     },
     {
       "album": {

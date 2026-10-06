@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAACwFz6sBOm7wiAME7RwRUCY",
+  "snapshot_id": "asGXAAAAAADmiEHiT69Oq4WcAbm2JqLs",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Between My Teeth",
+        "url": "https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 196093,
+      "name": "Between My Teeth",
+      "url": "https://open.spotify.com/track/07FNKVJKWX08paQiethhD0"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
       "duration_ms": 209009,
       "name": "Favourite Idiot",
       "url": "https://open.spotify.com/track/28cnoaz5QC9u0ZY2xSZiCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between My Teeth",
-        "url": "https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Between My Teeth",
-      "url": "https://open.spotify.com/track/07FNKVJKWX08paQiethhD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 211693,
       "name": "Simple",
       "url": "https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 215694,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/1XFxLlYuWdebo6hgczaVDu"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 207554,
       "name": "The Way It Was",
       "url": "https://open.spotify.com/track/6qfCB4EzLd4K5XZgV1RQ3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 215694,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/1XFxLlYuWdebo6hgczaVDu"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Oh GOD",
-      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 177588,
       "name": "The Power",
       "url": "https://open.spotify.com/track/3pHB2UnVqMODSUTOl6l1vy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Oh GOD",
+      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why Am I Like This? - EP",
-        "url": "https://open.spotify.com/album/0Nnu6aOmXPA1ERmNx0I86J"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 211178,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/6xgTRrS1aeZxnm1bYBarjU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214951,
       "name": "Weird Time",
       "url": "https://open.spotify.com/track/0qqFZUbcTpL4A13UMQBjti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/4TGZnTrxluA90jNdNaOa6q"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 200803,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/04ITn1QsfKxIC16eoqMz0B"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/4TGZnTrxluA90jNdNaOa6q"
+        "name": "Why Am I Like This? - EP",
+        "url": "https://open.spotify.com/album/0Nnu6aOmXPA1ERmNx0I86J"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 200803,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/04ITn1QsfKxIC16eoqMz0B"
+      "duration_ms": 211178,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/6xgTRrS1aeZxnm1bYBarjU"
     },
     {
       "added_at": null,

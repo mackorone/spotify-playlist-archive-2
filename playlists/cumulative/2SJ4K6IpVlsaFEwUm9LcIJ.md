@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-1,086 songs - 2 day 18 hr 22 min
+1,090 songs - 2 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-29 | 2024-09-08 |
 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 | 2024-05-20 | 2024-07-12 |
 | [Lady Blue Eyes](https://open.spotify.com/track/1valXXXGvoolnKX4BbW6ae) | [American Flyer](https://open.spotify.com/artist/2KkFIF79ZjJaNd28LPAtOB) | [American Flyer](https://open.spotify.com/album/3vIOBE6E8vda2ByDObnzjV) | 3:14 | 2025-06-25 | 2025-07-04 |
+| [Lady Of The Lake](https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ) | [Jade Warrior](https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a) | [Last Autumn's Dream](https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB) | 3:19 | 2026-10-05 |  |
 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 | 2024-08-08 | 2024-09-08 |
 | [Largo](https://open.spotify.com/track/12C2Fd7NeDucehWCstk83l) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 2:38 | 2026-02-02 | 2026-03-13 |
 | [Las culpas](https://open.spotify.com/track/6sdVeMJpRt2nOFkV4glBMj) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Son](https://open.spotify.com/album/42qawo0nbcvf6A7rn4FK3F) | 2:42 | 2026-05-05 | 2026-07-06 |
@@ -836,6 +837,7 @@
 | [Snowfall Serenade](https://open.spotify.com/track/4y3GGDrMxmoPRkZoPZ7WNc) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Raindrops](https://open.spotify.com/album/5L7VeMZzhPfTqF0cd6nPHB) | 4:01 | 2025-11-04 | 2026-01-15 |
 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 | 2025-07-28 | 2025-09-11 |
 | [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 | 2025-07-12 | 2025-09-11 |
+| [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 | 2026-10-05 |  |
 | [Soft Focus](https://open.spotify.com/track/0jeUBf8cbpN1C6oQDVHuBx) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV), [Tayla](https://open.spotify.com/artist/6rdOWJwxGOOXXufe8djZnf) | [Producer 04](https://open.spotify.com/album/1u8d1QmR1RRJkQpzYZPAnw) | 4:37 | 2025-10-08 | 2025-11-15 |
 | [Solex All Licketysplit](https://open.spotify.com/track/1IsIlSOGTlzSCgO2vvP5E1) | [Solex](https://open.spotify.com/artist/7uV7uQgiUQ3Ipxs5cHZsGL) | [Solex Vs\. the Hitmeister](https://open.spotify.com/album/39hU88YsHa9sErNRjxKGs3) | 2:24 | 2026-10-04 |  |
 | [Solex Feels Lucky](https://open.spotify.com/track/1HnZulotX8JDw44ETxlkRD) | [Solex](https://open.spotify.com/artist/7uV7uQgiUQ3Ipxs5cHZsGL) | [Solex Vs\. the Hitmeister](https://open.spotify.com/album/39hU88YsHa9sErNRjxKGs3) | 3:46 | 2026-10-04 |  |
@@ -844,6 +846,7 @@
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 | 2025-07-04 |
 | [Some Small Hope](https://open.spotify.com/track/6x6NI8zyUjvJLUg1DEEQQL) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [Mellow 80's](https://open.spotify.com/album/3DPsH0iJNKax1bTDXUoDb5) | 4:10 | 2025-12-25 | 2026-01-15 |
 | [Somersault](https://open.spotify.com/track/7q6AZTjMECFy439nPCgCMS) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/24mJNZUHHK22MvgEnG1his) | 6:57 | 2026-01-08 | 2026-03-13 |
+| [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 | 2026-10-05 |  |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |
 | [Sorry You're Sick](https://open.spotify.com/track/0bQfDEGIkkjrrbGkK4JLmF) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:10 | 2026-02-02 | 2026-03-13 |
@@ -890,6 +893,7 @@
 | [Swallow Flight](https://open.spotify.com/track/4CfbteEAn22sKkQzO26eVj) | [Jeanette](https://open.spotify.com/artist/2bJsPbaZmSrRcC01HHTHnW) | [Prefab in the Sun](https://open.spotify.com/album/5XblF8JPyv9aSmQx5qOcJ8) | 3:38 | 2026-03-12 | 2026-05-06 |
 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 | 2024-11-21 | 2025-01-12 |
 | [Sweepstakes Prize](https://open.spotify.com/track/7s3548yd3bletCda8v5zQs) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [You Think It's Like This But Really It's Like This](https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff) | 4:49 | 2026-04-02 | 2026-05-06 |
+| [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 | 2026-10-05 |  |
 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 | 2025-12-25 | 2026-01-15 |
 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 | 2025-08-02 | 2025-09-11 |
 | [take it](https://open.spotify.com/track/4YPOplh4glirQhau0shF5u) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [take it](https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg) | 3:24 | 2025-09-30 | 2025-11-15 |

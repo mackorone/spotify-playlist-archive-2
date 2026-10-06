@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-614 songs - 1 day 14 hr 33 min
+618 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Connections](https://open.spotify.com/track/2ogKZchAqOWwZtTiRvWfNK) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Connections](https://open.spotify.com/album/0VB2e5tcXGwJDetWSbOS7D) | 3:40 | 2023-12-08 | 2025-10-01 |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 | 2025-10-01 |
+| [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 | 2025-09-12 |
 | [Curl Up Under A Blanket](https://open.spotify.com/track/3OHVucBb5b3ieHsal27V0R) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Curl Up Under A Blanket](https://open.spotify.com/album/310nH9AFrmNd80gZC7SIZ9) | 3:43 | 2024-10-07 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 | 2025-11-04 |
@@ -189,6 +190,7 @@
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2021-12-07 | 2025-10-01 |
 | [For Joey](https://open.spotify.com/track/35wEuhjRDw3RDWZMTLSEnZ) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [For Joey](https://open.spotify.com/album/5yH3PzK17cmLCRpLWK6EzM) | 4:48 | 2023-09-22 | 2024-01-19 |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-08-11 | 2025-09-12 |
+| [For the Record](https://open.spotify.com/track/5vO7eZEwKOROstlDvQpdMs) | [Trio Indigo](https://open.spotify.com/artist/0iq48qvgGrtFNb9leTwiYV) | [For the Record](https://open.spotify.com/album/5BDDsS6CwDr0YSIlnrw4YO) | 2:55 | 2026-10-05 |  |
 | [Forever](https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Forever](https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4) | 3:07 | 2023-10-20 | 2026-03-18 |
 | [Forever and ever](https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Forever and ever](https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8) | 4:19 | 2023-06-09 | 2024-10-15 |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 | 2025-09-12 |
@@ -453,6 +455,7 @@
 | [September Wind](https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [September Wind](https://open.spotify.com/album/45WFC6dvpwiqGN4pTXrfMl) | 6:22 | 2024-10-07 | 2025-10-08 |
 | [Settle back](https://open.spotify.com/track/55skSQvbWCzx8nlN4fpeEp) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Settle back](https://open.spotify.com/album/6fKNZuorUE0A0MOy6wShZ0) | 3:43 | 2025-09-30 |  |
 | [Shadows of You](https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Shadows of You](https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5) | 3:22 | 2024-02-09 | 2025-09-12 |
+| [Shaken to My Soul](https://open.spotify.com/track/0nz6AHqyCbT8tPfUTATOAT) | [The Third Voice](https://open.spotify.com/artist/2fXgR9zumFEqEl3mRdyqqs) | [Shaken to My Soul](https://open.spotify.com/album/1eyiXrGWdDETcR9rv66qCM) | 3:10 | 2026-10-05 |  |
 | [She Loves to Love](https://open.spotify.com/track/1YiYr4JMdmzREtvQnsiQxv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [She Loves to Love](https://open.spotify.com/album/0UbaZFy0YYjVOYNjyAXQ8Z) | 2:38 | 2022-10-27 | 2025-10-01 |
 | [Shores of Life](https://open.spotify.com/track/13IRezBWKjNzOfj6OLH3Gt) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Shores of Life](https://open.spotify.com/album/1Z0iTlE0jTYOwVAHhta8D7) | 3:39 | 2024-10-01 |  |
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-09 |  |
@@ -485,6 +488,7 @@
 | [Standing Strong](https://open.spotify.com/track/1WjbXUeQsrtK7NkeQQvSul) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Standing Strong](https://open.spotify.com/album/0LAQFxtjRbzRYCe5JmrNTm) | 2:31 | 2024-03-22 |  |
 | [Stanky](https://open.spotify.com/track/2fZvSxMaDTKykeycbVY8LQ) | [The Unraveled](https://open.spotify.com/artist/4SPuV07nPCwIxcCRxYJQn9) | [Stanky](https://open.spotify.com/album/6LRdjfgM0f7RZeGXUwGJRT) | 3:12 | 2021-12-07 | 2022-08-18 |
 | [Stardust](https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 2:26 | 2021-12-07 | 2025-09-12 |
+| [Starry Skies](https://open.spotify.com/track/11x4S7k9QHLY2VfIK2g2AP) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [Starry Skies](https://open.spotify.com/album/16k4GVYw52M6B8D03CEvV0) | 3:45 | 2026-10-05 |  |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 | 2023-10-13 |
 | [Stay a little longer](https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Stay a little longer](https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M) | 3:22 | 2026-09-18 |  |
 | [Stay Around](https://open.spotify.com/track/5Ccyefda1pTeRCAg2kUIbX) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Stay Around](https://open.spotify.com/album/0gJttdGylOHGnQce4AQTlz) | 5:43 | 2021-12-07 | 2022-07-29 |

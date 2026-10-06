@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 398400,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3mJ6DNBcu7ijyxhVCUeA4q"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 117582,
       "name": "Be Love Now",
       "url": "https://open.spotify.com/track/2roRyBtlHkiCdrEksPTeGs"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "My Cleanse 105 - 110 Hz",
+        "url": "https://open.spotify.com/album/2mWOfp0YiGzbK7ee66yESy"
+      },
+      "artists": [
+        {
+          "name": "moodgenzy",
+          "url": "https://open.spotify.com/artist/2LQ9WxkWhlHoBRYB1Iob4r"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153777,
+      "name": "My Cleanse 105 - 110 Hz",
+      "url": "https://open.spotify.com/track/35BoqyVWsXx3xhorNpYOIs"
+    },
+    {
+      "album": {
         "name": "New Force",
         "url": "https://open.spotify.com/album/0lwbr5oIOR3CFgSC8lt4Fm"
       },
@@ -1622,6 +1640,24 @@
       "duration_ms": 190634,
       "name": "Present Thoughts",
       "url": "https://open.spotify.com/track/72N5ExTFna6rUswSu21fxo"
+    },
+    {
+      "album": {
+        "name": "Pura Wana",
+        "url": "https://open.spotify.com/album/2FwXHlxRjOkDNuaSlS7LLF"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144883,
+      "name": "Pura Wana",
+      "url": "https://open.spotify.com/track/1MOOVc6uMB8mmktRLcyuLn"
     },
     {
       "album": {
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 198777,
       "name": "Samaya ra \u1e6dh\u0101'um",
       "url": "https://open.spotify.com/track/0LFWo5EMkxB91AZueJSlz8"
@@ -2093,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Solar Tone",
+        "url": "https://open.spotify.com/album/7naekwpYlAFm3bDzG6k9Nn"
+      },
+      "artists": [
+        {
+          "name": "Mir Dune",
+          "url": "https://open.spotify.com/artist/6Hs1kTcMGQUJR9DFyyiE0n"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Solar Tone",
+      "url": "https://open.spotify.com/track/7xCX8aiUhzJQLLLtDn2c2a"
+    },
+    {
+      "album": {
         "name": "Soul Shower",
         "url": "https://open.spotify.com/album/7c7bUDAMlzqPhgtyr6FL0V"
       },
@@ -2237,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Stone, Metal, Air",
+        "url": "https://open.spotify.com/album/6JL2zih931TLaEFB7Bw5fj"
+      },
+      "artists": [
+        {
+          "name": "Eric Vayo",
+          "url": "https://open.spotify.com/artist/2HAF6I1Kp0v7K7TqxGIRls"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191753,
+      "name": "Stone, Metal, Air",
+      "url": "https://open.spotify.com/track/6t1k0uWpWmOZ7Ihfb66TVm"
+    },
+    {
+      "album": {
         "name": "Temple of Wisdom",
         "url": "https://open.spotify.com/album/77K6oTNgMz5Q6LOfF7Lysx"
       },
@@ -2327,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Third Eye (Singing Bowls)",
+        "url": "https://open.spotify.com/album/6ptt9Ohtgr1sgHC3pcPAp1"
+      },
+      "artists": [
+        {
+          "name": "Mori Yume",
+          "url": "https://open.spotify.com/artist/1xvuRfFYi4NDXpoxY43kOm"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Third Eye (Singing Bowls)",
+      "url": "https://open.spotify.com/track/3gSqPLu2e9kiXbINrhJ67e"
+    },
+    {
+      "album": {
         "name": "Singing Bowls",
         "url": "https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl"
       },
@@ -2338,7 +2428,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 386533,
       "name": "Three Buddhas",
       "url": "https://open.spotify.com/track/132d0MEtF5Wr4gmbPqQrOc"
@@ -2522,6 +2612,24 @@
       "duration_ms": 177408,
       "name": "Tibetan Bowls",
       "url": "https://open.spotify.com/track/3IaD5xs67Tpw3cNpWIf4WD"
+    },
+    {
+      "album": {
+        "name": "Tibetan Bowls for Spiritual Healing",
+        "url": "https://open.spotify.com/album/1r8zCwV9V5j7CNP0Mppoae"
+      },
+      "artists": [
+        {
+          "name": "Rufus Yoselen",
+          "url": "https://open.spotify.com/artist/5QyQ37m9gDMYghHTM86rcF"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Tibetan Bowls for Spiritual Healing",
+      "url": "https://open.spotify.com/track/6IR0cgP7M9m1a8yeTHGfdr"
     },
     {
       "album": {
@@ -2792,6 +2900,24 @@
       "duration_ms": 138245,
       "name": "Trancending Bowls",
       "url": "https://open.spotify.com/track/7xw6Krd1yCiY9vFiQN5QTv"
+    },
+    {
+      "album": {
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/3BNEUPPkzOdVpgdnVDiXM7"
+      },
+      "artists": [
+        {
+          "name": "Spirit Garden",
+          "url": "https://open.spotify.com/artist/21ADT1cKkGhiB070brX819"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/1yt7mADnINf4ksZ7s1AiOc"
     },
     {
       "album": {

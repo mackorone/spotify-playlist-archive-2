@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2879685,
+  "num_followers": 2879847,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-02 04:02:59",
       "album": {
+        "name": "I'm a Dog",
+        "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "I'm a Dog",
+      "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-10-02 04:02:59",
       "album": {
-        "name": "I'm a Dog",
-        "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "I'm a Dog",
-      "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
-    },
-    {
-      "added_at": "2026-10-02 04:02:59",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 156946,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2026-10-02 04:02:59",
@@ -843,26 +863,6 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
-    },
-    {
-      "added_at": "2026-10-02 04:02:59",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2026-10-02 04:02:59",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-10-02 04:02:59",
       "album": {
-        "name": "Teflon Don",
-        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "B.M.F. (Blowin' Money Fast)",
-      "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
-    },
-    {
-      "added_at": "2026-10-02 04:02:59",
-      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "Teflon Don",
+        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "B.M.F. (Blowin' Money Fast)",
+      "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
     },
     {
       "added_at": "2026-10-02 04:02:59",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-10-02 04:02:59",
       "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 210609,
+      "name": "Robbery 10",
+      "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
-    },
-    {
-      "added_at": "2026-10-02 04:02:59",
-      "album": {
-        "name": "They Forgot",
-        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 210609,
-      "name": "Robbery 10",
-      "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
     },
     {
       "added_at": "2026-10-02 04:02:59",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-10-02 04:02:59",
       "album": {
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:59",
-      "album": {
-        "name": "No Effort 2",
-        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "No Effort 2",
-      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-10-02 04:02:59",

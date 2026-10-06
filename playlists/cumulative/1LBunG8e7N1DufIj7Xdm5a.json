@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Hello Wrld",
+        "url": "https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203664,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1uY5WRATMThxmTSpofWjp4"
+    },
+    {
+      "album": {
         "name": "27 VOLTE",
         "url": "https://open.spotify.com/album/09kQvBfJPjd6qBCLBGUyM7"
       },
@@ -43025,6 +43043,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/65AC0ewgLffUCSyF5yTALU"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190882,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3aijmSI95NV61VNQoIYNgl"
+    },
+    {
+      "album": {
         "name": "Let Me See The Fire",
         "url": "https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy"
       },
@@ -53569,6 +53605,24 @@
     },
     {
       "album": {
+        "name": "D\u00edas Mejores",
+        "url": "https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx"
+      },
+      "artists": [
+        {
+          "name": "Blackstonia",
+          "url": "https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "No quiero estar solo nunca m\u00e1s",
+      "url": "https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl"
+    },
+    {
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF"
       },
@@ -56358,6 +56412,24 @@
       "duration_ms": 571000,
       "name": "Only Dreamer is Real",
       "url": "https://open.spotify.com/track/52yMT5xCwSivgSHXuohwXl"
+    },
+    {
+      "album": {
+        "name": "Only If",
+        "url": "https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n"
+      },
+      "artists": [
+        {
+          "name": "GRG T",
+          "url": "https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100749,
+      "name": "Only If",
+      "url": "https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q"
     },
     {
       "album": {

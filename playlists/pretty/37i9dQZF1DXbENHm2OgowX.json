@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 368171,
+  "num_followers": 368415,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "lingering on",
+        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
+      },
+      "artists": [
+        {
+          "name": "sleep forever",
+          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
+        }
+      ],
+      "duration_ms": 81083,
+      "name": "lingering on",
+      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "lingering on",
-        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
-      },
-      "artists": [
-        {
-          "name": "sleep forever",
-          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
-        }
-      ],
-      "duration_ms": 81083,
-      "name": "lingering on",
-      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "if i weren't so broken",
         "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Mat\u00e8l (original motion picture soundtrack)",
-        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Mat\u00e8l",
-      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 398265,
       "name": "A Place To Sleep",
       "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Fallen Down",
-        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
-      },
-      "artists": [
-        {
-          "name": "Duncan Cox",
-          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220500,
       "name": "Asleep On The Wing - Pt. 4",
       "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "haunted, but it's ambient",
-        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "haunted, but it's ambient",
-      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "forgotten dreams",
         "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 128000,
       "name": "forgotten dreams",
       "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "haunted, but it's ambient",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "haunted, but it's ambient",
+      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1031,42 +1031,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
-      },
-      "artists": [
-        {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
         "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
@@ -1079,6 +1043,22 @@
       "duration_ms": 287913,
       "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
       "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1151,22 +1167,6 @@
       "duration_ms": 254634,
       "name": "Spun - Kjartan Holm & Sin Fang Rework",
       "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "distant feeling",
-        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
-      },
-      "artists": [
-        {
-          "name": "dreamzz",
-          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
-        }
-      ],
-      "duration_ms": 99600,
-      "name": "distant feeling",
-      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
-      },
-      "artists": [
-        {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
-        }
-      ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "last days of summer",
         "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Dance of Seasons",
-        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
         }
       ],
-      "duration_ms": 422853,
-      "name": "Dance of Seasons",
-      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1591,6 +1575,22 @@
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Dance of Seasons",
+        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Dance of Seasons",
+      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 199933,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "in/between.",
+        "url": "https://open.spotify.com/album/0NRiEqM3p6ytRYhlvCvA5o"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "entity.",
+      "url": "https://open.spotify.com/track/67BaHy0IDZNcw4hxCGZ7UO"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Together Is The New Alone (2021 Remaster)",
         "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
       },
@@ -1763,26 +1779,6 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "bloom",
-        "url": "https://open.spotify.com/album/00X0m3Bl3gaiYiOL8HZryn"
-      },
-      "artists": [
-        {
-          "name": "still surface",
-          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
-        },
-        {
-          "name": "\u00e9nouement",
-          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
-        }
-      ],
-      "duration_ms": 79530,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/3frDiSCCOXlVbZiwbMoH3K"
     }
   ],
   "unique_name": "gloomcore",

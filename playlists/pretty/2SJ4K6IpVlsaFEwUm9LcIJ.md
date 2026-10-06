@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,656 likes - 19 songs - 1 hr 15 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,659 likes - 23 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 17 | [Penelope](https://open.spotify.com/track/2lbCzIQYDRF2Bs4ON6kOV6) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 4:46 |
 | 18 | [X.I.Y.](https://open.spotify.com/track/3ikC5SLbXmuS4QW2t170jl) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:32 |
 | 19 | [There’s Always A Dream Come True](https://open.spotify.com/track/77Wuz7RW7ObLiHDbul3aKw) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [There’s Always A Dream Come True](https://open.spotify.com/album/7LxA3OMSFh8gk4p9xj0314) | 3:22 |
+| 20 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
+| 21 | [Lady Of The Lake](https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ) | [Jade Warrior](https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a) | [Last Autumn's Dream](https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB) | 3:19 |
+| 22 | [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 |
+| 23 | [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 |
 
-Snapshot ID: `AAAOvjeHQZTta4Kqe9Vp5C8V19Zc8Yzb`
+Snapshot ID: `AAAOwtYxCaCOCz753+j2HjGLi50GdDva`

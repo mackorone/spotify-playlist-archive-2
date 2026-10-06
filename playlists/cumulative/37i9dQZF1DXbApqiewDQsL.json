@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 195525,
       "name": "Enero",
       "url": "https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o"
@@ -5718,7 +5718,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 150600,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5YFce9nNaI12DMrBYJ3J74"
@@ -10196,6 +10196,24 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/11HKHpT3qO0HnRf4sMaurq"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186529,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/4br4zFlJph6OI5FFy6ZCBx"
     },
     {
       "album": {

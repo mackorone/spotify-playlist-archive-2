@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-331 songs - 1 day 3 hr 49 min
+332 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amazing](https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:56 | 2022-04-15 | 2023-04-05 |
 | [Angel](https://open.spotify.com/track/6r4laxAXabuv6pK9Nzoskc) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation \(Reissue Remastered\)](https://open.spotify.com/album/3mb4bSC1wKWTtQBfiMkyma) | 5:08 | 2022-04-15 | 2022-07-24 |
 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 | 2022-04-15 | 2024-04-19 |
+| [Angelus](https://open.spotify.com/track/4pA7Oeac9n5t7pSH7fvbLw) | [Subway To Sally](https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg) | [Kreuzfeuer](https://open.spotify.com/album/4JhIVHBjxpHbE5BxP0V4US) | 5:13 | 2026-01-09 |  |
 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 | 2022-04-15 |  |
 | [Anybody Listening? \- Remastered 2003](https://open.spotify.com/track/6ObS155m8kMHPAnrAjlO2U) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 7:58 | 2022-04-15 | 2024-06-11 |
 | [Bad Company](https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 4:22 | 2024-01-02 | 2024-06-11 |
@@ -194,7 +195,7 @@
 | [Nemo](https://open.spotify.com/track/7pTMHN7QnzmnwGQa3mTRNv) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/5sHIuXeNUs3Tqfg7kQIFVT) | 4:36 | 2022-04-15 | 2022-07-28 |
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-02-06 | 2024-04-19 |
 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 | 2022-04-15 | 2024-06-11 |
-| [No Prayer For The Dying \- 1998 Remastered Version](https://open.spotify.com/track/5RTAXw9OrtK602J3B4Px86) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer For The Dying \(1998 Remastered Edition\)](https://open.spotify.com/album/5hwCj1q1DjKftciOMehEq0) | 4:23 | 2022-04-15 |  |
+| [No Prayer For The Dying \- 1998 Remastered Version](https://open.spotify.com/track/5RTAXw9OrtK602J3B4Px86) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer For The Dying \(1998 Remastered Edition\)](https://open.spotify.com/album/5hwCj1q1DjKftciOMehEq0) | 4:23 | 2022-04-15 | 2026-10-06 |
 | [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/5Sv037WbFHlIIQPmhsBUUZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star \(Deluxe Edition\)](https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi) | 4:29 | 2022-04-15 | 2025-08-30 |
 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 | 2022-04-15 |  |
 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2022-04-15 | 2024-04-19 |

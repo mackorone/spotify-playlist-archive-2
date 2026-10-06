@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-175 songs - 10 hr 19 min
+177 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Lyset vender hjem](https://open.spotify.com/track/3kaAE6MEGKB3Fayz2fRxAz) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Lyset vender hjem](https://open.spotify.com/album/14ZUN2hMMKLZiMDBog5XYF) | 3:51 | 2025-10-24 | 2025-12-07 |
 | [Mi Navidad](https://open.spotify.com/track/31pUHQcaaxTvCe7br4VWS3) | [Pacoco Junior](https://open.spotify.com/artist/4GRwhJMakVrfxYUYJMMs51), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12) | [Mi Navidad](https://open.spotify.com/album/1RBCA5ERtbFjlxq6LzrPx2) | 3:20 | 2025-11-15 | 2026-02-02 |
 | [Mkpakpa](https://open.spotify.com/track/4L8L2epkMdYWFFwspUyzZQ) | [TownCryer](https://open.spotify.com/artist/15Ll7Kz2Fg3Hqx5AdzDfDT) | [Mkpakpa](https://open.spotify.com/album/4jU1tMg3QeFrKmt4r8UgoN) | 2:35 | 2024-11-16 | 2026-09-03 |
+| [Mountain Meditation](https://open.spotify.com/track/6Gj1LPrs1G23Hn5WkBJ9JG) | [Dreamweaver](https://open.spotify.com/artist/3KiwMzVL0Z5iyHIUBJB0tp) | [My Way \(Markus Pitzer\)](https://open.spotify.com/album/2hkBwxQmtGd2tsDRJGO9XW) | 4:59 | 2026-10-05 |  |
 | [My Heroin](https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO) | [Greg Llatse](https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3) | [My Heroin](https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5) | 3:52 | 2025-10-31 |  |
 | [My Weary Heart](https://open.spotify.com/track/0afp9RSQvTz1IWyD0bT9JL) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [My Weary Heart](https://open.spotify.com/album/18UwIqxfWSZhb08S8erIRq) | 3:59 | 2025-08-21 |  |
 | [Never Forget Me](https://open.spotify.com/track/0v0qOsmEI1FGf7qiUWuCGs) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4), [Sara White](https://open.spotify.com/artist/6VZWG1aeR7XmWXCm3jbcZO) | [Never Forget Me](https://open.spotify.com/album/7rUa0uF4P108cs6r55FzIs) | 2:43 | 2026-09-27 |  |
@@ -159,6 +160,7 @@
 | [The tension mounts](https://open.spotify.com/track/31EdAXmtMZ8ogXfAM2JBte) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [The tension mounts](https://open.spotify.com/album/75S9F80ihK18yQs6nIHUH5) | 3:07 | 2025-12-05 | 2026-09-03 |
 | [The Twerking Song](https://open.spotify.com/track/2rcpN2VorTLV76EZwtgjKc) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [The Twerking Song](https://open.spotify.com/album/7B2tA3nGk3tgh5IqAkPmQF) | 4:03 | 2025-11-23 |  |
 | [The Voiceless](https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [The Voiceless](https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S) | 1:59 | 2025-12-15 | 2026-02-02 |
+| [The Way](https://open.spotify.com/track/3Qs4DzYZfRYCsvVYySC68q) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [The Way](https://open.spotify.com/album/209R5C78jtU7cYoPkzjpK1) | 4:27 | 2026-10-05 |  |
 | [This Is Goodnight](https://open.spotify.com/track/1DIP5GUMq5Y0wLRt1pROYm) | [Bygone Dave](https://open.spotify.com/artist/09SQLss85jpRMhLVNAoSU2), [The 'Over](https://open.spotify.com/artist/2oAqedyoFwcapfvSA8g5LV), [Odette Rose](https://open.spotify.com/artist/1ujZFnbqMsVv4VQPHo1PlT) | [This Is Goodnight](https://open.spotify.com/album/3Iuco7yeIFBdhRKHrAZ0SY) | 3:53 | 2024-01-22 |  |
 | [Through The Eyes of a Child](https://open.spotify.com/track/4zPwvmMvuXL371fexapxcv) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Through The Eyes of a Child](https://open.spotify.com/album/0hxFTQ8m0YP9xGi1G7YCa1) | 3:14 | 2025-06-30 | 2026-06-10 |
 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 | 2026-09-29 |  |

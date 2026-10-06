@@ -10966,7 +10966,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 198845,
       "name": "OUTWEST",
       "url": "https://open.spotify.com/track/4Bn4b4N7rWCqPlKfEZi6PB"
@@ -16700,7 +16700,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -19366,7 +19366,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 281693,
       "name": "\u0e0a\u0e48\u0e32\u0e07\u0e21\u0e31\u0e19",
       "url": "https://open.spotify.com/track/3sKlbOuJnyz5g019B8jTk8"
@@ -22062,7 +22062,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -23886,6 +23886,28 @@
       "duration_ms": 288603,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1a\u0e2d\u0e01\u0e43\u0e04\u0e23\u0e19\u0e30",
       "url": "https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v"
+    },
+    {
+      "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
     },
     {
       "album": {
@@ -26002,7 +26024,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 273493,
       "name": "\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/07ZIrtR00m3t9AcmeRZ7vQ"

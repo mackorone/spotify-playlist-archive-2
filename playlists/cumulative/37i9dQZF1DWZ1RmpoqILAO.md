@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> you met me at a very indie twang time in my life..\. Emma Ogier on the cover
+> pinegrove autumn 🍂 Emma Ogier on the cover
 
 387 songs - 1 day 0 hr 47 min
 

@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
         "url": "https://open.spotify.com/album/5DaGiXaRGbNQsVzoS4d9LC"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 258008,
       "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
       "url": "https://open.spotify.com/track/0yRmDXmXJmMgVkaZ9saa2z"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-04-09 22:12:46",

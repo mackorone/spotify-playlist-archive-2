@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 252659,
       "name": "find cagescript",
       "url": "https://open.spotify.com/track/1zPfLq3eoKm2auisFPCIxS"
@@ -10676,7 +10676,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 200571,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/71DcFIQWfKtNE4mr13dv7G"
@@ -12172,6 +12172,28 @@
       "duration_ms": 154482,
       "name": "INNER FYRE",
       "url": "https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg"
+    },
+    {
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0"
     },
     {
       "album": {
@@ -19028,7 +19050,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 227327,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
@@ -23300,7 +23322,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 150083,
       "name": "TECHNO BOY TECHNO GIRL",
       "url": "https://open.spotify.com/track/5TxE9ha36lh7c5m8UtAA5n"

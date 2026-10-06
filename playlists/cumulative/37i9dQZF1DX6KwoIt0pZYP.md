@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,186 songs - 2 day 16 hr 27 min
+1,187 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [how sweet does this sound?](https://open.spotify.com/track/4JiFapbeuEUnoyyy6JQdlO) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [how sweet does this sound?](https://open.spotify.com/album/1itMip3QgwzDvtQjqGNS37) | 2:48 | 2023-06-08 | 2023-06-16 |
 | [How We Used To](https://open.spotify.com/track/05Yx3Bn7dyIUu6pQvrKfrg) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [AM:PM](https://open.spotify.com/album/6zS9RYa2QLc8XO9mO4VmiO) | 2:49 | 2022-01-28 | 2022-07-11 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-12 | 2024-08-12 |
+| [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 | 2026-10-02 |  |
 | [Humble Pie Tattoo](https://open.spotify.com/track/3b4mQzg1rKjS9MOJEIcxMl) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Humble Pie Tattoo](https://open.spotify.com/album/5jSWI40dDQcw7Z0lQzIJ2z) | 3:32 | 2023-10-19 | 2023-11-14 |
 | [Hurry Home \(with beabadoobee & Jay Som\)](https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Hurry Home \(with beabadoobee & Jay Som\)](https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ) | 3:56 | 2022-01-28 | 2022-04-15 |
 | [Hurt Me Too](https://open.spotify.com/track/0vOJuzy8PJqErvoPPAWX8H) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Hurt Me Too](https://open.spotify.com/album/4ShIjeEjrUVPxyFvg38Wgr) | 3:19 | 2024-05-31 | 2024-06-13 |
@@ -811,7 +812,7 @@
 | [Pretend I'm Dead](https://open.spotify.com/track/3uVTX8r4zHbquRog9XtBhC) | [錦安](https://open.spotify.com/artist/5g8me7NASuIJKtW8OMIKAS) | [Pretend I'm Dead](https://open.spotify.com/album/4bBvl1pPg0BZthT47OCgBf) | 3:23 | 2024-01-18 | 2024-02-03 |
 | [pretty sure you're fine](https://open.spotify.com/track/4F4XQKH4vVoPnwDmRPh6sJ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [pretty sure you're fine](https://open.spotify.com/album/5BL3gZkADVjB3pHG1thulk) | 3:17 | 2025-02-28 | 2025-04-21 |
 | [Princess Bubblegum](https://open.spotify.com/track/6ucInAX6PojGk0QVLHptHT) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Princess Bubblegum](https://open.spotify.com/album/2K2RHh8CxhHI9RgYXKVt7W) | 2:48 | 2023-05-11 | 2023-05-19 |
-| [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 | 2025-10-02 |  |
+| [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 | 2025-10-02 | 2026-10-06 |
 | [Questionnaire](https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Questionnaire](https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4) | 2:12 | 2026-08-07 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-04-12 | 2024-05-15 |
 | [quite like u](https://open.spotify.com/track/0GQJkqfrcUCkLlFE6YBvt9) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [quite like u](https://open.spotify.com/album/5TQ9dOAu9zJw2gg7kRCCs1) | 2:34 | 2023-06-08 | 2023-06-16 |

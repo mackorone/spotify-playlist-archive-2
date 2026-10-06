@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2026 (previous playlists archived on my profile)",
-  "num_followers": 24656,
+  "num_followers": 24659,
   "original_name": "sometimes i",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOvjeHQZTta4Kqe9Vp5C8V19Zc8Yzb",
+  "snapshot_id": "AAAOwtYxCaCOCz753+j2HjGLi50GdDva",
   "tracks": [
     {
       "added_at": "2026-10-04 20:21:14",
@@ -315,6 +315,70 @@
       "duration_ms": 202500,
       "name": "There\u2019s Always A Dream Come True",
       "url": "https://open.spotify.com/track/77Wuz7RW7ObLiHDbul3aKw"
+    },
+    {
+      "added_at": "2026-10-05 18:30:30",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Something So Right",
+      "url": "https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut"
+    },
+    {
+      "added_at": "2026-10-05 20:17:13",
+      "album": {
+        "name": "Last Autumn's Dream",
+        "url": "https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB"
+      },
+      "artists": [
+        {
+          "name": "Jade Warrior",
+          "url": "https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Lady Of The Lake",
+      "url": "https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ"
+    },
+    {
+      "added_at": "2026-10-05 20:26:36",
+      "album": {
+        "name": "So If Someone Sends You Flowers Babe b/w Find Me Gone",
+        "url": "https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm"
+      },
+      "artists": [
+        {
+          "name": "The Kynds",
+          "url": "https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2"
+        }
+      ],
+      "duration_ms": 150297,
+      "name": "So If Someone Sends You Flowers Babe",
+      "url": "https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia"
+    },
+    {
+      "added_at": "2026-10-05 22:43:27",
+      "album": {
+        "name": "Glisten",
+        "url": "https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Sweetly Said",
+      "url": "https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh"
     }
   ],
   "unique_name": "sometimes i",

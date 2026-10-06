@@ -1,13 +1,285 @@
 {
   "description": "<a href=\"spotify:artist:3NKVm2Jedcf6ibJr6pMUVx\">Jayda G</a>'s favorite tracks. Updated regularly. Curated by Jayda G. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 75708,
+  "num_followers": 75718,
   "original_name": "Jayda G's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABXckVEMR+hH3a1vmbpG+uKY2O7V",
+  "snapshot_id": "AAAAAIoo/XkV/j/Jy3oTf20m3vq2tzgI",
   "tracks": [
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 176698,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Aloha Got Soul",
+        "url": "https://open.spotify.com/album/2AvrkER9t7BzJYCsUmkSHx"
+      },
+      "artists": [
+        {
+          "name": "Aura",
+          "url": "https://open.spotify.com/artist/73HQJyInqakFDIW0GVdxRA"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Yesterday's Love",
+      "url": "https://open.spotify.com/track/5p7I44YEHMCoDIxSg8lxER"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2aM94wMc9dYKR1cRoPRG76"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 203448,
+      "name": "I Never Knew Love",
+      "url": "https://open.spotify.com/track/4VqUkCI0LwAe5DiF6bJ03Q"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "No Worries '22 (Dennis Quin Remix)",
+        "url": "https://open.spotify.com/album/01dCPwuW4tG60zhi2PlVwL"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "No Worries - Dennis Quin Remix",
+      "url": "https://open.spotify.com/track/63G26wyRVzWcfCIUa8WUUM"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "All Day (Jackie Hollander Remix)",
+        "url": "https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "All Day - Jackie Hollander Remix",
+      "url": "https://open.spotify.com/track/4Jy1rvDyPYkRP74TGXciBN"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "House Masters - Luke Solomon Sampler",
+        "url": "https://open.spotify.com/album/2Xpvmij8TZY5KMrgZMMKWc"
+      },
+      "artists": [
+        {
+          "name": "Powerdance",
+          "url": "https://open.spotify.com/artist/73mmpTmWxkJDV0bUy5wQjd"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 406309,
+      "name": "Power Dance - Mousse T.'s New Jersey Dub",
+      "url": "https://open.spotify.com/track/1smhQpdLCoQaqSOEYRQTX7"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "You Can't Touch Me (Remastered)",
+        "url": "https://open.spotify.com/album/1PlFHu4diRvdIsnfsSKNjp"
+      },
+      "artists": [
+        {
+          "name": "Karen Pollard",
+          "url": "https://open.spotify.com/artist/1xfs3EntD8t8AQc2EQixnB"
+        },
+        {
+          "name": "Murk",
+          "url": "https://open.spotify.com/artist/36Udm8QpAsCL5ZRAf9W09B"
+        }
+      ],
+      "duration_ms": 397753,
+      "name": "You Can't Touch Me - Murk Mix",
+      "url": "https://open.spotify.com/track/2KHtSB6bgldGnLx2F8N5vb"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Awareness",
+        "url": "https://open.spotify.com/album/0leSb2t68ves4wDPMg9QcL"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+        },
+        {
+          "name": "Mia Tuttavilla",
+          "url": "https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK"
+        },
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 586280,
+      "name": "Awareness - Kerri's Dark Dub",
+      "url": "https://open.spotify.com/track/2d2dmyoTQADcTQ0HHqLe3L"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Hard & Soul",
+        "url": "https://open.spotify.com/album/4Ra2EDqqbyxeTJgnVVYkZk"
+      },
+      "artists": [
+        {
+          "name": "Danny Tenaglia",
+          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
+        },
+        {
+          "name": "Carole Sylvan",
+          "url": "https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729"
+        }
+      ],
+      "duration_ms": 495173,
+      "name": "Look Ahead",
+      "url": "https://open.spotify.com/track/0sCdrztoewxyRfltcwroEE"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        },
+        {
+          "name": "Xpansions",
+          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
+        }
+      ],
+      "duration_ms": 150477,
+      "name": "Move Your Body feat. Xpansions",
+      "url": "https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "This Rhythm (feat. RAHH)",
+        "url": "https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "This Rhythm (feat. RAHH)",
+      "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "Dance Of The Shaman",
+        "url": "https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Shaf Huse",
+          "url": "https://open.spotify.com/artist/24WBkwz3wzY29JkIqYa2Cd"
+        }
+      ],
+      "duration_ms": 402465,
+      "name": "Dance Of The Shaman - Shaf Huse Remix",
+      "url": "https://open.spotify.com/track/3zchm50aQhuuMzMHup1P0h"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "17 Days",
+      "url": "https://open.spotify.com/track/7rwPVahewLXhDGKUjfbzU3"
+    },
+    {
+      "added_at": "2026-10-05 13:59:09",
+      "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
     {
       "added_at": "2025-07-25 10:39:55",
       "album": {

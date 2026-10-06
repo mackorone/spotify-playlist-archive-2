@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,075 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,071 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 30 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
 | 31 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 32 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
-| 33 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
-| 34 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 33 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 34 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
 | 35 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 36 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 37 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 41 | [Kochanie!](https://open.spotify.com/track/4P8CXaK6JujCRu45IaZu5x) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Kochanie!](https://open.spotify.com/album/0qu9Ob1sWLmUYcUfwA81KT) | 2:52 |
 | 42 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
 | 43 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
-| 44 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
-| 45 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
+| 44 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
+| 45 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
 | 46 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 47 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
 | 48 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |

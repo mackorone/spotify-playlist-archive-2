@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 296746,
       "name": "See Out Loud",
       "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
@@ -5994,6 +5994,24 @@
       "duration_ms": 265720,
       "name": "\u5207\u671b",
       "url": "https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK"
+    },
+    {
+      "album": {
+        "name": "\u5275\u9020",
+        "url": "https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234166,
+      "name": "\u5275\u9020",
+      "url": "https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"
     },
     {
       "album": {

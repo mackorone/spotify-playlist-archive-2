@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1463822,
+  "num_followers": 1463806,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -823,6 +823,30 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 163593,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Yugure",
-        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
       "artists": [
         {
-          "name": "Komachi",
-          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
         },
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Yugure",
-      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+        "name": "Yugure",
+        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
       "artists": [
         {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
         },
         {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+      "duration_ms": 126750,
+      "name": "Yugure",
+      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 150857,
       "name": "Night Step",
       "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 166588,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 212307,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Sakura Bloom",
-        "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
-      },
-      "artists": [
-        {
-          "name": "MrSuperCraft",
-          "url": "https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 122105,
-      "name": "Sakura Bloom",
-      "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "A Journey Beyond Time",
         "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 135000,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Sakura Bloom",
+        "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
+      },
+      "artists": [
+        {
+          "name": "MrSuperCraft",
+          "url": "https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 122105,
+      "name": "Sakura Bloom",
+      "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
     },
     {
       "added_at": "2026-09-22 16:51:51",

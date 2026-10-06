@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37467,
+  "num_followers": 37472,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAABSrZ8wIMc1ZlDu50h5ZUgm",
+  "snapshot_id": "asGXAAAAAACgK5OEoy9k0QHe0Q8bHGzk",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Life Is Going On",
+      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Life Is Going On",
-      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jiva 2.0 (Bacardi Remix)",
         "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 249577,
       "name": "Jiva 2.0 - Bacardi Remix",
       "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Soon And Very Soon - 99 Remix",
-      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 270133,
       "name": "Mama",
       "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Soon And Very Soon - 99 Remix",
+      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black President",
         "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 306933,
       "name": "Mali",
       "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Zola Budd",
+      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
     },
     {
       "added_at": null,

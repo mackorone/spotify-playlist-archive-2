@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Smith Asher",
-  "num_followers": 21492,
+  "num_followers": 21497,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANOPjSDgmWOirFCQ2yumMsynCl4k",
+  "snapshot_id": "AAAAAHvVJdpn6grVOZWC3V4k53yk3b+8",
   "tracks": [
     {
       "added_at": "2026-09-28 12:39:28",
@@ -89,6 +89,30 @@
       "url": "https://open.spotify.com/track/0V0C9pofS9nvn0EGU5kgfE"
     },
     {
+      "added_at": "2026-10-05 16:12:15",
+      "album": {
+        "name": "High Court",
+        "url": "https://open.spotify.com/album/35v0bt5xfYYBzUZctL5won"
+      },
+      "artists": [
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        },
+        {
+          "name": "Gana Francis",
+          "url": "https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4"
+        },
+        {
+          "name": "Rockzane",
+          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
+        }
+      ],
+      "duration_ms": 177441,
+      "name": "High Court",
+      "url": "https://open.spotify.com/track/0RcQw5LcuGL85XDd4MZX46"
+    },
+    {
       "added_at": "2026-09-02 15:26:39",
       "album": {
         "name": "Silpo Silati",
@@ -151,6 +175,22 @@
       "duration_ms": 201082,
       "name": "Anbin Nadhiye",
       "url": "https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X"
+    },
+    {
+      "added_at": "2026-10-05 16:12:15",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/47HhvsCPvf1oGZe6MAjvGy"
+      },
+      "artists": [
+        {
+          "name": "Vengiruth",
+          "url": "https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv"
+        }
+      ],
+      "duration_ms": 201692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7JU8Mh9aBe0UIYFlyk8fMl"
     },
     {
       "added_at": "2026-09-03 06:04:32",
@@ -221,6 +261,22 @@
       "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
     },
     {
+      "added_at": "2026-10-05 16:12:15",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/5oHUqhBzWHw2ZHpJhPcvJ1"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sasikumar",
+          "url": "https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Poongkuzhali",
+      "url": "https://open.spotify.com/track/6KZBXAezWI5Ck53bGUkJSC"
+    },
+    {
       "added_at": "2026-07-27 06:38:44",
       "album": {
         "name": "I-Popstar Tamil | Ep 01",
@@ -239,26 +295,6 @@
       "duration_ms": 174000,
       "name": "Bodha Kannadi",
       "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
-    },
-    {
-      "added_at": "2026-09-28 12:23:20",
-      "album": {
-        "name": "Dhandasoru",
-        "url": "https://open.spotify.com/album/5ytGU10zvSkafxZhEa1oJL"
-      },
-      "artists": [
-        {
-          "name": "Amit Bhargav",
-          "url": "https://open.spotify.com/artist/6F0M7hGso4d0FnGNmBz5c2"
-        },
-        {
-          "name": "Gana Vinoth",
-          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
-        }
-      ],
-      "duration_ms": 202115,
-      "name": "Dhandasoru",
-      "url": "https://open.spotify.com/track/1xdu1pMV6oSoCkC23ZOS9P"
     },
     {
       "added_at": "2026-09-24 14:39:03",
@@ -1693,22 +1729,6 @@
       "url": "https://open.spotify.com/track/0ARQLookb1w5u7AsNq4AHm"
     },
     {
-      "added_at": "2026-05-14 06:01:44",
-      "album": {
-        "name": "I Love You MA",
-        "url": "https://open.spotify.com/album/5HJchuj36N2O9QfzF6qcOI"
-      },
-      "artists": [
-        {
-          "name": "Santesh",
-          "url": "https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "I Love You MA",
-      "url": "https://open.spotify.com/track/3ZfxwZtwbv4Lc8ew5V8HGN"
-    },
-    {
       "added_at": "2026-05-29 10:56:32",
       "album": {
         "name": "Ninaivil Nee",
@@ -1839,30 +1859,6 @@
       "duration_ms": 230126,
       "name": "Husky Dusky",
       "url": "https://open.spotify.com/track/6a39b7ysisF42OBCnLwf3r"
-    },
-    {
-      "added_at": "2026-05-10 01:11:33",
-      "album": {
-        "name": "Black Bird (Tamil Indie)",
-        "url": "https://open.spotify.com/album/60pI64XT1V8yfFaOSYaVuJ"
-      },
-      "artists": [
-        {
-          "name": "Ma Ka Pa Anand",
-          "url": "https://open.spotify.com/artist/4ynompdDbgPE44v5HCaj5H"
-        },
-        {
-          "name": "Aravind Krishnan",
-          "url": "https://open.spotify.com/artist/0owkZHxRr3dhp1WYhsv6jq"
-        },
-        {
-          "name": "Vijay Krishna",
-          "url": "https://open.spotify.com/artist/5XaaO0L3wXK7k77q3HVT2r"
-        }
-      ],
-      "duration_ms": 210004,
-      "name": "Black Bird (Tamil Indie)",
-      "url": "https://open.spotify.com/track/59W0o0nhimLgm03hcYPt1g"
     },
     {
       "added_at": "2026-05-11 07:56:08",

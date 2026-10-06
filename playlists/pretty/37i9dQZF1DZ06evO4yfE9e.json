@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2966,
+  "num_followers": 2969,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAASise+YB23APDxfrQWFipl",
+  "snapshot_id": "asGXAAAAAADUB+0tI1WdxJDaZ+pJ/j/D",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raised by Wolves",
+        "url": "https://open.spotify.com/album/09Ai9S7gX4xzkfFdaqSFND"
+      },
+      "artists": [
+        {
+          "name": "Jayelle",
+          "url": "https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "Raised by Wolves",
+      "url": "https://open.spotify.com/track/7al5J4fuvbQaLoRUdbzWb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
         "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
       },
@@ -359,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raised by Wolves",
-        "url": "https://open.spotify.com/album/09Ai9S7gX4xzkfFdaqSFND"
-      },
-      "artists": [
-        {
-          "name": "Jayelle",
-          "url": "https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "Raised by Wolves",
-      "url": "https://open.spotify.com/track/7al5J4fuvbQaLoRUdbzWb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nympho",
         "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 152418,
       "name": "bubblegum pink",
       "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lickity Splickity",
-        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Lickity Splickity",
-      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 146289,
       "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
       "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lickity Splickity",
+        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Lickity Splickity",
+      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
     },
     {
       "added_at": null,

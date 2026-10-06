@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,854 songs - 10 day 23 hr 18 min
+4,858 songs - 10 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 | 2026-04-12 |  |
 | [23](https://open.spotify.com/track/6HVmyrZU9D3Sfapna1zjnw) | [Whelve Records](https://open.spotify.com/artist/44D4tFTIsjJ0jB9MLI6Lef) | [WASTE OF EMOTIONS](https://open.spotify.com/album/3jPWHVQzNGodCfEcecWm6v) | 3:39 | 2025-11-24 |  |
 | [23.19](https://open.spotify.com/track/7JHPqDARVWNc8QAGQnyH7d) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [23.19](https://open.spotify.com/album/3nOXVpQ3D2YAByXU8UvqXy) | 3:52 | 2025-12-04 |  |
+| [24/7](https://open.spotify.com/track/1uY5WRATMThxmTSpofWjp4) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 3:23 | 2026-10-05 |  |
 | [27 volte](https://open.spotify.com/track/5H9HXGRtfPD1NjErTVZSHP) | [Iride](https://open.spotify.com/artist/1LErffHDNYotcwZRT4KnJf) | [27 VOLTE](https://open.spotify.com/album/09kQvBfJPjd6qBCLBGUyM7) | 2:47 | 2025-06-12 |  |
 | [2FUp](https://open.spotify.com/track/76nvjG0mZrsTrm2bTl9Xux) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [RealWar](https://open.spotify.com/album/5zDHDYDcxcOxVoT7Tv7KGM) | 1:43 | 2025-06-23 |  |
 | [2soul's](https://open.spotify.com/track/2F31Te0woaebflALzZk1vc) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:55 | 2026-02-01 |  |
@@ -2356,6 +2357,7 @@
 | [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
 | [Let It Bleed](https://open.spotify.com/track/0cBiwdu8dD69h2UweTcH59) | [Tony Ray Pace](https://open.spotify.com/artist/190f4z8As3hYZggN6JiHd4) | [Let It Bleed](https://open.spotify.com/album/35CImHdxIif3BJWXA4zzJl) | 4:34 | 2026-10-04 |  |
 | [let me go](https://open.spotify.com/track/4c2x6SuZiLrJrjEJ4CgNaK) | [Jilon](https://open.spotify.com/artist/0rOB5CmsbAyJa46xty6taM) | [SHOCKED](https://open.spotify.com/album/3kCJuru15qWICnIe32vhbp) | 2:34 | 2026-09-28 |  |
+| [Let Me Go](https://open.spotify.com/track/3aijmSI95NV61VNQoIYNgl) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Let Me Go](https://open.spotify.com/album/65AC0ewgLffUCSyF5yTALU) | 3:10 | 2026-10-05 |  |
 | [Let Me See The Fire](https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Let Me See The Fire](https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy) | 3:12 | 2026-09-18 |  |
 | [Let me try again](https://open.spotify.com/track/0xjCRP1uRfxXICjXoDmteU) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [Let me try again](https://open.spotify.com/album/42eSRFYwg1HeSiXpVeGySr) | 3:26 | 2025-04-02 |  |
 | [Let super](https://open.spotify.com/track/2c4558q1mDpIpnuPyuM5iW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:43 | 2025-09-12 |  |
@@ -2928,6 +2930,7 @@
 | [No Panic](https://open.spotify.com/track/1gvz2VK5Wtv7BtztSU0OFX) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [No Panic](https://open.spotify.com/album/22w7HPCpiTM3SBdOfTuiNW) | 5:01 | 2025-06-06 |  |
 | [no passa nada](https://open.spotify.com/track/3CVKiKOtxUYGNEZq4b55ou) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 3:15 | 2026-02-01 |  |
 | [No Plus One](https://open.spotify.com/track/4B2yA9S7ZfzoXojYIuyO29) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 2:42 | 2026-08-27 |  |
+| [No quiero estar solo nunca más](https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl) | [Blackstonia](https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR) | [Días Mejores](https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx) | 3:24 | 2026-10-05 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-09-24 |  |
 | [No Todo Lo Que Brilla Tiene Valor](https://open.spotify.com/track/2tUr3w9cGvYIA5FtGj723V) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [No Todo Lo Que Brilla Tiene Valor](https://open.spotify.com/album/516C2FKUKbp6PUDDQaJpPw) | 4:27 | 2025-07-03 |  |
 | [No Tu!](https://open.spotify.com/track/6ZE528t8m5WY92FYmUa1e5) | [Luca Cescotti](https://open.spotify.com/artist/6uQkF6zq4QbExwuTTViTD1) | [No Tu!](https://open.spotify.com/album/2CQv1EGnAv6CZ1faGJY2Cg) | 3:19 | 2026-01-04 |  |
@@ -3080,6 +3083,7 @@
 | [Only Against Yesterday](https://open.spotify.com/track/5e75TI39IgaBwWu6TwZywH) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:24 | 2026-08-20 |  |
 | [Only Against Yesterday \(fomo mode\)](https://open.spotify.com/track/3H5EMDNSqiKHEMBmocrsr7) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 | 2026-08-20 |  |
 | [Only Dreamer is Real](https://open.spotify.com/track/52yMT5xCwSivgSHXuohwXl) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Only Dreamer is Real](https://open.spotify.com/album/1YkKOsvGuRpYMzWgqN5W8f) | 9:31 | 2025-06-04 |  |
+| [Only If](https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q) | [GRG T](https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd) | [Only If](https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n) | 1:40 | 2026-10-05 |  |
 | [Only love matters](https://open.spotify.com/track/7kl0acdjYhuxJgF4w7muMd) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters](https://open.spotify.com/album/7nCc9JShXPUm0N3WysAMO6) | 3:11 | 2025-09-02 |  |
 | [OnlyFans](https://open.spotify.com/track/1SAvOYT71gQehrhVQmf2t1) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 2:47 | 2025-04-04 |  |
 | [OnlyFans](https://open.spotify.com/track/3R52pBR5G0FD3civRgFkd7) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [OnlyFans](https://open.spotify.com/album/4S9nEqIUxftBsEH9E7alnD) | 2:47 | 2025-04-04 |  |

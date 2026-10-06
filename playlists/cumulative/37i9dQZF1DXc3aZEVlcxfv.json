@@ -5837,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
+    },
+    {
+      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6"
       },
@@ -6964,7 +6982,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 220318,
       "name": "Ina Son Ka",
       "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"

@@ -6413,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings (Deluxe)",
         "url": "https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc"
       },
@@ -6622,7 +6640,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 150278,
       "name": "pls don't",
       "url": "https://open.spotify.com/track/72rUI6IZFVra9w66d4txyI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > Canada's best dance hits, featuring Dom Dolla, Solomun, & Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,815 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,804 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 3 | [TTW \- Kaytranada Remix](https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TTW \(Kaytranada Remix\)](https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr) | 4:27 |
 | 4 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |
 | 5 | [Close My Eyes \(feat\. SACHA\)](https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Close My Eyes \(feat\. SACHA\)](https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA) | 2:43 |
-| 6 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 6 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 7 | [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/track/0lVwceIL4ITv4wi4Hgm8fK) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Bonjour, Pardon, Merci \(Bon Entendeur Remix\)](https://open.spotify.com/album/5IKxKYRH2WRehMSCBh8rn0) | 2:51 |
 | 8 | [Long Jacket](https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Long Jacket](https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1) | 3:31 |
 | 9 | [Woops](https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Dj Bountyhunter](https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66), [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Woops](https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC) | 2:07 |

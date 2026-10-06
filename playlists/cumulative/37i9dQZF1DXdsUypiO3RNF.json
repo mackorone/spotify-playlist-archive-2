@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Slow Dreaming - Solfeggio",
+        "url": "https://open.spotify.com/album/6l2WN6RkmEHqGYne8kBeqN"
+      },
+      "artists": [
+        {
+          "name": "Serein Nivane",
+          "url": "https://open.spotify.com/artist/5BVnKeNY4UFWrwzbEski4v"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "639 Hz - Slow Dreaming",
+      "url": "https://open.spotify.com/track/5xS8M7w3rawa8H6YazvaGq"
+    },
+    {
+      "album": {
         "name": "Soledad Tranquilo",
         "url": "https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF"
       },
@@ -1598,6 +1616,24 @@
       "duration_ms": 177534,
       "name": "Heartbeat 639 Hz",
       "url": "https://open.spotify.com/track/0EEV9nCjJQOFwucysFrWRV"
+    },
+    {
+      "album": {
+        "name": "Heliocentric 639 Hz",
+        "url": "https://open.spotify.com/album/3mig3jplB68a75lxIxVAUB"
+      },
+      "artists": [
+        {
+          "name": "Njordir",
+          "url": "https://open.spotify.com/artist/2ZwwoRPpp2zp4txNRwjlew"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250279,
+      "name": "Heliocentric 639 Hz",
+      "url": "https://open.spotify.com/track/7dpqL9PVMI5yefBkPazUIx"
     },
     {
       "album": {

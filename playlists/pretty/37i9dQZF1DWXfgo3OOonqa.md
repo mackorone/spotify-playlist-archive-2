@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,265 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,267 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
 | 2 | [Kejsar](https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Kejsar](https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC) | 2:22 |
 | 3 | [G](https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [G](https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg) | 2:22 |
-| 4 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
-| 5 | [Tills vi ses igen](https://open.spotify.com/track/1WzaiQ8J7JAsnzrF4t2x9N) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer II \(Deluxe\)](https://open.spotify.com/album/3SZn0XNNMtFD5e4e7CvGmR) | 2:23 |
-| 6 | [Came Up](https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 2:10 |
+| 4 | [Came Up](https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 2:10 |
+| 5 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
+| 6 | [Tills vi ses igen](https://open.spotify.com/track/1WzaiQ8J7JAsnzrF4t2x9N) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer II \(Deluxe\)](https://open.spotify.com/album/3SZn0XNNMtFD5e4e7CvGmR) | 2:23 |
 | 7 | [Fashion Week](https://open.spotify.com/track/7HCAkdsOF2NXnVH1RAmMG7) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Fashion Week](https://open.spotify.com/album/2ql9GwMY9y4gTrTKZO2CD9) | 2:22 |
 | 8 | [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 |
-| 9 | [Inte här](https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Inte här](https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN) | 2:47 |
-| 10 | [VILL VARA HÄR](https://open.spotify.com/track/4OG3ULeZl3idtV93yagqsd) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [VILL VARA HÄR](https://open.spotify.com/album/64YKDTujJPN5uQSv53CMrJ) | 2:10 |
-| 11 | [Man in the Dark](https://open.spotify.com/track/02fVLkPsYiwQ12RyihMkAV) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [Man in the Dark](https://open.spotify.com/album/6LSkORK2lLludjWIl9gku5) | 2:39 |
-| 12 | [PIXEL](https://open.spotify.com/track/2VuYDwgIh76zdQ5RWAXhua) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [NIGHTVISION](https://open.spotify.com/album/7kL76LZzEHGXhoe5PvTdTR) | 3:05 |
-| 13 | [Min Historia](https://open.spotify.com/track/7thjeSK8rvU3R3Oz6gOLGT) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Min Historia](https://open.spotify.com/album/1I0iy29nOngYxtfR47090f) | 2:24 |
-| 14 | [Higher](https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Higher](https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k) | 2:04 |
-| 15 | [Nasini](https://open.spotify.com/track/0R4NRSS9jH7ciOi7ayvQdb) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer II](https://open.spotify.com/album/2SINbkLAUomo2lL55rc01F) | 2:59 |
-| 16 | [W](https://open.spotify.com/track/5L7ZjyykDFPHktavvwTlaX) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [W](https://open.spotify.com/album/7era07S82gOJG3PRolPLZR) | 3:17 |
-| 17 | [Gatubarn](https://open.spotify.com/track/6LWTVZtCFXLOCCvP1sz3lU) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Gatubarn](https://open.spotify.com/album/4Z5w2qIKOqXScPNgGHXhWt) | 1:54 |
-| 18 | [2 2’s](https://open.spotify.com/track/2Ild4kndcMMXwNL3R0pPei) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [STILL HERE](https://open.spotify.com/album/1ZcSdlJ2Htap4JzUXd2ixw) | 2:49 |
+| 9 | [Man in the Dark](https://open.spotify.com/track/02fVLkPsYiwQ12RyihMkAV) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [Man in the Dark](https://open.spotify.com/album/6LSkORK2lLludjWIl9gku5) | 2:39 |
+| 10 | [Min Historia](https://open.spotify.com/track/7thjeSK8rvU3R3Oz6gOLGT) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Min Historia](https://open.spotify.com/album/1I0iy29nOngYxtfR47090f) | 2:24 |
+| 11 | [PIXEL](https://open.spotify.com/track/2VuYDwgIh76zdQ5RWAXhua) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [NIGHTVISION](https://open.spotify.com/album/7kL76LZzEHGXhoe5PvTdTR) | 3:05 |
+| 12 | [Higher](https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Higher](https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k) | 2:04 |
+| 13 | [Nasini](https://open.spotify.com/track/0R4NRSS9jH7ciOi7ayvQdb) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer II](https://open.spotify.com/album/2SINbkLAUomo2lL55rc01F) | 2:59 |
+| 14 | [Gatubarn](https://open.spotify.com/track/6LWTVZtCFXLOCCvP1sz3lU) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Gatubarn](https://open.spotify.com/album/4Z5w2qIKOqXScPNgGHXhWt) | 1:54 |
+| 15 | [2 2’s](https://open.spotify.com/track/2Ild4kndcMMXwNL3R0pPei) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [STILL HERE](https://open.spotify.com/album/1ZcSdlJ2Htap4JzUXd2ixw) | 2:49 |
+| 16 | [Inte här](https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Inte här](https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN) | 2:47 |
+| 17 | [VILL VARA HÄR](https://open.spotify.com/track/4OG3ULeZl3idtV93yagqsd) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [VILL VARA HÄR](https://open.spotify.com/album/64YKDTujJPN5uQSv53CMrJ) | 2:10 |
+| 18 | [W](https://open.spotify.com/track/5L7ZjyykDFPHktavvwTlaX) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [W](https://open.spotify.com/album/7era07S82gOJG3PRolPLZR) | 3:17 |
 | 19 | [Vart Vi Står](https://open.spotify.com/track/27opnUt9HKQjJ1theDetLt) | [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [Vart Vi Står](https://open.spotify.com/album/2gzxIX85hjlYwQjA5YWWLA) | 1:57 |
 | 20 | [Ride Or Die](https://open.spotify.com/track/6itdV2tNZexpphrEfZGiXC) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ride Or Die](https://open.spotify.com/album/7ooGHtHXunbRyohHb6mGMF) | 2:11 |
 | 21 | [Mandela](https://open.spotify.com/track/3ePD9nCBc2kZtwxQExfLpE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 |
 | 100 | [Detaljer](https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Detaljer](https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ) | 2:03 |
 
-Snapshot ID: `AAAAAFb+R1yS/HC+Wmclu01RpZbRHSav`
+Snapshot ID: `AAAAAPyfUjHWSLNPbxtBCtaRWKnexw+F`

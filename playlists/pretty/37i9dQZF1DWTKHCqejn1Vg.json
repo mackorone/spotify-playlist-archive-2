@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34735,
+  "num_followers": 34733,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "What if we met at another place ?",
-        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "What if we met at another place ?",
-      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
       "added_at": "2026-09-03 07:18:48",

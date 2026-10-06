@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKaoRUhDKHAHa3QHdPImC9lN5ha9gu",
+  "snapshot_id": "AAAKbtOqg1O11dE9anfDHFli7XFT7lTE",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -80103,6 +80103,70 @@
       "duration_ms": 239360,
       "name": "Bring Your Love Back",
       "url": "https://open.spotify.com/track/6Xo4ctpvfZLP86LGWW7lqo"
+    },
+    {
+      "added_at": "2026-10-05 10:19:16",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/65AC0ewgLffUCSyF5yTALU"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "duration_ms": 190882,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3aijmSI95NV61VNQoIYNgl"
+    },
+    {
+      "added_at": "2026-10-05 19:34:52",
+      "album": {
+        "name": "D\u00edas Mejores",
+        "url": "https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx"
+      },
+      "artists": [
+        {
+          "name": "Blackstonia",
+          "url": "https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "No quiero estar solo nunca m\u00e1s",
+      "url": "https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl"
+    },
+    {
+      "added_at": "2026-10-05 19:56:48",
+      "album": {
+        "name": "Hello Wrld",
+        "url": "https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1uY5WRATMThxmTSpofWjp4"
+    },
+    {
+      "added_at": "2026-10-05 19:56:51",
+      "album": {
+        "name": "Only If",
+        "url": "https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n"
+      },
+      "artists": [
+        {
+          "name": "GRG T",
+          "url": "https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd"
+        }
+      ],
+      "duration_ms": 100749,
+      "name": "Only If",
+      "url": "https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q"
     }
   ],
   "unique_name": "playlist spotify free",

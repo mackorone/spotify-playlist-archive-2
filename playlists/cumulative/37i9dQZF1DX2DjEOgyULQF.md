@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-526 songs - 1 day 0 hr 50 min
+527 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 | 2026-04-04 |
-| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 |  |
+| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 | 2026-10-06 |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2025-03-02 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 | 2025-02-13 |
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 | 2026-06-27 |
@@ -491,6 +491,7 @@
 | [Undiscovered](https://open.spotify.com/track/1GzLMPydK2QU21dcTsYOsZ) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Undiscovered](https://open.spotify.com/album/7dXoaFvmWQH9M5lSSoKBn9) | 2:58 | 2025-03-19 | 2026-04-04 |
 | [Universal Flow](https://open.spotify.com/track/2EnUrCq7Dqvxvx1k3TxVaT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Universal Flow](https://open.spotify.com/album/5Gk6erdt0eQwJv4Mt6OFLZ) | 2:48 | 2024-06-03 | 2025-12-18 |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 | 2025-02-18 |
+| [Valley Air](https://open.spotify.com/track/7wjNWjXwo8G48ofpfyQ9M6) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Valley Air](https://open.spotify.com/album/5hnBapnE5wa6PjYxnxU5nC) | 2:34 | 2026-09-21 |  |
 | [Valley Drift](https://open.spotify.com/track/4DhputU3HbL8GnnKMwPWAs) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Valley Drift](https://open.spotify.com/album/3M5aT3MglwYmIS7EYO5M9D) | 3:06 | 2026-09-21 |  |
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-04-03 |  |

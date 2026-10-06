@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-179 songs - 8 hr 35 min
+184 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [396 Hz Trust](https://open.spotify.com/track/4NhI2B87g3Y6lYKwinjKYQ) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [396 Hz Trust](https://open.spotify.com/album/4GmYZuJ5BZlMkVOL7RNX3u) | 3:26 | 2023-08-07 |  |
 | [396 Hz Vibrations](https://open.spotify.com/track/3Vbu34Mfzo5RhYyeWsWMz1) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Repair and Recovery Frequencies](https://open.spotify.com/album/4245O4DlmalBzkDzC8kBpV) | 3:06 | 2023-03-10 |  |
 | [396 Hz Visualization](https://open.spotify.com/track/4QwWUv2gYQ6W7KTNN8xSuQ) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [396 Hz Gratitude](https://open.spotify.com/album/6ru7XsFIuGWhLwaYz3UArj) | 2:52 | 2023-08-07 | 2025-10-02 |
+| [396 Hz Where the Whales Wander](https://open.spotify.com/track/79SXoKG41LBYh8tBNVO7sj) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [396 Hz Where the Whales Wander](https://open.spotify.com/album/4nxmC2LjdNW9K4KZm2TT8L) | 3:26 | 2026-10-05 |  |
 | [396 Hz Within](https://open.spotify.com/track/2sUR3xGWcr7Pl8zQZWHoto) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [396 Hz Within](https://open.spotify.com/album/5fsG5YYQHL9wyxHDryrKe8) | 2:54 | 2025-07-09 |  |
 | [396 Hz – Talentueuse](https://open.spotify.com/track/5deGJzxKhYUcNwkmRjBUkX) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:27 | 2023-03-10 |  |
 | [396 Solfeggio Attunement](https://open.spotify.com/track/4W277q5YpaKsOAvjH8yFqL) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [396: Anti\-Anxiety Healing](https://open.spotify.com/album/70KNu977UCTHCUqraKrVNR) | 2:24 | 2023-03-10 |  |
@@ -125,6 +126,7 @@
 | [Core Healer \(396 Hz\)](https://open.spotify.com/track/5CwJ4rRpHttyjIYTO07KmH) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Healing Sleep](https://open.spotify.com/album/5ipmmUltHfJSwnfUvxHYHA) | 3:20 | 2023-03-10 | 2025-10-02 |
 | [Core of 396 Hz](https://open.spotify.com/track/1Nquh8SHeXhzCwTj8HpDBn) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Solfeggiocore](https://open.spotify.com/album/5aITPJ7qwTcSpLLsSZG7aY) | 2:47 | 2025-12-12 |  |
 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 | 2023-03-10 | 2023-08-08 |
+| [Earthless 396Hz](https://open.spotify.com/track/2dTRTA5JVJxPMo5Topful5) | [Solros](https://open.spotify.com/artist/1nYR0YG5gsvYQFqiFW76RA) | [Earthless 396Hz](https://open.spotify.com/album/1K2LNGLQhL6UvO13hE3oQt) | 2:45 | 2026-10-05 |  |
 | [Ease 396 Hz](https://open.spotify.com/track/1yxAANCYLJYX2ILnoPSt7E) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Ease 396 Hz](https://open.spotify.com/album/3RO8AiGiA1HxVXNEttMJHG) | 2:44 | 2023-03-10 |  |
 | [Embracing 396 Hz](https://open.spotify.com/track/547oFf7Dy4t8M6o0Wsr0AX) | [Zen Echo](https://open.spotify.com/artist/5eWu2fgjPnTBnOHIozz45u) | [Embracing 396 Hz](https://open.spotify.com/album/52nKF6hzmMN3GNz139ueGZ) | 2:50 | 2024-05-11 |  |
 | [Energy 396 Hz](https://open.spotify.com/track/1o8P0zMkhl9YsqFJbK8OoZ) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Energy 396 Hz](https://open.spotify.com/album/7MmxsEdeci3fj7AXz3n1UN) | 2:58 | 2023-11-30 | 2026-02-19 |
@@ -158,6 +160,7 @@
 | [Pace Setting \(396 Hz\)](https://open.spotify.com/track/0MrfRWL1e7BzteaVRLM86J) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Solfeggios for Root Chakra](https://open.spotify.com/album/5yHk2mxxyE3OmRcdlaAkMo) | 3:46 | 2023-03-10 |  |
 | [Pathfinding \(396 Hz\)](https://open.spotify.com/track/4dDU6T7MSk0W89QPaDP7HK) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Pathfinding \(396 Hz\)](https://open.spotify.com/album/3b86BeHvuSoXlIcNoZzqGa) | 2:44 | 2025-02-18 |  |
 | [Peaceful Presence 396 Hz](https://open.spotify.com/track/0M0tEFulBEWq9OMjXflBvB) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Peaceful Presence 396 Hz](https://open.spotify.com/album/1JFVPlYSb8xx8xKriliwJd) | 2:50 | 2025-05-06 |  |
+| [Phone Home to Oberon 396hz](https://open.spotify.com/track/2zDijvfCBjq7Wxw00evstk) | [Moon Safari](https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy) | [Phone Home to Oberon 396hz](https://open.spotify.com/album/3uo776V1rYzyzzyixCIaMD) | 2:49 | 2026-10-05 |  |
 | [Picturize \(396 Hz\)](https://open.spotify.com/track/2wGi1eRBJ03U61QNaVyI4p) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [Base Healer](https://open.spotify.com/album/6s9FrbHI13ZqKW016EDSQw) | 3:13 | 2023-03-10 |  |
 | [Profound Stimulation 396Hz](https://open.spotify.com/track/3KitrNzND1kml4eFYlRoAI) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Profound Stimulation 396Hz](https://open.spotify.com/album/79hjQDQavIK2NYifIE9MMb) | 2:48 | 2023-03-10 |  |
 | [Proteus 396 Hz](https://open.spotify.com/track/62xkkk7Y6AlWBUg4VK58S0) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [Proteus 396 Hz](https://open.spotify.com/album/6lvwWKVGgnXZ9klEd0hyZR) | 2:37 | 2026-02-18 |  |
@@ -175,12 +178,14 @@
 | [Roots of 396 Hz](https://open.spotify.com/track/2cMSzzAoy2WFMVkODxmFP7) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [Roots of 396 Hz](https://open.spotify.com/album/4uKxUIkYoNWx4MViZ53Ucc) | 2:36 | 2026-07-01 |  |
 | [Sanctuaire \- 396 Hz](https://open.spotify.com/track/4uYqVRHyipvWNrvCSTsWrW) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Sanctuaire](https://open.spotify.com/album/7ziZCzsvTqnc9PzFX4YhUy) | 2:32 | 2023-03-10 |  |
 | [secure 396 Hz](https://open.spotify.com/track/6kuj6CzQ7yHrbLowd0X7Dq) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:03 | 2023-03-10 |  |
+| [Shapes of 396 Hz](https://open.spotify.com/track/4W6IWqejvqQqALzURLoI8A) | [Space Cabin](https://open.spotify.com/artist/1sQlUZSd14ydX9eEac57rs) | [Shapes of 396 Hz](https://open.spotify.com/album/4AIX8tqgnabL4lEEbAOHCG) | 2:44 | 2026-10-05 |  |
 | [Solara \(396 Hz\)](https://open.spotify.com/track/6zC8HRbXbpaeFThUlezMXZ) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Solara \(396 Hz\)](https://open.spotify.com/album/4NtZ3sUZ27HZ9Ek5BTZssd) | 3:40 | 2026-02-18 |  |
 | [Solfeggio Starscape 396 Hz](https://open.spotify.com/track/78eTh6GwqiItpNwaXDrsOr) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/track/0mC64f2FjjnJb6Zun1ZwtM) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/album/1ZF740ON7OBSI6pz43E6Vd) | 2:33 | 2023-03-10 | 2024-08-28 |
 | [Spirit Pathways 396 Hz](https://open.spotify.com/track/4IWrqMv64Ttjf832H7C5g6) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [Spirit Pathways 396 Hz](https://open.spotify.com/album/5lXMLJPO7xTZYidGSKCQNT) | 3:13 | 2025-05-06 |  |
 | [Sthir 396 Hz](https://open.spotify.com/track/1Jn647F7ZEOooJ3nJbYT8p) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Sthir 396 Hz](https://open.spotify.com/album/1yZ8vUUivjzU6tj23UODFM) | 2:51 | 2024-04-07 |  |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-11 |  |
+| [Sunset Therapy 396hz](https://open.spotify.com/track/14zRRkXhVXxOx6IZnTB2V7) | [Jona Moon](https://open.spotify.com/artist/14ITTnp5tCk1o02WYli4j0) | [Sunset Therapy 396hz](https://open.spotify.com/album/5btWPYWJfT8FgkUPV0v5fv) | 2:31 | 2026-10-05 |  |
 | [Svatantrata 396 Hz](https://open.spotify.com/track/4emZsm0rmS8KUIyj9r5loL) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Svatantrata 396 Hz](https://open.spotify.com/album/4jMDjeaF1MFW6LlzaOJp0J) | 3:02 | 2023-03-10 | 2024-08-28 |
 | [Take It In \- Solfeggio 396hz](https://open.spotify.com/track/0H1srQjvV7qrVTwjcr1n6Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Take It In \- 396hz](https://open.spotify.com/album/3DKB77ix3qySwrkcezdMrh) | 2:30 | 2024-12-18 |  |
 | [The color dream 396hz](https://open.spotify.com/track/44Qvr732lrHR4vQZMujltu) | [Facade Defile](https://open.spotify.com/artist/3TJ7biywcGxSgx94B7d1mN) | [The color dream 396hz](https://open.spotify.com/album/3mf7y9oKjnaJsJ9e1P9KXj) | 2:39 | 2023-03-10 |  |

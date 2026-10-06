@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🕊️ featuring Alison Wonderland & WINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,485 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,472 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 15 | [YAAA!!!](https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP) | [MAPLO](https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI) | [YAAA!!!](https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE) | 3:03 |
 | 16 | [KISS \(feat\. Ragga Twins\)](https://open.spotify.com/track/1QX4y0HykrENj1NTjzmXub) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [KISS \(feat\. Ragga Twins\)](https://open.spotify.com/album/2tyO9VWVgispJpRbPJkRYS) | 2:34 |
 | 17 | [SMILING/HIDING](https://open.spotify.com/track/2giyc0lqQZu5Nc1aX9AV9X) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu), [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [SMILING/HIDING](https://open.spotify.com/album/4VdZEi2IKSYO0IneCg3j2l) | 3:54 |
-| 18 | [JUST MY TYPE](https://open.spotify.com/track/6PkFV41fnmD0Qxu16APjE5) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [JUST MY TYPE](https://open.spotify.com/album/4ieiAs22naG4n0k2xy9BqZ) | 3:02 |
+| 18 | [JUST MY TYPE](https://open.spotify.com/track/6PkFV41fnmD0Qxu16APjE5) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [JUST MY TYPE](https://open.spotify.com/album/4ieiAs22naG4n0k2xy9BqZ) | 3:16 |
 | 19 | [love u.](https://open.spotify.com/track/5vmLXOyC2Qj4OwVCYlQonF) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [MIO](https://open.spotify.com/artist/2lGkoQdRUE1Z08bSY8W2fX) | [love u.](https://open.spotify.com/album/013t5D0dEJyG14ZgRQtQqh) | 3:12 |
 | 20 | [All I Need](https://open.spotify.com/track/2BpWIXkAIQvBvTdQVcyYTq) | [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Keir Gibson](https://open.spotify.com/artist/7ey2WoBWg8ibvFA69UNy0M) | [All I Need](https://open.spotify.com/album/6Se6Ms3VemVAL03nu22DRV) | 4:02 |
 | 21 | [I’ll Be Waiting](https://open.spotify.com/track/7K7dgSpbORdK0LphOr0uTj) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [I’ll Be Waiting](https://open.spotify.com/album/52CXSYMdQjqw2XQ99kEqup) | 3:34 |

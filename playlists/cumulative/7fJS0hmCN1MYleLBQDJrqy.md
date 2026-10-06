@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-255 songs - 11 hr 29 min
+256 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Papa's Geld](https://open.spotify.com/track/0zwazASa657BlcIcx8lYyk) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Papa's Geld](https://open.spotify.com/album/13YCIl3X503L1zASNd0JiN) | 2:00 | 2025-07-18 | 2026-02-11 |
 | [Parkje Biertje Vrienden](https://open.spotify.com/track/3u5ktXVlv9HwRKLd0RLUUj) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Parkje Biertje Vrienden](https://open.spotify.com/album/4VcuSYw09qQv2Kf1CCTCuk) | 2:34 | 2026-09-25 |  |
 | [Plaats Delict](https://open.spotify.com/track/6fyr7vZ3O3GKeUpuoLfnbg) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Binnenspiegel](https://open.spotify.com/album/2ANcQk5JnfSECKKOt8hdtR) | 2:20 | 2026-09-25 |  |
+| [Polonaise door de Nacht](https://open.spotify.com/track/72BEra9RPq2623q74LSlAH) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Polonaise door de Nacht](https://open.spotify.com/album/0py4k2MomiJ986Ybz1yO0G) | 3:14 | 2026-10-05 |  |
 | [POPULAIR](https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [POPULAIR](https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj) | 3:12 | 2026-09-25 |  |
 | [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2026-09-25 |  |
 | [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-18 | 2025-10-11 |

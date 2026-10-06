@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-920 songs - 2 day 16 hr 53 min
+921 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 | 2022-09-30 |  |
 | [Bump Lam Plearn](https://open.spotify.com/track/0EmEEOqvuhRnXNuGYKmdpj) | [The Petch Phin Thong Band](https://open.spotify.com/artist/6dUNaUIeFx0IPjKQ0BCwHy) | [The Sound of Siam, Vol\. 2 \(Molam & Luk Thung Isan From North\-East Thailand 1970 \- 1982\)](https://open.spotify.com/album/5IXAWQ4VyPFUFEFuVWgOBp) | 3:03 | 2023-10-20 | 2023-12-05 |
 | [C'est Vrai](https://open.spotify.com/track/2o727Omitml7Jvj7AVEa4f) | [Prosper](https://open.spotify.com/artist/46Vmd1YA5zUO017xsfAAIa), [Le Marabout](https://open.spotify.com/artist/4YXND3dd55ervyH4b8G1hS), [Fou Malade](https://open.spotify.com/artist/6c96fgZXjavQnU9WxH1P2D), [Niagass](https://open.spotify.com/artist/0EQjerybhkqKvlfnVIvAOW) | [C'est Vrai](https://open.spotify.com/album/6OiJQ75UZXmMjltmTNIHXb) | 4:27 | 2022-04-22 | 2022-05-25 |
+| [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-10-05 |  |
 | [Caldera](https://open.spotify.com/track/5D46bBp3uBW53ZHuS04ERu) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Echologia](https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX) | 4:07 | 2024-02-02 | 2024-03-06 |
 | [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 | 2021-10-06 |  |
 | [Calima](https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Calima](https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR) | 3:06 | 2025-10-10 |  |
@@ -730,7 +731,7 @@
 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 | 2022-03-29 | 2025-08-08 |
 | [Sol \(YoSoyMatt Remix\)](https://open.spotify.com/track/56o0dcdZbt7GxwGI8iIXRV) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Alterego \(Deluxe\)](https://open.spotify.com/album/2bGwjvXBX8jytRMwXgRKin) | 3:42 | 2024-08-23 | 2025-04-06 |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-06 | 2022-07-29 |
-| [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 |  |
+| [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 | 2026-10-06 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-06 |  |
 | [Sorna Lorestan](https://open.spotify.com/track/7grp4TrONV4cu99mhbjOga) | [Ehsan Abdi Pour](https://open.spotify.com/artist/7tcYfMImH0mnRsjB5yUOAb) | [Sorna Lorestan](https://open.spotify.com/album/41spzG46heSG7Dy8dHmxfa) | 2:36 | 2021-10-06 | 2022-07-28 |
 | [Souk el Ahad](https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:51 | 2023-07-24 | 2025-05-05 |

@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,568 songs - 3 day 19 hr 15 min
+1,572 songs - 3 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 | 2026-04-22 |
 | [desperado!](https://open.spotify.com/track/0DEp4tJ30Zxjs06PoHiDp4) | [Win Bailin](https://open.spotify.com/artist/5VUoqI50dOdHPGza8ly2P8) | [desperado!](https://open.spotify.com/album/04tNuiHouI3Jd6BfTp8DMs) | 2:14 | 2026-08-05 | 2026-09-17 |
 | [Desperfección](https://open.spotify.com/track/7HlFYB6p95JOQKs62BLy4H) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Desperfección](https://open.spotify.com/album/0H0XpGvk9I3TvqWc8CCdyl) | 3:13 | 2026-07-17 | 2026-08-30 |
+| [Después del Ruido](https://open.spotify.com/track/1heJoxxdDkItCWRu36a9Mz) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Después del Ruido](https://open.spotify.com/album/7ht4LkP7p7numNHlila5Br) | 4:49 | 2026-10-05 |  |
 | [Destinazione sera](https://open.spotify.com/track/0JUuaYQuZfk3xiCVjIlVlh) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:56 | 2026-06-15 | 2026-07-19 |
 | [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 | 2026-05-14 | 2026-07-03 |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-12 |
@@ -491,6 +492,7 @@
 | [God's Waiting List](https://open.spotify.com/track/6kYDNhV42rV2tGPS8xW6Zr) | [Luhongo](https://open.spotify.com/artist/6pD84fH6AufB44ccGvLCL5) | [God's Waiting List](https://open.spotify.com/album/25muSm6wNMOlDPRahhTDdJ) | 3:02 | 2026-04-04 | 2026-05-03 |
 | [Godforsaken](https://open.spotify.com/track/6qxAEAoSzeXERxdbjxIrVn) | [Dame Fawn Denier](https://open.spotify.com/artist/6lAy6E6eYa6Feap35sZy6N) | [Godforsaken](https://open.spotify.com/album/7atHBCBbpuTD83eGd95aqC) | 3:11 | 2026-02-17 | 2026-03-15 |
 | [Gods of Sicily](https://open.spotify.com/track/6X0Tm9vCzFUHRynEDr4Q9G) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:02 | 2023-04-20 | 2025-11-29 |
+| [Golden Eyes \- Acoustic Version](https://open.spotify.com/track/1uRs4DjUyPl1VfSR83MsjA) | [Vincent misscato](https://open.spotify.com/artist/5joAwB5XMBLIVTLz11qkRf) | [Golden Eyes \(Acoustic Version\)](https://open.spotify.com/album/4Q2k2DmGcS7I2EVvoO3k6B) | 3:36 | 2026-10-05 |  |
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
 | [Good Bad Habit](https://open.spotify.com/track/4OmWnZ9E7FHdb82EhZxXTZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Good Bad Habit](https://open.spotify.com/album/3FZsuWNBNq2dRha7vUyOKO) | 3:30 | 2026-09-09 |  |
 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 | 2025-12-15 | 2026-01-15 |
@@ -683,6 +685,7 @@
 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 | 2026-07-23 | 2026-08-30 |
 | [Know U Fine](https://open.spotify.com/track/4rRSpH0e1QEJjluHPybBiZ) | [Skye Cotter](https://open.spotify.com/artist/2Zd6MDFlvS0GG7Ncyb9q67) | [Know U Fine](https://open.spotify.com/album/3gFzVNmbdPvfjrNs5FNh73) | 2:58 | 2026-06-01 | 2026-07-03 |
 | [Konnichiwa \(Love\)](https://open.spotify.com/track/2Ffgq6OfCVlwimWtDmf4Hm) | [Azeul Beats](https://open.spotify.com/artist/38NVSbyC4Zw57vgXhImYAC) | [Konnichiwa \(Love\)](https://open.spotify.com/album/0nNAz4kDdJXgHAd3cf6rct) | 2:54 | 2026-03-20 | 2026-04-22 |
+| [Kyun Itna Door](https://open.spotify.com/track/12c9MA6nWFisejwjdy04Rn) | [RC Lofty](https://open.spotify.com/artist/32hSY9yZVS9hJa7wb36hUf) | [Kyun Itna Door](https://open.spotify.com/album/0GmI4JjDE2C8KIG35SdGBp) | 3:30 | 2026-10-05 |  |
 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 | 2025-12-26 | 2026-01-24 |
 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 | 2026-03-04 | 2026-03-25 |
 | [L'Umanità è Fottuta](https://open.spotify.com/track/4gUYaglPJoehIqWJ2W7zX5) | [Raven Note](https://open.spotify.com/artist/1NRJEUIwnBQBbxRGei4NOi) | [L'Umanità è Fottuta](https://open.spotify.com/album/3MW41UPWcFuliv8m90Zb4R) | 4:11 | 2026-06-23 | 2026-07-19 |
@@ -1490,6 +1493,7 @@
 | [What About Now](https://open.spotify.com/track/0Fk4WKxOlbysiPIVARm0Lu) | [Gemma Cox](https://open.spotify.com/artist/5UHDRNiF6EMuzrtSq7tbXF) | [What About Now](https://open.spotify.com/album/4myIM1idgTbgMWXLChmzd6) | 3:34 | 2026-09-18 |  |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
+| [What We Gon' Do](https://open.spotify.com/track/18m629ygERS4br5zGuWxow) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 3:22 | 2026-10-05 |  |
 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-08-23 | 2026-09-20 |
 | [What's My Scam?](https://open.spotify.com/track/6ZudKarH8XOwIFdPHtmYI3) | [Crant Oliver Buekeley](https://open.spotify.com/artist/3ct3WW0E8NUEZawfjPdxBa), [Dax Aloysius Buekeley](https://open.spotify.com/artist/2gEi5uDdXX5Y8CUU9PhgwX) | [Exciting Opportunities](https://open.spotify.com/album/3RVeuykb5sRt59wkzFkwI6) | 3:39 | 2025-12-23 | 2026-01-24 |
 | [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 | 2026-02-26 | 2026-03-25 |

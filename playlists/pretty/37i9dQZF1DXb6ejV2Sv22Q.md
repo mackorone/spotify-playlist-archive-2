@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  RIVVAA en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,121 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,110 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:17 |
+| 1 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
 | 2 | [Cuando La Besas](https://open.spotify.com/track/3qQmHrQQlAXd9UqqOfH09R) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cuando La Besas](https://open.spotify.com/album/4aRG8e7FvSWelTvmE7I3Gq) | 3:46 |
 | 3 | [Dame un besito](https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm) | [Querido Erick](https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15) | [Caminante](https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W) | 3:11 |
 | 4 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |

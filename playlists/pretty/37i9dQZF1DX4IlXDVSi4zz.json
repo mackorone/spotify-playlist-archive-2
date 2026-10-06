@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1034492,
+  "num_followers": 1034595,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Stephanie (HNTR Remix)",
         "url": "https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
-      },
-      "artists": [
-        {
-          "name": "Joseph Capriati",
-          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
-        },
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Music Is The Answer (Dancin' And Prancin')",
-        "url": "https://open.spotify.com/album/72IyE66hhtbsWt0Lmxc0tK"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        },
-        {
-          "name": "Karl8 & Andrea Monta",
-          "url": "https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "Music Is The Answer (Dancin' And Prancin') - Edit",
-      "url": "https://open.spotify.com/track/6YR1D5tsjAZE1Zn0lnEdEd"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1855,18 +1835,22 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+        "name": "Music Is The Answer (Dancin' And Prancin')",
+        "url": "https://open.spotify.com/album/72IyE66hhtbsWt0Lmxc0tK"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Karl8 & Andrea Monta",
+          "url": "https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC"
         }
       ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+      "duration_ms": 219939,
+      "name": "Music Is The Answer (Dancin' And Prancin') - Edit",
+      "url": "https://open.spotify.com/track/6YR1D5tsjAZE1Zn0lnEdEd"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1891,6 +1875,22 @@
       "duration_ms": 138997,
       "name": "Keep It Exciting",
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-09-25 04:00:39",

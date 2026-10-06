@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Txmmyily
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,032 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,056 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 32 | [Attack](https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Attack](https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM) | 2:33 |
 | 33 | [Lakute](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:19 |
 | 34 | [AMIRI](https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0) | [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [AMIRI](https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu) | 2:46 |
-| 35 | [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:45 |
+| 35 | [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:35 |
 | 36 | [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 |
 | 37 | [Ripper's Fate](https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Ripper's Fate](https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB) | 2:29 |
 | 38 | [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Tel Kel
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,618 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,621 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 55 | [D'où je viens](https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [D'où je viens](https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi) | 2:43 |
 | 56 | [Disque D'or](https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9) | [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [Disque D'or](https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr) | 3:15 |
 | 57 | [TOUT CE QU'ON FAIT](https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 2:48 |
-| 58 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
-| 59 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
+| 58 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
+| 59 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
 | 60 | [TOUT VA TROP VITE](https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2) | [Floraison Tardive](https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz) | [Radeau Capharnaüm](https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf) | 2:55 |
 | 61 | [Cayo Perico](https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:30 |
 | 62 | [SEPT ANS DE MALHEUR \(titre permanent\)](https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [SEPT ANS DE MALHEUR \(titre temporaire\)](https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40) | 4:05 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 71 | [Goodbye](https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Random](https://open.spotify.com/artist/72NJ6Ydiryy5HTo7XONf2u) | [Tel Kel X Boutot](https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj) | 4:06 |
 | 72 | [Danger](https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Danger](https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs) | 2:40 |
 | 73 | [Riviera](https://open.spotify.com/track/4A0lJihI3xYaJ0EtW7s3aF) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Riviera](https://open.spotify.com/album/3SqYYQ4DPoO7cJ9Duqme5D) | 2:25 |
-| 74 | [Le love c'est ce que je chase](https://open.spotify.com/track/3j0gAKb72hAL7KO0MWdhHV) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [Le love c'est ce que je chase](https://open.spotify.com/album/62LH2c3fYUdAITTkYT5ua8) | 2:42 |
+| 74 | [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 |
 | 75 | [Tehfouf](https://open.spotify.com/track/1C1d6BPQ9ILd6fSgRtcQrV) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tehfouf](https://open.spotify.com/album/70DTqN5rPBB9ICMf0LkWa5) | 2:28 |
 
 Snapshot ID: `AAAAAH62BBA58Pn0dXh0QMFSkqZGw0DU`

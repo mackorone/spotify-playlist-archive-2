@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 350340,
+  "num_followers": 350345,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAAFx7AaMdzbIIe3+47fpTR+",
+  "snapshot_id": "asGXAAAAAAD2ME5Mpn6rLZyJZur8d7lz",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 83038,
-      "name": "Bookends Theme - Reprise",
-      "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+      "duration_ms": 231479,
+      "name": "My Little Town",
+      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 231479,
-      "name": "My Little Town",
-      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
+      "duration_ms": 83038,
+      "name": "Bookends Theme - Reprise",
+      "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 117218,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 171659,
       "name": "The Sun Is Burning",
       "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 117218,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 155477,
-      "name": "A Most Peculiar Man",
-      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 171386,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 155477,
+      "name": "A Most Peculiar Man",
+      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends Live On Stage",
-        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Citizen of the Planet",
-      "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 174829,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Citizen of the Planet",
+      "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
     },
     {
       "added_at": null,

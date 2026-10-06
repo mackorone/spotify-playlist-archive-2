@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1R6LCW0ZV6rP17hU2nemKc"
+      },
+      "artists": [
+        {
+          "name": "Bias Beats",
+          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143222,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/7xgAxYA61DEu3cpGJsIMuL"
+    },
+    {
+      "album": {
         "name": "Ajna",
         "url": "https://open.spotify.com/album/1XwOL2xWqSy7zeFlajSFWL"
       },
@@ -388,6 +406,24 @@
       "duration_ms": 206220,
       "name": "Arka",
       "url": "https://open.spotify.com/track/5MUingEuElrz2YoHCp01ib"
+    },
+    {
+      "album": {
+        "name": "Ash And Ember",
+        "url": "https://open.spotify.com/album/6CzR6jS7Dum8aLsOPhAtOm"
+      },
+      "artists": [
+        {
+          "name": "Blue Cliff",
+          "url": "https://open.spotify.com/artist/0oOJXjzPzhvFU7kjSxpE5s"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151932,
+      "name": "Ash And Ember",
+      "url": "https://open.spotify.com/track/6B4FsctuSWvcsTLrPZDdTG"
     },
     {
       "album": {
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 157296,
       "name": "Indian Tabla Meditation",
       "url": "https://open.spotify.com/track/2CS6YzRWMU1T3MZl4xKiIX"
@@ -2123,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Kunlun",
+        "url": "https://open.spotify.com/album/3rmkhmGmCSkLnM34HGaSZu"
+      },
+      "artists": [
+        {
+          "name": "Nordic Echoes",
+          "url": "https://open.spotify.com/artist/3LTBnCONztv6Bwj6QmAuMT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161063,
+      "name": "Kunlun",
+      "url": "https://open.spotify.com/track/0ZRlIro1q3qApgYGjYN9SI"
+    },
+    {
+      "album": {
         "name": "Law of Attraction",
         "url": "https://open.spotify.com/album/1RWGo6cBMk8UIuCA2xqcml"
       },
@@ -2138,6 +2192,24 @@
       "duration_ms": 150000,
       "name": "Law of Attraction",
       "url": "https://open.spotify.com/track/7Dd6lHMGsfo9y0wDibwXZ0"
+    },
+    {
+      "album": {
+        "name": "Law Of Attraction",
+        "url": "https://open.spotify.com/album/4gJmg14kMriF0RRWE0cLHU"
+      },
+      "artists": [
+        {
+          "name": "Jo Mar Fred",
+          "url": "https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Law Of Attraction",
+      "url": "https://open.spotify.com/track/4Vob6wz5E60nGDFnyOgjsp"
     },
     {
       "album": {
@@ -2267,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Mathura Rhythms",
+        "url": "https://open.spotify.com/album/2XiBWkVLiQQXWoI2x6ALmo"
+      },
+      "artists": [
+        {
+          "name": "Mathura Horizon",
+          "url": "https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156627,
+      "name": "Mathura Rhythms",
+      "url": "https://open.spotify.com/track/2diGN4YoZHZL5qcx6xWtdp"
+    },
+    {
+      "album": {
         "name": "Meditation Hang",
         "url": "https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N"
       },
@@ -2393,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Morning Sunrise",
+        "url": "https://open.spotify.com/album/45ksmdfhSg38c5gfiJNFfH"
+      },
+      "artists": [
+        {
+          "name": "Bahn Kramina",
+          "url": "https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185990,
+      "name": "Morning Sunrise",
+      "url": "https://open.spotify.com/track/7vA3cM7VxqYFvDjtTiOK6H"
+    },
+    {
+      "album": {
         "name": "Muon",
         "url": "https://open.spotify.com/album/5Lp42dVspU4w75MdHR9dF5"
       },
@@ -2426,6 +2534,24 @@
       "duration_ms": 184244,
       "name": "Mystic Sitar Breeze",
       "url": "https://open.spotify.com/track/3MR7G4AoBcBH1ebyhnZ62m"
+    },
+    {
+      "album": {
+        "name": "Nature's Chant",
+        "url": "https://open.spotify.com/album/0YdtMBd2R4u8pigG4uXalz"
+      },
+      "artists": [
+        {
+          "name": "Chatoyant",
+          "url": "https://open.spotify.com/artist/0Kxsqx91lbITSuzRQQuc7h"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "Nature's Chant",
+      "url": "https://open.spotify.com/track/4hrV02rKveCn7D5VmUiUVT"
     },
     {
       "album": {
@@ -2480,6 +2606,24 @@
       "duration_ms": 122267,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/7sxjVl3UEVtdahOAtDDzTB"
+    },
+    {
+      "album": {
+        "name": "Open Sunset",
+        "url": "https://open.spotify.com/album/312NgfWArZbRELaBtFCGiG"
+      },
+      "artists": [
+        {
+          "name": "Astra Far",
+          "url": "https://open.spotify.com/artist/1l8inXQNhMUFaDofdVS94T"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179203,
+      "name": "Open Sunset",
+      "url": "https://open.spotify.com/track/7GW7qg0arXndmUwHuGvDcl"
     },
     {
       "album": {
@@ -2591,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Caravan",
+        "url": "https://open.spotify.com/album/44cOvyPCklwcpPO9VdPoBg"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Peaceful Caravan",
+      "url": "https://open.spotify.com/track/1IoAJFCqW5mNZNVFgLt8oS"
+    },
+    {
+      "album": {
         "name": "Peaceful Patterns",
         "url": "https://open.spotify.com/album/2XQo9u5w65gErttR9urNmL"
       },
@@ -2696,6 +2858,24 @@
       "duration_ms": 184401,
       "name": "Protected",
       "url": "https://open.spotify.com/track/39c0wkcay8Zk7gAiibB6OZ"
+    },
+    {
+      "album": {
+        "name": "Pure Cadence",
+        "url": "https://open.spotify.com/album/3KzksvJN1tcOtZ6uI9qTCn"
+      },
+      "artists": [
+        {
+          "name": "ZoneMan",
+          "url": "https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Pure Cadence",
+      "url": "https://open.spotify.com/track/527DCWnaL1gIXtDDT9UjLf"
     },
     {
       "album": {
@@ -3002,6 +3182,24 @@
       "duration_ms": 174057,
       "name": "Saffron Silence",
       "url": "https://open.spotify.com/track/1LntANo16KMyyy1JyixNyv"
+    },
+    {
+      "album": {
+        "name": "Saffron Skies",
+        "url": "https://open.spotify.com/album/431e3syZYFg4qVmaRC9u9W"
+      },
+      "artists": [
+        {
+          "name": "Rosonance",
+          "url": "https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Saffron Skies",
+      "url": "https://open.spotify.com/track/1O1hIkucuLUAuHgxjMpBEN"
     },
     {
       "album": {
@@ -3401,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Subtle Motions",
+        "url": "https://open.spotify.com/album/44IZQ3iXcX62ybDhJCGnRP"
+      },
+      "artists": [
+        {
+          "name": "Hans Dream",
+          "url": "https://open.spotify.com/artist/42nT9CRo4kYwJR66S8RiXG"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156836,
+      "name": "Subtle Motions",
+      "url": "https://open.spotify.com/track/0uxUsktZV2gDrDwuAvyxOc"
+    },
+    {
+      "album": {
         "name": "Sumati Arya",
         "url": "https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR"
       },
@@ -3416,6 +3632,24 @@
       "duration_ms": 155076,
       "name": "Sumati Arya",
       "url": "https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY"
+    },
+    {
+      "album": {
+        "name": "Sundara Flow",
+        "url": "https://open.spotify.com/album/1VXP3UnZyUYiduvgBPkaef"
+      },
+      "artists": [
+        {
+          "name": "Lift Atlas",
+          "url": "https://open.spotify.com/artist/3kTOKUtR6I2JBTu54V4EyB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Sundara Flow",
+      "url": "https://open.spotify.com/track/4gpQHij6vWsQfER3fOp0F5"
     },
     {
       "album": {
@@ -3520,7 +3754,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 159004,
       "name": "Tabla Journey",
       "url": "https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX"
@@ -3618,6 +3852,24 @@
       "duration_ms": 153846,
       "name": "The Peace of Truth",
       "url": "https://open.spotify.com/track/6pf9grSLdju1CZJBs9yaUo"
+    },
+    {
+      "album": {
+        "name": "The Quiet Side of Rain",
+        "url": "https://open.spotify.com/album/4jTHUy2N9nAhSsIc67Rlm5"
+      },
+      "artists": [
+        {
+          "name": "Rovyne",
+          "url": "https://open.spotify.com/artist/0E8rYOekkxt1qFbTXONRH0"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144833,
+      "name": "The Quiet Side of Rain",
+      "url": "https://open.spotify.com/track/2ZO5EbgZdJaDwfBJPVOFiS"
     },
     {
       "album": {
@@ -3751,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Mind",
+        "url": "https://open.spotify.com/album/7HpfVL3hm2UwQtVufcTOS8"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171107,
+      "name": "Tranquil Mind",
+      "url": "https://open.spotify.com/track/7eLv3pxxco8wnWHxrMuTLl"
+    },
+    {
+      "album": {
         "name": "Umbra",
         "url": "https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf"
       },
@@ -3838,7 +4108,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 207272,
       "name": "Vision",
       "url": "https://open.spotify.com/track/1BL3KZ7f7yjnx7Srw2qVoJ"
@@ -4116,7 +4386,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 178498,
       "name": "You Are Rhythm",
       "url": "https://open.spotify.com/track/3SV22Bqm1ean2CjMqcgIUu"
@@ -4192,6 +4462,24 @@
       "duration_ms": 216500,
       "name": "ZenZephyr",
       "url": "https://open.spotify.com/track/12NW28rpQpQtS6vcHJYYQi"
+    },
+    {
+      "album": {
+        "name": "Zephyr Zen",
+        "url": "https://open.spotify.com/album/4VrKGh7ZAbKRi3CMpY7n25"
+      },
+      "artists": [
+        {
+          "name": "ZoneMan",
+          "url": "https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133601,
+      "name": "Zephyr Zen",
+      "url": "https://open.spotify.com/track/6iQcTFI8RUgXLsNA7WAsHS"
     },
     {
       "album": {

@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
       "url": "https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO"
@@ -6398,7 +6398,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
@@ -9530,7 +9530,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 212692,
       "name": "Lola El Banat",
       "url": "https://open.spotify.com/track/0Vo4u6tAmqikBgieiJ3Nca"
@@ -18567,6 +18567,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0642\u0644\u0628 \u0645\u0627\u062a",
+        "url": "https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "\u0627\u0644\u0642\u0644\u0628 \u0645\u0627\u062a",
+      "url": "https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0644\u0642\u0637\u0629",
         "url": "https://open.spotify.com/album/51UtZEtJiI0rN7n5jXFV8G"
       },
@@ -22036,7 +22054,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 182330,
       "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
       "url": "https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9"
@@ -22144,7 +22162,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 245352,
       "name": "\u063a\u0628\u064a",
       "url": "https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR"

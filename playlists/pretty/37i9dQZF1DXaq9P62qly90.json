@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 16005,
+  "num_followers": 16006,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2024-03-25 16:49:10",

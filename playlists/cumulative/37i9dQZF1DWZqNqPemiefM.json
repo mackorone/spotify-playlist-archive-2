@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Agano",
+        "url": "https://open.spotify.com/album/3fJ0i6P7682sMpekvkB4p7"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7530\u5fd7\u7a42\u5b50",
+          "url": "https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX"
+        },
+        {
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376196,
+      "name": "Agano",
+      "url": "https://open.spotify.com/track/2Plq7frO8stTGqjaSRVGYP"
+    },
+    {
+      "album": {
         "name": "INOYAMALAND (Remaster Edition)",
         "url": "https://open.spotify.com/album/4HZhjkQkKnR9qGv9Bl2esq"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 174226,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/1lJYoqoYhCwkoh8fp156sF"
@@ -2648,7 +2670,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
@@ -3162,6 +3184,28 @@
       "duration_ms": 165853,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/16bu65YPWGtbcGFTSa6xNA"
+    },
+    {
+      "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/5ZVoNRe4oj6vVaxmBspnfG"
+      },
+      "artists": [
+        {
+          "name": "maharishi yogo",
+          "url": "https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja"
+        },
+        {
+          "name": "Doc No",
+          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373186,
+      "name": "Chrysalis",
+      "url": "https://open.spotify.com/track/3SddRglzW0fY58zTAcuKI8"
     },
     {
       "album": {
@@ -4120,7 +4164,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 185142,
       "name": "Daydream Session1",
       "url": "https://open.spotify.com/track/7ImYYYczLk3OFkIgUSyjkn"
@@ -4434,6 +4478,28 @@
       "duration_ms": 201220,
       "name": "DOLPHINS",
       "url": "https://open.spotify.com/track/4yJAbkC1MfvoyRwtToIw4m"
+    },
+    {
+      "album": {
+        "name": "Doodle Notes #15",
+        "url": "https://open.spotify.com/album/2wK0iVDXEkgqwS90F1yGhK"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210943,
+      "name": "Doodle Notes #15",
+      "url": "https://open.spotify.com/track/7DJeZMinIXhAnciBDcLVwn"
     },
     {
       "album": {
@@ -6179,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Gate",
+        "url": "https://open.spotify.com/album/3SOKw9Qs2ahZAqAvzVklGv"
+      },
+      "artists": [
+        {
+          "name": "Keiichiro Shibuya",
+          "url": "https://open.spotify.com/artist/3GgEjl6j7ky6U13LvKa5vy"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200609,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0Q1AMRqln2R39n2qU2i3Gf"
+    },
+    {
+      "album": {
         "name": "Gazing",
         "url": "https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW"
       },
@@ -6302,7 +6386,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 179960,
       "name": "GLOAM",
       "url": "https://open.spotify.com/track/5nWyOaaTSUuJSaRfgxEUn1"
@@ -6695,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "caesura",
+        "url": "https://open.spotify.com/album/6MOyxkbWmupn3Wj2k7oniW"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107746,
+      "name": "HALATION",
+      "url": "https://open.spotify.com/track/05RqvNls2PLgJqJGmGGOsb"
+    },
+    {
+      "album": {
         "name": "Hammock Portal",
         "url": "https://open.spotify.com/album/423V2qCqNdxiFTnYOcV28i"
       },
@@ -6985,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "I Wrote You A Letter",
+        "url": "https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174017,
+      "name": "Heart Motion Foto",
+      "url": "https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF"
+    },
+    {
+      "album": {
         "name": "The Al Bowlly Collection 1927-40, Vol. 1",
         "url": "https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE"
       },
@@ -7148,6 +7268,24 @@
       "duration_ms": 323600,
       "name": "Holy Delay",
       "url": "https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M"
+    },
+    {
+      "album": {
+        "name": "holy sedative",
+        "url": "https://open.spotify.com/album/3uEIRxVGj7MwSNWDaBiFJD"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156642,
+      "name": "holy sedative",
+      "url": "https://open.spotify.com/track/0Kp7P6Phe7EyaV1nAjQAdg"
     },
     {
       "album": {
@@ -7317,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/5sTxso5rBLD0zGTwtsrgSz"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/4JSKrd1ZRBJwvl5CI19pvG"
+    },
+    {
+      "album": {
         "name": "Calm Palms",
         "url": "https://open.spotify.com/album/2oidSnCsXhTcdg2HxLwBU7"
       },
@@ -7458,7 +7614,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 316125,
       "name": "I Can Fly",
       "url": "https://open.spotify.com/track/5DiCzS02pPy5nK1TntSMrz"
@@ -7546,7 +7702,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 584013,
       "name": "I Miss The Way You Swim",
       "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
@@ -8013,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "Cyano",
+        "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "Inscription of Wind",
+      "url": "https://open.spotify.com/track/4xfuclNRS0Ppz942FgI9jE"
+    },
+    {
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/48xtkNT3Ti2Z2v6LnZtk3S"
       },
@@ -8126,7 +8300,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 584348,
       "name": "Interlude V: Harmonic, for Woodwinds",
       "url": "https://open.spotify.com/track/2KOLeaIZVgnL07RchRp4A7"
@@ -9149,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5oBx0lLuGnFz9QSxvd9ib4"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226100,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/6hQWMD8jG26ijfi2sAzlIO"
+    },
+    {
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT"
       },
@@ -9576,6 +9768,24 @@
       "duration_ms": 182906,
       "name": "logical",
       "url": "https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN"
+    },
+    {
+      "album": {
+        "name": "11 mirror 93",
+        "url": "https://open.spotify.com/album/2UT7BfzDp7ydgXkAEPAon5"
+      },
+      "artists": [
+        {
+          "name": "vq",
+          "url": "https://open.spotify.com/artist/6ZXcE0uzPeYpov1baXEXv8"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "LOIUS VUITTON FW 2032",
+      "url": "https://open.spotify.com/track/1YpxMU5JKXQxnXxcrcTnrk"
     },
     {
       "album": {
@@ -11029,6 +11239,42 @@
     },
     {
       "album": {
+        "name": "Muzzle from Texture42",
+        "url": "https://open.spotify.com/album/6Q95zydbqaRTfkvtUb5iKk"
+      },
+      "artists": [
+        {
+          "name": "Koji Nakamura",
+          "url": "https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185498,
+      "name": "Muzzle from Texture42",
+      "url": "https://open.spotify.com/track/3lDLyS91kxtPd4nX0lv4fT"
+    },
+    {
+      "album": {
+        "name": "My Eve My Dawn",
+        "url": "https://open.spotify.com/album/48AzoIxJ7f2Dv0elyvDrmN"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415274,
+      "name": "My Eve My Dawn",
+      "url": "https://open.spotify.com/track/5s1zHK7DS2Z702RbVMNvgq"
+    },
+    {
+      "album": {
         "name": "My Hollow",
         "url": "https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ"
       },
@@ -11494,7 +11740,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 265312,
       "name": "Noon Liquid Ore",
       "url": "https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw"
@@ -12044,6 +12290,24 @@
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "album": {
+        "name": "Oneiric Aero",
+        "url": "https://open.spotify.com/album/2vXzVWbOD62Es2TR5BValR"
+      },
+      "artists": [
+        {
+          "name": "N nulls",
+          "url": "https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "Oneiric Aero",
+      "url": "https://open.spotify.com/track/1HLSt6dVLWZvFM4ZlJt1R1"
     },
     {
       "album": {
@@ -13253,6 +13517,24 @@
     },
     {
       "album": {
+        "name": "ray",
+        "url": "https://open.spotify.com/album/6V58NAWuPwzJPQvR5ofAHx"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "ray",
+      "url": "https://open.spotify.com/track/7hMQKIuoP31YF8jw7GPsNU"
+    },
+    {
+      "album": {
         "name": "Ray of Hope",
         "url": "https://open.spotify.com/album/3NdYfADPuD87eYQDjenk8F"
       },
@@ -13768,6 +14050,24 @@
       "duration_ms": 141000,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/3hbcJHi5BI0MQdgA0O5uWL"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/5LdG9pjlIjKf1guyQKZK0S"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223663,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/6Uyt8bKf64eKPzpv9IAl2C"
     },
     {
       "album": {
@@ -15144,7 +15444,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 209014,
       "name": "Sing To",
       "url": "https://open.spotify.com/track/5X6zwyutwK7uSj0uFOSpad"
@@ -16210,6 +16510,24 @@
       "duration_ms": 267183,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
+    },
+    {
+      "album": {
+        "name": "Still Dreaming\uff1a\u3086\u3081\u3046\u3064\u3064",
+        "url": "https://open.spotify.com/album/6ohER0o8r6XKmvAC1sq9hp"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Still Dreaming\uff1a\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1JnA1m9lFMt1GSWfESaEUO"
     },
     {
       "album": {
@@ -17664,6 +17982,24 @@
       "duration_ms": 295000,
       "name": "Theme of \"Life is Climbing\"",
       "url": "https://open.spotify.com/track/72QD2eOduUtm3P4csHCnaV"
+    },
+    {
+      "album": {
+        "name": "Things I Forgot",
+        "url": "https://open.spotify.com/album/3xE3CaXL9jPcic8BPPPDTC"
+      },
+      "artists": [
+        {
+          "name": "Haioka",
+          "url": "https://open.spotify.com/artist/1gueoOIVlWpl4G48fpG0Ll"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254142,
+      "name": "Things I Forgot",
+      "url": "https://open.spotify.com/track/6zPitcKWcBWNQAQlkkXwOF"
     },
     {
       "album": {
@@ -19453,6 +19789,24 @@
     },
     {
       "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/3ymiieAWG0T1odu3lzpuKy"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285068,
+      "name": "Westward",
+      "url": "https://open.spotify.com/track/24ajN6XZ1FNb2UIfZWJljv"
+    },
+    {
+      "album": {
         "name": "Recommence (I/VII)",
         "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
       },
@@ -19468,6 +19822,28 @@
       "duration_ms": 142535,
       "name": "What A Life (I)",
       "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+    },
+    {
+      "album": {
+        "name": "What Is It That Breaks (Oklou's Version)",
+        "url": "https://open.spotify.com/album/6pwpQXUHXB8qzu8LrJHKVw"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224268,
+      "name": "What Is It That Breaks - Oklou's Version",
+      "url": "https://open.spotify.com/track/292cAPI9bAJZseQb9ZsaTq"
     },
     {
       "album": {
@@ -19526,6 +19902,36 @@
       "duration_ms": 173500,
       "name": "When The Sun Comes Out",
       "url": "https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh"
+    },
+    {
+      "album": {
+        "name": "Different Silences",
+        "url": "https://open.spotify.com/album/20WLkft58trR1oJptPnRPT"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ambient Collective",
+          "url": "https://open.spotify.com/artist/2Uyq0fT06F4gPU59mTV450"
+        },
+        {
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
+        },
+        {
+          "name": "Kenji Azuma",
+          "url": "https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D"
+        },
+        {
+          "name": "Yuki Murata",
+          "url": "https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "where things meet (feat. Takahiro Kido, Kenji Azuma & Yuki Murata)",
+      "url": "https://open.spotify.com/track/6bjHjPdCHbaxCnEMqrwyiG"
     },
     {
       "album": {
@@ -19786,7 +20192,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 425000,
       "name": "Yorimichi",
       "url": "https://open.spotify.com/track/6CUrfVYyqEX5xQDpLnMudh"
@@ -21052,7 +21458,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 172800,
       "name": "\u971e",
       "url": "https://open.spotify.com/track/6gyLJrir6GcZk6cOts0Sws"

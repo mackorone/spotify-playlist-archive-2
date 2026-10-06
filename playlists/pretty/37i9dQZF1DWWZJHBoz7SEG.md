@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas y pumpkin spice en compañía del compa Rabbanito
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,646 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,703 likes - 72 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 46 | [Loco x mi](https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9), [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr) | [Loco x mi](https://open.spotify.com/album/02UuPRIX2rQnJBusDmhIBC) | 2:02 |
 | 47 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 48 | [ojos rojos](https://open.spotify.com/track/6UjMQ7SwyTuLmaVFrzvwk7) | [sobresdylan](https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL) | [sobrio \(deluxe\)](https://open.spotify.com/album/0Dj7cEsqZNpIx6KfX4yDkn) | 3:29 |
-| 49 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:17 |
+| 49 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
 | 50 | [Todo Va A Cambiar](https://open.spotify.com/track/6z8NANCwU8zI7VIN6GeTPU) | [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [Todo Va A Cambiar](https://open.spotify.com/album/6UjTxQqqc2KUoaP5vLIngh) | 3:10 |
 | 51 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 |
 | 52 | [Mi Morena](https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Morena](https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc) | 3:04 |

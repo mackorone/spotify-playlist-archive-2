@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Frsh,  Jordymone9, Rijck, Leblanco en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,069 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,073 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 4 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
 | 5 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
 | 6 | [Google Vertalen](https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy) | [Google Vertalen](https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I) | 2:30 |
-| 7 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
+| 7 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
 | 8 | [TOKYO](https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:23 |
 | 9 | [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 |
 | 10 | [Komt Goed](https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Komt Goed](https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl) | 2:45 |

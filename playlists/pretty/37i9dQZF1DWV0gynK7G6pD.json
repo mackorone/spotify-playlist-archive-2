@@ -1,6 +1,6 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Daniil Trifonov\n\n",
-  "num_followers": 759668,
+  "num_followers": 759692,
   "original_name": "New Classical",
   "owner": {
     "name": "Spotify",
@@ -432,8 +432,16 @@
       },
       "artists": [
         {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
           "name": "Riccardo Muti",
           "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra Luigi Cherubini",
+          "url": "https://open.spotify.com/artist/2En6ZyXm253PlQTqavRKqx"
         }
       ],
       "duration_ms": 443601,

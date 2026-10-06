@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: \u00c1rbol de Ojos",
-  "num_followers": 91764,
+  "num_followers": 91767,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,18 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "La Teta Pirata",
-        "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
+        "name": "Ciudad Faro",
+        "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
         }
       ],
-      "duration_ms": 271691,
-      "name": "La Teta Pirata",
-      "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
+      "duration_ms": 215909,
+      "name": "Las Calles del Mundo",
+      "url": "https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -447,18 +443,22 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Ciudad Faro",
-        "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
+        "name": "La Teta Pirata",
+        "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
       },
       "artists": [
         {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 215909,
-      "name": "Las Calles del Mundo",
-      "url": "https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH"
+      "duration_ms": 271691,
+      "name": "La Teta Pirata",
+      "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
     },
     {
       "added_at": "2026-09-11 04:59:19",

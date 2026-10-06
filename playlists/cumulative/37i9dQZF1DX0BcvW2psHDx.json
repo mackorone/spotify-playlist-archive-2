@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Friday Night | Spotify Stage at T1 Home Ground",
+        "url": "https://open.spotify.com/album/1ffs2Y5P763r3VLiHcuRvz"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256746,
+      "name": "Friday Night | Spotify Stage at T1 Home Ground",
+      "url": "https://open.spotify.com/track/3JzvFJeajTv8eNL9K1Z9pw"
+    },
+    {
+      "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
       },
@@ -1622,6 +1640,24 @@
       "duration_ms": 276803,
       "name": "Goldikus (feat. Cleveland Watkiss)",
       "url": "https://open.spotify.com/track/15leC0Ucnyx3DbUmywlzgk"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/02Olh1I23vnGLJFcoNyNOp"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187071,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3iT0kpGcCIydNrVo2jJ21y"
     },
     {
       "album": {
@@ -2772,6 +2808,24 @@
       "duration_ms": 165000,
       "name": "One - Spotify Singles",
       "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
+    },
+    {
+      "album": {
+        "name": "One - Spotify Singles I Spotify Stage at T1 Home Ground",
+        "url": "https://open.spotify.com/album/6R7pZlIwOfnQbOt2JqoVPy"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174665,
+      "name": "One - Spotify Singles I Spotify Stage at T1 Home Ground",
+      "url": "https://open.spotify.com/track/7cn1f40GI21nADJOm5FpFR"
     },
     {
       "album": {

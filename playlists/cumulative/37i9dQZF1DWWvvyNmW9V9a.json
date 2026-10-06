@@ -47399,6 +47399,24 @@
     },
     {
       "album": {
+        "name": "Things I've Learned (So Far) - Tour Version",
+        "url": "https://open.spotify.com/album/3hw7M3Vyu7uk5cifUlDoIN"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "Things I've Learned (So Far) - Tour Version",
+      "url": "https://open.spotify.com/track/2ZOS3cr6Sx48av8h9YdAK8"
+    },
+    {
+      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/3H3dPvACFYGMDqLGdF8uB5"
       },

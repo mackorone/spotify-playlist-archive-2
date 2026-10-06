@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130240,
+  "num_followers": 130257,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "4U EP",
+        "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 186110,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 203592,
       "name": "Ex Angelo - Original Version",
       "url": "https://open.spotify.com/track/5Ac0RG0vnlsy3e5eeYEryB"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "4U EP",
-        "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 186110,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-08-26 22:01:25",

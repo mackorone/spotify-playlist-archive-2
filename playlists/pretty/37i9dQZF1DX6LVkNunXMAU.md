@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Milo j & Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,471 likes - 104 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,480 likes - 104 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

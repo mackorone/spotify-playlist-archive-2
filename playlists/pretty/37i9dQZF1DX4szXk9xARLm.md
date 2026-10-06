@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,544 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,562 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 54 | [Sahbek Rajel \- صاحبك راجل](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 55 | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/track/4A4WhP3xYQbENo8WaaCkTt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/album/5PzCvdbFNPScafDmRFxwpC) | 3:54 |
 | 56 | [أنا العريس \- من مسلسل مكتوب عليا](https://open.spotify.com/track/5AbkuGohM4IBEaykJI7gjn) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [أنا العريس \(من مسلسل مكتوب عليا\)](https://open.spotify.com/album/6FcUdEkyqWuvrf2iWoOBYm) | 2:23 |
-| 57 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
-| 58 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
-| 59 | [على قد الحب](https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [على قد الحب](https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH) | 3:24 |
+| 57 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
+| 58 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
+| 59 | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh) | 3:54 |
 | 60 | [Al Kaysar](https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Kaysar](https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ) | 4:40 |
-| 61 | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh) | 3:54 |
+| 61 | [على قد الحب](https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [على قد الحب](https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH) | 3:24 |
 | 62 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 |
 | 63 | [Ana](https://open.spotify.com/track/7B9SVbwcVawamk1Rqu76rB) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ana](https://open.spotify.com/album/2HOnoHDySEY3Q0iSkDG4dA) | 4:03 |
 | 64 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 |

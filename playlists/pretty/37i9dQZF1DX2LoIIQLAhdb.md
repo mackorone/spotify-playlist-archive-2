@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : DAKEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,108 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,100 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 13 | [VIBES](https://open.spotify.com/track/7pchvc1iKVljVhZLUu7mUs) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [VIBES](https://open.spotify.com/album/7BR2UhlMz52qSB9YR3hvdh) | 2:30 |
 | 14 | [Comme moi](https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Comme moi](https://open.spotify.com/album/2rG8qp61aIMs4bIi8pBHLX) | 2:13 |
 | 15 | [Étoiles](https://open.spotify.com/track/2JDKxt8JhqqJEpcDSMAjeB) | [YLS](https://open.spotify.com/artist/1CbH9Pq9tf9n2tMg6SvGx7), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Étoiles](https://open.spotify.com/album/2mIiMcC5Cn3bDtxr8bxfYg) | 2:42 |
-| 16 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [D Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
+| 16 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
 | 17 | [J'PENSE À TOI](https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:11 |
 | 18 | [Doutes](https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [ADN](https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi) | 3:07 |
 | 19 | [PAS NORMAL](https://open.spotify.com/track/2gY4kMs36D5lFtAuU5KXjT) | [Afios](https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ) | [PAS NORMAL](https://open.spotify.com/album/1wQkGmlCTIMv1qFZVq1i1Y) | 3:07 |

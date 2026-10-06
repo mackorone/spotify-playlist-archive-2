@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 110 songs - 6 hr 22 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 114 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 108 | [Tu mirada](https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 3:46 |
 | 109 | [My Whispers](https://open.spotify.com/track/5KYALFk47cOC8Ha2C6MOSC) | [Angelo Ceriani Lofi Project](https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0) | [The Nymph's Vessel](https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub) | 2:38 |
 | 110 | [Perdere qualcosa](https://open.spotify.com/track/0uPO0ag7TLHpXKNlyBBcrU) | [Maurizio Ferrandini](https://open.spotify.com/artist/0LjzyJKPxYpkh3qMKwVI82) | [Perdere qualcosa](https://open.spotify.com/album/07wkQ8g9ELX9DtoBiqt1YS) | 3:57 |
+| 111 | [Kyun Itna Door](https://open.spotify.com/track/12c9MA6nWFisejwjdy04Rn) | [RC Lofty](https://open.spotify.com/artist/32hSY9yZVS9hJa7wb36hUf) | [Kyun Itna Door](https://open.spotify.com/album/0GmI4JjDE2C8KIG35SdGBp) | 3:30 |
+| 112 | [Golden Eyes \- Acoustic Version](https://open.spotify.com/track/1uRs4DjUyPl1VfSR83MsjA) | [Vincent misscato](https://open.spotify.com/artist/5joAwB5XMBLIVTLz11qkRf) | [Golden Eyes \(Acoustic Version\)](https://open.spotify.com/album/4Q2k2DmGcS7I2EVvoO3k6B) | 3:36 |
+| 113 | [What We Gon' Do](https://open.spotify.com/track/18m629ygERS4br5zGuWxow) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 3:22 |
+| 114 | [Después del Ruido](https://open.spotify.com/track/1heJoxxdDkItCWRu36a9Mz) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Después del Ruido](https://open.spotify.com/album/7ht4LkP7p7numNHlila5Br) | 4:49 |
 
-Snapshot ID: `AAAYiTNkqkOYfM+RFedpz098WfF/mSOM`
+Snapshot ID: `AAAYjfYt1cmKmOWIw0qAIyGKXLzUWpi+`

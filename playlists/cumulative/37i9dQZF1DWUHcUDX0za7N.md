@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Txmmyily
 
-830 songs - 1 day 14 hr 47 min
+831 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 | 2023-10-13 | 2024-07-19 |
 | [Allez Tobina](https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allez Tobina](https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK) | 1:40 | 2025-06-13 | 2025-07-04 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-09-29 |
-| [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 | 2024-11-15 |  |
+| [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 | 2024-11-15 | 2026-10-06 |
 | [Amen \(God My Dealer\)](https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Amen \(God My Dealer\)](https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO) | 2:44 | 2025-08-28 | 2025-10-07 |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-06-28 | 2025-05-19 |
 | [AMIRI](https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0) | [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [AMIRI](https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu) | 2:46 | 2026-07-31 |  |
@@ -262,6 +262,7 @@
 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 | 2024-11-22 |
 | [Excellent](https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Excellent](https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ) | 3:07 | 2026-08-14 |  |
 | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/track/0fbRxfy1QPpAMz8DLDgiLV) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Marv OTM](https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq) | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/album/2CvlJE9N3tzI2cbZxMNe5B) | 2:53 | 2025-01-31 | 2025-05-09 |
+| [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 3:07 | 2026-10-02 |  |
 | [Fake Love](https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU) | [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Fake Love](https://open.spotify.com/album/01KJ2GfbTmEQlZtbv8a7y2) | 3:40 | 2025-03-28 | 2025-05-17 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 | 2024-04-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Michael Kiwanuka, Fontaines D.C., Drake, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,961 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,939 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,13 +102,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [SOUNDS OF THE UK](https://open.spotify.com/track/311SsleTX9KUJsWPO2TbZ8) | [N4T](https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz) | [SOUNDS OF THE UK](https://open.spotify.com/album/0VGy1UIxb7TgDendW8r807) | 2:45 |
 | 93 | [Ice\-like Empty](https://open.spotify.com/track/1Ck7cN99Y5kwAzoEUTvmjJ) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Ice\-like Empty](https://open.spotify.com/album/5JtgZc0uYz87c4nUCwMajs) | 3:25 |
 | 94 | [Fun!](https://open.spotify.com/track/2BjDgOYaVX5xdNi8DFV6UW) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Fun!](https://open.spotify.com/album/4jZ1ClfjRkEyMlVNVK65dw) | 2:56 |
-| 95 | [The Ones Who Stay](https://open.spotify.com/track/0YHfmJSRHvOC6GnTAScle5) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Infinite Now+](https://open.spotify.com/album/5qZ3Qe0KKBsebkdDxCEAIL) | 2:21 |
-| 96 | [Something Better](https://open.spotify.com/track/6ddH3uoGw1WDmj98Eny9wO) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Something Better](https://open.spotify.com/album/1Ce8aTWMNTbxJe72xLINRa) | 3:02 |
-| 97 | [Valley Kudu](https://open.spotify.com/track/0Ozwe8D7MKBxnh7E8BkiQ5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Valley Kudu](https://open.spotify.com/album/3TxgHTi4AgSxRSlYG9Yb6K) | 2:36 |
-| 98 | [My Body Knows When To Run](https://open.spotify.com/track/3Ndw56lhojrid7zKHzbSYf) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [walt disco](https://open.spotify.com/album/3cU7T0cEeRWnYD2HXBY1It) | 3:20 |
-| 99 | [Zeppelin](https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Zeppelin](https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E) | 3:47 |
-| 100 | [biting](https://open.spotify.com/track/2Ix0r0n5TQtcIxdi1j4ySy) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [biting](https://open.spotify.com/album/5Jun9PxPXL4MsnMSjVpAjd) | 4:03 |
-| 101 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
-| 102 | [No Problem \(feat\. Bryte\)](https://open.spotify.com/track/4w3iQNSo3AKGWiUozuaudS) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [No Problem \(feat\. Bryte\)](https://open.spotify.com/album/2ngDZz6Z62POTczGmfjL4d) | 2:13 |
+| 95 | [Something Better](https://open.spotify.com/track/6ddH3uoGw1WDmj98Eny9wO) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Something Better](https://open.spotify.com/album/1Ce8aTWMNTbxJe72xLINRa) | 3:02 |
+| 96 | [Valley Kudu](https://open.spotify.com/track/0Ozwe8D7MKBxnh7E8BkiQ5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Valley Kudu](https://open.spotify.com/album/3TxgHTi4AgSxRSlYG9Yb6K) | 2:36 |
+| 97 | [My Body Knows When To Run](https://open.spotify.com/track/3Ndw56lhojrid7zKHzbSYf) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [walt disco](https://open.spotify.com/album/3cU7T0cEeRWnYD2HXBY1It) | 3:20 |
+| 98 | [Zeppelin](https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Zeppelin](https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E) | 3:47 |
+| 99 | [biting](https://open.spotify.com/track/2Ix0r0n5TQtcIxdi1j4ySy) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [biting](https://open.spotify.com/album/5Jun9PxPXL4MsnMSjVpAjd) | 4:03 |
+| 100 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
+| 101 | [No Problem \(feat\. Bryte\)](https://open.spotify.com/track/4w3iQNSo3AKGWiUozuaudS) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [No Problem \(feat\. Bryte\)](https://open.spotify.com/album/2ngDZz6Z62POTczGmfjL4d) | 2:13 |
 
-Snapshot ID: `AAAAAAy60NpWfMOetpd+4p9PLaMia8oy`
+Snapshot ID: `AAAAACVP2Y0oTEY5HvmGXdv4ZE1sq891`

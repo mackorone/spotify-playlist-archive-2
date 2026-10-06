@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: ARIA VEGA
 
-293 songs - 15 hr 13 min
+294 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 | 2024-02-23 | 2024-06-08 |
 | [AFRO](https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [AFRO](https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH) | 3:04 | 2024-07-26 | 2025-02-15 |
 | [Afuera Arde](https://open.spotify.com/track/5NMZbDgtEWmxFd70YCV8bj) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Afuera Arde](https://open.spotify.com/album/25f1tMgxQVCP5I3DWWiskE) | 3:00 | 2023-06-23 | 2023-09-23 |
-| [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2023-03-31 |  |
+| [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2023-03-31 | 2026-10-06 |
 | [Ahora que no estás sola](https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Ahora que no estás sola](https://open.spotify.com/album/0zSVmbdS1gDc2TXghbD1vv) | 2:55 | 2024-08-02 | 2024-12-07 |
 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 | 2023-06-23 | 2023-09-30 |
 | [Al menos lo intenté](https://open.spotify.com/track/3Qsm7eU8vIs2UUYOGTGa9q) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Traductor del amor en los tiempos modernos Vol.1](https://open.spotify.com/album/6KeIkUOMEEZCkRcbuji6gh) | 2:35 | 2026-09-18 |  |
@@ -48,6 +48,7 @@
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2024-12-06 | 2025-03-22 |
 | [bby please](https://open.spotify.com/track/0zFJ3iJ2YLhvj6F8KBUrQD) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [bby please](https://open.spotify.com/album/765WYwS6jkoyUESt1eGldl) | 2:32 | 2025-07-04 | 2025-08-30 |
 | [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 | 2023-08-25 | 2023-09-23 |
+| [Beibi \- Spotify Sessions](https://open.spotify.com/track/1LxJgHd4IZbrSHnS8ET7Tw) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 3:33 | 2026-10-05 |  |
 | [Bendecida $ afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida $ afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 | 2024-02-16 | 2024-06-15 |
 | [BESITOS DULCES](https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [BESITOS DULCES](https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo) | 2:22 | 2024-12-27 |  |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-22 | 2025-07-26 |

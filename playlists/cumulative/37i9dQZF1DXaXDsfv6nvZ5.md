@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Lalah Hathaway
 
-1,004 songs - 2 day 11 hr 43 min
+1,005 songs - 2 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Caviar](https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Caviar](https://open.spotify.com/album/5nkZ3TE31QPAIoTkqNAn1c) | 2:54 | 2025-10-03 | 2026-03-14 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 | 2026-05-08 |  |
+| [Chameleon \(feat\. Chloe George\)](https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU) | [Mai Anna](https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT), [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Chameleon \(feat\. Chloe George\)](https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN) | 3:34 | 2026-09-25 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-03-31 | 2024-07-13 |
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-05-03 | 2025-04-19 |
 | [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-12 | 2024-07-20 |
@@ -811,7 +812,7 @@
 | [Spin](https://open.spotify.com/track/1LIfmKeMM2zuLoq5i2pst9) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Love Uptempo, Vol\. 1](https://open.spotify.com/album/2PaP55BeDRsZIaSpzV8PjJ) | 2:36 | 2025-04-04 | 2025-05-24 |
 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 | 2024-04-05 | 2024-12-14 |
 | [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 | 2025-02-08 |
-| [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 | 2025-06-27 |  |
+| [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 | 2025-06-27 | 2026-10-06 |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 | 2025-11-15 |
 | [Stay](https://open.spotify.com/track/6VGRrR4FQ9SBRKfUhFRRqN) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Stay](https://open.spotify.com/album/3oxVdNKT0zaQBL1rMnyn7p) | 3:37 | 2025-05-23 | 2025-10-04 |
 | [Stay Ready \(feat\. Yaya Bey\)](https://open.spotify.com/track/0edG7kXOUCRKekOSofl4Un) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Stay Ready \(feat\. Yaya Bey\)](https://open.spotify.com/album/5kvz3pclrkx8Jcl4L0X48F) | 2:01 | 2025-11-07 | 2026-01-24 |

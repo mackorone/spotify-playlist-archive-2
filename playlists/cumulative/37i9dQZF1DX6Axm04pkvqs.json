@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
+      },
+      "artists": [
+        {
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553200,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
+    },
+    {
+      "album": {
         "name": "Revelation Album",
         "url": "https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 483196,
       "name": "Let Me Want What You Want",
       "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"

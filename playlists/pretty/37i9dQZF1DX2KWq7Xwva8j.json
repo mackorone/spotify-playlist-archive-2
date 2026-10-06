@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: El Bobo de las 3000.",
-  "num_followers": 30125,
+  "num_followers": 30126,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -278,15 +278,11 @@
         {
           "name": "Teo Planell",
           "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        },
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 307000,
-      "name": "El Mundo Delante De Ti",
-      "url": "https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov"
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa"
     },
     {
       "added_at": "2026-10-01 22:01:16",
@@ -370,11 +366,15 @@
         {
           "name": "Teo Planell",
           "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa"
+      "duration_ms": 307000,
+      "name": "El Mundo Delante De Ti",
+      "url": "https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov"
     },
     {
       "added_at": "2026-10-01 22:01:16",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-01 22:01:16",
       "album": {
+        "name": "Canci\u00f3n En Murcia",
+        "url": "https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 118099,
+      "name": "Canci\u00f3n En Murcia",
+      "url": "https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv"
+    },
+    {
+      "added_at": "2026-10-01 22:01:16",
+      "album": {
         "name": "TROYA",
         "url": "https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 193397,
       "name": "TROYA",
       "url": "https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX"
-    },
-    {
-      "added_at": "2026-10-01 22:01:16",
-      "album": {
-        "name": "Canci\u00f3n En Murcia",
-        "url": "https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 118099,
-      "name": "Canci\u00f3n En Murcia",
-      "url": "https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv"
     },
     {
       "added_at": "2026-10-01 22:01:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-01 22:01:16",
       "album": {
-        "name": "ALKIMIA",
-        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY"
-    },
-    {
-      "added_at": "2026-10-01 22:01:16",
-      "album": {
         "name": "Beatrice",
         "url": "https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 138150,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm"
+    },
+    {
+      "added_at": "2026-10-01 22:01:16",
+      "album": {
+        "name": "ALKIMIA",
+        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY"
     },
     {
       "added_at": "2026-10-01 22:01:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-01 22:01:16",
       "album": {
-        "name": "ALKIMIA",
-        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow"
-    },
-    {
-      "added_at": "2026-10-01 22:01:16",
-      "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 145625,
       "name": "C\u00f3mo Pensarte Mal",
       "url": "https://open.spotify.com/track/5N8fN1KXVJ4py0xKeeKr0D"
+    },
+    {
+      "added_at": "2026-10-01 22:01:16",
+      "album": {
+        "name": "ALKIMIA",
+        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow"
     },
     {
       "added_at": "2026-10-01 22:01:16",

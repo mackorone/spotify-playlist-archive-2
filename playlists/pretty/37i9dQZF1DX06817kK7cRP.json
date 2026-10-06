@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 203702,
+  "num_followers": 203726,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Boulevards",
-        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
+        "name": "Semisweet",
+        "url": "https://open.spotify.com/album/1UZ3Q96CmmyeK2Qr1gY5fn"
       },
       "artists": [
         {
-          "name": "Dusty Decks",
-          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
         }
       ],
-      "duration_ms": 159130,
-      "name": "Counterbalanced",
-      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
+      "duration_ms": 109367,
+      "name": "Semisweet",
+      "url": "https://open.spotify.com/track/7JIZqo9uOHWrUHZMdAI5qF"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -111,22 +115,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Semisweet",
-        "url": "https://open.spotify.com/album/1UZ3Q96CmmyeK2Qr1gY5fn"
+        "name": "Boulevards",
+        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
       },
       "artists": [
         {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        },
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
         }
       ],
-      "duration_ms": 109367,
-      "name": "Semisweet",
-      "url": "https://open.spotify.com/track/7JIZqo9uOHWrUHZMdAI5qF"
+      "duration_ms": 159130,
+      "name": "Counterbalanced",
+      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Backhouse Bounce",
-        "url": "https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6"
-      },
-      "artists": [
-        {
-          "name": "Gaslamp",
-          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
-        }
-      ],
-      "duration_ms": 107294,
-      "name": "Backhouse Bounce",
-      "url": "https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 118333,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Backhouse Bounce",
+        "url": "https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "duration_ms": 107294,
+      "name": "Backhouse Bounce",
+      "url": "https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 124797,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "solid",
         "url": "https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 129729,
       "name": "Bubble Butter",
       "url": "https://open.spotify.com/track/1GFuJBo2OS8VJKKe019Y58"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
-      },
-      "artists": [
-        {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
-        }
-      ],
-      "duration_ms": 124797,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Bask",
-        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
-      },
-      "artists": [
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bask",
-      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Fading Sunlight",
         "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 115324,
       "name": "Fading Sunlight",
       "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Bask",
+        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -807,22 +807,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Sunkissed Streets",
-        "url": "https://open.spotify.com/album/3TADdS4jjIU8Lqg7NTpg1j"
+        "name": "Room 388",
+        "url": "https://open.spotify.com/album/0yVQOvfZIL8ZZOAoo903wC"
       },
       "artists": [
         {
-          "name": "Gabb.",
-          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
         },
         {
-          "name": "\u00d8NEMOR3",
-          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+          "name": "Hopmax",
+          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
         }
       ],
-      "duration_ms": 111538,
-      "name": "Sunkissed Streets",
-      "url": "https://open.spotify.com/track/5hwkLjTpivqMHPm4ATKcVX"
+      "duration_ms": 120000,
+      "name": "Room 388",
+      "url": "https://open.spotify.com/track/5w3hSbpsxFytvVYrjEmIEb"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Straight Up",
-        "url": "https://open.spotify.com/album/2nZMG2S53o7mAk9mzTp4G7"
+        "name": "Sunkissed Streets",
+        "url": "https://open.spotify.com/album/3TADdS4jjIU8Lqg7NTpg1j"
       },
       "artists": [
         {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5WIDMj1UPekxVyMrUGGpXM"
+      "duration_ms": 111538,
+      "name": "Sunkissed Streets",
+      "url": "https://open.spotify.com/track/5hwkLjTpivqMHPm4ATKcVX"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -895,22 +899,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Room 388",
-        "url": "https://open.spotify.com/album/0yVQOvfZIL8ZZOAoo903wC"
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/2nZMG2S53o7mAk9mzTp4G7"
       },
       "artists": [
         {
-          "name": "terrarium.",
-          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
-        },
-        {
-          "name": "Hopmax",
-          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Room 388",
-      "url": "https://open.spotify.com/track/5w3hSbpsxFytvVYrjEmIEb"
+      "duration_ms": 140000,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5WIDMj1UPekxVyMrUGGpXM"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "sunday morning stroll",
-        "url": "https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW"
+        "name": "Midwinter",
+        "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
       },
       "artists": [
         {
-          "name": "Montreux Stay-Behinds",
-          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
         },
         {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
         }
       ],
-      "duration_ms": 186000,
-      "name": "sunday morning stroll",
-      "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
+      "duration_ms": 129473,
+      "name": "Midwinter",
+      "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Midwinter",
-        "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        },
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "Midwinter",
-      "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "School Kids",
         "url": "https://open.spotify.com/album/5tkUkptMPsOWoFSFUNwi4J"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "sunday morning stroll",
+        "url": "https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW"
+      },
+      "artists": [
+        {
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "sunday morning stroll",
+      "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 144000,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Home Cottage",
+        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Home Cottage",
+      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1171,22 +1187,6 @@
       "duration_ms": 110769,
       "name": "Suite 8",
       "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Home Cottage",
-        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Home Cottage",
-      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Hi",
-        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
-      },
-      "artists": [
-        {
-          "name": "Sidual.",
-          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/4NF6j0UpqxnbooPCltEehL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 109756,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/1ULVlnExqXN3JGy3gTuRv1"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+      },
+      "artists": [
+        {
+          "name": "Sidual.",
+          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Coastlines",
+        "url": "https://open.spotify.com/album/3blTvmgTpVLMMpVAppaYNi"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/2sl1c5gaRYFU3PjSRyZhYr"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Soft Shadows",
         "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 189521,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Coastlines",
-        "url": "https://open.spotify.com/album/3blTvmgTpVLMMpVAppaYNi"
-      },
-      "artists": [
-        {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
-        },
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/2sl1c5gaRYFU3PjSRyZhYr"
     },
     {
       "added_at": "2026-09-23 07:49:45",

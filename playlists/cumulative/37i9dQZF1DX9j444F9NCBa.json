@@ -6521,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Life On Mars?",
+        "url": "https://open.spotify.com/album/3qDyCFjmp5HDxkeNyELAc9"
+      },
+      "artists": [
+        {
+          "name": "Dan Goten",
+          "url": "https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146437,
+      "name": "Life On Mars?",
+      "url": "https://open.spotify.com/track/4RI8u0il9uoEelw7ZQLhGM"
+    },
+    {
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv"
       },
@@ -9218,6 +9236,24 @@
       "duration_ms": 135048,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc"
+    },
+    {
+      "album": {
+        "name": "Somewere Only We Know",
+        "url": "https://open.spotify.com/album/0naweC5yCujKDIlVLBFE1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Jenner",
+          "url": "https://open.spotify.com/artist/7AnP0BSXZK97TjN7OjiKD5"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Somewere Only We Know",
+      "url": "https://open.spotify.com/track/3glf0epQjpdCVxKGcmTlj0"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! Cover: Tony Iommi
+> Den bästa och största rocklistan i Sverige! Cover: Amon Amarth
 
-504 songs - 1 day 7 hr 38 min
+511 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [bad dreams](https://open.spotify.com/track/7LeHwJ0A9LJlp3Pp4SmioE) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [bad dreams](https://open.spotify.com/album/36hV9Uho0HrvjWSqFzhkZM) | 2:46 | 2026-07-31 |  |
 | [Bad Time for Love](https://open.spotify.com/track/27PyX2WsEY7JMZBEEQUVtA) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Bad Time for Love](https://open.spotify.com/album/6Cc54t0AWjwnYxTDfYNa2C) | 3:01 | 2025-03-06 | 2025-04-04 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-10-24 |
-| [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2025-11-06 |  |
+| [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2025-11-06 | 2026-10-06 |
 | [Beautiful Disaster](https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster](https://open.spotify.com/album/42k0w1OlvshAChVmMlYxHS) | 3:32 | 2024-06-27 | 2024-09-20 |
 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-18 |  |
 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 | 2024-09-19 | 2025-03-14 |
@@ -100,7 +100,9 @@
 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-03-23 | 2026-08-01 |
 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 | 2024-08-29 | 2025-03-28 |
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 | 2024-09-20 |
+| [Cold](https://open.spotify.com/track/6LEOmNbiBCdwsc6rppuYf4) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Monarch](https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU) | 3:23 | 2026-10-05 |  |
 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 | 2025-10-23 |  |
+| [Come This Madness](https://open.spotify.com/track/26nfD0mKZGkMl1YAmSYFLN) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Come This Madness](https://open.spotify.com/album/5zaikljPJZyvgRy9uHIAhj) | 4:02 | 2026-10-05 |  |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 | 2024-10-11 |
 | [Conspiracy](https://open.spotify.com/track/31HxIlEmUHbG4luSxBaZFt) | [Bloodstain](https://open.spotify.com/artist/6uG9Od49dC2XZyHVJS9aEZ) | [Conspiracy](https://open.spotify.com/album/1h7Dq392BZw4IiNcgZk3wn) | 3:05 | 2026-02-16 |  |
 | [Could Have Been Me \(Feat\. Brian May\)](https://open.spotify.com/track/5hKHL9CRXlYoIs1hIw5010) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3) | [Could Have Been Me \(Feat\. Brian May\)](https://open.spotify.com/album/7sc2qxzrUhrPF3OdOyaswk) | 4:32 | 2025-09-04 | 2025-10-24 |
@@ -128,6 +130,7 @@
 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-25 | 2025-11-21 |
 | [Disaster](https://open.spotify.com/track/79pdnZdZDC7AAyio8d3KI2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Disaster](https://open.spotify.com/album/6Q8TEJkHFBDc3KQyoAv2va) | 3:45 | 2025-01-23 | 2025-03-07 |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
+| [Disdained](https://open.spotify.com/track/0IyFalkuhXAj0k0BEwUMaW) | [Bloodstain](https://open.spotify.com/artist/6uG9Od49dC2XZyHVJS9aEZ) | [Bloodstain](https://open.spotify.com/album/5bARcaWrNYHkhInjLZq1PT) | 3:40 | 2026-10-05 |  |
 | [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-07-31 |  |
 | [Do You Feel Normal](https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Do You Feel Normal](https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N) | 3:35 | 2025-01-09 | 2025-02-01 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |
@@ -193,6 +196,7 @@
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-28 | 2025-01-24 |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-05 |  |
 | [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-06-27 | 2024-08-02 |
+| [Halo](https://open.spotify.com/track/3ghseqHhlvOEvxGlgK4w1T) | [Hardcore Superstar](https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq) | [Halo](https://open.spotify.com/album/7KilbxlxzqTxpt4PMe52wl) | 3:51 | 2026-10-05 |  |
 | [Halo](https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [SIDE EFFECTS PT.1](https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K) | 3:16 | 2026-04-24 | 2026-08-01 |
 | [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Die About It \(Deluxe\)](https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G) | 3:04 | 2025-09-18 |  |
 | [Haters](https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Mister Misery](https://open.spotify.com/album/6fKArz5J5tdK4eSFEe7YDF) | 3:29 | 2024-08-01 | 2024-09-20 |
@@ -328,7 +332,7 @@
 | [Pink Fang](https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Pink Fang](https://open.spotify.com/album/48xvECMQfRGH7se6T7fXB1) | 4:03 | 2024-08-22 | 2024-09-20 |
 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-16 |  |
 | [Plastic Heart](https://open.spotify.com/track/0x4RCugHzWzSigzcuMul6E) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Plastic Heart](https://open.spotify.com/album/1lNArS99wMBTcXHrRdYpQz) | 3:18 | 2025-06-04 |  |
-| [Punk Rock Song](https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:27 | 2025-11-06 |  |
+| [Punk Rock Song](https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:27 | 2025-11-06 | 2026-10-06 |
 | [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-16 | 2025-01-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-06-27 | 2024-10-18 |
 | [Random Acts of Violence](https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Random Acts of Violence](https://open.spotify.com/album/0bXLGRMVw2yxYLDCCfn2vX) | 4:06 | 2024-06-27 | 2024-11-19 |
@@ -362,6 +366,7 @@
 | [Shadowlife](https://open.spotify.com/track/2Fu1yEQyxVgd12UxPlMJQ4) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Shadowlife](https://open.spotify.com/album/1vbEqGwrV87tJL4m80rEiV) | 4:45 | 2026-06-18 |  |
 | [Shattered Dreams](https://open.spotify.com/track/0SMMRQ4UwTZ6v2k9G9rmrc) | [Marys Creek](https://open.spotify.com/artist/0YZaQHvUtuO0WFAPOTANu6) | [The Beginning Of The End](https://open.spotify.com/album/6fDOFBtjWmO8Gh1lN9G0gU) | 5:06 | 2026-04-13 | 2026-08-01 |
 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 | 2026-05-22 |  |
+| [Shed Your Skin](https://open.spotify.com/track/6qPZi0an9of1lO3O0Y5VJn) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Axis Mundi](https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT) | 4:53 | 2026-10-05 |  |
 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 | 2026-04-07 |  |
 | [Shoreline](https://open.spotify.com/track/6HSmNUrdAiQNforGJMNqmq) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [We Are Shadows](https://open.spotify.com/album/5szZPN7qrKaey9QqZCzdH3) | 3:37 | 2025-11-20 | 2026-08-01 |
 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2024-11-07 | 2025-04-12 |
@@ -415,6 +420,7 @@
 | [Ten Over Ten](https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Ten Over Ten](https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za) | 3:17 | 2026-08-24 |  |
 | [The Accuser](https://open.spotify.com/track/7r5Zx79aDER2CUDrfeF9n8) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [From Dust To Darkness](https://open.spotify.com/album/2tagO4X2aelnf3ulk7iUWW) | 3:21 | 2025-10-02 | 2025-11-07 |
 | [The Age of AGI](https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W) | [Endigo](https://open.spotify.com/artist/6CMARBTk7A5cN9UW9LZqDj) | [The Age of AGI](https://open.spotify.com/album/4Tw9c6YmLJlLEv8fCJvgpM) | 3:44 | 2024-06-27 | 2024-09-20 |
+| [The Allfather Awakes](https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Allfather Awakens](https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh) | 4:36 | 2026-10-05 |  |
 | [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-06-27 | 2024-08-23 |
 | [The Bog Body](https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [The Bog Body](https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP) | 2:53 | 2025-03-27 | 2025-04-25 |
 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 | 2024-11-07 | 2025-10-10 |
@@ -464,6 +470,7 @@
 | [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 | 2025-07-10 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-03-28 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 | 2025-08-29 |
+| [unwanted](https://open.spotify.com/track/79QmoyRkeqV96rKFRhAUed) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [unwanted](https://open.spotify.com/album/3w2biga72syy4OKrSmmDBc) | 2:10 | 2026-10-05 |  |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-11-07 | 2025-04-12 |
 | [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 | 2025-06-12 |  |

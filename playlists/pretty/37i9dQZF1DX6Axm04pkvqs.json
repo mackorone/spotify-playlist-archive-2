@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 86005,
+  "num_followers": 86060,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Deep Wells",
-        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
-      },
-      "artists": [
-        {
-          "name": "Patience Adjei",
-          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Elohim Adonai (Live)",
-      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Apostolos (Sounds of Transition)",
         "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 428507,
       "name": "Holy Ghost (Live)",
       "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Deep Wells",
+        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
+      },
+      "artists": [
+        {
+          "name": "Patience Adjei",
+          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Elohim Adonai (Live)",
+      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Flaunt Your Fire (Holy Ghost)",
-        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 430105,
-      "name": "Flaunt Your Fire (Holy Ghost)",
-      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
-    },
-    {
       "added_at": "2024-08-23 00:01:00",
       "album": {
         "name": "Song of Angels (The Call)",
@@ -819,6 +803,22 @@
       "duration_ms": 369255,
       "name": "Song of Angels (The Call)",
       "url": "https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Flaunt Your Fire (Holy Ghost)",
+        "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 430105,
+      "name": "Flaunt Your Fire (Holy Ghost)",
+      "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
     },
     {
-      "added_at": "2025-02-21 00:01:28",
-      "album": {
-        "name": "Igbo Worship Medley (Live)",
-        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
-      },
-      "artists": [
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        }
-      ],
-      "duration_ms": 474999,
-      "name": "Igbo Worship Medley - Live",
-      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
-    },
-    {
       "added_at": "2026-09-18 00:01:33",
       "album": {
         "name": "Seek Him",
@@ -1331,6 +1315,22 @@
       "duration_ms": 279272,
       "name": "Seek Him",
       "url": "https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0"
+    },
+    {
+      "added_at": "2025-02-21 00:01:28",
+      "album": {
+        "name": "Igbo Worship Medley (Live)",
+        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
+      },
+      "artists": [
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        }
+      ],
+      "duration_ms": 474999,
+      "name": "Igbo Worship Medley - Live",
+      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2026-09-25 00:01:15",
       "album": {
-        "name": "Let Me Want What You Want",
-        "url": "https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q"
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
       },
       "artists": [
         {
-          "name": "The Paul-Enenche Family",
-          "url": "https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT"
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
         }
       ],
-      "duration_ms": 483196,
-      "name": "Let Me Want What You Want",
-      "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
+      "duration_ms": 553200,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
     }
   ],
   "unique_name": "Worship Chants",

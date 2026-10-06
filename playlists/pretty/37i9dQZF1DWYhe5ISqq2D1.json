@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: TOMOO",
-  "num_followers": 65779,
+  "num_followers": 65774,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "\u3072\u3068\u3072\u3089",
-        "url": "https://open.spotify.com/album/6bvqkbS0z1yQlpERbRoUVi"
-      },
-      "artists": [
-        {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
-        }
-      ],
-      "duration_ms": 235750,
-      "name": "\u3072\u3068\u3072\u3089",
-      "url": "https://open.spotify.com/track/3NfXlt9a6Vp5STs4uTrqrY"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "By your side",
         "url": "https://open.spotify.com/album/2HffAb7fGgmYIsNtoU3e46"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 242433,
       "name": "By your side",
       "url": "https://open.spotify.com/track/59ElHgKBjJBTai1T9CpBsY"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "\u3072\u3068\u3072\u3089",
+        "url": "https://open.spotify.com/album/6bvqkbS0z1yQlpERbRoUVi"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "\u3072\u3068\u3072\u3089",
+      "url": "https://open.spotify.com/track/3NfXlt9a6Vp5STs4uTrqrY"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "\u9082\u9005",
-        "url": "https://open.spotify.com/album/2UrsJLgByqUlC5AYKzgVe6"
-      },
-      "artists": [
-        {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
-        }
-      ],
-      "duration_ms": 277297,
-      "name": "\u9082\u9005",
-      "url": "https://open.spotify.com/track/3QjPbxETp7rxj3pXqnweQp"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "\u88f8",
         "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 197000,
       "name": "\u88f8",
       "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "\u9082\u9005",
+        "url": "https://open.spotify.com/album/2UrsJLgByqUlC5AYKzgVe6"
+      },
+      "artists": [
+        {
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+        }
+      ],
+      "duration_ms": 277297,
+      "name": "\u9082\u9005",
+      "url": "https://open.spotify.com/track/3QjPbxETp7rxj3pXqnweQp"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "Hearts Glow",
-        "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 234679,
-      "name": "Hearts Glow",
-      "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "\u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/4nD6nvQJymUJZDEGyW8j8Y"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 210674,
       "name": "\u3042\u306a\u305f",
       "url": "https://open.spotify.com/track/0ak7BT9Ddi823XjDOF4ig3"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "Hearts Glow",
+        "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 234679,
+      "name": "Hearts Glow",
+      "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "Live Bluesy",
-        "url": "https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "\u50d5\u306e\u3059\u3079\u3066\u3092\u77e5\u3063\u3066\u308b\u3088\u3046\u306a\u541b\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/6x8TSxuuT4OMzy0ez4yhAm"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 249180,
       "name": "\u3046\u305f\u304b\u305f",
       "url": "https://open.spotify.com/track/2G50YEjqnVlTJhEODcJ7Ra"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "Live Bluesy",
+        "url": "https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1079,6 +1079,38 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
+        "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6H5Mx2xeGXStIf6Z0vXxIw"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "duration_ms": 154900,
+      "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/180C0bLHGOC6RENP0qWvza"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/009ct5q7lLifmpiOwScIqZ"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 179827,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/1Ck1kwASA6TiVbmfr5dUMN"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
         "name": "\u3055\u3088\u306a\u3089\u304a\u59eb\u69d8",
         "url": "https://open.spotify.com/album/1P3drMv5LeVRY8Kqa2pgFP"
       },
@@ -1107,38 +1139,6 @@
       "duration_ms": 228453,
       "name": "twilight",
       "url": "https://open.spotify.com/track/3UU1EJtx6Sa5OPPGlPuJh0"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/009ct5q7lLifmpiOwScIqZ"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 179827,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/1Ck1kwASA6TiVbmfr5dUMN"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6H5Mx2xeGXStIf6Z0vXxIw"
-      },
-      "artists": [
-        {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
-        }
-      ],
-      "duration_ms": 154900,
-      "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/180C0bLHGOC6RENP0qWvza"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 221259,
-      "name": "INSIDE",
-      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "\u30aa\u30ea\u30fc\u30d6",
         "url": "https://open.spotify.com/album/4TN5rvYtw92VnfRiG2auyP"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 221259,
+      "name": "INSIDE",
+      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
         "name": "SUMMER BUG",
         "url": "https://open.spotify.com/album/7kqLpKMwG8cnCqtNziMRqK"
       },
@@ -1239,38 +1239,6 @@
       "duration_ms": 215333,
       "name": "SUMMER BUG",
       "url": "https://open.spotify.com/track/0ZEk9KauJiNCNxAClievYd"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "Suki",
-        "url": "https://open.spotify.com/album/1n9HSY9iSLtIBK1PG5BI1B"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Suki",
-      "url": "https://open.spotify.com/track/3r7jM6T97NvJmt5gS9Cmy3"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "(how could i be)honest?",
-        "url": "https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "(how could i be)honest?",
-      "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1295,6 +1263,38 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
+        "name": "(how could i be)honest?",
+        "url": "https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "(how could i be)honest?",
+      "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "Suki",
+        "url": "https://open.spotify.com/album/1n9HSY9iSLtIBK1PG5BI1B"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Suki",
+      "url": "https://open.spotify.com/track/3r7jM6T97NvJmt5gS9Cmy3"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
         "name": "zokkou",
         "url": "https://open.spotify.com/album/5iYgJIgcbEcRZfKLHodraf"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 204473,
       "name": "zokkou",
       "url": "https://open.spotify.com/track/1ia6O0Sl2oakFEbcjoUjX0"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 233985,
-      "name": "18",
-      "url": "https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 233985,
+      "name": "18",
+      "url": "https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
         "name": "\u96d1\u591a",
         "url": "https://open.spotify.com/album/0fTzETlK7vzcwbCe6qnfS7"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 158080,
       "name": "\u96d1\u591a",
       "url": "https://open.spotify.com/track/0TXTtehG6rbyC8yE5KfDTC"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
-        "name": "\u304a\u3063\u304a\u30fc",
-        "url": "https://open.spotify.com/album/68VJkJi7jByAKDYYWvPhtq"
-      },
-      "artists": [
-        {
-          "name": "the Po",
-          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "\u304a\u3063\u304a\u30fc",
-      "url": "https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1391,18 +1375,34 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm"
+        "name": "\u304a\u3063\u304a\u30fc",
+        "url": "https://open.spotify.com/album/68VJkJi7jByAKDYYWvPhtq"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "the Po",
+          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8"
+      "duration_ms": 260666,
+      "name": "\u304a\u3063\u304a\u30fc",
+      "url": "https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/0my7T4mmRpxlRtkdtNu10l"
+      },
+      "artists": [
+        {
+          "name": "sanetii",
+          "url": "https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/6LG5RZFhnSEIGw0w7e7N8w"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
-        "url": "https://open.spotify.com/album/0my7T4mmRpxlRtkdtNu10l"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm"
       },
       "artists": [
         {
-          "name": "sanetii",
-          "url": "https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy"
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/6LG5RZFhnSEIGw0w7e7N8w"
+      "duration_ms": 222893,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8"
     },
     {
       "added_at": "2026-09-29 15:09:29",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-29 15:09:29",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0A7dqAIbdqlPyBhoOyeAN4"
-      },
-      "artists": [
-        {
-          "name": "the Po",
-          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
-    },
-    {
-      "added_at": "2026-09-29 15:09:29",
-      "album": {
         "name": "MY LIFE",
         "url": "https://open.spotify.com/album/5maPKQIoR7vxfNJcdOmPpC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 274453,
       "name": "MY LIFE",
       "url": "https://open.spotify.com/track/1gzHbSSKOeYVXhYkK7g7Pe"
+    },
+    {
+      "added_at": "2026-09-29 15:09:29",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0A7dqAIbdqlPyBhoOyeAN4"
+      },
+      "artists": [
+        {
+          "name": "the Po",
+          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
     },
     {
       "added_at": "2026-09-29 15:09:29",

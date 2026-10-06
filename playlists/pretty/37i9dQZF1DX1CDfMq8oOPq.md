@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,301 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,304 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 32 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 33 | [Milimetricamente](https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH) | [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili) | [Milimetricamente](https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP) | 2:02 |
 | 34 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
-| 35 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
-| 36 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
+| 35 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
+| 36 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 37 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 38 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
 | 39 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |

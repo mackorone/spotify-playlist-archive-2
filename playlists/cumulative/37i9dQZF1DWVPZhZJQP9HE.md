@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-818 songs - 2 day 0 hr 6 min
+819 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 | 2022-08-14 | 2023-02-07 |
 | [Yenadi](https://open.spotify.com/track/0r98oYeF5In7SCfgRR4B57) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Viss Ningthouja](https://open.spotify.com/artist/6PUtQBfuW9sbsM38uJlVDF), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Tanvi Kamat](https://open.spotify.com/artist/0vBAjGKbTcI4SDVRnp8Znv) | [Yenadi](https://open.spotify.com/album/6j6Qi5UtRZ88PTwb78owrK) | 3:10 | 2026-07-31 |  |
 | [Yendhizhaye](https://open.spotify.com/track/3nLXHO8Mkv3gSQGatuOKUk) | [Ashwath](https://open.spotify.com/artist/0ZME1dtaOU96fNDeTTAnnM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Soundararajan K](https://open.spotify.com/artist/71pwW7cVZxIz3MEnqZHqwQ) | [Yendhizhaye](https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V) | 3:58 | 2025-01-07 | 2026-01-15 |
+| [Yenge Povadhu](https://open.spotify.com/track/4RNEGz8jiPA7i2VB42ul74) | [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Gangai Amaran](https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV) | [Yenge Povadhu](https://open.spotify.com/album/72P7ThDTqAxD6ijkPVq1Sw) | 4:17 | 2026-10-05 |  |
 | [yeno](https://open.spotify.com/track/62Ga2w2umiuR97MUKVQKWm) | [cavya sound](https://open.spotify.com/artist/1bHLrn1seutyUjIUCJnMyj), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [yeno](https://open.spotify.com/album/4dzJYuPlq9ghNQ49trpLFc) | 2:56 | 2026-04-08 |  |
 | [Yeno Indru \- From "Think Indie"](https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yeno Indru \(From "Think Indie"\)](https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P) | 3:23 | 2025-10-15 | 2026-06-27 |
 | [Yethetho](https://open.spotify.com/track/4SrsHuFHWRB9d14FXsKDww) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Yethetho](https://open.spotify.com/album/1SOi1JzwaDAcmJiLXj7WGH) | 3:22 | 2025-04-21 | 2026-05-05 |

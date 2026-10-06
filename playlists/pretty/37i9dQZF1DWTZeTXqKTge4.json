@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Tel Kel",
-  "num_followers": 89618,
+  "num_followers": 89621,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
-    },
-    {
-      "added_at": "2026-10-02 04:03:48",
-      "album": {
         "name": "Big Wop - Mile-End sur la map",
         "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210695,
       "name": "Fascinant",
       "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-10-02 04:03:48",
+      "album": {
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-10-02 04:03:48",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
-        "name": "Le love c'est ce que je chase",
-        "url": "https://open.spotify.com/album/62LH2c3fYUdAITTkYT5ua8"
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
       },
       "artists": [
         {
@@ -1422,11 +1422,15 @@
         {
           "name": "lb66",
           "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
         }
       ],
-      "duration_ms": 162083,
-      "name": "Le love c'est ce que je chase",
-      "url": "https://open.spotify.com/track/3j0gAKb72hAL7KO0MWdhHV"
+      "duration_ms": 152187,
+      "name": "GENS DU PAYS",
+      "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
     },
     {
       "added_at": "2026-10-02 04:03:48",

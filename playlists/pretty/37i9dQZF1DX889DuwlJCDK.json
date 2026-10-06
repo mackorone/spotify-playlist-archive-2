@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30d7\u30c3\u30b7\u30e5\u30d7\u30eb\u30dd\u30c3\u30c8",
-  "num_followers": 23134,
+  "num_followers": 23138,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u8461\u8404",
-        "url": "https://open.spotify.com/album/1oizGUJOT1aGCuHRkTHr3A"
-      },
-      "artists": [
-        {
-          "name": "Vivanz Eden",
-          "url": "https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "\u8461\u8404",
-      "url": "https://open.spotify.com/track/2a5MLJ8nRa612KywgqwfXY"
-    },
-    {
-      "added_at": "2026-09-29 16:02:07",
-      "album": {
         "name": "hikari",
         "url": "https://open.spotify.com/album/4z2rZEuLUJpHKPMDjNJas4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 244781,
       "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
       "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+    },
+    {
+      "added_at": "2026-09-29 16:02:07",
+      "album": {
+        "name": "\u8461\u8404",
+        "url": "https://open.spotify.com/album/1oizGUJOT1aGCuHRkTHr3A"
+      },
+      "artists": [
+        {
+          "name": "Vivanz Eden",
+          "url": "https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "\u8461\u8404",
+      "url": "https://open.spotify.com/track/2a5MLJ8nRa612KywgqwfXY"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "In Liminal",
-        "url": "https://open.spotify.com/album/2ojeeDP4pasbPWUrxiWwbh"
-      },
-      "artists": [
-        {
-          "name": "NELKE",
-          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1xNHXY5qj8POfdPcE9OGrc"
-    },
-    {
-      "added_at": "2026-09-29 16:02:07",
-      "album": {
         "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
         "url": "https://open.spotify.com/album/1dYjt6GxQJmMpJxHK9s1eR"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 154386,
       "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
       "url": "https://open.spotify.com/track/3bAWqORaLmBzYiwqPaWAJT"
+    },
+    {
+      "added_at": "2026-09-29 16:02:07",
+      "album": {
+        "name": "In Liminal",
+        "url": "https://open.spotify.com/album/2ojeeDP4pasbPWUrxiWwbh"
+      },
+      "artists": [
+        {
+          "name": "NELKE",
+          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1xNHXY5qj8POfdPcE9OGrc"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
-        "url": "https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ"
+        "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
+        "url": "https://open.spotify.com/album/0oApufYEdDGDYYmQ05fsqG"
       },
       "artists": [
         {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
         }
       ],
-      "duration_ms": 188588,
-      "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
-      "url": "https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV"
+      "duration_ms": 202529,
+      "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
+      "url": "https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
-        "url": "https://open.spotify.com/album/0oApufYEdDGDYYmQ05fsqG"
+        "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+        "url": "https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ"
       },
       "artists": [
         {
-          "name": "PompadollS",
-          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
         }
       ],
-      "duration_ms": 202529,
-      "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
-      "url": "https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn"
+      "duration_ms": 188588,
+      "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+      "url": "https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u9b5a",
-        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "\u9b5a",
-      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
-    },
-    {
-      "added_at": "2026-09-29 16:02:07",
-      "album": {
         "name": "\u3057\u3042\u308f\u305b\u306e\u5b9a\u7fa9",
         "url": "https://open.spotify.com/album/1ivoFMGpUfaSdAjJxAhXxp"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 245333,
       "name": "\u3057\u3042\u308f\u305b\u306e\u5b9a\u7fa9",
       "url": "https://open.spotify.com/track/645sb4fKvMlk6jTrreR2oy"
+    },
+    {
+      "added_at": "2026-09-29 16:02:07",
+      "album": {
+        "name": "\u9b5a",
+        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 192695,
+      "name": "\u9b5a",
+      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u7e01\u306e\u3064\u304d",
-        "url": "https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ"
-      },
-      "artists": [
-        {
-          "name": "KI_EN",
-          "url": "https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5"
-        }
-      ],
-      "duration_ms": 216724,
-      "name": "\u7e01\u306e\u3064\u304d",
-      "url": "https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl"
-    },
-    {
-      "added_at": "2026-09-29 16:02:07",
-      "album": {
         "name": "\u3044\u304d\u306c\u304f",
         "url": "https://open.spotify.com/album/4bSIbCHmWH2WMPFquDI9Ov"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
-        "url": "https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs"
+        "name": "\u7e01\u306e\u3064\u304d",
+        "url": "https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ"
       },
       "artists": [
         {
-          "name": "INNER JOURNEY",
-          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+          "name": "KI_EN",
+          "url": "https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5"
         }
       ],
-      "duration_ms": 244216,
-      "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
-      "url": "https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ"
+      "duration_ms": 216724,
+      "name": "\u7e01\u306e\u3064\u304d",
+      "url": "https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "sagittarius",
-        "url": "https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h"
+        "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
+        "url": "https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs"
       },
       "artists": [
         {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
         }
       ],
-      "duration_ms": 270893,
-      "name": "sagittarius",
-      "url": "https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1"
+      "duration_ms": 244216,
+      "name": "\u7d42\u308f\u3089\u306a\u3044\u591c\u306e\u5b88\u308a\u65b9",
+      "url": "https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1451,6 +1435,38 @@
       "duration_ms": 214192,
       "name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1rHTFH2MejyTw4qMROryZ8"
+    },
+    {
+      "added_at": "2026-09-29 16:02:07",
+      "album": {
+        "name": "sagittarius",
+        "url": "https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "sagittarius",
+      "url": "https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1"
+    },
+    {
+      "added_at": "2026-09-29 16:02:07",
+      "album": {
+        "name": "\u5bc6\u304b",
+        "url": "https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u3068\u5f92\u82b1",
+          "url": "https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "\u5bc6\u304b",
+      "url": "https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2026-09-29 16:02:07",
       "album": {
-        "name": "\u5bc6\u304b",
-        "url": "https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H"
+        "name": "PEACH BLACK",
+        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
       },
       "artists": [
         {
-          "name": "\u6708\u3068\u5f92\u82b1",
-          "url": "https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE"
+          "name": "SWALLOW",
+          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
         }
       ],
-      "duration_ms": 219622,
-      "name": "\u5bc6\u304b",
-      "url": "https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo"
+      "duration_ms": 242519,
+      "name": "PEACH BLACK",
+      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
     },
     {
       "added_at": "2026-09-29 16:02:07",
@@ -1531,22 +1547,6 @@
       "duration_ms": 204951,
       "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
       "url": "https://open.spotify.com/track/63xiyY5OvnB3eCxkkNKb5n"
-    },
-    {
-      "added_at": "2026-09-29 16:02:07",
-      "album": {
-        "name": "PEACH BLACK",
-        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
-      },
-      "artists": [
-        {
-          "name": "SWALLOW",
-          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
-        }
-      ],
-      "duration_ms": 242519,
-      "name": "PEACH BLACK",
-      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
     },
     {
       "added_at": "2026-09-29 16:02:07",

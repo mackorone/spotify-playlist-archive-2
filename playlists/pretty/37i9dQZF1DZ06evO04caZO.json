@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 505669,
+  "num_followers": 505801,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADX8ggV+jTW+soXy+Y/4deG",
+  "snapshot_id": "asGXAAAAAABbWikgsCTgEqNHMMsp8oLm",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 222360,
       "name": "Tap Out",
       "url": "https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Call Me Back",
-      "url": "https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS"
     }
   ],
   "unique_name": "This Is The Strokes",

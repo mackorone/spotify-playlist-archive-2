@@ -4,7 +4,7 @@
 
 > BLANCO in cover della playlist con tutte le hit 🔥
 
-375 songs - 19 hr 36 min
+376 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-06-28 | 2024-08-02 |
 | [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-02-17 | 2025-05-30 |
 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 | 2025-01-17 | 2025-02-21 |
-| [TUTTO](https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [TUTTO](https://open.spotify.com/album/3ny7Mls4spvGmdy10ma13x) | 3:24 | 2026-09-21 |  |
+| [TUTTO](https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [TUTTO](https://open.spotify.com/album/3ny7Mls4spvGmdy10ma13x) | 3:24 | 2026-09-21 | 2026-10-06 |
 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 | 2025-05-15 | 2026-02-03 |
 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 | 2025-02-27 | 2025-07-01 |
 | [Una bara per due](https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Una bara per due](https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7) | 4:46 | 2026-10-01 |  |
@@ -377,6 +377,7 @@
 | [VVS CARTIER](https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:00 | 2025-05-08 | 2025-11-06 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-11-06 | 2026-09-09 |
 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 | 2026-06-22 |  |
+| [WINNER](https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [WINNER](https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt) | 3:05 | 2026-10-05 |  |
 | [Wop Wop \(feat\. Shiva\)](https://open.spotify.com/track/7LjhTVncMxoH9X6KMWECgq) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:03 | 2025-01-30 | 2025-03-25 |
 | [XXDONO \(feat\. Lazza\)](https://open.spotify.com/track/7n5unddip61Z4ZBHCwIm8r) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [XXDONO \(feat\. Lazza\)](https://open.spotify.com/album/6ev90z3DfY97xaak6RZ0EX) | 3:04 | 2026-05-17 | 2026-06-26 |
 | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1KEge1AYDxzlW7O8oHcs82) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/0MODQR33be381AAENXV2qn) | 2:56 | 2025-06-30 | 2026-03-06 |

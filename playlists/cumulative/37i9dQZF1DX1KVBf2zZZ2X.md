@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-373 songs - 17 hr 22 min
+374 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Glint](https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH) | [Golden Mirage](https://open.spotify.com/artist/77CkzRAWnnxgtcSDY8BXD6) | [Glint](https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi) | 2:39 | 2026-03-20 | 2026-08-29 |
 | [Glistening](https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Glistening](https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y) | 2:49 | 2026-03-20 | 2026-09-05 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-03-03 | 2025-06-12 |
+| [Golden Echoes](https://open.spotify.com/track/78uZyToiIloP5uQVWrshHo) | [Senjidema](https://open.spotify.com/artist/400zjNMBMV1D33VF5R2S1l) | [Golden Echoes](https://open.spotify.com/album/0b3olul1UdQmrqD2RMLkO5) | 2:47 | 2026-09-09 |  |
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2025-12-03 | 2026-03-21 |
 | [Grave](https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Grave](https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W) | 2:54 | 2023-03-03 | 2025-06-12 |
 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2025-06-11 |  |
@@ -285,7 +286,7 @@
 | [Sacred Stream](https://open.spotify.com/track/1ryiF2CZT5mY4rVWht2TE8) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Sacred Stream](https://open.spotify.com/album/1C3Fzh0jihB8N5gHfofEHm) | 2:38 | 2026-03-20 |  |
 | [Safe Pond](https://open.spotify.com/track/7avjFlXPuk3bnUWhxECdbC) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Safe Pond](https://open.spotify.com/album/2GqYiWbRJEIX4RzXuTdd8R) | 2:36 | 2026-09-09 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-03 | 2024-06-04 |
-| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
+| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 | 2026-10-06 |
 | [Saliva](https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Saliva](https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE) | 2:10 | 2026-03-20 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-06-11 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |

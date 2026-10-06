@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-562 songs - 1 day 8 hr 54 min
+563 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2025-07-01 |  |
 | [人生は夢だらけ](https://open.spotify.com/track/0z2xgbxkLvrpzBZDtYIIXS) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:14 | 2025-06-30 |  |
 | [人間](https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [人間](https://open.spotify.com/album/2aRPZcMvi6VkwlWkHQ3sGR) | 2:42 | 2024-09-07 |  |
+| [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 | 2026-10-05 |  |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-02-06 |  |
 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 | 2024-11-10 |  |
 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 | 2026-08-02 |  |

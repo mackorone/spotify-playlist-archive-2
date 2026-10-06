@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,457 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,463 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 29 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
 | 30 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
 | 31 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
-| 32 | [Meditation](https://open.spotify.com/track/4NizFdh2kwoZmtMEzcPAe6) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Meditation](https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t) | 3:05 |
-| 33 | [Alleen](https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Alleen](https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz) | 2:48 |
+| 32 | [Alleen](https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Alleen](https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz) | 2:48 |
+| 33 | [Meditation](https://open.spotify.com/track/4NizFdh2kwoZmtMEzcPAe6) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Meditation](https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t) | 3:05 |
 | 34 | [Trapped](https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG) | [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Trapped](https://open.spotify.com/album/6mZvZOnQVz7AKPaTUS3UTK) | 3:11 |
-| 35 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
-| 36 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
+| 35 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
+| 36 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
 | 37 | [Rode Roos](https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Rode Roos](https://open.spotify.com/album/5cmmeEkArv1qaXxgEczNET) | 2:36 |
 | 38 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
 | 39 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
-| 40 | [Waking up slow](https://open.spotify.com/track/4PFWmQYECVuFaAHEIrSUBn) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Here, I am alone with You](https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY) | 2:37 |
-| 41 | [Echo En Toi](https://open.spotify.com/track/3A8jY0pokq2wMg52dPLV1x) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [My Kind of Drama](https://open.spotify.com/album/55ZHaZsdFqRIXy87OTVsaB) | 4:19 |
+| 40 | [Echo En Toi](https://open.spotify.com/track/3A8jY0pokq2wMg52dPLV1x) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [My Kind of Drama](https://open.spotify.com/album/55ZHaZsdFqRIXy87OTVsaB) | 4:19 |
+| 41 | [Waking up slow](https://open.spotify.com/track/4PFWmQYECVuFaAHEIrSUBn) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Here, I am alone with You](https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY) | 2:37 |
 | 42 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
 | 43 | [It’s Your Call](https://open.spotify.com/track/4tJCmU5ZPlucAktrTn23Nt) | [SUUS](https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu) | [It’s Your Call](https://open.spotify.com/album/2uAUPx9qQuoA3uy1Rve2hj) | 2:57 |
 | 44 | [Sanguine](https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Sanguine](https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H) | 3:46 |

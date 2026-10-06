@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 1 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 2 | [Movimiento](https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [ATLAC](https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98) | [Movimiento](https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4) | 2:34 |
 | 3 | [Satisfy You](https://open.spotify.com/track/2Tk9biNKYewfJkqN1ILX2z) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Satisfy You](https://open.spotify.com/album/3AGDAou8OprOZbNui4bybv) | 2:27 |
 | 4 | [Loser \(Fcukers Remix\)](https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Loser \(Fcukers Remix\)](https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl) | 4:27 |

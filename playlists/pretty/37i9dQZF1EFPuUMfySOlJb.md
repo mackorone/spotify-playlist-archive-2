@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 31 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
 | 32 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
 | 33 | [Never Left](https://open.spotify.com/track/5hxEyhBnfraTdAnmPsuvlH) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Never Left](https://open.spotify.com/album/2q558Z4kL38WSl5MuuH5dx) | 2:45 |
-| 34 | [Lingo \(feat\. 26ar\)](https://open.spotify.com/track/2erVukJUR0cMPTpKV4FbAG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 2:21 |
-| 35 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
+| 34 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
+| 35 | [Lingo \(feat\. 26ar\)](https://open.spotify.com/track/2erVukJUR0cMPTpKV4FbAG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 2:21 |
 | 36 | [happy for me](https://open.spotify.com/track/3G8hpRJOyDeN6Wf4NlDxKm) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [DON'T MIND MY MIND](https://open.spotify.com/album/6bOxQ5E3NBP7fzpplDBEZh) | 3:35 |
 | 37 | [In My Bag](https://open.spotify.com/track/2Fzj6imQgRutEdl0ugx79L) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/5jZGelX9KeTm1iXQvMS7aD) | 2:25 |
 | 38 | [Survivor](https://open.spotify.com/track/6eWz9q7qJwTSpTyM0COD7p) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [NawfJaxx](https://open.spotify.com/album/2WeEohTdJFHpZeqd3ldi7O) | 2:42 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 41 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 | 42 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `AceE5AAAAADUP8+0HC4Ujc/QhUcwusAO`
+Snapshot ID: `AceKwAAAAACVDXxbyxnBsCku0FU8rIgy`

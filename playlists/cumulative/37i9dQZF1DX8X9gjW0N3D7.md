@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: LUMIÈRE
 
-628 songs - 1 day 11 hr 5 min
+629 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Animal imberbe](https://open.spotify.com/track/6F1rqilX9K5oZ85F6brq0Q) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Animal imberbe](https://open.spotify.com/album/57yyvI0RDu5XuGVGITRjRf) | 3:04 | 2026-04-17 | 2026-07-25 |
 | [Another Tangerine](https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Another Tangerine](https://open.spotify.com/album/4C5UWdlzMyFyBcch7mjck1) | 2:58 | 2025-10-17 | 2026-03-07 |
 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 | 2026-04-03 | 2026-04-23 |
+| [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 | 2026-10-02 |  |
 | [Astronaute \- Deluxe](https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim), [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Cycle délicat \(Deluxe\)](https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy) | 2:50 | 2026-09-04 |  |
 | [Attends\-moi pas](https://open.spotify.com/track/5UV95aJxscC7hP62Hrlvat) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Je ne t'aime plus](https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp) | 2:23 | 2026-05-01 | 2026-06-13 |
 | [Au début du soleil](https://open.spotify.com/track/48XwaGQMz2YpbxJk9VBeI9) | [Joseph Marchand](https://open.spotify.com/artist/3PtlrMQcFMfxJbmPvycl2F), [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Treize miniatures](https://open.spotify.com/album/06All3BqxHCltO0QXzF55F) | 1:53 | 2025-11-21 | 2026-03-14 |
@@ -483,7 +484,7 @@
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 | 2025-10-25 |
 | [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 | 2026-07-17 | 2026-08-23 |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
-| [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
+| [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 | 2026-10-06 |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
 | [Rivière \(L'ÉTAT URGENGE DE VIV\(r\)E\)](https://open.spotify.com/track/6OaUvLPhxVzqKwIOnXgqyy) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Rivière \(L'ÉTAT URGENGE DE VIV\(r\)E\)](https://open.spotify.com/album/4lrE9tsvxVt7jilSsk2XU4) | 3:16 | 2026-09-04 | 2026-09-19 |
 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 | 2026-08-14 |

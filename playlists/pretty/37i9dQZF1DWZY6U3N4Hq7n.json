@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 544919,
+  "num_followers": 544994,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 198294,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "All Night Long (All Night) - Single Version",
-      "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212000,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Heavy Nova",
+        "url": "https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Simply Irresistible",
+      "url": "https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "We Are The '80s",
         "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Heavy Nova",
-        "url": "https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
       "artists": [
         {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 255093,
-      "name": "Simply Irresistible",
-      "url": "https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF"
+      "duration_ms": 243133,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
     },
     {
       "added_at": "2024-03-19 14:45:18",

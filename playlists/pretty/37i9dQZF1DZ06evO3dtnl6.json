@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 84095,
+  "num_followers": 84129,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAAnmT9b0tzVUb4uo1CsmIL/",
+  "snapshot_id": "asGXAAAAAABaEW1gw7cBefIC8RQsKKmQ",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 179480,
-      "name": "Dark, Dark, Dark",
-      "url": "https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab"
+      "duration_ms": 267160,
+      "name": "If I Go, I'm Goin",
+      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 267160,
-      "name": "If I Go, I'm Goin",
-      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
+      "duration_ms": 179480,
+      "name": "Dark, Dark, Dark",
+      "url": "https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab"
     },
     {
       "added_at": null,

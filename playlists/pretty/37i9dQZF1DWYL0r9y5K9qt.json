@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: New Lore",
-  "num_followers": 623959,
+  "num_followers": 623939,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
       },
       "artists": [
         {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 145756,
-      "name": "work",
-      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
     },
     {
       "added_at": "2026-09-11 04:00:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "THIS IS FOR",
-        "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 131097,
-      "name": "THIS IS FOR",
-      "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "Bubee",
         "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182448,
       "name": "Bubee",
       "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     },
     {
       "added_at": "2026-09-11 04:00:30",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "Forever July",
-        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Forever July",
-      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "Dark Arts",
         "url": "https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 181758,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "Forever July",
+        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Forever July",
+      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
     }
   ],
   "unique_name": "poses",

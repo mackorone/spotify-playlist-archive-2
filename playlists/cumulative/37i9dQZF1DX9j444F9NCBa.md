@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-699 songs - 1 day 11 hr 31 min
+701 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Levitating](https://open.spotify.com/track/5W6rrixE9nBnfcLpxUkoOH) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:13 | 2022-12-02 | 2023-06-03 |
 | [Life On Mars](https://open.spotify.com/track/7rpfeJPCSCXQl0GpI17aQN) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Life On Mars](https://open.spotify.com/album/3gUfcGqtY2bRh9jRi8mK7Q) | 3:52 | 2024-07-12 | 2026-03-21 |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-01-21 | 2023-04-14 |
+| [Life On Mars?](https://open.spotify.com/track/4RI8u0il9uoEelw7ZQLhGM) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Life On Mars?](https://open.spotify.com/album/3qDyCFjmp5HDxkeNyELAc9) | 2:26 | 2026-10-05 |  |
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-12-02 | 2023-06-03 |
 | [Light Switch](https://open.spotify.com/track/7cKAjHhKnrewhzSxk26C18) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Blinding Lights](https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v) | 2:55 | 2022-10-14 | 2023-02-24 |
 | [Little Talks](https://open.spotify.com/track/7Dz3Ok7hysQ973FBzrvfwg) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:36 | 2022-01-21 | 2022-10-15 |
@@ -520,6 +521,7 @@
 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 | 2022-01-21 | 2025-10-25 |
 | [Something](https://open.spotify.com/track/2hT1Htm2vYNr33XIkfzWGp) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Something](https://open.spotify.com/album/1gwzRt9wH6nIYLFkxz9O0i) | 2:43 | 2023-11-17 |  |
 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-20 | 2025-10-25 |
+| [Somewere Only We Know](https://open.spotify.com/track/3glf0epQjpdCVxKGcmTlj0) | [Jimmy Jenner](https://open.spotify.com/artist/7AnP0BSXZK97TjN7OjiKD5) | [Somewere Only We Know](https://open.spotify.com/album/0naweC5yCujKDIlVLBFE1h) | 2:50 | 2026-10-05 |  |
 | [Somewhere only we know](https://open.spotify.com/track/3TQrrmZ4vQBoBNK6Hymkph) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:42 | 2022-12-02 | 2025-10-25 |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2022-10-28 | 2024-10-19 |
 | [Songbird](https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s) | [Margaret James](https://open.spotify.com/artist/61mMq7qWCIxypmj1Cmk0wZ) | [Songbird](https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn) | 3:23 | 2022-01-21 | 2023-04-14 |

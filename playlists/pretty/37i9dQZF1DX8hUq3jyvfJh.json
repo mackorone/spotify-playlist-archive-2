@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196320,
+  "num_followers": 196316,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "Ainda \u00e9 pouco",
+        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 174377,
+      "name": "Ainda \u00e9 pouco",
+      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "Joyce Alane Ao Vivo no SALA",
         "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 190250,
       "name": "Bel\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "Ainda \u00e9 pouco",
-        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 174377,
-      "name": "Ainda \u00e9 pouco",
-      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
-      },
-      "artists": [
-        {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "Amor e Sacanagem",
         "url": "https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 169762,
       "name": "Amor e Sacanagem",
       "url": "https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-07-06 16:39:02",

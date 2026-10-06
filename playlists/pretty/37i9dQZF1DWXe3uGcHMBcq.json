@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 123290,
+  "num_followers": 123299,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHrlvm+jIEfgjUCqHFypE5OvVmh6",
+  "snapshot_id": "AAAAAGPe+jXT7oQkqtAiJs+2e0qaw4tt",
   "tracks": [
     {
       "added_at": "2026-07-14 07:00:09",
@@ -699,6 +699,26 @@
       "duration_ms": 193187,
       "name": "Worlds Collide - From \"Disney Descendants/ZOMBIES: Worlds Collide Tour\"",
       "url": "https://open.spotify.com/track/4RcGxhH6ZSLFMtUny7tcPu"
+    },
+    {
+      "added_at": "2026-10-05 15:13:59",
+      "album": {
+        "name": "Vampirina: Teenage Vampire: Season 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Nuo3cox11iIxkCHxgXprF"
+      },
+      "artists": [
+        {
+          "name": "Kenzi Richardson",
+          "url": "https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX"
+        },
+        {
+          "name": "Shaun Dixon",
+          "url": "https://open.spotify.com/artist/7bjSZryEMciJfMvOg2486e"
+        }
+      ],
+      "duration_ms": 118158,
+      "name": "Glowin'",
+      "url": "https://open.spotify.com/track/2LsK9xmOBgjnFIn5C6TsYB"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -2679,26 +2699,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "Disney Channel Playlist",
-        "url": "https://open.spotify.com/album/3f4bhDIvXL4xOnM4elWNmK"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "One and the Same - From \"Princess Protection Program\"",
-      "url": "https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Tomorrow Starts Today (Andi Mack Theme Song)",
         "url": "https://open.spotify.com/album/2bddlYqxgL7ZAqdEfwQXYN"
       },
@@ -2839,50 +2839,6 @@
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Descendants 3 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Booboo Stewart",
-          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
-        },
-        {
-          "name": "Cameron Boyce",
-          "url": "https://open.spotify.com/artist/0TgcQAZ4tru6zMfNsARSKv"
-        },
-        {
-          "name": "Thomas Doherty",
-          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
-        },
-        {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        },
-        {
-          "name": "Dylan Playfair",
-          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 188217,
-      "name": "Night Falls",
-      "url": "https://open.spotify.com/track/3doNvO8zrwzcM0PJrcn8Rb"
     },
     {
       "added_at": "2026-07-14 07:00:09",

@@ -5211,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "CHALREH CHALREH WAAL (Acoustic)",
+        "url": "https://open.spotify.com/album/3zaYIIu1llWXYa9oJaDBux"
+      },
+      "artists": [
+        {
+          "name": "Sufi Mafiya",
+          "url": "https://open.spotify.com/artist/4jlA9Qhi6j2JTvATuFo6R2"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313381,
+      "name": "CHALREH CHALREH WAAL - Acoustic",
+      "url": "https://open.spotify.com/track/2LCtFEIo0k0hN2sZms6G4X"
+    },
+    {
+      "album": {
         "name": "Chambal K Dakku",
         "url": "https://open.spotify.com/album/49ZD2Qc6wbbLeA4rC2FLsW"
       },
@@ -10944,7 +10962,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 268463,
       "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
       "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
@@ -21592,7 +21610,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
@@ -21610,7 +21628,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
@@ -25694,7 +25712,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -25888,7 +25906,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"

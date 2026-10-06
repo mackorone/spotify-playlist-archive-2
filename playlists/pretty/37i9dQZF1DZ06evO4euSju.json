@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1429,
+  "num_followers": 1430,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADEQ5r5uNO55uTK5fHfyr66",
+  "snapshot_id": "asGXAAAAAADCLa5oLIL+V424FA3Pe8v5",
   "tracks": [
     {
       "added_at": null,
@@ -282,11 +282,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -316,9 +320,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 238588,
-      "name": "Black Flamingo",
-      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,
@@ -346,15 +350,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+      "duration_ms": 238588,
+      "name": "Black Flamingo",
+      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143383,
+  "num_followers": 143376,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Bet On That - At the Troubadour - September 2026",
+        "url": "https://open.spotify.com/album/6mvK3cRuW4EvAVcGpxn3cn"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Bet On That - At the Troubadour - September 2026",
+      "url": "https://open.spotify.com/track/5bSQ3YYIM2IjFXPCnXTu2l"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 307600,
       "name": "Big Star (with Taylor Swift) - Live",
       "url": "https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Live at the Ryman",
-        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 223032,
-      "name": "Heavens To Betsy - Live at the Ryman",
-      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Bet On That - At the Troubadour - September 2026",
-        "url": "https://open.spotify.com/album/6mvK3cRuW4EvAVcGpxn3cn"
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
       },
       "artists": [
         {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 221624,
-      "name": "Bet On That - At the Troubadour - September 2026",
-      "url": "https://open.spotify.com/track/5bSQ3YYIM2IjFXPCnXTu2l"
+      "duration_ms": 223032,
+      "name": "Heavens To Betsy - Live at the Ryman",
+      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
+        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+        }
+      ],
+      "duration_ms": 287938,
+      "name": "Tennessee Whiskey - Live on the Grand Ole Opry, October 29th, 2016",
+      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "An Evening With John Denver",
         "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
@@ -543,30 +563,6 @@
       "duration_ms": 336826,
       "name": "Sparks Fly - Live/2011",
       "url": "https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Love On The Inside (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
-        },
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Life In A Northern Town - Live",
-      "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -619,22 +615,26 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
-        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+        "name": "Love On The Inside (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         },
         {
-          "name": "Grand Ole Opry",
-          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        },
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 287938,
-      "name": "Tennessee Whiskey - Live on the Grand Ole Opry, October 29th, 2016",
-      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
+      "duration_ms": 254346,
+      "name": "Life In A Northern Town - Live",
+      "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+        "name": "Thomas Rhett Live From Fenway Park",
+        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 237488,
-      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+      "duration_ms": 317168,
+      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Thomas Rhett Live From Fenway Park",
-        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 317168,
-      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live From 2025",
-        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 307387,
-      "name": "Man of the Year - Live From 2025",
-      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "We Out Here: Live",
         "url": "https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Live From 2025",
+        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 307387,
+      "name": "Man of the Year - Live From 2025",
+      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
         "name": "Hate How You Look (Live From London)",
         "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "On The Air: Her Best TV Performances",
-        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 166466,
-      "name": "She's Got You - Live",
-      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1471,22 +1487,6 @@
       "duration_ms": 242369,
       "name": "Lookin' For Love",
       "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Honey, I'm Home - Live",
-      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
-        "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
-      "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 211706,
       "name": "Write This Down - Live",
       "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
+        "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
+      "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Let Her Cry (Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996)",
+        "url": "https://open.spotify.com/album/2U08jVY5Rbd50VO1jvtyF4"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 297640,
-      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
-      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
+      "duration_ms": 323421,
+      "name": "Let Her Cry - Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996",
+      "url": "https://open.spotify.com/track/50hNcAvdqytGjew7mjM6A1"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live From Telluride",
-        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 292579,
-      "name": "Woman, Amen - Live",
-      "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
+      "duration_ms": 297640,
+      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1655,6 +1651,26 @@
       "duration_ms": 218720,
       "name": "21 Summer - Live",
       "url": "https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw"
+    },
+    {
+      "added_at": "2026-10-02 04:02:48",
+      "album": {
+        "name": "Live From Telluride",
+        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 292579,
+      "name": "Woman, Amen - Live",
+      "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1687,22 +1703,6 @@
       "duration_ms": 196022,
       "name": "One Bad Habit - Live",
       "url": "https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu"
-    },
-    {
-      "added_at": "2026-10-02 04:02:48",
-      "album": {
-        "name": "Let Her Cry (Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996)",
-        "url": "https://open.spotify.com/album/2U08jVY5Rbd50VO1jvtyF4"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 323421,
-      "name": "Let Her Cry - Live at the Horseshoe, University of South Carolina, Columbia, SC, 4/19/1996",
-      "url": "https://open.spotify.com/track/50hNcAvdqytGjew7mjM6A1"
     },
     {
       "added_at": "2026-10-02 04:02:48",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2026-10-02 04:02:48",
       "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+        "name": "Written in the Sand (Live)",
+        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
+      "duration_ms": 196040,
+      "name": "Written in the Sand - Live",
+      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
     }
   ],
   "unique_name": "Country Live",

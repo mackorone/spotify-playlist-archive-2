@@ -7328,7 +7328,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 204120,
       "name": "TUTTO",
       "url": "https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V"
@@ -7644,6 +7644,24 @@
       "duration_ms": 142153,
       "name": "WHITE GIRL WASTED",
       "url": "https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U"
+    },
+    {
+      "album": {
+        "name": "WINNER",
+        "url": "https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "WINNER",
+      "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring  Benji V
 
-729 songs - 1 day 13 hr 34 min
+730 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [En Mi Habitación](https://open.spotify.com/track/4ygcJsLFljafKEvEz4FBS1) | [Elier Cadena](https://open.spotify.com/artist/5pWiQEw8QVI6HoKCXiFVRH), [Sexta Zona](https://open.spotify.com/artist/0jxoD3F1t3vL7Qqey1JvVq) | [En Mi Habitación](https://open.spotify.com/album/23DO5a4fEGtngr6tppKtb2) | 2:56 | 2026-10-02 |  |
 | [En Preparacion](https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:07 | 2024-04-24 | 2024-08-08 |
 | [ENEMIGOS](https://open.spotify.com/track/5GOGiyBR5R8G9TiyN6TsxL) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [ENEMIGOS](https://open.spotify.com/album/5r3WNiwSIOSwgXpoTIHcY6) | 2:16 | 2025-06-20 | 2025-09-18 |
-| [Enero](https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Enero](https://open.spotify.com/album/1tktkOQNG1CT9WONe4EvIu) | 3:15 | 2026-08-06 |  |
+| [Enero](https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Enero](https://open.spotify.com/album/1tktkOQNG1CT9WONe4EvIu) | 3:15 | 2026-08-06 | 2026-10-06 |
 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 | 2022-05-13 | 2024-04-24 |
 | [ENPUTIZA](https://open.spotify.com/track/23iLYDUGEvf8GVlZhKowc0) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [ENPUTIZA](https://open.spotify.com/album/6hePLw073er4OhztBJw1TY) | 2:30 | 2024-10-02 | 2024-12-05 |
 | [Entiéndeme](https://open.spotify.com/track/2hbhRUSjTy6r8NXu3Wq7kT) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [Entiéndeme](https://open.spotify.com/album/1OPwzuGTVRI0ZKvZevwG0Z) | 3:01 | 2025-05-30 | 2025-09-18 |
@@ -301,7 +301,7 @@
 | [Grecia](https://open.spotify.com/track/2UcX02ikAwx9NjPbV0vwTa) | [Vidal](https://open.spotify.com/artist/1GphOybW2HBFpGNcEsjjiK) | [Grecia](https://open.spotify.com/album/77KyM4FkNFufqBR4dlUZMl) | 3:09 | 2024-08-14 | 2024-10-25 |
 | [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-24 | 2024-04-24 |
 | [Gucci los Paños](https://open.spotify.com/track/78bLeByA1uH2MDObkCJwYZ) | [La Fórmula](https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0) | [Gucci los Paños](https://open.spotify.com/album/0KBBSnljldiPMlXB6fDhly) | 3:25 | 2025-01-15 | 2025-03-08 |
-| [Halloween](https://open.spotify.com/track/5YFce9nNaI12DMrBYJ3J74) | [40JR](https://open.spotify.com/artist/1nP66Eyizqy2SmzCia7pF0) | [Halloween](https://open.spotify.com/album/16JSPnnOss4Xx44Kz1BcgM) | 2:30 | 2026-10-02 |  |
+| [Halloween](https://open.spotify.com/track/5YFce9nNaI12DMrBYJ3J74) | [40JR](https://open.spotify.com/artist/1nP66Eyizqy2SmzCia7pF0) | [Halloween](https://open.spotify.com/album/16JSPnnOss4Xx44Kz1BcgM) | 2:30 | 2026-10-02 | 2026-10-06 |
 | [Hannah Montana](https://open.spotify.com/track/2CGH52UvOXmqVs3cLcavu2) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Hannah Montana](https://open.spotify.com/album/5hMBPNzaAbX4xtpvXDnqWL) | 2:23 | 2024-09-04 | 2024-11-09 |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-12-01 | 2024-04-24 |
 | [Hasta Donde He Llegado](https://open.spotify.com/track/2WdIglS7U8orxDoKQKLujF) | [Carlitos Torres](https://open.spotify.com/artist/4uaiYhZpdQK5gpkvn0fnS5) | [Hasta Donde He Llegado](https://open.spotify.com/album/2oioKTQDCYE9H5eSKVK0n6) | 2:40 | 2025-05-30 | 2025-08-07 |
@@ -535,6 +535,7 @@
 | [Presiento](https://open.spotify.com/track/4EcEX2Y958odLYw7BgMZXK) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Presiento](https://open.spotify.com/album/5rxwbEV0FTIpqA0uoxop7X) | 2:34 | 2025-06-20 | 2025-09-18 |
 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-13 | 2024-04-19 |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-09-08 | 2024-04-24 |
+| [Princesa](https://open.spotify.com/track/4br4zFlJph6OI5FFy6ZCBx) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Princesa](https://open.spotify.com/album/11HKHpT3qO0HnRf4sMaurq) | 3:06 | 2026-10-05 |  |
 | [Probablemente](https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-05-13 | 2024-04-24 |
 | [Promesas](https://open.spotify.com/track/5gZ5fH2ynlFt1pMuZtvsyw) | [Los Quartz](https://open.spotify.com/artist/4cEidP1DHtAwIncOihAIJv) | [Promesas](https://open.spotify.com/album/02O5Hz5C9zU38o95na9yBz) | 2:28 | 2026-02-10 | 2026-04-04 |
 | [Pura Ambición](https://open.spotify.com/track/1bXuIo1YMyhYuyTm6LLAyo) | [Edicion Exclusivo](https://open.spotify.com/artist/6l1lRPATMypxpuQwkUQyyd) | [Pura Ambición](https://open.spotify.com/album/56hEvdGStROtvgLUozw5i7) | 3:35 | 2025-06-20 | 2025-09-18 |

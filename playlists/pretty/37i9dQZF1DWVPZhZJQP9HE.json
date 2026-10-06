@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 84978,
+  "num_followers": 85017,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL/iQSoSWoFMKQy4yutXiXhLh0bb",
+  "snapshot_id": "AAAAACBwmXhS95P7a1kqjkJCw8xr3JrO",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -191,6 +191,30 @@
       "duration_ms": 160161,
       "name": "VAANMATHI",
       "url": "https://open.spotify.com/track/6OBigDNxPz7c9P5YWnnecH"
+    },
+    {
+      "added_at": "2026-10-05 16:13:05",
+      "album": {
+        "name": "Yenge Povadhu",
+        "url": "https://open.spotify.com/album/72P7ThDTqAxD6ijkPVq1Sw"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Gangai Amaran",
+          "url": "https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV"
+        }
+      ],
+      "duration_ms": 257659,
+      "name": "Yenge Povadhu",
+      "url": "https://open.spotify.com/track/4RNEGz8jiPA7i2VB42ul74"
     },
     {
       "added_at": "2026-09-18 10:19:28",

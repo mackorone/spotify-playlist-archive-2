@@ -6452,7 +6452,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 111463,
       "name": "Balance",
       "url": "https://open.spotify.com/track/26zjxcIewOYyMWym0mftMl"
@@ -13362,7 +13362,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 115862,
       "name": "Charm Shades",
       "url": "https://open.spotify.com/track/5WISdIkbxEtCjVvxfIVIYp"
@@ -23136,7 +23136,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 124235,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63"
@@ -31280,7 +31280,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 124797,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
@@ -46538,7 +46538,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 114352,
       "name": "Lunar garden",
       "url": "https://open.spotify.com/track/7vXmhCsyBVW6oSp7rffhPm"
@@ -49232,6 +49232,24 @@
       "duration_ms": 205275,
       "name": "Midnight Taxi",
       "url": "https://open.spotify.com/track/7vtYAPiwMZvOR5rsf5JqRT"
+    },
+    {
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/47GgSkd0VMonad1kr15Spg"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121445,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5FAeASq3LoG6Ta6uFpv9kz"
     },
     {
       "album": {
@@ -60360,7 +60378,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 108000,
       "name": "pearls",
       "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
@@ -68360,6 +68378,24 @@
       "duration_ms": 127989,
       "name": "Selene",
       "url": "https://open.spotify.com/track/36pPsBtuzVLQNRBVGlNmAD"
+    },
+    {
+      "album": {
+        "name": "Selfhood",
+        "url": "https://open.spotify.com/album/25qYcTHZKBwSRSyW6xmwzu"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Selfhood",
+      "url": "https://open.spotify.com/track/2zqymjAIlpTpBTRieFZ13S"
     },
     {
       "album": {
@@ -78882,7 +78918,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 137142,
       "name": "Swish",
       "url": "https://open.spotify.com/track/29NsEJWiLl7enjAuZzYUbt"
@@ -81220,7 +81256,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 125714,
       "name": "The Realest",
       "url": "https://open.spotify.com/track/26vWmDXFUQilc5FtUMIgN7"
@@ -85142,6 +85178,28 @@
       "duration_ms": 158000,
       "name": "Upstairs",
       "url": "https://open.spotify.com/track/0xdGnsQsT1tZqfRTgj48PO"
+    },
+    {
+      "album": {
+        "name": "uptown bounce",
+        "url": "https://open.spotify.com/album/4EPT6yymdmsG74gMASvMay"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "igory",
+          "url": "https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "uptown bounce",
+      "url": "https://open.spotify.com/track/3AYYvbr2RlkCbzmzxnpdmG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 262440,
+  "num_followers": 262456,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 159213,
       "name": "Tamarindo",
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 151291,
-      "name": "Chilito Piqu\u00edn",
-      "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Cumbias Y Mas Con Banda",
         "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 165693,
       "name": "La Ni\u00f1a Esta Triste",
       "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 151291,
+      "name": "Chilito Piqu\u00edn",
+      "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 136213,
       "name": "El Pistolero - En Vivo",
       "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
+        "name": "Somos Los Aires",
+        "url": "https://open.spotify.com/album/68JWDvjicR3HON5PfQ8H70"
+      },
+      "artists": [
+        {
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 113815,
+      "name": "Los Tiliches",
+      "url": "https://open.spotify.com/track/1U2jTpekjFgnXyiveocesL"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 182920,
       "name": "Arriba Pichataro",
       "url": "https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
-        "name": "Somos Los Aires",
-        "url": "https://open.spotify.com/album/68JWDvjicR3HON5PfQ8H70"
-      },
-      "artists": [
-        {
-          "name": "Banda Aires del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
-        }
-      ],
-      "duration_ms": 113815,
-      "name": "Los Tiliches",
-      "url": "https://open.spotify.com/track/1U2jTpekjFgnXyiveocesL"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Agua de T\u00e9",
         "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "La Reyna de los Sones",
-        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
         }
       ],
-      "duration_ms": 202760,
-      "name": "La Diana Ranchera",
-      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
+      "duration_ms": 252107,
+      "name": "El Son Del Veneno",
+      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
+        "name": "La Reyna de los Sones",
+        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
       },
       "artists": [
         {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
         }
       ],
-      "duration_ms": 252107,
-      "name": "El Son Del Veneno",
-      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
+      "duration_ms": 202760,
+      "name": "La Diana Ranchera",
+      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
-      },
-      "artists": [
-        {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 197162,
       "name": "Los Enanitos",
       "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
-      },
-      "artists": [
-        {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
-      "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 162117,
       "name": "Las G\u00fcilotas",
       "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
+      "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
-      },
-      "artists": [
-        {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 213951,
       "name": "Corazon De Texas",
       "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Puras de Viento, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Amores de Julia (En Vivo)",
-      "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 168618,
       "name": "Male Chuchita",
       "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Puras de Viento, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Amores de Julia (En Vivo)",
+      "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Desqu\u00edtate Conmigo",
-        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 210910,
-      "name": "Jinetes en el Cielo",
-      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 131328,
       "name": "La Chiclanera",
       "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Jinetes en el Cielo",
+      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
     },
     {
       "added_at": "2026-09-25 06:00:25",

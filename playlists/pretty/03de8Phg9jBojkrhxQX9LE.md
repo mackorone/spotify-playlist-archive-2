@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,213 likes - 150 songs - 8 hr 17 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,212 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 10 | [DON'T BELIEVE IT \- GRiZ Remix](https://open.spotify.com/track/4Xw0xSHDXAkilxAt2X9hIZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [DON'T BELIEVE IT \[GRiZ Remix\]](https://open.spotify.com/album/3gpoyq7EIerZnz33dfnv8b) | 3:32 |
 | 11 | [Give it 2 me](https://open.spotify.com/track/38Z2OVfyPWG2cXOnK9ygSC) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:49 |
 | 12 | [Reflections](https://open.spotify.com/track/4cqZQr5IzaxGeGsDkZHi0s) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Reflections](https://open.spotify.com/album/4x9oXKmETxPsM39h5QrVA8) | 3:13 |
-| 13 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 13 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 14 | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\) \- Frost Children Remix](https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Together \(Remixes\)](https://open.spotify.com/album/42qs5MfDULOdDvMeRmwW7O) | 4:42 |
 | 15 | [Moviestar](https://open.spotify.com/track/1WAOwX5H0FRDAP9IMhHECS) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Moviestar](https://open.spotify.com/album/2Jc3sBuuh03RZ5Gta7VY8m) | 2:31 |
 | 16 | [True Killers](https://open.spotify.com/track/1AWhg4oDF4SIERk3KKoZCq) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [True Killers](https://open.spotify.com/album/3zxiqAY7Q2xxxbCK03mYIo) | 3:44 |

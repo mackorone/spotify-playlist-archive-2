@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 140076,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/7dY2jCELBbidJAXsdNLQBN"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 174288,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 163291,
       "name": "Breezing",
       "url": "https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 152875,
       "name": "Deep Surrender",
       "url": "https://open.spotify.com/track/7f6USZOojzum21fDfZGESr"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 153658,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 224641,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 205714,
       "name": "Embracing Waves",
       "url": "https://open.spotify.com/track/4UirKhdDpOZ8tMCtrIjDw1"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 190000,
       "name": "Endless Ocean",
       "url": "https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 189716,
       "name": "From The Past",
       "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Gentle Flow",
+        "url": "https://open.spotify.com/album/7LWXfhltGvgLhOcRyZ97fX"
+      },
+      "artists": [
+        {
+          "name": "Reiki Nataraj",
+          "url": "https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181559,
+      "name": "Gentle Flow",
+      "url": "https://open.spotify.com/track/5OC5N6pdmRphq91iO6mARe"
+    },
+    {
+      "album": {
         "name": "Gently Rising",
         "url": "https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 181626,
       "name": "Green Space",
       "url": "https://open.spotify.com/track/7JMljrokqhDuXXtghWokEE"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 203964,
       "name": "Hacienda",
       "url": "https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 142000,
       "name": "Harmonic Waters",
       "url": "https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 151535,
       "name": "Healing Waves",
       "url": "https://open.spotify.com/track/4GLun8fkrW7IR805a6uqS8"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 144046,
       "name": "Holy Waters",
       "url": "https://open.spotify.com/track/4BRo8Y4XlORmU3kzdgkk4h"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 141000,
       "name": "Inner Stream",
       "url": "https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA"
@@ -1968,6 +1986,24 @@
       "duration_ms": 158650,
       "name": "Kaze no Oto",
       "url": "https://open.spotify.com/track/7cKyV4MSnsEkCcaIgP2Wgw"
+    },
+    {
+      "album": {
+        "name": "Kustro",
+        "url": "https://open.spotify.com/album/2P4GGTPK3NTlOaCZSifXIf"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Kustro",
+      "url": "https://open.spotify.com/track/1A7rcTDbhKB5ndPJRPuvNe"
     },
     {
       "album": {
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Majestic (Ocean)",
       "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
@@ -2180,7 +2216,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 157500,
       "name": "Melanoceano",
       "url": "https://open.spotify.com/track/09CycQ3vGymZiuEUyzE0QR"
@@ -2313,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Navigating",
+        "url": "https://open.spotify.com/album/2nvjNDlTrsBNqTPoDYQ1gH"
+      },
+      "artists": [
+        {
+          "name": "Edmund\u2019s Oasis",
+          "url": "https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Navigating",
+      "url": "https://open.spotify.com/track/5MMDs7DlsflXVLhRcK95Zb"
+    },
+    {
+      "album": {
         "name": "Newfoundland",
         "url": "https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ"
       },
@@ -2360,7 +2414,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 224000,
       "name": "Night Waves",
       "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
@@ -2432,7 +2486,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 156762,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY"
@@ -2598,7 +2652,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 207914,
       "name": "Ocean Mindfulness",
       "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
@@ -2634,7 +2688,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 151254,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
@@ -2814,7 +2868,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 136161,
       "name": "Orchids",
       "url": "https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9"
@@ -2940,7 +2994,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 151730,
       "name": "Peace Offering",
       "url": "https://open.spotify.com/track/5EXyYADsvWnFPagkFfpxp2"
@@ -2976,7 +3030,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 187106,
       "name": "Placid",
       "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
@@ -3030,7 +3084,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 189628,
       "name": "Pukaki Passion",
       "url": "https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5"
@@ -3498,7 +3552,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 174677,
       "name": "Soft Sea Waves",
       "url": "https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO"
@@ -3667,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/6461BTT1Fhnku0P2qKfqdq"
+      },
+      "artists": [
+        {
+          "name": "Undis",
+          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184390,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/5e2uQeP2XzYVvvF74jKs9Y"
+    },
+    {
+      "album": {
         "name": "Summer Hibernation",
         "url": "https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf"
       },
@@ -3768,7 +3840,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 121375,
       "name": "The Cove",
       "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
@@ -4042,7 +4114,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 148624,
       "name": "Wavelines",
       "url": "https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j"
@@ -4096,7 +4168,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 168336,
       "name": "Waves of Daelbata",
       "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
@@ -4150,7 +4222,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 148235,
       "name": "West Waves",
       "url": "https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S"
@@ -4172,6 +4244,24 @@
       "duration_ms": 207692,
       "name": "Where the sun goes down (Nature Edit)",
       "url": "https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4"
+    },
+    {
+      "album": {
+        "name": "Wind and Sea",
+        "url": "https://open.spotify.com/album/5IlfrNEn3VMwZOZHScI8EN"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162083,
+      "name": "Wind and Sea",
+      "url": "https://open.spotify.com/track/4v3BHDfALATOZ3bKhjgc7w"
     },
     {
       "album": {
@@ -4222,7 +4312,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 169087,
       "name": "Wings Over Waves",
       "url": "https://open.spotify.com/track/6RDseU08qfnrodYIXgN1qO"

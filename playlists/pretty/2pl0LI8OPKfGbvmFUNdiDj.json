@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1194,
+  "num_followers": 1211,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEZeG3hDSCbXmQVKFHc2wmLwqNnSzG",
+  "snapshot_id": "AAAEZ0gfWEdAT9LzbkTYLX36yJKZ3QFn",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1127,6 +1127,38 @@
       "duration_ms": 251760,
       "name": "In an Hour of Truth",
       "url": "https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF"
+    },
+    {
+      "added_at": "2026-10-05 19:36:40",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "duration_ms": 165723,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO"
+    },
+    {
+      "added_at": "2026-10-05 20:05:38",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "duration_ms": 259793,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

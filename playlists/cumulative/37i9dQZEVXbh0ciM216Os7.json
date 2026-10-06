@@ -75112,13 +75112,47 @@
           "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
         },
         {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287040,
+      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Baalti Remix",
+      "url": "https://open.spotify.com/track/2dwWAQPebIqAwPjjAO1gVi"
+    },
+    {
+      "album": {
+        "name": "Together (Remixes)",
+        "url": "https://open.spotify.com/album/42qs5MfDULOdDvMeRmwW7O"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        },
+        {
           "name": "Frost Children",
           "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 282985,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Frost Children Remix",
       "url": "https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w"

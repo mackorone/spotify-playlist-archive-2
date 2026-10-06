@@ -364955,6 +364955,32 @@
     },
     {
       "album": {
+        "name": "Symphonic Masterworks, Vol.1 - Beethoven: Coriolan Overture & Symphony No. 5",
+        "url": "https://open.spotify.com/album/5tnZBcTcOuo7pGzMR0Llyd"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra Luigi Cherubini",
+          "url": "https://open.spotify.com/artist/2En6ZyXm253PlQTqavRKqx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443601,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3fEpS1T3hWM0lfYHI5SKFu"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphony No. 5 \u2013 Kolomiiets: Suite from \"The Mothers of Kherson\"",
         "url": "https://open.spotify.com/album/21H832Ldkhru1GhU0jF0Z0"
       },
@@ -364978,24 +365004,6 @@
       "duration_ms": 443624,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/3Vtv3i9KUyYpnoBkHj6yEU"
-    },
-    {
-      "album": {
-        "name": "Symphonic Masterworks, Vol.1 - Beethoven: Coriolan Overture & Symphony No. 5",
-        "url": "https://open.spotify.com/album/5tnZBcTcOuo7pGzMR0Llyd"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        }
-      ],
-      "date_added": "2026-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 443601,
-      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3fEpS1T3hWM0lfYHI5SKFu"
     },
     {
       "album": {

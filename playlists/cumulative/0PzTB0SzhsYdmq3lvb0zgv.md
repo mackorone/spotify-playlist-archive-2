@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-603 songs - 1 day 9 hr 39 min
+604 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Overthinking](https://open.spotify.com/track/4tMVjTs8Y9C1bi2AGoO8Gk) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/76Mk1uTeXf0gQHgOQQrCDB) | 2:29 | 2026-02-19 |  |
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2025-07-18 | 2026-06-26 |
 | [Paint By Numbers](https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:27 | 2026-03-06 |  |
+| [panic first!](https://open.spotify.com/track/7wakoFGB8xsobcKVKOqoa7) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [Panic First!](https://open.spotify.com/album/3RfTi4xYVmJeOBq785CDJu) | 2:43 | 2026-10-05 |  |
 | [Part Of It](https://open.spotify.com/track/0iwBonhgYZK3aLzuPDJphq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Exit & Entrances](https://open.spotify.com/album/5RHHd7GsdcjR8gLJlgPWFW) | 2:57 | 2025-09-19 |  |
 | [Part Two \- Wouldn't It Make A Lovely Photograph](https://open.spotify.com/track/6OnN5AfKogPnQpEIbItvyX) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Ouroboros](https://open.spotify.com/album/4JVl5HHiI2SEgqvqTrBYyK) | 3:58 | 2026-02-19 | 2026-09-10 |
 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-07 | 2026-02-13 |

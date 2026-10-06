@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17903,
+  "num_followers": 17904,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAAWz3S1RYO1RDEK77eWFsnM",
+  "snapshot_id": "asGXAAAAAADeOe/p49Us4cHddjbyPqSC",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 42500,
-      "name": "FUCK ME",
-      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
+      "duration_ms": 133416,
+      "name": "GAR\u00c7ON",
+      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 133416,
-      "name": "GAR\u00c7ON",
-      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
+      "duration_ms": 42500,
+      "name": "FUCK ME",
+      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
     },
     {
       "added_at": null,
@@ -847,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUTAAL",
-        "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Zwangere Guy",
-          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
-        },
-        {
-          "name": "Blu Samu",
-          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 246490,
-      "name": "BRUTAAL",
-      "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
     },
     {
       "added_at": null,
@@ -887,22 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+        "name": "BRUTAAL",
+        "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+          "name": "Zwangere Guy",
+          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
+        },
+        {
+          "name": "Blu Samu",
+          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+      "duration_ms": 246490,
+      "name": "BRUTAAL",
+      "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
     },
     {
       "added_at": null,

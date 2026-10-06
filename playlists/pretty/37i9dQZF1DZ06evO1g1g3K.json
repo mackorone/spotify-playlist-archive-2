@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7918,
+  "num_followers": 7922,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAAAfHY5t+80D6+HY0gMfzXpA",
+  "snapshot_id": "asGXAAAAAAAjTMNj/oCT+ZxG1eZ+S1Kn",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Terrell One Million Show",
         "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 291620,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
       "artists": [
         {
-          "name": "James Bambu",
-          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
-        },
-        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "DeShawn Jenkins",
+          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
         }
       ],
-      "duration_ms": 227750,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
+      "duration_ms": 91994,
+      "name": "PIT STOP",
+      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
       },
       "artists": [
         {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+          "name": "James Bambu",
+          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
         },
         {
-          "name": "DeShawn Jenkins",
-          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 91994,
-      "name": "PIT STOP",
-      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
+      "duration_ms": 227750,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 207947,
       "name": "Neutral",
       "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 213275,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 171460,
       "name": "Processing...",
       "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 213275,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Fail Are We Still Cool?",
         "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 229558,
       "name": "Whisper (Want My Luv)",
       "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/4Bb1O5nyX7ptE8njKrWlIh"
+      },
+      "artists": [
+        {
+          "name": "MULVEY",
+          "url": "https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117214,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/09b532UaAutt57NJSFoUsa"
+    },
+    {
+      "album": {
         "name": "AV // TH",
         "url": "https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 186437,
       "name": "Autumn's Smile",
       "url": "https://open.spotify.com/track/7mC385guPq4FyofTi02pSk"
+    },
+    {
+      "album": {
+        "name": "Been here 08 - Fog in Kenjosan",
+        "url": "https://open.spotify.com/album/5Tdy8VEFOV11K0q8ky3p2f"
+      },
+      "artists": [
+        {
+          "name": "Yukihiko Yotsukura",
+          "url": "https://open.spotify.com/artist/6V5Bkn07G676EXpYMlohnT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Been here 08 - Fog in Kenjosan",
+      "url": "https://open.spotify.com/track/773XwkEzcxRjM27cRqY0M3"
     },
     {
       "album": {
@@ -453,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Endless Flow",
+        "url": "https://open.spotify.com/album/7uOS9ywLx44tiSIBGnMnf6"
+      },
+      "artists": [
+        {
+          "name": "Moonshoot",
+          "url": "https://open.spotify.com/artist/6FDDnM4ghJPg32y9BKo1WO"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190614,
+      "name": "Endless Flow",
+      "url": "https://open.spotify.com/track/1RKEGV1AWHHz1Fou8sCUzc"
+    },
+    {
+      "album": {
         "name": "Everbound",
         "url": "https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws"
       },
@@ -486,6 +540,24 @@
       "duration_ms": 169342,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0NAVH9QhTO4BomMgKWQ11P"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117750,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/20o3E39PFhtjGXF0qiVWqg"
     },
     {
       "album": {
@@ -641,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/6aNzFAY70b9OYeAGbUTWHS"
+      },
+      "artists": [
+        {
+          "name": "Within the Light",
+          "url": "https://open.spotify.com/artist/0tqHvxwhDmCbsDJQKM1pWe"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186033,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/1Hc3Ytiz17w09AFp6a8yX1"
+    },
+    {
+      "album": {
         "name": "Heart of nature",
         "url": "https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw"
       },
@@ -768,6 +858,42 @@
       "duration_ms": 180000,
       "name": "meloh",
       "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"
+    },
+    {
+      "album": {
+        "name": "Moon Over Mississippi",
+        "url": "https://open.spotify.com/album/7n5OTqdY8XuTzbD2bitda7"
+      },
+      "artists": [
+        {
+          "name": "Aurora Sands",
+          "url": "https://open.spotify.com/artist/6AvK5UmBbXduDf0O6gAIEG"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154217,
+      "name": "Moon Over Mississippi",
+      "url": "https://open.spotify.com/track/5Ms4nnE0ujZE5NjoARj4Kk"
+    },
+    {
+      "album": {
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168889,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG"
     },
     {
       "album": {
@@ -955,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Vondelpark Soundwalk",
+        "url": "https://open.spotify.com/album/0KIsltawP0YIRZZ7Hg9Xfe"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111515,
+      "name": "Part 5, Pink Horizon",
+      "url": "https://open.spotify.com/track/4yDpiDnv4R5A4qD1pS4ael"
+    },
+    {
+      "album": {
         "name": "Part 5, Swainson\u2019s Thrush Meditation",
         "url": "https://open.spotify.com/album/6s17uvWbJsM9vLrPMVqnw2"
       },
@@ -970,6 +1114,24 @@
       "duration_ms": 242486,
       "name": "Part 5, Swainson\u2019s Thrush Meditation",
       "url": "https://open.spotify.com/track/69OWR3QesSEgtXqo4KVudP"
+    },
+    {
+      "album": {
+        "name": "Wildwood Trail Soundwalk",
+        "url": "https://open.spotify.com/album/0z1DOAE6HepCazKszLSXoy"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "Part 6, Dappled Light",
+      "url": "https://open.spotify.com/track/4vLNnEVz4vciRZEVccnNip"
     },
     {
       "album": {
@@ -1135,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Skies in Reverse",
+        "url": "https://open.spotify.com/album/2M64zIiSbNX14IqgUbRKpi"
+      },
+      "artists": [
+        {
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Skies in Reverse",
+      "url": "https://open.spotify.com/track/7avSqk7MFk3KPtxSgJ1dex"
+    },
+    {
+      "album": {
         "name": "Soft and Secluded",
         "url": "https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ"
       },
@@ -1297,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1rMk1j4mTdARfzog28HByH"
+      },
+      "artists": [
+        {
+          "name": "MULVEY",
+          "url": "https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115714,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/27bD1hoK7rBHuUSxdDffCK"
+    },
+    {
+      "album": {
         "name": "What We Lost",
         "url": "https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK"
       },
@@ -1427,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "Tidal Memory",
+        "url": "https://open.spotify.com/album/6xJ5YPk4PcMSbsGhAk7X6S"
+      },
+      "artists": [
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        },
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Tidal Memory",
+      "url": "https://open.spotify.com/track/56aE0uJxlK9wRxPwuRTy1V"
+    },
+    {
+      "album": {
         "name": "Treetop Dreamers",
         "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
       },
@@ -1521,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Verndari sk\u00f3garins",
+        "url": "https://open.spotify.com/album/3mTHB8qrPkUrRQRQslm4YR"
+      },
+      "artists": [
+        {
+          "name": "Saga S\u00edgur\u00f0sdott\u00edr",
+          "url": "https://open.spotify.com/artist/7ttWxvgt6ofuiDuSgyqYMt"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Verndari sk\u00f3garins",
+      "url": "https://open.spotify.com/track/2AuZR84MiOoagBarGTZ1Tw"
+    },
+    {
+      "album": {
         "name": "Wandering Through Sunlit Paths",
         "url": "https://open.spotify.com/album/4x1laYk5oFc3JxxjRF3c5w"
       },
@@ -1584,6 +1822,24 @@
       "duration_ms": 168000,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ"
+    },
+    {
+      "album": {
+        "name": "What You Give Me",
+        "url": "https://open.spotify.com/album/1y5Bu8bJnTORPce5W8Xuip"
+      },
+      "artists": [
+        {
+          "name": "Vantalis",
+          "url": "https://open.spotify.com/artist/2gHum2biYAe1RQbhblGuIl"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171249,
+      "name": "What You Give Me",
+      "url": "https://open.spotify.com/track/1AwrvF6WWZlfEtAiXSE2Ml"
     },
     {
       "album": {

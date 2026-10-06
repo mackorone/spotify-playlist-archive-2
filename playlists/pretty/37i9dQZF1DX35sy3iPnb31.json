@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2772,
+  "num_followers": 2775,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Wild Wild Woman",
-        "url": "https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1"
-      },
-      "artists": [
-        {
-          "name": "Jessica Sevier",
-          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
-        }
-      ],
-      "duration_ms": 172446,
-      "name": "Wild Wild Woman",
-      "url": "https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "REAL PROBLEMS",
         "url": "https://open.spotify.com/album/18AdfVQewytxSSuNQ3HmSa"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 152250,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/2K5Hbzw7Kwcsy4jQePskYZ"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 194444,
-      "name": "Versailles",
-      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Wilson Silverstar 402 Blues",
         "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 162911,
       "name": "MIA",
       "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 194444,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "how about you",
-        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 168484,
-      "name": "how about you",
-      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Come To Me",
         "url": "https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 193813,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Girls Like Us",
-        "url": "https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3"
-      },
-      "artists": [
-        {
-          "name": "NOBRO",
-          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
-        }
-      ],
-      "duration_ms": 186219,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Touch Down",
         "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3"
       },
       "artists": [
         {
-          "name": "RUSSELL!",
-          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
         }
       ],
-      "duration_ms": 172268,
-      "name": "ON THE ROCKS",
-      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
+      "duration_ms": 186219,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -679,6 +663,22 @@
       "duration_ms": 148124,
       "name": "Bite the bullet",
       "url": "https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "ON THE ROCKS",
+      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "(+44)",
         "url": "https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210810,
       "name": "(+44)",
       "url": "https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "pls don't",
-        "url": "https://open.spotify.com/album/2RxB85rejhTC7UpWigwYFI"
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
       },
       "artists": [
         {
-          "name": "Ami Cheon",
-          "url": "https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb"
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
         }
       ],
-      "duration_ms": 150278,
-      "name": "pls don't",
-      "url": "https://open.spotify.com/track/72rUI6IZFVra9w66d4txyI"
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of September",

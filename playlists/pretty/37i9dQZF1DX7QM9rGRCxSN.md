@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,414 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,423 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 22 | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi) | 2:38 |
 | 23 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 24 | [micheladas](https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [micheladas](https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B) | 2:16 |
-| 25 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
-| 26 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
+| 25 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
+| 26 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
 | 27 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
 | 28 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 29 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 30 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
-| 31 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
-| 32 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
+| 31 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
+| 32 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
 | 33 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 34 | [Efecto Placebo](https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Efecto Placebo](https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J) | 2:16 |
 | 35 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |

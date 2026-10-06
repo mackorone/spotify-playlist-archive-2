@@ -3465,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Polonaise door de Nacht",
+        "url": "https://open.spotify.com/album/0py4k2MomiJ986Ybz1yO0G"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194590,
+      "name": "Polonaise door de Nacht",
+      "url": "https://open.spotify.com/track/72BEra9RPq2623q74LSlAH"
+    },
+    {
+      "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
       },

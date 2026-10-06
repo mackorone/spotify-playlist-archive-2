@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 94014,
+  "num_followers": 94015,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAABzizImuNczOXKtPJFp8soX",
+  "snapshot_id": "asGXAAAAAABu93gqCzU7X6cb81xBuECb",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 174226,
-      "name": "Leaving Jesusland",
-      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
+      "duration_ms": 111960,
+      "name": "The Quitter",
+      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 111960,
-      "name": "The Quitter",
-      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
     },
     {
       "added_at": null,

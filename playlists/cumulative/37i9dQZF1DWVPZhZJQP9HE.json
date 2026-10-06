@@ -18139,6 +18139,32 @@
     },
     {
       "album": {
+        "name": "Yenge Povadhu",
+        "url": "https://open.spotify.com/album/72P7ThDTqAxD6ijkPVq1Sw"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Gangai Amaran",
+          "url": "https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257659,
+      "name": "Yenge Povadhu",
+      "url": "https://open.spotify.com/track/4RNEGz8jiPA7i2VB42ul74"
+    },
+    {
+      "album": {
         "name": "yeno",
         "url": "https://open.spotify.com/album/4dzJYuPlq9ghNQ49trpLFc"
       },

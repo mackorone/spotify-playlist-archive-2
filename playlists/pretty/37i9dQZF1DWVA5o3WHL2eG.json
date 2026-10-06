@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: badm\u00f3mzjay",
-  "num_followers": 51231,
+  "num_followers": 51225,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "blair waldorf #mag mich",
-        "url": "https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM"
-      },
-      "artists": [
-        {
-          "name": "Charlize",
-          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
-        }
-      ],
-      "duration_ms": 142255,
-      "name": "blair waldorf #mag mich",
-      "url": "https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Little Silver",
         "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 206315,
       "name": "Little Silver",
       "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "blair waldorf #mag mich",
+        "url": "https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM"
+      },
+      "artists": [
+        {
+          "name": "Charlize",
+          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
+        }
+      ],
+      "duration_ms": 142255,
+      "name": "blair waldorf #mag mich",
+      "url": "https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "du bist so sch\u00f6n",
-        "url": "https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf"
-      },
-      "artists": [
-        {
-          "name": "selene",
-          "url": "https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9"
-        }
-      ],
-      "duration_ms": 143289,
-      "name": "du bist so sch\u00f6n",
-      "url": "https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "R.I.P",
         "url": "https://open.spotify.com/album/2Tzv3cwPhh9m65vaTg6IAE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 185624,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/1crlF8U4zh5swy1zdq1HFm"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "du bist so sch\u00f6n",
+        "url": "https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf"
+      },
+      "artists": [
+        {
+          "name": "selene",
+          "url": "https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9"
+        }
+      ],
+      "duration_ms": 143289,
+      "name": "du bist so sch\u00f6n",
+      "url": "https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66"
     },
     {
       "added_at": "2026-09-01 22:00:08",

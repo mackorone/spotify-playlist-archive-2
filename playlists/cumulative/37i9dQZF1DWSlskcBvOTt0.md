@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,202 songs - 4 day 0 hr 51 min
+1,203 songs - 4 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [3 Sense](https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [3 Sense](https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ) | 2:43 | 2023-10-13 | 2024-05-11 |
 | [330x14](https://open.spotify.com/track/78qfZj2HSRWc0NMeg4PDAu) | [Amber Stomp](https://open.spotify.com/artist/5UXTcKe1xNl00TwtbFDn7z) | [330x14 EP](https://open.spotify.com/album/24wON0xCTJaEUWnblqyUuw) | 3:17 | 2026-06-08 | 2026-06-14 |
 | [4ME](https://open.spotify.com/track/3nhnlHjoxX5gIkmWbqtnVc) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [4ME](https://open.spotify.com/album/2HzzCotu4tcdeUh0Jqls36) | 3:56 | 2026-03-13 | 2026-07-19 |
-| [90s](https://open.spotify.com/track/1CwrN5BNPIySxCi5U7CIm4) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [90s](https://open.spotify.com/album/5tKWPasCrfGbUCOB2bvx8D) | 3:38 | 2026-09-11 |  |
+| [8pm](https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [8pm](https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a) | 5:54 | 2026-10-02 |  |
+| [90s](https://open.spotify.com/track/1CwrN5BNPIySxCi5U7CIm4) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [90s](https://open.spotify.com/album/5tKWPasCrfGbUCOB2bvx8D) | 3:38 | 2026-09-11 | 2026-10-06 |
 | [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/track/50xyYrPZV6rs5pmAIozDMt) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx), [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/album/1bWqcGWKy1C7yQ5XFbZ4OP) | 3:30 | 2026-02-06 | 2026-08-18 |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |

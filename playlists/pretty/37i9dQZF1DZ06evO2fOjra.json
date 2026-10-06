@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 580072,
+  "num_followers": 580133,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAACoP4+sC+74T9+Nic47818p",
+  "snapshot_id": "asGXAAAAAADcH7YrRjgS9QVwNG3OgohH",
   "tracks": [
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Everything I've Known",
-      "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (Deluxe)",
-        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 215993,
-      "name": "Prey for Me",
-      "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
+      "duration_ms": 214666,
+      "name": "Everything I've Known",
+      "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
     },
     {
       "added_at": null,

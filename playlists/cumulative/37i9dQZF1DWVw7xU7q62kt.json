@@ -3231,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2imyMhjOJB948jlYKz1ds4"
+      },
+      "artists": [
+        {
+          "name": "Mecca:83",
+          "url": "https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY"
+        },
+        {
+          "name": "Moose Dawa",
+          "url": "https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2l7mYaz0uwMKoID2eoPj0y"
+    },
+    {
+      "album": {
         "name": "Day After",
         "url": "https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68"
       },
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 124235,
       "name": "Front Yard",
       "url": "https://open.spotify.com/track/3eVqxQwPXt0W2lV64JAx1u"
@@ -16939,6 +16961,28 @@
     },
     {
       "album": {
+        "name": "Tictoc",
+        "url": "https://open.spotify.com/album/1gUNOenpiOJ10BhSsIxCWk"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116428,
+      "name": "Tictoc",
+      "url": "https://open.spotify.com/track/0oLCK9ISDGBRZmUcSOm2KM"
+    },
+    {
+      "album": {
         "name": "Tightrope Walker",
         "url": "https://open.spotify.com/album/07EXafwIFuzr0OXJDYRbbg"
       },
@@ -17454,6 +17498,32 @@
       "duration_ms": 105000,
       "name": "Umami",
       "url": "https://open.spotify.com/track/1CoW6lB9ZQULmdJJXDm2Ac"
+    },
+    {
+      "album": {
+        "name": "Undergo",
+        "url": "https://open.spotify.com/album/0LugI5Zj6govJgI0c8gmBu"
+      },
+      "artists": [
+        {
+          "name": "Idepen",
+          "url": "https://open.spotify.com/artist/52kTvSXed7Y3NB4X6MyXGf"
+        },
+        {
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123108,
+      "name": "Undergo",
+      "url": "https://open.spotify.com/track/3wVzs6c1CH2K4iiN3azB4i"
     },
     {
       "album": {
@@ -18678,7 +18748,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 108658,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0g3sIxIFO3mVafn4C1Efy0"

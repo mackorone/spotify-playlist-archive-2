@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "SWAGGOT!",
+        "url": "https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126019,
+      "name": "BRAND NEW BITCH!",
+      "url": "https://open.spotify.com/track/7vYucY1kx3iwWqViZl1GGB"
+    },
+    {
+      "album": {
         "name": "BRB!",
         "url": "https://open.spotify.com/album/0MA5nkZTEFn9tT4adIjfyX"
       },

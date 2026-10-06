@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 41566,
+  "num_followers": 41580,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAABS9xSLvXxPUpnssQ7LENCu",
+  "snapshot_id": "asGXAAAAAACJJKbI8leJpyhLUGc3Se1e",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Aniversario de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
       },
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -212,9 +196,25 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150706,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Toro Pinto",
-        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 149902,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "El Toro Pinto",
+        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+      "duration_ms": 211306,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 195361,
+      "name": "El Caderazo",
+      "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo Gira",
         "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 182920,
       "name": "Hambriento Como Lobo",
       "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 148188,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 195361,
-      "name": "El Caderazo",
-      "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
+      "duration_ms": 148188,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
     },
     {
       "added_at": null,

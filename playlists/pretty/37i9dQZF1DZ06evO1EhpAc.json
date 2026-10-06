@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9754,
+  "num_followers": 9752,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAACC7a3sU8qUoWnEEcig6+13",
+  "snapshot_id": "asGXAAAAAADwYU+bUFj3I0045a3fbDow",
   "tracks": [
     {
       "added_at": null,
@@ -67,18 +67,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+        "name": "booboo2",
+        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+      "duration_ms": 219666,
+      "name": "booboo2",
+      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
     },
     {
       "added_at": null,
@@ -123,26 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo2",
-        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
         }
       ],
-      "duration_ms": 219666,
-      "name": "booboo2",
-      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
     },
     {
       "added_at": null,

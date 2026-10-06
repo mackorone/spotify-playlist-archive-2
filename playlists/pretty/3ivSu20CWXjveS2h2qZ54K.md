@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,930 likes - 71 songs - 4 hr 3 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,931 likes - 71 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 61 | [windowsill](https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [windowsill](https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b) | 3:27 |
 | 62 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 |
 | 63 | [NoPasaNa](https://open.spotify.com/track/3TCSQpcMm0GommwexA6CEK) | [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [SALMA](https://open.spotify.com/artist/39l4aspsVEkHvlLr7R4NLm), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [NoPasaNa](https://open.spotify.com/album/6aeHBDHGqiBmZCfxGhB698) | 3:15 |
-| 64 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 64 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 65 | [All I’ll Ever Need](https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 2:15 |
 | 66 | [Te Esperaré](https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Volviendo a Nacer](https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1) | 4:08 |
 | 67 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |

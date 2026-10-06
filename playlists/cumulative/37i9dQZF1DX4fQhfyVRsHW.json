@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Wider Horizon",
+        "url": "https://open.spotify.com/album/41VoYbYsX2YRck5A10GoRy"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "A Wider Horizon",
+      "url": "https://open.spotify.com/track/5MCE6HfkFhzjZworWUFYKF"
+    },
+    {
+      "album": {
         "name": "Above The Trees",
         "url": "https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 220125,
       "name": "Adwarmance - The Wetlands",
       "url": "https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3rOPjmaCgOAR7rrhuCY0DS"
+      },
+      "artists": [
+        {
+          "name": "Softfield",
+          "url": "https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159409,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7hcLhI4vrSTq5PhYcJ48I6"
     },
     {
       "album": {
@@ -293,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Back to Land",
+        "url": "https://open.spotify.com/album/1sPRmV3vy37UBOFvgw8dRN"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Back to Land",
+      "url": "https://open.spotify.com/track/1gTUonpMXkqilyIH6Ur0iX"
+    },
+    {
+      "album": {
         "name": "Backwood Recline",
         "url": "https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4"
       },
@@ -466,7 +520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 134369,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h"
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 176000,
       "name": "Dreamy Elixir (alongside Forest Birds)",
       "url": "https://open.spotify.com/track/0EuxLdWhNLvdpEis08mHJI"
@@ -1262,6 +1316,24 @@
       "duration_ms": 186268,
       "name": "Embrace the Light",
       "url": "https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1"
+    },
+    {
+      "album": {
+        "name": "Emphasis",
+        "url": "https://open.spotify.com/album/1myOXloI4LOAhc6HpYRpJD"
+      },
+      "artists": [
+        {
+          "name": "Abstract Time",
+          "url": "https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153143,
+      "name": "Emphasis",
+      "url": "https://open.spotify.com/track/3rhDn3vwX7GhRyULCL5Ibe"
     },
     {
       "album": {
@@ -1715,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Forest Equlibrium",
+        "url": "https://open.spotify.com/album/6xnjinIDYhgbQ71aO8SGKH"
+      },
+      "artists": [
+        {
+          "name": "Uplandia",
+          "url": "https://open.spotify.com/artist/5jv8Wxoxqa6W8qN7WoKtZL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164938,
+      "name": "Forest Equlibrium",
+      "url": "https://open.spotify.com/track/3yldiTn8gOWFfMQM1Tc0w2"
+    },
+    {
+      "album": {
         "name": "Forest Glimmer",
         "url": "https://open.spotify.com/album/0NcPQJUU17LdfVXXjm8Ywi"
       },
@@ -2075,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Greenwood",
+        "url": "https://open.spotify.com/album/72WtZy642zUAjP0l95KsiB"
+      },
+      "artists": [
+        {
+          "name": "Hazen Briller",
+          "url": "https://open.spotify.com/artist/33sxIMORaQgwJQZiF9UrY2"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Greenwood",
+      "url": "https://open.spotify.com/track/1O5uzV1baYBoOsZq1u0akH"
+    },
+    {
+      "album": {
         "name": "Grow, My Dear",
         "url": "https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs"
       },
@@ -2176,7 +2284,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 160450,
       "name": "Healing gaze",
       "url": "https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9"
@@ -2374,7 +2482,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 183966,
       "name": "Island of Gods",
       "url": "https://open.spotify.com/track/5y8I7klZFSvtjWA71ZawZG"
@@ -2849,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Mossy Meadows",
+        "url": "https://open.spotify.com/album/5dlWzDj8vprZUZqPx1DViC"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "Mossy Meadows",
+      "url": "https://open.spotify.com/track/5pPyJoc2BNXEgzZ8FDiGkC"
+    },
+    {
+      "album": {
         "name": "Moulding",
         "url": "https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw"
       },
@@ -3101,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Oblong",
+        "url": "https://open.spotify.com/album/2uMTVTiDx8g2bjuEdjHlcM"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157431,
+      "name": "Oblong",
+      "url": "https://open.spotify.com/track/0rV7zSUXwMhEAgO3nDyGs3"
+    },
+    {
+      "album": {
         "name": "Ocean Unwind",
         "url": "https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq"
       },
@@ -3263,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Patagonia",
+        "url": "https://open.spotify.com/album/6jLVKuvK1j8BwXFahWnjQR"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Patagonia",
+      "url": "https://open.spotify.com/track/6sE6j0OVmzcCJcZwpw8q0S"
+    },
+    {
+      "album": {
         "name": "Peaceful Nature",
         "url": "https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg"
       },
@@ -3418,7 +3580,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 180000,
       "name": "Placid Drift",
       "url": "https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY"
@@ -3623,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Rejuvinated Mind",
+        "url": "https://open.spotify.com/album/3bBXYzvB4NyzhN8hRU1Sz2"
+      },
+      "artists": [
+        {
+          "name": "Ethereva",
+          "url": "https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Rejuvinated Mind",
+      "url": "https://open.spotify.com/track/3WBWS00Bwb3XIw99qkPczs"
+    },
+    {
+      "album": {
         "name": "Relajaci\u00f3n espiritual (Sound Bath)",
         "url": "https://open.spotify.com/album/5DE6bYPWsWnnSYfDRTXIf6"
       },
@@ -3713,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "River Essence",
+        "url": "https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK"
+      },
+      "artists": [
+        {
+          "name": "John Ocean",
+          "url": "https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150747,
+      "name": "River Essence",
+      "url": "https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA"
+    },
+    {
+      "album": {
         "name": "River Lea",
         "url": "https://open.spotify.com/album/1KBUxCk8jmiHAWSMGyEYxj"
       },
@@ -3728,6 +3926,24 @@
       "duration_ms": 149569,
       "name": "River Lea",
       "url": "https://open.spotify.com/track/38BJ9avnbwbACSAxRKdnhK"
+    },
+    {
+      "album": {
+        "name": "River Mist",
+        "url": "https://open.spotify.com/album/7xoyZiLqDgsYOYu9tW2iPD"
+      },
+      "artists": [
+        {
+          "name": "Somnifera",
+          "url": "https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158336,
+      "name": "River Mist",
+      "url": "https://open.spotify.com/track/0hK0nt5nprWFYsa6GSHGoa"
     },
     {
       "album": {
@@ -4487,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "the creek at 5am",
+        "url": "https://open.spotify.com/album/1dhNdPRPiPqBvCpgkyO9G3"
+      },
+      "artists": [
+        {
+          "name": "sloer",
+          "url": "https://open.spotify.com/artist/2pDfZekvEL4mWRmeUHoYa6"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "the creek at 5am",
+      "url": "https://open.spotify.com/track/1lrGLo1JQCKDOwkMgCL7Al"
+    },
+    {
+      "album": {
         "name": "The Forest Is My Friend",
         "url": "https://open.spotify.com/album/7hr89r9X0e1OrHmrscxxgl"
       },
@@ -4653,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Topaz Nature",
+        "url": "https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be"
+      },
+      "artists": [
+        {
+          "name": "Sheila Dawn",
+          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Topaz Nature",
+      "url": "https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK"
+    },
+    {
+      "album": {
         "name": "Tranquil Echoes",
         "url": "https://open.spotify.com/album/2zkZmy0vv1P1SJCLpHmfBj"
       },
@@ -4668,6 +4920,24 @@
       "duration_ms": 168750,
       "name": "Tranquil Echoes",
       "url": "https://open.spotify.com/track/4QnatFvgTdjkUK0izkmONm"
+    },
+    {
+      "album": {
+        "name": "Tranquil Mind",
+        "url": "https://open.spotify.com/album/3NJPrsejVnPTjUn13MkgM4"
+      },
+      "artists": [
+        {
+          "name": "Eves Haven",
+          "url": "https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tranquil Mind",
+      "url": "https://open.spotify.com/track/5aGajOQCwMN6ua6qimbh9J"
     },
     {
       "album": {
@@ -4833,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/2BgjjXxCLrrYL2fyIKwWI8"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/3IytWes895hY5ayovwWob1"
+    },
+    {
+      "album": {
         "name": "Unreality",
         "url": "https://open.spotify.com/album/3usJazRFOlLM3YbA6VL2Tf"
       },
@@ -4974,6 +5262,42 @@
       "duration_ms": 200500,
       "name": "When You Wake",
       "url": "https://open.spotify.com/track/3M3PlHLEh03hmKqHdUkEu0"
+    },
+    {
+      "album": {
+        "name": "Where Light Meets Water",
+        "url": "https://open.spotify.com/album/58S1519KX0UBH1UzTdIaZ7"
+      },
+      "artists": [
+        {
+          "name": "throughfield",
+          "url": "https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134675,
+      "name": "Where Light Meets Water",
+      "url": "https://open.spotify.com/track/4i3hBFhq03sUgM2i2U5nRC"
+    },
+    {
+      "album": {
+        "name": "Where the Hobbit Sleeps",
+        "url": "https://open.spotify.com/album/4mDg1CfTdPIcyaSOwaEzj8"
+      },
+      "artists": [
+        {
+          "name": "Amarillys",
+          "url": "https://open.spotify.com/artist/5QwKHQSVtFzfwAjRK2SYIu"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Where the Hobbit Sleeps",
+      "url": "https://open.spotify.com/track/2OK8bogoe3ImqI8WVgm2rt"
     },
     {
       "album": {

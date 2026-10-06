@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Bligg, Monet192, Provinz, Quavo, Future, Holly Humberstone & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,751 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,748 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 7 | [Way Too Late](https://open.spotify.com/track/6x6qpL0Qxi68Z0POHaIToF) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Way Too Late](https://open.spotify.com/album/4MGP41iZLRFvEf0uNqnLQx) | 3:05 |
 | 8 | [BA \(feat\. Future\)](https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 2:29 |
 | 9 | [Cool](https://open.spotify.com/track/2QxUK5UwFJq5SCBMuhWxcb) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Cool](https://open.spotify.com/album/63TlkB72XCwOElLyu0ve5a) | 2:59 |
-| 10 | [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
+| 10 | [This Dream Of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream Of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 |
 | 11 | [Pas Comme Eux](https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas Comme Eux](https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw) | 2:32 |
 | 12 | [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:06 |
 | 13 | [ANGEL SHOT](https://open.spotify.com/track/4JQ8NDDmgNGBtPQZAVZ0lk) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [ANGEL SHOT](https://open.spotify.com/album/7AkrS4psFYznzlbbh1bBsP) | 2:33 |

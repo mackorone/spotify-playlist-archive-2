@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "My Way (Markus Pitzer)",
+        "url": "https://open.spotify.com/album/2hkBwxQmtGd2tsDRJGO9XW"
+      },
+      "artists": [
+        {
+          "name": "Dreamweaver",
+          "url": "https://open.spotify.com/artist/3KiwMzVL0Z5iyHIUBJB0tp"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299016,
+      "name": "Mountain Meditation",
+      "url": "https://open.spotify.com/track/6Gj1LPrs1G23Hn5WkBJ9JG"
+    },
+    {
+      "album": {
         "name": "My Heroin",
         "url": "https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5"
       },
@@ -2896,6 +2914,24 @@
       "duration_ms": 119699,
       "name": "The Voiceless",
       "url": "https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF"
+    },
+    {
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/209R5C78jtU7cYoPkzjpK1"
+      },
+      "artists": [
+        {
+          "name": "The Dreamers Roots",
+          "url": "https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267304,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/3Qs4DzYZfRYCsvVYySC68q"
     },
     {
       "album": {

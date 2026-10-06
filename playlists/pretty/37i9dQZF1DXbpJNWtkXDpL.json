@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm y Zenei",
-  "num_followers": 93978,
+  "num_followers": 93981,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -143,54 +143,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "bbylover",
-        "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        },
-        {
-          "name": "Josa El Menor",
-          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        },
-        {
-          "name": "Ikoniko",
-          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
-        }
-      ],
-      "duration_ms": 166281,
-      "name": "bbylover",
-      "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 141829,
-      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -215,6 +167,54 @@
       "duration_ms": 124878,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "bbylover",
+        "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        }
+      ],
+      "duration_ms": 166281,
+      "name": "bbylover",
+      "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "3some",
         "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 162461,
       "name": "3some",
       "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "le hablo a la luna de ti",
+      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "DRAMATIKA!",
         "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "le hablo a la luna de ti",
-      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "GU\u00c1RDAME.",
-        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "GU\u00c1RDAME.",
-      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "URUS",
-        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Kevin Santin",
-          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "URUS",
-      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "URUS",
+        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "URUS",
+      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "me da miedo ser feliz (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3KKYPUn7j8M4IZqbdqhtXj"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "aqu\u00ed cabemos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EMyKWsKkEu1eGekPgK3kP"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
         "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 213753,
       "name": "CADENAS",
       "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "me da miedo ser feliz (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3KKYPUn7j8M4IZqbdqhtXj"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "aqu\u00ed cabemos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EMyKWsKkEu1eGekPgK3kP"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "LO QUE QUIERAS DARME",
-        "url": "https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4"
-      },
-      "artists": [
-        {
-          "name": "Billy Manhattan",
-          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
-        }
-      ],
-      "duration_ms": 155612,
-      "name": "LO QUE QUIERAS DARME",
-      "url": "https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "La Culpable",
         "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "LO QUE QUIERAS DARME",
+        "url": "https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "duration_ms": 155612,
+      "name": "LO QUE QUIERAS DARME",
+      "url": "https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

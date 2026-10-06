@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17106,
+  "num_followers": 17105,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "My Liberation Notes OST Part 9",
+        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
+      },
+      "artists": [
+        {
+          "name": "Kwak jineon",
+          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
+        }
+      ],
+      "duration_ms": 236097,
+      "name": "A Kind Of Confession - Male Version",
+      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "My Liberation Notes OST Part 9",
-        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
-      },
-      "artists": [
-        {
-          "name": "Kwak jineon",
-          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
-        }
-      ],
-      "duration_ms": 236097,
-      "name": "A Kind Of Confession - Male Version",
-      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "From the Rain (Feat. Ahn Ye Eun)",
-      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
         "name": "long to be the garden",
         "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "From the Rain (Feat. Ahn Ye Eun)",
+      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
     },
     {
       "added_at": "2026-07-03 07:30:31",

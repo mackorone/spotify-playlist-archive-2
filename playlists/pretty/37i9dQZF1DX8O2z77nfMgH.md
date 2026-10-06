@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,370 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,367 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [EN 29](https://open.spotify.com/track/0E13RXR5k5YHod970RfERY) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [EN 29](https://open.spotify.com/album/7Dfosm5UEAVs1nZXUbe8p5) | 2:40 |
 | 33 | [versAAce](https://open.spotify.com/track/0sdwGJRJgAmNJK3fKUbod2) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [versAAce](https://open.spotify.com/album/113KAUl3wYEgkNSaGAHBn5) | 2:40 |
 | 34 | [Ángel](https://open.spotify.com/track/2myzKCD2hwf7VcNrl9jmya) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV), [Floret Fauna](https://open.spotify.com/artist/0IQgwEHoge7gQP8GsWaZgz) | [Ángel](https://open.spotify.com/album/07tTVJnfiRlRcVPBv5uleL) | 2:46 |
-| 35 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:17 |
+| 35 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
 | 36 | [Resiliencia](https://open.spotify.com/track/09tLTwAJHQ8N5YzWayDU5F) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [DJ Kanzer](https://open.spotify.com/artist/5crIAxCUXff1hB5jsmUVCK) | [The 40S](https://open.spotify.com/album/1nNZySNT4rDkXzMdyQIZCk) | 3:43 |
 | 37 | [NO SOY IGUAL](https://open.spotify.com/track/62mzX0BTW3raGfao9D2YMd) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Lexter](https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj) | [NO SOY IGUAL](https://open.spotify.com/album/5Ur0l4EEPrBLnNFcGHIzp4) | 2:49 |
 | 38 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |

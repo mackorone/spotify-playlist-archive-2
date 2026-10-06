@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 68328,
+  "num_followers": 68364,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asBFgAAAAADVGr10ybV+O6v46PJnMaYn",
+  "snapshot_id": "asGXAAAAAACb9eRGwoac4EjO1qp3GIXo",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 201452,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
+      "duration_ms": 207786,
+      "name": "Ser de Ti",
+      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Ser de Ti",
-      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
+      "duration_ms": 201452,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
     },
     {
       "added_at": null,

@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 68 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
 | 69 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
 | 70 | [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 |
-| 71 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
-| 72 | [Body Talk \(feat\. René Miller\)](https://open.spotify.com/track/21amPjSLFCeWCdQ2Z9TZf3) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk \(feat\. René Miller\)](https://open.spotify.com/album/7nr7j5r4nQH073YSD4q4vj) | 2:46 |
+| 71 | [Body Talk \(feat\. René Miller\)](https://open.spotify.com/track/21amPjSLFCeWCdQ2Z9TZf3) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk \(feat\. René Miller\)](https://open.spotify.com/album/7nr7j5r4nQH073YSD4q4vj) | 2:46 |
+| 72 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
 | 73 | [Alle guten Dinge](https://open.spotify.com/track/3SgP2O7hlKFmf44IJwlAUp) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 2:38 |
 | 74 | [Neu erzählen](https://open.spotify.com/track/3i3Bll98MHvH79r5SqzwbD) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Neu erzählen](https://open.spotify.com/album/0hQxTlc00nOIwjL52YXnQy) | 3:26 |
 | 75 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AceE2gAAAACi3NioA7CD2/eUWBZKyrl8`
+Snapshot ID: `AceKtgAAAABOyYtNqVExdTHKtVNaKBMT`

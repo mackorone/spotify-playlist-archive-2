@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,194 likes - 67 songs - 3 hr 47 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,211 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 65 | [All i ever wanted](https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S) | [Johnny Scott](https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH) | [Urban Legends](https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH) | 2:53 |
 | 66 | [Take It Back](https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Ellie Rizoa](https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q) | [Take It Back](https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB) | 1:45 |
 | 67 | [In an Hour of Truth](https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In an Hour of Truth](https://open.spotify.com/album/6pjoldpGadfEffunZF5XNe) | 4:11 |
+| 68 | [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 |
+| 69 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 |
 
-Snapshot ID: `AAAEZeG3hDSCbXmQVKFHc2wmLwqNnSzG`
+Snapshot ID: `AAAEZ0gfWEdAT9LzbkTYLX36yJKZ3QFn`

@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
+    },
+    {
+      "album": {
         "name": "Humble Pie Tattoo",
         "url": "https://open.spotify.com/album/5jSWI40dDQcw7Z0lQzIJ2z"
       },
@@ -15342,7 +15360,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 131061,
       "name": "put it on me",
       "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"

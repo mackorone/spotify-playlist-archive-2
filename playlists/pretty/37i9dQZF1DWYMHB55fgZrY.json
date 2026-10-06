@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Jonathan \"Honas\" Mel\u00e9ndez por siempre ",
-  "num_followers": 578984,
+  "num_followers": 579031,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Veinte Para Las Doce",
-        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "A\u00fan",
-      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
-    },
-    {
-      "added_at": "2026-09-04 06:00:54",
-      "album": {
         "name": "El Equilibrio De Los Jaguares",
         "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238360,
       "name": "Detr\u00e1s de los Cerros",
       "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
+    },
+    {
+      "added_at": "2026-09-04 06:00:54",
+      "album": {
+        "name": "Veinte Para Las Doce",
+        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
     },
     {
       "added_at": "2026-09-04 06:00:54",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Enciendelo",
-        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 296266,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/0WCJWPeQXE0TRguyX9b3nU"
-    },
-    {
-      "added_at": "2026-09-04 06:00:54",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De La Casta\u00f1eda",
         "url": "https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 218866,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
+    },
+    {
+      "added_at": "2026-09-04 06:00:54",
+      "album": {
+        "name": "Enciendelo",
+        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 296266,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/0WCJWPeQXE0TRguyX9b3nU"
     },
     {
       "added_at": "2026-09-04 06:00:54",

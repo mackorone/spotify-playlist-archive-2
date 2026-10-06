@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, After Cooking, Douran and more",
+  "description": "With After Cooking, Leblanc, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 233079,
       "name": "ARCHETYPE",
       "url": "https://open.spotify.com/track/0sYddq4nT7BAF4OHvlRUV1"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 248893,
       "name": "Beyond My Mind",
       "url": "https://open.spotify.com/track/0seMnOYkb3jSGaiAWoOAPs"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 348255,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2kvsTLR9x0o2mSNQaR5PjG"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 310942,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 236129,
       "name": "Elastic Sun",
       "url": "https://open.spotify.com/track/71DJZ67WEid3oLEPNT0S7m"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 253859,
       "name": "Et le vent ?",
       "url": "https://open.spotify.com/track/26v12OEtCCX4CWObkeNzay"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Imelda",
       "url": "https://open.spotify.com/track/70o1QpxVB9tXoROZW2llMa"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 241735,
       "name": "just some idea",
       "url": "https://open.spotify.com/track/0uWequ8jx6UAYtoVfPEnJZ"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 325791,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4KDXL0KG6GZviMFMhosthB"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 260105,
       "name": "Like Drugs",
       "url": "https://open.spotify.com/track/2LU9t30EzGaWN5JJG2YZaS"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 335250,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/4zgjUwITPoDoy7xZ2Keco1"
@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 142496,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
@@ -3968,7 +3968,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 251338,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 199500,
       "name": "Shark Island - Catching Flies Remix",
       "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
@@ -4850,7 +4850,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 219317,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1iCPxpiD6HT7es28nNKtjn"
@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 184320,
       "name": "Space",
       "url": "https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD"
@@ -4976,7 +4976,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 241967,
       "name": "S\u00f3lfar",
       "url": "https://open.spotify.com/track/4dRQ07gztmXJcXZvx73WBp"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 259523,
       "name": "Tacoma - Gone Remix",
       "url": "https://open.spotify.com/track/6MdquCVCI0a0Fqfr1Effkx"
@@ -5590,10 +5590,28 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
+    },
+    {
+      "album": {
+        "name": "Threshold",
+        "url": "https://open.spotify.com/album/7udJ2S8PI8rmbq904RX95Z"
+      },
+      "artists": [
+        {
+          "name": "Bjokib",
+          "url": "https://open.spotify.com/artist/01hFDeuZo0Yqz82op3ttdP"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347984,
+      "name": "Threshold",
+      "url": "https://open.spotify.com/track/7ik2IjTeP9uPrkAERaqjRX"
     },
     {
       "album": {
@@ -5713,6 +5731,28 @@
     },
     {
       "album": {
+        "name": "Treason",
+        "url": "https://open.spotify.com/album/05Fw0d6garVf0L4p5ru5gI"
+      },
+      "artists": [
+        {
+          "name": "Ben C",
+          "url": "https://open.spotify.com/artist/1bpxMNM2dURZ4dgzLnXq1C"
+        },
+        {
+          "name": "Kalsx",
+          "url": "https://open.spotify.com/artist/7h5cG23FY0CpsAfTLhEUoi"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261639,
+      "name": "Treason",
+      "url": "https://open.spotify.com/track/7MgTiHlhs3IGN9cHoAKHbJ"
+    },
+    {
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
@@ -5814,7 +5854,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -5926,7 +5966,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 249000,
       "name": "Wadi Dana",
       "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
@@ -6002,7 +6042,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 184373,
       "name": "Water Waves",
       "url": "https://open.spotify.com/track/6LDsKCfIoxcyUXthWn5iYW"
@@ -6128,7 +6168,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -6218,7 +6258,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"

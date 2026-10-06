@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 65 songs - 3 hr 43 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 71 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 63 | [good stuff](https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM) | [string lights](https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV) | [good stuff](https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0) | 1:10 |
 | 64 | [Anywhere But Here](https://open.spotify.com/track/4n6MX5GjbqiGRbFTm2vGjp) | [Tilde](https://open.spotify.com/artist/4Vm7RaGmSZfsTd21X0BKb1) | [Little Girl Blue](https://open.spotify.com/album/2GvIwgBTNZraojkluG97PF) | 4:58 |
 | 65 | [VHS GIRLS](https://open.spotify.com/track/0rIgbTzvt8vppbALJbqFfB) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [VHS GIRLS](https://open.spotify.com/album/6QdupEpycZ514J6t65vLAS) | 3:32 |
+| 66 | [And Just Like That](https://open.spotify.com/track/37AwKEwkI6TF8yL7EtVwPm) | [Decaf Jones](https://open.spotify.com/artist/2vEcpslAFprvdX4wv5rpVl) | [And Just Like That](https://open.spotify.com/album/5KRVX1O2lUJ2mzf6t4EXDU) | 2:49 |
+| 67 | [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 |
+| 68 | [Ever Ender Star Infinity](https://open.spotify.com/track/5Eghp4z1hOQOz6xNdHVvGU) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [Ever Ender Star Infinity](https://open.spotify.com/album/6Cjbs3NByagmkMVG0sOWh2) | 4:33 |
+| 69 | [Don't U Dare](https://open.spotify.com/track/1WtO1bHKvJ8kGh6kPaekiE) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Don't U Dare](https://open.spotify.com/album/1ehAcGDL9SKmjhODnte3Fo) | 3:28 |
+| 70 | [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 |
+| 71 | [Grand Parade](https://open.spotify.com/track/5LaZeUeAbWf7AdlqJube9u) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Grand Parade](https://open.spotify.com/album/3ojxXTX7wbPjfyk4v4pf3z) | 4:42 |
 
-Snapshot ID: `AAAQJet9dKXyAxz4B5PwQekt/JiDnCka`
+Snapshot ID: `AAAQKzy1eXBmG7UobZzGOhM7Lu3fUUib`

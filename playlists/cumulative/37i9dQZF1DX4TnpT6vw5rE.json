@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 196153,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ"
@@ -614,6 +614,28 @@
       "duration_ms": 142053,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf"
+    },
+    {
+      "album": {
+        "name": "Ankomst",
+        "url": "https://open.spotify.com/album/3SRnF9hyMqeN4NX2Ymx6Ls"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        },
+        {
+          "name": "Nico Rosenberg",
+          "url": "https://open.spotify.com/artist/4MezBnEnw5gvmQamhQfvXs"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Ankomst",
+      "url": "https://open.spotify.com/track/6mFz5W8sA3Kpp5BSWYh13k"
     },
     {
       "album": {
@@ -664,7 +686,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 160800,
       "name": "Antennae",
       "url": "https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT"
@@ -3265,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "grainy dreams",
+        "url": "https://open.spotify.com/album/0YWeIyTEFFb3fMwvJWbN47"
+      },
+      "artists": [
+        {
+          "name": "grainx",
+          "url": "https://open.spotify.com/artist/53NZ6wMMozM9AdQonk3zoB"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "grainy dreams",
+      "url": "https://open.spotify.com/track/7ao2leijbnO8Vo8V2drQ18"
+    },
+    {
+      "album": {
         "name": "Gratefulness",
         "url": "https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh"
       },
@@ -3568,6 +3608,28 @@
       "duration_ms": 183428,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/0QurRfrHz1RGbdPpTx7lLV"
+    },
+    {
+      "album": {
+        "name": "Imprint",
+        "url": "https://open.spotify.com/album/1omtpA4qtqvvuBVKciREwM"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Imprint",
+      "url": "https://open.spotify.com/track/5CSe1LFrCNOINuh3iAk7tw"
     },
     {
       "album": {
@@ -3888,7 +3950,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 169250,
       "name": "Katharsis",
       "url": "https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT"
@@ -4072,7 +4134,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 141370,
       "name": "Let go",
       "url": "https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2"
@@ -4382,6 +4444,24 @@
       "duration_ms": 210600,
       "name": "Mist",
       "url": "https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN"
+    },
+    {
+      "album": {
+        "name": "Morning on Mars",
+        "url": "https://open.spotify.com/album/1cpJ1xMGTytROAHws46w2z"
+      },
+      "artists": [
+        {
+          "name": "Moving Gradients",
+          "url": "https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198007,
+      "name": "Morning on Mars",
+      "url": "https://open.spotify.com/track/0ClV6xYhZelZahYEv93wOB"
     },
     {
       "album": {
@@ -5124,6 +5204,24 @@
       "duration_ms": 313440,
       "name": "Part 3",
       "url": "https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/21vIAABl8Nm4lrGnnuXZSB"
+      },
+      "artists": [
+        {
+          "name": "Van Dither",
+          "url": "https://open.spotify.com/artist/2BnOFmd294SrDZVsTTjdbc"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156300,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/2bErr0pVjRE7CDCCUCLEj0"
     },
     {
       "album": {
@@ -6118,7 +6216,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-06",
       "duration_ms": 210285,
       "name": "Snowdrop",
       "url": "https://open.spotify.com/track/25SsGD9QLsIV7KSoBdMmxL"
