@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: J Emz
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,785 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,779 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 69 | [My Heart](https://open.spotify.com/track/3KzqPheSwyNSvYtjtOtmP4) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [My Heart](https://open.spotify.com/album/6Zcy3dIE2qyVwqBVpSvy3U) | 4:27 |
 | 70 | [Leave Me Alone](https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Leave Me Alone](https://open.spotify.com/album/3TOp1uIbREUOqYUwuXq269) | 2:41 |
 
-Snapshot ID: `AAAAALh5jSF9eIf6z4QEjqPbJMvMWmNR`
+Snapshot ID: `AAAAACc280ZT7/r4/msNVNhoy1OTa12W`

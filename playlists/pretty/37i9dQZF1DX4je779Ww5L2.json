@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190155,
+  "num_followers": 190154,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANE3PsCaekO6l12ceoSNpyqdEZtz",
+  "snapshot_id": "AAAAAJirRrUw/MeKdiUDFFYnadFixeso",
   "tracks": [
     {
       "added_at": "2026-09-28 11:29:45",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
-      },
-      "artists": [
-        {
-          "name": "GOODWIN",
-          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Pelechian 2",
         "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 307706,
       "name": "Pelechian 2",
       "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
+      },
+      "artists": [
+        {
+          "name": "GOODWIN",
+          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Shadowplay",
-        "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 269549,
-      "name": "Shadowplay",
-      "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Anakin",
         "url": "https://open.spotify.com/album/1WXsBe871YYYzR1RmSlkrA"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Wallflower (Acoustic)",
-        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+        "name": "Shadowplay",
+        "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
       },
       "artists": [
         {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
         }
       ],
-      "duration_ms": 157248,
-      "name": "Wallflower - Acoustic",
-      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
+      "duration_ms": 269549,
+      "name": "Shadowplay",
+      "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -407,6 +391,22 @@
       "duration_ms": 204250,
       "name": "All That We Are",
       "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "Wallflower (Acoustic)",
+        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "Wallflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 238790,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Never Again",
         "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 238790,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 225595,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "AT LEAST SOMETHING IS PROTECTING YOU",
         "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 250306,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 225595,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Silver Linings (Unplugged)",
         "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 301417,
       "name": "More than a warning",
       "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "i will be dead",
-        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
-      },
-      "artists": [
-        {
-          "name": "sura sol",
-          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "dance & giggle",
-      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Queen-Size Life",
         "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 216690,
       "name": "Queen-Size Life",
       "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "i will be dead",
+        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
+      },
+      "artists": [
+        {
+          "name": "sura sol",
+          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "dance & giggle",
+      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
     },
     {
       "added_at": "2026-09-28 11:29:45",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-28 11:29:45",
       "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
-      "added_at": "2026-09-28 11:29:45",
-      "album": {
         "name": "Tardigrades",
         "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190631,
       "name": "Tardigrades",
       "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "added_at": "2026-09-28 11:29:45",
+      "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
       "added_at": "2026-09-28 11:29:45",

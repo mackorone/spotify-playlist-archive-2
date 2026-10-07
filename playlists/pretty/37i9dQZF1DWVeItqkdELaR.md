@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,996 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,991 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 48 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 |
 | 49 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
 | 50 | [Onde É Que Eu Tinha a Cabeça](https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Só Se Estraga uma Casa](https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh) | 2:50 |
-| 51 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
-| 52 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
+| 51 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
+| 52 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 53 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 54 | [N'Essa Rua](https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [N'Essa Rua](https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT) | 2:45 |
 | 55 | [Rosa](https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Rosa](https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx) | 2:59 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 58 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
 | 59 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 
-Snapshot ID: `AAAAANGaoEsphMs2O3sxZ6EXtWf21iOq`
+Snapshot ID: `AAAAANCDCdaNPI04gqxKJn3xZsbIzPT7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,897 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,904 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 11 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
 | 12 | [Lay With Me](https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Lay With Me](https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA) | 3:44 |
 | 13 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
-| 14 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
+| 14 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 15 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
-| 16 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 16 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
 | 17 | [Know](https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:34 |
 | 18 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
-| 19 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
+| 19 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 |
 | 20 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
-| 21 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 |
+| 21 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 22 | [Belong to You](https://open.spotify.com/track/0MDYvPEc9CFp2vkth6eoOQ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:06 |
 | 23 | [SMOKIN POTNA](https://open.spotify.com/track/30DOrW1HFyvuwBUFKwXg29) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:33 |
 | 24 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 49 | [Brown Sugar](https://open.spotify.com/track/7DAIOlnvT079AH0WxHnzoI) | [VESS](https://open.spotify.com/artist/1NodE08tjPrDZeym0r5pUd) | [Brown Sugar](https://open.spotify.com/album/3kf4jCqBeoFRxqjjcQTuwW) | 3:18 |
 | 50 | [Sycamore](https://open.spotify.com/track/2QTuF6gcvmI9HPRuGK9gvp) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Sycamore](https://open.spotify.com/album/5rVHZJGJhPjpszgnY7Pelf) | 4:10 |
 
-Snapshot ID: `AAAAAGGKPMvDIhxlD/ILBdININDq0ZlP`
+Snapshot ID: `AAAAAFj/F3+PhrXfIo6aMsb3Db2edotY`

@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Big Sean",
-  "num_followers": 387174,
+  "num_followers": 387209,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAETykomLWozZI0Mt+AU9tpugQcsB",
+  "snapshot_id": "AAAAAErZN1v1iLNgpABeJX9cp5Q4X12I",
   "tracks": [
     {
       "added_at": "2025-02-28 05:00:52",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -783,18 +783,22 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -815,22 +819,18 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 293840,
       "name": "I Don't Like",
       "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "Lil Uzi Vert vs. The World",
+        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 283550,
-      "name": "Do Not Disturb",
-      "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
+      "duration_ms": 198944,
+      "name": "Money Longer",
+      "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Lil Uzi Vert vs. The World",
-        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 198944,
-      "name": "Money Longer",
-      "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
+      "duration_ms": 283550,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 121886,
-      "name": "changes",
-      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "My Moment",
         "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 254693,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 121886,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255378,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 203093,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255378,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
     },
     {
       "added_at": "2025-02-28 05:00:52",

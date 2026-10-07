@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 189176,
       "name": "100 roosi",
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -22560,7 +22560,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -29574,7 +29574,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -33496,7 +33496,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 158260,
       "name": "mdea",
       "url": "https://open.spotify.com/track/2bIzRPxY7n7SAlKDxeUb4g"
@@ -40928,7 +40928,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 188090,
       "name": "Palavaks",
       "url": "https://open.spotify.com/track/5sEzQnpzigAaZRxfSLbZcy"
@@ -57542,7 +57542,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 163809,
       "name": "Uueks hommikul",
       "url": "https://open.spotify.com/track/1a7A3FoOogzD0HnViWe1DU"
@@ -64028,6 +64028,24 @@
       "duration_ms": 125584,
       "name": "\u0422\u042b \u041e\u0421\u041b\u0415\u041f",
       "url": "https://open.spotify.com/track/0e2de4hqK1CKt0dolrcrzb"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0435\u043b\u0451\u043d\u044b\u0439",
+        "url": "https://open.spotify.com/album/0L5bzYkRMBi5ohVMzpFtxJ"
+      },
+      "artists": [
+        {
+          "name": "Voskresenskii",
+          "url": "https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113720,
+      "name": "\u0424\u0440\u0430\u043d\u0441\u0435",
+      "url": "https://open.spotify.com/track/1yuoHU8tcztJpObvLoq9SD"
     },
     {
       "album": {

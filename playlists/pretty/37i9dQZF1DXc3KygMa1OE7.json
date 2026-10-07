@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2615605,
+  "num_followers": 2615644,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP+xjjRUcRoHm9JLCnWAIR/Un9/T",
+  "snapshot_id": "AAAAAORu7tq7GBTGVETjnLoROXfes/3G",
   "tracks": [
     {
       "added_at": "2026-02-25 17:39:27",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Beaches (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Beaches (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Turn Back The Clock",
         "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 270133,
       "name": "Turn Back The Clock",
       "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Hello, I Must Be Going",
         "url": "https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 175346,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2026-02-25 17:39:27",

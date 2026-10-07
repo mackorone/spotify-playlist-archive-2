@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,373 likes - 126 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,372 likes - 126 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 52 | [Mama Wanna Mambo \(feat\. NATTI NATASHA & Arturo Sandoval\)](https://open.spotify.com/track/5Vv6zKTsWWyZvbYUmkcEOf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:56 |
 | 53 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1Q9Y26MeSfVjGgFr9zHBu9) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:17 |
 | 54 | [Sensitive \(feat\. Scott Hoying\)](https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:58 |
-| 55 | [Marry Me](https://open.spotify.com/track/6NrWdxWR0sj4gPAOU2w2tu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:35 |
-| 56 | [Your Turn](https://open.spotify.com/track/4aG41nJ7tfC1Z4yuVyhjRr) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:21 |
+| 55 | [Your Turn](https://open.spotify.com/track/4aG41nJ7tfC1Z4yuVyhjRr) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:21 |
+| 56 | [Marry Me](https://open.spotify.com/track/6NrWdxWR0sj4gPAOU2w2tu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:35 |
 | 57 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 |
 | 58 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 |
 | 59 | [Blink](https://open.spotify.com/track/0HvGGQEgVtEamhhc2JgcP1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:47 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 125 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Evan McLain](https://open.spotify.com/artist/5SNX2JP4ie5GuSweaPbA3Z), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 | 126 | [Underwater](https://open.spotify.com/track/5dpihukY5xlCzf4OoqKp9w) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Meghan Trainor](https://open.spotify.com/album/6ikGcT6PGehsnatISZFOK9) | 4:17 |
 
-Snapshot ID: `AceKrAAAAADwtIFe9YlzH4x9pWDPxyCZ`
+Snapshot ID: `AceQTAAAAACuu92m40BKv3K2ca0VgNuK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA y Generación 12
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,277 likes - 80 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,340 likes - 80 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 12 | [El Rey Gobierna Todo \- Live at Church](https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [El Rey Gobierna Todo \(Live at Church\)](https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs) | 16:10 |
 | 13 | [JIREH](https://open.spotify.com/track/0dGqR5pwPkzn39Y2v3vdxy) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Daniela Calveti](https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy) | [JIREH](https://open.spotify.com/album/7Lw58tKNgakUJhkwc42Vq3) | 13:35 |
 | 14 | [Mírenlo](https://open.spotify.com/track/3nKxuviTc7NV6Sz1UqL9ch) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [Americas II](https://open.spotify.com/album/50ImgTNce8B7IzggYXv58u) | 15:51 |
-| 15 | [Mírenlo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [abiymauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
+| 15 | [Mírenlo \- En Vivo](https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0) | [abiymauri](https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Mírenlo \(En Vivo\)](https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh) | 12:19 |
 | 16 | [Roca Firme](https://open.spotify.com/track/0fKnt6UG3I1DG4WnBB8rop) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Roca Firme](https://open.spotify.com/album/08M4Cp8S7c6mNYw1wU8MTo) | 5:22 |
 | 17 | [Bendice a Dios](https://open.spotify.com/track/39CJiDBR6TLfJHD1xgeont) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4), [Isaac Hernandez](https://open.spotify.com/artist/4fqBDjekpKqKV5I1n3UO6z) | [Bendice a Dios](https://open.spotify.com/album/5iEvxWFXJl7skgETn22C9l) | 5:34 |
 | 18 | [Tesoro Verdadero](https://open.spotify.com/track/5k9Vln6mJT5XbALvmNoOqu) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Tesoro Verdadero](https://open.spotify.com/album/4tNnlLMqrX1lmPZ1X7uo0s) | 7:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Te Coronamos](https://open.spotify.com/track/6Ft5wueAtrPghqk7P0YrOt) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Te Coronamos](https://open.spotify.com/album/4yfpZaK4QdCnf6LXjBsyKv) | 5:25 |
 | 80 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
 
-Snapshot ID: `AAAAAPz8GRUPDnWFN9SlMDCSTGfYtYjG`
+Snapshot ID: `AAAAAK+ZJrpWuPRJtkPCY6K5UGdHzZnD`

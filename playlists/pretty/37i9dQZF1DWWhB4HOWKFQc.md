@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,677 likes - 92 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,772 likes - 92 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 91 | [Negoro Angin](https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Negoro Angin](https://open.spotify.com/album/473skY7alrmJfasO5CIeDm) | 5:12 |
 | 92 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `AAAAABsBcBGwBKGQ5TZm2w0gD3vLF2BA`
+Snapshot ID: `AAAAAJGOHhK/SLVrasXPn/8DpE2c3MkU`

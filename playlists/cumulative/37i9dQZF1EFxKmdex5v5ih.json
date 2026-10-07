@@ -9269,6 +9269,28 @@
     },
     {
       "album": {
+        "name": "Stranger Than Heaven",
+        "url": "https://open.spotify.com/album/5BjgOq3prboE0rVyb04zhN"
+      },
+      "artists": [
+        {
+          "name": "Pageless",
+          "url": "https://open.spotify.com/artist/5W6PWK6ms280LeIYndQyQw"
+        },
+        {
+          "name": "PagelessSV",
+          "url": "https://open.spotify.com/artist/0W77noAfgOOte4RT8lKISB"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231361,
+      "name": "Stranger Than Heaven",
+      "url": "https://open.spotify.com/track/2o7Z95TBgdcAhjhEFkYPn8"
+    },
+    {
+      "album": {
         "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
         "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
       },

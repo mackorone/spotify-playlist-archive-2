@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,334 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,338 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [You don’t have to be a star](https://open.spotify.com/track/2B8YSN8znuRfYSkwJusNfQ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [You don’t have to be a star](https://open.spotify.com/album/6OhmLQUKQfh10tr3stKRD6) | 3:20 |
 | 50 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 
-Snapshot ID: `AAAAAL2SA9f9qN9toALi2SIkasjmxn0l`
+Snapshot ID: `AAAAABARnPSKN5WxdLYzDWd+MIvPlKfu`

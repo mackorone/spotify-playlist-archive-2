@@ -5746,7 +5746,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 153451,
       "name": "Baudam!",
       "url": "https://open.spotify.com/track/3yg4Ms4JFRN24LV0t2EL8q"
@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6358,10 +6358,32 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/3LpgRnosHNXRpLRrUn0ua2"
+    },
+    {
+      "album": {
+        "name": "BLAAD",
+        "url": "https://open.spotify.com/album/3opI8CbUGLO7nY4E2fOps0"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        },
+        {
+          "name": "Ricky Done Did It!",
+          "url": "https://open.spotify.com/artist/4MQhLr5xFRDCsLuJk3fYx2"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Bezdarbnieks",
+      "url": "https://open.spotify.com/track/7a7ZhLqvMBD33Sx4d4uNsB"
     },
     {
       "album": {
@@ -11688,7 +11710,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -29708,7 +29730,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -36252,7 +36274,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 265500,
       "name": "Nomaina R\u012bti",
       "url": "https://open.spotify.com/track/2rsAcD6CBAWL0aPFaDj48W"
@@ -40542,7 +40564,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -42126,7 +42148,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -47232,6 +47254,24 @@
     {
       "album": {
         "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/4MRXGUCB89CliYc7YWICI0"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/2KGdxXnW10v0nTXay9AElG"
+    },
+    {
+      "album": {
+        "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
@@ -49279,6 +49319,24 @@
     },
     {
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
         "name": "Love & Tears",
         "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
       },
@@ -49986,7 +50044,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -51038,7 +51096,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -51056,7 +51114,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -57248,7 +57306,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 264545,
       "name": "V\u0113lvienreiz",
       "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
@@ -64418,7 +64476,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 117708,
       "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
       "url": "https://open.spotify.com/track/3wOM6MY3KmA5470mfYbH6K"

@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21979,
+  "num_followers": 21990,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1dp1mR+cZ1pEzC7CUh1Jcoeyt5",
+  "snapshot_id": "AAAAAGqgjidoKD3iEl+NOYRfUpHZsyio",
   "tracks": [
     {
       "added_at": "2026-10-02 08:44:46",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-02 08:44:46",
       "album": {
-        "name": "Pancake",
-        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 149543,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
-    },
-    {
-      "added_at": "2026-10-02 08:44:46",
-      "album": {
         "name": "Redemption Valley",
         "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
+    },
+    {
+      "added_at": "2026-10-02 08:44:46",
+      "album": {
+        "name": "Pancake",
+        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
     },
     {
       "added_at": "2026-10-02 08:44:46",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-10-02 08:44:46",
       "album": {
+        "name": "Y3 Guy",
+        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Y3 Guy",
+      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
+    },
+    {
+      "added_at": "2026-10-02 08:44:46",
+      "album": {
         "name": "Jesus Christ 2",
         "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2026-10-02 08:44:46",
       "album": {
-        "name": "Y3 Guy",
-        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
-      },
-      "artists": [
-        {
-          "name": "Ypee",
-          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 145146,
-      "name": "Y3 Guy",
-      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
-    },
-    {
-      "added_at": "2026-10-02 08:44:46",
-      "album": {
         "name": "That Way",
         "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-10-02 08:44:46",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
-    },
-    {
-      "added_at": "2026-10-02 08:44:46",
-      "album": {
         "name": "Bendova",
         "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 162941,
       "name": "Bendova",
       "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "added_at": "2026-10-02 08:44:46",
+      "album": {
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2026-10-02 08:44:46",

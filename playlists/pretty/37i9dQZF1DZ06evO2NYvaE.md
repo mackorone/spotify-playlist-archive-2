@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,591 likes - 41 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,613 likes - 41 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
 | 2 | [TYG \(feat\. Spiritbox\)](https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:27 |
-| 3 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
-| 4 | [Circle With Me](https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:53 |
+| 3 | [Circle With Me](https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:53 |
+| 4 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
 | 5 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
 | 6 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
 | 7 | [Sun Killer](https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:47 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 40 | [Electric Cross](https://open.spotify.com/track/0ADnhZNVVnSApQStXz2XxK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:23 |
 | 41 | [10:16](https://open.spotify.com/track/7cHXbLD2MHOwGTezFgAQIc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 1:08 |
 
-Snapshot ID: `asGXAAAAAAC4ziwgs/rId/IofBUic3MZ`
+Snapshot ID: `asLogAAAAAB+ACeCNKVjDv0SxJVUOljZ`

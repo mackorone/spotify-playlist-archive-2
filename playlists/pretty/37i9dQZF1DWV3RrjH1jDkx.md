@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Nessi, Noah Kahan, lene 3000  og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,395 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,378 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 99 | [More Than Nothing](https://open.spotify.com/track/3BDQxRUuEKyIoj6YXn9iwy) | [Liam Snowy Halliwell](https://open.spotify.com/artist/2NbyAAyubfpDrA3b27j8wM) | [More Than Nothing](https://open.spotify.com/album/1oFwk0KCfjnQ96aHSaH6BP) | 2:33 |
 | 100 | [Is She Pretty?](https://open.spotify.com/track/5zU66XMWTRUre6uriMR6Qq) | [Elín Hall](https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb) | [Is She Pretty?](https://open.spotify.com/album/4LFV6Oqazgsey5IeUJvIvN) | 4:27 |
 
-Snapshot ID: `AAAAAO1NyWdTGaQXJLV2QADaAxnho/wB`
+Snapshot ID: `AAAAALBMhVYmPSt8D4qGEKjA5yivhRUy`

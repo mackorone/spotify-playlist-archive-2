@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 15 min
+129 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can't Relate](https://open.spotify.com/track/2nSdR0dx4aVC1tQKSHbZFH) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/3n1BIU9Pd7chTwLODhyA4k) | 2:41 | 2026-04-18 |  |
 | [Champion \(feat\. Tia Ray\) \- The Official 2019 FIBA Basketball World Cup™ Song](https://open.spotify.com/track/2HQ1u66IjSnMRLuCnpNEhQ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [Champion \(feat\. Tia Ray\) \[The Official 2019 FIBA Basketball World Cup™ Song\]](https://open.spotify.com/album/0tJXzmUqNkN6eUSRBXfp7z) | 2:54 | 2025-08-02 |  |
 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 | 2025-08-02 |  |
+| [Chosen One](https://open.spotify.com/track/4ymjIpe2Xh1aSMWnPcBjXf) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Chosen One](https://open.spotify.com/album/4Cjds7BMXi2kIm71uDfERa) | 3:02 | 2026-10-06 |  |
 | [Closer To Me](https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 4:06 | 2025-08-02 |  |
 | [Come Back To Me \(feat\. Junie & Rick Ross\)](https://open.spotify.com/track/7783Uq4sZEDJkmFxvsV9xD) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Junie Shumpert](https://open.spotify.com/artist/3k87hEcqFS6oq7hfxM0RnE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:09 | 2025-08-02 |  |
 | [Commitment](https://open.spotify.com/track/228HtIBLgb4W17mIMe8OdH) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Commitment](https://open.spotify.com/album/4wYLPwDy5NixAZdsMXBPIp) | 2:43 | 2025-08-02 |  |

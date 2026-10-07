@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 125906,
       "name": "Carita Triste",
       "url": "https://open.spotify.com/track/7cncPk3pgG1lNTUIiKxGev"
@@ -21452,7 +21452,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195914,
       "name": "Prende La Radio",
       "url": "https://open.spotify.com/track/45KU6ofyCrBrKoVWblDscc"
@@ -26069,6 +26069,24 @@
     },
     {
       "album": {
+        "name": "Te Gustan Villeros",
+        "url": "https://open.spotify.com/album/15BVL7DsxXdPqqsLX6Vjzc"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Te Gustan Villeros",
+      "url": "https://open.spotify.com/track/1iaG7y15lWAQJ7m5h0Bl7s"
+    },
+    {
+      "album": {
         "name": "Te Mentiria",
         "url": "https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K"
       },
@@ -26182,6 +26200,24 @@
       "duration_ms": 174893,
       "name": "Te Pido",
       "url": "https://open.spotify.com/track/0rnZOspoTCAXfvAudOdRng"
+    },
+    {
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/7LxMWygtSlCMxrlXPxYZBd"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/10YC1THkVCaPZrqbSvl0s5"
     },
     {
       "album": {
@@ -29670,7 +29706,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 173647,
       "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
       "url": "https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv"
@@ -31556,7 +31592,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

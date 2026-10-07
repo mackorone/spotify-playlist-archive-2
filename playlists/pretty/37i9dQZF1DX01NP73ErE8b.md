@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Marracash e Guè in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,730 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,742 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 79 | [Menta](https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Menta](https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5) | 3:11 |
 | 80 | [VITA MORTE MIRACOLI](https://open.spotify.com/track/5kTTmHImyUi7JirBBC9iOq) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [VITA MORTE MIRACOLI](https://open.spotify.com/album/40r7qBVfienPoRHOuJhluR) | 2:55 |
 
-Snapshot ID: `AAAAAL0V2I0zoUjq9BmrhEDV7uX8nwKp`
+Snapshot ID: `AAAAAIBO2sVub1MBD/SoaOUn1sNhDiUt`

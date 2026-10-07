@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Sgt\. Frog”!　©吉崎観音／KADOKAWA・劇場版ケロロ軍曹製作委員会
 
-64 songs - 4 hr 16 min
+66 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [アフロ音頭でくるくるパ～ンツ!](https://open.spotify.com/track/5vuSAljVM7SkyNvr58bAxj) | [DANCE MAN](https://open.spotify.com/artist/5HP5CKZBRGoUqgwhx0xsBW) | [TVアニメ『ケロロ軍曹』ケロロソング③](https://open.spotify.com/album/43wq3O2UCQZfVsL2C5mZj0) | 4:27 | 2021-05-26 |  |
 | [ウェットルキングのうた](https://open.spotify.com/track/3jPa7QHbgm9eyDQQApZHzm) | [植津徹とザ・キングスターズ](https://open.spotify.com/artist/4104MvYNR0vuC4TbvtqblN) | [TVアニメ『ケロロ軍曹』ケロロソング③](https://open.spotify.com/album/43wq3O2UCQZfVsL2C5mZj0) | 3:24 | 2021-05-26 |  |
 | [ガブリンゴかじり隊](https://open.spotify.com/track/5ZaveP7D8ce4xAbkdqFM2r) | [More Peach Summer Snow\(能登麻美子・池澤春奈・斎藤千和・広橋涼\)](https://open.spotify.com/artist/0CioIO5JvrS6cwoWjMx5O6) | [TVアニメ『ケロロ軍曹』ケロロソング②](https://open.spotify.com/album/3ZCibVd23M6ix735POwML4) | 4:09 | 2021-05-26 |  |
+| [キライのちスキ！](https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [キライのちスキ！](https://open.spotify.com/album/5AzdFKB1GHLGdX8pLaC2CL) | 3:14 | 2026-10-06 |  |
 | [ギロロの一番長い日](https://open.spotify.com/track/0Tm4GbIo0y6cDb7URRkWMA) | [ギロロ\(中田譲治\)](https://open.spotify.com/artist/4cMMGi8yhF5dTEPS7KreTa), [夏美\(斎藤千和\)](https://open.spotify.com/artist/4I4SKDQHy3bWFclexhGcGa) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 7:38 | 2021-05-26 |  |
 | [クリスマス・ケロル](https://open.spotify.com/track/6CyIomea7hEalLqdvp0RDQ) | [ケロロ聖歌隊\(渡辺久美子・中田譲治・小桜エツ子・子安武人・草尾毅\)](https://open.spotify.com/artist/2zj1gfzRo4ZlyI0zFhz5Ji) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 4:55 | 2021-05-26 |  |
 | [ケッケッケロロの大作戦♪](https://open.spotify.com/track/7DrdNhiHTGmZvkcJl3qU6l) | [ケロロ小隊\(渡辺久美子・中田譲治・小桜エツ子・子安武人・草尾毅\)](https://open.spotify.com/artist/4IMX9LF1MXLPrgVY6YLLq1) | [TVアニメ『ケロロ軍曹』ケロロソング④](https://open.spotify.com/album/6hfXmFkVcmtWHwsFhF5lE2) | 4:08 | 2021-05-26 |  |
@@ -71,6 +72,7 @@
 | [永遠に](https://open.spotify.com/track/2Ow2g186QoD3dbzv2DRvAm) | [アフロマニア](https://open.spotify.com/artist/1P5lwPlatQhDxie5r7TLRv) | [KING OF AFROCK](https://open.spotify.com/album/7eCFxIC5VnyLXpB0q41VrG) | 4:07 | 2021-05-26 |  |
 | [石ころの星](https://open.spotify.com/track/5uSPJZlVPfJ551GThX4pN2) | [冬樹\(川上とも子\)](https://open.spotify.com/artist/1RTXC2mvYVYH8uC92ilQRO), [ケロロ\(渡辺久美子\)](https://open.spotify.com/artist/5PQcwVV53xNEdtPVyHD4Gy) | [TVアニメ『ケロロ軍曹』ケロロソング②](https://open.spotify.com/album/3ZCibVd23M6ix735POwML4) | 3:56 | 2021-05-26 |  |
 | [石ころの星 \-Instrumental\-](https://open.spotify.com/track/1xWEwGaLAyCnCBg4ZgHRG5) | [鈴木さえ子 with TOMISIRO](https://open.spotify.com/artist/4kaAipZvLE7Hp0vtJlFwGe) | [TVアニメ『ケロロ軍曹』オリジナルサウンドケロック3](https://open.spotify.com/album/09GnCuuZRsMXGmI8LCYoLA) | 3:54 | 2021-05-26 |  |
+| [秘密のパノラマ](https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [秘密のパノラマ](https://open.spotify.com/album/1CrgYqJsoHxi5yBB5YaWIe) | 3:50 | 2026-10-06 |  |
 | [翔べ! ガンダム](https://open.spotify.com/track/2WdPdue30lol61cTCiLmVz) | [ケロロ小隊\(渡辺久美子・中田譲治・小桜エツ子・子安武人・草尾毅\)](https://open.spotify.com/artist/4IMX9LF1MXLPrgVY6YLLq1) | [TVアニメ『ケロロ軍曹』ケロロソング④](https://open.spotify.com/album/6hfXmFkVcmtWHwsFhF5lE2) | 3:22 | 2021-05-26 |  |
 
 \*This playlist was first scraped on 2024-08-20. Prior content cannot be recovered.

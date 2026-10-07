@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,618 likes - 192 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,619 likes - 192 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 78 | [CUÍDALA](https://open.spotify.com/track/0C0Soj0VipcLOnWPC2ghv0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:43 |
 | 79 | [La Curiosidad \(feat\. Dj Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\) \- Red Grand Prix Remix](https://open.spotify.com/track/5E97zd7EDczPvQ6GRNr6y2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Curiosidad \(Red Grand Prix Remix\) \[feat\. DJ Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\]](https://open.spotify.com/album/6Ffhoar8XZuB5v2zVQcC5y) | 7:49 |
 | 80 | [La Muerte](https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:35 |
-| 81 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 |
-| 82 | [Naguará](https://open.spotify.com/track/5JckkRJqnlHMvNa1BqU1AT) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:02 |
+| 81 | [Naguará](https://open.spotify.com/track/5JckkRJqnlHMvNa1BqU1AT) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:02 |
+| 82 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 |
 | 83 | [Vicio](https://open.spotify.com/track/3fi1xpGiyg5bRs64gJSak5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:40 |
 | 84 | [Tiempo Sin Verte](https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:16 |
 | 85 | [Tarde](https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:06 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 191 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 192 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AceKygAAAACFC7XA8Ue3CGPFKySBiBfr`
+Snapshot ID: `AceQLgAAAAAuf6vCn2mheoedp4wc32pW`

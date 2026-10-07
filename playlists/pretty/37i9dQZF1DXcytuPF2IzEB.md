@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 
 > Disco, acid and synths galore \- all your favourite 80s dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,728 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,743 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 | 49 | [Got To Have Your Love \- Radio Edit](https://open.spotify.com/track/4qMkEKu8MVqEafFMrncGRa) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY), [Wondress](https://open.spotify.com/artist/7KIhpjxlijX6ntQgj6rAmH) | [The Best Of Mantronix \(1985 \- 1999\)](https://open.spotify.com/album/20UnpDF1GFqUYHOPiLjWGK) | 4:07 |
 | 50 | [Pull Up To The Bumper](https://open.spotify.com/track/72uS4v9EdiXZeascM5RTl7) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Private Life: The Compass Point Sessions](https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf) | 4:33 |
 
-Snapshot ID: `AAAAAKPqpLAonihEmIHX2qBa7jjCdPJ2`
+Snapshot ID: `AAAAAIaacE49hUw5m8hlqiWkaeo2oOfF`

@@ -8757,6 +8757,24 @@
     },
     {
       "album": {
+        "name": "Crush (Try Me)",
+        "url": "https://open.spotify.com/album/6jxd0egYWySTQrIHc4aA8c"
+      },
+      "artists": [
+        {
+          "name": "monde",
+          "url": "https://open.spotify.com/artist/2u4NFW0AvG8Mj2SCAWt2lB"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169954,
+      "name": "Crush (Try Me)",
+      "url": "https://open.spotify.com/track/11YQ9Dpuf5kQm7OAlrCVlp"
+    },
+    {
+      "album": {
         "name": "Spiralis Aurea Trio",
         "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
       },
@@ -17587,6 +17605,24 @@
     },
     {
       "album": {
+        "name": "Foxtrot / I Shot Him",
+        "url": "https://open.spotify.com/album/4DznPKJJ7PIeJAVkN9MFC3"
+      },
+      "artists": [
+        {
+          "name": "PARADE",
+          "url": "https://open.spotify.com/artist/14U7RjL155yioIUM00QSpU"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231645,
+      "name": "I Shot Him",
+      "url": "https://open.spotify.com/track/0QOvoORKAksmitzneEsIDP"
+    },
+    {
+      "album": {
         "name": "I'll Wait for You in the Car Park",
         "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
       },
@@ -21320,7 +21356,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 412646,
       "name": "Les Vagues Dansent Avec Les \u00c9toiles",
       "url": "https://open.spotify.com/track/59XJLW9I0LzDRGdKYFKSop"
@@ -31650,7 +31686,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 201600,
       "name": "Scott Walker",
       "url": "https://open.spotify.com/track/6vUgRlnDtLX9ouWf4WMeMF"
@@ -34543,6 +34579,24 @@
     },
     {
       "album": {
+        "name": "tiarn",
+        "url": "https://open.spotify.com/album/2Kt7Izz50rQVGCxalT4NQT"
+      },
+      "artists": [
+        {
+          "name": "Hana Stretton",
+          "url": "https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89429,
+      "name": "Stay Involved",
+      "url": "https://open.spotify.com/track/7uC5QG5bYdvFVGu2zdwT4R"
+    },
+    {
+      "album": {
         "name": "Stems of Water",
         "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
       },
@@ -35262,7 +35316,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 215978,
       "name": "Swag",
       "url": "https://open.spotify.com/track/7MEJdaQ9rSY332NVI6tiL5"

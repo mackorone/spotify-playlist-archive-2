@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 | 2026-06-05 | 2026-09-26 |
+| [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 | 2026-06-05 |  |
 | [1517](https://open.spotify.com/track/3l9zGL9JXEOyH5fHEDMoaC) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Rules](https://open.spotify.com/album/3wE1kEIg3a0W6CVuHLCpR6) | 3:41 | 2026-06-26 | 2026-07-04 |
 | [16 Years](https://open.spotify.com/track/3BWbj5NXUgr0hK7PmFSI9D) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/159cL7XcdoUldPCCy6JlfB) | 3:45 | 2022-11-07 | 2024-04-19 |
 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 | 2022-11-07 | 2026-06-06 |
@@ -134,7 +134,7 @@
 | [Get Down](https://open.spotify.com/track/5pEZh7HyU4y3Xj6udVsL4u) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA) | [Mr Miracle](https://open.spotify.com/album/2hzaPJF24H3LnBteWxN3td) | 3:32 | 2026-07-10 | 2026-07-18 |
 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 | 2026-06-05 |  |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Dance, No One's Watching](https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h) | 3:59 | 2026-06-05 |  |
-| [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2026-06-05 |  |
+| [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2026-06-05 | 2026-10-07 |
 | [Gold Guns Girls](https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:05 | 2022-11-07 | 2024-04-19 |
 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 | 2022-11-07 | 2026-06-06 |
 | [Goodbye Mr A](https://open.spotify.com/track/1ZlYcrsHBpSUhFfaFZnzMo) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [The Trick to Life \(10th Anniversary Edition\)](https://open.spotify.com/album/69PUWbGxYClgrAQ4e0n3ph) | 4:26 | 2022-11-07 | 2022-11-13 |

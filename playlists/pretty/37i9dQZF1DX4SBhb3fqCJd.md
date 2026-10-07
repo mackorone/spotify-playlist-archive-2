@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,017,668 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,018,108 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 51 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |
 | 52 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
 
-Snapshot ID: `AAAAAEwp8QdyMehL5wWKe9BEjF+oSjD9`
+Snapshot ID: `AAAAAA/qSqh9F5ywKXse5qfqe42GcGYc`

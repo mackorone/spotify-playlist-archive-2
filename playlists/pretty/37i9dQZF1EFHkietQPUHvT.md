@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 29 | [Love U in the Morning](https://open.spotify.com/track/2bKBzSxj5YPI8cTEqEWxAO) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/3hWRSfU99OWboHK7ER9WQO) | 2:44 |
 | 30 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
 | 31 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 |
-| 32 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
-| 33 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
-| 34 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 |
-| 35 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
+| 32 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
+| 33 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
+| 34 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
+| 35 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 |
 | 36 | [Haunt Me](https://open.spotify.com/track/0TE4EyLBWUIAPiorLlEB1N) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:50 |
 | 37 | [pause](https://open.spotify.com/track/4mJoDnHlIwjTY1Yjz5dSSC) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/2yeqQbB1Iy80xXKDNzZ0o7) | 2:37 |
 | 38 | [Bored](https://open.spotify.com/track/4Dh90SQzKOotf1bDD3TMxS) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Bored](https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR) | 2:56 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 43 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
 | 44 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
 | 45 | [Knife](https://open.spotify.com/track/5fImcQz9mXs1s7akdU9Jc3) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/6mjq2qxsezwSGkdiWN8ml9) | 3:13 |
-| 46 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
-| 47 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
+| 46 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
+| 47 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
 | 48 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
 | 49 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
 | 50 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 64 | [JACUZZI](https://open.spotify.com/track/3uxKRkElZD5cYI3kltUn48) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:02 |
 | 65 | [Kiss And Tell](https://open.spotify.com/track/6MU3GxPHgCU7H1FxuMWbLi) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:29 |
 | 66 | [Time Will Make It Better](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Time Will Make It Better](https://open.spotify.com/album/3KScPmp6OltdnhV3WBEzHS) | 4:00 |
-| 67 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:51 |
-| 68 | [Anything](https://open.spotify.com/track/2c4cvczE7sJHcVLmEfVhyo) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Anything](https://open.spotify.com/album/1sRbYl9xd7f3aaQe8PoTKd) | 3:12 |
+| 67 | [Anything](https://open.spotify.com/track/2c4cvczE7sJHcVLmEfVhyo) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Anything](https://open.spotify.com/album/1sRbYl9xd7f3aaQe8PoTKd) | 3:12 |
+| 68 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:51 |
 | 69 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
 | 70 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 |
 | 71 | [See It To Believe It](https://open.spotify.com/track/0LNNvLrHsgqQheAt2lMrTD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Grace Bowers](https://open.spotify.com/artist/47GDFLxw8IwDw9rSv2xE3u) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:47 |
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 89 | [Here to Stay](https://open.spotify.com/track/3ByAouukHhrz3koxrKKG3L) | [Brendan Murray](https://open.spotify.com/artist/7vXVpxnqu4GYer1u9eNvLw) | [Here to Stay](https://open.spotify.com/album/3J9wxDOwgdBIf3gyAeuHSK) | 2:59 |
 | 90 | [Taxi](https://open.spotify.com/track/2jkMuY6mQLuPXZwfh58LIk) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Taxi](https://open.spotify.com/album/6zipOgixmS3YXGHbNDIioT) | 3:01 |
 | 91 | [Slow Motion](https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR) | 3:01 |
-| 92 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
-| 93 | [Out Of Breath](https://open.spotify.com/track/4aDuOZZdhG37hESGW0iGyY) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/0Rb8zkBHjxHqteutd6mFOd) | 3:12 |
-| 94 | [Get Me High](https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 3:25 |
-| 95 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
-| 96 | [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 |
+| 92 | [Get Me High](https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 3:25 |
+| 93 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
+| 94 | [Out Of Breath](https://open.spotify.com/track/4aDuOZZdhG37hESGW0iGyY) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/0Rb8zkBHjxHqteutd6mFOd) | 3:12 |
+| 95 | [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 |
+| 96 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
 | 97 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AceKtgAAAABEU0TtF24iVkJeyVaB3GGU`
+Snapshot ID: `AceQOAAAAABDNReKpaQnBT3BE25CVd8n`

@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Los Gaiteros de San Jacinto, Fruko Y Sus Tesos, Carmelo Torres y Su Cumbia Sabanera & Madre Cumbia
 
-968 songs - 2 day 7 hr 1 min
+969 songs - 2 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 | 2024-10-04 | 2025-01-25 |
 | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs) | 2:37 | 2022-01-01 | 2022-01-29 |
 | [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 | 2023-07-31 |
+| [Reina No Ruega](https://open.spotify.com/track/3JmGPds0dSau3ewCrMbse0) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Reina No Ruega](https://open.spotify.com/album/3EXYrCvhAVkJEleUMnFkIa) | 3:00 | 2026-10-06 |  |
 | [Relación](https://open.spotify.com/track/1LGnbMqQvJks6VpM2gmKZk) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH) | [Relación](https://open.spotify.com/album/3iU2gJPWHk6WMMJ3iikVbe) | 3:06 | 2024-06-14 | 2024-08-17 |
 | [Remember Me](https://open.spotify.com/track/2PTDRE8RTmKU0LbJCvK9vA) | [Alain Daniel](https://open.spotify.com/artist/2u1nvbgShcmjDc2SeSDDu6), [Alexander Delgado](https://open.spotify.com/artist/2XZxaXED899trOkylOP8fa) | [Remember Me](https://open.spotify.com/album/2KkJOl11zZxOf8LYSIwaZz) | 3:25 | 2022-06-29 | 2023-01-22 |
 | [REPETIMOS](https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [REPETIMOS](https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD) | 3:16 | 2024-09-13 | 2025-01-11 |

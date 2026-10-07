@@ -14795,6 +14795,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -19115,6 +19137,24 @@
     },
     {
       "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "album": {
         "name": "WORTHLESS",
         "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
       },
@@ -20290,7 +20330,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 201293,
       "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
       "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
@@ -21912,7 +21952,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"

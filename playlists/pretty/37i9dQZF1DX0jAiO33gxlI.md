@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,132 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,135 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Bonvivant](https://open.spotify.com/track/1XmkZQN1bjD1yUMjErtEqG) | [Xaolin Records](https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Cute Shawty](https://open.spotify.com/artist/2HtVwqcS6FCYQohD8RulTY), [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Camping das Minas 2.0](https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe) | 3:00 |
 | 74 | [Réu](https://open.spotify.com/track/5jxnEh4V4Ik5Ram95rUbQw) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Réu](https://open.spotify.com/album/5EKi7XmLFOPgXKGdOqAbQX) | 3:14 |
 
-Snapshot ID: `AAAAAIixPTG72oQDfZVcwcLR9v8HLVu3`
+Snapshot ID: `AAAAAEN1XqncN3E9WXNKM9wZ9RXbaVZS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Happy Filipino Heritage Month! <br/>Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,129 likes - 98 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,136 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 97 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 98 | [believer](https://open.spotify.com/track/1gsluHuD49kHNRffgIkxEJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [THE VALOUR HOUR](https://open.spotify.com/album/2FHhVwTH9nsnSRNfFO0aHv) | 2:57 |
 
-Snapshot ID: `AAAAAOKhpsDwrC+gAnXoophzmIa/Snee`
+Snapshot ID: `AAAAAML+zZ49pgYsAtcBtdXJzAYFimUE`

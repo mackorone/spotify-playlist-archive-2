@@ -1,12 +1,12 @@
 {
   "description": "New music from Victoria Mon\u00e9t, Drake,  Uncool MC, 031 CHOPPA, Quavo and more.",
-  "num_followers": 192664,
+  "num_followers": 192717,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlwH4j3eE8iWuIhdMJxYgcp7+rb",
+  "snapshot_id": "AAAAABR28wpdBgmpfYwz6x07Zd87+xf0",
   "tracks": [
     {
       "added_at": "2026-10-02 05:29:34",
@@ -1550,6 +1550,10 @@
         {
           "name": "Sgijalo musiq",
           "url": "https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM"
+        },
+        {
+          "name": "MystroGee808",
+          "url": "https://open.spotify.com/artist/7CyEm4SKQjzaB9h0KDE5GT"
         }
       ],
       "duration_ms": 311698,

@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1584712,
+  "num_followers": 1584635,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEFcL+GZpUG9D6tx2uPoQuOO1++",
+  "snapshot_id": "AAAAAI2dlQt5bsiQRNPx3wQlZvOvBkqw",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:13",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
       "added_at": "2026-08-06 22:01:13",

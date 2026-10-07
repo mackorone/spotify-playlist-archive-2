@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Erykah Badu",
-  "num_followers": 777580,
+  "num_followers": 777637,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwG4LqRgtJ1uOH5lDKUjAr7tpql",
+  "snapshot_id": "AAAAADcZPOTpO+xSOcLlgVxWMNsIqtlW",
   "tracks": [
     {
       "added_at": "2026-09-25 07:33:59",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
     },
     {
-      "added_at": "2024-08-13 17:24:58",
+      "added_at": "2024-02-07 18:14:04",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/2pAy5jfm3NhsF6MyqFbyd2"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
+      "added_at": "2024-08-13 17:24:58",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2026-06-26 07:33:48",
@@ -361,20 +361,20 @@
       "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
+      "added_at": "2024-03-08 16:23:30",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+      "duration_ms": 255333,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
     },
     {
       "added_at": "2026-02-27 07:34:19",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
     },
     {
-      "added_at": "2024-03-08 16:23:30",
+      "added_at": "2024-02-07 18:14:04",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "added_at": "2025-08-15 05:30:14",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
       "added_at": "2024-08-13 17:24:58",
       "album": {
         "name": "Unapologetic (Deluxe)",
@@ -687,6 +671,22 @@
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -809,24 +809,20 @@
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
-      "added_at": "2024-02-05 04:09:08",
+      "added_at": "2025-09-12 18:48:06",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+      "duration_ms": 193840,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -845,20 +841,24 @@
       "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
     },
     {
-      "added_at": "2025-09-12 18:48:06",
+      "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 193840,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     }
   ],
   "unique_name": "Women of R&B",

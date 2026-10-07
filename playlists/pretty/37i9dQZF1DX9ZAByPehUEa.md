@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,594 likes - 200 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,624 likes - 200 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 199 | [I'm In Love With You](https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [I'm In Love With You](https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG) | 3:37 |
 | 200 | [All For You](https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All For You](https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60) | 3:33 |
 
-Snapshot ID: `AAAAAKrAbajTdij4L9oWNOexCqFyK8/6`
+Snapshot ID: `AAAAACNb9aUf/P3fBDtHYgRAVgJFGfd7`

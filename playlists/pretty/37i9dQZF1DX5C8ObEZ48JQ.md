@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6?si=cD5Ju5xvQaKQNAAL1ywF\-Q">Earldridge</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,800 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,925 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Touch](https://open.spotify.com/track/4SWIdIIsvUVXQ12twFZAV7) | [Yandani](https://open.spotify.com/artist/1SAZpe4YVDlNqXRyBGWglj) | [Touch](https://open.spotify.com/album/0ReJlqwhC6GqCUZKJmNt5g) | 2:46 |
 | 50 | [Ingine Ama](https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [Ingine Ama](https://open.spotify.com/album/1BryXhNuC0abK1AMltFLYs) | 2:30 |
 
-Snapshot ID: `AAAAAE8boFMIEMg7xSuMcz0IiCFdmuSr`
+Snapshot ID: `AAAAABUVLT0UQmLl+MxvQHfOnwEbLHQ4`

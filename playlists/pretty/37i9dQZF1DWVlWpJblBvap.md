@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,446 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,739 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 50 | [The Church \- Live](https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:00 |
 
-Snapshot ID: `AAAAAPAOAaNQcb55oXprH48SGBzE8jmt`
+Snapshot ID: `AAAAAO2BvX7BjJVoz5864gmRHovu1Vm1`

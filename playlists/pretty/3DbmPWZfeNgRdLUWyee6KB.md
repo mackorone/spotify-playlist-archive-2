@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 114 songs - 6 hr 38 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 117 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 112 | [Golden Eyes \- Acoustic Version](https://open.spotify.com/track/1uRs4DjUyPl1VfSR83MsjA) | [Vincent misscato](https://open.spotify.com/artist/5joAwB5XMBLIVTLz11qkRf) | [Golden Eyes \(Acoustic Version\)](https://open.spotify.com/album/4Q2k2DmGcS7I2EVvoO3k6B) | 3:36 |
 | 113 | [What We Gon' Do](https://open.spotify.com/track/18m629ygERS4br5zGuWxow) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 3:22 |
 | 114 | [Después del Ruido](https://open.spotify.com/track/1heJoxxdDkItCWRu36a9Mz) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Después del Ruido](https://open.spotify.com/album/7ht4LkP7p7numNHlila5Br) | 4:49 |
+| 115 | [Burn My Wings](https://open.spotify.com/track/1wPrpXvmVXxj1OAvdC1EDq) | [Waller](https://open.spotify.com/artist/1rluEP2Hevekk48lnfkeUQ) | [Burn My Wings](https://open.spotify.com/album/55tS8Ifltjkf0akKVERM7p) | 2:53 |
+| 116 | [Shina\-Skyl](https://open.spotify.com/track/0zItUrNLnAO1VvbJNKu1Mi) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Shina\-Skyl](https://open.spotify.com/album/0LnbhBCqAUfOGwmomwVPMo) | 3:00 |
+| 117 | [Hotel Room Window View](https://open.spotify.com/track/62fgAsI4vrhbSnXs10h1v1) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [Hotel Room Window View](https://open.spotify.com/album/1UqBpV5SOhhb88kA3n7IVI) | 4:32 |
 
-Snapshot ID: `AAAYjfYt1cmKmOWIw0qAIyGKXLzUWpi+`
+Snapshot ID: `AAAYkCDegMUa6rYBpPoSifA0T7NdUEoB`

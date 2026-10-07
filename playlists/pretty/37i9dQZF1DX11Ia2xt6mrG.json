@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
-  "num_followers": 74785,
+  "num_followers": 74790,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADvmhmPeHgh1NXly3zQCkQ2a6SLl",
+  "snapshot_id": "AAAAALNWUEjMAVAQO/uHHbxRkUeWmJIe",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:33",
@@ -383,26 +383,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Solo Quiero Tomar",
-        "url": "https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy"
       },
       "artists": [
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Kill the Clowns",
-          "url": "https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8"
+          "name": "Barbie Williams",
+          "url": "https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI"
         }
       ],
-      "duration_ms": 162634,
-      "name": "Solo Quiero Tomar",
-      "url": "https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc"
+      "duration_ms": 259660,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -447,26 +447,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy"
+        "name": "Solo Quiero Tomar",
+        "url": "https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         },
         {
-          "name": "Barbie Williams",
-          "url": "https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI"
+          "name": "Kill the Clowns",
+          "url": "https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8"
         }
       ],
-      "duration_ms": 259660,
-      "name": "Eco",
-      "url": "https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi"
+      "duration_ms": 162634,
+      "name": "Solo Quiero Tomar",
+      "url": "https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1275,26 +1275,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
       "artists": [
         {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1323,22 +1319,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         },
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
         }
       ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-09-11 06:00:33",

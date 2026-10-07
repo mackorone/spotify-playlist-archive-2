@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1415760,
+  "num_followers": 1415891,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOGSR7RDXj1OU0OeSTqS1tcWxyU",
+  "snapshot_id": "AAAAAMZK21AthQynrgJX3m2C6e5e5HbY",
   "tracks": [
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Nymphetamine Special Edition",
-        "url": "https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Nymphetamine Fix",
-      "url": "https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Brave New World (2015 Remaster)",
         "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 434293,
       "name": "Blood Brothers - 2015 Remaster",
       "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Nymphetamine Special Edition",
+        "url": "https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Nymphetamine Fix",
+      "url": "https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Shadows Are Security",
-        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Through Struggle",
-      "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Slania",
         "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 249240,
       "name": "Inis Mona",
       "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Shadows Are Security",
+        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Through Struggle",
+      "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
     },
     {
       "added_at": "2026-04-05 20:45:13",

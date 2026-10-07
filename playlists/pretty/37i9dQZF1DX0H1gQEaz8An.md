@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Jorge Duran C
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,007 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,073 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 | 69 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 |
 | 70 | [Cuando Me Ocupes](https://open.spotify.com/track/6QvHiOp35ylHrYGy2ohuBg) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:38 |
 
-Snapshot ID: `AAAAAEB6CPI4G6rx1DEQllXw1c60+Nov`
+Snapshot ID: `AAAAAKdaDMqojAmH0VCiekjb0g2tFfNa`

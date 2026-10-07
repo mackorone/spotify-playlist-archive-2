@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u68ee\u4e03\u83dc",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -28087,6 +28087,24 @@
     },
     {
       "album": {
+        "name": "PATCHWORK LIFE",
+        "url": "https://open.spotify.com/album/1Nw6iq450jj1NCHkkr8IvE"
+      },
+      "artists": [
+        {
+          "name": "NakamuraEmi",
+          "url": "https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "PATCHWORK LIFE",
+      "url": "https://open.spotify.com/track/73XstgMd6pdUu2jAs7eaaK"
+    },
+    {
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
       },
@@ -31014,7 +31032,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 180200,
       "name": "Salad",
       "url": "https://open.spotify.com/track/1O61P3Yr0K952Oy1di2BP5"
@@ -42830,7 +42848,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 256573,
       "name": "\u300c\u3044\u3064\u304b\u3061\u3083\u3093\u3068\u3002\u300d",
       "url": "https://open.spotify.com/track/73lvSTyOiahOWWxjwtcyXI"
@@ -43178,6 +43196,24 @@
       "duration_ms": 200554,
       "name": "\u3042\u306a\u305f\u3068Contigo",
       "url": "https://open.spotify.com/track/5VTCQoa0aLoSxZcked94A5"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
+        "url": "https://open.spotify.com/album/435VD0Boy9b1FQ7HOsS4m6"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "\u3042\u306a\u305f\u306e\u82b1\u306e\u8272",
+      "url": "https://open.spotify.com/track/4or5caHru8j2EHRLmjSZay"
     },
     {
       "album": {
@@ -43898,7 +43934,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 249180,
       "name": "\u3046\u305f\u304b\u305f",
       "url": "https://open.spotify.com/track/2G50YEjqnVlTJhEODcJ7Ra"
@@ -49871,6 +49907,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30d5\u30a7\u30fb\u30aa\u30fb\u30ec",
+        "url": "https://open.spotify.com/album/6JUcODo2BM7uZ8urJc1JQ9"
+      },
+      "artists": [
+        {
+          "name": "\u68ee\u4e03\u83dc",
+          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343415,
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30aa\u30fb\u30ec",
+      "url": "https://open.spotify.com/track/0LlXnb0S8p3Ol6OhQ6mq0W"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30e1\u30e9\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/28VL3OuHhupUZgk3HYiXeD"
       },
@@ -54816,6 +54870,24 @@
       "duration_ms": 215600,
       "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
       "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30c3\u30ad\u30fc\u30c1\u30e3\u30c3\u30d4\u30fc / \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u5168\u90e8\u5927\u4e08\u592b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/46ZJn7HDbmtOJvm5NxxyqD"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346508,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u5168\u90e8\u5927\u4e08\u592b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/6WCbKz2JtOheAkjTmLQphe"
     },
     {
       "album": {
@@ -72156,7 +72228,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 223233,
       "name": "\u96ea\u5504 - yukiuta",
       "url": "https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2"

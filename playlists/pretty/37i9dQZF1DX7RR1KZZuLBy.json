@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 69402,
+  "num_followers": 69418,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPYPX5aU23RrvxHZnXGtRyTokav",
+  "snapshot_id": "AAAAADjpJlplzbq63wCL4l/Fh7kNkpj9",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -251,8 +251,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -260,17 +260,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)[Feat. Chandler Moore]",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -343,8 +339,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
@@ -352,13 +348,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)[Feat. Chandler Moore]",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2024-07-05 00:01:00",

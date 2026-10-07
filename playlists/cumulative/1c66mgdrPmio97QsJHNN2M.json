@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "umbra",
+        "url": "https://open.spotify.com/album/0iVdgRr1qqXv8gWULez3ZS"
+      },
+      "artists": [
+        {
+          "name": "ferric dust",
+          "url": "https://open.spotify.com/artist/3cXeLNuw7EvxZsgvVrmpHh"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125877,
+      "name": "2_penumbra",
+      "url": "https://open.spotify.com/track/6MjPecPRJIrjwwC6vNNw9e"
+    },
+    {
+      "album": {
         "name": "3310",
         "url": "https://open.spotify.com/album/0yCf08eKIjClp2oQ6o9CoJ"
       },
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 118441,
       "name": "BLEED OUT",
       "url": "https://open.spotify.com/track/3U2YXGPp3XVFh7T8DpCnwn"
@@ -14854,7 +14872,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 186363,
       "name": "Faithless (Sacrifice)",
       "url": "https://open.spotify.com/track/2nLkESvNMPNZQZaxZXI8qx"
@@ -17154,7 +17172,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 175636,
       "name": "free fall",
       "url": "https://open.spotify.com/track/5teBgl3rO7fdiUQlSgRxKI"
@@ -19006,7 +19024,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 205408,
       "name": "Green Gemstones",
       "url": "https://open.spotify.com/track/7eM0HSIfDbzeeOLiJVictB"
@@ -19197,6 +19215,24 @@
     },
     {
       "album": {
+        "name": "HABANERA (From \"One Night at KitKat\")",
+        "url": "https://open.spotify.com/album/0PszJayX5WOSVp3Rmf6OY1"
+      },
+      "artists": [
+        {
+          "name": "HAMJAAN pulse",
+          "url": "https://open.spotify.com/artist/1doFoCK3UzkRXLJs4MQZuO"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173803,
+      "name": "HABANERA (From \"One Night at KitKat\")",
+      "url": "https://open.spotify.com/track/72QCVFK6qUOU9VgnULzWKe"
+    },
+    {
+      "album": {
         "name": "Habitual",
         "url": "https://open.spotify.com/album/6KEFEw2NSkwkt0KBl8tOuN"
       },
@@ -19378,6 +19414,32 @@
       "duration_ms": 176100,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/7EJijescqnXIHbTOJXPQsn"
+    },
+    {
+      "album": {
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/6TcgKjoytfPQxOul3ydQwO"
+      },
+      "artists": [
+        {
+          "name": "petty",
+          "url": "https://open.spotify.com/artist/4rcCuLNRTnHjg2QCvczbhe"
+        },
+        {
+          "name": "Billie6lack",
+          "url": "https://open.spotify.com/artist/7o7QqkR7tJpxn94zQXCO9h"
+        },
+        {
+          "name": "EPK",
+          "url": "https://open.spotify.com/artist/1QgMkEm8rDnIOTzO0Dfk5z"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/197PZEyOdhkCYqIIFwbkvj"
     },
     {
       "album": {
@@ -21353,6 +21415,24 @@
     },
     {
       "album": {
+        "name": "Truly",
+        "url": "https://open.spotify.com/album/2h5EYihPOT4AowL0U2j9GK"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Evans",
+          "url": "https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "How We Like It",
+      "url": "https://open.spotify.com/track/7qPEhqiSBIWRKJOD7we0uP"
+    },
+    {
+      "album": {
         "name": "howl",
         "url": "https://open.spotify.com/album/2fSe2rCrvNb8vFnaJF9dJN"
       },
@@ -22310,7 +22390,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 373012,
       "name": "I Remember Clark Terry",
       "url": "https://open.spotify.com/track/6JjevqbkzhSmTRtQPhIt6a"
@@ -29988,7 +30068,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 227179,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/1pFcAbbMyByoi03hZlOip8"
@@ -30454,7 +30534,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 338375,
       "name": "Miles & Sartre",
       "url": "https://open.spotify.com/track/03c8EiMRoMKHRL2nFV80Wb"
@@ -30750,6 +30830,24 @@
       "duration_ms": 137243,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/68HFPgvK8PV2n3SEF2O2Nn"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny"
+      },
+      "artists": [
+        {
+          "name": "Who's Molly?",
+          "url": "https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN"
     },
     {
       "album": {
@@ -32338,6 +32436,24 @@
       "duration_ms": 289800,
       "name": "Neptune Nights",
       "url": "https://open.spotify.com/track/3eVRO8C1eT0oDzF9XoUvpb"
+    },
+    {
+      "album": {
+        "name": "Frank-N-Stein",
+        "url": "https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Curses",
+          "url": "https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171531,
+      "name": "Nevaeh",
+      "url": "https://open.spotify.com/track/0H8hEMix8CSZ8qm1ECBTAW"
     },
     {
       "album": {
@@ -36330,7 +36446,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 120000,
       "name": "phosphorium",
       "url": "https://open.spotify.com/track/2UQDju7O1tY1xvT0iNY39K"
@@ -36436,6 +36552,24 @@
       "duration_ms": 227799,
       "name": "Pieces of Something",
       "url": "https://open.spotify.com/track/5RCxn0bhBTGT65zO1oPxEQ"
+    },
+    {
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/1tbYtpymGLGlViPQsgwRbt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Gray",
+          "url": "https://open.spotify.com/artist/047rvCsEJLIKpbhzi4nHi4"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/1It8A5nY868nZi5BvXtVjS"
     },
     {
       "album": {
@@ -42590,7 +42724,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 183923,
       "name": "Someone Else's Day",
       "url": "https://open.spotify.com/track/721821c6VMPC4uRmUciT4I"
@@ -43390,7 +43524,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 184496,
       "name": "Start without you",
       "url": "https://open.spotify.com/track/53S62rqHsM7BTg8cwtmykB"
@@ -44052,7 +44186,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 184000,
       "name": "Sugar Key",
       "url": "https://open.spotify.com/track/1L6ObDjFT9RKEzAY1W4e7I"
@@ -47284,7 +47418,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 205666,
       "name": "The Wanting Was The Best Part",
       "url": "https://open.spotify.com/track/4PFfzhhnsS6GAQ5poUV5XA"
@@ -49358,7 +49492,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 142538,
       "name": "TURN IT AROUND",
       "url": "https://open.spotify.com/track/29qtiRFATpIAnKUddcfDxO"
@@ -49936,7 +50070,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 189280,
       "name": "Unnamed",
       "url": "https://open.spotify.com/track/4vjhSA1SEptzB0AIsnuj2e"
@@ -50766,6 +50900,24 @@
       "duration_ms": 185069,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/6beu2t16fTBp0eVXSMD2Ju"
+    },
+    {
+      "album": {
+        "name": "Under The Rainbow",
+        "url": "https://open.spotify.com/album/3rNejJ0ixkSOfb4lIwC09f"
+      },
+      "artists": [
+        {
+          "name": "Jade Valea",
+          "url": "https://open.spotify.com/artist/72Abfl2iqvUkREZ3L4pYqv"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127440,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3P6zjgClouM6mAr99FVIeK"
     },
     {
       "album": {
@@ -54982,7 +55134,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 170618,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6"

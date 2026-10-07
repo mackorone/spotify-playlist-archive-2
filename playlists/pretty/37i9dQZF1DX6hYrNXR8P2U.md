@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Chechi de Marcos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,568 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,548 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Casa Viviente](https://open.spotify.com/track/56yte0nCEo5rQV3Gun5FIK) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Gringa Gringa](https://open.spotify.com/album/3LQQDy2FvY3u0xVpEtQpSQ) | 2:28 |
 | 100 | [te gustaría morir de amor?](https://open.spotify.com/track/49JD4jxvVZhFR7SGOAU7OU) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [te gustaría morir de amor?](https://open.spotify.com/album/2UTID5tEM7PB4PmTo2TDeD) | 1:57 |
 
-Snapshot ID: `AAAAAJwoKyj0jrTGiS96275lJvgwTx+Q`
+Snapshot ID: `AAAAAJOC+fGgHo3nEPbJIj407BUfR+5w`

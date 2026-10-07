@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Dominique Fils\-Aimé, Angèle, Olivier Couture, SDM, Ino Casablanca, Natasha St\-Pier, Blynk et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,266 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,271 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [L'amour ici](https://open.spotify.com/track/11vTk0GPbXFT5lOVbFh9pN) | [Alexandra Moreno](https://open.spotify.com/artist/4rbYig3C1deu91CnhylYvZ) | [Ancrage](https://open.spotify.com/album/2xYihRjyr2oTrHO65B7P0z) | 3:25 |
 | 99 | [Te Quiero](https://open.spotify.com/track/60kXyfjGHLtCJ8WYHaiAQ4) | [Sunny](https://open.spotify.com/artist/6qGrdWY5Kq2TrqRy413rpF) | [Te Quiero](https://open.spotify.com/album/1iwK8Pj0ZN5jkKLzKrwrWA) | 2:37 |
 
-Snapshot ID: `AAAAAF2khs6+W8PiZAj8+5yy3yYhv2G6`
+Snapshot ID: `AAAAALJNCQnmyo+SLOLC8z3yFZOAtPxy`

@@ -4795,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116073,
+      "name": "PRINCE OF THE SCENE",
+      "url": "https://open.spotify.com/track/5AdiCoE3SdB3vWvtk3Yi6S"
+    },
+    {
+      "album": {
         "name": "Future Hndrxx Presents: The WIZRD",
         "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
       },

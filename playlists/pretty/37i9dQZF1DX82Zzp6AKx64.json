@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1242690,
+  "num_followers": 1242745,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6kx3D5X/pSqU3b6juxUwtN5gfz",
+  "snapshot_id": "AAAAAJnfPCFCEkgeUQeN+Et0WSPhC+SM",
   "tracks": [
     {
       "added_at": "2024-06-26 02:22:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 509315,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Third Stage",
         "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 256200,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 509315,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Backstreet Symphony",
-        "url": "https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG"
-      },
-      "artists": [
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU"
-        }
-      ],
-      "duration_ms": 385400,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Edge Of The Century",
         "url": "https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 277173,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Backstreet Symphony",
+        "url": "https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU"
+        }
+      ],
+      "duration_ms": 385400,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Just Take My Heart",
-      "url": "https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Black Rain (Expanded Edition)",
         "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 277400,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Just Take My Heart",
+      "url": "https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x"
     },
     {
       "added_at": "2024-06-26 02:22:53",

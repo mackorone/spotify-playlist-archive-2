@@ -4,7 +4,7 @@
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-61 songs - 4 hr 3 min
+64 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Babydoll](https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Babydoll](https://open.spotify.com/album/5MmlbyI4DHDu6jqlkapGw8) | 2:34 | 2026-09-25 |  |
 | [back to friends](https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/7yYMssiAqkt52ZuqSuxUS6) | 3:22 | 2026-09-25 |  |
 | [Backseat](https://open.spotify.com/track/3xVHbWPoi5Qn95ZDIsVjxX) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/2qnoiUDfPhjfs9432i5Dlp) | 6:25 | 2026-09-25 |  |
+| [Best Friend](https://open.spotify.com/track/3kfTlXN4j637v75nKh0MUx) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Best Friend](https://open.spotify.com/album/49MlWSSiSlKzIxA3ADPkZ1) | 3:30 | 2026-10-06 |  |
 | [Better Man](https://open.spotify.com/track/5R9Qx03Tm6gOxz3NESFPkF) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/1iATSjI7yAazoi4Uu7uAqE) | 3:03 | 2026-09-25 |  |
 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 | 2026-09-25 |  |
 | [blade bird](https://open.spotify.com/track/5RY51UkwC5SS89X9qXW9e0) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/7KgtoXh2EXyD7jikIw2BYd) | 3:42 | 2026-09-25 |  |
@@ -46,6 +47,7 @@
 | [Look At That Woman](https://open.spotify.com/track/3B47tkTozy9XcFdrrwZwtP) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/45cJsjakFFxmeJxckRmtqg) | 3:29 | 2026-09-25 |  |
 | [Lost Boys](https://open.spotify.com/track/5jCIvo0SMGbBMYbPAzzijJ) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/27icmvQUsd2y0DHUEp9P0x) | 4:23 | 2026-09-25 |  |
 | [Love It If We Made It](https://open.spotify.com/track/1OWBgaA5RpAtwYa9czJDk9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Love It If We Made It](https://open.spotify.com/album/41Ggo5M6iWN36zN2AbPDtT) | 4:25 | 2026-09-25 |  |
+| [of everyone in the world…](https://open.spotify.com/track/0YfpN0fhuguT8cnU7Yq4hV) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [of everyone in the world…](https://open.spotify.com/album/7fq7Yq9P2RVcJ1ivEuSHXE) | 2:59 | 2026-10-06 |  |
 | [Over country](https://open.spotify.com/track/506eYW3L8N4ViJ4gTwVHb6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over country](https://open.spotify.com/album/0BFwepGthMB319nJjcGhHe) | 5:02 | 2026-09-25 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/6kzN48RtknrOWkOmi2k7y8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/1ZRTxcKjOpIIdluPlRnj7o) | 4:20 | 2026-09-25 |  |
 | [Queen](https://open.spotify.com/track/0OzrEp1To8S4OYHe4ae1lA) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Queen](https://open.spotify.com/album/6CZlcbWRR7ptVtdoiu7hoj) | 4:13 | 2026-09-25 |  |
@@ -62,6 +64,7 @@
 | [the bridge](https://open.spotify.com/track/3z0nNELGfWxjatVfmC6Vda) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/3G8hKAn4uTQZ77ZjU5cIwi) | 4:33 | 2026-09-25 |  |
 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 | 2026-09-25 |  |
 | [The Great Divide](https://open.spotify.com/track/7MOJKL5iIlMJgDFiTQWovR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/6RKyHulYYNgnj38W8WEzy3) | 5:45 | 2026-09-25 |  |
+| [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 | 2026-10-06 |  |
 | [The Reason](https://open.spotify.com/track/3WppG4RfqEDn607du4tGfr) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [The Reason](https://open.spotify.com/album/4dnbHpCBi5aPGEzT0wp8ig) | 6:50 | 2026-09-25 |  |
 | [Violins](https://open.spotify.com/track/5wtcGxgt37YOOgyXHzMzfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2wVRL1bz7UUe7pY9X9lQ1U) | 4:10 | 2026-09-25 |  |
 | [What Was That](https://open.spotify.com/track/5CY157S4Ftj6Dwojaakp88) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/6On1ZLimsqlm0ACsBb8kF3) | 3:29 | 2026-09-25 |  |

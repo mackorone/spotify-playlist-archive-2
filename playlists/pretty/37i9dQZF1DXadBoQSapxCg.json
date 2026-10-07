@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319718,
+  "num_followers": 319709,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAev2Q4rerfBGpBHZxAm+5KJ9RTx",
+  "snapshot_id": "AAAAAKyRnXHLjaEGyt13jo9WUw+pzNrF",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:30",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Voc\u00ea n\u00e3o vive sem",
+      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
         "name": "100 por Hora",
         "url": "https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 196800,
       "name": "100 por Hora",
       "url": "https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Voc\u00ea n\u00e3o vive sem",
-      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "encontro de alma",
-        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "encontro de alma",
-      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "De Manh\u00e3",
         "url": "https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 155789,
       "name": "De Manh\u00e3",
       "url": "https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "encontro de alma",
+        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "encontro de alma",
+      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "DISK",
-        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DISK",
-      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "DISK",
+        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DISK",
+      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "S\u00f3 um Cadin",
         "url": "https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 175081,
       "name": "S\u00f3 um Cadin",
       "url": "https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2026-09-10 03:01:30",

@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1450210,
+  "num_followers": 1450424,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3C939aB07lc9EAMhv4zbSQ8EqJ",
+  "snapshot_id": "AAAAAB4N9vhlHwKX8UGHWPpTfIM7iMxz",
   "tracks": [
     {
       "added_at": "2024-07-12 06:11:58",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 167203,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Magical Mystery Tour (Remastered)",
         "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 230386,
       "name": "All You Need Is Love - Remastered 2009",
       "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Seekers",
         "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 140440,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "Monotones",
-          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Live In Concert / All of Me",
         "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 205640,
       "name": "A Man Without Love",
       "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "Monotones",
+          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of The Surfaris",
-        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
-      },
-      "artists": [
-        {
-          "name": "The Surfaris",
-          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Wipe Out - Hit Version / Extended Ending",
-      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 194600,
       "name": "We Gotta Get Out Of This Place - UK Single Version",
       "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of The Surfaris",
+        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Wipe Out - Hit Version / Extended Ending",
+      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
     },
     {
       "added_at": "2024-07-12 06:11:58",

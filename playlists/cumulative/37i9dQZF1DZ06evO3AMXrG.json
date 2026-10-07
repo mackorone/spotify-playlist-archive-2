@@ -442,6 +442,24 @@
     {
       "album": {
         "name": "Diario",
+        "url": "https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299400,
+      "name": "D\u00edas Intensos",
+      "url": "https://open.spotify.com/track/1VYBSJipWUOQ7tX0SLhRJD"
+    },
+    {
+      "album": {
+        "name": "Diario",
         "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [

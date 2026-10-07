@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,076 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,089 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 49 | [Ayeyi Ndowm](https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm) | 6:18 |
 | 50 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 |
 
-Snapshot ID: `AAAAABJ0gzQR8h3SJzHKNlV6rkMTObN7`
+Snapshot ID: `AAAAAPwdQzd4j8mGbBIO5aobHLm4ojBr`

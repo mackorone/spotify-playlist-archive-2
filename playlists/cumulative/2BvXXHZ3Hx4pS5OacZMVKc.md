@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-482 songs - 1 day 0 hr 45 min
+483 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 | 2023-08-11 |
 | [Goodbye My Love](https://open.spotify.com/track/1PQtTEWRmKgjCR3W30J48X) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [Goodbye My Love](https://open.spotify.com/album/30GcMOqdVkrHDDsgyAacuj) | 3:18 | 2025-05-16 |  |
 | [Gravity](https://open.spotify.com/track/5rz7AN785YRvMctnkqaawn) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Gravity](https://open.spotify.com/album/6BBRX0hnu6rjmrR3brUPhi) | 3:27 | 2022-02-03 | 2022-09-15 |
+| [halcyon](https://open.spotify.com/track/0TNPQUCHadBHlELOlIQp0j) | [onte](https://open.spotify.com/artist/5h4rcVNOcg33YNWOMi4N1h) | [halcyon](https://open.spotify.com/album/09SVWoZa9EAeaSntE3sEVU) | 3:10 | 2026-10-06 |  |
 | [Halcyon](https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Jibaan](https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ) | [Regardless EP](https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq) | 3:47 | 2026-09-25 |  |
 | [Hardwired](https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Hardwired](https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n) | 5:02 | 2022-02-03 | 2022-09-15 |
 | [Hate You](https://open.spotify.com/track/4hJDfvU0vJTHfXrcXnfqyt) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/7K9CMJzx57LLIrvfv8CHyl) | 3:00 | 2022-02-03 | 2023-08-11 |

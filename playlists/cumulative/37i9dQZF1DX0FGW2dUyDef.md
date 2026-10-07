@@ -2,15 +2,16 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: KARM6
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Ahiyan
 
-372 songs - 18 hr 16 min
+374 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 | 2025-02-18 | 2025-04-02 |
 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 | 2026-09-02 | 2026-09-22 |
 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 | 2025-05-13 | 2025-06-17 |
+| [Acı Bal \- Dedub Sessions II](https://open.spotify.com/track/1oYZDobKrPvJCfiiU4Xe3H) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Acı Bal \(Dedub Sessions II\)](https://open.spotify.com/album/5RzC9IC5Dl3YMckmamQOSa) | 3:19 | 2026-10-06 |  |
 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 | 2026-05-18 | 2026-09-03 |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-30 | 2025-07-30 |
 | [Afedersin](https://open.spotify.com/track/2kKMrqXZCGXjvHTi3GmhWn) | [Lark2020](https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH) | [Afedersin](https://open.spotify.com/album/21w61liVLiVknFGkg4c2E7) | 2:40 | 2026-05-11 | 2026-06-23 |
@@ -70,6 +71,7 @@
 | [Beni Hatırla](https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm) | 5:12 | 2024-09-24 | 2025-04-08 |
 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 | 2025-12-10 | 2026-02-13 |
 | [Benim Olsana](https://open.spotify.com/track/5PW7h2o6qYWUmwAultwZdf) | [CRUSH](https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6) | [Benim Olsana](https://open.spotify.com/album/294VZB9TyHpZnhktpxVQtY) | 2:56 | 2026-09-14 |  |
+| [Beyaz](https://open.spotify.com/track/01BIEhvSOowecScRovMFll) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Beyaz](https://open.spotify.com/album/3F2qZV4NutxdUCXbzq9Tub) | 4:30 | 2026-10-06 |  |
 | [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 | 2026-01-05 | 2026-02-13 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-07-02 | 2025-01-31 |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-07-02 | 2024-09-25 |
@@ -209,7 +211,7 @@
 | [kestim](https://open.spotify.com/track/5T05WQjiKwmivLtHPb4SjB) | [Lark2020](https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH) | [kestim](https://open.spotify.com/album/0xxs3W9njttqBwxYv5emVN) | 1:46 | 2026-06-22 | 2026-07-07 |
 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-04-01 | 2026-04-28 |
 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 | 2026-07-17 |  |
-| [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 | 2026-09-02 |  |
+| [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 | 2026-09-02 | 2026-10-07 |
 | [Kralın Kızı](https://open.spotify.com/track/4nCjL15kmLv68gO5Cvvgnz) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kralın Kızı](https://open.spotify.com/album/50LIotnatCpmMdt9ojtVR1) | 3:16 | 2026-09-28 |  |
 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-19 | 2025-11-06 |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 | 2024-07-02 | 2024-11-26 |
@@ -379,6 +381,6 @@
 | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 | 2025-05-07 | 2025-11-19 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-31 | 2026-09-15 |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 | 2025-10-26 | 2026-05-26 |
-| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-17 |  |
+| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-17 | 2026-10-07 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

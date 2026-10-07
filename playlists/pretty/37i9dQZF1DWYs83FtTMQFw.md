@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Don Toliver, Lil Baby, Drake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,349,938 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,350,039 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 30 | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 |
 | 31 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
 | 32 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
-| 33 | [3am \(feat\. Don Toliver\)](https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Rockstar Junkie](https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID) | 2:16 |
+| 33 | [3am](https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Rockstar Junkie](https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID) | 2:16 |
 | 34 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
 | 35 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
 | 36 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 99 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 100 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
 
-Snapshot ID: `AAAAAAoqV/Qo4uyEYl4y7oLmH6J8YZ5W`
+Snapshot ID: `AAAAAF9bpa+2iglyPGqrDa2ujbwkrWHS`

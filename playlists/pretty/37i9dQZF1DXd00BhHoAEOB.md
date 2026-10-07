@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,833 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,822 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 61 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 |
 | 62 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
 | 63 | [Jurame \- Remasterizado](https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Alma Musical de RCA](https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o) | 4:34 |
-| 64 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
-| 65 | [Extranjera](https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Extranjera](https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP) | 3:44 |
+| 64 | [Extranjera](https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Extranjera](https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP) | 3:44 |
+| 65 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
 | 66 | [Vuelas Tan Lindo](https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Vuelas Tan Lindo](https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66) | 2:38 |
 | 67 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 68 | [Pérame Tantito](https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6) | [Karis Sea](https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq) | [Pérame Tantito](https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT) | 2:01 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 94 | [Helecho](https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC) | 2:17 |
 | 95 | [Sabré Olvidar](https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 4:07 |
 | 96 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
-| 97 | [Milagros](https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Milagros](https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv) | 3:30 |
+| 97 | [Consuelo](https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 2:46 |
 | 98 | [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 |
 | 99 | [Soledad](https://open.spotify.com/track/6QxCLqnfSYN4KzbPBJn53h) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 3:58 |
-| 100 | [Consuelo](https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 2:46 |
+| 100 | [Milagros](https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Milagros](https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv) | 3:30 |
 
-Snapshot ID: `AAAAAIXyKT2LQMrmJdX3k9qvmfMDCEBg`
+Snapshot ID: `AAAAAIKumpqtG4aLp7A6Km3ia9RB5FaL`

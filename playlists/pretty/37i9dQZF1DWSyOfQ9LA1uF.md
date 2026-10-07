@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,496 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,501 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 17 | [I Think I Like It](https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Fix Your Accent](https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0) | 5:35 |
 | 18 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
 | 19 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
-| 20 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
-| 21 | [Shut Up and Let Me Go](https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 2:51 |
+| 20 | [Shut Up and Let Me Go](https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 2:51 |
+| 21 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 22 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
 | 23 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 |
 | 24 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 44 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 45 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
 | 46 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
-| 47 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 48 | [Waters of Nazareth \- Erol Alkan Remix](https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Waters of Nazareth \(The Remixes\)](https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ) | 6:12 |
+| 47 | [Waters of Nazareth \- Erol Alkan Remix](https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Waters of Nazareth \(The Remixes\)](https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ) | 6:12 |
+| 48 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 49 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 50 | [Drunk Girls \- Holy Ghost! Remix](https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6), [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Drunk Girls \(Holy Ghost! Remix\)](https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj) | 7:30 |
 | 51 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
 | 75 | [Fancy Footwork](https://open.spotify.com/track/24YW8RhBjRCX7fOWt3YlVR) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/2y70M2PR4IabZgN1wxttNx) | 3:18 |
 
-Snapshot ID: `AAAAAHZFH+dExNgRescOA9MmD97woSSI`
+Snapshot ID: `AAAAACp9MaKJbLlMkB6RyfxiczVmEmhE`

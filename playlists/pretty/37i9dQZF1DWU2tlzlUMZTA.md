@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,302 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,335 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 35 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
 | 36 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
 | 37 | [Aadat \(Feat\. AP Dhillon\)](https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:40 |
-| 38 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 |
-| 39 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
+| 38 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
+| 39 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 |
 | 40 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
 | 41 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 42 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 49 | [Sundari](https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Sundari](https://open.spotify.com/album/3PsTebbjkIZRMvW6NB1nwM) | 2:41 |
 | 50 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
 
-Snapshot ID: `AAAAAHkVDy1+44aGXerGxvcXB7LtDyDG`
+Snapshot ID: `AAAAAD9rGjxVSLPJzQ9jannFBeJT73lx`

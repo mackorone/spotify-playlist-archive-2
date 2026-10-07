@@ -4251,28 +4251,6 @@
     },
     {
       "album": {
-        "name": "M\u00edrenlo",
-        "url": "https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh"
-      },
-      "artists": [
-        {
-          "name": "abiymauri",
-          "url": "https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "date_added": "2026-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 739701,
-      "name": "M\u00edrenlo",
-      "url": "https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0"
-    },
-    {
-      "album": {
         "name": "Americas II",
         "url": "https://open.spotify.com/album/50ImgTNce8B7IzggYXv58u"
       },
@@ -4300,6 +4278,28 @@
       "duration_ms": 951870,
       "name": "M\u00edrenlo",
       "url": "https://open.spotify.com/track/3nKxuviTc7NV6Sz1UqL9ch"
+    },
+    {
+      "album": {
+        "name": "M\u00edrenlo (En Vivo)",
+        "url": "https://open.spotify.com/album/2gX24MkbRCeUTWxdKDHtHh"
+      },
+      "artists": [
+        {
+          "name": "abiymauri",
+          "url": "https://open.spotify.com/artist/7eWnbAZFp1GGJNa0j75Zcp"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739701,
+      "name": "M\u00edrenlo - En Vivo",
+      "url": "https://open.spotify.com/track/0EvBSn62KUjXM38l1oPbH0"
     },
     {
       "album": {

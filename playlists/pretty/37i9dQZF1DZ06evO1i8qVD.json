@@ -1,6 +1,6 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 39563,
+  "num_followers": 39566,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
@@ -54,11 +54,15 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+      "duration_ms": 283266,
+      "name": "Mustang Sally (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
     },
     {
       "added_at": null,
@@ -150,15 +154,11 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 283266,
-      "name": "Mustang Sally (feat. Jeff Beck)",
-      "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 242274,
-      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B.B. King's Blues Summit 100",
         "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 242274,
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 314026,
       "name": "The Devil's Daughter",
       "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 176974,
-      "name": "It Keeps Me Young (feat. Peter Frampton)",
-      "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"
     },
     {
       "added_at": null,
@@ -903,6 +883,26 @@
       "duration_ms": 210533,
       "name": "Wear You Out (feat. Billy Gibbons)",
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 176974,
+      "name": "It Keeps Me Young (feat. Peter Frampton)",
+      "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Tuve que salir del rancho pa poder vivir cantando, Caitime como te extraño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,228 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,482 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 19 | [No Me Lo Mandes Decir](https://open.spotify.com/track/5c6VAXxNh2qt1G7P51FapH) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [No Me Lo Mandes Decir](https://open.spotify.com/album/5igu7jAsOjb0BB0tCFC8Gg) | 3:25 |
 | 20 | [Tu Soledad Y La Mía](https://open.spotify.com/track/0zruCJKifhqLZk8IwfvNrM) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepción](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:53 |
 
-Snapshot ID: `AAAAAEWem6l6cvajowSXfQHBiIAqrMJb`
+Snapshot ID: `AAAAACZ4w5SJEXv1fwq+Zfwn3Zf5dlcR`

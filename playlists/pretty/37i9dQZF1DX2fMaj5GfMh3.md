@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,931 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,928 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 |
 | 100 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 |
 
-Snapshot ID: `AAAAAJwqnoh2gBViyDBO7iHCIzHtbBWD`
+Snapshot ID: `AAAAAJmMe/F5uZDvhyKQQLx2PlVRMojd`

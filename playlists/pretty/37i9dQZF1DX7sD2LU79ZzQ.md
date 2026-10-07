@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Francis Karel
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,983 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,984 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 109 | [\(R\)u\(n\)tuh](https://open.spotify.com/track/1Hu3gNSNdzzNwQcEIhkoqG) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR), [Boniex](https://open.spotify.com/artist/5CVNJ59bVrQ366bWFjNcVt) | [\(R\)u\(n\)tuh](https://open.spotify.com/album/23CSO4bf5ouvlUgTl64pMi) | 3:35 |
 | 110 | [Nikmatilah](https://open.spotify.com/track/6IMPesk9xNoUITOT47UDSL) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Bittersweet](https://open.spotify.com/album/2zMXIFOdoyOWgQ4YHccLfT) | 3:08 |
 
-Snapshot ID: `AAAAAIql9poFEsQvzRRpWw1upn80DQmL`
+Snapshot ID: `AAAAAH6zpYVoSSIIld3gPu3m2jsfUVdg`

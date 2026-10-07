@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,234 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,246 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 16 | [Citizen/Soldier](https://open.spotify.com/track/7fKsaiVDwKe6VVsiGk48YG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:52 |
 | 17 | [Landing In London](https://open.spotify.com/track/69fOcFyjsjZtUHyWGEQndl) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9), [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 4:31 |
 | 18 | [Changes](https://open.spotify.com/track/0oNiYKgINhqhPuwE9LTlj1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:56 |
-| 19 | [Goodbyes](https://open.spotify.com/track/2feU3FmmtVqQpefx0GoxrJ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 3:50 |
-| 20 | [Heaven](https://open.spotify.com/track/4E0UH3Wr1cbOhQNUHbpUYN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:27 |
+| 19 | [Heaven](https://open.spotify.com/track/4E0UH3Wr1cbOhQNUHbpUYN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:27 |
+| 20 | [Goodbyes](https://open.spotify.com/track/2feU3FmmtVqQpefx0GoxrJ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 3:50 |
 | 21 | [Still Alive](https://open.spotify.com/track/6cJRjKolnLTz0Q0TbwJaSv) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 2:41 |
 | 22 | [Ticket To Heaven](https://open.spotify.com/track/09FofPlGG8SGxccEuUHHJ5) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:27 |
-| 23 | [Life Of My Own](https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:58 |
-| 24 | [What's Left](https://open.spotify.com/track/2Qh95cRQ32MkgN7i79B9VM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
+| 23 | [What's Left](https://open.spotify.com/track/2Qh95cRQ32MkgN7i79B9VM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
+| 24 | [Life Of My Own](https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:58 |
 | 25 | [Behind Those Eyes](https://open.spotify.com/track/4QOTzEsuoZaBxtaS32VRNz) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 4:19 |
 | 26 | [Inside Of Me](https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:45 |
-| 27 | [Duck And Run](https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:50 |
-| 28 | [Round And Round](https://open.spotify.com/track/3qAa5EFKFYUau1kM0mcJFr) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:46 |
+| 27 | [Round And Round](https://open.spotify.com/track/3qAa5EFKFYUau1kM0mcJFr) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:46 |
+| 28 | [Duck And Run](https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:50 |
 | 29 | [There's A Life](https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 3:10 |
 | 30 | [Love Is A Lie](https://open.spotify.com/track/0jk9W6CRI2Yv0UGzfUEL00) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 2:47 |
-| 31 | [Not Enough](https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:14 |
-| 32 | [Believer](https://open.spotify.com/track/52eLB9JCFxSoSa2m4FWlTW) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 2:58 |
+| 31 | [Believer](https://open.spotify.com/track/52eLB9JCFxSoSa2m4FWlTW) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 2:58 |
+| 32 | [Not Enough](https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:14 |
 | 33 | [Pages](https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:47 |
 | 34 | [It's Not Me](https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:14 |
 | 35 | [One Light](https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 2:56 |

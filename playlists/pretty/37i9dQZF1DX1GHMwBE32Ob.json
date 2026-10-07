@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: TML Vibez",
-  "num_followers": 161090,
+  "num_followers": 161192,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOe7Ya+HZrQyOnYrTzY5oTXPC3C9",
+  "snapshot_id": "AAAAAJZhz82TYBiG8K1oMtT7vk7R00om",
   "tracks": [
     {
       "added_at": "2026-10-02 00:01:36",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-10-02 00:01:36",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
-    },
-    {
-      "added_at": "2026-10-02 00:01:36",
-      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
-    },
-    {
-      "added_at": "2026-10-02 00:01:36",
-      "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 135549,
-      "name": "Fast and Furious",
-      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
     },
     {
       "added_at": "2026-10-02 00:01:36",
@@ -759,6 +743,22 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-10-02 00:01:36",
+      "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 135549,
+      "name": "Fast and Furious",
+      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
     },
     {
       "added_at": "2026-10-02 00:01:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
+    },
+    {
+      "added_at": "2026-10-02 00:01:36",
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 159131,
       "name": "Group Chat",
       "url": "https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5"
-    },
-    {
-      "added_at": "2026-10-02 00:01:36",
-      "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": "2026-10-02 00:01:36",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
+    },
+    {
+      "added_at": "2026-10-02 00:01:36",
+      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
       },
@@ -1027,30 +1043,6 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
-        "name": "Alafia (Peace)",
-        "url": "https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF"
-      },
-      "artists": [
-        {
-          "name": "Dapper",
-          "url": "https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "Alafia (Peace)",
-      "url": "https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu"
-    },
-    {
-      "added_at": "2026-10-02 00:01:36",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2026-10-02 00:01:36",
       "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+        "name": "Alafia (Peace)",
+        "url": "https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Dapper",
+          "url": "https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         }
       ],
-      "duration_ms": 143157,
-      "name": "Gentleman",
-      "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
+      "duration_ms": 155309,
+      "name": "Alafia (Peace)",
+      "url": "https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu"
     },
     {
       "added_at": "2026-10-02 00:01:36",

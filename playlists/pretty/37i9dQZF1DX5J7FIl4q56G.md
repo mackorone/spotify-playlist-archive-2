@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Amon Amarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,371 likes - 208 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,609 likes - 208 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 207 | [The Desolate Shore Part I: Submergence](https://open.spotify.com/track/1LzZQ1JVY0OIhg9fzxGb7l) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [The Desolate Shore Part I: Submergence](https://open.spotify.com/album/1OdCQ121L7X4A37vIhPLNA) | 8:53 |
 | 208 | [Twin Tyrants](https://open.spotify.com/track/7qFcD2a6MaWTtsaPhVeqyJ) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Twin Tyrants](https://open.spotify.com/album/5kzqvlMFKXan91DfMOQ9Df) | 3:17 |
 
-Snapshot ID: `AAAAAKST2oaalrA4yG/YZ4exGn+T3h00`
+Snapshot ID: `AAAAAG0S1BRRfYQv+oRX4HDnF+7lngDp`

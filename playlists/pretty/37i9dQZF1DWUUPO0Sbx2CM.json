@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240475,
+  "num_followers": 240514,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAyDwqBmOwS3WsuujDsY6sgDdmHQ",
+  "snapshot_id": "AAAAALydLzQonp/sJxfOaNqyRRjqjvyv",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Amen (The Finesse Remix)",
-        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Amen - The Finesse Remix",
-      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 130153,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Amen (The Finesse Remix)",
+        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Amen - The Finesse Remix",
+      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Back to the Street (L-Side Remix)",
         "url": "https://open.spotify.com/album/3a9iYbjoFnIphHFNXkEP73"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 227789,
       "name": "Back to the Street - L-Side Remix",
       "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Lifting Me Up",
         "url": "https://open.spotify.com/album/2nCMXBMDLq2fnfU023ebxM"
       },
@@ -1327,26 +1363,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Reason To Dance",
         "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 220296,
       "name": "Reason To Dance",
       "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Manna (Vitor Maia Remix)",
-        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
-      },
-      "artists": [
-        {
-          "name": "URBAN YOUTH WORSHIP",
-          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Manna - Vitor Maia Remix",
-      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Manna (Vitor Maia Remix)",
+        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+      },
+      "artists": [
+        {
+          "name": "URBAN YOUTH WORSHIP",
+          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Manna - Vitor Maia Remix",
+      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "HOLY",
         "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 181671,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     },
     {
       "added_at": "2026-08-18 23:12:48",

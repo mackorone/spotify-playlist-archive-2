@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqzFJI9i7h384gKef95sLRA9J5+",
+  "snapshot_id": "AAAAAKxkIaiyZM+URVzNvxPHy6eKb2yO",
   "tracks": [
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 407315,
+      "name": "House Of Balloons / Glass Table Girls",
+      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
+    },
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 339066,
       "name": "90210 (feat. Kacy Hill)",
       "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 407315,
-      "name": "House Of Balloons / Glass Table Girls",
-      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Candy Rain",
-        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
-      },
-      "artists": [
-        {
-          "name": "Soul For Real",
-          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Candy Rain",
-      "url": "https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 459659,
       "name": "The Party & The After Party",
       "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Candy Rain",
+        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+      },
+      "artists": [
+        {
+          "name": "Soul For Real",
+          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Candy Rain",
+      "url": "https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 108562,
-      "name": "Burn One (Interlude)",
-      "url": "https://open.spotify.com/track/6WgkOAIOPoumdilSCdYFPB"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Trapped On Cleveland 3",
         "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 240640,
       "name": "Wavy (Remix) [feat. Travis Scott]",
       "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 108562,
+      "name": "Burn One (Interlude)",
+      "url": "https://open.spotify.com/track/6WgkOAIOPoumdilSCdYFPB"
     },
     {
       "added_at": "2022-10-01 17:37:57",

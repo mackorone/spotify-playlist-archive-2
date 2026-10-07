@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,205 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,250 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 45 | [Pray](https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:52 |
 | 46 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
 | 47 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
-| 48 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
-| 49 | [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 |
+| 48 | [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 |
+| 49 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
 | 50 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4ULAXnVBMIGcEH3nFhvGak) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:54 |
 
 Snapshot ID: `asGXAAAAAACAxplIKswNqP2Ru9X1eDvF`

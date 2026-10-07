@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Blaqbonez, TML Vibes, Lojay, Mr Eazi, DJ Tunez and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,821 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,906 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 15 | [Ô Boy](https://open.spotify.com/track/5RKhIMsvQQ5o2gIv4fOfpI) | [Yôrkk](https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv) | [Even If E De Pain Yôu](https://open.spotify.com/album/2c5RUQJAWRRbLlcdlftn9d) | 2:34 |
 | 16 | [Gimme That](https://open.spotify.com/track/1cteBV3gpq4zd5zY0bWmZp) | [AnaYor](https://open.spotify.com/artist/4FnBGmevoiuk90lB4rTaeK), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Summer in Lekki](https://open.spotify.com/album/0i38BFG4Y6NeG3ib89aREF) | 2:15 |
 | 17 | [Waka](https://open.spotify.com/track/4Ci4rRjux0FofhNxxP44sC) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/7yaTlJJXztlKIjBoeq3tE7) | 3:54 |
-| 18 | [Chukwu Mme](https://open.spotify.com/track/5pgpq15Zj2G02NXPqfypw1) | [Mr\. P](https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ) | [Chukwu Mme](https://open.spotify.com/album/2hrsWEhAxmEQALM067VqiJ) | 2:45 |
+| 18 | [Chukwu Mee](https://open.spotify.com/track/5pgpq15Zj2G02NXPqfypw1) | [Mr\. P](https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ) | [Chukwu Mee](https://open.spotify.com/album/2hrsWEhAxmEQALM067VqiJ) | 2:45 |
 | 19 | [Blacks Energy](https://open.spotify.com/track/3ZAMyItgToyeJHguKxA7ZO) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [Blacks Energy](https://open.spotify.com/album/4AbHlSajSnGrHOBQiieZgT) | 2:39 |
 | 20 | [Online Talk](https://open.spotify.com/track/67zxwshKIyc9yqYwkJTe8a) | [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z) | [Online Talk](https://open.spotify.com/album/23NswKbfQkSVi7WP3sG5Pe) | 1:43 |
 | 21 | [Asawana](https://open.spotify.com/track/1sAFvsYedobf0z7hCF6pwE) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Asawana](https://open.spotify.com/album/4HS9WgvXeamheMVUeuIfMm) | 3:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 48 | [WOUNJURE \#SWAG](https://open.spotify.com/track/3GplG4l4xNcDq2vfeVrGQB) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [WOUNJURE \#SWAG](https://open.spotify.com/album/2501fpHUTJeDfzoOlskYmf) | 2:39 |
 | 49 | [like uu](https://open.spotify.com/track/6IHiH43EeYqTA2JQc6o8Ah) | [Nynie](https://open.spotify.com/artist/0su1Ojchuu5kjamJcB78XZ), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [like uu](https://open.spotify.com/album/0PGln1BsRrKkBOV6nw2LzV) | 2:11 |
 
-Snapshot ID: `AAAAAGYjEXG27T55/jkbRro0NPS2Jzuf`
+Snapshot ID: `AAAAAJq+621MIpiybJLpoJWfaUVwEeUS`

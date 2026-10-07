@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,178 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,179 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Rainbow Connection \- From "The Muppet Movie"](https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Rainbow Connection \(From "The Muppet Movie"\)](https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv) | 4:10 |
 | 50 | [Chopin: Minute Waltz](https://open.spotify.com/track/5PJdoZiLVsMy4cfQjZfum6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:10 |
 
-Snapshot ID: `asGXAAAAAADC8q1yV+niSN6RJ05U/ZCL`
+Snapshot ID: `asGXAAAAAABdXrA9MHWmmeY+8Q+I14Lz`

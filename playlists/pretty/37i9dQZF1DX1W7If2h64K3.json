@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59662,
+  "num_followers": 59680,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzLcALTiImwwL1a9/kUikkPn/NP",
+  "snapshot_id": "AAAAANmJmSxnlanmtLYf+zXmj1WtSdik",
   "tracks": [
     {
       "added_at": "2025-12-15 12:40:07",
@@ -507,34 +507,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition",
         "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
       },
@@ -571,6 +543,34 @@
       "duration_ms": 439213,
       "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
       "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -743,30 +743,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Complete Works for Piano Trio",
         "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 478546,
       "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
       "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2025-12-15 12:40:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Fuffifufzich
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,147 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,153 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Puddle](https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Puddle](https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X) | 1:57 |
 | 90 | [Stone Fruit](https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg) | 3:35 |
 
-Snapshot ID: `AAAAAHYHVVrJBl1lJXzeOfRZbmBF/oXC`
+Snapshot ID: `AAAAAEwWqwnNsZW8VZ28BXxQHo5T18R2`

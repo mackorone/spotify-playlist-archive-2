@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 
 > el nombre lo dice todo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,546 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,539 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 72 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |
 | 73 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
 | 74 | [Oe Bebé](https://open.spotify.com/track/57pj5sOWSCAqZm088LMcE4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Oe Bebé](https://open.spotify.com/album/3L71xIS0NwOIMaM3OSWLPx) | 3:06 |
-| 75 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
-| 76 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
-| 77 | [Cuando Te Besé](https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cuando Te Besé](https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo) | 4:14 |
-| 78 | [FDSR](https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [FDSR](https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z) | 3:08 |
+| 75 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
+| 76 | [Cuando Te Besé](https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cuando Te Besé](https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo) | 4:14 |
+| 77 | [FDSR](https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [FDSR](https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z) | 3:08 |
+| 78 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 79 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 |
-| 80 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 |
-| 81 | [WHISKY A LA ROCA](https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [WHISKY A LA ROCA](https://open.spotify.com/album/4vBWyx2dQhl4dYSpbAXSu1) | 2:39 |
+| 80 | [WHISKY A LA ROCA](https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [WHISKY A LA ROCA](https://open.spotify.com/album/4vBWyx2dQhl4dYSpbAXSu1) | 2:39 |
+| 81 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 |
 | 82 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
 | 83 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
 | 84 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 99 | [EX ASS](https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [EX ASS](https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq) | 2:37 |
 | 100 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 
-Snapshot ID: `AAAAAFVFTBJcHU9iutJDXUbh93rVvQ34`
+Snapshot ID: `AAAAAMZXM97+S8wpANc8OCQNowod+ino`

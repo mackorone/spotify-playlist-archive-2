@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Kiridox",
+  "description": "The best new music by independent artists and labels. Cover: FUKHED",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -9276,6 +9276,24 @@
       "duration_ms": 145368,
       "name": "Body Electric",
       "url": "https://open.spotify.com/track/37gvXmRdis7kEdkPRlQtMM"
+    },
+    {
+      "album": {
+        "name": "Body High",
+        "url": "https://open.spotify.com/album/0isVqOoCVFGwy6lPzyqlMN"
+      },
+      "artists": [
+        {
+          "name": "Keiynan Lonsdale",
+          "url": "https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185419,
+      "name": "Body High",
+      "url": "https://open.spotify.com/track/4TZGjdR8oVk82jsYOR3YDk"
     },
     {
       "album": {
@@ -23707,6 +23725,24 @@
     },
     {
       "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "album": {
         "name": "EVERYTHING ON ME",
         "url": "https://open.spotify.com/album/213DkHPPrJw28gDZu1JeHQ"
       },
@@ -34041,6 +34077,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2wgQbZH7cfCVYdoSb7uKoA"
+      },
+      "artists": [
+        {
+          "name": "FUKHED",
+          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164043,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3CjP5YfkcjAwzN3leFXNex"
+    },
+    {
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/1UziPVwThn1bDCH7rt8ivr"
       },
@@ -42138,7 +42192,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 304248,
       "name": "LALELEI",
       "url": "https://open.spotify.com/track/0jXYE1zRcDLbrCOXWFgSA6"
@@ -44565,6 +44619,24 @@
     },
     {
       "album": {
+        "name": "Little Green Book",
+        "url": "https://open.spotify.com/album/1SVhqqDZ1g06L5GMsXKAvP"
+      },
+      "artists": [
+        {
+          "name": "Awning",
+          "url": "https://open.spotify.com/artist/0ySs34NhoHIwOa0LZymJDK"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Little Green Book",
+      "url": "https://open.spotify.com/track/6Qv9ShMC8XZOSNbUqMwGeq"
+    },
+    {
+      "album": {
         "name": "Little Sadness",
         "url": "https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0"
       },
@@ -45424,7 +45496,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 186857,
       "name": "lost",
       "url": "https://open.spotify.com/track/110127WJIyOYQOyik6DkQL"
@@ -46450,7 +46522,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 211318,
       "name": "Lucky Girl",
       "url": "https://open.spotify.com/track/3lyjX7e9TsT4Z564QnCQ5b"
@@ -47624,7 +47696,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196686,
       "name": "Massive (feat. Uffie)",
       "url": "https://open.spotify.com/track/53aykf6d6UVPFqpHeJxQIF"
@@ -53686,6 +53758,24 @@
       "duration_ms": 196198,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
+    },
+    {
+      "album": {
+        "name": "Nothing At All",
+        "url": "https://open.spotify.com/album/77IGm6I5iMKc9N7jp75ZlR"
+      },
+      "artists": [
+        {
+          "name": "Flag Duty",
+          "url": "https://open.spotify.com/artist/5XzzfBRySZItWaznYLxO8W"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246898,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/59wenG2uUFCwLW3b8pip7V"
     },
     {
       "album": {
@@ -61250,7 +61340,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 113388,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/4GsiP7CtrpFuq5KBcTBg4Y"
@@ -70776,6 +70866,24 @@
       "duration_ms": 222946,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/4F86e2zuC1tHOLjGEs6Yb0"
+    },
+    {
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/2jgKDsiyfzKhsbIyo7BLDe"
+      },
+      "artists": [
+        {
+          "name": "Abby Wallace",
+          "url": "https://open.spotify.com/artist/5wShZYkkd5GXqJJupCdKkc"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177614,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/6QWwqwQstzSHL9LWwYThA2"
     },
     {
       "album": {
@@ -80908,7 +81016,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 223769,
       "name": "Voodoo Jelly",
       "url": "https://open.spotify.com/track/5rIXx1kZviuKfLNvsGgPCj"

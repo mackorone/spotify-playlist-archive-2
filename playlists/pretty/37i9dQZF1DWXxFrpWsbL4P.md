@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Mahmut Orhan, Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,969 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,961 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [Vertigo](https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Vertigo](https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn) | 2:38 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAAIbq1t8pXAC6eadwgClBmh4+Dj75`
+Snapshot ID: `AAAAAHZT/Jy+lBLawejiQMQg1cETiGMZ`

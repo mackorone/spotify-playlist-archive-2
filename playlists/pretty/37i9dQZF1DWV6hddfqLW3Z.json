@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809807,
+  "num_followers": 809839,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXBzdFhsigUqEx7s8jpopftdwYo",
+  "snapshot_id": "AAAAALJ7e9GrVwzh2jtmZgKhoOso5qd7",
   "tracks": [
     {
       "added_at": "2026-08-07 02:23:08",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Todas Elas (Deluxe)",
+        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Todas Elas (Deluxe)",
-        "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Nada Mais",
-      "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Logo agora",
-        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Logo agora",
-      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
-      },
-      "artists": [
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
     },
     {
       "added_at": "2026-08-07 02:23:08",

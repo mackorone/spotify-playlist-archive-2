@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Saint Demarcus
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,184 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,208 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 48 | [18](https://open.spotify.com/track/0aIlxpfjlAbTqJEFKtaG8B) | [kyreece.](https://open.spotify.com/artist/1NoU9ZE9AIXVLSd7SmHf90), [josh english](https://open.spotify.com/artist/4kbWoW9lO6mHMgbevBvhMM) | [18](https://open.spotify.com/album/0K51hH34JEhnYPlwj49pHJ) | 2:56 |
 | 49 | [Step Up](https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Step Up](https://open.spotify.com/album/30XK7hgmO5AI6o8xlX7hyU) | 3:58 |
 
-Snapshot ID: `AAAAAO7UJa4bpB4cT3wGFMS8rVTGXsf9`
+Snapshot ID: `AAAAAOZJR3nSefa4+1nDat00gO9vqbr2`

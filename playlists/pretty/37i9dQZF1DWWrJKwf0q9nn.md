@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,555 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,561 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 104 | [Balearic Temptation](https://open.spotify.com/track/1AHldgWALv2PLPOLhxyTlM) | [SUPERSTRINGS](https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz) | [Balearic Temptation](https://open.spotify.com/album/1U5Ddqk1v2EsHHh2w7KkFP) | 3:23 |
 | 105 | [Make Mi Move](https://open.spotify.com/track/547OzCyHq7fsgfutu0gIQ8) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [ED\_PRJCT](https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR) | [Make Mi Move](https://open.spotify.com/album/2dmZZFNwv5WCA9C9g3uU12) | 1:51 |
 
-Snapshot ID: `AAAAAAVZuC7sLh87w46nR3KiOaGRLPxo`
+Snapshot ID: `AAAAAJlnHUWw8gDVGCJ3hObQ9XVZDgbc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。なとり, Eve, RADWIMPS, imase,  Victoria Monét and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,867 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,872 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 80 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 81 | [Measuring Cup](https://open.spotify.com/track/3FofSe2OagYmG6tN7BrcWr) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Measuring Cup](https://open.spotify.com/album/3g9mAIsoPSq3zoYsbXB8Zg) | 3:21 |
 
-Snapshot ID: `AAAAAGOty27XOaFt09uTcySpZJLNo5T5`
+Snapshot ID: `AAAAANoFNbP+4HJXYdbVJvDLb3GwsQkV`

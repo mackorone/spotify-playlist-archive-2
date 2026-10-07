@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,409 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,571,687 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 |
 | 50 | [Enigma](https://open.spotify.com/track/6EXYmo6wuxDey1qBV4WbJW) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:01 |
 
-Snapshot ID: `AAAAAM2jIE3QoLrMZH/gfbw4LZbTXg0m`
+Snapshot ID: `AAAAANsx7ONw9p985C9/s8afW6IirVEq`

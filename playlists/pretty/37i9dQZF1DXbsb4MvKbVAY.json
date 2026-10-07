@@ -1,12 +1,12 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26656,
+  "num_followers": 26655,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVbAFyJNHqVpdOOlBe41UrH1zeh",
+  "snapshot_id": "AAAAAJH7SXn5NEM9fH7M1whGo29DUWwB",
   "tracks": [
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+        "name": "Bier over hier",
+        "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
       },
       "artists": [
         {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        },
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
         }
       ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+      "duration_ms": 179122,
+      "name": "Bier over hier",
+      "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Bier over hier",
-        "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
       },
       "artists": [
         {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
-        },
-        {
-          "name": "Teflon Brothers",
-          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
         }
       ],
-      "duration_ms": 179122,
-      "name": "Bier over hier",
-      "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
     },
     {
       "added_at": "2026-05-08 04:10:15",

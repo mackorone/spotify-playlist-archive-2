@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia.",
-  "num_followers": 38910,
+  "num_followers": 38921,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKvJEMY5R+B0LLZ3lcyWEjCPhmvW",
+  "snapshot_id": "AAAAAMZAer13Qy1tjUSfKcVGORMhkaK9",
   "tracks": [
     {
       "added_at": "2026-10-05 11:03:47",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-05 11:03:47",
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2026-10-05 11:03:47",
+      "album": {
         "name": "FREAKED OUT",
         "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 158117,
       "name": "FREAKED OUT",
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
-    },
-    {
-      "added_at": "2026-10-05 11:03:47",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2026-10-05 11:03:47",

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,062 songs - 2 day 3 hr 3 min
+1,063 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-07-14 | 2024-06-28 |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-02-11 | 2022-08-19 |
 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 |  |
-| [ANGELINA](https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [ANGELINA](https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P) | 2:34 | 2026-08-28 |  |
+| [ANGELINA](https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [ANGELINA](https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P) | 2:34 | 2026-08-28 | 2026-10-07 |
 | [ANGELS](https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ANGELS](https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM) | 3:04 | 2026-02-13 |  |
 | [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 | 2024-06-21 | 2024-07-13 |
 | [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 | 2026-03-06 | 2026-08-01 |
@@ -761,6 +761,7 @@
 | [Pain Killer](https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Pain Killer](https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc) | 2:52 | 2026-04-29 | 2026-05-08 |
 | [Palava](https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Palava](https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW) | 2:35 | 2024-05-17 | 2024-10-05 |
 | [Palava](https://open.spotify.com/track/6kU4OVA6mZSf2F96AZENLl) | [Tare](https://open.spotify.com/artist/4irQLCbxmJR86MUWBtPmjX) | [Palava](https://open.spotify.com/album/0lawMONFPfgNySfYEKv1Mf) | 2:07 | 2025-03-31 | 2025-04-12 |
+| [Pami](https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Pami](https://open.spotify.com/album/647NndPt3TbMUYlTojxes9) | 3:06 | 2026-10-02 |  |
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-02-11 | 2024-02-16 |
 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 | 2023-10-27 | 2024-03-09 |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-03-31 | 2025-08-26 |

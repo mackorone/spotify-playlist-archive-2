@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 607592,
+  "num_followers": 607588,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvYEssyqz1LYI64nax421p4Soev",
+  "snapshot_id": "AAAAAP4aZrZ9z9jItUSZ9n8AbbSMr9T1",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:29",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
         "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Charlotte de Witte & Enrico Sangiuliano Remix - Edit]",
         "url": "https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 489480,
       "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
       "url": "https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Tarantella",
-        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 145553,
-      "name": "Tarantella",
-      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -811,6 +811,30 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
+        "name": "Spring VIP",
+        "url": "https://open.spotify.com/album/2oOrAtdzUtg2UCXlEzzn3u"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "Spring VIP",
+      "url": "https://open.spotify.com/track/6W2Otw9em8mMhoWsOcE05m"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -843,26 +867,22 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "Spring VIP",
-        "url": "https://open.spotify.com/album/2oOrAtdzUtg2UCXlEzzn3u"
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
       "artists": [
         {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         },
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Natte Visstick",
-          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Spring VIP",
-      "url": "https://open.spotify.com/track/6W2Otw9em8mMhoWsOcE05m"
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -883,26 +903,6 @@
       "duration_ms": 226064,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         }
       ],
-      "duration_ms": 257571,
-      "name": "drift away",
-      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
+      "duration_ms": 185437,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 185437,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
+        "name": "FULL POWER",
+        "url": "https://open.spotify.com/album/36RDtwdFZp3c1E7yZ74QzD"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        },
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "FULL POWER",
+      "url": "https://open.spotify.com/track/1lVOsllJHEsO9YIfzAaCmm"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "FULL POWER",
-        "url": "https://open.spotify.com/album/36RDtwdFZp3c1E7yZ74QzD"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        },
-        {
-          "name": "Gonzi",
-          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "FULL POWER",
-      "url": "https://open.spotify.com/track/1lVOsllJHEsO9YIfzAaCmm"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
+        "name": "New Bass New Kick",
+        "url": "https://open.spotify.com/album/20S0A1VJ47VjPI6ifA3r8l"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "New Bass New Kick",
+      "url": "https://open.spotify.com/track/0pNuOeCk1z0BpRWVWlglIm"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
         "name": "Cry Me A River",
         "url": "https://open.spotify.com/album/787wOdRfborzV1kmoOSiou"
       },
@@ -1551,26 +1571,6 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "New Bass New Kick",
-        "url": "https://open.spotify.com/album/20S0A1VJ47VjPI6ifA3r8l"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "New Bass New Kick",
-      "url": "https://open.spotify.com/track/0pNuOeCk1z0BpRWVWlglIm"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
       },
@@ -1587,90 +1587,6 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 228175,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Let Loose",
-        "url": "https://open.spotify.com/album/6BvywdNBwlvmgf4l1TZLXv"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "DJ Jock",
-          "url": "https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "Let Loose",
-      "url": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Beethoven's Aria F\u00fcr Elise",
-        "url": "https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 149577,
-      "name": "Beethoven's Aria F\u00fcr Elise",
-      "url": "https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv"
-    },
-    {
-      "added_at": "2026-10-02 04:01:29",
-      "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 227091,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -1699,22 +1615,86 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+      "duration_ms": 228175,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
+        "name": "Beethoven's Aria F\u00fcr Elise",
+        "url": "https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 149577,
+      "name": "Beethoven's Aria F\u00fcr Elise",
+      "url": "https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
+        "name": "Let Loose",
+        "url": "https://open.spotify.com/album/6BvywdNBwlvmgf4l1TZLXv"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "DJ Jock",
+          "url": "https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL"
+        }
+      ],
+      "duration_ms": 194307,
+      "name": "Let Loose",
+      "url": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -1739,6 +1719,26 @@
       "duration_ms": 168124,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "added_at": "2026-10-02 04:01:29",
+      "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2026-10-02 04:01:29",
@@ -1995,26 +1995,18 @@
     {
       "added_at": "2026-10-02 04:01:29",
       "album": {
-        "name": "Party So Hard",
-        "url": "https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa"
+        "name": "Bounce Like That",
+        "url": "https://open.spotify.com/album/2x3EqTw9pWYRZn88Kx9rJy"
       },
       "artists": [
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 175862,
-      "name": "Party So Hard",
-      "url": "https://open.spotify.com/track/4cVy5JeJst4DxracwylORB"
+      "duration_ms": 171034,
+      "name": "Bounce Like That",
+      "url": "https://open.spotify.com/track/4vxyrMlFHBmIFHEHwgcRqR"
     }
   ],
   "unique_name": "techno party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 
 > <a href="spotify:artist:1vK8NnrPlBlF34LaiFX1SK">Funk Tribu</a>'s favorite tracks\. Updated regularly\. Curated by Funk Tribu\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,371 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,385 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 14 | [Mirage](https://open.spotify.com/track/1i540ZyWMJx2Vl1Yp1QIeT) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Edo](https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz) | [Mirage](https://open.spotify.com/album/7egq2tb6BOCvwJef9xmnP6) | 2:51 |
 | 15 | [Plan A](https://open.spotify.com/track/2xbtpj9HHtkyhdAZU48Cwk) | [Dr\. G](https://open.spotify.com/artist/10zNCwN4XdqbTsXa5diYB1) | [Plan A](https://open.spotify.com/album/5bPhqss7y6ILwY6IsgVhh8) | 4:00 |
 | 16 | [Music Never Lies](https://open.spotify.com/track/03L7OZovsBbQmCGMf4t8K4) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Music Never Lies](https://open.spotify.com/album/3fWCoe1RSvMYN1CvFc7SSQ) | 4:09 |
-| 17 | [Some Love \- Radio Edit](https://open.spotify.com/track/3wCMlY6zSW2a678kuPUau2) | [NYCO](https://open.spotify.com/artist/6qGPRvyYVYsn8CuD9kX2jP) | [Some Love \(Radio Edit\)](https://open.spotify.com/album/6Lz1K2ILGmvRAwMzZzE6qm) | 3:33 |
+| 17 | [Some Love](https://open.spotify.com/track/3wCMlY6zSW2a678kuPUau2) | [NYCO](https://open.spotify.com/artist/6qGPRvyYVYsn8CuD9kX2jP) | [Some Love](https://open.spotify.com/album/6Lz1K2ILGmvRAwMzZzE6qm) | 3:33 |
 | 18 | [TILL SUNRISE](https://open.spotify.com/track/7htDlLhODIHMyyQ7lFVU0D) | [JOR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG) | [TILL SUNRISE](https://open.spotify.com/album/26LSStUBJ6ZOCQRh382X2o) | 3:16 |
 | 19 | [Dream](https://open.spotify.com/track/6nLv6va3AA5Z4GH6opBeF2) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU), [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc) | [Dream](https://open.spotify.com/album/0GjbpRNbJmbehBuLiDMxC0) | 3:35 |
 | 20 | [Free Yourself](https://open.spotify.com/track/38tYYlgY6fD6HxgnuzdHbi) | [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK), [Sticky Pages](https://open.spotify.com/artist/6a7mnPPLyHvBAoKEsb7C0O) | [Free Yourself](https://open.spotify.com/album/2oQsVMOIotQEdm5fhdruUj) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 49 | [Open Up](https://open.spotify.com/track/2icjWtipYEpv3S9btEt7sP) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz) | [Open Up](https://open.spotify.com/album/2NHzWZV9nGHyOfUSixNwzC) | 3:09 |
 | 50 | [All I Need](https://open.spotify.com/track/6LcObOqDJdQxkP1qrBk3R0) | [Edo](https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz), [THŪR](https://open.spotify.com/artist/6D0RHeCz6cDV1dE2fSyPQp) | [All I Need](https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ) | 3:23 |
 
-Snapshot ID: `AAAAACX+sDu4HUygSuatPl3WVyDwtEFu`
+Snapshot ID: `AAAAADYjHv7j2uZ0J+u6WY3ptSdHz1TC`

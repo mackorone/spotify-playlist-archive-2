@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 370897,
+  "num_followers": 370904,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGKPMvDIhxlD/ILBdININDq0ZlP",
+  "snapshot_id": "AAAAAFj/F3+PhrXfIo6aMsb3Db2edotY",
   "tracks": [
     {
       "added_at": "2026-04-09 11:21:32",
@@ -231,18 +231,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 137746,
-      "name": "In the Chair",
-      "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
       "added_at": "2026-04-09 11:21:32",
@@ -267,22 +271,18 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
-        "name": "Need it Bad (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
       "artists": [
         {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 187096,
-      "name": "Need it Bad (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+      "duration_ms": 137746,
+      "name": "In the Chair",
+      "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
     },
     {
       "added_at": "2026-04-09 11:21:32",
@@ -323,18 +323,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+      "duration_ms": 187058,
+      "name": "Smoke (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP"
     },
     {
       "added_at": "2026-04-09 11:21:32",
@@ -359,22 +363,18 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 187058,
-      "name": "Smoke (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP"
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2026-04-09 11:21:32",

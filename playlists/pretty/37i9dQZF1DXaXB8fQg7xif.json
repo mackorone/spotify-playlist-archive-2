@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9244410,
+  "num_followers": 9244546,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADfov/sEFXK/xQasX5YDy5bte7A",
+  "snapshot_id": "AAAAAOTH+qBY07awxNqphiwA7zs6QV3P",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:44",
@@ -715,6 +715,42 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "Symphony (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/532L1zk5VJqGtRQLRFiVod"
       },
@@ -743,42 +779,6 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "Symphony (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Can I Ride",
         "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 163888,
       "name": "Can I Ride",
       "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Silence (John Summit Remix)",
         "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 274736,
       "name": "Silence - John Summit Remix",
       "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "In This Bih'",
-        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "In This Bih'",
-      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
       },
       "artists": [
         {
           "name": "FISHER",
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
       "artists": [
         {
           "name": "FISHER",
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1595,6 +1595,34 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Good Boys (Hide Away)",
         "url": "https://open.spotify.com/album/3cokKTJIpTa4fJvKz8Fv3u"
       },
@@ -1627,34 +1655,6 @@
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 129302,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "BREAD",
+        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 192856,
+      "name": "Woof (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Coming Up (It\u2019s Dare)",
         "url": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 180895,
       "name": "Coming Up (It\u2019s Dare)",
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "BREAD",
-        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 192856,
-      "name": "Woof (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "COOK",
+        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 170243,
+      "name": "COOK",
+      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 184085,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "COOK",
-        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 170243,
-      "name": "COOK",
-      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Music is Better",
-        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "TESLA",
         "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 186818,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Music is Better",
+        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "Music is Better",
+      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 233734,
       "name": "NO CAP",
       "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 177600,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Campe\u00f3n",
-        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 173777,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 171162,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "duration_ms": 173777,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
     },
     {
       "added_at": "2026-10-02 04:02:44",

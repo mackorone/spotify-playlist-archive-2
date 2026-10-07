@@ -1,29 +1,13 @@
 {
   "description": "All your favorite Minecraft tracks in one essential playlist \u2013 with music from every game, remixes, and more!",
-  "num_followers": 281203,
+  "num_followers": 281449,
   "original_name": "Minecraft Essentials ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGhLTj4EwYPK1RKHrlCx+MTv0A4",
+  "snapshot_id": "AAAAAL6bVb8jqdiVasfTrzQiBuN+EE/z",
   "tracks": [
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Sweden",
-      "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
-    },
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
@@ -45,6 +29,26 @@
       "url": "https://open.spotify.com/track/3Vkyy6CB4UDEvFncUBc53z"
     },
     {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Chase the Skies (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/432UYeCDyZIKh9TyBThLxP"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Amos Roddy",
+          "url": "https://open.spotify.com/artist/7MCJftC3hnkmL0SS7KiDwm"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Lilypad",
+      "url": "https://open.spotify.com/track/1fssGtCqrkCwDUVZ5tJTEq"
+    },
+    {
       "added_at": "2024-09-13 15:00:00",
       "album": {
         "name": "Minecraft: Pixel Genesis",
@@ -63,22 +67,6 @@
       "duration_ms": 214838,
       "name": "Featherfall (Hyper Potions Remix)",
       "url": "https://open.spotify.com/track/5Fn5OYxUqxQVGRYY3o9EJS"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Minecraft",
-      "url": "https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -116,105 +104,49 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 312278,
-      "name": "Bromeliad",
-      "url": "https://open.spotify.com/track/0MovR332DWcrStqsU1TdUQ"
+      "duration_ms": 296183,
+      "name": "Echo in the Wind",
+      "url": "https://open.spotify.com/track/69313Y4puazeLhvvG3qMf9"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
+        "name": "Minecraft Dungeons II (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5"
       },
       "artists": [
-        {
-          "name": "Kumi Tanioka",
-          "url": "https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B"
-        },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 287647,
-      "name": "komorebi",
-      "url": "https://open.spotify.com/track/04AvGqDoXoHO9pBw9xa9Sn"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Aria Math",
-      "url": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Caves & Cliffs (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
         },
+        {
+          "name": "Peter Hont",
+          "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/71FpZ5k0f8wMf6HY6jmodV"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Chaos Cubed (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7qP2RO8Zm1u47l8pbgtU25"
+      },
+      "artists": [
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 342960,
-      "name": "Left to Bloom",
-      "url": "https://open.spotify.com/track/3xQTOq9Cr59SREne25OT1D"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: The Wild Update (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/78Q3kP5fUZWmx47nHEZP5W"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
         },
         {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+          "name": "fingerspit",
+          "url": "https://open.spotify.com/artist/0bKtV7eOLdtkULTDUeqjny"
         }
       ],
-      "duration_ms": 296786,
-      "name": "Aerie",
-      "url": "https://open.spotify.com/track/0eCyLXuQvl6P09iymEGTXS"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Caves & Cliffs (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 195272,
-      "name": "otherside",
-      "url": "https://open.spotify.com/track/4PtJNlcpEGyNAkYy44m5fI"
+      "duration_ms": 245294,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1U0R5wcfDxjWgk6Bqz5rhd"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -232,49 +164,65 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 344080,
-      "name": "Featherfall",
-      "url": "https://open.spotify.com/track/48sAmGJGCdhQXbveYWbZKT"
+      "duration_ms": 332146,
+      "name": "Watcher",
+      "url": "https://open.spotify.com/track/2xwQlK7rAWi4WJ7PU470rc"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft Dungeons (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6"
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/1TtdtRpeNYliHviOnhWdL7"
       },
       "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Minecraft",
+      "url": "https://open.spotify.com/track/4iXkhdO1s4x1aleZNowIJ0"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Soothing Farm Morning",
+        "url": "https://open.spotify.com/album/6TkQwY9Y1ysw5St3fTVezF"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 169428,
+      "name": "Infinite Amethyst (Andrew Prahlow Remix)",
+      "url": "https://open.spotify.com/track/2k0HDviusEVgD94HN5bKuD"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Dungeons II (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
         {
           "name": "Peter Hont",
           "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Dalarna",
-      "url": "https://open.spotify.com/track/58ZLhxCjVDRruqfqiQWjad"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Pixel Genesis",
-        "url": "https://open.spotify.com/album/3pv30z3VATTE260rWIhWdE"
-      },
-      "artists": [
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        },
-        {
-          "name": "Synthion",
-          "url": "https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO"
-        }
-      ],
-      "duration_ms": 228900,
-      "name": "pokopoko (Synthion Remix)",
-      "url": "https://open.spotify.com/track/6vuJmUnxKJjhDI0V8mJwpG"
+      "duration_ms": 613000,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/22iY2ZC0o945G7QKpmFQT7"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -299,6 +247,106 @@
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
+        "name": "Minecraft Dungeons (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6"
+      },
+      "artists": [
+        {
+          "name": "Peter Hont",
+          "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dalarna",
+      "url": "https://open.spotify.com/track/58ZLhxCjVDRruqfqiQWjad"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Caves & Cliffs (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 342960,
+      "name": "Left to Bloom",
+      "url": "https://open.spotify.com/track/3xQTOq9Cr59SREne25OT1D"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Chaos Cubed (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7qP2RO8Zm1u47l8pbgtU25"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "fingerspit",
+          "url": "https://open.spotify.com/artist/0bKtV7eOLdtkULTDUeqjny"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1vyBIn7AUZrr184Pdzwcxr"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Chase the Skies (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/432UYeCDyZIKh9TyBThLxP"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Amos Roddy",
+          "url": "https://open.spotify.com/artist/7MCJftC3hnkmL0SS7KiDwm"
+        }
+      ],
+      "duration_ms": 175122,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/37Bx2hUjIOvcNwHRpQhquo"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Chase the Skies (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/432UYeCDyZIKh9TyBThLxP"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Amos Roddy",
+          "url": "https://open.spotify.com/artist/7MCJftC3hnkmL0SS7KiDwm"
+        }
+      ],
+      "duration_ms": 155541,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1o4B46hdhtBzwHamqUKsiQ"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
         "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
       },
@@ -312,29 +360,25 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 332146,
-      "name": "Watcher",
-      "url": "https://open.spotify.com/track/2xwQlK7rAWi4WJ7PU470rc"
+      "duration_ms": 344080,
+      "name": "Featherfall",
+      "url": "https://open.spotify.com/track/48sAmGJGCdhQXbveYWbZKT"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft Legends (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5fTzK9nv1mgYZ0R2KuE7M2"
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/1TtdtRpeNYliHviOnhWdL7"
       },
       "artists": [
         {
-          "name": "Crispin Hands",
-          "url": "https://open.spotify.com/artist/56nzZUBPVXWl7u4wkcZ6xu"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         }
       ],
-      "duration_ms": 126424,
-      "name": "A Time of Legends",
-      "url": "https://open.spotify.com/track/779AAj3CIPLV5ruM17XV6u"
+      "duration_ms": 208562,
+      "name": "Subwoofer Lullaby",
+      "url": "https://open.spotify.com/track/2hLRXbh7TwezpksciMibG1"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -352,49 +396,29 @@
           "url": "https://open.spotify.com/artist/2AuO7oIWRt96rwS6bd526s"
         }
       ],
-      "duration_ms": 222608,
-      "name": "Relic - Monolism Remix",
-      "url": "https://open.spotify.com/track/2VKEqdOVYDbiTOUtFg2bV4"
+      "duration_ms": 261875,
+      "name": "Echo in the Wind - Monolism Remix",
+      "url": "https://open.spotify.com/track/6AmTatHKKf3EjPiyxfAFJ9"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
+        "name": "Minecraft: Soothing Farm Morning",
+        "url": "https://open.spotify.com/album/6TkQwY9Y1ysw5St3fTVezF"
       },
       "artists": [
         {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
-        },
-        {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 296546,
-      "name": "Eld Unknown",
-      "url": "https://open.spotify.com/track/0AwarYB7xRzgQofzOsUnMf"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: The Wild Update (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/78Q3kP5fUZWmx47nHEZP5W"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
         },
         {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
         }
       ],
-      "duration_ms": 312720,
-      "name": "Firebugs",
-      "url": "https://open.spotify.com/track/4BmywAVIr3B5wzoExUS8j9"
+      "duration_ms": 192000,
+      "name": "Comforting Memories (Andrew Prahlow Remix)",
+      "url": "https://open.spotify.com/track/1hy92yrghqkfU3ulqNUBkK"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -417,10 +441,10 @@
       "url": "https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft: Pixel Genesis",
-        "url": "https://open.spotify.com/album/3pv30z3VATTE260rWIhWdE"
+        "name": "Minecraft: Triple Bundle",
+        "url": "https://open.spotify.com/album/4MeOJ7kvbfDWssC3kUc8T5"
       },
       "artists": [
         {
@@ -428,95 +452,39 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         },
         {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
         }
       ],
-      "duration_ms": 209700,
-      "name": "Endless (Anamanaguchi Remix)",
-      "url": "https://open.spotify.com/track/3nHqy0h4RuUmTNog5nVeiT"
+      "duration_ms": 222352,
+      "name": "Arch-Illager's Pigstep",
+      "url": "https://open.spotify.com/track/4oz9oCfHStGbOKf83MvKTf"
     },
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
-        "name": "Minecraft: Trails & Tales (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/708Ojw1mw3m2ntjw6OJJzv"
+        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
       },
       "artists": [
         {
-          "name": "Aaron Cherof",
-          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
+          "name": "Kumi Tanioka",
+          "url": "https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B"
         },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 296183,
-      "name": "Echo in the Wind",
-      "url": "https://open.spotify.com/track/69313Y4puazeLhvvG3qMf9"
+      "duration_ms": 287647,
+      "name": "komorebi",
+      "url": "https://open.spotify.com/track/04AvGqDoXoHO9pBw9xa9Sn"
     },
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
-        "name": "Minecraft: Trails & Tales (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/708Ojw1mw3m2ntjw6OJJzv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cherof",
-          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 218966,
-      "name": "Relic",
-      "url": "https://open.spotify.com/track/2p7THMcCrDvFLiSfBRyXav"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 208562,
-      "name": "Subwoofer Lullaby",
-      "url": "https://open.spotify.com/track/1OJxI8lIWRqBvouJxW1nzN"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Soothing Synths (Monolism Remix)",
-        "url": "https://open.spotify.com/album/7v8EmC6mQqxivblkV3SXWc"
-      },
-      "artists": [
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        },
-        {
-          "name": "Monolism",
-          "url": "https://open.spotify.com/artist/2AuO7oIWRt96rwS6bd526s"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Crescent Dunes - Monolism Remix",
-      "url": "https://open.spotify.com/track/26G7205IidBd9K3BAM9y5P"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Nether Update (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz"
+        "name": "Minecraft: Caves & Cliffs (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb"
       },
       "artists": [
         {
@@ -528,145 +496,49 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 312020,
-      "name": "Rubedo",
-      "url": "https://open.spotify.com/track/4WSFiuuHYaWI8ZonADPKPX"
+      "duration_ms": 195272,
+      "name": "otherside",
+      "url": "https://open.spotify.com/track/4PtJNlcpEGyNAkYy44m5fI"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft: Battle & Tumble (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/17T3bbZXPaGaKKQfDPTDhc"
+        "name": "Minecraft: Lava Chicken (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/41A9LlTh3wWwS4JjolfaBZ"
       },
       "artists": [
-        {
-          "name": "Gareth Coker",
-          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
-        },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
         }
       ],
-      "duration_ms": 74623,
-      "name": "Double Time (Tumble)",
-      "url": "https://open.spotify.com/track/4Hbh0oYptAz35Qqo8SDScJ"
+      "duration_ms": 134522,
+      "name": "Minecraft: Lava Chicken - Original Game Soundtrack",
+      "url": "https://open.spotify.com/track/6iCoY53P4R77dumdFyic9H"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft Earth (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU"
+        "name": "Minecraft: Pixel Drift",
+        "url": "https://open.spotify.com/album/2pxMW4xQhzJC0ALh48IWBG"
       },
       "artists": [
-        {
-          "name": "Shauny Jang",
-          "url": "https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk"
-        },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 347865,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/4pf40ltrCNfApfd9YRDhJT"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Stal",
-      "url": "https://open.spotify.com/track/3YJtGYHVxcUa6EMSqHtIiW"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Nether Update (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
         },
         {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+          "name": "floopy",
+          "url": "https://open.spotify.com/artist/5kHm3FQ8SPLMxFFF4ZSzle"
         }
       ],
-      "duration_ms": 149647,
-      "name": "Pigstep - Stereo Mix",
-      "url": "https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft Dungeons: Tranquil Beats (Lo-Fi Remix)",
-        "url": "https://open.spotify.com/album/7IcYdgj5w1DOQu4n1pSLE9"
-      },
-      "artists": [
-        {
-          "name": "ptr",
-          "url": "https://open.spotify.com/artist/53cPZIVFwhgobBrkhNvoEp"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dalarna - Lo-Fi Remix",
-      "url": "https://open.spotify.com/track/5U8XhGEfeODAZmdFKndnH2"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft Legends: Laid Back Lutes (Remix)",
-        "url": "https://open.spotify.com/album/1W3p6A4DmsN7JKbNlgOTtT"
-      },
-      "artists": [
-        {
-          "name": "Hendric Buenck",
-          "url": "https://open.spotify.com/artist/0D9zFTdnsmNzQIwc1DsjL7"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "The Well of Fate - Remix",
-      "url": "https://open.spotify.com/track/0aOO24SizFnLfcAt7QFH2i"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft Dungeons (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6"
-      },
-      "artists": [
-        {
-          "name": "Johan Johnson",
-          "url": "https://open.spotify.com/artist/5M04wavkDSzPpqAzFMAjD2"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 296811,
-      "name": "Halland",
-      "url": "https://open.spotify.com/track/6XJ97eSwNCemvmereo9LyB"
+      "duration_ms": 199862,
+      "name": "Bromeliad (floopy Remix)",
+      "url": "https://open.spotify.com/track/4M37KpuOIvOOBn5MKC5XFV"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -691,26 +563,174 @@
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
-        "name": "Minecraft Live: 2023 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0OkCE6IzRDWHMLoGBMTOt0"
+        "name": "Minecraft: Pixel Genesis",
+        "url": "https://open.spotify.com/album/3pv30z3VATTE260rWIhWdE"
       },
       "artists": [
         {
-          "name": "Camilo Forero",
-          "url": "https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55"
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         },
         {
-          "name": "Joseph S. Djafar",
-          "url": "https://open.spotify.com/artist/0eJM64RzvwVyOng2QwN8xd"
+          "name": "Synthion",
+          "url": "https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO"
+        }
+      ],
+      "duration_ms": 228900,
+      "name": "pokopoko (Synthion Remix)",
+      "url": "https://open.spotify.com/track/6vuJmUnxKJjhDI0V8mJwpG"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Battle & Tumble (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/17T3bbZXPaGaKKQfDPTDhc"
+      },
+      "artists": [
+        {
+          "name": "Gareth Coker",
+          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
         },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 67907,
-      "name": "Closing",
-      "url": "https://open.spotify.com/track/2bMq6QMOqpAAtfndP1pgwp"
+      "duration_ms": 74623,
+      "name": "Double Time (Tumble)",
+      "url": "https://open.spotify.com/track/4Hbh0oYptAz35Qqo8SDScJ"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Nether Update (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 312020,
+      "name": "Rubedo",
+      "url": "https://open.spotify.com/track/4WSFiuuHYaWI8ZonADPKPX"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Ballad of the Cats",
+      "url": "https://open.spotify.com/track/2aPa9IkWu2Fj3SK37Gp0j9"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Nether Update (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Pigstep - Stereo Mix",
+      "url": "https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Aria Math",
+      "url": "https://open.spotify.com/track/6VK8OMA2FhX4KoS3QCH7rL"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 402146,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0YLfoTo7oaCDSXjrGwc3cg"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: The Wild Update (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/78Q3kP5fUZWmx47nHEZP5W"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 296786,
+      "name": "Aerie",
+      "url": "https://open.spotify.com/track/0eCyLXuQvl6P09iymEGTXS"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 296546,
+      "name": "Eld Unknown",
+      "url": "https://open.spotify.com/track/0AwarYB7xRzgQofzOsUnMf"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -733,6 +753,126 @@
       "url": "https://open.spotify.com/track/2j92JODxjad41lGsb3IBBp"
     },
     {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Dungeons II (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Peter Hont",
+          "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Deep Dark Surface",
+      "url": "https://open.spotify.com/track/1iZwoeSetYIBsw0KQztI6m"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: The Wild Update (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/78Q3kP5fUZWmx47nHEZP5W"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 312720,
+      "name": "Firebugs",
+      "url": "https://open.spotify.com/track/4BmywAVIr3B5wzoExUS8j9"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Trails & Tales (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/708Ojw1mw3m2ntjw6OJJzv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cherof",
+          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 312278,
+      "name": "Bromeliad",
+      "url": "https://open.spotify.com/track/0MovR332DWcrStqsU1TdUQ"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Legends (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fTzK9nv1mgYZ0R2KuE7M2"
+      },
+      "artists": [
+        {
+          "name": "Crispin Hands",
+          "url": "https://open.spotify.com/artist/56nzZUBPVXWl7u4wkcZ6xu"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 126424,
+      "name": "A Time of Legends",
+      "url": "https://open.spotify.com/track/779AAj3CIPLV5ruM17XV6u"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Steve Rocks the Block (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1NBNe9H8AfrB865chwZUMH"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "ACE",
+          "url": "https://open.spotify.com/artist/7apzTVSR1R8TEx0YQL3qS6"
+        }
+      ],
+      "duration_ms": 167148,
+      "name": "Halland / Dalarna - ACE - TOMOri Kudo / CHiCO Remix",
+      "url": "https://open.spotify.com/track/4s55GHs8CI5p73zUbUl45m"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Trails & Tales (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/708Ojw1mw3m2ntjw6OJJzv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cherof",
+          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 218966,
+      "name": "Relic",
+      "url": "https://open.spotify.com/track/2p7THMcCrDvFLiSfBRyXav"
+    },
+    {
       "added_at": "2024-09-13 15:00:00",
       "album": {
         "name": "Minecraft Dungeons: Echoing Void (Original Game Soundtrack)",
@@ -751,6 +891,302 @@
       "duration_ms": 173395,
       "name": "Broken Heart of Ender",
       "url": "https://open.spotify.com/track/0lrpVaHIT5PnPVRvkNdOg4"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cherof",
+          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 299653,
+      "name": "Precipice",
+      "url": "https://open.spotify.com/track/2I3SfDBpiBZjAqYm547JF3"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Soothing Synths (Monolism Remix)",
+        "url": "https://open.spotify.com/album/7v8EmC6mQqxivblkV3SXWc"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Monolism",
+          "url": "https://open.spotify.com/artist/2AuO7oIWRt96rwS6bd526s"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Crescent Dunes - Monolism Remix",
+      "url": "https://open.spotify.com/track/26G7205IidBd9K3BAM9y5P"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Legends: Laid Back Lutes (Remix)",
+        "url": "https://open.spotify.com/album/1W3p6A4DmsN7JKbNlgOTtT"
+      },
+      "artists": [
+        {
+          "name": "Hendric Buenck",
+          "url": "https://open.spotify.com/artist/0D9zFTdnsmNzQIwc1DsjL7"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "The Well of Fate - Remix",
+      "url": "https://open.spotify.com/track/0aOO24SizFnLfcAt7QFH2i"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Pixel Drift",
+        "url": "https://open.spotify.com/album/2pxMW4xQhzJC0ALh48IWBG"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "meganeko",
+          "url": "https://open.spotify.com/artist/5tXUIbGjW1uqXoy8cPW8MB"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Labyrinthine (meganeko Remix)",
+      "url": "https://open.spotify.com/track/5Vp5j1tnWHIxzY9rYaJOKs"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: The Garden Awakens",
+        "url": "https://open.spotify.com/album/6WgVqbzckqwvKBUczpAL07"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Jukio Kallio",
+          "url": "https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq"
+        }
+      ],
+      "duration_ms": 292050,
+      "name": "Infinite Spooky Amethyst",
+      "url": "https://open.spotify.com/track/7B0uQ1fIjxvDTsicgR9QJS"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft x Sonic Racing: CrossWorlds (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ciNS7T9cGQ8LR5Uce4lNZ"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Takahiro Kai",
+          "url": "https://open.spotify.com/artist/14Owm2HFlAogFk0QLcEiKC"
+        }
+      ],
+      "duration_ms": 137741,
+      "name": "Overworld Track",
+      "url": "https://open.spotify.com/track/5tTx3A747kW9BQ8aQRTpfW"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Dungeons (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6"
+      },
+      "artists": [
+        {
+          "name": "Johan Johnson",
+          "url": "https://open.spotify.com/artist/5M04wavkDSzPpqAzFMAjD2"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 296811,
+      "name": "Halland",
+      "url": "https://open.spotify.com/track/6XJ97eSwNCemvmereo9LyB"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Dungeons: Tranquil Beats (Lo-Fi Remix)",
+        "url": "https://open.spotify.com/album/7IcYdgj5w1DOQu4n1pSLE9"
+      },
+      "artists": [
+        {
+          "name": "ptr",
+          "url": "https://open.spotify.com/artist/53cPZIVFwhgobBrkhNvoEp"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dalarna - Lo-Fi Remix",
+      "url": "https://open.spotify.com/track/5U8XhGEfeODAZmdFKndnH2"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Pixel Genesis",
+        "url": "https://open.spotify.com/album/3pv30z3VATTE260rWIhWdE"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Anamanaguchi",
+          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+        }
+      ],
+      "duration_ms": 209700,
+      "name": "Endless (Anamanaguchi Remix)",
+      "url": "https://open.spotify.com/track/3nHqy0h4RuUmTNog5nVeiT"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft: Soothing Synths (Monolism Remix)",
+        "url": "https://open.spotify.com/album/7v8EmC6mQqxivblkV3SXWc"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Monolism",
+          "url": "https://open.spotify.com/artist/2AuO7oIWRt96rwS6bd526s"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Relic - Monolism Remix",
+      "url": "https://open.spotify.com/track/2VKEqdOVYDbiTOUtFg2bV4"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Live: September 2025 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0hleQRmiV1yhavxxn6zVyZ"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Camilo Forero",
+          "url": "https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55"
+        }
+      ],
+      "duration_ms": 164267,
+      "name": "Copper Golem",
+      "url": "https://open.spotify.com/track/4UX3wHfcHF6bmO5wdpG7RQ"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft: Triple Bundle",
+        "url": "https://open.spotify.com/album/4MeOJ7kvbfDWssC3kUc8T5"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Memories of Dalarna",
+      "url": "https://open.spotify.com/track/4RsTDGnV1AWXA2LxGNG2Rh"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Legends: Laid Back Lutes (Remix)",
+        "url": "https://open.spotify.com/album/1W3p6A4DmsN7JKbNlgOTtT"
+      },
+      "artists": [
+        {
+          "name": "Hendric Buenck",
+          "url": "https://open.spotify.com/artist/0D9zFTdnsmNzQIwc1DsjL7"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "New Worlds, New Adventures - Remix",
+      "url": "https://open.spotify.com/track/5cAcagwqpgUBvDk9rnu7WM"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Dungeons II (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Peter Hont",
+          "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Supreme Evoker",
+      "url": "https://open.spotify.com/track/1H7YRSOihAniDmFU4VY2LM"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/1TtdtRpeNYliHviOnhWdL7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Sweden",
+      "url": "https://open.spotify.com/track/716HpbfSkMkU7TwQsJlhHT"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -799,38 +1235,42 @@
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
+        "name": "Minecraft Earth (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU"
       },
       "artists": [
         {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Ballad of the Cats",
-      "url": "https://open.spotify.com/track/2itBJTmhXvA2cInJ9aC7J6"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
-      },
-      "artists": [
-        {
-          "name": "Lena Raine",
-          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+          "name": "Shauny Jang",
+          "url": "https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk"
         },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 402146,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0YLfoTo7oaCDSXjrGwc3cg"
+      "duration_ms": 347865,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/4pf40ltrCNfApfd9YRDhJT"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Live: March 2025 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3T95eb51hJbtcqWb48P0WF"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Camilo Forero",
+          "url": "https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Vibrant Diary",
+      "url": "https://open.spotify.com/track/4SehBI0thX14mWIyNytmQl"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -853,50 +1293,10 @@
       "url": "https://open.spotify.com/track/0fUi0dXYV42B9NveyLjHl7"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
       "album": {
-        "name": "Minecraft Legends: Laid Back Lutes (Remix)",
-        "url": "https://open.spotify.com/album/1W3p6A4DmsN7JKbNlgOTtT"
-      },
-      "artists": [
-        {
-          "name": "Hendric Buenck",
-          "url": "https://open.spotify.com/artist/0D9zFTdnsmNzQIwc1DsjL7"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "New Worlds, New Adventures - Remix",
-      "url": "https://open.spotify.com/track/5cAcagwqpgUBvDk9rnu7WM"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cherof",
-          "url": "https://open.spotify.com/artist/12wrk3bSfQZL9vou4QWI7u"
-        },
-        {
-          "name": "Minecraft",
-          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
-        }
-      ],
-      "duration_ms": 299653,
-      "name": "Precipice",
-      "url": "https://open.spotify.com/track/2I3SfDBpiBZjAqYm547JF3"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Minecraft: Soothing Synths (Monolism Remix)",
-        "url": "https://open.spotify.com/album/7v8EmC6mQqxivblkV3SXWc"
+        "name": "Pigstep (Just Dance Version)",
+        "url": "https://open.spotify.com/album/7DrsmV9EqCD8l9Lo6xUTBG"
       },
       "artists": [
         {
@@ -904,19 +1304,75 @@
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         },
         {
-          "name": "Monolism",
-          "url": "https://open.spotify.com/artist/2AuO7oIWRt96rwS6bd526s"
+          "name": "Dancing Bros.",
+          "url": "https://open.spotify.com/artist/1mIwjdpXhKlaaOS356YSsL"
         }
       ],
-      "duration_ms": 261875,
-      "name": "Echo in the Wind - Monolism Remix",
-      "url": "https://open.spotify.com/track/6AmTatHKKf3EjPiyxfAFJ9"
+      "duration_ms": 179711,
+      "name": "Pigstep (Just Dance Version)",
+      "url": "https://open.spotify.com/track/7xG8LOlhpOz67zBmlVhaL4"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Dungeons II (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5"
+      },
+      "artists": [
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        },
+        {
+          "name": "Peter Hont",
+          "url": "https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl"
+        }
+      ],
+      "duration_ms": 109786,
+      "name": "Witch",
+      "url": "https://open.spotify.com/track/79nvxsZcLDYGTFRcHefUe1"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Stal",
+      "url": "https://open.spotify.com/track/7lJCIMBeMyAcgJ00HJsNB7"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
+      "album": {
+        "name": "Minecraft Live: 2024 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/59WwwTjplxikp5x6aV8AGN"
+      },
+      "artists": [
+        {
+          "name": "Camilo Forero",
+          "url": "https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 156823,
+      "name": "Looking Back and Forward",
+      "url": "https://open.spotify.com/track/2cx508dMXT4arNRAWFA861"
+    },
+    {
+      "added_at": "2026-10-06 13:43:56",
       "album": {
         "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+        "url": "https://open.spotify.com/album/1TtdtRpeNYliHviOnhWdL7"
       },
       "artists": [
         {
@@ -926,7 +1382,27 @@
       ],
       "duration_ms": 90000,
       "name": "Wet Hands",
-      "url": "https://open.spotify.com/track/1tinoQpYXzpZDrb0BjK1e7"
+      "url": "https://open.spotify.com/track/1MLZMrjfwiT5ll5vjIwwU7"
+    },
+    {
+      "added_at": "2024-09-13 15:00:00",
+      "album": {
+        "name": "Minecraft Earth (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU"
+      },
+      "artists": [
+        {
+          "name": "Shauny Jang",
+          "url": "https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk"
+        },
+        {
+          "name": "Minecraft",
+          "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
+        }
+      ],
+      "duration_ms": 147138,
+      "name": "Sprouting",
+      "url": "https://open.spotify.com/track/6e0mcJbNVTUF4tro4fiPxH"
     },
     {
       "added_at": "2024-09-13 15:00:00",
@@ -951,22 +1427,26 @@
     {
       "added_at": "2024-09-13 15:00:00",
       "album": {
-        "name": "Minecraft Earth (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU"
+        "name": "Minecraft Live: 2023 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0OkCE6IzRDWHMLoGBMTOt0"
       },
       "artists": [
         {
-          "name": "Shauny Jang",
-          "url": "https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk"
+          "name": "Camilo Forero",
+          "url": "https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55"
+        },
+        {
+          "name": "Joseph S. Djafar",
+          "url": "https://open.spotify.com/artist/0eJM64RzvwVyOng2QwN8xd"
         },
         {
           "name": "Minecraft",
           "url": "https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h"
         }
       ],
-      "duration_ms": 147138,
-      "name": "Sprouting",
-      "url": "https://open.spotify.com/track/6e0mcJbNVTUF4tro4fiPxH"
+      "duration_ms": 67907,
+      "name": "Closing",
+      "url": "https://open.spotify.com/track/2bMq6QMOqpAAtfndP1pgwp"
     },
     {
       "added_at": "2024-09-13 15:00:00",

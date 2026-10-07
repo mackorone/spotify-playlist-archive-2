@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 393169,
+  "num_followers": 393266,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyMCJPQGeCN5E637n7B7BRP28ca",
+  "snapshot_id": "AAAAAARPmz61HZjKgXhfwPfS84xNEUwV",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Blackbyrd",
-        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Blackbyrd",
+        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cookie Dough",
         "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 410319,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 472690,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Special Love (Micky More & Andy Tee 7\" Jazz Mix)",
@@ -831,22 +847,6 @@
       "duration_ms": 297067,
       "name": "Special Love - Micky More & Andy Tee 7\" Jazz Mix",
       "url": "https://open.spotify.com/track/49oV3dPlR3cyzuL8xYZruD"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 472690,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
     },
     {
+      "added_at": "2026-10-02 04:00:35",
+      "album": {
+        "name": "Snap, Crackle & Bop!",
+        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Akil Dasan",
+          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
+        }
+      ],
+      "duration_ms": 278752,
+      "name": "We Like That",
+      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Friends & Strangers",
@@ -955,26 +975,6 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
-    },
-    {
-      "added_at": "2026-10-02 04:00:35",
-      "album": {
-        "name": "Snap, Crackle & Bop!",
-        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
-      },
-      "artists": [
-        {
-          "name": "Us3",
-          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
-        },
-        {
-          "name": "Akil Dasan",
-          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
-        }
-      ],
-      "duration_ms": 278752,
-      "name": "We Like That",
-      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Lava Love",
-        "url": "https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT"
-      },
-      "artists": [
-        {
-          "name": "Zoe's Shanghai",
-          "url": "https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5"
-        }
-      ],
-      "duration_ms": 298722,
-      "name": "Niassam",
-      "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Culture of Fear",
         "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 272800,
       "name": "Web of Deception",
       "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Lava Love",
+        "url": "https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT"
+      },
+      "artists": [
+        {
+          "name": "Zoe's Shanghai",
+          "url": "https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5"
+        }
+      ],
+      "duration_ms": 298722,
+      "name": "Niassam",
+      "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Stratosphere Breakdown",
         "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 295466,
       "name": "Dream Waves",
       "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
       "added_at": "2025-06-20 04:00:29",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk"
+      },
+      "artists": [
+        {
+          "name": "4hero",
+          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Look Inside",
+      "url": "https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin On",
         "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
       },
@@ -1555,22 +1575,6 @@
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Prince Of Peace",
-      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
     }
   ],
   "unique_name": "Acid Jazz",

@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 28812,
+  "num_followers": 28819,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+wVYI24xTCnVS5xljI5HnAXUxS",
+  "snapshot_id": "AAAAADNmru2nwKD35nptZSwu0PLXTs7v",
   "tracks": [
     {
       "added_at": "2025-12-15 11:35:26",
@@ -955,38 +955,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Richard Strauss",
-        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Guillaume Bellom",
-          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
-        },
-        {
-          "name": "Paul Zientara",
-          "url": "https://open.spotify.com/artist/3mbbBgW0aTo0294ZNvWUq9"
-        },
-        {
-          "name": "Julia Hagen",
-          "url": "https://open.spotify.com/artist/3MEY8aVoJVsOCc1rzMdy0t"
-        }
-      ],
-      "duration_ms": 631573,
-      "name": "Piano Quartet in C Minor, Op. 13: IV. Finale. Vivace",
-      "url": "https://open.spotify.com/track/3DO0StDHtu4HrV4daIUAMs"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 421200,
       "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
       "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Richard Strauss",
+        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        },
+        {
+          "name": "Paul Zientara",
+          "url": "https://open.spotify.com/artist/3mbbBgW0aTo0294ZNvWUq9"
+        },
+        {
+          "name": "Julia Hagen",
+          "url": "https://open.spotify.com/artist/3MEY8aVoJVsOCc1rzMdy0t"
+        }
+      ],
+      "duration_ms": 631573,
+      "name": "Piano Quartet in C Minor, Op. 13: IV. Finale. Vivace",
+      "url": "https://open.spotify.com/track/3DO0StDHtu4HrV4daIUAMs"
     },
     {
       "added_at": "2025-12-15 11:35:26",

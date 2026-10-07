@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Forest",
+        "url": "https://open.spotify.com/album/2tNYnnAi8kpGoK3p19C0Kb"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144092,
+      "name": "Ethereal Forest",
+      "url": "https://open.spotify.com/track/3yRYAmj0HyIdVdhVCvXYMH"
+    },
+    {
+      "album": {
         "name": "Ethereal Waves",
         "url": "https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY"
       },
@@ -2050,6 +2068,24 @@
       "duration_ms": 174705,
       "name": "Everbound",
       "url": "https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0kqjVkCJpvWnU2LqqC1yaL"
+      },
+      "artists": [
+        {
+          "name": "For Mel",
+          "url": "https://open.spotify.com/artist/2w0jPSsETa72zNH53Fb7bR"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1piIa7IzJTMb91y7D9mZfl"
     },
     {
       "album": {
@@ -2266,6 +2302,24 @@
       "duration_ms": 127500,
       "name": "Florentis",
       "url": "https://open.spotify.com/track/7BgPkHOrBSKx9i5yaTb87V"
+    },
+    {
+      "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/1H129CLieRhnr7bWEanHUZ"
+      },
+      "artists": [
+        {
+          "name": "santini perotti",
+          "url": "https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/2uXOH6QHRCmXjPiP4NXtcb"
     },
     {
       "album": {
@@ -2742,6 +2796,24 @@
       "duration_ms": 234500,
       "name": "Forest Of The Mind",
       "url": "https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu"
+    },
+    {
+      "album": {
+        "name": "forest of the mist",
+        "url": "https://open.spotify.com/album/0OYQFgNwnnQo1goPcOrV2S"
+      },
+      "artists": [
+        {
+          "name": "Pacificus Luminus",
+          "url": "https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "forest of the mist",
+      "url": "https://open.spotify.com/track/34m22qPvOS9XVlTfiMnsBR"
     },
     {
       "album": {
@@ -3556,7 +3628,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 141000,
       "name": "Inner Stream",
       "url": "https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA"
@@ -3898,7 +3970,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 239173,
       "name": "Longer Days",
       "url": "https://open.spotify.com/track/7EdN53sdP7lUcrhsI630Om"
@@ -4702,6 +4774,24 @@
       "duration_ms": 165500,
       "name": "Nature's Heart",
       "url": "https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu"
+    },
+    {
+      "album": {
+        "name": "Nature's Mirror",
+        "url": "https://open.spotify.com/album/3RjRPhYX6M7cWjvxFGgkfP"
+      },
+      "artists": [
+        {
+          "name": "Bias Beats",
+          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Nature's Mirror",
+      "url": "https://open.spotify.com/track/4Kxu81NE880ZFqi0aexeqs"
     },
     {
       "album": {
@@ -6041,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Singing Forest",
+        "url": "https://open.spotify.com/album/37K5fKkWxihUgZUVVFhQSV"
+      },
+      "artists": [
+        {
+          "name": "Vox Lumi",
+          "url": "https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Singing Forest",
+      "url": "https://open.spotify.com/track/2U3l4TfeEvYDAc0cPNFxao"
+    },
+    {
+      "album": {
         "name": "Forest Flowers",
         "url": "https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO"
       },
@@ -6618,6 +6726,24 @@
       "duration_ms": 142000,
       "name": "Sylvan Morning",
       "url": "https://open.spotify.com/track/2f5Y7Wg5FVuQRny16eBUm3"
+    },
+    {
+      "album": {
+        "name": "Talgoxe",
+        "url": "https://open.spotify.com/album/1utelT0p7wYxqNHJjDmrTc"
+      },
+      "artists": [
+        {
+          "name": "Nordan",
+          "url": "https://open.spotify.com/artist/3TYnzUsJ9UUWSwmphRiqct"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Talgoxe",
+      "url": "https://open.spotify.com/track/76lLFooLD3pG3iLvwBJN1m"
     },
     {
       "album": {

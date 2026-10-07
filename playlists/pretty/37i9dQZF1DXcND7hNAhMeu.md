@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: Maya Perest
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,500 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,539 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Nehir](https://open.spotify.com/track/4pVlO2clQr2IvLUtd0F2rs) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Nehir](https://open.spotify.com/album/4YbYoMr2f3EP8vMn2Ocyhl) | 2:48 |
 | 50 | [Gittiğinden Beri](https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB) | [Bade](https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz) | [Gittiğinden Beri](https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7) | 2:46 |
 
-Snapshot ID: `AAAAAD2WiSYjayy0Eoq2WHcz6rVrDSag`
+Snapshot ID: `AAAAAEET0c51AjkPIDyCD2SM5qhrmH/X`

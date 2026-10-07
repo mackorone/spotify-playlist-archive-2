@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Jasiek Piwowarczyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,757 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,766 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [obłoki](https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [obłoki](https://open.spotify.com/album/2m4fIQU7WLfjijZpViJLhN) | 2:49 |
 | 65 | [To nie koniec](https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [To nie koniec](https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD) | 3:01 |
 
-Snapshot ID: `AAAAALvyw4j0OAryguOQH93N6+Bksg3t`
+Snapshot ID: `AAAAAEHw4A6hw9A1h9m5YizzL2lEjBY4`

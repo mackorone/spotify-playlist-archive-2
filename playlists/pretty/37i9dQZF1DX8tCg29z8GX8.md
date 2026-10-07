@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,979 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,990 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 34 | [Major League](https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Major League](https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy) | 2:57 |
 | 35 | [Adu the Borga](https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 2:34 |
 | 36 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
-| 37 | [Pancake](https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Pancake](https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK) | 2:29 |
-| 38 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
+| 37 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
+| 38 | [Pancake](https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Pancake](https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK) | 2:29 |
 | 39 | [OTOTROBONSU](https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:31 |
 | 40 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 |
 | 41 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 68 | [ACCRA GIRLS](https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 |
 | 69 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 |
 | 70 | [Habit](https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Habit](https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS) | 2:53 |
-| 71 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 |
-| 72 | [Aketesia](https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC) | [Aketesia](https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB) | 3:13 |
-| 73 | [Y3 Guy](https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Y3 Guy](https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e) | 2:25 |
+| 71 | [Y3 Guy](https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Y3 Guy](https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e) | 2:25 |
+| 72 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 |
+| 73 | [Aketesia](https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC) | [Aketesia](https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB) | 3:13 |
 | 74 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
-| 75 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
-| 76 | [Bendova](https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bendova](https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2) | 2:42 |
+| 75 | [Bendova](https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bendova](https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2) | 2:42 |
+| 76 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
 | 77 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
 | 78 | [Give Up and See](https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Give Up and See](https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf) | 3:36 |
 | 79 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 80 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 
-Snapshot ID: `AAAAAM1dp1mR+cZ1pEzC7CUh1Jcoeyt5`
+Snapshot ID: `AAAAAGqgjidoKD3iEl+NOYRfUpHZsyio`

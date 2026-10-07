@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,024 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,027 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 11 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 12 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
 | 13 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
-| 14 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
-| 15 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
+| 14 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
+| 15 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
 | 16 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 17 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 18 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 36 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
 | 37 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 38 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
-| 39 | [i hope you're ready](https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 3:43 |
-| 40 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
+| 39 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
+| 40 | [i hope you're ready](https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 3:43 |
 | 41 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
 | 42 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
 | 43 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
-| 44 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
-| 45 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
+| 44 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
+| 45 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 46 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
 | 47 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 48 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
 | 60 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
 
-Snapshot ID: `AAAAAES82DEFtSkSSjQe1iHmeUFRgH/1`
+Snapshot ID: `AAAAADsrFAvcHsBSG6FuByyihhtUijCa`

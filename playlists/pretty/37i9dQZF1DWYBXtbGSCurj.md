@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,243 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,227 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [FATOS REAIS](https://open.spotify.com/track/48PHddLWKRm2v8edXl5NHv) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [CÓDIGO DAS RUAS](https://open.spotify.com/album/3eau69rQEqsCngJseJR9Id) | 2:06 |
 | 75 | [Eu sei](https://open.spotify.com/track/43Z9DTcF8yA18g3wZou3Qc) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Real Fuba](https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [Eu sei](https://open.spotify.com/album/4HrEXJl69Paze3hND6mpTB) | 3:45 |
 
-Snapshot ID: `AAAAAOwmhyueJttGfW7ialYJB24DjSA4`
+Snapshot ID: `AAAAADmL10L1N7tAMz9+nZNaj2GNWnDw`

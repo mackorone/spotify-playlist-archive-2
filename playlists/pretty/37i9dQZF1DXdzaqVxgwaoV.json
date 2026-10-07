@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJt9XZC0y7j9202KcXSNtwQ/SZmx",
+  "snapshot_id": "AAAAAPw69M4xar/uLVriBrmYMHMQyQvU",
   "tracks": [
     {
       "added_at": "2026-09-24 04:59:11",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Se Me Perdio La Cadenita",
-      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "El Mujeriego",
         "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 181269,
       "name": "El Mujeriego",
       "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Se Me Perdio La Cadenita",
+      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Apagame La Vela",
-      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Cuarteto Imperial-Los Elegidos",
         "url": "https://open.spotify.com/album/71ZTW9IlWJcVVo0bXHmpaO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 185226,
       "name": "El Perico",
       "url": "https://open.spotify.com/track/6MldduMqXn0aimrEipwtKd"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Apagame La Vela",
+      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
-      },
-      "artists": [
-        {
-          "name": "Checo Acosta",
-          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
-        }
-      ],
-      "duration_ms": 231758,
-      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Nuestras 30 Mejores Caciones",
         "url": "https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
-        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
+        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
       },
       "artists": [
         {
-          "name": "La Sabrosura Orquesta",
-          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
+          "name": "Checo Acosta",
+          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Tu Amigo o Tu Amante",
-      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
+      "duration_ms": 231758,
+      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1183,6 +1167,22 @@
       "duration_ms": 182166,
       "name": "Matemos las Ganas",
       "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
+        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
+      },
+      "artists": [
+        {
+          "name": "La Sabrosura Orquesta",
+          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Tu Amigo o Tu Amante",
+      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309920,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1223,6 +1239,22 @@
       "duration_ms": 191772,
       "name": "Todo el Mundo Necesita un Beso",
       "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1263,38 +1295,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309920,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Inmortal (Vol. 2)",
         "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
       },
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "Mejor Que Antes",
         "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "\u00c9xitos los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        },
-        {
-          "name": "Robinson Dami\u00e1n",
-          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
     },
     {
       "added_at": "2026-09-24 04:59:11",

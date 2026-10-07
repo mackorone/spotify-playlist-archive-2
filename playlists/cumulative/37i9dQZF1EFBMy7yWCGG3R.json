@@ -3921,6 +3921,28 @@
     },
     {
       "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/4AfvAJm52XUX6F9rCXJuTR"
+      },
+      "artists": [
+        {
+          "name": "Elise Eriksen",
+          "url": "https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8"
+        },
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211498,
+      "name": "Less",
+      "url": "https://open.spotify.com/track/5pdeBMJFZyPapoCiEwSDgN"
+    },
+    {
+      "album": {
         "name": "Not In Chronological Order",
         "url": "https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu"
       },

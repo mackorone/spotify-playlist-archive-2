@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,962 likes - 150 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,012 likes - 150 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 149 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
 | 150 | [AKNEW](https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 3:28 |
 
-Snapshot ID: `AAAAAIFKZvxyH0r0PYmHWIjbDyZkuMPX`
+Snapshot ID: `AAAAACrw8uOTaJjI2gjm7zZ4Bg4qYCEE`

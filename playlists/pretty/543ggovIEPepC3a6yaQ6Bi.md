@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 
 > Enjoy the best ever R&amp;B hits from the nineties &amp; zeroes! Old school RnB classics and throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, and more\. Throwback RnB party \| Club Bangers \| Smooth Vibes Only
 
-[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 78,625 likes - 250 songs - 17 hr 22 min
+[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 78,623 likes - 250 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,7 +210,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 | 200 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 201 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/0DlVOdK5GJtnom4nI3EOz5) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 5:25 |
 | 202 | [Over And Over](https://open.spotify.com/track/2b8QQqf8Vwb7bfz22ja8Fk) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 4:13 |
-| 203 | [Let It Go](https://open.spotify.com/track/538hPQNtP190KcS3ZnWY5M) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 3:58 |
+| 203 | [Let It Go](https://open.spotify.com/track/538hPQNtP190KcS3ZnWY5M) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You \(International Deluxe Version\)](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 3:58 |
 | 204 | [I'm N Luv \(Wit a Stripper\) \(feat\. Mike Jones\)](https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:59 |
 | 205 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |
 | 206 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |

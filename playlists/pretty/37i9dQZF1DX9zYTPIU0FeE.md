@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Pilani Bubu
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,724 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,729 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
 | 50 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 |
 | 51 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
-| 52 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
+| 52 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
 | 53 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
-| 54 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
+| 54 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
 | 55 | [Sombhuluka](https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:58 |
 | 56 | [Chant Song: Bakoena Ba Nkopane](https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Qalo](https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep) | 4:20 |
 | 57 | [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 |
-| 58 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
-| 59 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
+| 58 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
+| 59 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
 | 60 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
 
-Snapshot ID: `AAAAAGgxYrJfEVyBy1BbMOHkbILwSTHV`
+Snapshot ID: `AAAAAFWlCjD6CDVgvJCP9KWe+cnNyQoM`

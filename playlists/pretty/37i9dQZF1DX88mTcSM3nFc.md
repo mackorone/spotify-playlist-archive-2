@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,366 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,387 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 30 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 31 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
 | 32 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
-| 33 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
-| 34 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:58 |
+| 33 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:58 |
+| 34 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
 | 35 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 36 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 37 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 49 | [long distance christmas](https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [long distance christmas](https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL) | 2:56 |
 | 50 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
 
-Snapshot ID: `AAAAAHFjIaVk/vYuCPeKmLMkVRh/pZOc`
+Snapshot ID: `AAAAALFeS9btsK7ZZiJlAxpR6uOhHAF6`

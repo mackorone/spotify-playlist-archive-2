@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,889 likes - 88 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,917 likes - 88 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [1+1+1](https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [1+1+1](https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM) | 2:56 |
 | 88 | [Nite Rite Zeta](https://open.spotify.com/track/5lhceVrfvvnGEQz2xxEiAx) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd) | [Nite Rite Zeta](https://open.spotify.com/album/3jbH2iTSXAp9kd6EdNGFHT) | 3:34 |
 
-Snapshot ID: `AAAAAB44xFL5fFh/kesm4H+eTODfHSDo`
+Snapshot ID: `AAAAAPzW3oO3FW+g5hmqpdP+AtJHG/kT`

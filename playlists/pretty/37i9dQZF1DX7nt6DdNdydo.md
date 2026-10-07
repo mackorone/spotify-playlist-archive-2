@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,075 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,082 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 10 | [Going Back To New Orleans](https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 2:50 |
 | 11 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
 | 12 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
-| 13 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
+| 13 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
 | 14 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 |
-| 15 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
+| 15 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
 | 16 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
 | 17 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
 | 18 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 20 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
 | 21 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
 | 22 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
-| 23 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
-| 24 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
-| 25 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
+| 23 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
+| 24 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
+| 25 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
 | 26 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
 | 27 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
 | 28 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 49 | [450 Pound Woman](https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt) | 2:19 |
 | 50 | [Cadillac Boogie](https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P) | [Jimmy Liggins](https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF) | [Cadillac Songs](https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms) | 2:37 |
 
-Snapshot ID: `AAAAAKN2nIYR0hRudLJvaREb6bcBQXVC`
+Snapshot ID: `AAAAAJGaMqf3R/hmYfavFlqcjsEy5WqI`

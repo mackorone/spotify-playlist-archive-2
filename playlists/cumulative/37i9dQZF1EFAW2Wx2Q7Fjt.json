@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"
@@ -2390,6 +2390,24 @@
       "duration_ms": 328542,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb"
+    },
+    {
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173422,
+      "name": "Heavy Weight",
+      "url": "https://open.spotify.com/track/2zITwPNDc7aUkwRpWasK43"
     },
     {
       "album": {
@@ -3594,6 +3612,24 @@
       "duration_ms": 189232,
       "name": "New Angel",
       "url": "https://open.spotify.com/track/3lMIgIO9HkPxnAZGmtTdpT"
+    },
+    {
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
       "album": {
@@ -4990,6 +5026,24 @@
       "duration_ms": 183339,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6"
+    },
+    {
+      "album": {
+        "name": "Things I've Learned (So Far) - Tour Version",
+        "url": "https://open.spotify.com/album/3hw7M3Vyu7uk5cifUlDoIN"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "Things I've Learned (So Far) - Tour Version",
+      "url": "https://open.spotify.com/track/2ZOS3cr6Sx48av8h9YdAK8"
     },
     {
       "album": {

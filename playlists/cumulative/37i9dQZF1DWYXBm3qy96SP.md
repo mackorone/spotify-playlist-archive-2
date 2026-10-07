@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Fat Dog
 
-2,366 songs - 5 day 18 hr 3 min
+2,368 songs - 5 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1124,7 +1124,7 @@
 | [keys make noise](https://open.spotify.com/track/3XNVBgEgIxoipF0XL1BDwF) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [keys make noise](https://open.spotify.com/album/1wdoMIFW30LYYqzuFSKqEP) | 2:20 | 2023-08-10 | 2023-08-18 |
 | [KICK IT OUT \-reprise\-](https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [KICK IT OUT \-reprise\-](https://open.spotify.com/album/7IZz0M2LMD3xhQe1PfJnnV) | 4:41 | 2026-07-30 | 2026-08-14 |
 | [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 | 2026-04-23 | 2026-05-21 |
-| [Kid](https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Kid](https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp) | 3:40 | 2026-09-25 |  |
+| [Kid](https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Kid](https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp) | 3:40 | 2026-09-25 | 2026-10-07 |
 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 | 2025-07-24 | 2025-10-24 |
 | [Kill The Lights](https://open.spotify.com/track/4dlPsqaKyDAejnHoc1fPCK) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Kill The Lights](https://open.spotify.com/album/6M78DoFWSX4UYlfXf5n7B0) | 3:00 | 2024-01-04 | 2024-01-12 |
 | [kill without the k.](https://open.spotify.com/track/4VCmobNt8wZ29jqArqdlAn) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [kill without the k.](https://open.spotify.com/album/3MfiqHVyJkXWL6YCI7Alhd) | 3:41 | 2024-01-25 | 2024-02-16 |
@@ -1163,7 +1163,7 @@
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-30 | 2024-02-09 |
 | [Landslide](https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Mosquito](https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm) | 4:06 | 2026-03-05 | 2026-03-13 |
 | [LANGUAGE](https://open.spotify.com/track/13ynkovTAESCMefYh6MqIb) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [LANGUAGE](https://open.spotify.com/album/1Pu6wKzlEoCEMO2P2p5PeM) | 2:58 | 2023-06-22 | 2023-06-30 |
-| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-09-25 |  |
+| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-09-25 | 2026-10-07 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-03 | 2025-07-11 |
 | [Last Man In The World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 | 2023-05-25 | 2023-06-16 |
 | [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-07 | 2024-05-16 |
@@ -1777,6 +1777,7 @@
 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 | 2026-04-30 | 2026-06-27 |
 | [She Loves You \- 2023 Mix](https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 – 1966 \(2023 Edition\)](https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba) | 2:22 | 2023-11-09 | 2023-11-24 |
 | [She's Fine, She's Mine](https://open.spotify.com/track/2wb2kUsNMmqzZaDQtxXZ9C) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Memory Dust EP](https://open.spotify.com/album/7e3QdCi7kwWvgCzaEunVIN) | 3:12 | 2023-06-15 | 2023-06-23 |
+| [Shed Your Skin](https://open.spotify.com/track/6qPZi0an9of1lO3O0Y5VJn) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Axis Mundi](https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT) | 4:53 | 2026-10-01 |  |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-10-12 | 2023-10-20 |
 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 | 2023-12-14 | 2024-01-05 |
 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 | 2026-04-02 | 2026-05-29 |
@@ -2174,6 +2175,7 @@
 | [Wait Your Turn](https://open.spotify.com/track/7GksnYii5uW5KrvGylbHcv) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [KYORYU](https://open.spotify.com/album/0iN0gGoL0mhM8VVY6KPBCC) | 3:37 | 2024-06-21 | 2024-07-19 |
 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 | 2024-02-22 | 2024-05-17 |
 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 | 2023-03-16 | 2023-05-19 |
+| [Waiting Room](https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Waiting Room](https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv) | 3:02 | 2026-10-01 |  |
 | [Wake Me Up When September Ends \- Demo](https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- Becoming Who We Are\)](https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx) | 4:59 | 2024-09-05 | 2024-11-01 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2026-03-13 |
 | [Wake Up Calling](https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wake Up Calling](https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L) | 3:49 | 2026-01-29 | 2026-05-08 |

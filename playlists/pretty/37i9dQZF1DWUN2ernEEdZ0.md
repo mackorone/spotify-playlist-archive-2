@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest classical music of 2026🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,037 likes - 162 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,052 likes - 162 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 161 | [Piano Trio No\. 22 in A Major, Op\. 27 No\. 1, Hob\. XV:9: I\. Adagio](https://open.spotify.com/track/6BxUzRHUrRnSV4WPUbEiyx) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Trio Gaspard](https://open.spotify.com/artist/0uq8O8713svA6zUJC982Vs) | [Haydn: Complete Piano Trios, Vol\. 5](https://open.spotify.com/album/0gzz4q6tNjbFeEKU1elYW8) | 5:44 |
 | 162 | [10 Pieces for Piano from "Romeo and Juliet", Op\. 75: No\. 6, Montagues and Capulets "Dance of the Knights"](https://open.spotify.com/track/7mEFSmm0EQjNP70Xdnk9Tk) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Prokofiev: Piano Concerto No\. 3](https://open.spotify.com/album/6Vkirf3gFsrlCrfVhbplSi) | 4:16 |
 
-Snapshot ID: `AAAAAFCjwR4viOzW9hoRm29GRTVe6kSN`
+Snapshot ID: `AAAAAD0onbaJmT1InqiOm3ZUn+R6+3/M`

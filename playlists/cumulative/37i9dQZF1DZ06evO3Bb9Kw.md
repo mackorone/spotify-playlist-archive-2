@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 25 min
+129 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Little White Church \- Collab Version](https://open.spotify.com/track/5gCHW8wyS1pcbrN9Rcof74) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Greatest Hits](https://open.spotify.com/album/0sWEoSYqZi5vQeOwY6hqd9) | 3:12 | 2024-08-14 | 2024-10-07 |
 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 | 2023-09-15 | 2026-10-06 |
 | [Looking Back On Luckenbach](https://open.spotify.com/track/6d6ykG2yZogbCqzZtymvI1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:15 | 2024-09-15 | 2025-01-04 |
-| [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 | 2022-09-08 |  |
+| [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 | 2022-09-08 | 2026-10-07 |
 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:59 | 2022-09-08 |  |
 | [Mammas Don't Let Your Babies Grow up to Be Cowboys \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/1ALATaEmjoIIA9vYgHvoDp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM) | 3:36 | 2023-12-18 | 2024-02-19 |
 | [Mess with My Head](https://open.spotify.com/track/3pOYCVZaunOdjHaf5LhiV6) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 2:33 | 2022-09-08 | 2022-10-13 |
@@ -93,6 +93,7 @@
 | [Over You](https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 4:16 | 2022-09-08 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/29gJDHAJdZfO0IfC5sIGPt) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:48 | 2022-09-08 | 2022-10-13 |
 | [Pushin' Time](https://open.spotify.com/track/3UiTRnMtgKxuL9uZJWj0IO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:33 | 2022-10-21 | 2023-08-06 |
+| [Right Where We Left It](https://open.spotify.com/track/7iIB5Kj9Y6V4yd8gqXx5XT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:03 | 2026-10-07 |  |
 | [Roots and Wings](https://open.spotify.com/track/7pEZg5eWtQxsVFpMj1Nh6D) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Roots and Wings](https://open.spotify.com/album/1BQCqAXISZloavJj6Ze38h) | 4:55 | 2022-09-08 | 2022-10-13 |
 | [Run](https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 2:43 | 2024-09-15 | 2026-08-28 |
 | [Runnin' Just in Case](https://open.spotify.com/track/2VcOFBxrP18VnGgNNr6CTx) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:33 | 2022-09-08 | 2022-10-13 |

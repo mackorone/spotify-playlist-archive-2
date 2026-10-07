@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,138 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,174 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 98 | [Love Psychosis](https://open.spotify.com/track/2KRbNzbM8pZLPWZ5yNnCn5) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Love Psychosis](https://open.spotify.com/album/1ALaXwhQ5eFG4hRcLmyRo4) | 4:09 |
 | 99 | [Hell With Me \(feat\. Steve Aoki\)](https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Better Days \(Deluxe\)](https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w) | 2:51 |
 
-Snapshot ID: `AAAAABpXlxQ7pBzjSlMs4T8sGXxQv09C`
+Snapshot ID: `AAAAAMaq2rJXY93eyc3Doq4UgdXUaXrK`

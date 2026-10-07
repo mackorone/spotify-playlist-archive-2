@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Arde Bogotá, Cano, David Bisbal, Barry B, Samuraï y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,383 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,365 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 80 | [Measuring Cup](https://open.spotify.com/track/3FofSe2OagYmG6tN7BrcWr) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Measuring Cup](https://open.spotify.com/album/3g9mAIsoPSq3zoYsbXB8Zg) | 3:21 |
 | 81 | [Consequences](https://open.spotify.com/track/7nUzvvLRt50Ipymwu4Vn8I) | [Ken Ate My Homework](https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0) | [Consequences](https://open.spotify.com/album/2kcuCQGHSZIIc3fWEP4TKv) | 3:03 |
 
-Snapshot ID: `AAAAAJQsiA+USQrbwp49KrGjLJP9gNbD`
+Snapshot ID: `AAAAAAscrcyvyukMBnqRh4qwwfveirY/`

@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Rather You Leave",
+        "url": "https://open.spotify.com/album/0VhlajjpFQPn7OPPSE6NmG"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148541,
+      "name": "Rather You Leave",
+      "url": "https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU"
+    },
+    {
+      "album": {
         "name": "Just Keke",
         "url": "https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV"
       },

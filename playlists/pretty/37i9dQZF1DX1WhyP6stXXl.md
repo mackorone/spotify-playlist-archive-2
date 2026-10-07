@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,810 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,830 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
 | 90 | [Looking for You](https://open.spotify.com/track/0DC66w1mim0UhUQF9uL6Fx) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 2:53 |
 
-Snapshot ID: `AAAAAG2wdM4dLJyMr0nMZt6U28vceHfI`
+Snapshot ID: `AAAAAOq63YIiSVRFtbq9Z4IAwUsZXfgP`

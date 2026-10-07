@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,694 likes - 111 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,702 likes - 111 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 110 | [Co\-sign](https://open.spotify.com/track/3q4oT7fprm8MMUf4RgBtsc) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Co\-sign](https://open.spotify.com/album/04xBPLg7hXyW60iP9mCBUS) | 2:56 |
 | 111 | [All Over Me](https://open.spotify.com/track/4iVGBdNJHUBcQZKHkKhMTN) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [All Over Me](https://open.spotify.com/album/7jMOJrMAvlIcTSsiSimmTJ) | 2:56 |
 
-Snapshot ID: `AAAAAJ2rn7zurCI6fCysQp5BlNW9W4X9`
+Snapshot ID: `AAAAAJHOUVhJTv4sU5TUvDXJ9S1781ax`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Festive season staples and new holiday favourites 🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,559 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,524 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 34 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
 | 35 | [Main Title "Somewhere in My Memory" \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 36 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
-| 37 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
-| 38 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
+| 37 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
+| 38 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
 | 39 | [Silent Night \- 1999 Remaster](https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:26 |
 | 40 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 41 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
-| 42 | [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 |
-| 43 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 42 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 43 | [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 |
 | 44 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
 | 45 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 46 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 56 | [Winter Winds](https://open.spotify.com/track/7eNdbY0tlrWNKaiaCZGljh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9) | 3:39 |
 | 57 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 |
 | 58 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
-| 59 | [Memory Lane](https://open.spotify.com/track/3yMQqcTCfTJUpwdZajJH1o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:12 |
+| 59 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 |
 | 60 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `AAAAAP7yOL77nWCED74lPUy93aHQl4Vw`
+Snapshot ID: `AAAAAOiAjBG80iDWNvZttWDiKLp4L3uG`

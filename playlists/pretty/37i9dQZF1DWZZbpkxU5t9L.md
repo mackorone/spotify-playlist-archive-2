@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Ayumu Imazu
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,159 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,153 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Take Flight](https://open.spotify.com/track/4AlII8FnmRdNYpeOkiEHHI) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Take Flight](https://open.spotify.com/album/5fnlbqJYefM7KbKmscpFBg) | 3:31 |
 | 60 | [WHATCHA DOIN](https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHATCHA DOIN](https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb) | 3:22 |
 
-Snapshot ID: `AAAAAK5j2hcLy0JsF2M8l5hvrH4NymKl`
+Snapshot ID: `AAAAAIYnNQDRMo2gE6wHzTbSi998yuPo`

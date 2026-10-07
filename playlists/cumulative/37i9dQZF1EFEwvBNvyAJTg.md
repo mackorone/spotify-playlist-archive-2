@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-280 songs - 15 hr 16 min
+282 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Walk The Line](https://open.spotify.com/track/7rxxROM7x948jnVwD0ORVN) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:38 | 2025-01-09 | 2025-04-12 |
 | [Wanna Know](https://open.spotify.com/track/7nNfHmDyY9WlnBzUP2kgaf) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 2:34 | 2025-01-09 | 2025-04-12 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-13 |  |
+| [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 | 2026-10-06 |  |
 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 | 2024-06-13 |  |
 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 | 2024-06-13 |  |
 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 | 2024-07-30 |  |
@@ -284,6 +285,7 @@
 | [WITCHCRAFT GIRLS](https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:46 | 2024-06-13 |  |
 | [Words Don't Come So Easily](https://open.spotify.com/track/0KxtWB6hiGyzeyFGs9UAW4) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:18 | 2025-01-09 | 2025-04-12 |
 | [Work](https://open.spotify.com/track/3yx6eryOZgO54bt3B671cn) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:43 | 2025-01-09 | 2025-04-12 |
+| [WORLD DOESN'T HAVE TO BE SUCH A SCARY PLACE!!](https://open.spotify.com/track/1hPhpIygqhmiEk5vqOhuZ2) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 6:25 | 2026-10-06 |  |
 | [You Go Too Fast \- Demo](https://open.spotify.com/track/1Yn8TF5NGEZALjrl6YKYAG) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 3:53 | 2025-12-18 |  |
 | [You Make It so Easy, Don't You \(feat\. Sam Sparro\)](https://open.spotify.com/track/08XXFoYJNdPnYGxVS9a7A9) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:18 | 2024-06-13 |  |
 | [You See With Me](https://open.spotify.com/track/1aMprQZZZwyJKM4kzxr995) | [Alex Gardner](https://open.spotify.com/artist/1rHR38xXeAXi7aVtjznK7Z) | [The Alex Gardner EP](https://open.spotify.com/album/3t8DPuRKT4Y9lDx1dEjbYH) | 4:18 | 2024-06-13 | 2025-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Meshell Ndegeocello
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,798 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,839 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [azur](https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz) | [cezanne](https://open.spotify.com/artist/4bNudtyn4yd44nhew3jnJS), [Sabres](https://open.spotify.com/artist/2ICOorx8dIb9Fq4pIHSNcm) | [azur](https://open.spotify.com/album/4tTpPeS7Iw6mWbDd6FNF2r) | 2:16 |
 | 60 | [T.B.T\. \(Thinkin' Blues \- Trumpet\) \- Rework](https://open.spotify.com/track/4C0RwKEQdGLW2JVor1P9t5) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs), [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Smog Reworks](https://open.spotify.com/album/0CzM7EAs9ni2qzq3ewkiC4) | 5:52 |
 
-Snapshot ID: `AAAAAOJEfrvzPpfuHAzUqh/6JlpwqQUP`
+Snapshot ID: `AAAAAD7U6EsWPhpJQR7Ykfz1zt5BDsMc`

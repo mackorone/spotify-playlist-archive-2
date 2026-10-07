@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,195 songs - 5 day 0 hr 1 min
+2,196 songs - 5 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 | 2025-10-14 | 2026-06-29 |
 | [Blueming](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 3:37 | 2021-03-27\* | 2021-06-25 |
 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 | 2023-06-25 | 2023-06-28 |
-| [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2026-09-07 |  |
+| [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2026-09-07 | 2026-10-07 |
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-19 | 2025-10-11 |
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-21 | 2026-03-23 |
 | [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 | 2026-03-22 | 2026-06-28 |
@@ -489,6 +489,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-17 | 2025-03-09 |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 | 2026-02-10 |
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-05-12 | 2021-05-20 |
+| [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH) | 2:28 | 2026-10-06 |  |
 | [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-09-18 | 2025-09-20 |
 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-07-05 | 2025-09-27 |
 | [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-28 | 2025-11-15 |
@@ -1504,9 +1505,9 @@
 | [PPAK \(Feat\. Paloalto, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:29 | 2022-12-25 | 2023-01-02 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Press F5 \(Feat\. GRAY\)](https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473) | [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:34 | 2021-11-22 | 2021-11-27 |
-| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2025-09-21 |  |
+| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2025-09-21 | 2026-10-07 |
 | [Pretender](https://open.spotify.com/track/49h5Aav6yn1o1ACGyovDdZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/27xCJZ11HdYHgwqTo8ldWE) | 5:26 | 2025-10-12 | 2026-09-15 |
-| [Pretender](https://open.spotify.com/track/4oyisOTxuisbiXkAvfbrlr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/3lFpYuJABqlROk2x8h3AWt) | 5:26 | 2026-10-01 | 2026-10-06 |
+| [Pretender](https://open.spotify.com/track/4oyisOTxuisbiXkAvfbrlr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/3lFpYuJABqlROk2x8h3AWt) | 5:26 | 2026-10-01 |  |
 | [Pretender](https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 5:26 | 2026-08-29 | 2026-08-31 |
 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-09 |  |
 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-10-01 | 2025-10-25 |

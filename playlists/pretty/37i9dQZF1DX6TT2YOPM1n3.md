@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Izzchughtai, Hasan Raheem, Umair
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,317 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,362 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 74 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 |
 | 75 | [4U](https://open.spotify.com/track/5YqHwJeVcLl29QRcoDNmBq) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5oPp2fFQmn5XhClwwGnHmv) | 3:22 |
 
-Snapshot ID: `AAAAAIrRNoXn7YipENo2SfRfAXZiYuH8`
+Snapshot ID: `AAAAALn2p9MQqJMtfPUMtB0+U2O4xqHp`

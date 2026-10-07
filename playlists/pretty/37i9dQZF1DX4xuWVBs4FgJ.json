@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2031708,
+  "num_followers": 2031700,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/rR1eQ9D5FQjsDkAktfL9nAGG3",
+  "snapshot_id": "AAAAAKKBfdDvvXtxaBMlgJqh1Bh4nMM6",
   "tracks": [
     {
       "added_at": "2026-02-23 16:34:18",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
     },
     {
       "added_at": "2026-02-23 16:34:18",

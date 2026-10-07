@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,598 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,605 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 21 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
 | 22 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 | 23 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
-| 24 | [Raincouver](https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:39 |
-| 25 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
+| 24 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
+| 25 | [Raincouver](https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:39 |
 | 26 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 |
 | 27 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 |
 | 28 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 | 50 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
 
-Snapshot ID: `AAAAAHKrtAYEozyDdC9KBo6aCxVW5sMC`
+Snapshot ID: `AAAAANQLgTBUyo9oVhZaLHD8mzK9yrib`

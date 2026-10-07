@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 93281,
+  "num_followers": 93304,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDqNcODHUG5S+bOkq/g7tWdUAgA",
+  "snapshot_id": "AAAAAG5ULnl7oW9PMndQRSQ7pM4CgAUj",
   "tracks": [
     {
       "added_at": "2024-07-13 01:15:47",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 183573,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 203400,
       "name": "SUTRA",
       "url": "https://open.spotify.com/track/0lTYnxJdC68v0oXd5xolxY"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2024-07-13 01:15:47",

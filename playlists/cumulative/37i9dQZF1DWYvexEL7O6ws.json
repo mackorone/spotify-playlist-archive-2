@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247128,
+      "name": "Best Behaviour (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1nFO8tDFnEuoQ8HpVjqHgl"
+    },
+    {
+      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -1840,10 +1862,28 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 179074,
       "name": "Classic",
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179898,
+      "name": "Classic PT2",
+      "url": "https://open.spotify.com/track/2nEfvO4T7gERNdrPD3iI8g"
     },
     {
       "album": {
@@ -1916,10 +1956,54 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 172581,
       "name": "Cold",
       "url": "https://open.spotify.com/track/12cfWVXCvJf197FR4mTfvz"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172581,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4IlIR2VnSTvtMjAvJHVVYD"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "album": {
@@ -2466,7 +2550,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 243977,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/16fbKhMaqmnAXIwFJiLV6s"
@@ -2648,6 +2732,24 @@
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37Ksu8pKYYlFoFFl0QgRTn"
     },
     {
       "album": {
@@ -4155,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Have I Gone Too Far?",
+      "url": "https://open.spotify.com/track/07Ib88mudrDWN8tnbH6LOy"
+    },
+    {
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -4580,7 +4700,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 312000,
       "name": "I Know (Alex Lustig Remix)",
       "url": "https://open.spotify.com/track/19FaT08KI3bTSDushnlaFp"
@@ -4868,6 +4988,28 @@
       "duration_ms": 174311,
       "name": "Instinct (feat. MadeinTYO)",
       "url": "https://open.spotify.com/track/7xzTYqlu65JIPPd1MmTChU"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Island Time (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/5rNotJDhHYlihDDYFwNBlf"
     },
     {
       "album": {
@@ -6622,7 +6764,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 202661,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/2W9N3PX5XmbvF5HA7OR1zo"
@@ -6850,7 +6992,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 233030,
       "name": "OMW",
       "url": "https://open.spotify.com/track/775a936b2Vzl3fw86FaVat"
@@ -7823,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "R e a l W o m a n",
         "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
       },
@@ -8016,6 +8176,24 @@
       "duration_ms": 185625,
       "name": "Ratchet Baby (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/5XPdSG6j3t1M625TwLiM6i"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Rather Be With You",
+      "url": "https://open.spotify.com/track/1P81UC5eup4oP1h7ogFDKG"
     },
     {
       "album": {
@@ -8404,10 +8582,28 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 179612,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/7z1ztpXC3jTfuPFFQP1ytM"
     },
     {
       "album": {
@@ -8756,6 +8952,28 @@
       "duration_ms": 213051,
       "name": "Soft Like Dawn",
       "url": "https://open.spotify.com/track/7nB4kYTk2TigQl3QnBkU2n"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -9235,6 +9453,24 @@
     },
     {
       "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3pgXNASOzt7C0QRby6FSbR"
+    },
+    {
+      "album": {
         "name": "MAID OF HONOUR",
         "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
       },
@@ -9710,6 +9946,24 @@
       "duration_ms": 299471,
       "name": "The Only Love We Know (Live From Paradiso)",
       "url": "https://open.spotify.com/track/5Xynabvwxab6SQ6spsErZT"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/0LKcttNEheSXZLuKmgopEP"
     },
     {
       "album": {
@@ -10306,6 +10560,24 @@
     {
       "album": {
         "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/4lckDin71amXXS9UdhLFMu"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
         "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
       },
       "artists": [
@@ -10316,7 +10588,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 240000,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"

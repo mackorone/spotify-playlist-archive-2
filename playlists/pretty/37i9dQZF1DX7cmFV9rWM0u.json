@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1706028,
+  "num_followers": 1706040,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCDNnusC1IErimDgOwwsUsLGdJf",
+  "snapshot_id": "AAAAAHF+2OeAJM8ofHYNHgpx5x6H+6Q7",
   "tracks": [
     {
       "added_at": "2026-05-24 07:07:16",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-05-24 07:07:16",
       "album": {
-        "name": "Chica Ideal",
-        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Chica Ideal",
-      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
-    },
-    {
-      "added_at": "2026-05-24 07:07:16",
-      "album": {
         "name": "MAL DE AMORES",
         "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 210000,
       "name": "MAL DE AMORES",
       "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+    },
+    {
+      "added_at": "2026-05-24 07:07:16",
+      "album": {
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
     },
     {
       "added_at": "2026-05-24 07:07:16",

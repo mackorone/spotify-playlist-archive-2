@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,510 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,539 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 87 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
 | 88 | [Duro](https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Duro](https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch) | 3:05 |
 | 89 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 |
-| 90 | [I Need](https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [I Need](https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul) | 3:09 |
-| 91 | [Electrify](https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Electrify](https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs) | 2:36 |
+| 90 | [Electrify](https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Electrify](https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs) | 2:36 |
+| 91 | [I Need](https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [I Need](https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul) | 3:09 |
 | 92 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 |
 | 93 | [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 |
-| 94 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 |
-| 95 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 |
+| 94 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 |
+| 95 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 |
 | 96 | [Lost In Time](https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ROSY](https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P) | [Lost In Time](https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz) | 2:27 |
 | 97 | [i can't pretend](https://open.spotify.com/track/2TLJTHQ6YojSccxNzt9QDZ) | [rad cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f), [Izzy Arden](https://open.spotify.com/artist/1nJZ5lVbgpqXfbyLluTwPr) | [i can't pretend](https://open.spotify.com/album/7deqiKnPLqaxDQJeO3J8SP) | 3:06 |
 | 98 | [Angel Music](https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 2:07 |
 | 99 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
 | 100 | [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 |
 
-Snapshot ID: `AAAAANxizX7vzsOwkcoKiV/cxzD2AZXs`
+Snapshot ID: `AAAAABE28HvbA+WqbahvzaDysVKU1gct`

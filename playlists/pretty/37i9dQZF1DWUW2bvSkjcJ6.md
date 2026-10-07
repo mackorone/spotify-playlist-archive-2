@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Provinz, Leony, Kontra K, Holly Humberstone, Mark Forster, Martin Garrix & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,079 likes - 92 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,031 likes - 92 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 91 | [Consequences](https://open.spotify.com/track/7nUzvvLRt50Ipymwu4Vn8I) | [Ken Ate My Homework](https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0) | [Consequences](https://open.spotify.com/album/2kcuCQGHSZIIc3fWEP4TKv) | 3:03 |
 | 92 | [INAT](https://open.spotify.com/track/3yfTVgQdgJEtG7Jc1QGljP) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [INAT](https://open.spotify.com/album/2XYUiSw1lmiAT1d0bDxc7c) | 2:50 |
 
-Snapshot ID: `AAAAAEB7kQ+7sfFRKquNzQjiXWgcXl+g`
+Snapshot ID: `AAAAAB9l0p3BjnwCHN6YUPfCEwXXDzmM`

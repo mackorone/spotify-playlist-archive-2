@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: BLNDE",
-  "num_followers": 114122,
+  "num_followers": 114127,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAu1xyNpb2aIKG/oBFj1MkXoLeJm",
+  "snapshot_id": "AAAAAPhtTZna51SwOtC4QmdmKjxL17Pc",
   "tracks": [
     {
       "added_at": "2026-10-02 07:52:58",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
         "name": "Send Shots",
         "url": "https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 159423,
       "name": "Send Shots",
       "url": "https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
+        "name": "Ten Ten",
+        "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        }
+      ],
+      "duration_ms": 141250,
+      "name": "Ten Ten",
+      "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
         "name": "Understand Me",
         "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
-        "name": "Ten Ten",
-        "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
-      },
-      "artists": [
-        {
-          "name": "Tmaro",
-          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
-        }
-      ],
-      "duration_ms": 141250,
-      "name": "Ten Ten",
-      "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
+        "name": "Stop It",
+        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Stop It",
+      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
-        "name": "Stop It",
-        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "Stop It",
-      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
+        "name": "\u00d4'sassin",
+        "url": "https://open.spotify.com/album/140Eql7bC0A0l8kDret5Tw"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f4rkk",
+          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
+        }
+      ],
+      "duration_ms": 154111,
+      "name": "\u00d4'sassin",
+      "url": "https://open.spotify.com/track/0g06jpN64q2uNXwRT03qtz"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/0LRtmL1W38YeU446puOrcT"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 102353,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0K79p0MsYPr5G2N7BbuUfS"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
-        "name": "\u00d4'sassin",
-        "url": "https://open.spotify.com/album/140Eql7bC0A0l8kDret5Tw"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f4rkk",
-          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
-        }
-      ],
-      "duration_ms": 154111,
-      "name": "\u00d4'sassin",
-      "url": "https://open.spotify.com/track/0g06jpN64q2uNXwRT03qtz"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
-        "name": "Popstar - Side A",
-        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 128053,
-      "name": "Simone",
-      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
         "name": "impossible",
         "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 146666,
       "name": "impossible",
       "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
+        "name": "Popstar - Side A",
+        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 128053,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 113776,
+      "name": "TRABAYE",
+      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "added_at": "2026-10-02 07:52:58",
+      "album": {
         "name": "EGER",
         "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 104256,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/2KAGHt7F1clx5yT7HHkAme"
-    },
-    {
-      "added_at": "2026-10-02 07:52:58",
-      "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
-      },
-      "artists": [
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 113776,
-      "name": "TRABAYE",
-      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
-        "name": "Digga",
-        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
       "artists": [
         {
-          "name": "Y\u00f4rkk",
-          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
         }
       ],
-      "duration_ms": 187736,
-      "name": "Digga",
-      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-10-02 07:52:58",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2026-10-02 07:52:58",
       "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+        "name": "Digga",
+        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
       },
       "artists": [
         {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+          "name": "Y\u00f4rkk",
+          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+      "duration_ms": 187736,
+      "name": "Digga",
+      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
     },
     {
       "added_at": "2026-10-02 07:52:58",

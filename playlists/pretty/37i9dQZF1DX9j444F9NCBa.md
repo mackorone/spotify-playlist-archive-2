@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,837 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,234 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 149 | [Umbrella](https://open.spotify.com/track/2xopkgrQSeiyiRPLTVWVaf) | [Sandra Turner](https://open.spotify.com/artist/0AbxEThob5FBDkb4K6MX9q) | [Umbrella](https://open.spotify.com/album/3LHhdIpP1zVPZWnHyAEGqv) | 3:10 |
 | 150 | [Laughter In The Rain](https://open.spotify.com/track/44ubwqcWT4BEiTPxdZ0Wyh) | [Paul Fredricksen](https://open.spotify.com/artist/3Hjrzyvu2ObuIwfZJucm6S) | [Laughter In The Rain](https://open.spotify.com/album/24lVcFHXsMjvT0PXtR1uvr) | 3:19 |
 
-Snapshot ID: `AAAAAFmg4CFmgZRPPlHaS9qismzmrZrS`
+Snapshot ID: `AAAAAJ11OEDSrxHwbT6pyfCoB12Usphx`

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "AHHHH***",
+        "url": "https://open.spotify.com/album/1S57d9hqZ61HL6vDM7RPza"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "AHHHH***",
+      "url": "https://open.spotify.com/track/09ovKflFL3KRcFvNMnM7aj"
+    },
+    {
+      "album": {
         "name": "Almost, So Close, Maybe (Live) | Spotify Fresh Finds x Sounds That Move",
         "url": "https://open.spotify.com/album/0HfHRzXwJfAROpTrIPZNG9"
       },
@@ -95,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Black bear",
+        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Black bear",
+      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "album": {
         "name": "Lado A / Lado B IV",
         "url": "https://open.spotify.com/album/5PVroSmmimln14hqW1sRNm"
       },
@@ -128,6 +164,24 @@
       "duration_ms": 261747,
       "name": "Carol / not carol",
       "url": "https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl"
+    },
+    {
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "album": {
@@ -603,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Mess of It",
+        "url": "https://open.spotify.com/album/5n3SNE7GVXbPi7rYSsR2QA"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lee",
+          "url": "https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "Mess of It",
+      "url": "https://open.spotify.com/track/2p5BJVZMkqmo4e7tiI3nm2"
+    },
+    {
+      "album": {
         "name": "Metal Through Her Lips",
         "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
       },
@@ -690,6 +762,24 @@
       "duration_ms": 224267,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/0S0esRxg8ldboAm5abxsnb"
+    },
+    {
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
     },
     {
       "album": {
@@ -1043,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+    },
+    {
+      "album": {
         "name": "the cops are coming",
         "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
       },
@@ -1116,6 +1228,24 @@
       "duration_ms": 205563,
       "name": "The Whale",
       "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
+    },
+    {
+      "album": {
+        "name": "TOPDOWN",
+        "url": "https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "TOPDOWN",
+      "url": "https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A"
     },
     {
       "album": {

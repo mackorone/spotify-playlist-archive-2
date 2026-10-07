@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17494,
+  "num_followers": 17493,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFAP/DOW1kJN6o0skI+aeJxKNMAb",
+  "snapshot_id": "AAAAACYLX9Ktyc3mVKkZBClCSLq7wP9u",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1411,18 +1411,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Feather Float",
-        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
+        "name": "Ship",
+        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
       },
       "artists": [
         {
-          "name": "OOIOO",
-          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Saya",
+          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Be Sure To Loop",
-      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+      "duration_ms": 246861,
+      "name": "Ship - EP Version",
+      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ship",
-        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
+        "name": "Feather Float",
+        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
       "artists": [
         {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Saya",
-          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
+          "name": "OOIOO",
+          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
         }
       ],
-      "duration_ms": 246861,
-      "name": "Ship - EP Version",
-      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
+      "duration_ms": 465066,
+      "name": "Be Sure To Loop",
+      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
     },
     {
       "added_at": "2021-07-30 14:56:06",

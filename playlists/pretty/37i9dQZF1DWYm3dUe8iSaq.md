@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,161 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,170 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 10 | [If I Could, I Would Try Again](https://open.spotify.com/track/4S8i56ybCTUu0myPHzligZ) | [Georgia Parker](https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf) | [Pumpkin](https://open.spotify.com/album/1oyQLu3dZxTUaRT7jbuFBx) | 3:39 |
 | 11 | [Moral Victory](https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Moral Victory](https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK) | 5:02 |
 | 12 | [Feathers, Cash](https://open.spotify.com/track/4pRAniAuecvaZyfHNYo56I) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:27 |
-| 13 | [Still Standing](https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:56 |
-| 14 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
+| 13 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
+| 14 | [Still Standing](https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:56 |
 | 15 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
 | 16 | [Two Trees](https://open.spotify.com/track/17XJ5Ul2JtXih8b091Alzd) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [I Can See Your House From Here](https://open.spotify.com/album/3yYukRvZ6tcAsNsGrenaCY) | 2:23 |
 | 17 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
-| 18 | [Never Going Back!](https://open.spotify.com/track/7tQxEN6xSkPvnL1kPFB9Bj) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 1:42 |
-| 19 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
+| 18 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
+| 19 | [Never Going Back!](https://open.spotify.com/track/7tQxEN6xSkPvnL1kPFB9Bj) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 1:42 |
 | 20 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 |
 | 21 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 22 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 26 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
 | 27 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 28 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 29 | [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 |
-| 30 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 |
+| 29 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 |
+| 30 | [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 |
 | 31 | [The Rarest Hour](https://open.spotify.com/track/3ZlHYicAmVwPBB3bhyo85k) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Rarest Hour](https://open.spotify.com/album/4s5GdjDWH2ADhn8YGafhOT) | 4:05 |
 | 32 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
 | 33 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 52 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
 | 53 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 |
 | 54 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 |
-| 55 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
-| 56 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
+| 55 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
+| 56 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
 | 57 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
 | 58 | [Collapse](https://open.spotify.com/track/7DIfpX5Mf10iQmLquDwIUx) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Collapse](https://open.spotify.com/album/2jGAYSrPZor7BOYRGciAmd) | 4:32 |
 | 59 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 | 80 | [I See You](https://open.spotify.com/track/0QFokWg1OVO1gAfRMJSdVl) | [Odhran Murphy](https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0) | [I See You](https://open.spotify.com/album/5nWbzh7QDRbqhyn5lqP1Sz) | 3:47 |
 
-Snapshot ID: `AAAAAFSy6bsOcD3sJAjf8R08yksAxMjd`
+Snapshot ID: `AAAAAClTh93qELDrBC8QwGPtHQhdtbTn`

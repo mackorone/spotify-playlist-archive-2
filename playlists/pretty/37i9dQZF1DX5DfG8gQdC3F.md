@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dexter and The Moonrocks, Drake, Noah Kahan, Quavo, Victoria Monét, Lil Nas X, Angèle, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,696 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,679 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Windy Nights](https://open.spotify.com/track/3HcrNDrjhcRtoHVGPrACj1) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Windy Nights](https://open.spotify.com/album/51QRdCuPLXyHgVMKgDORFN) | 3:24 |
 | 100 | [Clever](https://open.spotify.com/track/7kAA4QQq89UalAJUb4J9bp) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Clever](https://open.spotify.com/album/0aLQLvlKBiD3Cwt2wd4maJ) | 3:33 |
 
-Snapshot ID: `AAAAAGagYyZzdkUR33MPHmyT7iZoTFvS`
+Snapshot ID: `AAAAACqHBe3AsL/gvEeHYJFR3TH7CA2C`

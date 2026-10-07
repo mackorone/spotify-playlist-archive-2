@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 151244,
+  "num_followers": 151254,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHrJ/lvqaBxqg7FmSXz5uof1HfOu",
+  "snapshot_id": "AAAAANpEpLrfPYYgzgGktNVaIE/1saNp",
   "tracks": [
     {
       "added_at": "2025-10-25 00:54:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Can\u00e7\u00f5es do Velho Mundo",
-        "url": "https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq"
-      },
-      "artists": [
-        {
-          "name": "Teago Oliveira",
-          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
-        }
-      ],
-      "duration_ms": 216658,
-      "name": "Eu Nasci Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Can\u00e7\u00f5es do Velho Mundo",
+        "url": "https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq"
+      },
+      "artists": [
+        {
+          "name": "Teago Oliveira",
+          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
+        }
+      ],
+      "duration_ms": 216658,
+      "name": "Eu Nasci Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Nuvem Passageira",
-        "url": "https://open.spotify.com/album/0LP4xZ87Qp6tFxmn3N1xXV"
-      },
-      "artists": [
-        {
-          "name": "Wem",
-          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
-        }
-      ],
-      "duration_ms": 191485,
-      "name": "Nuvem Passageira",
-      "url": "https://open.spotify.com/track/3pWXxtwyV4RHkNxD8fGvj4"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "I'll see you later",
         "url": "https://open.spotify.com/album/0bKXyHQsadqalpwxarGB5I"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 225185,
       "name": "I'll see you later",
       "url": "https://open.spotify.com/track/1leqFlJyuvHWSqlmk6DTjW"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Nuvem Passageira",
+        "url": "https://open.spotify.com/album/0LP4xZ87Qp6tFxmn3N1xXV"
+      },
+      "artists": [
+        {
+          "name": "Wem",
+          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
+        }
+      ],
+      "duration_ms": 191485,
+      "name": "Nuvem Passageira",
+      "url": "https://open.spotify.com/track/3pWXxtwyV4RHkNxD8fGvj4"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

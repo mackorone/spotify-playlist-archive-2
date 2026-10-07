@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,574 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,587 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 43 | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2) | 3:43 |
 | 44 | [El Cumbión](https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Directo Hasta Arriba Vol.2](https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG) | 4:40 |
 | 45 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
-| 46 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
-| 47 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
+| 46 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
+| 47 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
 | 48 | [De Rol](https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba Vol.2](https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG) | 3:31 |
 | 49 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 | 50 | [Bien Perro](https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Bien Perro](https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 12 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 |
 | 13 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:35 |
 | 14 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
-| 15 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 |
-| 16 | [Mal Escrito](https://open.spotify.com/track/5g8LyZjezjQiEVzgjLFkLr) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 3:01 |
+| 15 | [Mal Escrito](https://open.spotify.com/track/5g8LyZjezjQiEVzgjLFkLr) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 3:01 |
+| 16 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 |
 | 17 | [Yo Quiero Un Amor](https://open.spotify.com/track/1T7QqLxsBQyzQgvKnXWTHS) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Yo Quiero Un Amor](https://open.spotify.com/album/7dVcitwtxig7tqFoVJzhYt) | 3:35 |
 | 18 | [MACARRONES CON QUESO](https://open.spotify.com/track/0PzlSPw8v2rZ5Jami3obwb) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/0OJ9auAQOAqqzGBGMUNiAa) | 2:27 |
 | 19 | [What You Playin' For](https://open.spotify.com/track/7n0f092kj7BtumH5nJIDAX) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/0rOCEXmJR17WBi6TTv4jiI) | 2:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 50 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 |
 | 51 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `AceKtgAAAADEczJXC0bk7VjAKHqa3jPC`
+Snapshot ID: `AceQQgAAAAC5z5LdkeYQFFUYF8mtQig0`

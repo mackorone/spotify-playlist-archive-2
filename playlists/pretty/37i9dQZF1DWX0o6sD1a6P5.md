@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,549 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,648 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LSTB](https://open.spotify.com/track/1rDl5awA0NIu0K6R0QptYA) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [LSTB](https://open.spotify.com/album/22p80BCykAAkqziP8DJz0t) | 2:22 |
 | 50 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
 
-Snapshot ID: `AAAAADAXweggehISET3oHQV2S502ZcNw`
+Snapshot ID: `AAAAAB1oAoy9/7OQBaGpqWlCTIfUYmBF`

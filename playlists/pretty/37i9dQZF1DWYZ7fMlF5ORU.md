@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,612 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,621 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 27 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 |
 | 28 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
 | 29 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
-| 30 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
-| 31 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
+| 30 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
+| 31 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
 | 32 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 33 | [Mulher de Ló \- AO VIVO](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
 | 34 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
-| 35 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
-| 36 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
+| 35 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
+| 36 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 37 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 38 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0) | 3:40 |
 | 39 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 80 | [O Melhor Pra Mim \- Ao Vivo](https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:06 |
 
-Snapshot ID: `AAAAAOWfllIe90akAnwZooX3+MZoOTXs`
+Snapshot ID: `AAAAANZI0C8sCAXNXpcOYCYTmVS98J3o`

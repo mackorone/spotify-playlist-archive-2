@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Sonny Fodera
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,425 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,415 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 75 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 
-Snapshot ID: `AAAAAD/hvv9iI7A60mVvVKbOhn7QVkUn`
+Snapshot ID: `AAAAANdMfnNUVePA5d8AoqmlNT3EcrNt`

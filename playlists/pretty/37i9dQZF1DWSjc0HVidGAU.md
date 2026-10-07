@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjc0HVidGAU.md) - [plain]
 | 24 | [like JENNIE](https://open.spotify.com/track/0DC62SYIRKMFgx2f7OyvwD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:03 |
 | 25 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [SECOND WIND](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 
-Snapshot ID: `AAAAACknwvg0sIdvTJOOHCwUqVYZrK1L`
+Snapshot ID: `AAAAAHYgNfB1MbWKPj/wB2aa/Zp2BtJt`

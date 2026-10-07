@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296829,
+  "num_followers": 296856,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANo1xZSpYFvaOR7iL0gNAI+HHlGY",
+  "snapshot_id": "AAAAADM2f0dl9MZ/1qgPVQ37WBIDjr69",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -695,6 +695,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "De Vez en Cuando",
+        "url": "https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        },
+        {
+          "name": "Pavel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN"
+        }
+      ],
+      "duration_ms": 253190,
+      "name": "De Vez en Cuando - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "14 de Ciento Volando de 14",
         "url": "https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 154671,
       "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
       "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "De Vez en Cuando",
-        "url": "https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        },
-        {
-          "name": "Pavel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN"
-        }
-      ],
-      "duration_ms": 253190,
-      "name": "De Vez en Cuando - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
         "url": "https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 206618,
       "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
       "url": "https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",

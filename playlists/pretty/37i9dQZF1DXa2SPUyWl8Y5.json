@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 567137,
+  "num_followers": 567187,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXUirEBVOn5AYAI1m9uLg7CyNSA",
+  "snapshot_id": "AAAAAMnaUwIg6TcvaQD5CtDmDOEUTTOW",
   "tracks": [
     {
       "added_at": "2026-06-11 06:56:41",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Millenium (Edit)",
-        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 220659,
-      "name": "Millenium - Edit",
-      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Traum EP",
         "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 316000,
       "name": "Deep in My Mind - Original Mix",
       "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Millenium (Edit)",
+        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 220659,
+      "name": "Millenium - Edit",
+      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "If I Had Wings",
-        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 420495,
-      "name": "If I Had Wings",
-      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 241282,
       "name": "Sense of Wonder",
       "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "If I Had Wings",
+        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 420495,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        }
-      ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Planet Earth | March of the Giants",
         "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Meertraum",
+        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        }
+      ],
+      "duration_ms": 394418,
+      "name": "Meertraum",
+      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "The Duty",
         "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
       },
@@ -779,6 +795,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -839,22 +855,6 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
-      },
-      "artists": [
-        {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
-        }
-      ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "K\u00fcnstlerische Freiheit II",
-        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
-      },
-      "artists": [
-        {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
-        }
-      ],
-      "duration_ms": 397891,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "K\u00fcnstlerische Freiheit II",
+        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        }
+      ],
+      "duration_ms": 397891,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2026-06-11 06:56:41",

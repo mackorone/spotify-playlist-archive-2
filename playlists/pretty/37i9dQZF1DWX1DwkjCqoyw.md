@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > Inspired by the islands and into the mainstream\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,720 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,718 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 30 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
 | 31 | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/album/1tBb7Ipr1HeCNpWXa78aX9) | 2:10 |
 | 32 | [Mariposa](https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Mariposa](https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV) | 3:42 |
-| 33 | [Soft Girl Era](https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soft Girl Era](https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js) | 2:25 |
-| 34 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
+| 33 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
+| 34 | [Soft Girl Era](https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soft Girl Era](https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js) | 2:25 |
 | 35 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 36 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 37 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 49 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
 | 50 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 |
 
-Snapshot ID: `AAAAABmtXE48wtHIZ8K23WbalVso2Ocg`
+Snapshot ID: `AAAAACjgewiWmKpRh4GHd8AZrg6OWVMl`

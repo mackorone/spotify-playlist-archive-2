@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,639 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,638 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 28 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 | 29 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 30 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
-| 31 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
-| 32 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 31 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 32 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 33 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 | 34 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
 | 35 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 54 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
 | 55 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |
 | 56 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
-| 57 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
-| 58 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
+| 57 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
+| 58 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 | 59 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 60 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
 | 61 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 75 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 
-Snapshot ID: `AAAAAMGitKUm0XT3JYgC8jY/bun8NNXw`
+Snapshot ID: `AAAAAIp9ES2CkHtdjVmQikyDNWsb80U+`

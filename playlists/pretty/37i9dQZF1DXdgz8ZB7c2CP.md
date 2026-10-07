@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🕊️ featuring Alison Wonderland & WINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,472 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,493 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 99 | [HOLD ON](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [HOLD ON](https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H) | 2:23 |
 | 100 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 
-Snapshot ID: `AAAAAFtGnFqTCtgJnX/sEFd7in4dlX19`
+Snapshot ID: `AAAAAIq4JWuSc3JaRFH/cDzntvZAs2K/`

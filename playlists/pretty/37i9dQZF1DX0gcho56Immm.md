@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: mikey
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,925 likes - 200 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,164 likes - 200 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 199 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 |
 | 200 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 |
 
-Snapshot ID: `AAAAAEu6AdmURMYwfJSDyMzZ1wFTWEas`
+Snapshot ID: `AAAAAFuji82S7ZcvYMxusyLIMaa4zeP1`

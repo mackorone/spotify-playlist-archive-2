@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,367 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,369 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [Que Mas](https://open.spotify.com/track/1BhypqZDFxUFn0pTbAvF1T) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Aquí Estoy Yo](https://open.spotify.com/album/3S1shMfIc0bd3UZhMg3BsT) | 1:58 |
 | 15 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 |
 | 16 | [Bipolar](https://open.spotify.com/track/0y1sScvFLXrefcrlYgZiUz) | [Kevin Cuadras](https://open.spotify.com/artist/5rB9nhJrkE9OTWujBUKJWA), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [DESSIENTO](https://open.spotify.com/album/1awsZM1XWRigaMXZwiBqjo) | 2:21 |
-| 17 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Castro](https://open.spotify.com/artist/3ypcczL3pVuYHO4MfQzVNh), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
+| 17 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Raúl](https://open.spotify.com/artist/6pj2OaALBI7L6Wtq6XNyGj), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
 | 18 | [Esta Mi Pasión](https://open.spotify.com/track/4mGMdbgvHJHOeRpBe0bI5C) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Esta Mi Pasión](https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O) | 2:44 |
 | 19 | [NI TAN SANTX](https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs) | [EON](https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg) | [NI TAN SANTX](https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i) | 3:18 |
 | 20 | [Como hacías conmigo](https://open.spotify.com/track/5K8WJAQl2xVCfsCzjjpC4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Como hacías conmigo](https://open.spotify.com/album/0NGJN4FzzvpEJsbrsZh4pm) | 4:02 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [versAAce](https://open.spotify.com/track/0sdwGJRJgAmNJK3fKUbod2) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [versAAce](https://open.spotify.com/album/113KAUl3wYEgkNSaGAHBn5) | 2:40 |
 | 34 | [Ángel](https://open.spotify.com/track/2myzKCD2hwf7VcNrl9jmya) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV), [Floret Fauna](https://open.spotify.com/artist/0IQgwEHoge7gQP8GsWaZgz) | [Ángel](https://open.spotify.com/album/07tTVJnfiRlRcVPBv5uleL) | 2:46 |
 | 35 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
-| 36 | [Resiliencia](https://open.spotify.com/track/09tLTwAJHQ8N5YzWayDU5F) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [DJ Kanzer](https://open.spotify.com/artist/5crIAxCUXff1hB5jsmUVCK) | [The 40S](https://open.spotify.com/album/1nNZySNT4rDkXzMdyQIZCk) | 3:43 |
+| 36 | [Resiliencia](https://open.spotify.com/track/09tLTwAJHQ8N5YzWayDU5F) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [DJ Kanzer](https://open.spotify.com/artist/5crIAxCUXff1hB5jsmUVCK), [Adrian Black](https://open.spotify.com/artist/5pR222VDr4gy0ikvCz0mMF) | [The 40S](https://open.spotify.com/album/1nNZySNT4rDkXzMdyQIZCk) | 3:43 |
 | 37 | [NO SOY IGUAL](https://open.spotify.com/track/62mzX0BTW3raGfao9D2YMd) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Lexter](https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj) | [NO SOY IGUAL](https://open.spotify.com/album/5Ur0l4EEPrBLnNFcGHIzp4) | 2:49 |
 | 38 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
 | 39 | [Pornstar](https://open.spotify.com/track/0FqyrLqchgZaipnnlL7u31) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Pornstar](https://open.spotify.com/album/3Bt1hizGiTS9bwI9HYPNxf) | 2:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Dos Inviernos](https://open.spotify.com/track/6dxiz1eCk52U62Yo69G0YJ) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vamos Que Vamos](https://open.spotify.com/album/3ZJFqdKzU6RJvqpRzR5CHf) | 3:34 |
 | 51 | [Amor Eterno](https://open.spotify.com/track/2QMY7asFUKBEXllZ7XsjB7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Eternos](https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw) | 4:51 |
 
-Snapshot ID: `AAAAAGN1TUcnR+MEDxD0NAwnx3m+NKOb`
+Snapshot ID: `AAAAAPaLHIXR3MVlwfxTuWkW2gIFb8CI`

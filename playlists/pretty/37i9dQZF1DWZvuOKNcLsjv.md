@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: TUIDE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,025 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,030 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 59 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 |
 | 60 | [Blue Shining Star](https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Blue Shining Star](https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE) | 3:41 |
 
-Snapshot ID: `AAAAANyLemv0tOWzAQTm1AkxAOmSucuR`
+Snapshot ID: `AAAAAG85rkkLaWI1o3MM9TZxV86tjGUn`

@@ -1,12 +1,12 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
-  "num_followers": 45652,
+  "num_followers": 45673,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACt8mHyc1XkLwiJWcIvNbozxQ7VN",
+  "snapshot_id": "AAAAAL3RZ+XCaHqgXPyoMKQsN32f4MeQ",
   "tracks": [
     {
       "added_at": "2026-10-01 21:06:01",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
         "name": "Xelogiastra",
         "url": "https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
         "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
         "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -595,22 +611,6 @@
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
-        "name": "Sou Eleipsa H Oxi?",
-        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "Sou Eleipsa H Oxi?",
-      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Etsi Exei Mathei",
-        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 190148,
-      "name": "Etsi Exei Mathei",
-      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
         "name": "Perno Tin Efthini",
         "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 215003,
       "name": "Perno Tin Efthini",
       "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
+        "name": "Etsi Exei Mathei",
+        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Etsi Exei Mathei",
+      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Kataramena Feggaria (Live)",
-        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
-      },
-      "artists": [
-        {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Kataramena Feggaria - Live",
-      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
         "name": "Se Thelo Parafora",
         "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 201925,
       "name": "Se Thelo Parafora",
       "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
+        "name": "Kataramena Feggaria (Live)",
+        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "Kataramena Feggaria - Live",
+      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
     },
     {
       "added_at": "2026-10-01 21:06:01",

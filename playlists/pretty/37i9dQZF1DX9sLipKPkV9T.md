@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,447 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,452 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [עוד יום על הגלגל](https://open.spotify.com/track/5AdeKv1VlrdU1KX5llKNz7) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj) | [עוד יום על הגלגל](https://open.spotify.com/album/1i9k0hEjuRTAV1swKa9X0w) | 3:08 |
 | 50 | [תכף אשוב](https://open.spotify.com/track/4ZxH9NbRV6NKj42svXTocM) | [Yuval Gold](https://open.spotify.com/artist/6zc2lm9JeYFjjFE8VEGjlt) | [תכף אשוב](https://open.spotify.com/album/2DhTqq6veNiuvyZ0mRSsd4) | 2:57 |
 
-Snapshot ID: `AAAAAKoVsA+Dbuvv2q61OMot+yVy6+88`
+Snapshot ID: `AAAAAKnmtjLHFGeLBdRU4ytUZGt9VcaL`

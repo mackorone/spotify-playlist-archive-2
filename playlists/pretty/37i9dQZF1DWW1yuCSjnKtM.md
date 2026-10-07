@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > Hot right now 📈 cover: Cloonee, Prospa and Tristan Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,437 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,424 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 69 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 70 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
 
-Snapshot ID: `AAAAAJnw1+uZaB6k1k/qGTIqRU+vs13x`
+Snapshot ID: `AAAAAPKkSHgYK4/5mu43Y8IAOAnVoN0/`

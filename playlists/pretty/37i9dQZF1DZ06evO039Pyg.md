@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,794 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,814 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 |
 | 50 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
 
-Snapshot ID: `asGXAAAAAAB2vdGea1NcmzwSzu8UXkoQ`
+Snapshot ID: `asLogAAAAAB5sONVk56LVFKQXOfw4Bbp`

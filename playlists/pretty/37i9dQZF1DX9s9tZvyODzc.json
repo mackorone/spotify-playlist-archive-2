@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 225312,
+  "num_followers": 225351,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADz9T2/2RqHuDGjJ4RmkGJv2Kcov",
+  "snapshot_id": "AAAAAH/ZVbFJVuP6NfDEVMyFZCP3Xhf1",
   "tracks": [
     {
       "added_at": "2026-10-02 03:00:22",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-10-02 03:00:22",
       "album": {
-        "name": "Hoy Reggae",
-        "url": "https://open.spotify.com/album/46IvQS6P6JAxSsHh4ZO79h"
-      },
-      "artists": [
-        {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
-        },
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 263728,
-      "name": "Hoy Reggae",
-      "url": "https://open.spotify.com/track/1dATWMFFBjvBsmjmyWz8TO"
-    },
-    {
-      "added_at": "2026-10-02 03:00:22",
-      "album": {
         "name": "Campanas en la Noche",
         "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 250241,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
+    },
+    {
+      "added_at": "2026-10-02 03:00:22",
+      "album": {
+        "name": "Hoy Reggae",
+        "url": "https://open.spotify.com/album/46IvQS6P6JAxSsHh4ZO79h"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 263728,
+      "name": "Hoy Reggae",
+      "url": "https://open.spotify.com/track/1dATWMFFBjvBsmjmyWz8TO"
     },
     {
       "added_at": "2026-10-02 03:00:22",

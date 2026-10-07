@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,731 likes - 160 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,786 likes - 160 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 87 | [Georgia](https://open.spotify.com/track/5nN8WUGQvp1Hqo8hGIqxeP) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Georgia](https://open.spotify.com/album/2kwemYoubfya2nsFnusIG1) | 2:31 |
 | 88 | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/album/3feEOM2rh8zbAdM4xB0wE0) | 3:10 |
 | 89 | [don't let go til you hate me](https://open.spotify.com/track/7nzdjQ7XbzE9c2jm7V0e54) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [don't let go til you hate me](https://open.spotify.com/album/1MKCEJKx8qbxkV1Z8vooV0) | 2:33 |
-| 90 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 90 | [Big Ideas](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Big Ideas](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 91 | [Touch Touch](https://open.spotify.com/track/18fRO6IsVaKNn5HIdVraSA) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Touch Touch](https://open.spotify.com/album/5O8sdtkdClPUYxdD69MuKG) | 4:29 |
 | 92 | [Ants](https://open.spotify.com/track/6ukoKgaAueZa5CSMxpJTqp) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Ants](https://open.spotify.com/album/36v0xY6ZNf6xorboxUqbeD) | 3:17 |
 | 93 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 159 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
 | 160 | [Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [A Stranger To You](https://open.spotify.com/album/6cIaFWlRULnxMrYsiRnBXv) | 3:25 |
 
-Snapshot ID: `AAAAADlARpSYmWKmpdkYFUsRP7Qnv9f3`
+Snapshot ID: `AAAAAASKxDcg1cocDVG48NYguqASm/nC`

@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 9 | [como superar um quase algo?](https://open.spotify.com/episode/31L6pNKocl29Zau2vqdKQS) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 41:47 |
 | 10 | [Só Pod 108 \- Minha sogra não conseguiu chegar ao banheiro..\. e fez tudo na minha sala](https://open.spotify.com/episode/2BXeSndqicQQSvjnMo1dPE) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 50:23 |
 
-Snapshot ID: `AAAAAINecuGEiqI49h/wmLPEcLn7ajvw`
+Snapshot ID: `AAAAAJEZgmG5oR43yrh3kTtRfEgmW/iv`

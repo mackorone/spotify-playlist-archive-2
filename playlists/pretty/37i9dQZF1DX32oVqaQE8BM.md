@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,867 likes - 210 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,222 likes - 210 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 209 | [Dream about us](https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT) | [Cedar Room](https://open.spotify.com/artist/1Wew13xlDH4ylTaJI75vw8) | [Dream about us](https://open.spotify.com/album/7HufHka466JcOtJXSGlbE5) | 2:33 |
 | 210 | [runAway](https://open.spotify.com/track/7DR8XmrCVMCvjg6LYSoLLG) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [runAway](https://open.spotify.com/album/2hZKQKRN4NTygDaSH90cpm) | 2:39 |
 
-Snapshot ID: `AAAAACtwfek1o1pKsHuJeZgIkKE+VdvV`
+Snapshot ID: `AAAAAMe3bzNDuObI8jytogIPxllk4dkW`

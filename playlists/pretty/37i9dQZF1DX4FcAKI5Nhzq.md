@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: CRAVITY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,972 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,943 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 51 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 | 52 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
 
-Snapshot ID: `AAAAAPL0BGk/cmPqjIfYtxedhSEFR7mm`
+Snapshot ID: `AAAAAHJMCUuN19xjOn8jnom0zG8bILvH`

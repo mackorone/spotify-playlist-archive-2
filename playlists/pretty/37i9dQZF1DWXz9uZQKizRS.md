@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Igor Herbut
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,523 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,524 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 100 | [HIT SONG](https://open.spotify.com/track/4MsIGPpRevmYWrYa80VSlh) | [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk) | [HIT SONG](https://open.spotify.com/album/6qzytAjv5Oj6eWfc3hTjS0) | 3:05 |
 | 101 | [Było sobie życie](https://open.spotify.com/track/1QRxwqQBb6lezC44JrD1bX) | [Biały Falochron](https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul) | [Było sobie życie](https://open.spotify.com/album/5vBPodVInQnNl16xBj0XSb) | 3:00 |
 
-Snapshot ID: `AAAAAAKXdK7bsFuX/nz/Y3zAxEchWRBZ`
+Snapshot ID: `AAAAAJHzpC/P68fA9RdfFB5eIMt893n3`

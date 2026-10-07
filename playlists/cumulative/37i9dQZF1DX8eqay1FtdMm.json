@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: WOODZ, Lee Seung Chul) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: YESUNG) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -5750,7 +5750,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
@@ -8033,6 +8033,24 @@
     },
     {
       "album": {
+        "name": "Where We Are - The 2nd Album",
+        "url": "https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb"
+    },
+    {
+      "album": {
         "name": "Love Playlist3 Part.1",
         "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
       },
@@ -8432,7 +8450,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 179000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"

@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: \u00c9l\u00e9gie",
-  "num_followers": 10123,
+  "num_followers": 10124,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGd4U9XPQhXFbB0cMZUYIizXQVNG",
+  "snapshot_id": "AAAAAFjOTovubff2EtuCoU6dfEnNMALV",
   "tracks": [
     {
       "added_at": "2026-10-02 04:03:50",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY"
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
       },
       "artists": [
         {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -919,34 +919,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Machine Machine",
-        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY"
       },
       "artists": [
         {
-          "name": "Brothel in Belize",
-          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Machine Machine",
-      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
+      "duration_ms": 164240,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
+        "name": "Machine Machine",
+        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
+      },
+      "artists": [
+        {
+          "name": "Brothel in Belize",
+          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Machine Machine",
+      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
         "name": "SEXES",
         "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
         "name": "White Claw Addict",
         "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 187384,
       "name": "White Claw Addict",
       "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "duration_ms": 118309,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1115,6 +1115,54 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
+        "name": "Bingo!",
+        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Nah Nah",
+      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
+        "name": "\u00c9ther",
+        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Lisbonne",
+      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
+        "name": "Dans la seconde",
+        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Parfaite \u00e0 l'\u00e9cran",
+      "url": "https://open.spotify.com/track/5pq3ofihmnROe8gCPrtCEA"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
         "name": "Since I Told You How I Feel",
         "url": "https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1"
       },
@@ -1147,38 +1195,6 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Dans la seconde",
-        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/5pq3ofihmnROe8gCPrtCEA"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
-        "name": "\u00c9ther",
-        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Lisbonne",
-      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
         "name": "sex & cigarettes",
         "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 147640,
       "name": "sex & cigarettes",
       "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
-        "name": "PROTOTYPE",
-        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
-      },
-      "artists": [
-        {
-          "name": "Madior",
-          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "PROTOTYPE",
-      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Bingo!",
-        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
       },
       "artists": [
         {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
         }
       ],
-      "duration_ms": 127493,
-      "name": "Nah Nah",
-      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
-    },
-    {
-      "added_at": "2026-10-02 04:03:50",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
       },
       "artists": [
         {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 334333,
-      "name": "Overwhelmed and Unprepared",
-      "url": "https://open.spotify.com/track/11y1l29W0zhq2c5Fv58kGs"
+      "duration_ms": 171455,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1355,6 +1339,22 @@
       "duration_ms": 209838,
       "name": "Effigie",
       "url": "https://open.spotify.com/track/1R1r4Ki69qkng1gkXv46eR"
+    },
+    {
+      "added_at": "2026-10-02 04:03:50",
+      "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "Overwhelmed and Unprepared",
+      "url": "https://open.spotify.com/track/11y1l29W0zhq2c5Fv58kGs"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/3qlJTfFLMf536LZ8gUbhKe"
+        "name": "The Cost of Freedom",
+        "url": "https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy"
       },
       "artists": [
         {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "Koko Love",
+          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
+      "duration_ms": 210681,
+      "name": "The Cost of Freedom",
+      "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"
     },
     {
       "added_at": "2026-10-02 04:03:50",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-10-02 04:03:50",
       "album": {
-        "name": "The Cost of Freedom",
-        "url": "https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy"
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/3qlJTfFLMf536LZ8gUbhKe"
       },
       "artists": [
         {
-          "name": "Koko Love",
-          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 210681,
-      "name": "The Cost of Freedom",
-      "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
     }
   ],
   "unique_name": "ALT_QC",

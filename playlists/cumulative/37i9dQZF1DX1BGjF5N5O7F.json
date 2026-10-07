@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Back to the Old House - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb"
+    },
+    {
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
       },
@@ -784,6 +802,36 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
       "album": {
@@ -2010,6 +2058,24 @@
       "duration_ms": 207470,
       "name": "Light a Fire",
       "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
+    },
+    {
+      "album": {
+        "name": "Stars: The Best Of The Cranberries 1992-2002",
+        "url": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274773,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX"
     },
     {
       "album": {
@@ -4266,6 +4332,24 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/4SwSpxsOYtnEaRxWtYrnvZ"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155938,
+      "name": "Velvet Ring",
+      "url": "https://open.spotify.com/track/7qshYIOUFQAGgYfWXg1m9N"
     },
     {
       "album": {

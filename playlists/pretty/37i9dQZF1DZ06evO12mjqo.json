@@ -1,6 +1,6 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 481905,
+  "num_followers": 481920,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
-        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 445376,
-      "name": "Majesty - Live from Mexico City",
-      "url": "https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 337720,
       "name": "Waiting For The Night",
       "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 445376,
+      "name": "Majesty - Live from Mexico City",
+      "url": "https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P"
     },
     {
       "added_at": null,

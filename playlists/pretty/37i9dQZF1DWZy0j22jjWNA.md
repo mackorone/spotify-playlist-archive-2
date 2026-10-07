@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,735 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,752 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 41 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
 | 42 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
 | 43 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
-| 44 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
-| 45 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
-| 46 | [New Thing \- Live](https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z) | [New Thing \(Live\)](https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa) | 4:31 |
+| 44 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
+| 45 | [New Thing \- Live](https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z) | [New Thing \(Live\)](https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa) | 4:31 |
+| 46 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
 | 47 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 48 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
 | 49 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 60 | [Good Morning \- Live](https://open.spotify.com/track/6Ig52FtLA9NiOl1QmRdfdf) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Good Morning \(Live\)](https://open.spotify.com/album/35tgZxinl7ylrXq7LcgrFL) | 4:46 |
 | 61 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 62 | [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 |
-| 63 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
-| 64 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
+| 63 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
+| 64 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
 | 65 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
 | 66 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
 | 67 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 
-Snapshot ID: `AAAAACscRHZZVV/6JGY2Qa2TLnrDDA/s`
+Snapshot ID: `AAAAAH5w3AqXcXS/5ya14tl4dOBtDYpu`

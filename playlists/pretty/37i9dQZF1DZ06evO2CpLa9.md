@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,536 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,547 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
 | 50 | [GU3RR4](https://open.spotify.com/track/0WsKujvQEuGm6UibuvAZvL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [GU3RR4](https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r) | 5:45 |
 
-Snapshot ID: `asGXAAAAAABXeShgxHYTti+QkU+YzAV4`
+Snapshot ID: `asLogAAAAAASXhjqldmJKP+vigLNS5OU`

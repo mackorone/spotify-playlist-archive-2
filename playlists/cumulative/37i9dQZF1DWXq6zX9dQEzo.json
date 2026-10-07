@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 106000,
       "name": "Cold In Jamaica",
       "url": "https://open.spotify.com/track/13Qot1i1jaMqkmZHtojLvM"
@@ -20124,6 +20124,28 @@
       "duration_ms": 181600,
       "name": "we the light",
       "url": "https://open.spotify.com/track/0mORO3SyxeVkdGzWT6dNm3"
+    },
+    {
+      "album": {
+        "name": "We Up",
+        "url": "https://open.spotify.com/album/2TiJI5rEbMcunijvdNkSHT"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "ZISO",
+          "url": "https://open.spotify.com/artist/4HoaudLDTpOTYyvxOk6aFB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160864,
+      "name": "We Up",
+      "url": "https://open.spotify.com/track/3HCybIZFMf5zNw8WOWoML0"
     },
     {
       "album": {

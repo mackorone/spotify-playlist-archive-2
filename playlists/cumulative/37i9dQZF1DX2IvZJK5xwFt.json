@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246023,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD"
+    },
+    {
+      "album": {
         "name": "Mindsets",
         "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
       },
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 198913,
       "name": "Big Shop Of Horrors",
       "url": "https://open.spotify.com/track/3PpwFwOUYtvJuKzaQGu7I7"
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 364213,
       "name": "Burned Out",
       "url": "https://open.spotify.com/track/5PLSqOuynLJIGkxUVXMFTd"
@@ -6354,7 +6372,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 271866,
       "name": "Florence",
       "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
@@ -8993,6 +9011,24 @@
     },
     {
       "album": {
+        "name": "I'm Coming Home (Big Gulps)",
+        "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160271,
+      "name": "I'm Coming Home (Big Gulps)",
+      "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
+    },
+    {
+      "album": {
         "name": "I'm Never Gonna R.I.P.",
         "url": "https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD"
       },
@@ -9394,7 +9430,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 308365,
       "name": "Into The Dark",
       "url": "https://open.spotify.com/track/3j0ZFiYOhTq0f5EI4unFMK"
@@ -11218,10 +11254,28 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 190428,
       "name": "Make a Mess",
       "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
+    },
+    {
+      "album": {
+        "name": "Make Me Love You",
+        "url": "https://open.spotify.com/album/02D1TfylQ6y4nrGBX6FR2c"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214827,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/5V2IZZoO8p054tU9tQd44V"
     },
     {
       "album": {
@@ -12070,7 +12124,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 160064,
       "name": "My People",
       "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
@@ -12380,6 +12434,24 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "album": {
@@ -12984,7 +13056,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
@@ -13260,6 +13332,24 @@
       "duration_ms": 280206,
       "name": "One of Those Days (feat. Eric Clapton)",
       "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+    },
+    {
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
     },
     {
       "album": {
@@ -14726,7 +14816,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
@@ -16037,6 +16127,24 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
+    {
+      "album": {
         "name": "Silent Divide",
         "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
       },
@@ -16374,6 +16482,24 @@
       "duration_ms": 151623,
       "name": "So Long",
       "url": "https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC"
+    },
+    {
+      "album": {
+        "name": "Social Apocalypse",
+        "url": "https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239394,
+      "name": "Social Apocalypse",
+      "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
     },
     {
       "album": {
@@ -17716,7 +17842,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 291125,
       "name": "The Chandelier",
       "url": "https://open.spotify.com/track/6MKZ5XhuLoUn0Z4QvQnlSc"
@@ -19419,6 +19545,28 @@
     },
     {
       "album": {
+        "name": "Everyone Gets Everything They Want",
+        "url": "https://open.spotify.com/album/6IKkPh0dAyMdbZfC6yg0Jr"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Unconquered (feat. KNEECAP)",
+      "url": "https://open.spotify.com/track/2U0Ib01dRj6WI6IRC3oUW8"
+    },
+    {
+      "album": {
         "name": "ISYANA",
         "url": "https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI"
       },
@@ -20453,6 +20601,24 @@
     },
     {
       "album": {
+        "name": "Where The Goth Girls At?",
+        "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Where The Goth Girls At?",
+      "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
+    },
+    {
+      "album": {
         "name": "Where There's Smoke, There's Fire",
         "url": "https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh"
       },
@@ -20736,7 +20902,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 217373,
       "name": "Window",
       "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
@@ -20776,6 +20942,24 @@
       "duration_ms": 156530,
       "name": "WISH U WERE DEAD",
       "url": "https://open.spotify.com/track/2OoVE4Womkp6V2zneoep8F"
+    },
+    {
+      "album": {
+        "name": "WITH EYES TO SEE",
+        "url": "https://open.spotify.com/album/6G8QRgbECffS2dMFsihVqU"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245246,
+      "name": "WITH EYES TO SEE",
+      "url": "https://open.spotify.com/track/5Zrhvr1qs2u7UduTaTHyvL"
     },
     {
       "album": {

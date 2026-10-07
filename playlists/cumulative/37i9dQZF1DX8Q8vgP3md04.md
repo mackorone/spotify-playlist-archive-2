@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-129 songs - 9 hr 36 min
+130 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 | 2018-10-04 | 2024-05-04 |
 | [Ambbaanut Sirtteeù](https://open.spotify.com/track/4wAj1u7LSzLJ07MTol6qdu) | [Kembatisa Mezmur](https://open.spotify.com/artist/3CRmLp2MhtXteJdf8svxQG) | [Ambbaanut Sirtteeù](https://open.spotify.com/album/09KCMxbtxIOF8iRmAm87p6) | 8:43 | 2024-10-25 | 2026-08-08 |
 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 | 2023-03-17 |  |
+| [ASIYO BELLEMA \| አሲዮ ቤለማ](https://open.spotify.com/track/76hQ4BOOHnr52iR2HFmcXp) | [ROSEL](https://open.spotify.com/artist/0bnCdtuEWcf2qYT9KwDVmE) | [ASIYO BELLEMA \| አሲዮ ቤለማ](https://open.spotify.com/album/5AlJ1V6sWLCClNZ3wRZA2q) | 3:02 | 2026-10-06 |  |
 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 | 2020-06-05 | 2024-10-12 |
 | [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 | 2024-05-25 |
 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 | 2020-06-05 |  |
@@ -62,7 +63,7 @@
 | [Gela](https://open.spotify.com/track/0wb2PD8aLfAOFeYdHVCANE) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Gela](https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr) | 3:34 | 2024-03-22 | 2025-08-16 |
 | [Gerager](https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr) | [Zebiba Girma](https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb) | [Gerager](https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa) | 4:13 | 2020-06-05 |  |
 | [Geriye](https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 4:05 | 2018-10-04 | 2023-03-18 |
-| [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |
+| [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 | 2026-10-07 |
 | [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 | 2018-10-04 | 2024-07-13 |
 | [Got To Be Tuff](https://open.spotify.com/track/54XFOUD5BvxAK8e07Mkxz3) | [Friskit](https://open.spotify.com/artist/1U9Gg49bU4tSqJFZgwhv4G) | [Got To Be Tuff](https://open.spotify.com/album/2AW6FmDcOh0lkUN2eYnXlc) | 3:26 | 2024-07-12 |  |
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 | 2023-03-18 |

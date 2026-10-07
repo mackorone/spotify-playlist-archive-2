@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1573017,
+  "num_followers": 1573129,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVMuiiQCeGhaRrfqGYaw3c9Hdlt",
+  "snapshot_id": "AAAAABZYE7joS4w9aRzXke2vUe9LxHgu",
   "tracks": [
     {
       "added_at": "2026-01-09 05:00:22",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
       "artists": [
         {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -719,6 +703,22 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+        "name": "Get A Grip (Reissue - Remaster)",
+        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 356160,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1539,22 +1555,6 @@
       "duration_ms": 234533,
       "name": "Forever and One (Neverland)",
       "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Get A Grip (Reissue - Remaster)",
-        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "1987 (2007 Remaster)",
         "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 275760,
       "name": "Is This Love - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
     },
     {
       "added_at": "2026-01-09 05:00:22",

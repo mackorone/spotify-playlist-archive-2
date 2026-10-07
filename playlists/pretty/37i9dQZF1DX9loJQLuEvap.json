@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the greatest female voices of all time. Cover: Dolly Parton",
-  "num_followers": 1866663,
+  "num_followers": 1866728,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7Y74teasDyD1BKOQDQSgA9uCj/",
+  "snapshot_id": "AAAAAF+wUBJEdOnrstksCDDthFKZQuyO",
   "tracks": [
     {
       "added_at": "2026-08-25 18:38:58",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-08-25 18:38:58",
       "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
-    },
-    {
-      "added_at": "2026-08-25 18:38:58",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2026-08-25 18:38:58",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
       "added_at": "2026-08-25 18:38:58",
@@ -455,6 +439,22 @@
       "duration_ms": 183653,
       "name": "Oscar Winning Tears.",
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "added_at": "2026-08-25 18:38:58",
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2026-08-25 18:38:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-25 18:38:58",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 291333,
-      "name": "No More \"I Love You's\"",
-      "url": "https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD"
-    },
-    {
-      "added_at": "2026-08-25 18:38:58",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2026-08-25 18:38:58",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 291333,
+      "name": "No More \"I Love You's\"",
+      "url": "https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD"
     }
   ],
   "unique_name": "Great Female Voices",

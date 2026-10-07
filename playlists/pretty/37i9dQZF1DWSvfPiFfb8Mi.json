@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 790028,
+  "num_followers": 790038,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqnluXuog3me4Ydu8UZqQtjnTmP",
+  "snapshot_id": "AAAAAL5401WdXtgrGZy7oPpSw04iFN9F",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "The Night Trip",
-        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
-      },
-      "artists": [
-        {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
-        }
-      ],
-      "duration_ms": 206207,
-      "name": "Velvet Avenue",
-      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "It's Love",
         "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195026,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "The Night Trip",
+        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
+      },
+      "artists": [
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
+        }
+      ],
+      "duration_ms": 206207,
+      "name": "Velvet Avenue",
+      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
+      },
+      "artists": [
+        {
+          "name": "DE SOFFER",
+          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
-      },
-      "artists": [
-        {
-          "name": "DE SOFFER",
-          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "FEEL THE NIGHT",
         "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
       },
@@ -1199,42 +1199,6 @@
       "duration_ms": 189374,
       "name": "FEEL THE NIGHT",
       "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
-      },
-      "artists": [
-        {
-          "name": "Alexander IV",
-          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
-        },
-        {
-          "name": "Josef Scott",
-          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
-        }
-      ],
-      "duration_ms": 167805,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1255,6 +1219,42 @@
       "duration_ms": 212461,
       "name": "Reverse Things",
       "url": "https://open.spotify.com/track/13iU419aX4eb5BlWdTawnQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Norway",
+        "url": "https://open.spotify.com/album/367htatgPzE9MuBKhFZyZ3"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/7Im3WV5PgWf9BxARvEhkPz"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "Josef Scott",
+          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
+        }
+      ],
+      "duration_ms": 167805,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
         "name": "Elation",
         "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Norway",
-        "url": "https://open.spotify.com/album/367htatgPzE9MuBKhFZyZ3"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Norway",
-      "url": "https://open.spotify.com/track/7Im3WV5PgWf9BxARvEhkPz"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 117454,
       "name": "Alsace",
       "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1379,26 +1399,6 @@
       "duration_ms": 191802,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "The Bay (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 223824,
-      "name": "The Bay - Purple Disco Machine Edit",
-      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Gotta Be",
         "url": "https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 202380,
       "name": "Gotta Be",
       "url": "https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
-      },
-      "artists": [
-        {
-          "name": "George Reid",
-          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 204230,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
       },
@@ -1639,18 +1619,38 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Curious Subject",
-        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Curious Subject",
-      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
+      "duration_ms": 204230,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1671,6 +1671,22 @@
       "duration_ms": 232195,
       "name": "New Highs",
       "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1703,54 +1719,18 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+        "name": "Curious Subject",
+        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
       },
       "artists": [
         {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Won't Let U Down",
-        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 251725,
-      "name": "Won't Let U Down",
-      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+      "duration_ms": 233693,
+      "name": "Curious Subject",
+      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1795,6 +1775,26 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
+        "name": "Won't Let U Down",
+        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 251725,
+      "name": "Won't Let U Down",
+      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
         "name": "Simmer",
         "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
       },
@@ -1807,26 +1807,6 @@
       "duration_ms": 157906,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Haile Supreme",
-          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
-        }
-      ],
-      "duration_ms": 222534,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1847,6 +1827,26 @@
       "duration_ms": 226929,
       "name": "So High",
       "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Haile Supreme",
+          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
+        }
+      ],
+      "duration_ms": 222534,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
+        "name": "Let It Go, Baby",
+        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        },
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Let It Go, Baby",
+      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -1979,26 +1999,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Let It Go, Baby",
-        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        },
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "Let It Go, Baby",
-      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Marlboro Sounds",
         "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
       },
@@ -2031,50 +2031,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Somethin Bout You (feat. Betsy)",
-        "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
-        }
-      ],
-      "duration_ms": 215686,
-      "name": "Somethin Bout You (feat. Betsy)",
-      "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        }
-      ],
-      "duration_ms": 767161,
-      "name": "Street Wave",
-      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "MAD (Mutually Assured Disco)",
         "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
       },
@@ -2103,6 +2059,50 @@
       "duration_ms": 219385,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        }
+      ],
+      "duration_ms": 767161,
+      "name": "Street Wave",
+      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Somethin Bout You (feat. Betsy)",
+        "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "duration_ms": 215686,
+      "name": "Somethin Bout You (feat. Betsy)",
+      "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -2191,22 +2175,6 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "Time To Move",
-        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 191484,
-      "name": "Time To Move",
-      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
         "name": "Ritmo Sabroso",
         "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
       },
@@ -2219,6 +2187,22 @@
       "duration_ms": 154838,
       "name": "Ritmo Sabroso",
       "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Time To Move",
+        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "Time To Move",
+      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -2243,22 +2227,18 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
-        "name": "When the Magic Comes",
-        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
         }
       ],
-      "duration_ms": 210168,
-      "name": "When the Magic Comes",
-      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -2287,6 +2267,26 @@
     {
       "added_at": "2026-10-02 04:02:31",
       "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
         "name": "Sabor (with Lee Wilson & ALT3N)",
         "url": "https://open.spotify.com/album/6JtZyGhFwW975bnttEsA6i"
       },
@@ -2307,6 +2307,22 @@
       "duration_ms": 198181,
       "name": "Sabor (with Lee Wilson & ALT3N)",
       "url": "https://open.spotify.com/track/2DG8LH2I3Ln2uuR02n6y7i"
+    },
+    {
+      "added_at": "2026-10-02 04:02:31",
+      "album": {
+        "name": "Wait a Minute",
+        "url": "https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84"
+      },
+      "artists": [
+        {
+          "name": "Boy Amor",
+          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
+        }
+      ],
+      "duration_ms": 191831,
+      "name": "Wait a Minute",
+      "url": "https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8"
     },
     {
       "added_at": "2026-10-02 04:02:31",
@@ -2383,22 +2399,6 @@
       "duration_ms": 110062,
       "name": "Stick Together",
       "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
-    },
-    {
-      "added_at": "2026-10-02 04:02:31",
-      "album": {
-        "name": "Wait a Minute",
-        "url": "https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84"
-      },
-      "artists": [
-        {
-          "name": "Boy Amor",
-          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
-        }
-      ],
-      "duration_ms": 191831,
-      "name": "Wait a Minute",
-      "url": "https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8"
     }
   ],
   "unique_name": "Poolside Disco",

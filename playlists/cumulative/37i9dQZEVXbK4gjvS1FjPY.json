@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 156034,
       "name": "BAD",
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
@@ -14796,7 +14796,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 407315,
       "name": "House Of Balloons / Glass Table Girls",
       "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
@@ -19675,6 +19675,28 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/4OmcwMXInfxtJ6YityvgWP"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/4hAwnqT5tLxywuTipn3A51"
+    },
+    {
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -19690,7 +19712,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 236133,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
@@ -24292,7 +24314,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
@@ -26928,7 +26950,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-785 songs - 2 day 0 hr 53 min
+786 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 | 2026-02-03 | 2026-03-18 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-17 |
 | [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 | 2026-06-10 | 2026-06-25 |
+| [El lienzo](https://open.spotify.com/track/6rHQGvTpPRrQt1WNVwiVJb) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 6:27 | 2026-10-06 |  |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 | 2026-09-02 | 2026-09-20 |
 | [Electric Man](https://open.spotify.com/track/7LZJg1Fp65cIGGffXk1Tdp) | [Dagga Rocks](https://open.spotify.com/artist/0ecQj5R7x9OcjxJfZxtum6) | [Electric Man](https://open.spotify.com/album/0X21UCO3pbocXs6kZ01aFg) | 4:21 | 2026-09-21 |  |

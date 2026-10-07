@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,355 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,348 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 69 | [A Rainy Night in Soho](https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [A Rainy Night in Soho](https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H) | 4:32 |
 | 70 | [Life Is For Living](https://open.spotify.com/track/3BU1YruNRetS73hIWNLrkF) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [There Is Nothing In The Dark That Isn't There In The Light](https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB) | 4:08 |
 
-Snapshot ID: `AAAAAOMzNKAoWPE6NcXkR+M23BwH99UK`
+Snapshot ID: `AAAAAD3CdxB5DmMVfh2FmBHaALp6pHEN`

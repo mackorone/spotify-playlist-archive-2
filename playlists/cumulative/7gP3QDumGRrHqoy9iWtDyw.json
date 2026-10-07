@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Bad Bitches EP",
+        "url": "https://open.spotify.com/album/4uqu4KKBXYtnMoYVHwF1Ac"
+      },
+      "artists": [
+        {
+          "name": "KiRKie",
+          "url": "https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB"
+        },
+        {
+          "name": "The BeatBoy's",
+          "url": "https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Bad Bitches",
+      "url": "https://open.spotify.com/track/3VGMNmdFuDW0QgPeBH5WBM"
+    },
+    {
+      "album": {
         "name": "Bad Boy (GENESI Remix)",
         "url": "https://open.spotify.com/album/4Dcsa8dzEEkaqAwdF7q7rM"
       },
@@ -460,7 +482,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 208181,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
@@ -667,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Brickell",
+        "url": "https://open.spotify.com/album/2usC1scz0KakOagxKzqhVL"
+      },
+      "artists": [
+        {
+          "name": "Kashovski",
+          "url": "https://open.spotify.com/artist/3sQmCQTAFYhnhhoBhsv81C"
+        },
+        {
+          "name": "ZARO",
+          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/3JzhzyUl00wqzkvB5ruawj"
+    },
+    {
+      "album": {
         "name": "Homieland vol.1",
         "url": "https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD"
       },
@@ -766,6 +810,28 @@
       "duration_ms": 165581,
       "name": "Came To The Club",
       "url": "https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0"
+    },
+    {
+      "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
     },
     {
       "album": {
@@ -1730,7 +1796,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 164307,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
@@ -1976,10 +2042,32 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 200601,
       "name": "Funk Rider",
       "url": "https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz"
+    },
+    {
+      "album": {
+        "name": "Funky Bassline (Beltran Remix)",
+        "url": "https://open.spotify.com/album/6MjcSUFPhKIydABzwNTi8t"
+      },
+      "artists": [
+        {
+          "name": "Marc Houle",
+          "url": "https://open.spotify.com/artist/50b6p8UF5dHfvjaN3GduG3"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405076,
+      "name": "Funky Bassline - Beltran Remix",
+      "url": "https://open.spotify.com/track/7qXHc4Fo85ZqeXQ2ZLNhoJ"
     },
     {
       "album": {
@@ -2114,7 +2202,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 232440,
       "name": "Get Flavor",
       "url": "https://open.spotify.com/track/1cKJO9AfPPK1X58JBASqAl"
@@ -2136,6 +2224,28 @@
       "duration_ms": 197812,
       "name": "Get Hyped",
       "url": "https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0"
+    },
+    {
+      "album": {
+        "name": "Get Messy",
+        "url": "https://open.spotify.com/album/5HhR64fJwvcCZQgq6P5tpY"
+      },
+      "artists": [
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        },
+        {
+          "name": "Toni B",
+          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "Get Messy",
+      "url": "https://open.spotify.com/track/6MtO1ovgogUUTK5C8EN3KZ"
     },
     {
       "album": {
@@ -2452,7 +2562,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 200002,
       "name": "Hardest",
       "url": "https://open.spotify.com/track/2IjLM73YDnEGigaHzkeaPZ"
@@ -2666,7 +2776,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 172470,
       "name": "I Got Bad Habits",
       "url": "https://open.spotify.com/track/6TNORJCPXK5P7OrXJ83rdi"
@@ -2778,7 +2888,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 167272,
       "name": "In The Park",
       "url": "https://open.spotify.com/track/1QvyykoBSY4DqBNKk7vouQ"
@@ -2866,7 +2976,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 210773,
       "name": "Is Everybody Having Fun? (feat. rhys from the sticks) - bullet tooth Remix",
       "url": "https://open.spotify.com/track/14Je0EpB0uZ75Mie7j4dTB"
@@ -3382,7 +3492,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 227812,
       "name": "Little Kitty",
       "url": "https://open.spotify.com/track/0QB2O3SvRuEU0MXyLE4osd"
@@ -3434,6 +3544,24 @@
       "duration_ms": 183779,
       "name": "Live Stream - Noizu Remix",
       "url": "https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z"
+    },
+    {
+      "album": {
+        "name": "Loco Stop",
+        "url": "https://open.spotify.com/album/6XCbXXbmjLVWPSmkNutea5"
+      },
+      "artists": [
+        {
+          "name": "Ammo Avenue",
+          "url": "https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212461,
+      "name": "Loco Stop",
+      "url": "https://open.spotify.com/track/5Cirr3cAS8wao8pbh7wr1g"
     },
     {
       "album": {
@@ -3504,10 +3632,32 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 199411,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+    },
+    {
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/70MHD4LFrK6yOsniB1OSsz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174390,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
     },
     {
       "album": {
@@ -3540,7 +3690,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 184615,
       "name": "Make My Day",
       "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
@@ -3660,7 +3810,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 162461,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/4oehx62srvl1y9LiGpNdqF"
@@ -3788,6 +3938,28 @@
       "duration_ms": 357209,
       "name": "My Beginnings",
       "url": "https://open.spotify.com/track/0CB2JXQMHQ6tMSN5yBdRN6"
+    },
+    {
+      "album": {
+        "name": "My Music",
+        "url": "https://open.spotify.com/album/2CvPTRIxvTzthNkoMuEK6J"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "HEVOLVE",
+          "url": "https://open.spotify.com/artist/5yC9AKKWHY7ZPNSYlBUb4O"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "My Music",
+      "url": "https://open.spotify.com/track/69BwJS8VJvlExH4JK4tDnG"
     },
     {
       "album": {
@@ -4308,7 +4480,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 137955,
       "name": "Our House",
       "url": "https://open.spotify.com/track/3myWiCwtUveukdT4v4NcHF"
@@ -4348,7 +4520,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 204737,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
@@ -4584,6 +4756,24 @@
       "duration_ms": 178063,
       "name": "Raw Wave in My House - Fun Mix",
       "url": "https://open.spotify.com/track/4JxEv3XQCUCqwgVx9eC3vh"
+    },
+    {
+      "album": {
+        "name": "Reason Why",
+        "url": "https://open.spotify.com/album/4pYuKuFoNdNFOpMayYE8Yg"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Reason Why",
+      "url": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
     },
     {
       "album": {
@@ -5072,7 +5262,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196576,
       "name": "Strip",
       "url": "https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi"
@@ -5448,6 +5638,24 @@
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "album": {
+        "name": "HARD TO EXPLAIN EP",
+        "url": "https://open.spotify.com/album/4IWMufoTMVJaXDyDOjt7Mn"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "THINGS YOU SAY",
+      "url": "https://open.spotify.com/track/3o2NO3o5qxmTYMQwBov7VU"
     },
     {
       "album": {

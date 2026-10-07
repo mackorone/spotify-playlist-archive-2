@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El De Las R's 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,294 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,328 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 4 | [Al Diablo Mi Orgullo](https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Al Diablo Mi Orgullo](https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO) | 2:56 |
 | 5 | [Voy a Tomarme Unos Tragos \(No Me Queda De Otra\)](https://open.spotify.com/track/0wnb0DBfZ772q835SO8EVT) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Voy a Tomarme Unos Tragos \(No Me Queda De Otra\)](https://open.spotify.com/album/4vopvZXyTKFKZm9eEM0YkV) | 2:26 |
 | 6 | [Cheers](https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [La Formula](https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd) | 2:51 |
-| 7 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Castro](https://open.spotify.com/artist/3ypcczL3pVuYHO4MfQzVNh), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
+| 7 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Raúl](https://open.spotify.com/artist/6pj2OaALBI7L6Wtq6XNyGj), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
 | 8 | [Todas Las Flores](https://open.spotify.com/track/4i8PothZVR4CDQQXdNs04o) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Todas Las Flores](https://open.spotify.com/album/2vYWmLh4Amu1ee7a2qJ8Po) | 3:29 |
 | 9 | [Tu Boda](https://open.spotify.com/track/7KheHPWtmEgL7fSrI70SMI) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Tu Boda](https://open.spotify.com/album/46aYh7usSLLvsUbbgwTI7I) | 3:32 |
 | 10 | [Mientes Tan Bien](https://open.spotify.com/track/1Ry9kx76VGRcEm05awskYo) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [Mientes Tan Bien](https://open.spotify.com/album/5p2WmPCwu00Zsc47E8Xj9Z) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 69 | [La Situación](https://open.spotify.com/track/1tdadZBd5xN7gNoBf9rArk) | [Grupo La Revo](https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr) | [La Situación](https://open.spotify.com/album/5gESVOgCY9e53ezlxySj9J) | 3:47 |
 | 70 | [Rosa](https://open.spotify.com/track/63zGBvJFD4XX216uGhAgsS) | [Toñito](https://open.spotify.com/artist/3PCmSkdaQPb9fJJYpyWYos) | [Rosa](https://open.spotify.com/album/6jG6vyC8HJl4NbXyixEqTY) | 2:33 |
 
-Snapshot ID: `AAAAANAdQ7jDdSGb0Gl/QV0nLrractOH`
+Snapshot ID: `AAAAACQWE3nCQYG9zZ654LD7FEZPaIS5`

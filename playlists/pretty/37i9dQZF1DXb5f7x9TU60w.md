@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,526 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,581 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 | 84 | [Best of Friends](https://open.spotify.com/track/1t5aiAaQncdO7IY64ZQfDs) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:04 |
 | 85 | [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Pixar](https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O) | 1:46 |
 
-Snapshot ID: `AAAAAK2FSo43p3hHknYrvGuQDmwA2y6z`
+Snapshot ID: `AAAAAP9SU/wpyBACbSLQcwP38KhJXHw1`

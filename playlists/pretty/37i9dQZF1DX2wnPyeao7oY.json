@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sicksense",
-  "num_followers": 45747,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DOGBITE",
+  "num_followers": 45817,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYUOoxLckegkBNrJFSrl2S/IY0R",
+  "snapshot_id": "AAAAAEL67aC+JkUds07eWWowPDGL4J01",
   "tracks": [
+    {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "PUNISHMENT ROUTINE",
+        "url": "https://open.spotify.com/album/3D8GnjvFV213S2CRLT7V2t"
+      },
+      "artists": [
+        {
+          "name": "DOGBITE",
+          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+        }
+      ],
+      "duration_ms": 155445,
+      "name": "DROWN SLOW",
+      "url": "https://open.spotify.com/track/5Gx2T4du8dMn6G5gf4TISF"
+    },
     {
       "added_at": "2026-09-30 00:00:02",
       "album": {
@@ -25,6 +41,54 @@
       "url": "https://open.spotify.com/track/5NR9i6BDwxseDn5fCOuCJo"
     },
     {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "sodium",
+        "url": "https://open.spotify.com/album/0r6X5AlBoueuJwKjf6GVNI"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "duration_ms": 228006,
+      "name": "sodium",
+      "url": "https://open.spotify.com/track/0t0gNWuHPINBH21NC0OeDQ"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "Gradus Ad Parnassum",
+        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
+      },
+      "artists": [
+        {
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "N\u00e5r Solen G\u00e5r Ned",
+      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
+    },
+    {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/2Yx1qHlz79pH5p8ALAf2qE"
+      },
+      "artists": [
+        {
+          "name": "Antlr",
+          "url": "https://open.spotify.com/artist/41CaboR7ZcNF57M0hjaRpG"
+        }
+      ],
+      "duration_ms": 220017,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/0Pvg3J9J1Gm08txEx5YyDA"
+    },
+    {
       "added_at": "2026-09-23 04:00:17",
       "album": {
         "name": "Crescents and the Torch",
@@ -39,6 +103,94 @@
       "duration_ms": 220316,
       "name": "Crescents and the Torch",
       "url": "https://open.spotify.com/track/64XDJcykwUPjYXSvSHbhXv"
+    },
+    {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "Middle Man",
+        "url": "https://open.spotify.com/album/1Cf42agYTHrFZB9SsadK3a"
+      },
+      "artists": [
+        {
+          "name": "Awake Again",
+          "url": "https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m"
+        }
+      ],
+      "duration_ms": 174806,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/6oWVOCurVdlgHiK2glkaxn"
+    },
+    {
+      "added_at": "2026-09-09 04:00:28",
+      "album": {
+        "name": "Ravage",
+        "url": "https://open.spotify.com/album/53UI4z0J8wtkg87bm2Neoq"
+      },
+      "artists": [
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 256043,
+      "name": "Ravage",
+      "url": "https://open.spotify.com/track/2pUaecpU87lb2enphyDByI"
+    },
+    {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "Human Error",
+        "url": "https://open.spotify.com/album/37OhRJGcLHm7YZyCt4nCrf"
+      },
+      "artists": [
+        {
+          "name": "Feral Vices",
+          "url": "https://open.spotify.com/artist/19A9fXIkL7MkYBdLI0qZro"
+        },
+        {
+          "name": "Foxbat",
+          "url": "https://open.spotify.com/artist/2AbZOd1hnJCe0IKdr2gUGs"
+        },
+        {
+          "name": "GVUP",
+          "url": "https://open.spotify.com/artist/7lTgZR9Hw7GCSUmAKnAKBE"
+        }
+      ],
+      "duration_ms": 167811,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4Auluv7see8gVVLOjP2yhi"
+    },
+    {
+      "added_at": "2026-09-16 04:00:18",
+      "album": {
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1"
+    },
+    {
+      "added_at": "2026-10-07 04:00:09",
+      "album": {
+        "name": "Done To Me",
+        "url": "https://open.spotify.com/album/1gDzWNuJc9mCJOps25dhnU"
+      },
+      "artists": [
+        {
+          "name": "Palebloom",
+          "url": "https://open.spotify.com/artist/5lix23W9XlUVAI0sLEaYbM"
+        }
+      ],
+      "duration_ms": 230863,
+      "name": "Done To Me",
+      "url": "https://open.spotify.com/track/5vuDAgBHMj3gACouRcZkAS"
     },
     {
       "added_at": "2026-09-30 00:00:02",
@@ -61,70 +213,6 @@
       "url": "https://open.spotify.com/track/73pnl2Lzc5prMCpQAeKbNz"
     },
     {
-      "added_at": "2026-06-03 04:00:42",
-      "album": {
-        "name": "Gradus Ad Parnassum",
-        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
-      },
-      "artists": [
-        {
-          "name": "Mirar",
-          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "N\u00e5r Solen G\u00e5r Ned",
-      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
-    },
-    {
-      "added_at": "2026-09-30 00:00:02",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1CAF7kOyDJZKX6HDRQVHqm"
-      },
-      "artists": [
-        {
-          "name": "Stray View",
-          "url": "https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu"
-        }
-      ],
-      "duration_ms": 157927,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad"
-    },
-    {
-      "added_at": "2026-09-16 04:00:18",
-      "album": {
-        "name": "Crucified",
-        "url": "https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A"
-      },
-      "artists": [
-        {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Crucified",
-      "url": "https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1"
-    },
-    {
-      "added_at": "2026-09-30 00:00:02",
-      "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/6Geu19D7bKD8mOiChQ9zDQ"
-      },
-      "artists": [
-        {
-          "name": "Index",
-          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
-        }
-      ],
-      "duration_ms": 169188,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/2GtLJ75gxcW5LYiIIGc9Wb"
-    },
-    {
       "added_at": "2026-09-23 04:00:17",
       "album": {
         "name": "King",
@@ -139,54 +227,6 @@
       "duration_ms": 131706,
       "name": "King",
       "url": "https://open.spotify.com/track/3VRsMiwkWnPGfcdeMHr1H0"
-    },
-    {
-      "added_at": "2026-09-30 00:00:02",
-      "album": {
-        "name": "Speculum Bleed",
-        "url": "https://open.spotify.com/album/2k42fwNdsvWFJ572upQjxw"
-      },
-      "artists": [
-        {
-          "name": "BRAT",
-          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
-        }
-      ],
-      "duration_ms": 214867,
-      "name": "Speculum Bleed",
-      "url": "https://open.spotify.com/track/1svOHHesmIxsUOpOQyfTk8"
-    },
-    {
-      "added_at": "2026-09-09 04:00:28",
-      "album": {
-        "name": "Ravage",
-        "url": "https://open.spotify.com/album/53UI4z0J8wtkg87bm2Neoq"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 256043,
-      "name": "Ravage",
-      "url": "https://open.spotify.com/track/2pUaecpU87lb2enphyDByI"
-    },
-    {
-      "added_at": "2026-09-30 00:00:02",
-      "album": {
-        "name": "supervillain",
-        "url": "https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f"
-      },
-      "artists": [
-        {
-          "name": "LUNA KILLS",
-          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
-        }
-      ],
-      "duration_ms": 165692,
-      "name": "supervillain",
-      "url": "https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5"
     },
     {
       "added_at": "2026-09-09 04:00:28",
@@ -205,20 +245,20 @@
       "url": "https://open.spotify.com/track/3Bl53Ud5Z55tasf0R9vjtm"
     },
     {
-      "added_at": "2026-09-23 04:00:17",
+      "added_at": "2026-09-30 00:00:02",
       "album": {
-        "name": "PROMETHEUS PROTOCOL",
-        "url": "https://open.spotify.com/album/1fZdX0tiLJXuK1DxSwIN24"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1CAF7kOyDJZKX6HDRQVHqm"
       },
       "artists": [
         {
-          "name": "DOGBITE",
-          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+          "name": "Stray View",
+          "url": "https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu"
         }
       ],
-      "duration_ms": 187374,
-      "name": "PROMETHEUS PROTOCOL",
-      "url": "https://open.spotify.com/track/1z8YopWJu6kuOheQ1wZorc"
+      "duration_ms": 157927,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad"
     },
     {
       "added_at": "2026-08-05 04:00:01",
@@ -237,6 +277,54 @@
       "url": "https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G"
     },
     {
+      "added_at": "2026-07-29 04:00:17",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6oTjjYaQ00VMKCej16HLrd"
+      },
+      "artists": [
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "duration_ms": 212156,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/477O0aV2ffs4Ee50oVorBv"
+    },
+    {
+      "added_at": "2026-09-30 00:00:02",
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/6Geu19D7bKD8mOiChQ9zDQ"
+      },
+      "artists": [
+        {
+          "name": "Index",
+          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
+        }
+      ],
+      "duration_ms": 169188,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/2GtLJ75gxcW5LYiIIGc9Wb"
+    },
+    {
+      "added_at": "2026-09-30 00:00:02",
+      "album": {
+        "name": "supervillain",
+        "url": "https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f"
+      },
+      "artists": [
+        {
+          "name": "LUNA KILLS",
+          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "supervillain",
+      "url": "https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5"
+    },
+    {
       "added_at": "2026-09-16 04:00:18",
       "album": {
         "name": "Fracture",
@@ -251,38 +339,6 @@
       "duration_ms": 128431,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/0LVbn4zbw4h9j7xdJYJj6k"
-    },
-    {
-      "added_at": "2026-09-23 04:00:17",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/6AlQx2C5UFjXOVT2xZ1JRb"
-      },
-      "artists": [
-        {
-          "name": "ACCVSED",
-          "url": "https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS"
-        }
-      ],
-      "duration_ms": 249577,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6GLi42W53ShZz9MemDfCSb"
-    },
-    {
-      "added_at": "2026-08-26 04:00:38",
-      "album": {
-        "name": "ROTTEN",
-        "url": "https://open.spotify.com/album/6hfiDnWdXiPUQ3sytwfduf"
-      },
-      "artists": [
-        {
-          "name": "FKA Rayne",
-          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/5tODiMGWKft6sCamNwEQdj"
     },
     {
       "added_at": "2026-09-16 04:00:18",
@@ -317,68 +373,52 @@
       "url": "https://open.spotify.com/track/6ssX5woHXkbyasb5AmNCkb"
     },
     {
-      "added_at": "2026-09-16 04:00:18",
+      "added_at": "2026-09-30 00:00:02",
       "album": {
-        "name": "$eduction",
-        "url": "https://open.spotify.com/album/7heRVS8fmnI9e1omrsremB"
+        "name": "Speculum Bleed",
+        "url": "https://open.spotify.com/album/2k42fwNdsvWFJ572upQjxw"
       },
       "artists": [
         {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
         }
       ],
-      "duration_ms": 207276,
-      "name": "$eduction",
-      "url": "https://open.spotify.com/track/1bVfcwTz2jW8zY4GDSTOKs"
+      "duration_ms": 214867,
+      "name": "Speculum Bleed",
+      "url": "https://open.spotify.com/track/1svOHHesmIxsUOpOQyfTk8"
     },
     {
       "added_at": "2026-09-23 04:00:17",
       "album": {
-        "name": "Onerous Sky",
-        "url": "https://open.spotify.com/album/6LRoPHTinSVkKHPO8tyMbA"
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/6AlQx2C5UFjXOVT2xZ1JRb"
       },
       "artists": [
         {
-          "name": "PlasticSkin",
-          "url": "https://open.spotify.com/artist/3bxcq5dtyl81TTFQeqxD7b"
+          "name": "ACCVSED",
+          "url": "https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS"
         }
       ],
-      "duration_ms": 212072,
-      "name": "Onerous Sky",
-      "url": "https://open.spotify.com/track/5gxx88JJRNAUA3sxXc7YaH"
+      "duration_ms": 249577,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6GLi42W53ShZz9MemDfCSb"
     },
     {
-      "added_at": "2026-09-23 04:00:17",
+      "added_at": "2026-08-26 04:00:38",
       "album": {
-        "name": "Ready For The Grave",
-        "url": "https://open.spotify.com/album/2AC6SWE8SyxMB7RldZIyBD"
+        "name": "ROTTEN",
+        "url": "https://open.spotify.com/album/6hfiDnWdXiPUQ3sytwfduf"
       },
       "artists": [
         {
-          "name": "Early Moods",
-          "url": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i"
+          "name": "FKA Rayne",
+          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
         }
       ],
-      "duration_ms": 287666,
-      "name": "Ready For The Grave",
-      "url": "https://open.spotify.com/track/46vWgdKyzHy1wpvleZ2gzw"
-    },
-    {
-      "added_at": "2026-07-29 04:00:17",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6oTjjYaQ00VMKCej16HLrd"
-      },
-      "artists": [
-        {
-          "name": "Enemy Inside",
-          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
-        }
-      ],
-      "duration_ms": 212156,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/477O0aV2ffs4Ee50oVorBv"
+      "duration_ms": 103059,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/5tODiMGWKft6sCamNwEQdj"
     },
     {
       "added_at": "2026-08-19 04:00:33",
@@ -397,6 +437,38 @@
       "url": "https://open.spotify.com/track/5qHLGokRgdzqMYJII7Ct45"
     },
     {
+      "added_at": "2026-09-02 04:00:28",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1Em2cbiVAwNNPgZtNUgH9j"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "duration_ms": 182967,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/5wJ3cSt6hV1kvR8djkr6NC"
+    },
+    {
+      "added_at": "2026-09-23 04:00:17",
+      "album": {
+        "name": "Onerous Sky",
+        "url": "https://open.spotify.com/album/6LRoPHTinSVkKHPO8tyMbA"
+      },
+      "artists": [
+        {
+          "name": "PlasticSkin",
+          "url": "https://open.spotify.com/artist/3bxcq5dtyl81TTFQeqxD7b"
+        }
+      ],
+      "duration_ms": 212072,
+      "name": "Onerous Sky",
+      "url": "https://open.spotify.com/track/5gxx88JJRNAUA3sxXc7YaH"
+    },
+    {
       "added_at": "2026-09-16 04:00:18",
       "album": {
         "name": "Mercy Dies With You",
@@ -411,6 +483,22 @@
       "duration_ms": 201000,
       "name": "Mercy Dies With You",
       "url": "https://open.spotify.com/track/7LPAvJUfZGbH3PlPjGM29a"
+    },
+    {
+      "added_at": "2026-09-16 04:00:18",
+      "album": {
+        "name": "$eduction",
+        "url": "https://open.spotify.com/album/7heRVS8fmnI9e1omrsremB"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 207276,
+      "name": "$eduction",
+      "url": "https://open.spotify.com/track/1bVfcwTz2jW8zY4GDSTOKs"
     },
     {
       "added_at": "2026-09-09 04:00:28",
@@ -443,38 +531,6 @@
       "duration_ms": 200000,
       "name": "COMING IN",
       "url": "https://open.spotify.com/track/5UGvOm8m1J0gsmPXjo16ZE"
-    },
-    {
-      "added_at": "2026-09-02 04:00:28",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1Em2cbiVAwNNPgZtNUgH9j"
-      },
-      "artists": [
-        {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
-        }
-      ],
-      "duration_ms": 182967,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/5wJ3cSt6hV1kvR8djkr6NC"
-    },
-    {
-      "added_at": "2026-09-16 04:00:18",
-      "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/4wVWfJlzePQyzTSkx7QvBO"
-      },
-      "artists": [
-        {
-          "name": "Softspoken",
-          "url": "https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk"
-        }
-      ],
-      "duration_ms": 186582,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/1dFEeTaJoT6q3VUQVcYdTK"
     },
     {
       "added_at": "2026-08-26 04:00:38",
@@ -577,6 +633,38 @@
       "url": "https://open.spotify.com/track/68XI5GvyxIe7yhUWedWUnh"
     },
     {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "FLESH AND BONE",
+        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "THE FUTURE IS PINK",
+      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+    },
+    {
+      "added_at": "2026-09-23 04:00:17",
+      "album": {
+        "name": "Ready For The Grave",
+        "url": "https://open.spotify.com/album/2AC6SWE8SyxMB7RldZIyBD"
+      },
+      "artists": [
+        {
+          "name": "Early Moods",
+          "url": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Ready For The Grave",
+      "url": "https://open.spotify.com/track/46vWgdKyzHy1wpvleZ2gzw"
+    },
+    {
       "added_at": "2026-07-16 11:36:34",
       "album": {
         "name": "Spidersilk",
@@ -609,22 +697,6 @@
       "url": "https://open.spotify.com/track/7nfprYkcT4lSxYI8Dnc1hz"
     },
     {
-      "added_at": "2026-09-16 04:00:18",
-      "album": {
-        "name": "Paradise/Parasite II",
-        "url": "https://open.spotify.com/album/0lhRXXF3FyHcm7zKwiDUY1"
-      },
-      "artists": [
-        {
-          "name": "Cell Rot",
-          "url": "https://open.spotify.com/artist/7JqFTs8Mo8KmaMWwPaAeBl"
-        }
-      ],
-      "duration_ms": 100982,
-      "name": "Paradise/Parasite II",
-      "url": "https://open.spotify.com/track/6rRwnlLNQCDrkSMHXONuWY"
-    },
-    {
       "added_at": "2026-09-02 04:00:28",
       "album": {
         "name": "Swarm.ING_",
@@ -655,54 +727,6 @@
       "duration_ms": 158008,
       "name": "SEE YOU NEXT TUESDAY",
       "url": "https://open.spotify.com/track/01V8P4mpdeXZ0nYKl7u2qG"
-    },
-    {
-      "added_at": "2026-09-09 04:00:28",
-      "album": {
-        "name": "ONE MINUTE",
-        "url": "https://open.spotify.com/album/4hC720cmw0GIPo7ldiLAVS"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD CORPORATION",
-          "url": "https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf"
-        }
-      ],
-      "duration_ms": 85412,
-      "name": "ONE MINUTE",
-      "url": "https://open.spotify.com/track/7tTsTV5XZOWiiovCDytYYu"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "FLESH AND BONE",
-        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
-      },
-      "artists": [
-        {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "THE FUTURE IS PINK",
-      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
-    },
-    {
-      "added_at": "2026-09-02 04:00:28",
-      "album": {
-        "name": "Silent Strain",
-        "url": "https://open.spotify.com/album/0UNhrXI9vZHJfpRWrULedA"
-      },
-      "artists": [
-        {
-          "name": "Secrets",
-          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
-        }
-      ],
-      "duration_ms": 277215,
-      "name": "Silent Strain",
-      "url": "https://open.spotify.com/track/1aP4o1vk7nk9lgRzJ1tMH7"
     },
     {
       "added_at": "2026-09-02 04:00:28",
@@ -771,22 +795,6 @@
       "duration_ms": 166036,
       "name": "forever mine",
       "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
-    },
-    {
-      "added_at": "2026-08-05 04:00:01",
-      "album": {
-        "name": "PATRIOT",
-        "url": "https://open.spotify.com/album/5STBnCgk4DvgnHssdlsacZ"
-      },
-      "artists": [
-        {
-          "name": "Antlr",
-          "url": "https://open.spotify.com/artist/41CaboR7ZcNF57M0hjaRpG"
-        }
-      ],
-      "duration_ms": 195585,
-      "name": "PATRIOT",
-      "url": "https://open.spotify.com/track/3OYlsKCzJb7JNnTYXu2pFh"
     },
     {
       "added_at": "2026-08-05 04:00:01",

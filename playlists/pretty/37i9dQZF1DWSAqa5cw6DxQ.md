@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,411 likes - 115 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,444 likes - 115 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 114 | [Shapeless Horizon](https://open.spotify.com/track/5L6WjAKURVJxtbMaxJpdUD) | [Elysar](https://open.spotify.com/artist/0DbIdCkQlSF99HXAv8bckc) | [Shapeless Horizon](https://open.spotify.com/album/5JhcfA5GQCmfd6XivKjkKX) | 2:30 |
 | 115 | [New Beginning](https://open.spotify.com/track/6IvGIs4IraxIXyKqRvRN0Q) | [Inzano](https://open.spotify.com/artist/6qjoc9V4gFJ8UUI0Qo9r0q) | [New Beginning](https://open.spotify.com/album/7qaxVTvPM4vjrvwhI9YXFN) | 2:32 |
 
-Snapshot ID: `AAAAABR4QH6+KAdCmNxvMdOkLVhDJg5f`
+Snapshot ID: `AAAAAMyf78vxiPlbF2GqBg3tn22k+XaU`

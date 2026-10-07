@@ -1,12 +1,12 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 176661,
+  "num_followers": 176721,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABwsNRAWPyi3B8pwhWrihfrd5rSr",
+  "snapshot_id": "AAAAAEzca154+pULcnxOx8K4YrUeyy5S",
   "tracks": [
     {
       "added_at": "2025-01-28 15:41:46",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 183693,
       "name": "Por qu\u00e9?",
       "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",

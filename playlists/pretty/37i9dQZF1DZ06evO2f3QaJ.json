@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAACXumoP0PhU7gZQPOL3/oqh",
+  "snapshot_id": "asLogAAAAADTVhNTUld9vw3lQV94KXfx",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
       },
       "artists": [
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Monique Brito",
+          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 175934,
-      "name": "Blas\u00e9",
-      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
+      "duration_ms": 319485,
+      "name": "TELA EM BRANCO",
+      "url": "https://open.spotify.com/track/2V0z8hfRWWp2DIMCqRgNtP"
     },
     {
       "added_at": null,
@@ -759,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+        "name": "Luzes",
+        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
       },
       "artists": [
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "RND",
+          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
         },
         {
-          "name": "Monique Brito",
-          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 319485,
-      "name": "TELA EM BRANCO",
-      "url": "https://open.spotify.com/track/2V0z8hfRWWp2DIMCqRgNtP"
+      "duration_ms": 191492,
+      "name": "Luzes",
+      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
     },
     {
       "added_at": null,
@@ -804,29 +808,41 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Sex Tape",
-      "url": "https://open.spotify.com/track/30jS03B59bVieShQSx4qIN"
+      "duration_ms": 175934,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Luzes",
-        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
+        "name": "Pref\u00e1cio",
+        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
       },
       "artists": [
-        {
-          "name": "RND",
-          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
-        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 191492,
-      "name": "Luzes",
-      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
+      "duration_ms": 313020,
+      "name": "Pref\u00e1cio",
+      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o",
+        "url": "https://open.spotify.com/album/2GM5jnRyzUeMAgxxMDkcvp"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 267473,
+      "name": "N\u00e3o",
+      "url": "https://open.spotify.com/track/1thKrfS5jqJbN9h4E2DGUU"
     },
     {
       "added_at": null,
@@ -851,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pref\u00e1cio",
-        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
       "artists": [
         {
@@ -860,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 313020,
-      "name": "Pref\u00e1cio",
-      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
+      "duration_ms": 240000,
+      "name": "Sex Tape",
+      "url": "https://open.spotify.com/track/30jS03B59bVieShQSx4qIN"
     },
     {
       "added_at": null,
@@ -879,38 +895,6 @@
       "duration_ms": 158117,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/7nG2vsMFNE9W4McyrQu7BF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o",
-        "url": "https://open.spotify.com/album/2GM5jnRyzUeMAgxxMDkcvp"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 267473,
-      "name": "N\u00e3o",
-      "url": "https://open.spotify.com/track/1thKrfS5jqJbN9h4E2DGUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brilha Igual Sol",
-        "url": "https://open.spotify.com/album/130sbXP7PkXlkBXEwk3HvB"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Brilha Igual Sol",
-      "url": "https://open.spotify.com/track/0ovVBebdTrWQaCFhyTiEBI"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brilha Igual Sol",
+        "url": "https://open.spotify.com/album/130sbXP7PkXlkBXEwk3HvB"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Brilha Igual Sol",
+      "url": "https://open.spotify.com/track/0ovVBebdTrWQaCFhyTiEBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
       },
@@ -963,18 +963,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+        "name": "N\u00e3o Rimo Por Grammys",
+        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
       },
       "artists": [
         {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
         }
       ],
-      "duration_ms": 173285,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
+      "duration_ms": 125648,
+      "name": "N\u00e3o Rimo Por Grammys",
+      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
     }
   ],
   "unique_name": "This Is Zudizilla",

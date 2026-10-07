@@ -3329,6 +3329,32 @@
     },
     {
       "album": {
+        "name": "e.t.d.s.",
+        "url": "https://open.spotify.com/album/7j9Ytqep4WlXetjzzM3yPQ"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Likkle Jordee",
+          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178342,
+      "name": "P.O",
+      "url": "https://open.spotify.com/track/1QKfxpOED1lDW1Hrz4qWPb"
+    },
+    {
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },

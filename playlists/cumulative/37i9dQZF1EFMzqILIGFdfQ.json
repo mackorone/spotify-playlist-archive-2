@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/4Cjds7BMXi2kIm71uDfERa"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182792,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4ymjIpe2Xh1aSMWnPcBjXf"
+    },
+    {
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },

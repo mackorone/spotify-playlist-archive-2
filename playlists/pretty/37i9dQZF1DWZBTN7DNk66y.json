@@ -1,12 +1,12 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29702,
+  "num_followers": 29705,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjxIxPkVuMfWJFSg1wXAp/u5CSB",
+  "snapshot_id": "AAAAAFCyX2d7CSybY40zZs50FM7L44x5",
   "tracks": [
     {
       "added_at": "2026-03-10 15:20:53",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 194705,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Qui\u00e9n da M\u00e1s?",
         "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 272010,
       "name": "Qui\u00e9n da M\u00e1s?",
       "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        },
-        {
-          "name": "Lowrenz",
-          "url": "https://open.spotify.com/artist/4aahIgxhhcOW07Y0TbIX50"
-        }
-      ],
-      "duration_ms": 222006,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        },
+        {
+          "name": "Lowrenz",
+          "url": "https://open.spotify.com/artist/4aahIgxhhcOW07Y0TbIX50"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "As\u00ed Sea",
         "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 216766,
       "name": "As\u00ed Sea",
       "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 245968,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 165059,
       "name": "Que siga el baile",
       "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 245968,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1467,26 +1467,6 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
-      },
-      "artists": [
-        {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        },
-        {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
-        }
-      ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1531,6 +1511,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+      },
+      "artists": [
+        {
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        },
+        {
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+        }
+      ],
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Po\u00e9tica Bailable Vol. 1",
-        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "\u00a1Juegue!",
-      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Color De Flor",
         "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 273219,
       "name": "Color De Flor",
       "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "\u00a1Juegue!",
+      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Sexo y Sushi",
-        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 172842,
-      "name": "Sexo y Sushi",
-      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Sur",
         "url": "https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK"
       },
@@ -1775,6 +1755,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Sexo y Sushi",
+        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 172842,
+      "name": "Sexo y Sushi",
+      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Ba\u00f1era",
         "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
       },
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "D\u00eda tras d\u00eda",
-        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
-      },
-      "artists": [
-        {
-          "name": "El Tio Valen",
-          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "D\u00eda tras d\u00eda",
-      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Otras Bocas, Otras Lenguas",
         "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 285375,
       "name": "Otras Bocas, Otras Lenguas",
       "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "D\u00eda tras d\u00eda",
+        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+      },
+      "artists": [
+        {
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "D\u00eda tras d\u00eda",
+      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "FR\u00c1GIL",
+        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+      },
+      "artists": [
+        {
+          "name": "Juan Cottet",
+          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Frascuelo",
+      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
         "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 264000,
       "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
       "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
-      },
-      "artists": [
-        {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
     }
   ],
   "unique_name": "Voces del Sur",

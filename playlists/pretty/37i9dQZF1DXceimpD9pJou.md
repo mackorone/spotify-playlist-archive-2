@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Sion Nación Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,530 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,542 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [No Tengas Miedo \- Versión Acústica](https://open.spotify.com/track/7eq6q36ycXThzR2d5KES0V) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa) | [No Tengas Miedo \(Versión Acústica\)](https://open.spotify.com/album/0kNbWLA45GNDBBmrSRmeHM) | 3:04 |
 | 100 | [Sí, sí, pero tú no](https://open.spotify.com/track/5i0Y969PgGUQtTUntMcjg6) | [Emanuel Deliser](https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97) | [Sí, sí, pero tú no](https://open.spotify.com/album/4YwEaCJKjQgjuHGpEXWeW8) | 2:18 |
 
-Snapshot ID: `AAAAAFm0ozyVdBTSl6JqLuUajGrg3Ajq`
+Snapshot ID: `AAAAAGKvh832KzJlkvpIDz+6/+ir5FTs`

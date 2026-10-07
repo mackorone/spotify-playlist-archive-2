@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 
 > The Latin soundtrack of the 2020s! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,784 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,802 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 | 99 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 |
 | 100 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 |
 
-Snapshot ID: `AAAAAJrie6P1Gc4PSDWJqjDhRLqyD6k0`
+Snapshot ID: `AAAAAGGxLnJ3Ny4fVx/yo2XUBwvCc64c`

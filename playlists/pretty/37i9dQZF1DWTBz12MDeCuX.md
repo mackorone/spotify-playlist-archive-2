@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: t\-low, Miksu / Macloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,224 likes - 99 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,180 likes - 99 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
 | 99 | [Immer wenn du sagst](https://open.spotify.com/track/48iEVD2EAGLetCTdOpu4OE) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Immer wenn du sagst](https://open.spotify.com/album/3wjP4Ng7JbwWL9XrN3VYUp) | 3:22 |
 
-Snapshot ID: `AAAAALEntdTmjBzBun0JvxvRiNIn4vS6`
+Snapshot ID: `AAAAAEZrU8ZR3K+CX3ficxTFHrHb7Hck`

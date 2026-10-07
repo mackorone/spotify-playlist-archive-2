@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,779 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,766 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 19 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
 | 20 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 |
 | 21 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
-| 22 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
-| 23 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
+| 22 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
+| 23 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 24 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
 | 25 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 |
 | 26 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 29 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
 | 30 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 |
 | 31 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
-| 32 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 |
-| 33 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 |
-| 34 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
+| 32 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
+| 33 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 |
+| 34 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 |
 | 35 | [en la cara](https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 2:37 |
 | 36 | [¿Es En Serio?](https://open.spotify.com/track/2MJPYIMuIpW2SmdC4QLsNJ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:13 |
 | 37 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 48 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 49 | [Mi Rehén](https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1) | [Carmen Goett](https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf) | [MEXICANA VOL\. 2](https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4) | 3:15 |
 | 50 | [QUÉ IMPORTA](https://open.spotify.com/track/6GFsfZc0hFNthskN5d5FDs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:51 |
-| 51 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
-| 52 | [Miraíta \- Rumba, Libertad](https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5) | [María Terremoto](https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd) | [Manifiesto](https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o) | 3:26 |
+| 51 | [Miraíta \- Rumba, Libertad](https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5) | [María Terremoto](https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd) | [Manifiesto](https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o) | 3:26 |
+| 52 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
 | 53 | [la de arca](https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [la de arca](https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu) | 2:29 |
 | 54 | [Yo Juraré](https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ), [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Yo Juraré](https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS) | 2:55 |
 | 55 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 59 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 60 | [Porquería](https://open.spotify.com/track/4zUjrwurtASSlrtMQJFvO6) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 2:40 |
 
-Snapshot ID: `AAAAALEKYwG71eHFG36PZntZNdnID+qt`
+Snapshot ID: `AAAAAO7PEMMIsbbq5c2Hd+TJimiYY2G2`

@@ -1,12 +1,12 @@
 {
   "description": "we choose the bear",
-  "num_followers": 888684,
+  "num_followers": 889158,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEzx+8NtxUKhqzBysTZv5jmOZ6d0",
+  "snapshot_id": "AAAAAJ0SNSaK1BSL/S/hWMqeqwa06d32",
   "tracks": [
     {
       "added_at": "2026-09-25 16:35:45",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "I Bet on Losing Dogs",
-      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 267186,
       "name": "Exit Music (For A Film)",
       "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "I Bet on Losing Dogs",
+      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
     },
     {
       "added_at": "2026-09-25 16:35:45",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 344692,
       "name": "I Know The End",
       "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2026-09-25 16:35:45",

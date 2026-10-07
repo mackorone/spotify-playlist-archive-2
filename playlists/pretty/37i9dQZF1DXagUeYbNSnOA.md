@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring seye\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,044 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,075 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 11 | [Vatos](https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [Vatos](https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB) | 2:26 |
 | 12 | [Ya Pa' Qué](https://open.spotify.com/track/1qxporaSGKmsCdERqT50YD) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Ya Pa' Qué](https://open.spotify.com/album/1wScP9cz7K53o4FLlFiWFk) | 2:21 |
 | 13 | [La Curita](https://open.spotify.com/track/3N3WPcEBEOfIS7GZIzPJWR) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [La Curita](https://open.spotify.com/album/296aHbyUMwxwT9D8orFAEx) | 2:21 |
-| 14 | [Preso \(Pret A Porter\)](https://open.spotify.com/track/4bgNB4R6LKuDjbVZvCKCvR) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6), [cloudboi.](https://open.spotify.com/artist/1kSdbIDJfVcpdBwmtwrEgm) | [Preso \(Pret A Porter\)](https://open.spotify.com/album/50B4CHH3tQmNmhePIaRubs) | 2:37 |
+| 14 | [Preso \(Pret A Porter\)](https://open.spotify.com/track/4bgNB4R6LKuDjbVZvCKCvR) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6), [cloudboi.](https://open.spotify.com/artist/1kSdbIDJfVcpdBwmtwrEgm) | [Preso \(Pret A Porter\)](https://open.spotify.com/album/50B4CHH3tQmNmhePIaRubs) | 2:43 |
 | 15 | [Sencillo, para mentes complicadas](https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Sencillo, para mentes complicadas](https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H) | 3:47 |
 | 16 | [MIA](https://open.spotify.com/track/1jA2f3e1pkBIIcmLEwu2J6) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [MIA / Oyster Perpetual](https://open.spotify.com/album/0gKX2tMNxKSSoGEeJk2jUA) | 1:51 |
 | 17 | [Estabas ahí !](https://open.spotify.com/track/75SthTe4CLoa5wOEzDN6H9) | [CASS](https://open.spotify.com/artist/75lS7zzfEeyaAqD44PO7vw) | [Estabas ahí !](https://open.spotify.com/album/10K2z1MQVTmem89l3kCltt) | 2:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 43 | [sin ti](https://open.spotify.com/track/6KKoVWWdziiKn4gkRJmn0I) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [sin ti](https://open.spotify.com/album/6sqKNe5XkZs9QSoZIJRgEQ) | 3:19 |
 | 44 | [In Lof](https://open.spotify.com/track/2lFoeXEaAfihJy3T9Djzd0) | [Lucianeka](https://open.spotify.com/artist/6qlZ5BlB9CTm12NtjpWosx), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [In Lof](https://open.spotify.com/album/1YaQUrGviYJ7rhqZcGi2Sn) | 4:04 |
 | 45 | [Muñeca](https://open.spotify.com/track/5AocI8zC7x6k80UDBwi2NO) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Muñeca](https://open.spotify.com/album/1kgwN26it00k2APhUEfal2) | 3:28 |
-| 46 | [Ay, Mamita](https://open.spotify.com/track/1usJ153zWAcnJtKqwOZ59g) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Ay, Mamita](https://open.spotify.com/album/3OnHpkfjNFudF7jkZMjwal) | 2:12 |
+| 46 | [Ay, Mamita](https://open.spotify.com/track/1usJ153zWAcnJtKqwOZ59g) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Ay, Mamita](https://open.spotify.com/album/3OnHpkfjNFudF7jkZMjwal) | 2:14 |
 | 47 | [Liebre](https://open.spotify.com/track/6ITo8VAcShkjNnjAPPes9r) | [Valentina Tross](https://open.spotify.com/artist/3DHBbvXDFxpnGvTGLP07YN) | [Liebre](https://open.spotify.com/album/6sHIjyrCaB1BqB8uN16Ehh) | 3:16 |
 | 48 | [Sunshine](https://open.spotify.com/track/677XwM4q3RL5f2mSrkafBc) | [12ayo](https://open.spotify.com/artist/6iBnc9NnFbAsMnxVjy5cPH), [Aka Sagrado](https://open.spotify.com/artist/7HhmqBBZrHr4wYQWAvBBPJ) | [¿Qué vas a hacer después de esto?](https://open.spotify.com/album/5mkkZeWs7KzNgypFYeckMz) | 3:00 |
 | 49 | [FINAL SEASON](https://open.spotify.com/track/2ZDeQRvTj3WixBJAVePQbH) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [FINAL SEASON](https://open.spotify.com/album/5MYrVhJfD3YrZsVaYtT548) | 2:53 |
 | 50 | [va a pasar](https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [va a pasar](https://open.spotify.com/album/6HNw6oS7oQo1hlWPGJVT4n) | 3:31 |
 
-Snapshot ID: `AAAAABCcgZCOg7gMynKNZqml7jpmyXXG`
+Snapshot ID: `AAAAAMz7VLR8DsgngKCNHOQf+uDMjXHx`

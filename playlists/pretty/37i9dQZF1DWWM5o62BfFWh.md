@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: Wampi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,594 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,606 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 30 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:10 |
 | 31 | [E\-Charla](https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh) | [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [E\-Charla](https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp) | 3:39 |
 | 32 | [MARIDON](https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z) | [MARIDON](https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH) | 2:49 |
-| 33 | [After Party](https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 2:37 |
-| 34 | [Un Tiempo \- Remix](https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys) | [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB), [Yorshi & Yosan](https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy), [Fernando Produce](https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ) | [Un Tiempo \(Remix\)](https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG) | 2:43 |
+| 33 | [Un Tiempo \- Remix](https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys) | [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB), [Yorshi & Yosan](https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy), [Fernando Produce](https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ) | [Un Tiempo \(Remix\)](https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG) | 2:43 |
+| 34 | [After Party](https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 2:37 |
 | 35 | [UN TIEMPO](https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV) | [Yorshi & Yosan](https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [UN TIEMPO](https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI) | 2:58 |
 | 36 | [Uff \- Prod\. by Dj Honda](https://open.spotify.com/track/7tqyxyev63WRu0k3hxbc7p) | [Mauro y El Pitu](https://open.spotify.com/artist/0CcwKWKXEhxuEBohlsBhz2), [Talent Fuego](https://open.spotify.com/artist/5XYdPQdxwHSnn4hSZRGY9H), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Uff](https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ) | 3:17 |
 | 37 | [POQUITICO](https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7) | [Zurdo Mc](https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN), [Payaso x Ley](https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [POQUITICO](https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT) | 3:18 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 46 | [Se asfixió](https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn) | [L Maldito 13](https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL) | [Se asfixió](https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE) | 2:43 |
 | 47 | [Firme Contigo](https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Firme Contigo](https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO) | 2:05 |
 | 48 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
-| 49 | [El de Pi](https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [El de Pi](https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H) | 3:16 |
+| 49 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 | 50 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
 
-Snapshot ID: `AAAAAP2z//3tp7vuFwtHda5FFnHW70gR`
+Snapshot ID: `AAAAAMu+tbLSg7T7vVonj6FZaTVUKjGe`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,833 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,873 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Castro](https://open.spotify.com/artist/3ypcczL3pVuYHO4MfQzVNh), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
+| 1 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Raúl](https://open.spotify.com/artist/6pj2OaALBI7L6Wtq6XNyGj), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
 | 2 | [Lo Que Hay X Aquí](https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:38 |
 | 3 | [SUPERESTRELLA](https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [SUPERESTRELLA](https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA) | 2:36 |
 | 4 | [Sólo Un Día](https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sólo Un Día](https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Las Facetas de Arturo \- En Vivo](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
 | 50 | [Los Placeres De Archivaldo](https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9) | 2:34 |
 
-Snapshot ID: `asGXAAAAAACAoa8iMjz9gvzSNZizijWc`
+Snapshot ID: `asLogAAAAAD3vVhppGaRJBwGcnS+d856`

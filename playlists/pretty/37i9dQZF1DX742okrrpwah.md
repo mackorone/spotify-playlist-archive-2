@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, La Mano 1.9, Ronisia x Meryl x Shay, Fontaines D.C\. et Angèle x Caroline Polachek x SebastiAn au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,067 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,063 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 100 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
 | 101 | [Bête et méchant](https://open.spotify.com/track/272TYAbiKBSO0UxHtym1C8) | [Dj Harmelo](https://open.spotify.com/artist/4wKLOPNb8KJSQyREzT093C), [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta) | [Bête et méchant](https://open.spotify.com/album/6DIGyM5J1SFTmJr5aNtn7F) | 2:49 |
 
-Snapshot ID: `AAAAAO5HGzis0OxwXx191k5qm8TAIXEH`
+Snapshot ID: `AAAAAENdizP/fqjCU+ssoK1O1Ps0tPVV`

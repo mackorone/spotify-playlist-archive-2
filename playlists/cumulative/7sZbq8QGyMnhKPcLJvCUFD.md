@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-907 songs - 1 day 21 hr 8 min
+908 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [grow apart](https://open.spotify.com/track/1Wk4VhEdlPzRBQmogzCejD) | [Ghostnaps](https://open.spotify.com/artist/12H4M1bhUsHGZfES7IO27D) | [grow apart](https://open.spotify.com/album/2DpQY6dml38F5Wc5AtAJgc) | 2:54 | 2024-07-09 | 2025-01-08 |
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
+| [halcyon](https://open.spotify.com/track/0TNPQUCHadBHlELOlIQp0j) | [onte](https://open.spotify.com/artist/5h4rcVNOcg33YNWOMi4N1h) | [halcyon](https://open.spotify.com/album/09SVWoZa9EAeaSntE3sEVU) | 3:10 | 2026-10-06 |  |
 | [Halcyon](https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Jibaan](https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ) | [Regardless EP](https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq) | 3:47 | 2026-09-25 |  |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |
 | [Happier Now](https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Happier Now](https://open.spotify.com/album/4sbyMFGjrzJroFJxtOyqTV) | 3:00 | 2024-10-03 |  |

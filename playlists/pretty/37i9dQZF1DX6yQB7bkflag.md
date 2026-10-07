@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,646 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,643 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 |
 | 100 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
 
-Snapshot ID: `AAAAAKBbpoSLa1gyuAMcHseUc0bbs2LD`
+Snapshot ID: `AAAAAJdFyZcy0B/ceMH4pFvgun6+EwnV`

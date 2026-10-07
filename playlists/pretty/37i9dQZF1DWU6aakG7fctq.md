@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ed Maverick
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,402 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,399 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Diostedé](https://open.spotify.com/track/141h7VYfDx133EatDujVU4) | [Santiago García](https://open.spotify.com/artist/3NWfmbbgneHqdFU8qehWto), [luci le](https://open.spotify.com/artist/3glLfCwES6QDLQ7y1ypVbs) | [Diostedé](https://open.spotify.com/album/24PolqoaBfgW92KM7Js9jF) | 3:34 |
 | 50 | [lucero](https://open.spotify.com/track/1COrZ1MxTfmnZ0W7f2TxDL) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [lucero](https://open.spotify.com/album/6wYRXSXE7Eq1UeiV2XkXzu) | 2:36 |
 
-Snapshot ID: `AAAAAJrEBmufIZKPFAe6ZFfFMaiwGQbt`
+Snapshot ID: `AAAAAE7SbzQQ39tdlYVCI9xHnKes7Dpo`

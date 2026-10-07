@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,471 likes - 150 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,715 likes - 150 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 132 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 |
 | 133 | [So Far Away \- Full Version](https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 5:08 |
 | 134 | [Speedway At Nazareth](https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing To Philadelphia](https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg) | 6:21 |
-| 135 | [Paper Trails](https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF) | 4:49 |
-| 136 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
+| 135 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
+| 136 | [Paper Trails](https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF) | 4:49 |
 | 137 | [Spirits In The Material World \- Remastered 2003](https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered\)](https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A) | 2:59 |
 | 138 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 |
 | 139 | [Daniel](https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Two Suns](https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe) | 4:11 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 147 | [Default](https://open.spotify.com/track/1RXnyc0zTy3aDeUxmixsev) | [Atoms For Peace](https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi) | [AMOK](https://open.spotify.com/album/6dJZDZMNdBPZrJcNv57bEq) | 5:15 |
 | 148 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
 | 149 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
-| 150 | [Jumbo](https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish](https://open.spotify.com/album/2WQi7I2Nc8pMLgsXnwJp0b) | 6:57 |
+| 150 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 |
 
-Snapshot ID: `AAAAAGSygXllRrHPld/6cY/DhwHTqPzC`
+Snapshot ID: `AAAAANfyn64xFgdSSYMhe49gDuL+hDw8`

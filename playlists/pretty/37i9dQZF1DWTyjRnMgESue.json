@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90528,
+  "num_followers": 90548,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANm6kpbLBGXtRfvSFR7Qw9s9IdUH",
+  "snapshot_id": "AAAAACJ+ZeHOhTqJ6hPK7lCpXnEwuTSf",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:01",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Blue Ridge Run",
+        "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Blue Ridge Run",
+      "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Drink The Water (from the SURFILMUSIC Soundtrack)",
         "url": "https://open.spotify.com/album/24ZRYH7bU3IA8cyL8mjGQl"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 222857,
       "name": "Drink The Water",
       "url": "https://open.spotify.com/track/4NqIyYNBSkv0VMnwC3Rl74"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Blue Ridge Run",
-        "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Blue Ridge Run",
-      "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "I Don't Know How But They Found Me...Again!",
         "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
       },
@@ -935,6 +951,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 211150,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -967,38 +999,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 211150,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "For The First Time, Again",
-        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "For The First Time, Again",
-      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Back In My Body",
         "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 195265,
       "name": "Back In My Body",
       "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Sad Country Songs",
-        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 184322,
-      "name": "Sad Country Songs",
-      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+        "name": "Sad Country Songs",
+        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
         }
       ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
+      "duration_ms": 184322,
+      "name": "Sad Country Songs",
+      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1075,6 +1059,22 @@
       "duration_ms": 240178,
       "name": "Everyone Likes To Be Forgiven",
       "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "If I Had Never Lost My Mind...",
-        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 190998,
-      "name": "If I Had Never Lost My Mind...",
-      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+        "name": "If I Had Never Lost My Mind...",
+        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
+      "duration_ms": 190998,
+      "name": "If I Had Never Lost My Mind...",
+      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1255,6 +1239,22 @@
       "duration_ms": 246210,
       "name": "Sad and Beautiful World",
       "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Nothing Comes Easy",
-        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Nothing Comes Easy",
-      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 110173,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
     },
     {
       "added_at": "2026-09-04 04:02:01",

@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Kan Andak Kam Sana",
+        "url": "https://open.spotify.com/album/61ZickHAjsyDteiEGrPnSy"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Kan Andak Kam Sana",
+      "url": "https://open.spotify.com/track/7gh3wCFApvGj2m7jxG9uFd"
+    },
+    {
+      "album": {
         "name": "Keda Keda",
         "url": "https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB"
       },
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 167142,
       "name": "Seebo Seebo",
       "url": "https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ"

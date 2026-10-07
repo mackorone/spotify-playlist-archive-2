@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 20183,
+  "num_followers": 20212,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOB5/obm2vUt5q7MAR+PczlEYsmy",
+  "snapshot_id": "AAAAAE1sjuQZsDjlfV51GD2WzPOZot6e",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Sunday (1994) [Deluxe]",
+        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Sunday (1994) [Deluxe]",
-        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "High 4 U",
-        "url": "https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "High 4 U",
-      "url": "https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR"
     },
     {
       "added_at": "2025-05-19 03:00:14",

@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 170681,
       "name": "Allo Doudou",
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
@@ -21033,6 +21033,24 @@
     },
     {
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/4d6UPuzH7S5hZhaWqQZ2U9"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193072,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/1ixnGkLXZJuEueqJioIjmm"
+    },
+    {
+      "album": {
         "name": "DRILL FR",
         "url": "https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN"
       },
@@ -28372,7 +28390,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 129000,
       "name": "Le Petit P\u00eacheur",
       "url": "https://open.spotify.com/track/3iIakZIJaIpxxpQuDN7ETx"
@@ -31514,7 +31532,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 152222,
       "name": "MAKA SHIT",
       "url": "https://open.spotify.com/track/0m0aigfxWcO3D7o8xAYS8d"
@@ -34102,7 +34120,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 190640,
       "name": "Mode de vie",
       "url": "https://open.spotify.com/track/7j6Gf8nRaGFP9AITp30nHn"
@@ -36618,6 +36636,28 @@
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "album": {
@@ -41920,7 +41960,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -44162,7 +44202,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 151875,
       "name": "R\u00e9anym\u00e9",
       "url": "https://open.spotify.com/track/5IiX5KMLfVLpdFTopU9n9o"

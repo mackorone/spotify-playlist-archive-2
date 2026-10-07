@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,210 likes - 104 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,253 likes - 104 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 103 | [417 Hz \- Why The Rush](https://open.spotify.com/track/4kGgvet4UW9oOZKTlpY3ic) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
 | 104 | [The Sacred \(417 Hz\)](https://open.spotify.com/track/4Ty6BpzqZfAEetSMV6cAn2) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Intentional Impact](https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L) | 3:25 |
 
-Snapshot ID: `AAAAAO+dwyoeXZ0sz3Z/75TC7pJlhpKW`
+Snapshot ID: `AAAAACYIsrZj5Y4WAUnOMff+i5VFnTuS`

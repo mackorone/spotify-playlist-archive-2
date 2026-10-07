@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc3yvwrFuNS.md) - [plain]
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 38 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc3yvwrFuNS.md) - [plain]
 | 37 | [Watch Me Bleed \- \(Spotify OUTSIDE Version\) \- Live From Austin, TX](https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Spotify OUTSIDE](https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF) | 3:54 |
 | 38 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 |
 
-Snapshot ID: `AAAAABvNk2UBHKrVV3lPHPM6r1+rc4e7`
+Snapshot ID: `AAAAAB4/1fBPLJGEn2QOXpquBMN9vbDz`

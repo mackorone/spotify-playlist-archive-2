@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NiziU
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: Hearts2Hearts
 
-1,833 songs - 4 day 0 hr 14 min
+1,836 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-07 | 2023-02-22 |
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2022-12-15 | 2023-02-22 |
 | [Catch a Wave](https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG) | 3:33 | 2023-05-30 | 2023-08-11 |
-| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 |  |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 | 2026-10-07 |
 | [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 | 2026-07-15 |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-09 | 2025-03-07 |
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 | 2023-02-15 |
@@ -405,6 +405,7 @@
 | [Dilly Dally](https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/5vLpVxSJdRGciJ1FTY4qiX) | 3:31 | 2023-12-05 | 2023-12-15 |
 | [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
 | [DIM](https://open.spotify.com/track/7vC62GHKlmmR4JiewhYcre) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [DIM ∞](https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0) | 3:21 | 2025-04-03 | 2025-04-25 |
+| [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH) | 2:28 | 2026-10-06 |  |
 | [Dirty Dancing \(feat\. Joshua, DK & Dino of SEVENTEEN\) \- Dem Jointz Remix](https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Dirty Dancing \(Dem Jointz Remix\)](https://open.spotify.com/album/4MHZnwMTrnhgoSJKe1KSqP) | 3:36 | 2023-08-31 | 2023-10-28 |
 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-08-19 | 2025-11-18 |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-06-26 | 2025-08-20 |
@@ -469,7 +470,7 @@
 | [Eclipse](https://open.spotify.com/track/0yhSuVJ4QGrFetP7cO4Y8a) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Alter Ego](https://open.spotify.com/album/65EPSaLb7zDDiTt6RVIbfj) | 3:14 | 2021-12-23 | 2022-01-21 |
 | [ECLIPSE](https://open.spotify.com/track/5blarPVSwhHNVB5aFMr4fL) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst), [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [ECLIPSE](https://open.spotify.com/album/77vY8TKGpFazJpKSUQSjyD) | 3:21 | 2023-06-27 | 2023-08-01 |
 | [EDELWEISS \- Japanese Version](https://open.spotify.com/track/52kpniJmlFTsJw3I1mKh5c) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [EDELWEISS \(Japanese Version\)](https://open.spotify.com/album/6wzoFKRFbqZr8xPop86mox) | 3:39 | 2022-03-22 | 2022-05-14 |
-| [Edge of Calm](https://open.spotify.com/track/7LxRTa2NFFO9ImeT8QfdKD) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Edge of Calm](https://open.spotify.com/album/47NV5HFj1H8UZ9LYcMjO9j) | 2:44 | 2026-08-20 |  |
+| [Edge of Calm](https://open.spotify.com/track/7LxRTa2NFFO9ImeT8QfdKD) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Edge of Calm](https://open.spotify.com/album/47NV5HFj1H8UZ9LYcMjO9j) | 2:44 | 2026-08-20 | 2026-10-07 |
 | [Either Way](https://open.spotify.com/track/3jxFmvoG55Cwv0JJBzRPce) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/4P59pYCBIktFE5EXW9ATXA) | 2:46 | 2024-04-18 | 2024-04-24 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-26 | 2024-04-19 |
 | [Electric Shock](https://open.spotify.com/track/1ARMCwjWcFqDRKnCsLhxzd) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [ACT](https://open.spotify.com/album/6RWRS5nL83GBM3VQkYuYHO) | 2:50 | 2024-09-24 | 2025-01-12 |
@@ -757,7 +758,8 @@
 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 | 2026-03-24 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2024-11-15 | 2025-02-25 |
 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
-| [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 | 2026-08-10 |  |
+| [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 | 2026-08-10 | 2026-10-07 |
+| [ICONIC HEART \- Korean Ver.](https://open.spotify.com/track/0Jb3YV60m2wWErXJOD7u0Z) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART \(Korean Ver.\)](https://open.spotify.com/album/3vPNPM8uK8zckClguhFfjX) | 3:09 | 2026-10-06 |  |
 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 | 2025-06-17 | 2025-06-19 |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-27 | 2024-11-06 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 | 2025-03-07 |
@@ -1008,7 +1010,7 @@
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
 | [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-18 |  |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-24 | 2026-08-04 |
-| [Mr 2026](https://open.spotify.com/track/0IrnSKALJD7BaoNwooCJdU) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [young tape](https://open.spotify.com/album/33MCYxTin3bkYr6cXmO7Nl) | 2:28 | 2026-07-14 |  |
+| [Mr 2026](https://open.spotify.com/track/0IrnSKALJD7BaoNwooCJdU) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [young tape](https://open.spotify.com/album/33MCYxTin3bkYr6cXmO7Nl) | 2:28 | 2026-07-14 | 2026-10-07 |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-13 | 2025-10-18 |
@@ -1778,6 +1780,7 @@
 | [ZOOM](https://open.spotify.com/track/0qIs4x4LRxGPaA1lP4IS18) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/3sBVNx0uoo6vAzlosi8RhM) | 2:48 | 2025-01-31 | 2025-07-28 |
 | [ZOOM](https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF) | 2:48 | 2024-11-19 | 2025-02-01 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-06 | 2024-01-19 |
+| [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 | 2026-10-06 |  |
 | [หงุดหงิด \(tsk\)](https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [หงุดหงิด \(tsk\)](https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96) | 2:38 | 2026-07-28 | 2026-09-05 |
 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 | 2025-10-16 | 2026-04-01 |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-23 | 2022-01-26 |

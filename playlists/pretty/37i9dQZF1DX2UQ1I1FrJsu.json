@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 156257,
+  "num_followers": 156298,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANFamBiAW2C0YFoWt6LWk+Vsm10S",
+  "snapshot_id": "AAAAAMWZyyUHsAOc3Ok/LUBTmcPIZQmp",
   "tracks": [
     {
       "added_at": "2026-10-02 18:05:55",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-02 18:05:55",
       "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "added_at": "2026-10-02 18:05:55",
-      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 229853,
       "name": "Echo",
       "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+    },
+    {
+      "added_at": "2026-10-02 18:05:55",
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
     },
     {
       "added_at": "2026-10-02 18:05:55",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-02 18:05:55",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
-      },
-      "artists": [
-        {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
-        }
-      ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
-    },
-    {
-      "added_at": "2026-10-02 18:05:55",
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 176599,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+    },
+    {
+      "added_at": "2026-10-02 18:05:55",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+      },
+      "artists": [
+        {
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+        }
+      ],
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "added_at": "2026-10-02 18:05:55",

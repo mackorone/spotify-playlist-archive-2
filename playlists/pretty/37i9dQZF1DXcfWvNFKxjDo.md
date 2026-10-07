@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Solomun, Dom Dolla, Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,480 likes - 66 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,475 likes - 66 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 65 | [The Way I Want You](https://open.spotify.com/track/3JGIssQjdbcDIWZvyaBtID) | [YASHA](https://open.spotify.com/artist/0dGV3o65dTLDeyZJOZWDL5) | [The Way I Want You](https://open.spotify.com/album/2OlpKCJbgF8LzqmprEDlnb) | 2:31 |
 | 66 | [Summer's Gone](https://open.spotify.com/track/76GLXYBLq2cN9VJ36bgzoq) | [3LEEZA](https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO) | [Summer's Gone](https://open.spotify.com/album/3im8zarCdlz7lS7xInDofp) | 3:38 |
 
-Snapshot ID: `AAAAAIt7SoJ6EuULxMdon9URPp6gztW3`
+Snapshot ID: `AAAAAFeIsIvE+pSEyEXY8xLtx6BsAwwX`

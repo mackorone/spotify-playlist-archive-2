@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,757 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,769 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 69 | [Farol Das Estrelas](https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café Da MaLu](https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3) | 3:07 |
 | 70 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
 | 71 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |
-| 72 | [Apesar de Querer](https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR) | 4:04 |
-| 73 | [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 |
-| 74 | [Balanço de Amor](https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Balanço de Amor](https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu) | 3:19 |
+| 72 | [Balanço de Amor](https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Balanço de Amor](https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu) | 3:19 |
+| 73 | [Apesar de Querer](https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR) | 4:04 |
+| 74 | [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 |
 | 75 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 |
 | 76 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
-| 77 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 |
-| 78 | [No Mundo](https://open.spotify.com/track/6nz3aJMFQugXnZbWID6pBX) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5YNgJg4RP2rjVJnaL2YWmI) | 3:08 |
+| 77 | [No Mundo](https://open.spotify.com/track/6nz3aJMFQugXnZbWID6pBX) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5YNgJg4RP2rjVJnaL2YWmI) | 3:08 |
+| 78 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 |
 | 79 | [samba do moço bonito](https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [samba do moço bonito](https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e) | 3:17 |
 | 80 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
 | 81 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 |
 | 85 | [Love Love](https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 3:25 |
 
-Snapshot ID: `AAAAALgFU7j8waEefP2vVhbR07FvYoxE`
+Snapshot ID: `AAAAAJNHbgriMrzgil+CLIkpFUZgueDf`

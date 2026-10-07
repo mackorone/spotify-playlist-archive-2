@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > "Si mañana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal" Valentin Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,573 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,580 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
 | 75 | [Bésame Morenita](https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Te Vengo A Ver..\. Con Banda Sinaloense](https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4) | 2:31 |
 
-Snapshot ID: `AAAAACgzIUjB6x1BS5kxT6RRBjM/vWW+`
+Snapshot ID: `AAAAABqcyhb0wrP9xh7Up89KcxaJeYPZ`

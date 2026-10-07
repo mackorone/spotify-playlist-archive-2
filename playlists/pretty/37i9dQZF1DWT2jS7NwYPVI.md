@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: mercury
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,268 likes - 154 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,310 likes - 154 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 22 | [Be Happy](https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Put A Smile On For Me](https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB) | 3:12 |
 | 23 | [Bang Bang Bang](https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Bang Bang Bang](https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN) | 2:22 |
 | 24 | [Ribbon Factory](https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Ribbon Factory](https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL) | 4:14 |
-| 25 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 25 | [Big Ideas](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Big Ideas](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 26 | [Dizzy Sunday](https://open.spotify.com/track/3qmV2pfuO6izG1lHjmWcPj) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Dizzy Sunday](https://open.spotify.com/album/1iOX3Jqld5WazGRnpb5kGK) | 4:02 |
 | 27 | [Twenty Seconds](https://open.spotify.com/track/77cl6L0OysTswJWeuzDBjr) | [MX LONELY](https://open.spotify.com/artist/7JrQ7OeohqbGyqXwuLLEpW), [Wiring](https://open.spotify.com/artist/6mc2saUyoqa8CRrzM0Okxf) | [PERFECT HOUSE](https://open.spotify.com/album/6j08J4z8fMG1XPLwkRWU3Z) | 4:14 |
 | 28 | [Ugly](https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Ugly](https://open.spotify.com/album/04aREc9X6YEicDlY9icLnJ) | 2:53 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 153 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
 | 154 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 |
 
-Snapshot ID: `AAAAAGDkMbXjUOJoaGA0LS8WZTFK1HRl`
+Snapshot ID: `AAAAAE+uGmyQigGQ4aL3PYNVyXqvnC3F`

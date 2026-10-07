@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,687 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,723 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Dance Right Now](https://open.spotify.com/track/0ja6kwEPfMl1GJoVhKB4Bl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Dance Right Now](https://open.spotify.com/album/7jJNc66Bkl80Cl1JEH6Pco) | 3:08 |
 | 100 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 
-Snapshot ID: `AAAAADKkZO7NYyV1IH52o49mAdKrbGdg`
+Snapshot ID: `AAAAAL+wGxW3bDSQc0JO85ywB8jv7gvm`

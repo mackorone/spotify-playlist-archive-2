@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,932 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,957 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Shut Up](https://open.spotify.com/track/7tqFybj2adfTc5Kcnrt2NF) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Shut Up](https://open.spotify.com/album/4UYeBhXLZw5JbJsA52z7sP) | 2:49 |
 | 80 | [Johnny Sins](https://open.spotify.com/track/28EH27O8dYIDLUeIkir7bE) | [GLOBALBOY COLLIN](https://open.spotify.com/artist/30N25ZmNiV3kSpIct7aHeL) | [GLO IS BAD](https://open.spotify.com/album/0yJhDNzRo4FmJgzHnDxBmD) | 2:15 |
 
-Snapshot ID: `AAAAADPaSbynJlpT7OYaz2gdx9DK6rxj`
+Snapshot ID: `AAAAALP2y4775ISBytpvc0sclg+Ahcq+`

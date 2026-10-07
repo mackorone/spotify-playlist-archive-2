@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,970 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,969 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 19 | [Sunflare](https://open.spotify.com/track/0uM3sQj3oZsKAiAPM5G5oI) | [Falchi](https://open.spotify.com/artist/23y2IZmOo4TJdVWVdT1O2Y) | [Sunflare](https://open.spotify.com/album/4ZMB8xCjWrL60v3Lf4mvpH) | 6:07 |
 | 20 | [Earth & Sky](https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Earth & Sky](https://open.spotify.com/album/6NxMsVkNmPY0bUfyQFhCDm) | 4:09 |
 | 21 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 |
-| 22 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 |
+| 22 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy & The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 |
 | 23 | [Intuição](https://open.spotify.com/track/4EmUqUYkRsSUu23jWJzbL2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Rafael Bittencourt](https://open.spotify.com/artist/0mwuCuavFPba7MlbdXEm19) | [Intuição](https://open.spotify.com/album/4AvAJ4oxYAdQTZ9z2K3uSY) | 4:14 |
 | 24 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 |
 | 25 | [The Other Side Of Anger](https://open.spotify.com/track/363gIIVGtXzJriTcbn0Tsv) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side Of Anger](https://open.spotify.com/album/5pznPcAEHaBZbCG8dLz04l) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 |
 | 75 | [A Ponte](https://open.spotify.com/track/6yg96cJGwxKU9GLmrGZsMF) | [Chuva Doce](https://open.spotify.com/artist/2Q4gXuyaPtaw7nXSrNslhf) | [A Ponte](https://open.spotify.com/album/1uRCT8pB7Gd2cndvPS4lNF) | 3:44 |
 
-Snapshot ID: `AAAAAMR50nK6P6V7kr6W2g2euHZBl6Cc`
+Snapshot ID: `AAAAAD8HHqbC4Ug+je4MDw3LeXukM2IY`

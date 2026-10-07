@@ -1,12 +1,12 @@
 {
   "description": "Emma Nolde dopo la doppietta di concerti sold out a Milano, qui in cover di Indie Italia \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 453810,
+  "num_followers": 453801,
   "original_name": "Indie Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNf4Bsx+N0NcOj15Svq+SwZW9Ej",
+  "snapshot_id": "AAAAAMHHfgV9u2NX66LpR1FxxrOpUxJ+",
   "tracks": [
     {
       "added_at": "2026-10-01 22:03:00",
@@ -27,18 +27,22 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "La paura in tasca",
-        "url": "https://open.spotify.com/album/02j6V8m5i5fcdAmaMvRiO5"
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
       },
       "artists": [
         {
-          "name": "Anna Castiglia",
-          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
         }
       ],
-      "duration_ms": 202944,
-      "name": "La paura in tasca",
-      "url": "https://open.spotify.com/track/21CMzNKLWICY7sqMr54naQ"
+      "duration_ms": 175625,
+      "name": "Mano Nella Mano (con Fulminacci)",
+      "url": "https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -75,22 +79,18 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "Tutti Tornano A Casa",
-        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+        "name": "La paura in tasca",
+        "url": "https://open.spotify.com/album/02j6V8m5i5fcdAmaMvRiO5"
       },
       "artists": [
         {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        },
-        {
-          "name": "Fulminacci",
-          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+          "name": "Anna Castiglia",
+          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
         }
       ],
-      "duration_ms": 175625,
-      "name": "Mano Nella Mano (con Fulminacci)",
-      "url": "https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg"
+      "duration_ms": 202944,
+      "name": "La paura in tasca",
+      "url": "https://open.spotify.com/track/21CMzNKLWICY7sqMr54naQ"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "Senza Colori",
-        "url": "https://open.spotify.com/album/1TbTvGNMHTAzUFFCPbQY4M"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Poi",
-          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
-        }
-      ],
-      "duration_ms": 170961,
-      "name": "Senza Colori",
-      "url": "https://open.spotify.com/track/6uYUjswzL1v6E20pmyUT9Y"
-    },
-    {
-      "added_at": "2026-10-01 22:03:00",
-      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE"
       },
@@ -139,6 +123,38 @@
       "duration_ms": 166513,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1Vc9Ku57IN5bnOk2WYeYY0"
+    },
+    {
+      "added_at": "2026-10-01 22:03:00",
+      "album": {
+        "name": "In Memoria Di",
+        "url": "https://open.spotify.com/album/2G3KRxNG0HoaqNNja24Jx6"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "duration_ms": 220596,
+      "name": "Come volevi essere",
+      "url": "https://open.spotify.com/track/2Ow7aIOUGhCsQyOoYS2CV4"
+    },
+    {
+      "added_at": "2026-10-01 22:03:00",
+      "album": {
+        "name": "Senza Colori",
+        "url": "https://open.spotify.com/album/1TbTvGNMHTAzUFFCPbQY4M"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Poi",
+          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
+        }
+      ],
+      "duration_ms": 170961,
+      "name": "Senza Colori",
+      "url": "https://open.spotify.com/track/6uYUjswzL1v6E20pmyUT9Y"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -223,18 +239,18 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "In Memoria Di",
-        "url": "https://open.spotify.com/album/2G3KRxNG0HoaqNNja24Jx6"
+        "name": "Sciall\u00e0",
+        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
       },
       "artists": [
         {
-          "name": "Lamante",
-          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 220596,
-      "name": "Come volevi essere",
-      "url": "https://open.spotify.com/track/2Ow7aIOUGhCsQyOoYS2CV4"
+      "duration_ms": 256000,
+      "name": "Sciall\u00e0",
+      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -255,6 +271,22 @@
       "duration_ms": 195200,
       "name": "Quando La Luna Si Accende (con prima stanza a destra)",
       "url": "https://open.spotify.com/track/1q95V1lKt6sDLU5QOTHFa3"
+    },
+    {
+      "added_at": "2026-10-01 22:03:00",
+      "album": {
+        "name": "Una canzone allegra",
+        "url": "https://open.spotify.com/album/0611vyNUbbaN4b1pxnVhrW"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Una canzone allegra",
+      "url": "https://open.spotify.com/track/3OIpE2rJEoTgRxHHCNMBuB"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -327,6 +359,38 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
+        "name": "licia",
+        "url": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+        }
+      ],
+      "duration_ms": 171214,
+      "name": "licia",
+      "url": "https://open.spotify.com/track/7p81n4TOcxazBYhwIhXka4"
+    },
+    {
+      "added_at": "2026-10-01 22:03:00",
+      "album": {
+        "name": "Ancora Te",
+        "url": "https://open.spotify.com/album/5H4Jk5sLQ9mTo6YAKJkN9O"
+      },
+      "artists": [
+        {
+          "name": "Lumiero",
+          "url": "https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ"
+        }
+      ],
+      "duration_ms": 183548,
+      "name": "Ancora Te",
+      "url": "https://open.spotify.com/track/0WPOWdSXPfUlA5OPvvpEoE"
+    },
+    {
+      "added_at": "2026-10-01 22:03:00",
+      "album": {
         "name": "Tutti Tornano A Casa",
         "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
       },
@@ -375,22 +439,6 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "Sciall\u00e0",
-        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Sciall\u00e0",
-      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
-    },
-    {
-      "added_at": "2026-10-01 22:03:00",
-      "album": {
         "name": "SINCERO!",
         "url": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI"
       },
@@ -411,18 +459,18 @@
     {
       "added_at": "2026-10-01 22:03:00",
       "album": {
-        "name": "licia",
-        "url": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65"
+        "name": "Tutto passa",
+        "url": "https://open.spotify.com/album/3tpXvfBqZPxGFyumlAMy1s"
       },
       "artists": [
         {
-          "name": "PETRA",
-          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+          "name": "MANAGEMENT DEL DOLORE POST-OPERATORIO",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
         }
       ],
-      "duration_ms": 171214,
-      "name": "licia",
-      "url": "https://open.spotify.com/track/7p81n4TOcxazBYhwIhXka4"
+      "duration_ms": 241616,
+      "name": "Tutto passa",
+      "url": "https://open.spotify.com/track/5r9l84bzXIzD4Mv3arpMmb"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -439,22 +487,6 @@
       "duration_ms": 185653,
       "name": "Quel Che Non Ho Pi\u00f9",
       "url": "https://open.spotify.com/track/5XlF7ld7EOpIwPxe6vVcoT"
-    },
-    {
-      "added_at": "2026-10-01 22:03:00",
-      "album": {
-        "name": "Ancora Te",
-        "url": "https://open.spotify.com/album/5H4Jk5sLQ9mTo6YAKJkN9O"
-      },
-      "artists": [
-        {
-          "name": "Lumiero",
-          "url": "https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ"
-        }
-      ],
-      "duration_ms": 183548,
-      "name": "Ancora Te",
-      "url": "https://open.spotify.com/track/0WPOWdSXPfUlA5OPvvpEoE"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -507,22 +539,6 @@
       "duration_ms": 122325,
       "name": "fuori dall\u2019edicola (feat. Post Nebbia)",
       "url": "https://open.spotify.com/track/7auBT0miaOEYIBq7W12oLg"
-    },
-    {
-      "added_at": "2026-10-01 22:03:00",
-      "album": {
-        "name": "Una canzone allegra",
-        "url": "https://open.spotify.com/album/0611vyNUbbaN4b1pxnVhrW"
-      },
-      "artists": [
-        {
-          "name": "Gioia Lucia",
-          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Una canzone allegra",
-      "url": "https://open.spotify.com/track/3OIpE2rJEoTgRxHHCNMBuB"
     },
     {
       "added_at": "2026-10-01 22:03:00",
@@ -651,22 +667,6 @@
       "duration_ms": 167880,
       "name": "Baciamoci",
       "url": "https://open.spotify.com/track/3S8vs3CYZDKEsh1WyJgr3f"
-    },
-    {
-      "added_at": "2026-10-01 22:03:00",
-      "album": {
-        "name": "Tutto passa",
-        "url": "https://open.spotify.com/album/3tpXvfBqZPxGFyumlAMy1s"
-      },
-      "artists": [
-        {
-          "name": "MANAGEMENT DEL DOLORE POST-OPERATORIO",
-          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Tutto passa",
-      "url": "https://open.spotify.com/track/5r9l84bzXIzD4Mv3arpMmb"
     },
     {
       "added_at": "2026-10-01 22:03:00",

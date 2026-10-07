@@ -8008,7 +8008,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 287266,
       "name": "Cornelia Street",
       "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
@@ -11083,6 +11083,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -11465,6 +11483,28 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/6GLqAz1P6TbSN9zFdA0X1f"
       },
@@ -11516,6 +11556,24 @@
       "duration_ms": 141312,
       "name": "Eye Of The Night",
       "url": "https://open.spotify.com/track/19qvgrwvKLFn4KjWxAs9OQ"
+    },
+    {
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
     },
     {
       "album": {
@@ -15487,6 +15545,24 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
         "name": "Seussical",
         "url": "https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze"
       },
@@ -16694,7 +16770,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
@@ -18724,7 +18800,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 252880,
       "name": "invisible string",
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
@@ -19778,7 +19854,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 221378,
       "name": "Just Us (feat. SZA)",
       "url": "https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS"
@@ -21952,7 +22028,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
@@ -22764,7 +22840,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 191039,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
@@ -23430,7 +23506,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 234146,
       "name": "Miss Americana & The Heartbreak Prince",
       "url": "https://open.spotify.com/track/214nt20w5wOxJnY462klLw"
@@ -27676,7 +27752,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
@@ -32264,7 +32340,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
@@ -33867,6 +33943,24 @@
     },
     {
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -35333,6 +35427,24 @@
     },
     {
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Televangelism",
+      "url": "https://open.spotify.com/track/6jd7Cv7yfWGTs7g89eA9Ss"
+    },
+    {
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -36315,6 +36427,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230999,
+      "name": "the last great american dynasty",
+      "url": "https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt"
+    },
+    {
+      "album": {
         "name": "Festival Concert 29",
         "url": "https://open.spotify.com/album/3lS6I4iLcqhJy8bJ4Kogxl"
       },
@@ -37231,6 +37361,28 @@
     },
     {
       "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
+    },
+    {
+      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -37832,7 +37984,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195097,
       "name": "this is me trying",
       "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
@@ -38204,7 +38356,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 321396,
       "name": "Timeless (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A"

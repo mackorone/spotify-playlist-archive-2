@@ -4,7 +4,7 @@
 
 > Спокійна музика для повільних ранків і затишних вечорів 🍁
 
-289 songs - 15 hr 49 min
+290 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,13 @@
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-09-01 | 2025-12-03 |
 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 | 2024-10-07 | 2025-01-09 |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-06-14 | 2024-09-02 |
+| [beyond](https://open.spotify.com/track/7se0VD9Nn3Jc3BRXqa7qnP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [beyond](https://open.spotify.com/album/5g3a4Xie5Yl7qYWwLOQZNi) | 3:19 | 2026-09-01 |  |
 | [Bird of Pray \- Acoustic Version](https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Acoustic\)](https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN) | 3:11 | 2025-05-02 | 2025-07-22 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-14 |  |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-06-14 | 2024-09-02 |
 | [Blue Light](https://open.spotify.com/track/1wLB14luY2RU9H8aGVNNw8) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Blue Light](https://open.spotify.com/album/6ld4iLzSWt2QiEqvz03OMX) | 3:08 | 2026-04-11 | 2026-10-01 |
 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2025-09-01 | 2025-12-03 |
-| [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2024-06-14 |  |
+| [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2024-06-14 | 2026-10-07 |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-09-01 | 2025-12-03 |
 | [Chasing My Happiness](https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Chasing My Happiness](https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX) | 2:06 | 2024-09-01 | 2024-10-08 |
 | [Christmas time is here](https://open.spotify.com/track/1bH4NqbJeiTIOPA2dWd6Qd) | [Lucas Bird](https://open.spotify.com/artist/6keyi1tIl9CeJf5M3ZHXT8) | [Christmas time is here](https://open.spotify.com/album/6QZFwvCfG8FWbIRRK3BjR5) | 1:59 | 2024-12-20 | 2025-01-21 |

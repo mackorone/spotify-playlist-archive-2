@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,693 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,696 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [ダンスホール](https://open.spotify.com/track/58S2KqpnleisQcmT8lDKuk) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [shilly shally](https://open.spotify.com/album/5rjmNzq5XSaQn5Ud3g2gUU) | 5:15 |
 | 80 | [いれもの](https://open.spotify.com/track/4LxioLlC4EC5wbTAPY7ipC) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [いれもの](https://open.spotify.com/album/5WKWmWFYeBU5aN2yRlRXhI) | 4:56 |
 
-Snapshot ID: `AAAAAMzxEMhnbbt8of/qC06/THykJE7h`
+Snapshot ID: `AAAAAHr4sSMcsKw+c9B/WFWPfODdvR7H`

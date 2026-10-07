@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Shay x Ronisia x Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,106 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,110 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy) | 2:48 |
 | 60 | [Balenciaga](https://open.spotify.com/track/5aYvQs8EzhOLTfQyJ2qiJ1) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8), [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [Balenciaga](https://open.spotify.com/album/7j2wA5aFxbuatJhKAwnquD) | 2:32 |
 
-Snapshot ID: `AAAAAGEDCS2DX51mnLqyrs+YCDkQ+au1`
+Snapshot ID: `AAAAAFdm8kLZTofT7tP6uLZA7/UYtpjc`

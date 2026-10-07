@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,187 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,188 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [DA BUSINESS](https://open.spotify.com/track/5XmIFwv3CFpNXL8taA0U3Z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DA BUSINESS](https://open.spotify.com/album/5QND0sxPeCwR6HMCWxBPoS) | 3:10 |
 | 40 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
 
-Snapshot ID: `AAAAAEWy/GdvDf0sd0Nn/eazO5vWaMUo`
+Snapshot ID: `AAAAAFJHwciSxBt1MyxraLD4pwj8OgXv`

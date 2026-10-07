@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11258,
+  "num_followers": 11257,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABuDsO0f/vDogYfWyMURV/A",
+  "snapshot_id": "asLogAAAAACHrUO4ilNjBD6VB3s4MMkw",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/2iitWYam80TwVGAlLF97Q3"
+      "duration_ms": 263583,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 263583,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
+      "duration_ms": 287173,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/2iitWYam80TwVGAlLF97Q3"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 212282,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 212282,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 227466,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
+      "duration_ms": 232893,
+      "name": "Flo",
+      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Flo",
-      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
+      "duration_ms": 227466,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
     },
     {
       "added_at": null,

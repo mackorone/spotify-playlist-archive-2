@@ -15307,6 +15307,24 @@
     },
     {
       "album": {
+        "name": "Reina No Ruega",
+        "url": "https://open.spotify.com/album/3EXYrCvhAVkJEleUMnFkIa"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180154,
+      "name": "Reina No Ruega",
+      "url": "https://open.spotify.com/track/3JmGPds0dSau3ewCrMbse0"
+    },
+    {
+      "album": {
         "name": "Relaci\u00f3n",
         "url": "https://open.spotify.com/album/3iU2gJPWHk6WMMJ3iikVbe"
       },

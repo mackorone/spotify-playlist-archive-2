@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4u422Sf5SX9YYvFOXwd14aGB6C",
+  "snapshot_id": "AAAAAKwefMxZDte6AKU2r3MrR4ncvK3A",
   "tracks": [
     {
       "added_at": "2026-10-02 04:04:02",
@@ -201,38 +201,6 @@
       "url": "https://open.spotify.com/track/755YHY8NRYiOtSquUwGPX6"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-09-24 21:53:30",
-      "album": {
-        "name": "Bird in Flames",
-        "url": "https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW"
-      },
-      "artists": [
-        {
-          "name": "Damhnait Doyle",
-          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
-        }
-      ],
-      "duration_ms": 233940,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ"
-    },
-    {
       "added_at": "2026-09-11 04:03:15",
       "album": {
         "name": "I'm Sorry But I Love You",
@@ -251,6 +219,38 @@
       "duration_ms": 242014,
       "name": "I'm Sorry But I Love You",
       "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
+    },
+    {
+      "added_at": "2026-09-24 21:53:30",
+      "album": {
+        "name": "Bird in Flames",
+        "url": "https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW"
+      },
+      "artists": [
+        {
+          "name": "Damhnait Doyle",
+          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
+        }
+      ],
+      "duration_ms": 233940,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": "2026-08-14 04:03:35",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-08-14 04:03:35",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+        "name": "Trying to Love You",
+        "url": "https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
+      "duration_ms": 290141,
+      "name": "Trying to Love You",
+      "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-08-14 04:03:35",
       "album": {
-        "name": "Trying to Love You",
-        "url": "https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 290141,
-      "name": "Trying to Love You",
-      "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "As Is",
@@ -589,20 +573,20 @@
       "url": "https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg"
     },
     {
-      "added_at": "2026-09-18 04:17:12",
+      "added_at": "2026-06-26 04:03:10",
       "album": {
-        "name": "Mule",
-        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Run Out Of Road",
-      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-07-10 08:00:27",
@@ -621,6 +605,22 @@
       "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
+      "added_at": "2026-09-18 04:17:12",
+      "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+    },
+    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Something In The Way",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
     },
     {
-      "added_at": "2026-07-31 04:03:48",
-      "album": {
-        "name": "The Hard Way (Complete Edition)",
-        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 167152,
-      "name": "Want For Nothing",
-      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
-    },
-    {
       "added_at": "2026-06-26 04:03:10",
       "album": {
         "name": "Wildfire",
@@ -667,6 +651,22 @@
       "duration_ms": 131427,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ"
+    },
+    {
+      "added_at": "2026-07-31 04:03:48",
+      "album": {
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
       "added_at": "2026-07-17 04:02:58",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/1TYfVk1t85btBuBGqEnB4g"
     },
     {
-      "added_at": "2026-07-24 04:03:38",
+      "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Home Depot",
-        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
         }
       ],
-      "duration_ms": 193039,
-      "name": "Home Depot",
-      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
+      "duration_ms": 202674,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
     },
     {
       "added_at": "2026-06-05 04:02:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 202674,
-      "name": "Frostbite",
-      "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2026-07-24 04:03:38",
+      "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
     },
     {
       "added_at": "2026-07-31 04:03:48",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
-      "added_at": "2026-06-12 04:03:05",
-      "album": {
-        "name": "Rox in the Box",
-        "url": "https://open.spotify.com/album/1MpqWkZ6ULonyjh36z9w0i"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "Rox in the Box",
-      "url": "https://open.spotify.com/track/2erJo1o9jHIWUfAlbZml90"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Wishbone",
@@ -1047,6 +1031,22 @@
       "duration_ms": 184881,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8"
+    },
+    {
+      "added_at": "2026-06-12 04:03:05",
+      "album": {
+        "name": "Rox in the Box",
+        "url": "https://open.spotify.com/album/1MpqWkZ6ULonyjh36z9w0i"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 192695,
+      "name": "Rox in the Box",
+      "url": "https://open.spotify.com/track/2erJo1o9jHIWUfAlbZml90"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq"
     },
     {
-      "added_at": "2026-08-28 04:03:47",
-      "album": {
-        "name": "Cahokia",
-        "url": "https://open.spotify.com/album/6XlIY7UOhFEnkvRq2f798h"
-      },
-      "artists": [
-        {
-          "name": "Greg Freeman",
-          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
-        }
-      ],
-      "duration_ms": 272902,
-      "name": "Cahokia",
-      "url": "https://open.spotify.com/track/4X2YGP2EomALNCQbOdzYx2"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "The Pines",
@@ -1191,6 +1175,22 @@
       "duration_ms": 167226,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G"
+    },
+    {
+      "added_at": "2026-08-28 04:03:47",
+      "album": {
+        "name": "Cahokia",
+        "url": "https://open.spotify.com/album/6XlIY7UOhFEnkvRq2f798h"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "duration_ms": 272902,
+      "name": "Cahokia",
+      "url": "https://open.spotify.com/track/4X2YGP2EomALNCQbOdzYx2"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "A Crater Wide",
-        "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 190781,
-      "name": "Heavy, Heavy Love",
-      "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Dublin Blues",
         "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 388107,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "A Crater Wide",
+        "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 190781,
+      "name": "Heavy, Heavy Love",
+      "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K"
     },
     {
-      "added_at": "2026-09-11 04:03:15",
-      "album": {
-        "name": "Far Out Country II",
-        "url": "https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI"
-      },
-      "artists": [
-        {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Im Yr Mane",
-      "url": "https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "I'm In Love with a Man",
@@ -1507,6 +1491,22 @@
       "duration_ms": 181846,
       "name": "I'm In Love with a Man",
       "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+    },
+    {
+      "added_at": "2026-09-11 04:03:15",
+      "album": {
+        "name": "Far Out Country II",
+        "url": "https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Im Yr Mane",
+      "url": "https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+        "name": "South of the Suburbs",
+        "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Matt Bazinet",
+          "url": "https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct"
         }
       ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+      "duration_ms": 168000,
+      "name": "South of the Suburbs",
+      "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "South of the Suburbs",
-        "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
       },
       "artists": [
         {
-          "name": "Matt Bazinet",
-          "url": "https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 168000,
-      "name": "South of the Suburbs",
-      "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-05-22 04:02:59",

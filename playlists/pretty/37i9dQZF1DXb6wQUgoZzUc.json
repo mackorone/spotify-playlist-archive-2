@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1474794,
+  "num_followers": 1475003,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINfDGO1wHNuh8ZVVPMQ4+AF0+LL",
+  "snapshot_id": "AAAAAH2qsMs9Fcc6BbSH8olsQ4JyNE4+",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:23",
@@ -391,6 +391,34 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
+        "name": "Me Reclama",
+        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187492,
+      "name": "Me Reclama",
+      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -431,34 +459,6 @@
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
-        "name": "Me Reclama",
-        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
-      },
-      "artists": [
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Me Reclama",
-      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
-      },
-      "artists": [
-        {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 171344,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 171344,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Baja Pa' Ac\u00e1",
+      "url": "https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Baja Pa' Ac\u00e1",
-      "url": "https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Chaparrita",
-        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chaparrita",
-      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -1915,6 +1895,26 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
+        "name": "Chaparrita",
+        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
         "name": "Pa las girlas (con DJ Urba) [Remix]",
         "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
       },
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 210788,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "Maquillaje (feat. Yexel) [Remix]",
         "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -2063,6 +2063,30 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
+        "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
         "name": "La Hermandad",
         "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
       },
@@ -2099,26 +2123,22 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Poblado",
-        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
       },
       "artists": [
         {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
         },
         {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Poblado",
-      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -2139,26 +2159,6 @@
       "duration_ms": 198525,
       "name": "Mi Baby",
       "url": "https://open.spotify.com/track/6eIA8nPX6kSBYX9b20TnC0"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
-        "name": "En To Lao",
-        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195033,
-      "name": "En To Lao",
-      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
     },
     {
       "added_at": "2026-09-25 06:00:23",

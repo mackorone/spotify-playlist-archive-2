@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "love?... or something like it",
+        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211739,
+      "name": "because i love you",
+      "url": "https://open.spotify.com/track/1OzJlcVFseginKgnHiuqOC"
+    },
+    {
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },

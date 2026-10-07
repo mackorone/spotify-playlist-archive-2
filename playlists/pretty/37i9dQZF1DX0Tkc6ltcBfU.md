@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,891 likes - 104 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,920 likes - 104 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 103 | [Fucking Told U](https://open.spotify.com/track/4NUUOQDq0W89tJCGYwXaW0) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:54 |
 | 104 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 |
 
-Snapshot ID: `AAAAAKqoQhbJKz/n+8CEj62atmWVFD0H`
+Snapshot ID: `AAAAAMtN+OCfk3adkUU3kJc0NHqyfRzx`

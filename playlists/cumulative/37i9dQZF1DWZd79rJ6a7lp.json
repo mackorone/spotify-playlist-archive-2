@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Gentle Elsewhere",
+        "url": "https://open.spotify.com/album/1PfODKb1wKWU9MOgtFAb2E"
+      },
+      "artists": [
+        {
+          "name": "Lunea Noire",
+          "url": "https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153325,
+      "name": "A Gentle Elsewhere",
+      "url": "https://open.spotify.com/track/3AcNe3DF2uPMYw5Q6JliNM"
+    },
+    {
+      "album": {
         "name": "A Glowing Sun",
         "url": "https://open.spotify.com/album/5Qp1ZVfDcWPuE9uz2PX88a"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 173127,
       "name": "Apprised",
       "url": "https://open.spotify.com/track/1Myj2GCUiyNoqmupleLETF"
@@ -10372,6 +10390,24 @@
     {
       "album": {
         "name": "Evenfall",
+        "url": "https://open.spotify.com/album/7iFR8MOztHJzvW9w643KFY"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Evenfall",
+      "url": "https://open.spotify.com/track/05wxnA1d8ulmknXpNmF3wi"
+    },
+    {
+      "album": {
+        "name": "Evenfall",
         "url": "https://open.spotify.com/album/2iHU1KoSwYN0ibwjy4PhKX"
       },
       "artists": [
@@ -11246,7 +11282,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 147678,
       "name": "First Light of Dawn",
       "url": "https://open.spotify.com/track/3FvNzkkZxjpHpGMVOroMJr"
@@ -12909,6 +12945,24 @@
     },
     {
       "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/3JtLog04bpTsc2G0r86xHY"
+      },
+      "artists": [
+        {
+          "name": "Coastliners",
+          "url": "https://open.spotify.com/artist/1gN7gjefIXwmrbKqumUIMf"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/4xy8Cine6FIaqElAq4cNAg"
+    },
+    {
+      "album": {
         "name": "Harmless 417 Hz",
         "url": "https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy"
       },
@@ -13100,7 +13154,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 180000,
       "name": "Hearts in Eden",
       "url": "https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO"
@@ -16232,7 +16286,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 183000,
       "name": "Longing",
       "url": "https://open.spotify.com/track/2q4faYQZQS3UK2eCxMQ54G"
@@ -16412,7 +16466,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 156000,
       "name": "Lowlit",
       "url": "https://open.spotify.com/track/7eqFzunTpMeG6GrkcvQC2o"
@@ -16758,6 +16812,24 @@
       "duration_ms": 173333,
       "name": "Lunatheris",
       "url": "https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg"
+    },
+    {
+      "album": {
+        "name": "Lunessa",
+        "url": "https://open.spotify.com/album/0IBTF09P2tVsZlG4gdQ6sX"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Lunessa",
+      "url": "https://open.spotify.com/track/4ANPimifLOpCAfXqzdbYfB"
     },
     {
       "album": {
@@ -18090,6 +18162,24 @@
       "duration_ms": 182765,
       "name": "Moments of Stillness",
       "url": "https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/1yu3bTGJ7MMJV85Jj855wP"
+      },
+      "artists": [
+        {
+          "name": "Astral Tides",
+          "url": "https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/3bMWPrPpnWInFW8IKjh7Qc"
     },
     {
       "album": {
@@ -20279,6 +20369,24 @@
     },
     {
       "album": {
+        "name": "Old Formations",
+        "url": "https://open.spotify.com/album/0JptzWuKYnfRT3Z6u3SYhN"
+      },
+      "artists": [
+        {
+          "name": "Light Nilas",
+          "url": "https://open.spotify.com/artist/5OqCU0m2KDDlUDlMINfctT"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Old Formations",
+      "url": "https://open.spotify.com/track/5qUPvGmRVOfSVYP9H22JND"
+    },
+    {
+      "album": {
         "name": "Old Station Atmos",
         "url": "https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv"
       },
@@ -20600,6 +20708,24 @@
       "duration_ms": 144000,
       "name": "Orbiting Solitude",
       "url": "https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda"
+    },
+    {
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/7fz8CIKXxv2Vxj5TKR6OsL"
+      },
+      "artists": [
+        {
+          "name": "Aetheria Solara",
+          "url": "https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/38Exn0S5DUaUKUxW4FPtoC"
     },
     {
       "album": {
@@ -23235,6 +23361,24 @@
     },
     {
       "album": {
+        "name": "Reservoirs",
+        "url": "https://open.spotify.com/album/6u3cK65lpXN61QLem03s6G"
+      },
+      "artists": [
+        {
+          "name": "Modal Colours",
+          "url": "https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Reservoirs",
+      "url": "https://open.spotify.com/track/4za7ii1wq01IoL94Ef17rb"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/6lLfSQkJN7LZ0wWnS3OwFX"
       },
@@ -23646,6 +23790,24 @@
       "duration_ms": 160071,
       "name": "Ripples In Time",
       "url": "https://open.spotify.com/track/3Fmr1WYpTqDlE75KvvxHkx"
+    },
+    {
+      "album": {
+        "name": "Ripples of Light",
+        "url": "https://open.spotify.com/album/43VYOjqEHNNZolSnHHOku6"
+      },
+      "artists": [
+        {
+          "name": "Planetone",
+          "url": "https://open.spotify.com/artist/4epLhV6jzBnism1loSlMcD"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Ripples of Light",
+      "url": "https://open.spotify.com/track/55wjdBY1rnNOTYFPffkmOK"
     },
     {
       "album": {
@@ -28658,6 +28820,24 @@
     {
       "album": {
         "name": "Tenderly",
+        "url": "https://open.spotify.com/album/1BfoTzCxxpAOimaumM2r3d"
+      },
+      "artists": [
+        {
+          "name": "dimdal",
+          "url": "https://open.spotify.com/artist/5VI3nOeU3CJGx5137zHdnj"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/5FMWJgQHqhW0Li1Afdld9y"
+    },
+    {
+      "album": {
+        "name": "Tenderly",
         "url": "https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4"
       },
       "artists": [
@@ -30436,6 +30616,24 @@
       "duration_ms": 110000,
       "name": "Underview",
       "url": "https://open.spotify.com/track/5xcgi9ta3wVzBFktltBLMo"
+    },
+    {
+      "album": {
+        "name": "Underway",
+        "url": "https://open.spotify.com/album/3aap3qCTXc4PWlIKFx3TG1"
+      },
+      "artists": [
+        {
+          "name": "Solitudine Sono",
+          "url": "https://open.spotify.com/artist/6QYh2EMjHTxtBCOxhBIRnZ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Underway",
+      "url": "https://open.spotify.com/track/5NhhWrbqJStVEUu5Ma09BV"
     },
     {
       "album": {
@@ -32592,7 +32790,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 169000,
       "name": "You, Me, and Time",
       "url": "https://open.spotify.com/track/1b9MfPekYhGZk48kmEnXsT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,507 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,516 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 24 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 25 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
 | 26 | [Fickle](https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Fickle](https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX) | 3:15 |
-| 27 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
-| 28 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 27 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 28 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 29 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 30 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 31 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [Je t’aime](https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Je t’aime](https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B) | 2:56 |
 | 48 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
 | 49 | [Tyle Śladów](https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Tyle Śladów](https://open.spotify.com/album/182mPuz9e1vF8yPhzYbWBD) | 6:09 |
-| 50 | [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 |
-| 51 | [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 |
+| 50 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
+| 51 | [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 |
 | 52 | [na moje nieszczęście](https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [na moje nieszczęście](https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG) | 3:05 |
-| 53 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
+| 53 | [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 |
 | 54 | [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 |
 | 55 | [pelagia](https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [pelagia](https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS) | 3:10 |
 | 56 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
-| 57 | [OPIUM](https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [OPIUM / NIE POCIESZĘ CIĘ](https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB) | 2:32 |
-| 58 | [Kamienie](https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [Kamienie](https://open.spotify.com/album/7nNcz54gtf3haO9340N90P) | 2:43 |
-| 59 | [Kręci się ziemia](https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Kręci się ziemia](https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b) | 2:32 |
-| 60 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
+| 57 | [Kamienie](https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [Kamienie](https://open.spotify.com/album/7nNcz54gtf3haO9340N90P) | 2:43 |
+| 58 | [OPIUM](https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [OPIUM / NIE POCIESZĘ CIĘ](https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB) | 2:32 |
+| 59 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
+| 60 | [Kręci się ziemia](https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Kręci się ziemia](https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b) | 2:32 |
 
-Snapshot ID: `AAAAAMRDgieqj8K2ZCrXwvjMu6YvnqmE`
+Snapshot ID: `AAAAAOCUayt7VCDJd+JAebChxvdivf+w`

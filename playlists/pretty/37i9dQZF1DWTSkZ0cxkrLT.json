@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 426560,
+  "num_followers": 426558,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAY0omukOka3wJbFmt3P14T8MY2k",
+  "snapshot_id": "AAAAAJYVKdKlVQsSdr2kubA+fCHkNQ8d",
   "tracks": [
     {
       "added_at": "2026-10-02 13:04:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
+        "name": "Bailar Contigo",
+        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Bailar Contigo",
+      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
         "name": "M\u00e9ritos Y Merecimientos",
         "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 220310,
       "name": "M\u00e9ritos Y Merecimientos",
       "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
-        "name": "Bailar Contigo",
-        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
     },
     {
       "added_at": "2026-10-02 13:04:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 241306,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
     },
     {
       "added_at": "2026-10-02 13:04:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
-        "name": "No me Arrepiento de este Amor",
-        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "No me Arrepiento de este Amor",
-      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
+        "name": "No me Arrepiento de este Amor",
+        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "No me Arrepiento de este Amor",
+      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
     },
     {
       "added_at": "2026-10-02 13:04:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-10-02 13:04:00",
       "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 177121,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
+    },
+    {
+      "added_at": "2026-10-02 13:04:00",
+      "album": {
         "name": "me hace bien amar(te)",
         "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 138065,
       "name": "Dije que s\u00ed",
       "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
-    },
-    {
-      "added_at": "2026-10-02 13:04:00",
-      "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 177121,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
     },
     {
       "added_at": "2026-10-02 13:04:00",

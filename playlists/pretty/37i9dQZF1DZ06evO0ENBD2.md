@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,069 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,990,099 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 7 | [We Will Rock You](https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:02 |
 | 8 | [Radio Ga Ga](https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC) | 5:49 |
 | 9 | [Crazy Little Thing Called Love](https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 2:43 |
-| 10 | [Somebody To Love](https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:57 |
-| 11 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
+| 10 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
+| 11 | [Somebody To Love](https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:57 |
 | 12 | [I Want To Break Free](https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:43 |
 | 13 | [We Are the Champions](https://open.spotify.com/track/0saBeiGcu2dECTvAknHPzL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 3:00 |
 | 14 | [Cool Cat](https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Edition\)](https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6) | 3:29 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 21 | [Too Much Love Will Kill You](https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:19 |
 | 22 | [I Want It All \- Single Version](https://open.spotify.com/track/4w79VLgle2eoaAsstdpXAq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs) | 4:01 |
 | 23 | [Hammer To Fall](https://open.spotify.com/track/1OuuQNfGJ0KwD4KUJ7tuzj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 3:40 |
-| 24 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 4:05 |
-| 25 | [These Are The Days Of Our Lives](https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:15 |
+| 24 | [These Are The Days Of Our Lives](https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:15 |
+| 25 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 4:05 |
 | 26 | [Friends Will Be Friends](https://open.spotify.com/track/11fDQmW6T3zyX6OEKKF11O) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:12 |
 | 27 | [Who Wants To Live Forever](https://open.spotify.com/track/3bmh7WhduQpPW7fwg6Uv8Y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 4:57 |
 | 28 | [Bicycle Race](https://open.spotify.com/track/1HjvOZjeYSmZFU4qHtXOfY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:03 |

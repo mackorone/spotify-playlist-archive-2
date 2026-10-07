@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,689 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,730 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 32 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
 | 33 | [Hotel California \(Cover\)](https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:44 |
 | 34 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
-| 35 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
-| 36 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
+| 35 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
+| 36 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
 | 37 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 38 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 |
 | 39 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 54 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
 | 55 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
 | 56 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
-| 57 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:35 |
-| 58 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
+| 57 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
+| 58 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:35 |
 | 59 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
 | 60 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 |
 | 61 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 86 | [The Times They Are A\-Changin’ \- Performance Version](https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [The Times They Are A\-Changin’ \(Performance Version\)](https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6) | 3:00 |
 | 87 | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo) | 4:18 |
 | 88 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
-| 89 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
-| 90 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Covers Collection](https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy) | 3:20 |
+| 89 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Covers Collection](https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy) | 3:20 |
+| 90 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 91 | [Season of the Witch](https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Lunafied](https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of) | 5:20 |
 | 92 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 |
 | 93 | [Bell Bottom Blues](https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Bell Bottom Blues](https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55) | 3:38 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 |
 | 110 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 |
 
-Snapshot ID: `AAAAAM+kb7pMFEpdrbru7u0tBCFoI/WB`
+Snapshot ID: `AAAAAHXZyMPBZniVBe5hAEJx+X3aNkCO`

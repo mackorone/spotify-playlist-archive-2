@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,416 likes - 60 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,419 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 26 | [JERSEY CLUB](https://open.spotify.com/track/2QdvoOLbv0hh8CE2utchpO) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [DEBI & LÓIDE](https://open.spotify.com/album/11VLHVG0lXAt332d7Y01qe) | 2:59 |
 | 27 | [Nois é Nois](https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Nois é Nois](https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X) | 2:00 |
 | 28 | [im gonna feel this way forever?](https://open.spotify.com/track/39Pvc5Fszfrvo18WexAdnY) | [wanted](https://open.spotify.com/artist/4DjEjm6U5an0Kq5xPWsa1c) | [im gonna feel this way forever?](https://open.spotify.com/album/2QM0gCPoapiBmdhgqVmHAQ) | 1:43 |
-| 29 | [Perdas \(Introdução\)](https://open.spotify.com/track/63ih7IytiVEosEaJPuYu9x) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:11 |
+| 29 | [Perdas \(Introdução\)](https://open.spotify.com/track/63ih7IytiVEosEaJPuYu9x) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Perdas & Ganhos, Vol\. 2](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:11 |
 | 30 | [GO!](https://open.spotify.com/track/3pXNplcoTZThHOyUsG01XD) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [GO!](https://open.spotify.com/album/3ZcUWAviyQBoklaNJjauq2) | 2:24 |
 | 31 | [BAGDÁ](https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [BAGDÁ](https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu) | 1:48 |
 | 32 | [Me Permita](https://open.spotify.com/track/4wW2WQzCdiPZ3GKUgHkYi3) | [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Me Permita](https://open.spotify.com/album/5rYeOdwr8Rr8Ml6AuEkyGv) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 59 | [Pra esquecer do ex](https://open.spotify.com/track/132kNUWgXBpFJwTF36Y61v) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [Pra esquecer do ex](https://open.spotify.com/album/6iXMlZatM63GA6ZxajFDMY) | 2:22 |
 | 60 | [Tudo Que é Natural é Melhor](https://open.spotify.com/track/6ryw9MM4cxLzJ9Qw0FfMFj) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Tudo Que é Natural é Melhor](https://open.spotify.com/album/3ZffERyVRBEnioc7Rd0fSD) | 2:42 |
 
-Snapshot ID: `AAAAANAJBU5RyF1ROKf7ZkEcrcjkmsj/`
+Snapshot ID: `AAAAAF4xDgzTZXIdQuIpkscpPRn3iDK2`

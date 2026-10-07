@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-872 songs - 2 day 8 hr 11 min
+874 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 | 2022-07-28 |  |
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2024-01-16 | 2024-03-09 |
 | [blooming](https://open.spotify.com/track/6An8U3MjTePqA3kdpRKVt1) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [blooming](https://open.spotify.com/album/3pBafqCDpTd30E0j4Xuky6) | 3:26 | 2022-06-24 | 2022-07-04 |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-10-06 |  |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-07-28 | 2024-04-19 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-05-09 | 2024-04-19 |
 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-04-18 |  |
@@ -315,7 +316,7 @@
 | [Question Time](https://open.spotify.com/track/4Y4mzdWc0uxqUPtxlzF7Fd) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Question](https://open.spotify.com/album/6AzfN90FLmg2Mnq2sHIDXh) | 4:31 | 2022-06-24 | 2022-06-29 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2024-01-09 | 2024-02-01 |
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-03 | 2022-11-13 |
-| [Rashisa](https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rashisa](https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV) | 5:02 | 2025-12-16 |  |
+| [Rashisa](https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rashisa](https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV) | 5:02 | 2025-12-16 | 2026-10-07 |
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-24 | 2022-07-27 |
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-04-08 | 2025-04-14 |
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-03 | 2022-07-27 |
@@ -647,6 +648,7 @@
 | [ワールドイズマイン \- かぐや&月見ヤチヨ ver\. \- CPK! Remix](https://open.spotify.com/track/0LswwmDZ6Qk26ZgVRf7aMO) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [Ex\-Otogibanashi](https://open.spotify.com/album/37YS3L4VsNDpMVbAAm3XU5) | 3:46 | 2026-04-28 | 2026-05-14 |
 | [一目惚れ \-ちはやふる3 ED size ver\-](https://open.spotify.com/track/27QhWLY0pFCM6OxoMy535N) | [バンドハラスメント](https://open.spotify.com/artist/0QkBPYVUO0jWtwf7sCUfjc) | [一目惚れ \-ちはやふる3 ED size ver\-](https://open.spotify.com/album/4r3D3rRZO3deVeatoxUQ2t) | 1:13 | 2022-07-05 | 2022-07-08 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-06-03 |  |
+| [一進](https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [一進](https://open.spotify.com/album/67ICiWR8Rr7GwfGzzYwHEK) | 3:21 | 2026-10-06 |  |
 | [三原色](https://open.spotify.com/track/6NkOzFfYz8RHYe3eWxjm2R) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [三原色](https://open.spotify.com/album/4olpX5gZfhYIzolj665Zzb) | 3:25 | 2022-07-14 | 2022-07-20 |
 | [不可逆的な命の肖像](https://open.spotify.com/track/6Hzz14sI5PMUmWXJinzy0Q) | [眩暈SIREN](https://open.spotify.com/artist/6ABm54B8crQszQAJDoxEVo) | [不可逆的な命の肖像](https://open.spotify.com/album/3z1boJm6jKWuJk3yp45dDb) | 3:58 | 2022-06-03 | 2022-07-25 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-21 | 2022-07-14 |
@@ -798,7 +800,7 @@
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [空と虚](https://open.spotify.com/track/1YvLvyEHEUv6xuablK3kpj) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/0HdkHMdirrj9cn26DrCv7J) | 3:43 | 2022-06-03 | 2022-10-19 |
 | [空に歌えば](https://open.spotify.com/track/3XKMO7tvyyUmxRvlJGhYQm) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [地方都市のメメント・モリ](https://open.spotify.com/album/5H70NIneu6i4h5LKIG9TH6) | 3:37 | 2022-07-28 | 2024-04-19 |
-| [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2022-06-03 |  |
+| [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2022-06-03 | 2026-10-07 |
 | [窓を開けて](https://open.spotify.com/track/4TwD0lFw27wyvl3ZmHV9Vi) | [CIEL](https://open.spotify.com/artist/3br9le9sNFSVAVBDTjdOn4) | [窓を開けて](https://open.spotify.com/album/3BPnbO888UkvL18f3Sdj9s) | 3:36 | 2022-06-03 | 2022-07-26 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-05-09 |  |
 | [箱庭の幸福](https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/1Ln2bsxA0nLjlsMtsoS4R2) | 4:55 | 2022-06-03 | 2022-07-15 |

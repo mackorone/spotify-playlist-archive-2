@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,140 likes - 200 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,428 likes - 200 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
 | 200 | [28 Eyes](https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [holybones](https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0) | [28 Eyes](https://open.spotify.com/album/1803IIMVPWQpD4yc2UG0F0) | 3:46 |
 
-Snapshot ID: `AAAAAOwUIM04zsnJrODkzSUL4BZ3wDAe`
+Snapshot ID: `AAAAAHbDlR7jxnoFplZ2nlFoHA8COEgn`

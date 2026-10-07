@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2181102,
+  "num_followers": 2181166,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdHkWje2Pu1mj0b2ZWV7L16JcIl",
+  "snapshot_id": "AAAAAGUHBu35Nj5mR0u0+GUP6H3Tte1a",
   "tracks": [
     {
       "added_at": "2026-09-21 13:05:28",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "This Is Our Year",
         "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 371894,
       "name": "This Is Our Year",
       "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Bright Sparkling Light",
-        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 603920,
-      "name": "The Tide and the Moon",
-      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 262545,
       "name": "Largo",
       "url": "https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Bright Sparkling Light",
+        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 603920,
+      "name": "The Tide and the Moon",
+      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Standard time volume 3: The revolution of romance",
         "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 168666,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Fainted Light",
+        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
+      },
+      "artists": [
+        {
+          "name": "Indra Lesmana",
+          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
+        },
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        }
+      ],
+      "duration_ms": 407910,
+      "name": "Fainted Light",
+      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Paramount Quartet",
         "url": "https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 444677,
       "name": "First Song",
       "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Fainted Light",
-        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
-      },
-      "artists": [
-        {
-          "name": "Indra Lesmana",
-          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
-        },
-        {
-          "name": "Maurice Mobetta Brown",
-          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
-        }
-      ],
-      "duration_ms": 407910,
-      "name": "Fainted Light",
-      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "M\u00f8rket Er Bl\u00e5t",
-        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
-      },
-      "artists": [
-        {
-          "name": "Hvalfugl",
-          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "M\u00f8rket Er Bl\u00e5t",
-      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Isabela",
         "url": "https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 650226,
       "name": "Isabela",
       "url": "https://open.spotify.com/track/3sRMYgT5GinbUCw5pkGfKB"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "M\u00f8rket Er Bl\u00e5t",
+        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
+      },
+      "artists": [
+        {
+          "name": "Hvalfugl",
+          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "M\u00f8rket Er Bl\u00e5t",
+      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "ARTEMIS",
+        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 327379,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Layers of Life",
         "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 286080,
       "name": "Lullaby in Green",
       "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Collblanc",
+        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
+      },
+      "artists": [
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        }
+      ],
+      "duration_ms": 363818,
+      "name": "Collblanc",
+      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1259,38 +1291,6 @@
       "duration_ms": 357734,
       "name": "Ballad For Bernt",
       "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "ARTEMIS",
-        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 327379,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Collblanc",
-        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
-      },
-      "artists": [
-        {
-          "name": "Joe Webb",
-          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
-        }
-      ],
-      "duration_ms": 363818,
-      "name": "Collblanc",
-      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Seeds Of Change",
-        "url": "https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marilyn Crispell",
-          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
-        },
-        {
-          "name": "Carmen Castaldi",
-          "url": "https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Seeds Of Change",
-      "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/0bTuaMPPREoKbTZixGGIpO"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 341797,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Seeds Of Change",
+        "url": "https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marilyn Crispell",
+          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
+        },
+        {
+          "name": "Carmen Castaldi",
+          "url": "https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Seeds Of Change",
+      "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV"
       },
@@ -1799,22 +1815,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "No Cure",
-        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 263971,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Orange Sea",
         "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 369060,
       "name": "What Are You Doing for the Rest of Your Life",
       "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 263971,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
       },
       "artists": [
         {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
         }
       ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+      "duration_ms": 270508,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
         }
       ],
-      "duration_ms": 270508,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Love Letters (The Ballad Sessions)",
+        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "duration_ms": 310182,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 304378,
       "name": "These Things You Left Me",
       "url": "https://open.spotify.com/track/1JrenHXNhZeh4TVnlOZCU9"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Love Letters (The Ballad Sessions)",
-        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 310182,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-09-21 13:05:28",

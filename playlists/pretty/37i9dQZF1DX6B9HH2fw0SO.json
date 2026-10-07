@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 86170,
+  "num_followers": 86180,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD9lct+A3vTdjNPYxzmrtM0lFUnP",
+  "snapshot_id": "AAAAAPJ/+9dk3rlOEScnrwZAciNhmBAC",
   "tracks": [
     {
       "added_at": "2024-03-18 13:24:52",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 216176,
+      "name": "What Kind Of Man",
+      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 228000,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 216176,
-      "name": "What Kind Of Man",
-      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 258860,
-      "name": "Hollow Moon (Bad Wolf)",
-      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Inanimate Objects",
         "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191640,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 258860,
+      "name": "Hollow Moon (Bad Wolf)",
+      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 203500,
       "name": "101",
       "url": "https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Have You In My Wilderness",
         "url": "https://open.spotify.com/album/0EiGGBzF9wzJn2X8F0Yvjh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 248653,
       "name": "Feel You",
       "url": "https://open.spotify.com/track/6JGZmmiaL64s1AmhEOVvCr"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
     },
     {
       "added_at": "2024-03-18 13:24:52",

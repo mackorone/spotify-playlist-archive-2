@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Krr\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Roy Kim\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-695 songs - 1 day 16 hr 51 min
+697 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/track/5cVbfYMOBF7Ktdisoa9wxV) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/album/2GVbStXkCtIeOhQ1zfjpWw) | 4:12 | 2022-03-31 | 2022-04-21 |
 | [Cruel Travel](https://open.spotify.com/track/3VWVdy2Il1Q5HHiMojL6rU) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:06 | 2022-03-31 | 2022-04-03 |
 | [Crushed](https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crushed](https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt) | 4:02 | 2026-07-03 |  |
+| [CRY OUT LOUD](https://open.spotify.com/track/2dZXaRNwrSkywk5RrCrLjw) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [CRY OUT LOUD](https://open.spotify.com/album/0fISK3FS84Z6qz2M8MtWfz) | 3:57 | 2026-10-06 |  |
 | [Daisy](https://open.spotify.com/track/537iConeos2YqUkrmgYQWI) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [Daisy](https://open.spotify.com/album/0mItSTk5v5NyKnhKjsOUnr) | 2:55 | 2022-03-31 | 2022-04-21 |
 | [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\)](https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-08-09 | 2022-08-13 |
 | [Darling](https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Melancholia, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0HaiAHJ2dETG2ezbTHDRi7) | 4:10 | 2021-12-10 | 2022-07-23 |
@@ -125,7 +126,7 @@
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
-| [Dear My Summer](https://open.spotify.com/track/1XeAg69I8cKxiCUvnpLYn4) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dear My Summer](https://open.spotify.com/album/66t4pE1DPW35dU8tL8HdAk) | 3:48 | 2026-09-22 |  |
+| [Dear My Summer](https://open.spotify.com/track/1XeAg69I8cKxiCUvnpLYn4) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dear My Summer](https://open.spotify.com/album/66t4pE1DPW35dU8tL8HdAk) | 3:48 | 2026-09-22 | 2026-10-07 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-27 | 2026-01-05 |
 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-03 |  |
@@ -152,6 +153,7 @@
 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 | 2026-01-26 | 2026-03-27 |
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
+| [Ether Under the Parasol](https://open.spotify.com/track/0haLXhHU8DMx4mspQBvJC9) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [pool vol.9 \- Ether Under the Parasol](https://open.spotify.com/album/48R73r45I4e0OKsxwiUyI1) | 4:00 | 2026-10-06 |  |
 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 | 2026-04-03 |
 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2026-08-21 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
@@ -292,7 +294,7 @@
 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-18 | 2026-03-25 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-09-08 |
-| [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 | 2026-07-08 |  |
+| [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 | 2026-07-08 | 2026-10-07 |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
 | [Jealousy on the Rocks](https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Half jokes, Half Truth](https://open.spotify.com/album/3pCIwwk2QQiIWc8LVYHhVz) | 3:24 | 2026-01-15 | 2026-01-27 |
 | [Jellyfish](https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Jellyfish](https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu) | 3:43 | 2025-11-14 | 2025-12-19 |

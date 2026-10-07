@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,343 likes - 265 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,405 likes - 265 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 264 | [Just Breath](https://open.spotify.com/track/3B4AAJ9SGCAJ9tANwAKSZ6) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Just Breath](https://open.spotify.com/album/5laMW0SdcI45ZuKRGKMrV6) | 2:13 |
 | 265 | [Soft Surrender](https://open.spotify.com/track/6Uf5CowStg5CqIDvKW4zic) | [Solar Sonar](https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7) | [Soft Surrender](https://open.spotify.com/album/7jmXDd9bDxxtIHcUn91gJa) | 2:44 |
 
-Snapshot ID: `AAAAADFPxXNA5+5CHa23Y1maYC0F1a77`
+Snapshot ID: `AAAAAJQrg5lg5SOHq95KhLn7C1z60Q1l`

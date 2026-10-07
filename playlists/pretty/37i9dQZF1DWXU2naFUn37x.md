@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Dagood YL in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,465 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,440 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 | 50 | [NAPOLETANA](https://open.spotify.com/track/6DfdaRmIddhoXWX20DWBYy) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [NAPOLETANA](https://open.spotify.com/album/6G48WKZtGC03BkW9ZcKadf) | 2:16 |
 
-Snapshot ID: `AAAAAOdfEa2Ythf0wlqnMKGYJVlCEO9g`
+Snapshot ID: `AAAAAC6nkVoo/5rPIxyByNmcQQot5+7C`

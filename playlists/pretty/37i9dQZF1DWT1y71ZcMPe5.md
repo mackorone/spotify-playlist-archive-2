@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,193,643 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,193,616 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 50 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 
-Snapshot ID: `AAAAAHIa4E5PnId58JbWqDeX4ZidfsSc`
+Snapshot ID: `AAAAAMOa1TGVY0uRR86UUe82rqzvOXyg`

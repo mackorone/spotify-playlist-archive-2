@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Andrea Bejar.",
-  "num_followers": 734276,
+  "num_followers": 734272,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfVg/T6B7/FtOZgoHK0olS5tDVC",
+  "snapshot_id": "AAAAALIgR88AXNBdyL28UJ97OiylJ1Ek",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:44",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 127616,
-      "name": "2000",
-      "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
       },
@@ -743,22 +727,18 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "PINK LEMONADE",
-        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
       "artists": [
         {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
         }
       ],
-      "duration_ms": 235906,
-      "name": "creiziiii",
-      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
+      "duration_ms": 127616,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -779,6 +759,26 @@
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "PINK LEMONADE",
+        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "creiziiii",
+      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 142275,
       "name": "PERMANENTE",
       "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "BES4ME",
-        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "BES4ME",
-      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Pick Me",
         "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Creo En Ti",
-        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 202425,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "no te vayas",
         "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 168330,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "tqm <3",
         "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 156426,
       "name": "tqm <3",
       "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 168330,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "NI\u00d1O BUENO",
+        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "contraste",
+      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "YORU",
         "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 168750,
       "name": "MENTIRNOS HOY",
       "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "NI\u00d1O BUENO",
-        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "contraste",
-      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
     },
     {
       "added_at": "2026-10-02 04:02:44",

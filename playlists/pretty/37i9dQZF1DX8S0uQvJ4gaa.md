@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Gavin Adcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344,142 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344,286 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Lonely Boy](https://open.spotify.com/track/0PDFlEzoitvorzOWsPOJIP) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Lonely Boy](https://open.spotify.com/album/5XyxVbNTR94txVwfsefSeD) | 3:47 |
 | 100 | [Better Way](https://open.spotify.com/track/6XErs5DE9VHzlNBng2mdVr) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [Better Way](https://open.spotify.com/album/5QftB1DgiWcrANK5h9SLOJ) | 3:46 |
 
-Snapshot ID: `AAAAAMkhMkTWKNYn3FLHPdWJFFeNJ79g`
+Snapshot ID: `AAAAAIWM1mUCCDBSmfjooFDHWvWS5sF8`

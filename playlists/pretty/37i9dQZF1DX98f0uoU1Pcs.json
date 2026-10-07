@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295328,
+  "num_followers": 295332,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDy96SGMKApkEn/qGXUO6vPYc9N",
+  "snapshot_id": "AAAAAMBQLJxLvarLzdZrnAwLVtOMi+ms",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Prevail",
         "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 194885,
       "name": "Prevail",
       "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 233197,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "On the Intricate Inner Workings of the System",
         "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 266986,
       "name": "We Don't Care About That",
       "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Switch Up",
-        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
-      },
-      "artists": [
-        {
-          "name": "Mike D",
-          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Switch Up",
-      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Numerology",
         "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Girth",
-        "url": "https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga"
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
       },
       "artists": [
         {
-          "name": "Sex Mask",
-          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Girth",
-      "url": "https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD"
+      "duration_ms": 215375,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "EELS",
-        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
+        "name": "Girth",
+        "url": "https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga"
       },
       "artists": [
         {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
         }
       ],
-      "duration_ms": 213904,
-      "name": "Van Goes",
-      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+      "duration_ms": 183600,
+      "name": "Girth",
+      "url": "https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -855,6 +839,22 @@
       "duration_ms": 214186,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "EELS",
+        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 213904,
+      "name": "Van Goes",
+      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 186792,
+      "name": "I Can\u2019t Imagine (Why You Feel This Way)",
+      "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 231677,
       "name": "Building 650",
       "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 186792,
-      "name": "I Can\u2019t Imagine (Why You Feel This Way)",
-      "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Feu de garde",
         "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 189609,
       "name": "After Party",
       "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Miracle Drug",
-        "url": "https://open.spotify.com/album/4023iP3TKnG54OKYijddli"
+        "name": "Half Divorced",
+        "url": "https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr"
       },
       "artists": [
         {
-          "name": "Draag",
-          "url": "https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM"
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
         }
       ],
-      "duration_ms": 267010,
-      "name": "Miracle Drug",
-      "url": "https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4"
+      "duration_ms": 268389,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta"
     }
   ],
   "unique_name": "Noisy",

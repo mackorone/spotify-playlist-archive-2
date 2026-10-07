@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,333 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,361 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Regalame una Noche](https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:08 |
 | 60 | [Voy a Olvidarte](https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:12 |
 
-Snapshot ID: `AAAAAEoLg/iy8YBpCON0WIurL0tSZBSK`
+Snapshot ID: `AAAAAB4+xHvPvBRfhBMUsMPBiFqGs2gh`

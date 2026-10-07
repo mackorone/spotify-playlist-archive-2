@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Amrinder Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,408 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,490 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Sohniye](https://open.spotify.com/track/4rL0ikdBsPgGF4QkOkX9YC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sohniye](https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo) | 2:34 |
 | 101 | [Il Capo](https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Il Capo](https://open.spotify.com/album/5pLWCSnEyc05ivyxdnQBeA) | 2:39 |
 
-Snapshot ID: `AAAAAJuW7T+xAWFKC0vpDECJ5YXvtxY+`
+Snapshot ID: `AAAAAKgFrRfmZPQ0SFG0WgC2xaoRNJSG`

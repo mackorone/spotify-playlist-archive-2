@@ -1,6 +1,6 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166629,
+  "num_followers": 166633,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
@@ -619,30 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,
@@ -675,26 +671,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
         },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
         }
       ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,

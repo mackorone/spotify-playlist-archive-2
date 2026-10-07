@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Stevie Wonder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,229 likes - 250 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,308 likes - 250 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 249 | [MORE](https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [MORE](https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N) | 2:28 |
 | 250 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 
-Snapshot ID: `AAAAADLdYvi9AUhK9LERNqDebEMuhDe3`
+Snapshot ID: `AAAAAFP8Q1ovmtYiGwza/wPpM0m6SNqy`

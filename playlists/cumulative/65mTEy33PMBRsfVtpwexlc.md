@@ -4,7 +4,7 @@
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Red Hot Chili Peppers, The Goo Goo Dolls, Blur, blink\-182, Nirvana, and more!
 
-184 songs - 12 hr 26 min
+185 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Too Bad](https://open.spotify.com/track/2cCWbBmadLbKvr9xddC79R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:52 | 2026-09-15 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-02-28 |  |
 | [Vasoline](https://open.spotify.com/track/5SrnKN9CdGLLHIOUQMHNod) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 2:54 | 2021-09-01 |  |
+| [Warm Safe Place](https://open.spotify.com/track/0QrmgURtDgibyIJGzN1zUm) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl) | 4:35 | 2026-10-07 |  |
 | [We Are the Normal](https://open.spotify.com/track/7d29VYNhdeA7Y5PGffGDYC) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Superstar Car Wash](https://open.spotify.com/album/16mM6C9luHRXcUadJ5tfn4) | 3:38 | 2021-09-01 | 2023-03-01 |
 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 | 2021-09-01 | 2023-03-01 |
 | [What It's Like](https://open.spotify.com/track/0kEQwPz9SrMN8E5iL9cxQL) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues](https://open.spotify.com/album/3APVCDFvi77ex2VZxl4pWS) | 5:03 | 2021-09-01 | 2023-03-01 |

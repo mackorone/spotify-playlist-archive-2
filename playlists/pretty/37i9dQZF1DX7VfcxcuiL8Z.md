@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Old Mervs
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,364 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,368 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Kick in the Shins](https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Kick in the Shins](https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA) | 2:59 |
 | 80 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 
-Snapshot ID: `AAAAACAEHlzki9y8125XBdnrSLHyOZXN`
+Snapshot ID: `AAAAAA2efIyrVEQcIOycJO88Du7pOX8R`

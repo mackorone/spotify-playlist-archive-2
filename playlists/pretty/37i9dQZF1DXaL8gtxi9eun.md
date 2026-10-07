@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: رحمه محسن
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,877 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,894 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [أنا الخسارة](https://open.spotify.com/track/6RzYEAbaq10zalHUyzIexV) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [‎ أنا الخسارة](https://open.spotify.com/album/1n0p9iqLXdkUzPtT1B7kiC) | 3:55 |
-| 2 | [عدد المناديل](https://open.spotify.com/track/2WCKGHteHPGCPgMQBp483Y) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عدد المناديل](https://open.spotify.com/album/493sGA61arKMSeEitTTCip) | 3:20 |
-| 3 | [Ma3lesh](https://open.spotify.com/track/3NzuA36lOlTLFRzPcWKZZS) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [LouliPop](https://open.spotify.com/album/4Vulv2M3AiggpLd8h2BIcf) | 3:19 |
-| 4 | [AMARA](https://open.spotify.com/track/1ahho7vAnLfSlu3A6cVweO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [POLYYY](https://open.spotify.com/artist/5Mlgdi9exIhmWELyyODMRL) | [AMARA](https://open.spotify.com/album/6PMu5EswjmyCwTMAk1pqWQ) | 4:02 |
-| 5 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
-| 6 | [LEH KEDA YA ZEINA](https://open.spotify.com/track/7v2SVEsL83YorCRK0WL1BM) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [MALAMEH](https://open.spotify.com/album/0kISxppnK5Oi9Pruq9cDGD) | 2:21 |
-| 7 | [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 |
-| 8 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 |
-| 9 | [احنا الجامدين](https://open.spotify.com/track/0B4u800WdESFRidwRfD1Hg) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [احنا الجامدين](https://open.spotify.com/album/5j9AnfTCF5pENpwof4YirU) | 2:42 |
-| 10 | [السكه خضرا](https://open.spotify.com/track/3UOP0GsAe2VvrRv2TqDzK6) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [السكه خضرا](https://open.spotify.com/album/4CSmGDe1pyU7P3X0yiz1zg) | 4:15 |
-| 11 | [اخرك وتمامك](https://open.spotify.com/track/6LQYei8GYrmNgBX1CaX68G) | [اشرقت احمد](https://open.spotify.com/artist/46SBe7KHABHsJenpriLb7s) | [اخرك وتمامك](https://open.spotify.com/album/71s7FcNmuqoWubqh583XEr) | 3:34 |
-| 12 | [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 |
+| 1 | [Kan Andak Kam Sana](https://open.spotify.com/track/7gh3wCFApvGj2m7jxG9uFd) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Kan Andak Kam Sana](https://open.spotify.com/album/61ZickHAjsyDteiEGrPnSy) | 3:02 |
+| 2 | [أنا الخسارة](https://open.spotify.com/track/6RzYEAbaq10zalHUyzIexV) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [‎ أنا الخسارة](https://open.spotify.com/album/1n0p9iqLXdkUzPtT1B7kiC) | 3:55 |
+| 3 | [عدد المناديل](https://open.spotify.com/track/2WCKGHteHPGCPgMQBp483Y) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عدد المناديل](https://open.spotify.com/album/493sGA61arKMSeEitTTCip) | 3:20 |
+| 4 | [Ma3lesh](https://open.spotify.com/track/3NzuA36lOlTLFRzPcWKZZS) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [LouliPop](https://open.spotify.com/album/4Vulv2M3AiggpLd8h2BIcf) | 3:19 |
+| 5 | [AMARA](https://open.spotify.com/track/1ahho7vAnLfSlu3A6cVweO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [POLYYY](https://open.spotify.com/artist/5Mlgdi9exIhmWELyyODMRL) | [AMARA](https://open.spotify.com/album/6PMu5EswjmyCwTMAk1pqWQ) | 4:02 |
+| 6 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
+| 7 | [LEH KEDA YA ZEINA](https://open.spotify.com/track/7v2SVEsL83YorCRK0WL1BM) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [MALAMEH](https://open.spotify.com/album/0kISxppnK5Oi9Pruq9cDGD) | 2:21 |
+| 8 | [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 |
+| 9 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 |
+| 10 | [احنا الجامدين](https://open.spotify.com/track/0B4u800WdESFRidwRfD1Hg) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [احنا الجامدين](https://open.spotify.com/album/5j9AnfTCF5pENpwof4YirU) | 2:42 |
+| 11 | [السكه خضرا](https://open.spotify.com/track/3UOP0GsAe2VvrRv2TqDzK6) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [السكه خضرا](https://open.spotify.com/album/4CSmGDe1pyU7P3X0yiz1zg) | 4:15 |
+| 12 | [اخرك وتمامك](https://open.spotify.com/track/6LQYei8GYrmNgBX1CaX68G) | [اشرقت احمد](https://open.spotify.com/artist/46SBe7KHABHsJenpriLb7s) | [اخرك وتمامك](https://open.spotify.com/album/71s7FcNmuqoWubqh583XEr) | 3:34 |
 | 13 | [HAYATY HAYATY](https://open.spotify.com/track/59P9rZ2xC6peXdKKJ4lS4b) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [HAYATY HAYATY](https://open.spotify.com/album/4aSJQLBN4GKyT3tobpY0yW) | 3:15 |
 | 14 | [هيرجعلي](https://open.spotify.com/track/0wfov9xTSmfPuMod6yer54) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [هيرجعلي](https://open.spotify.com/album/0lgmOqDGkzl2UpihGKLnlG) | 2:55 |
 | 15 | [Bagheer 3alek](https://open.spotify.com/track/1xCrCyg2qLQDwZnhuOCzzs) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [LouliPop](https://open.spotify.com/album/4Vulv2M3AiggpLd8h2BIcf) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 59 | [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 |
 | 60 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 
-Snapshot ID: `AAAAAByDGzrpQgqJgpRfhUUqBEPn+2zS`
+Snapshot ID: `AAAAAB5Guew+2bET7pKrLvTb7jTXc0wp`

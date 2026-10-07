@@ -1,12 +1,12 @@
 {
   "description": "The best new rock & alternative tracks every week. Cover: Amira Elfeky",
-  "num_followers": 960320,
+  "num_followers": 960406,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEex+7Ybi6sST9OHYcK4O5wFhSG7",
+  "snapshot_id": "AAAAAJlCA5fSsdmC6rEnyTrLOjB2V8Ro",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:11",
@@ -172,7 +172,7 @@
           "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         },
         {
-          "name": "Myles Kennedy And The Conspirators",
+          "name": "Myles Kennedy & The Conspirators",
           "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
         }
       ],
@@ -527,7 +527,7 @@
     {
       "added_at": "2026-10-02 04:01:11",
       "album": {
-        "name": "Big Ideas (feat. Rachel Brown)",
+        "name": "Big Ideas",
         "url": "https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ"
       },
       "artists": [
@@ -538,14 +538,10 @@
         {
           "name": "thanks for coming",
           "url": "https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w"
-        },
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad"
         }
       ],
       "duration_ms": 254802,
-      "name": "Big Ideas (feat. Rachel Brown)",
+      "name": "Big Ideas",
       "url": "https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1"
     },
     {

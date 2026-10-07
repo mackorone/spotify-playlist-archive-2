@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAADtC4Kv5HvEpBwoOSReh+lp",
+  "snapshot_id": "asLogAAAAABkvGNLicgULtrWPUyz/jN5",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 226626,
       "name": "Impressions (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 214946,
       "name": "Long Distance Winner",
       "url": "https://open.spotify.com/track/0gpNdUkaWwi7SySXljnjd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -591,42 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -647,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send My Regards",
-        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Send My Regards",
-      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
     },
     {
       "added_at": null,
@@ -687,6 +647,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billboard Heart",
+        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modern Man",
         "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard Heart",
-        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
       "artists": [
         {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Let Me Go (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
     },
     {
       "added_at": null,

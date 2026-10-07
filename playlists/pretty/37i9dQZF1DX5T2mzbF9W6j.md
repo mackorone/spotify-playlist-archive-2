@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,071 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 44 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
 | 45 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
 | 46 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
-| 47 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
-| 48 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
+| 47 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
+| 48 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
 | 49 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
 | 50 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
 | 51 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
 | 52 | [Ruchy pełne dźwięku](https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ruchy pełne dźwięku](https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk) | 2:53 |
 | 53 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 54 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
-| 55 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
-| 56 | [Nie wszystko złoto, co się świeci](https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Nie wszystko złoto, co się świeci](https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G) | 3:01 |
+| 55 | [Nie wszystko złoto, co się świeci](https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Nie wszystko złoto, co się świeci](https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G) | 3:01 |
+| 56 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
 | 57 | [Sztos](https://open.spotify.com/track/5sjeU0jbxxOVcPItPtzwMr) | [Red Lips](https://open.spotify.com/artist/3k7VvYK030ZB8XkLrbFX7M), [Bard Kowalski](https://open.spotify.com/artist/2HZPSTdKVp6CdzRrDkaQsv) | [Sztos](https://open.spotify.com/album/2vQ07EMCA36O2CVbMG2vTY) | 2:31 |
 | 58 | [BINGO](https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc) | [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [BINGO](https://open.spotify.com/album/7CicXo3iHdF0zdD3yWMFuA) | 3:06 |
 | 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
-| 60 | [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 |
+| 60 | [Zapomnij mnie](https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Zapomnij mnie](https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK) | 2:49 |
 
-Snapshot ID: `AAAAAPnISYwJ5a+x1wf2OLCLsC1GI/Uk`
+Snapshot ID: `AAAAAL1k5T/uv0gl8o4VqBn+wYdVnIt0`

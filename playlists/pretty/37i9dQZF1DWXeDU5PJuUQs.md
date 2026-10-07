@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,861 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,952 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 57 | [Si No Te Hubieras Ido \- En Vivo](https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [En Vivo](https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB) | 4:41 |
 | 58 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
 | 59 | [Jurabas Tu \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 2:11 |
-| 60 | [Sin ti no se vivir](https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [Grandes Éxitos](https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf) | 2:28 |
-| 61 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 |
+| 60 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 |
+| 61 | [Sin ti no se vivir](https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [Grandes Éxitos](https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf) | 2:28 |
 | 62 | [Tu Sin Mi \- En Vivo](https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:41 |
 | 63 | [Latidos](https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Rambla De Montevideo](https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l) | 2:57 |
 | 64 | [Como Podré](https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 4:38 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 88 | [Tu Cárcel \- En Vivo](https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 4:43 |
 | 89 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
 | 90 | [Buscala \- Live](https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0), [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Buscala \(Live\)](https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn) | 3:03 |
-| 91 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/1qBeQNpoer8ntu9MkzIiOf) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |
-| 92 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 |
+| 91 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 |
+| 92 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/1qBeQNpoer8ntu9MkzIiOf) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |
 | 93 | [Amantes / Mas Hombre Que Tu \- En Vivo](https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inigualable \(En Vivo\)](https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf) | 3:49 |
 | 94 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr) | 2:01 |
 | 95 | [Dejame Amarte](https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 99 | [Pájaro y Demonio \- En Vivo en Estadio Ferro](https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio \(En Vivo en Estadio Ferro\)](https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun) | 4:11 |
 | 100 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
 
-Snapshot ID: `AAAAAFEmVM7SU7OJkMOexKmzS9KAn4AW`
+Snapshot ID: `AAAAACkvVMSYiRrhXvEwhk93dR7uU5eP`

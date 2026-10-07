@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuaJnAUAr3zsSNYBv//czMmYor/",
+  "snapshot_id": "AAAAAMSHjjXazKYx1uKdblM1vYiVwbKr",
   "tracks": [
     {
       "added_at": "2026-10-01 21:00:13",
@@ -355,18 +355,22 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Tuskasta Taidetta",
-        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
+        "name": "Yksin",
+        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
       },
       "artists": [
         {
-          "name": "Jemina",
-          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
         }
       ],
-      "duration_ms": 211525,
-      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
-      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
+      "duration_ms": 203409,
+      "name": "Yksin",
+      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -387,22 +391,18 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Yksin",
-        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+        "name": "Tuskasta Taidetta",
+        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
       },
       "artists": [
         {
-          "name": "F",
-          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
         }
       ],
-      "duration_ms": 203409,
-      "name": "Yksin",
-      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
+      "duration_ms": 211525,
+      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
+      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
+        "name": "ainut joka tuntee mut",
+        "url": "https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF"
+      },
+      "artists": [
+        {
+          "name": "paulus",
+          "url": "https://open.spotify.com/artist/1KUf2qlXKmUUbEefxBqDVp"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "ainut joka tuntee mut",
+      "url": "https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX"
+    },
+    {
+      "added_at": "2026-10-01 21:00:13",
+      "album": {
         "name": "Liian nuorii kuolinilmotuksiin",
         "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
       },
@@ -507,34 +523,18 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "ainut joka tuntee mut",
-        "url": "https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF"
+        "name": "M\u00c4KI OON",
+        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
       },
       "artists": [
         {
-          "name": "paulus",
-          "url": "https://open.spotify.com/artist/1KUf2qlXKmUUbEefxBqDVp"
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
         }
       ],
-      "duration_ms": 190720,
-      "name": "ainut joka tuntee mut",
-      "url": "https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX"
-    },
-    {
-      "added_at": "2026-10-01 21:00:13",
-      "album": {
-        "name": "Vaarallist",
-        "url": "https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV"
-      },
-      "artists": [
-        {
-          "name": "Ina",
-          "url": "https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ"
-        }
-      ],
-      "duration_ms": 154651,
-      "name": "Vaarallist",
-      "url": "https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz"
+      "duration_ms": 116363,
+      "name": "M\u00c4KI OON",
+      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "M\u00c4KI OON",
-        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
+        "name": "Vaarallist",
+        "url": "https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV"
       },
       "artists": [
         {
-          "name": "LEWI",
-          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+          "name": "Ina",
+          "url": "https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ"
         }
       ],
-      "duration_ms": 116363,
-      "name": "M\u00c4KI OON",
-      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
+      "duration_ms": 154651,
+      "name": "Vaarallist",
+      "url": "https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -583,6 +583,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-10-01 21:00:13",
+      "album": {
+        "name": "Parasta ja paskinta",
+        "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 142329,
+      "name": "Joutsenet",
+      "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -639,22 +655,6 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Santana",
-      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
-    },
-    {
-      "added_at": "2026-10-01 21:00:13",
-      "album": {
         "name": "Lohtulauluja",
         "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 126708,
       "name": "Kallio",
       "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
+    },
+    {
+      "added_at": "2026-10-01 21:00:13",
+      "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -723,18 +739,18 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Parasta ja paskinta",
-        "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
+        "name": "Lehmitytt\u00f6",
+        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
       },
       "artists": [
         {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
         }
       ],
-      "duration_ms": 142329,
-      "name": "Joutsenet",
-      "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
+      "duration_ms": 195564,
+      "name": "Lehmitytt\u00f6",
+      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Lehmitytt\u00f6",
-        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
-      },
-      "artists": [
-        {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
-        }
-      ],
-      "duration_ms": 195564,
-      "name": "Lehmitytt\u00f6",
-      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
-    },
-    {
-      "added_at": "2026-10-01 21:00:13",
-      "album": {
         "name": "Sori t\u00e4ti",
         "url": "https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl"
       },
@@ -783,6 +783,26 @@
       "duration_ms": 186052,
       "name": "Sori t\u00e4ti",
       "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
+    },
+    {
+      "added_at": "2026-10-01 21:00:13",
+      "album": {
+        "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+        "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+      "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
     },
     {
       "added_at": "2026-10-01 21:00:13",
@@ -811,26 +831,6 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Pilvenpiirt\u00e4j\u00e4t",
-        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
-      },
-      "artists": [
-        {
-          "name": "Ruletti",
-          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
-        },
-        {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Pilvenpiirt\u00e4j\u00e4t",
-      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
-    },
-    {
-      "added_at": "2026-10-01 21:00:13",
-      "album": {
         "name": "Tyhm\u00e4",
         "url": "https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX"
       },
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-10-01 21:00:13",
       "album": {
-        "name": "Vaan yks sin\u00e4",
-        "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
+        "name": "Pilvenpiirt\u00e4j\u00e4t",
+        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
       },
       "artists": [
         {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+          "name": "Ruletti",
+          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
         }
       ],
-      "duration_ms": 168947,
-      "name": "Vaan yks sin\u00e4",
-      "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
+      "duration_ms": 213934,
+      "name": "Pilvenpiirt\u00e4j\u00e4t",
+      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
     }
   ],
   "unique_name": "Nousussa",

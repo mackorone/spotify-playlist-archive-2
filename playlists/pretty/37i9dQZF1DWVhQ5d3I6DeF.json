@@ -1,12 +1,12 @@
 {
   "description": "Upbeat pop bangers to keep you going",
-  "num_followers": 638388,
+  "num_followers": 638423,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF3Wn39/axkZAsBa9OG7F/iag0rE",
+  "snapshot_id": "AAAAALw1sQK2RSAJYi06LEyPtdINBMpL",
   "tracks": [
     {
       "added_at": "2026-06-18 23:00:54",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-18 23:00:54",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
+    },
+    {
+      "added_at": "2026-06-18 23:00:54",
+      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 229358,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
-    },
-    {
-      "added_at": "2026-06-18 23:00:54",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2026-06-18 23:00:54",

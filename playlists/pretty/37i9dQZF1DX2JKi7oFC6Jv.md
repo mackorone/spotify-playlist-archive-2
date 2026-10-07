@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,716 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,721 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Are You Gonna Bang Doe? \- Radio Edit](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 25 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
+| 26 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |
+| 28 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 50 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 | 51 | [So Dangerous \- Radio Edit](https://open.spotify.com/track/1PhVMk51cxAFJlYQFG7QNW) | [DJ Footloose](https://open.spotify.com/artist/17s4oWHagNWfsl2tMHfLZI), [Syren Rivers](https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T) | [So Dangerous \(2008\)](https://open.spotify.com/album/39Qtk9Qfzv8u9LsMBoZe1o) | 3:32 |
 | 52 | [Bounce](https://open.spotify.com/track/3myQSDJmH49vj05O5N0LUA) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [Str8 Rum 2](https://open.spotify.com/album/3baBsm8dNr2cBrEgITKEum) | 2:56 |
-| 53 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |
-| 54 | [One More Dance \(Crazy Cousinz Mix \- Crazy Cousinz\)](https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [One More Dance](https://open.spotify.com/album/0dtUARWA1xg637IQdo4BNl) | 3:21 |
+| 53 | [One More Dance \(Crazy Cousinz Mix \- Crazy Cousinz\)](https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [One More Dance](https://open.spotify.com/album/0dtUARWA1xg637IQdo4BNl) | 3:21 |
+| 54 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |
 | 55 | [BLU Magic](https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [BLU Magic](https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG) | 4:50 |
 | 56 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
 | 57 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
 | 60 | [Stop & Wave](https://open.spotify.com/track/1XKssaTCdg9EbPKQsUK4r9) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Stop & Wave](https://open.spotify.com/album/0ZQsnzP2FKhBgbxxnvaoZ6) | 2:54 |
 
-Snapshot ID: `AAAAALpRtmJetQBUIg7lvN/wC1SvKo3t`
+Snapshot ID: `AAAAADVC0UE9khgf1gWE/qnbtdG2E88J`

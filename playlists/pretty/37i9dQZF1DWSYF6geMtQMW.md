@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רואי אדם
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,930 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,966 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [מסיבת ציפורים \(The Zurna Song\)](https://open.spotify.com/track/0SDMqZRfsGAr8SgvWPysxA) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [מסיבת ציפורים \(The Zurna Song\)](https://open.spotify.com/album/2LjpyNmHmIyAJkjGHnSwdS) | 2:49 |
 | 50 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
 
-Snapshot ID: `AAAAAKlENFD0W1DVoTIv+3K6s02GwH/0`
+Snapshot ID: `AAAAALvB0ZmoxLdkNLSW+zrdUw4sfwGV`

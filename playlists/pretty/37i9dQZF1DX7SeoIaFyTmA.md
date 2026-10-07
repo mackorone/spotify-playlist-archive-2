@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,576 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,815 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 77 | [El Flautista](https://open.spotify.com/track/5GGv0RlVG44W9iWpkSs1XR) | [Chino Pons](https://open.spotify.com/artist/4tKFI6lopXDLrKcJzHomIE), [Grupo Irek](https://open.spotify.com/artist/5TeDM7sx05NzLElTyjCbzY) | [Mueve Despacito](https://open.spotify.com/album/6zpQXsDcRxw4dGhDcb6S1N) | 4:55 |
 | 78 | [Mi Media Mitad](https://open.spotify.com/track/2PmVCFBBVkEaOd9k5RnLZr) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:53 |
 | 79 | [Sobredosis](https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:09 |
-| 80 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
+| 80 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 81 | [Deseándote](https://open.spotify.com/track/5hiHDuJOcBmB8wguFDPFjD) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Feliz Navidad Con Salsa](https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP) | 4:43 |
-| 82 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
+| 82 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 83 | [No Me Acostumbro](https://open.spotify.com/track/4HEIPKvipeKYPlC91MZGxC) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:49 |
 | 84 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 85 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 88 | [Amiga](https://open.spotify.com/track/3P97s0cNCeHeNGvfAe7WYE) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:40 |
 | 89 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 |
 | 90 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
-| 91 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi) | 5:09 |
-| 92 | [El Todopoderoso](https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:22 |
-| 93 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 |
+| 91 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 |
+| 92 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi) | 5:09 |
+| 93 | [El Todopoderoso](https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:22 |
 | 94 | [Micaela](https://open.spotify.com/track/1NQpbF1vSX5pxCbUDk6ww5) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [La Salsa Metálica Volvió Con Todos los Hierros](https://open.spotify.com/album/0axC56ZBZxOVR8hSCx22ZR) | 4:44 |
 | 95 | [Detalles](https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Detalles](https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI) | 4:38 |
 | 96 | [Toro Mata](https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 5:42 |
-| 97 | [El Cantante](https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante de los Cantantes](https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK) | 10:22 |
-| 98 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 97 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 98 | [El Cantante](https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante de los Cantantes](https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK) | 10:22 |
 | 99 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
 | 100 | [El Nazareno](https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Traigo de Todo](https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc) | 5:37 |
 
-Snapshot ID: `AAAAAFE/5ZyUJ9Shz6RVe6CkRNmfVhYr`
+Snapshot ID: `AAAAANESHAH09IPCuS6q8t3VIV/M5tLA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Jūji \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,974 likes - 110 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,006 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 109 | [Pustaka Suara \- Original Soundtrack](https://open.spotify.com/track/1xSae9XvkGf7tW5tzRdLGE) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Pustaka Suara \(Original Soundtrack\)](https://open.spotify.com/album/0GPiEAoOhNWrQB9FRa8s79) | 3:37 |
 | 110 | [A Dream That Felt So Real](https://open.spotify.com/track/1C1QP6LxVmK42sVCLgKKjg) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ) | [A Dream That Felt So Real](https://open.spotify.com/album/2mf1cn4a24EmLlGEu58i6Y) | 3:39 |
 
-Snapshot ID: `AAAAAAU80hpeJlbiaf64vYOdZpQ7R+FJ`
+Snapshot ID: `AAAAABoGYuatAONLqcQj+9f48gJ0Qvm/`

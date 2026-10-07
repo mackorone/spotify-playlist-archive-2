@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497,391 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,497,557 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 49 | [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 |
 | 50 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 |
 
-Snapshot ID: `AAAAAMD/V6IW+ylnpD40WSDwtQfqrVUs`
+Snapshot ID: `AAAAAEmxrZlLinnCPg+n1NOu3OBvWb1Y`

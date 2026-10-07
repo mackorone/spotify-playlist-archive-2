@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,605 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,588 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 40 | [Balek](https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:57 |
 
-Snapshot ID: `AAAAAAFdMdvDuid4Ogoc9F1/QBFPNptc`
+Snapshot ID: `AAAAAJfk+/3n0fKhu7wBlVIS4toOkrEc`

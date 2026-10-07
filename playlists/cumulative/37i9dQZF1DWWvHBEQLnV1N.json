@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/3yMQqcTCfTJUpwdZajJH1o"
@@ -3340,6 +3340,24 @@
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "album": {
+        "name": "Together This Christmas (From The Original Motion Picture Soundtrack \u201cYour Christmas or Mine\u201d)",
+        "url": "https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193794,
+      "name": "Together This Christmas",
+      "url": "https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D"
     },
     {
       "album": {

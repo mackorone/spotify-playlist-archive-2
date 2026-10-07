@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Gable Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,771 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,772 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [P139](https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [All Roads Lead To Adonai](https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e) | 4:28 |
 | 100 | [Send Me](https://open.spotify.com/track/03hPC8kJyC2wClD5zmJsvp) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Send Me](https://open.spotify.com/album/0Jd3zAnOBkI3DHBzk472xx) | 3:31 |
 
-Snapshot ID: `AAAAAHk374+mRjtXcN9vnZAwO4fWoqHT`
+Snapshot ID: `AAAAAA6AS06KAIRMX4VhGzPYXV9+S0Hc`

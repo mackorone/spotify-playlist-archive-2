@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Stevan Pasaribu, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,192 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,208 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [Melayang](https://open.spotify.com/track/61LkdLYN1uMt4hpe59r2kJ) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Melayang](https://open.spotify.com/album/0We6zRTWxSbXIvb1lkh8Hb) | 3:50 |
 | 100 | [Telat!](https://open.spotify.com/track/1NalriTQmBmSbkg0FBfw0D) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Telat!](https://open.spotify.com/album/0bk9Cm5TdubCQj3LbwUDpD) | 3:43 |
 
-Snapshot ID: `AAAAAKfiJd93u8EGyyhcojzXaeUs6/ux`
+Snapshot ID: `AAAAAAX+OM4tP4rn7pZlQiGfxRfntbcH`

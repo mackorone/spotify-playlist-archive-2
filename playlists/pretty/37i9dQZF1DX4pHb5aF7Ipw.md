@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Prince Narula, Gulab Sidhu, Amrit Maan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,996 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,006 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 14 | [Behja Jatt Naal](https://open.spotify.com/track/4BdugqwG8kWaeLr0LXgzu6) | [Sanddy Mundra](https://open.spotify.com/artist/7lIllcfx8ChwyI6MHtkLDN), [Khushi Jaura](https://open.spotify.com/artist/5pMNM4us80hPivGkk9SjFS), [Rollin](https://open.spotify.com/artist/0wcfwxyTLEXKrV085sXTCz), [Prince Kotli](https://open.spotify.com/artist/44A65cNE3c8IDWjkrBGEAX) | [Behja Jatt Naal](https://open.spotify.com/album/4ncJlKa6bwt9ySwOKqsour) | 2:21 |
 | 15 | [Soho](https://open.spotify.com/track/7MP1rdR7OddaaEoT9Xu3TL) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Gagan Kooner](https://open.spotify.com/artist/04zsOadyaRBqhi2d1nKGUe) | [Soho](https://open.spotify.com/album/19zhykgKQauxTzfHoHoKDZ) | 2:49 |
 | 16 | [EXTRA FLY](https://open.spotify.com/track/1w9fDmHgQB2E7iTISmWHFg) | [Gill Ranjodh](https://open.spotify.com/artist/4VYsiN2BVC3o8wlmhd1Mu2), [Jazz Virk](https://open.spotify.com/artist/077IuEfMpzl9c4tdE4oEl2), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [EXTRA FLY](https://open.spotify.com/album/37kWI7X5RMcMVCwiswsz8V) | 2:33 |
-| 17 | [Angry Flow](https://open.spotify.com/track/0uakcYzplYEFdXiL3fwHRZ) | [Gopi Manku](https://open.spotify.com/artist/7jiMu1k8LKNzrGJiruGeqZ), [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [El Boii](https://open.spotify.com/artist/6TpIEpCtqvzB75UlKvmenG) | [Angry Flow](https://open.spotify.com/album/1je10nIUEqoM5WjbLNd4qp) | 2:21 |
+| 17 | [Angry Flow](https://open.spotify.com/track/0uakcYzplYEFdXiL3fwHRZ) | [Gopi Manku](https://open.spotify.com/artist/7jiMu1k8LKNzrGJiruGeqZ), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [El Boii](https://open.spotify.com/artist/6TpIEpCtqvzB75UlKvmenG) | [Angry Flow](https://open.spotify.com/album/1je10nIUEqoM5WjbLNd4qp) | 2:21 |
 | 18 | [420](https://open.spotify.com/track/1BQCroOW8rQEx1YVqgSSLO) | [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [420](https://open.spotify.com/album/5FfCMz3AlgC1hFyAP3L3JT) | 2:29 |
 | 19 | [Top Tier](https://open.spotify.com/track/4jjghuPa7blIfTgEeVspYp) | [Daljinder Sangga](https://open.spotify.com/artist/40ql1b8qX6lpeZuNYhikT7), [Baaman](https://open.spotify.com/artist/1UQmFEmKLVxazrrIuX1VZs), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Top Tier](https://open.spotify.com/album/0ZlCwbPXScUdWGFkCJ7ypd) | 3:04 |
 | 20 | [Wassup](https://open.spotify.com/track/3aAeLnIdV3vbNgaWTAj2ut) | [LEJEND](https://open.spotify.com/artist/0F3a3uTeRgrTeb3YNW5h10) | [LET HIM COOK](https://open.spotify.com/album/6iKPhHoTD0gfQD5MK2d4Bm) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Convo](https://open.spotify.com/track/43n4QyHu6kIp3XbmqYldj7) | [Gurman Gill](https://open.spotify.com/artist/56WAK4bABVQfz1sElUDJai), [Mallika](https://open.spotify.com/artist/2VbsVY8uBqM4lbU0pcjUtB) | [Convo](https://open.spotify.com/album/6ZWcf2FQQgJ2pbVLm74FGD) | 2:36 |
 | 75 | [Bai Bai](https://open.spotify.com/track/1vvawr8ARTQIH1941ViJyW) | [German Mann](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK), [Hammy Mangat](https://open.spotify.com/artist/4odBIOtbNmJSVrEsk3yWjH) | [Bai Bai](https://open.spotify.com/album/1zC74jeTR0vUsMtRgKmRUD) | 3:01 |
 
-Snapshot ID: `AAAAACi7mD/QgY2E5nKvEUVtquQ4xKt/`
+Snapshot ID: `AAAAAIZAOdjDhLE3JYPwfl2LY/N92bMN`

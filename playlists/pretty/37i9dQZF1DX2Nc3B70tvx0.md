@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,041 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,023 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
 | 50 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
 
-Snapshot ID: `AAAAABG3P/btxD9wKakAaqlWBJN3SnIN`
+Snapshot ID: `AAAAAAZMYaDhMnY5+BIrzWQ5CAkga3yL`

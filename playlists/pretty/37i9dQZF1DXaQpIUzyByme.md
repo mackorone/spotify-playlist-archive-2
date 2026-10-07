@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,392 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,410 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
 | 70 | [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 |
 
-Snapshot ID: `AAAAADL9p4otgZT4rA5D+7EGFibfJIWn`
+Snapshot ID: `AAAAABOl2E88Ag029f718U3YgDlK2FAs`

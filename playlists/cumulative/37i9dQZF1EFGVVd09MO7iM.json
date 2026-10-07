@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Chixtape 5",
+        "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237452,
+      "name": "Beauty In The Benz (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0BpYTh0O2ut5wvt0QtDGt4"
+    },
+    {
+      "album": {
         "name": "Beeper",
         "url": "https://open.spotify.com/album/00cwQf4eA5Nqv94RRtK4Ox"
       },
@@ -10954,7 +10976,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 279843,
       "name": "Ladies Choice",
       "url": "https://open.spotify.com/track/4e62W9rFx6TyjQD75RFqnN"
@@ -13934,7 +13956,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/46n0Eptf02RAR1xZbSKEal"

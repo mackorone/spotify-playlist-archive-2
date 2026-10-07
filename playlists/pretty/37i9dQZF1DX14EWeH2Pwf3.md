@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera Ebbasta in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,418 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,373 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
 | 50 | [Players Club '26 \(feat\. Lubi, Over Lapa, Flaco G, G\. Mineiro, 18K, Macello , Enny P & Alkhazar\)](https://open.spotify.com/track/6uiUHaFq47uTQft7tjWgSr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [Alkhazar](https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF) | [Players Club '26 \(feat\. Lubi, Over Lapa, Flaco G, G\. Mineiro, 18K, Macello , Enny P & Alkhazar\)](https://open.spotify.com/album/4vlDIuxI7J7Fik96MtlrZV) | 5:04 |
 
-Snapshot ID: `AAAAALVHHKHWKmyJCKTJYkyRrRug0cnP`
+Snapshot ID: `AAAAAGCSJN04fdZDPHBgk1qUmepGStTS`

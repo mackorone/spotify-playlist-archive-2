@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,594 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,593 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 30 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
 | 31 | [WRANGLER](https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [WHAT CAN I TELL U](https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA) | 2:05 |
 | 32 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
-| 33 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |
-| 34 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
-| 35 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
+| 33 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
+| 34 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
+| 35 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |
 | 36 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
 | 37 | [Hridhayam](https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV) | [Raaza Razaq](https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3), [Iyyaamma](https://open.spotify.com/artist/4iUJKDtuzHBEvlKTDuncmi) | [Hridhayam](https://open.spotify.com/album/6voA6abUq7Jd8jmUfur0HB) | 3:18 |
 | 38 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
-| 39 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |
-| 40 | [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 |
+| 39 | [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 |
+| 40 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |
 | 41 | [TODA LA VIDA](https://open.spotify.com/track/7fRUzowe7mqS8QkHzTMcJZ) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 3:04 |
 | 42 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 |
 | 43 | [Setiap Nafasku Kernamu](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:23 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 47 | [Blow my lid](https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [The dirt pt\. 2](https://open.spotify.com/album/2GCJ2Q2vB526WoqL1q8O1e) | 2:30 |
 | 48 | [Alma](https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Alma](https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk) | 3:40 |
 
-Snapshot ID: `AAAAAALHSAUuMwhLOcz+9smJ43RgEksK`
+Snapshot ID: `AAAAANT7WEAAW/hlPBfG3VS/Vuo1nkE1`

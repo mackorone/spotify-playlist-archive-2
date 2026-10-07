@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALrYhETkZXVP+I49MHa3ghDwNSgjwx",
+  "snapshot_id": "AAALsMDYRUWGmrTfYQ8BQ7g833LYuUJF",
   "tracks": [
     {
       "added_at": "2026-09-20 13:23:29",
@@ -44845,22 +44845,6 @@
       "url": "https://open.spotify.com/track/2deyISRgf7w7HWTHU9GOyD"
     },
     {
-      "added_at": "2026-09-23 11:23:39",
-      "album": {
-        "name": "D\u00f6rf",
-        "url": "https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO"
-      },
-      "artists": [
-        {
-          "name": "Muupe B. Horto",
-          "url": "https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "N\u00e4kemiin & Secundaa",
-      "url": "https://open.spotify.com/track/3CKUOcYNNA7bwkmGO5Hq1l"
-    },
-    {
       "added_at": "2026-09-23 11:24:08",
       "album": {
         "name": "Suomi",
@@ -46339,6 +46323,42 @@
       "duration_ms": 180071,
       "name": "Rain on Pavement",
       "url": "https://open.spotify.com/track/2g6VYUIBh0F7ZfJonyNFyc"
+    },
+    {
+      "added_at": "2026-10-06 10:33:42",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/72QOa3mGgM6Ghh7MOt66Ti"
+      },
+      "artists": [
+        {
+          "name": "Sentriz",
+          "url": "https://open.spotify.com/artist/0IsnUloaBFGEuNXqPlNn5t"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/6UhQ7qEpXlCGreefjM6Ely"
+    },
+    {
+      "added_at": "2026-10-07 04:01:19",
+      "album": {
+        "name": "Your Favorite Sins",
+        "url": "https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU"
+      },
+      "artists": [
+        {
+          "name": "S1J",
+          "url": "https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG"
+        },
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "duration_ms": 112825,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0szGGovWjmEG1k3ZwdqTWw"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,718 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,861 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 99 | [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 |
 | 100 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 
-Snapshot ID: `AAAAAGozxVez+y9bj5tM7NsV0UZ8yJ1w`
+Snapshot ID: `AAAAAC3QmLgYE6xs+O0prabpnS5ie+DG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Taylor Swift\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,063 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,057 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
 | 50 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 
-Snapshot ID: `AAAAAEKjYEqYeAe4S/yb4WbTde4QETCm`
+Snapshot ID: `AAAAAHQFtY3Bn5t+JszsLfO8RUlE+5Ov`

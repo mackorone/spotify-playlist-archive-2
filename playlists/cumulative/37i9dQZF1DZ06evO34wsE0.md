@@ -4,7 +4,7 @@
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 0 min
+104 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [You're Still The One](https://open.spotify.com/track/1PkzZoOAwHFEmVjTp2Eaiv) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/18LdSvS656ricZQyY7p1Px) | 3:34 | 2024-06-30 | 2024-07-24 |
 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 | 2024-03-09 |  |
 | [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 | 2024-03-09 |  |
-| [You're Still The One \- Remastered 2023](https://open.spotify.com/track/4D2JmiX0P8WJygnpV80WTs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 3:17 | 2024-03-09 |  |
+| [You're Still The One \- Candy Crush Version](https://open.spotify.com/track/3qRsAya7AG5b8eKTcwguPv) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You're Still The One \(Candy Crush Version\)](https://open.spotify.com/album/4hfN98dM7Q4824V1pjXOxE) | 2:56 | 2026-10-07 |  |
+| [You're Still The One \- Remastered 2023](https://open.spotify.com/track/4D2JmiX0P8WJygnpV80WTs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 3:17 | 2024-03-09 | 2026-10-07 |
 | [You've Got A Way](https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 | 2024-03-09 |  |
 
 \*This playlist was first scraped on 2024-03-10. Prior content cannot be recovered.

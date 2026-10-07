@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287045,
+  "num_followers": 287055,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPvlLFKimeJ2wE7/N5x+gzkW8lkv",
+  "snapshot_id": "AAAAAC1Ul6PDjXgqK2YXNksiBTJfxQqp",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:18",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "No Rain",
+        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 203810,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "No Rain",
-        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
       },
       "artists": [
         {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 203810,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -803,22 +819,6 @@
       "duration_ms": 236000,
       "name": "Stuck in the Middle With You",
       "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Possum",
-        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 333013,
-      "name": "Possum",
-      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 289196,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },
@@ -895,18 +911,38 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
+        "name": "Rhapsody in Blue (grass)",
+        "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
         }
       ],
-      "duration_ms": 289196,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+      "duration_ms": 729807,
+      "name": "Rhapsody in Blue(grass)",
+      "url": "https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -947,42 +983,6 @@
       "duration_ms": 228480,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Rhapsody in Blue (grass)",
-        "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        },
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        },
-        {
-          "name": "Mark Schatz",
-          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
-        },
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 729807,
-      "name": "Rhapsody in Blue(grass)",
-      "url": "https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Closer You Get",
         "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
       },
@@ -1343,8 +1327,24 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "All Will Be Well",
-        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 229000,
-      "name": "All Will Be Well",
-      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
-      },
-      "artists": [
-        {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 185305,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "If I Needed You",
         "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
       "artists": [
         {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
         }
       ],
-      "duration_ms": 173279,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1651,22 +1667,6 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Million Reasons",
-        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
-      },
-      "artists": [
-        {
-          "name": "Shelby Means",
-          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Family, Friends & Heroes",
         "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 304333,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Million Reasons",
+        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
+      },
+      "artists": [
+        {
+          "name": "Shelby Means",
+          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
     },
     {
       "added_at": "2026-08-21 04:02:18",

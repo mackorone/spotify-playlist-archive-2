@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2092,
+  "num_followers": 2093,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAADDb6c6sma7Qznqtq0vvvtC",
+  "snapshot_id": "asLogAAAAADQ+xa276HdQauu/7RzP7V0",
   "tracks": [
     {
       "added_at": null,
@@ -408,12 +408,16 @@
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
           "name": "Adrien Perruchon",
@@ -424,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 344426,
-      "name": "Dvo\u0159\u00e1k: Rusalka, Op. 114, B. 203, Act 1: Song to the Moon (Instrumental Version)",
-      "url": "https://open.spotify.com/track/4wjvxvqEkdTr6smrVh8WKp"
+      "duration_ms": 219746,
+      "name": "Nyman: The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
     },
     {
       "added_at": null,
@@ -516,16 +520,12 @@
       },
       "artists": [
         {
-          "name": "Michael Nyman",
-          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
           "name": "Adrien Perruchon",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Nyman: The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
+      "duration_ms": 344426,
+      "name": "Dvo\u0159\u00e1k: Rusalka, Op. 114, B. 203, Act 1: Song to the Moon (Instrumental Version)",
+      "url": "https://open.spotify.com/track/4wjvxvqEkdTr6smrVh8WKp"
     },
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relaxing Classical for Studying",
+        "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/4RPoCHgFfVjgITQdxDp3nQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
         "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 149293,
       "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
       "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaxing Classical for Studying",
-        "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/4RPoCHgFfVjgITQdxDp3nQ"
     },
     {
       "added_at": null,
@@ -835,38 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Deborah Nemtanu",
-          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
-      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Deborah Nemtanu",
+          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
+      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
     },
     {
       "added_at": null,
@@ -1163,34 +1163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 381106,
-      "name": "Faur\u00e9 / Orch. Ducros: Pavane, Op. 50",
-      "url": "https://open.spotify.com/track/0VXvAZKD7UvkD2Qa1tEEXg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
         "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
@@ -1219,6 +1191,34 @@
       "duration_ms": 253253,
       "name": "Over the Rainbow (From \"The Wizard of Oz\")",
       "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Piazzolla / Orch. Ducros: Oblivion",
+      "url": "https://open.spotify.com/track/4tOxKuseWFcXCv2Ro4t6Qi"
     },
     {
       "added_at": null,

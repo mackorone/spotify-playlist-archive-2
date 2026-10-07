@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat VIIVI & Elastinen, Pihlaja, Goldielocks..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,771 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,776 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 100 | [Mariô](https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Mariô](https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c) | 2:00 |
 | 101 | [c\*ntry girl rock](https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [c\*ntry girl rock](https://open.spotify.com/album/35IaQyLS43e1zryxSsXbDL) | 3:46 |
 
-Snapshot ID: `AAAAAOAZloM2KtsmSab9DaJ4M58O3ahN`
+Snapshot ID: `AAAAAB6hEJwb3iUD2CYWGhiAvw9bhSNj`

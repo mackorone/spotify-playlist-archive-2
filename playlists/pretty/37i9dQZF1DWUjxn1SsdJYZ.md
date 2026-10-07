@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: J Emz
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,899 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,905 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Dubs Up](https://open.spotify.com/track/5I0aS1XmscbaleYxPkC5w5) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Dubs Up](https://open.spotify.com/album/69lGUyurAQQMllVXZNZcyA) | 2:48 |
 | 100 | [Swear Mums](https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Swear Mums](https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn) | 3:16 |
 
-Snapshot ID: `AAAAAN+dPZA+zNIATD1BeEwbqSuMcDXU`
+Snapshot ID: `AAAAAIW12OCrEcQIGOTk6MOppoMuK46K`

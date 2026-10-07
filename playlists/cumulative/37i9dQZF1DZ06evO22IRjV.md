@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-130 songs - 8 hr 30 min
+131 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [LIVING DEAD](https://open.spotify.com/track/2KeciA7fNyj5ia3nMznhMQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LIVING DEAD](https://open.spotify.com/album/1CiISbUXSpFx4B4lRYC43P) | 3:50 | 2026-03-08 | 2026-10-06 |
 | [LOST](https://open.spotify.com/track/6oNx3YLmwhEY3QxcJBugzU) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/3hZAZRM8TWSL3Hby4t2myS) | 4:02 | 2026-01-15 | 2026-02-04 |
 | [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-05-19 | 2025-12-03 |
-| [LOUDER](https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [LOUDER](https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9) | 4:29 | 2024-08-19 |  |
+| [LOUDER](https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [LOUDER](https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9) | 4:29 | 2024-08-19 | 2026-10-07 |
 | [LOVE & JUSTICE](https://open.spotify.com/track/3iSiMTPBp6GTRURf73OIH8) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/CHOJIN](https://open.spotify.com/album/3s7ABr2FsbtrnrP27g7T1J) | 4:27 | 2024-09-01 | 2024-12-17 |
 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 | 2024-08-07 |  |
 | [Moshimo](https://open.spotify.com/track/6oQfkY3h16OD2maQyPdxv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:05 | 2023-09-09 | 2023-11-11 |
@@ -91,6 +91,7 @@
 | [UNION](https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 4:31 | 2022-06-09 | 2022-10-13 |
 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 | 2022-06-09 | 2023-10-11 |
 | [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2024-08-13 | 2025-04-08 |
+| [UNSTOPPABLE](https://open.spotify.com/track/1XUGLL0aySzwVzHq4qUE7H) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [UNSTOPPABLE](https://open.spotify.com/album/7sFi6BdSqpcBZODTXS81IQ) | 4:07 | 2026-10-07 |  |
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-16 | 2024-08-06 |
 | [White Moon](https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [White Moon](https://open.spotify.com/album/0tC9E3xjkn39oZRsKqPYQV) | 3:44 | 2025-06-29 |  |
 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-23 | 2023-05-23 |

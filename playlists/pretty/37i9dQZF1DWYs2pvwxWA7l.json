@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Lojay",
-  "num_followers": 657689,
+  "num_followers": 657789,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOQFShowEGDdXQARS6QK6cPv0GI",
+  "snapshot_id": "AAAAAKwPWZo1zbXczty71Fm5e6R0UDn0",
   "tracks": [
     {
       "added_at": "2026-10-02 00:01:32",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "A*POP",
-        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "it's over",
         "url": "https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 190972,
       "name": "it's over",
       "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "Hold Somebody",
-        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 158170,
-      "name": "Hold Somebody",
-      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -627,42 +627,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
-        "name": "Dear London",
-        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Glass in the Air",
-      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -683,22 +647,38 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -715,6 +695,26 @@
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -823,22 +843,18 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "JURU",
+        "url": "https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 188574,
+      "name": "JURU",
+      "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -935,26 +955,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "JURU",
-        "url": "https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 188574,
-      "name": "JURU",
-      "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "IS IT LOVE",
         "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
       },
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "STATE OF MIND",
         "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 180688,
       "name": "Calculate",
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2026-10-02 00:01:32",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-10-02 00:01:32",
       "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2026-10-02 00:01:32",
+      "album": {
         "name": "KING COAL",
         "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 188803,
       "name": "GBESUNMO",
       "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
-    },
-    {
-      "added_at": "2026-10-02 00:01:32",
-      "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-10-02 00:01:32",

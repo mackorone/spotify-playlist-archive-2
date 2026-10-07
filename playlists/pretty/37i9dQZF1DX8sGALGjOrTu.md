@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,749 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,784 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 46 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
 | 47 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 48 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
-| 49 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
-| 50 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 49 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 50 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
 | 51 | [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 |
 | 52 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 53 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
-| 54 | [The New Black](https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:52 |
-| 55 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
+| 54 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
+| 55 | [The New Black](https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:52 |
 | 56 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
 | 57 | [Mouths Like Sidewinder Missles](https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:44 |
 | 58 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 70 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 71 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
 | 72 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 |
-| 73 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
-| 74 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
+| 73 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
+| 74 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
 | 75 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 |
 | 76 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
 | 77 | [Blueprints For Future Homes](https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Redeemer](https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky) | 2:49 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 82 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
 | 83 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
 | 84 | [The Crimson](https://open.spotify.com/track/062gY8uXDt5kjtAOcSmL4z) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 4:01 |
-| 85 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
-| 86 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 85 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 86 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
 | 87 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
 | 88 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
 | 89 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [London Is the Reason](https://open.spotify.com/track/10dmrl943UpZLn61i2NyzK) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Grey Britain](https://open.spotify.com/album/0e4COGZAatnQJgjuEA99Wk) | 3:11 |
 | 100 | [Planning a Prison Break](https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL) | [The Receiving End Of Sirens](https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV) | [Between the Heart and the Synapse](https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt) | 5:18 |
 
-Snapshot ID: `AAAAAHqVJwDi3isssuOJvBuRWBKMyBRM`
+Snapshot ID: `AAAAAI00oekDU/CjqaBXb/Fj8MNGs4Si`

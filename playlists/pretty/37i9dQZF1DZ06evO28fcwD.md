@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,410 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,413 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Pauline](https://open.spotify.com/track/0ahYb1FP9tiIUQbA164pPo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inala](https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec) | 3:36 |
 | 50 | [Shosholoza](https://open.spotify.com/track/7fJr4EqmmZfN1s8iU0ic8z) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lucky Dube](https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6), [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ), [Nokukhanya Dlamini](https://open.spotify.com/artist/7cDsKNS5JcxA6fmHyMLAKK), [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ladysmith Black Mambazo and Friends](https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh) | 4:52 |
 
-Snapshot ID: `asGXAAAAAADhiic/6fjLzO0F6VDqp+2F`
+Snapshot ID: `asLogAAAAABNTdPeIWeHFfALe25QiOvY`

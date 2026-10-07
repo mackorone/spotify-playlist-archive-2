@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 163594,
+  "num_followers": 163628,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOGXYLQHVppldv6Brc5MQl7diaC",
+  "snapshot_id": "AAAAADVV/w5iVqbhAm/xEq/ZUVwXjtsP",
   "tracks": [
     {
       "added_at": "2026-08-01 02:46:09",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "If You Let Go",
+        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 156101,
+      "name": "If You Let Go",
+      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Quien Vive",
         "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 291000,
       "name": "Quien Vive",
       "url": "https://open.spotify.com/track/1yAvWGZuqaK6nbbfLi38cn"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "If You Let Go",
-        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "If You Let Go",
-      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Esto es Otra Cosa",
         "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Arriba",
-        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Para Arriba",
-      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "GRACIAS",
         "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204000,
       "name": "TE QUIERO A MI LAU <3",
       "url": "https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Para Arriba",
+        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Somos Cristianos",
-        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 140998,
-      "name": "Somos Cristianos",
-      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 200000,
       "name": "Yeshua Hamashiaj - MelGod - Remix",
       "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Somos Cristianos",
+        "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 140998,
+      "name": "Somos Cristianos",
+      "url": "https://open.spotify.com/track/2rpqfj4MwCv5p4BJuiCGCa"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Malvavisco",
         "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
       "artists": [
         {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
         }
       ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1171,22 +1187,6 @@
       "duration_ms": 222715,
       "name": "Lamento En Baile",
       "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
-      },
-      "artists": [
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Mes\u00edas",
         "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
       },
@@ -1243,30 +1223,6 @@
       "duration_ms": 324017,
       "name": "Mes\u00edas",
       "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        },
-        {
-          "name": "Guerrero De Cristo",
-          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
-        }
-      ],
-      "duration_ms": 206959,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1299,6 +1255,30 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Guerrero De Cristo",
+          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
+        }
+      ],
+      "duration_ms": 206959,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Viene Alegr\u00eda",
         "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 165611,
       "name": "Viene Alegr\u00eda",
       "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+      },
+      "artists": [
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
       "artists": [
         {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
         }
       ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Vers\u00e1til, Vol. 2",
         "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 139500,
       "name": "Me Voy Con \u00c9l",
       "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Bueno & Fiel",
+        "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "duration_ms": 303773,
+      "name": "Bueno es Dios - Live",
+      "url": "https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "closefriend",
         "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Bueno & Fiel",
-        "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
-      },
-      "artists": [
-        {
-          "name": "Yelitza Cintron",
-          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
-        }
-      ],
-      "duration_ms": 303773,
-      "name": "Bueno es Dios - Live",
-      "url": "https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2"
     },
     {
       "added_at": "2026-08-01 02:46:09",

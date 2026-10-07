@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,937 songs - 5 day 11 hr 25 min
+1,938 songs - 5 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Allt Stod Still \(Outro\)](https://open.spotify.com/track/0ltExShibkTvrUP0oxMREJ) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 1:50 | 2020-03-25 | 2020-07-03 |
 | [Ally of the Good](https://open.spotify.com/track/6lJUX58cCiVEw4T4H7jj3i) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Ally of the Good](https://open.spotify.com/album/2cXubQqUPpCIZKzhVgExfy) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Alléenoire \- Rauschhaus Remix](https://open.spotify.com/track/3FRXRr2NcDjsRgze79RjBg) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Alléenoire \(Rauschhaus Remix\)](https://open.spotify.com/album/1Kxd5SRSYiS7SJuYDpNa1w) | 7:01 | 2021-11-26 | 2022-04-21 |
-| [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 | 2026-02-13 |  |
+| [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 | 2026-02-13 | 2026-10-07 |
 | [Alone](https://open.spotify.com/track/71QzpNzL1Q6KPOV5ilyBVW) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Unity](https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj) | 5:33 | 2020-05-18 | 2020-10-09 |
 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 | 2024-06-21 |  |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 | 2023-04-29 |
@@ -730,6 +730,7 @@
 | [Hide and Seek \- Don Diablo Edit](https://open.spotify.com/track/7hQqneQFiXJQOvz6ppQs2y) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Hide and Seek \(Don Diablo Edit\)](https://open.spotify.com/album/0WVSlz6N4Q5OQ1KkygpJXG) | 4:58 | 2020-04-24 | 2020-10-09 |
 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 | 2023-07-21 | 2024-08-03 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 | 2025-08-30 |
+| [Hiding](https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Claxy](https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2) | [Hiding / Shallow Water](https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD) | 3:52 | 2026-10-02 |  |
 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Everlight](https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j) | 4:09 | 2025-10-17 | 2025-12-20 |
 | [High Flyer](https://open.spotify.com/track/1nWH3PxlaUTcB9EqbJbVSy) | [Lyz Damon](https://open.spotify.com/artist/0t3MnJRdHczhCBCGbPgRL8) | [Road Trip](https://open.spotify.com/album/3tdYyQIzmVq9jP5utxOTII) | 3:41 | 2020-03-16 | 2021-03-06 |
 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 | 2021-06-05 | 2021-11-13 |

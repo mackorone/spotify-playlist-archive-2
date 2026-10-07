@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11067525,
+  "num_followers": 11067972,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExdP6Q/WP71KIWcPe5cdGd4+MHO",
+  "snapshot_id": "AAAAAC1LxPWCQXeqJ1qbs1y5NAI5hG4B",
   "tracks": [
     {
       "added_at": "2026-10-02 12:00:26",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 136333,
       "name": "Ever Since U Left Me (I Went Deaf)",
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1571,6 +1555,38 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Loco Loco",
-        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -2751,30 +2751,6 @@
     {
       "added_at": "2026-10-02 12:00:26",
       "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        },
-        {
-          "name": "InntRaw",
-          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
-        }
-      ],
-      "duration_ms": 188534,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -2787,22 +2763,6 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
-    },
-    {
-      "added_at": "2026-10-02 12:00:26",
-      "album": {
-        "name": "LIGHTS GO OUT",
-        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "LIGHTS GO OUT",
-      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
     },
     {
       "added_at": "2026-10-02 12:00:26",
@@ -2823,6 +2783,46 @@
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+    },
+    {
+      "added_at": "2026-10-02 12:00:26",
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        }
+      ],
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
     },
     {
       "added_at": "2026-10-02 12:00:26",

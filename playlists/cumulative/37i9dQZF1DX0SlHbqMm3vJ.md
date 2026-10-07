@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: DJ Tunez
 
-1,063 songs - 2 day 3 hr 27 min
+1,064 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 | 2026-03-20 |
 | [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 | 2026-10-02 |  |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-25 | 2024-09-07 |
+| [IFEOMA](https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Ifeoma & Rascal](https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI) | 2:32 | 2026-10-02 |  |
 | [Ifeoma](https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Ifeoma](https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx) | 2:40 | 2024-03-29 | 2026-08-21 |
 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 | 2025-02-21 | 2025-04-08 |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-07 | 2026-03-30 |
@@ -626,7 +627,7 @@
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 | 2022-07-23 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-06-28 |
 | [Melanin](https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Melanin](https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q) | 2:34 | 2026-03-20 | 2026-05-10 |
-| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
+| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 | 2026-10-07 |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-03-11 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-10-01 |
 | [Mental](https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Mental](https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS) | 2:46 | 2026-09-25 |  |

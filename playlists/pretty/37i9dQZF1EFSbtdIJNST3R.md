@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 56 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 57 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 45 | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Thomas Helsloot](https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL) | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
 | 46 | [All the Way Up \- Afromix by Victizzle](https://open.spotify.com/track/1i8yp9eC5osY3kDdPPvUpF) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Victizzle](https://open.spotify.com/artist/26ysY3T9kQzZGDsESHl7fS) | [On the Floor \(Afromix by Victizzle\)](https://open.spotify.com/album/6BXFY3zYqTppO8evVfXQUO) | 3:28 |
 | 47 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
-| 48 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
-| 49 | [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 |
+| 48 | [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 |
+| 49 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
 | 50 | [Verder Waar We Zijn Gebleven](https://open.spotify.com/track/2bzyHP1hrYgJKwIQzNFTva) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:47 |
 | 51 | [Onderwater](https://open.spotify.com/track/2RRtg1bO2s3leId02DD13n) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Onderwater](https://open.spotify.com/album/60C4sQv0Lv1XicSs1uP94y) | 2:14 |
 | 52 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
 | 53 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 |
-| 54 | [Kingsize Bed](https://open.spotify.com/track/5kmTldFsjGCdK7ayMEfJUn) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:42 |
-| 55 | [Huilen In De Club](https://open.spotify.com/track/66HvKF3G7mV98i6UxfhgCY) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:55 |
-| 56 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
+| 54 | [Izakaya](https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Izakaya](https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx) | 2:24 |
+| 55 | [Kingsize Bed](https://open.spotify.com/track/5kmTldFsjGCdK7ayMEfJUn) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:42 |
+| 56 | [Huilen In De Club](https://open.spotify.com/track/66HvKF3G7mV98i6UxfhgCY) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:55 |
+| 57 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
 
-Snapshot ID: `AceKwAAAAABYIBpmf7tDutj7/2RwruD4`
+Snapshot ID: `AceQJAAAAAAzmxaootZR0lMmX4meloBH`

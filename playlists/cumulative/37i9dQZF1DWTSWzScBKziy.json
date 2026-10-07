@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196208,
       "name": "Can You Tell",
       "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
@@ -20537,6 +20537,24 @@
     },
     {
       "album": {
+        "name": "Praise Upon Praise (Live at The River)",
+        "url": "https://open.spotify.com/album/3KiyUYsfBs3SNT3hDh6dND"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378578,
+      "name": "Praise Upon Praise (Live at The River)",
+      "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
+    },
+    {
+      "album": {
         "name": "The Richest Man In The World",
         "url": "https://open.spotify.com/album/4OMvP4sa3TdgGzgLJ1eMtH"
       },
@@ -24871,6 +24889,28 @@
     },
     {
       "album": {
+        "name": "House Of Worship (Deluxe)",
+        "url": "https://open.spotify.com/album/5lkkzGifyKChKzHZkafoNr"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Jami Garcia",
+          "url": "https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252460,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/4hvR3kSiV3opZ9v7lffVEu"
+    },
+    {
+      "album": {
         "name": "Thank The Lord",
         "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
       },
@@ -27186,7 +27226,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 356032,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/7qkXoYoh91593haiXn0vhN"

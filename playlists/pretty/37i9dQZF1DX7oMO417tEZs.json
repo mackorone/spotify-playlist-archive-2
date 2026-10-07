@@ -1,28 +1,44 @@
 {
   "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: OAKK",
-  "num_followers": 187219,
+  "num_followers": 187236,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGB1VgLjnoG/m6FSbxNqY2j2eOqe",
+  "snapshot_id": "AAAAAGS+e38E+gE2Ff/aD9APHdr7C8jI",
   "tracks": [
     {
       "added_at": "2026-10-02 04:03:54",
       "album": {
-        "name": "Marathon 2 (Mont-Royal)",
-        "url": "https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI"
+        "name": "SNOW ON THE TABLE",
+        "url": "https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4"
       },
       "artists": [
         {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
         }
       ],
-      "duration_ms": 384040,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
+      "duration_ms": 126374,
+      "name": "SNOW ON THE TABLE",
+      "url": "https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "All dogs go to heaven",
+        "url": "https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "All dogs go to heaven",
+      "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
     },
     {
       "added_at": "2026-10-02 04:03:54",
@@ -55,74 +71,6 @@
       "duration_ms": 242240,
       "name": "ready or noT",
       "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "Life 1",
-        "url": "https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 221575,
-      "name": "It goes like this",
-      "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/6SttWG2asvP9F8mUIn1GmW"
-      },
-      "artists": [
-        {
-          "name": "Zora Jones",
-          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
-        }
-      ],
-      "duration_ms": 250810,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/0lQbb0GYrapGfD9YPpsa67"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "infinite money glitch",
-        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
-      },
-      "artists": [
-        {
-          "name": "Peypo",
-          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
-        },
-        {
-          "name": ".ape",
-          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
-        }
-      ],
-      "duration_ms": 107540,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "All dogs go to heaven",
-        "url": "https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy"
-      },
-      "artists": [
-        {
-          "name": "Deadin Dogyears",
-          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "All dogs go to heaven",
-      "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
     },
     {
       "added_at": "2026-10-02 04:03:54",
@@ -171,6 +119,190 @@
       "duration_ms": 183360,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/0o0xDQvMqZUMu4LbuRsck6"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Everyone (ft SEES00000)",
+        "url": "https://open.spotify.com/album/1D1FaFLjYIIHOrSS9fM5lW"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 233015,
+      "name": "Everyone - ft SEES00000",
+      "url": "https://open.spotify.com/track/7cBBbJy5xDzgllQYG6lUjQ"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "SWAN",
+        "url": "https://open.spotify.com/album/0vGZ8gizuYKtNO55HKkNLs"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/3KQTQH0i2uQtqFP7lS7ebU"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Life 1",
+        "url": "https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 221575,
+      "name": "It goes like this",
+      "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "infinite money glitch",
+        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
+      },
+      "artists": [
+        {
+          "name": "Peypo",
+          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
+        },
+        {
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
+        }
+      ],
+      "duration_ms": 107540,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "after i left",
+        "url": "https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "duration_ms": 113548,
+      "name": "after i left",
+      "url": "https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Divinement Guid\u00e9",
+        "url": "https://open.spotify.com/album/5t4ZZJHrHu80p9wGNiBZrM"
+      },
+      "artists": [
+        {
+          "name": "Divinely Guided",
+          "url": "https://open.spotify.com/artist/510DfJ1niG4PgG0Vl2P2cO"
+        }
+      ],
+      "duration_ms": 102193,
+      "name": "real eyes realize real lies",
+      "url": "https://open.spotify.com/track/3G80qonrJfqyVwLgmc2FuW"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "trinket",
+        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "( \u2565\ufe4f\u2565 )",
+      "url": "https://open.spotify.com/track/4mMW7j3QfSOAR2MSsTKnaq"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+        "url": "https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "\u3055\u305f\u3071\u3093P",
+          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
+        }
+      ],
+      "duration_ms": 130770,
+      "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+      "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "I Missed You More",
+        "url": "https://open.spotify.com/album/7xJz7wzcUPAc3hOBgjpbhF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "duration_ms": 161730,
+      "name": "I Missed You More",
+      "url": "https://open.spotify.com/track/5U09Tvgshbkk0zhSGLKmOi"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/6SttWG2asvP9F8mUIn1GmW"
+      },
+      "artists": [
+        {
+          "name": "Zora Jones",
+          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
+        }
+      ],
+      "duration_ms": 250810,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0lQbb0GYrapGfD9YPpsa67"
     },
     {
       "added_at": "2026-10-02 04:03:54",
@@ -247,42 +379,6 @@
     {
       "added_at": "2026-10-02 04:03:54",
       "album": {
-        "name": "Everyone (ft SEES00000)",
-        "url": "https://open.spotify.com/album/1D1FaFLjYIIHOrSS9fM5lW"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        },
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 233015,
-      "name": "Everyone - ft SEES00000",
-      "url": "https://open.spotify.com/track/7cBBbJy5xDzgllQYG6lUjQ"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "SWAN",
-        "url": "https://open.spotify.com/album/0vGZ8gizuYKtNO55HKkNLs"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/3KQTQH0i2uQtqFP7lS7ebU"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
         "name": "gao dan dan",
         "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
       },
@@ -327,26 +423,6 @@
       "duration_ms": 171425,
       "name": "Never Let You Know",
       "url": "https://open.spotify.com/track/4ME2tEBxl7NC4E1m5JE1dP"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "I Missed You More",
-        "url": "https://open.spotify.com/album/7xJz7wzcUPAc3hOBgjpbhF"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        },
-        {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        }
-      ],
-      "duration_ms": 161730,
-      "name": "I Missed You More",
-      "url": "https://open.spotify.com/track/5U09Tvgshbkk0zhSGLKmOi"
     },
     {
       "added_at": "2026-10-02 04:03:54",
@@ -419,22 +495,6 @@
     {
       "added_at": "2026-10-02 04:03:54",
       "album": {
-        "name": "SNOW ON THE TABLE",
-        "url": "https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 126374,
-      "name": "SNOW ON THE TABLE",
-      "url": "https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
         "name": "OPIA",
         "url": "https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom"
       },
@@ -451,6 +511,22 @@
       "duration_ms": 182000,
       "name": "HYPER (with REINEN)",
       "url": "https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"
+    },
+    {
+      "added_at": "2026-10-02 04:03:54",
+      "album": {
+        "name": "Marathon 2 (Mont-Royal)",
+        "url": "https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 384040,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
     },
     {
       "added_at": "2026-10-02 04:03:54",
@@ -807,82 +883,6 @@
       "duration_ms": 185777,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "after i left",
-        "url": "https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A"
-      },
-      "artists": [
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
-        }
-      ],
-      "duration_ms": 113548,
-      "name": "after i left",
-      "url": "https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "Divinement Guid\u00e9",
-        "url": "https://open.spotify.com/album/5t4ZZJHrHu80p9wGNiBZrM"
-      },
-      "artists": [
-        {
-          "name": "Divinely Guided",
-          "url": "https://open.spotify.com/artist/510DfJ1niG4PgG0Vl2P2cO"
-        }
-      ],
-      "duration_ms": 102193,
-      "name": "real eyes realize real lies",
-      "url": "https://open.spotify.com/track/3G80qonrJfqyVwLgmc2FuW"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "trinket",
-        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
-      },
-      "artists": [
-        {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "( \u2565\ufe4f\u2565 )",
-      "url": "https://open.spotify.com/track/4mMW7j3QfSOAR2MSsTKnaq"
-    },
-    {
-      "added_at": "2026-10-02 04:03:54",
-      "album": {
-        "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
-        "url": "https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt"
-      },
-      "artists": [
-        {
-          "name": "BEYOND BORDERs",
-          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "\u3055\u305f\u3071\u3093P",
-          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
-        }
-      ],
-      "duration_ms": 130770,
-      "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
-      "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
     },
     {
       "added_at": "2026-10-02 04:03:54",

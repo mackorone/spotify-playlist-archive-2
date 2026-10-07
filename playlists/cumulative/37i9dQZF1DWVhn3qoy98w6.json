@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Construimos Escaleras.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: BRAVA.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -9358,7 +9358,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 263533,
       "name": "Alovera",
       "url": "https://open.spotify.com/track/49EnpX7wvfBoZLO1zWHWKw"
@@ -10090,6 +10090,24 @@
       "duration_ms": 214364,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/3paGS7YujQAdNtfVUVMo7m"
+    },
+    {
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/6ZWgKcGKjlrIGQsBxzHWhZ"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/0S1frtKGIJQve9f7g2Ihy5"
     },
     {
       "album": {
@@ -10872,7 +10890,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 216888,
       "name": "AMOR X ORO",
       "url": "https://open.spotify.com/track/3J1tfAgjuQ4GQOiTRAWt6S"
@@ -21239,6 +21257,24 @@
     },
     {
       "album": {
+        "name": "Homo Lament\u00e1bilis",
+        "url": "https://open.spotify.com/album/4FqR68HqeBUkki09OuHJDK"
+      },
+      "artists": [
+        {
+          "name": "Hostia Pedag\u00f3gica",
+          "url": "https://open.spotify.com/artist/4HNNkJyfZVm2MpsWq3EkzB"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194913,
+      "name": "Caballo",
+      "url": "https://open.spotify.com/track/7AAM8uC7CSaRwtshPOuJ59"
+    },
+    {
+      "album": {
         "name": "Caballo",
         "url": "https://open.spotify.com/album/6TiQj6JZ4LPs5HejIAMFUe"
       },
@@ -31112,7 +31148,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196548,
       "name": "contracorrent",
       "url": "https://open.spotify.com/track/55I40bxKqnn6hVdA1nwiQm"
@@ -42708,7 +42744,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 295081,
       "name": "Duelo a primera sangre",
       "url": "https://open.spotify.com/track/1vNmiskYFKCpQcGlo9xGem"
@@ -48889,6 +48925,24 @@
     },
     {
       "album": {
+        "name": "ELIJO LA VIOLENCIA",
+        "url": "https://open.spotify.com/album/44AiDs5Mk6k9A4VX7icVrc"
+      },
+      "artists": [
+        {
+          "name": "antimorbo",
+          "url": "https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180692,
+      "name": "ELIJO LA VIOLENCIA",
+      "url": "https://open.spotify.com/track/508I8f8Pl9YNd4UgUjLDMQ"
+    },
+    {
+      "album": {
         "name": "Elisa",
         "url": "https://open.spotify.com/album/2Is0wfJ5KMgBQFiRHEQamY"
       },
@@ -53452,7 +53506,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 166159,
       "name": "Estar sin ti",
       "url": "https://open.spotify.com/track/51xLpKk7oDa2ATOBhC6PHP"
@@ -59182,7 +59236,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 182250,
       "name": "Fuiste Popular",
       "url": "https://open.spotify.com/track/64Aeeh6SZNyXuLaAaJpYP0"
@@ -88915,6 +88969,24 @@
     },
     {
       "album": {
+        "name": "Me hicieron irme",
+        "url": "https://open.spotify.com/album/66jrTxQfR1qJXTDSv0UEs1"
+      },
+      "artists": [
+        {
+          "name": "La Jvnta",
+          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "Me hicieron irme",
+      "url": "https://open.spotify.com/track/2AF5SmI8DYcgZSz4V94z23"
+    },
+    {
+      "album": {
         "name": "Me Importas Tu",
         "url": "https://open.spotify.com/album/6bB74NAXsw4E8hUv04lHqt"
       },
@@ -95044,7 +95116,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 277994,
       "name": "MONDO",
       "url": "https://open.spotify.com/track/046AzAFJie4u4V3WUnWWsF"
@@ -95708,6 +95780,24 @@
       "duration_ms": 105535,
       "name": "Mucho Humo en el Uber",
       "url": "https://open.spotify.com/track/1YrunaBYdFverrsmjZ0hGH"
+    },
+    {
+      "album": {
+        "name": "Mucho Mejor",
+        "url": "https://open.spotify.com/album/5N7R8A5TIozbThGlcjWax8"
+      },
+      "artists": [
+        {
+          "name": "PRENDA",
+          "url": "https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192399,
+      "name": "Mucho Mejor",
+      "url": "https://open.spotify.com/track/3UpRb0NrUiF9uV4nVDhCx5"
     },
     {
       "album": {
@@ -116193,6 +116283,24 @@
     },
     {
       "album": {
+        "name": "picapica",
+        "url": "https://open.spotify.com/album/0rt0bxMZPcZ4ViJiNbzIEb"
+      },
+      "artists": [
+        {
+          "name": "Tura Sala",
+          "url": "https://open.spotify.com/artist/6ToRxr9Rri0tJpgKO2a3Kc"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "picapica",
+      "url": "https://open.spotify.com/track/2lznEMeaRokkckjzzKk7uu"
+    },
+    {
+      "album": {
         "name": "picuda",
         "url": "https://open.spotify.com/album/2Ath1YOselSP2jgbrDmi1o"
       },
@@ -120042,7 +120150,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 188430,
       "name": "Prometo estar bien",
       "url": "https://open.spotify.com/track/08v7ftssqRDDI4bqH19AQR"
@@ -124916,6 +125024,24 @@
       "duration_ms": 286640,
       "name": "Rave entre las dunas",
       "url": "https://open.spotify.com/track/1PH7dVARQq7RKHtHcVxyfv"
+    },
+    {
+      "album": {
+        "name": "Rave F\u00e9nix",
+        "url": "https://open.spotify.com/album/5ITgUTlDnKDlRdbC34tmTv"
+      },
+      "artists": [
+        {
+          "name": "Agua de Madrid",
+          "url": "https://open.spotify.com/artist/11XbzasT70vQZUoUemJxfD"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Rave F\u00e9nix",
+      "url": "https://open.spotify.com/track/0QQcwyGZgjtDNvDmhf3M89"
     },
     {
       "album": {
@@ -135077,6 +135203,24 @@
     },
     {
       "album": {
+        "name": "Ska Fever",
+        "url": "https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB"
+      },
+      "artists": [
+        {
+          "name": "Salvar Do\u00f1ana",
+          "url": "https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Ska Fever",
+      "url": "https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70"
+    },
+    {
+      "album": {
         "name": "Skesso",
         "url": "https://open.spotify.com/album/1e8wKb4dfzmx31SjPz4fWL"
       },
@@ -142462,7 +142606,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 139354,
       "name": "TE VAS",
       "url": "https://open.spotify.com/track/59HtKFNfmChl74e9FfdYEi"
@@ -153917,6 +154061,24 @@
     },
     {
       "album": {
+        "name": "SALSA BRAVA THE MISSTAPE",
+        "url": "https://open.spotify.com/album/0Ef6w17DnRELSosjudfXD4"
+      },
+      "artists": [
+        {
+          "name": "BRAVA",
+          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157124,
+      "name": "UNTA LA SALSA",
+      "url": "https://open.spotify.com/track/4zgvVsLzqHgzKSYY48M2nn"
+    },
+    {
+      "album": {
         "name": "Uralita i amiant",
         "url": "https://open.spotify.com/album/1qCwNj3gPtaksvTAQHxV3B"
       },
@@ -154890,6 +155052,24 @@
       "duration_ms": 245109,
       "name": "Vas a Poder",
       "url": "https://open.spotify.com/track/6RMrxuHDtVQweuxpLTvtrs"
+    },
+    {
+      "album": {
+        "name": "Vas A Volverme A Matar",
+        "url": "https://open.spotify.com/album/4QfrkWa5bTD8MbpAAmHGos"
+      },
+      "artists": [
+        {
+          "name": "Que Te Jodan Pablo",
+          "url": "https://open.spotify.com/artist/7CYtSkXbTL5k5YjrXVmwoi"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157962,
+      "name": "Vas A Volverme A Matar",
+      "url": "https://open.spotify.com/track/7LL4wbnO6FcVmaXguVovUN"
     },
     {
       "album": {
@@ -161206,7 +161386,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 155789,
       "name": "YOUNG MONEY",
       "url": "https://open.spotify.com/track/39pmZUqWrjjUdP5JOnmojJ"

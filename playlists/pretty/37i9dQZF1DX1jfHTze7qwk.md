@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,517 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,524 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 49 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
 | 50 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
 
-Snapshot ID: `AAAAABOp/nWlu2PBOhNw4d0wIUWtIbBj`
+Snapshot ID: `AAAAAKgGFvi0+Q6CPwFrwKM+965uqdkk`

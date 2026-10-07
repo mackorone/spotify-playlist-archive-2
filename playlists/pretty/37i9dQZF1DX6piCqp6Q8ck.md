@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered](https://open.spotify.com/track/27icEh09mKhDVMcxgvu7cK) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:42 |
 | 70 | [Christmas Night In Harlem](https://open.spotify.com/track/332PGtU23efyGgyilfneG8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:39 |
 
-Snapshot ID: `AAAAAKhcfqLKbMjhGr/AQG4OlAVdHCtl`
+Snapshot ID: `AAAAALBs0WXgU3XSoMUdDWLOABCGgcz5`

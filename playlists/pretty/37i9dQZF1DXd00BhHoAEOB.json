@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 599833,
+  "num_followers": 599822,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXyKT2LQMrmJdX3k9qvmfMDCEBg",
+  "snapshot_id": "AAAAAIKumpqtG4aLp7A6Km3ia9RB5FaL",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-10-02 06:00:25",
       "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 224155,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS"
+    },
+    {
+      "added_at": "2026-10-02 06:00:25",
+      "album": {
         "name": "Volar",
         "url": "https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 236096,
       "name": "Volar",
       "url": "https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm"
-    },
-    {
-      "added_at": "2026-10-02 06:00:25",
-      "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 224155,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS"
     },
     {
       "added_at": "2026-10-02 06:00:25",
@@ -1667,8 +1667,8 @@
     {
       "added_at": "2026-10-02 06:00:25",
       "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv"
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
       },
       "artists": [
         {
@@ -1676,9 +1676,9 @@
           "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
         }
       ],
-      "duration_ms": 210735,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj"
+      "duration_ms": 166742,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2"
     },
     {
       "added_at": "2026-10-02 06:00:25",
@@ -1715,8 +1715,8 @@
     {
       "added_at": "2026-10-02 06:00:25",
       "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv"
       },
       "artists": [
         {
@@ -1724,9 +1724,9 @@
           "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
         }
       ],
-      "duration_ms": 166742,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2"
+      "duration_ms": 210735,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj"
     }
   ],
   "unique_name": "Bugambilias",

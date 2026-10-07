@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,921 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 41 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 |
 | 42 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
 | 43 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 44 | [FREAKED OUT](https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 2:38 |
-| 45 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 44 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 45 | [FREAKED OUT](https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 2:38 |
 | 46 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 |
 | 47 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
 | 48 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 99 | [Tumbao](https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44) | [Armando Calderón](https://open.spotify.com/artist/2FMAcV01llsAQTelJRXbns) | [Tumbao](https://open.spotify.com/album/4u0cGT9gxWZvrGyRqhTRyr) | 2:31 |
 | 100 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
 
-Snapshot ID: `AAAAAKvJEMY5R+B0LLZ3lcyWEjCPhmvW`
+Snapshot ID: `AAAAAMZAer13Qy1tjUSfKcVGORMhkaK9`

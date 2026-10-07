@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 228478,
+  "num_followers": 228499,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZNvVS6GclDK+ZOkqy/puTCDyDO",
+  "snapshot_id": "AAAAAPWRqIpNRubAY+l5UtCtn9lTlJxY",
   "tracks": [
     {
       "added_at": "2026-09-25 18:45:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Fly Me To The Moon",
-        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
+      "duration_ms": 200973,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -623,6 +607,22 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Even Closer",
         "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229693,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
         "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-09-25 18:45:46",
       "album": {
-        "name": "do i clench my fists?",
-        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
       "artists": [
         {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 153275,
-      "name": "do i clench my fists?",
-      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -1163,22 +1163,6 @@
       "duration_ms": 286040,
       "name": "(un)Folded",
       "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
-    },
-    {
-      "added_at": "2026-09-25 18:45:46",
-      "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2026-09-25 18:45:46",
@@ -1215,6 +1199,22 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
+    },
+    {
+      "added_at": "2026-09-25 18:45:46",
+      "album": {
+        "name": "do i clench my fists?",
+        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "duration_ms": 153275,
+      "name": "do i clench my fists?",
+      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
     },
     {
       "added_at": "2026-09-25 18:45:46",

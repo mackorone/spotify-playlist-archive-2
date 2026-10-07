@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,653 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,655 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 27 | [Hot Rod Lincoln](https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Rockabilly Gold Masters](https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ) | 2:45 |
 | 28 | [Jingle Jangle Jingle](https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:37 |
 | 29 | [The Shot\-Gun Boogie](https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 2:35 |
-| 30 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 |
-| 31 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
+| 30 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
+| 31 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 |
 | 32 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
-| 33 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
-| 34 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
-| 35 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
-| 36 | [Bouquet of Roses](https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:32 |
+| 33 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
+| 34 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
+| 35 | [Bouquet of Roses](https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:32 |
+| 36 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
 | 37 | [Canned Heat \- Buddha Remastered \- 2000](https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE) | [Chet Atkins & His Colorado Mountain Boys](https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1) | [Guitar Legend: The RCA Years](https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0) | 2:32 |
 | 38 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |
 | 39 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Move It On Over](https://open.spotify.com/track/5tQwMi9LK7kkS9GgkF35nJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 | 70 | [Filipino Baby](https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Filipino Baby](https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb) | 2:46 |
 
-Snapshot ID: `AAAAAIiUaJ4yH6bntS2ltYaluqX1MOnZ`
+Snapshot ID: `AAAAAOoTrVAUOJWVjtNOUCBdbzKEY/GA`

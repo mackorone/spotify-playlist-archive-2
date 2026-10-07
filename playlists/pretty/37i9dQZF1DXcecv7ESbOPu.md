@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Fanny Avonne, Norlie & KKV och Yasin med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,485 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,475 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [Babydoll](https://open.spotify.com/track/3nLF5E2OgEX8PqeO57b9If) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [Babydoll](https://open.spotify.com/album/3MWfPHGn3Y2GAopqiBu9Dv) | 3:41 |
 | 100 | [Madonna](https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg) | [Maisi and the Disco](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [Madonna](https://open.spotify.com/album/2LXqQyS3IfDQ08lgsspmP4) | 2:45 |
 
-Snapshot ID: `AAAAAL497WxcBEUF2EMDQpXEWTYgvi4Q`
+Snapshot ID: `AAAAAFqQx4306kMZKHnpC7HFM/ekBemo`

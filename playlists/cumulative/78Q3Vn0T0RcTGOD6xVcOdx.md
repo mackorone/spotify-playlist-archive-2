@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-355 songs - 20 hr 46 min
+356 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Por ti](https://open.spotify.com/track/4y7qa2yn7UD1hf3QedxMze) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Por ti](https://open.spotify.com/album/2kCjN8HWmSoI5GrYdPKcgC) | 3:15 | 2025-05-13 | 2026-04-06 |
 | [Portal Traveler](https://open.spotify.com/track/2htEbm1p3F4CUVgCascU5A) | [Giosser](https://open.spotify.com/artist/3d5kZ0HJ1XlqKMtUaij9YC) | [Portal Traveler](https://open.spotify.com/album/1VijuGaXuYxmkUhwChmy88) | 4:20 | 2025-07-21 | 2026-04-06 |
 | [Postales Rotas](https://open.spotify.com/track/3syFkr41xMQ1L0x422ZTzH) | [Bautista Stocchi](https://open.spotify.com/artist/2AxLb5luLJ38OVyBrh24VN), [Manena Duel](https://open.spotify.com/artist/0xTjgMdSazGzYwhu6WCQft), [Nicotina](https://open.spotify.com/artist/6ZINtnudwbvm4YJfyc4d24) | [Humo](https://open.spotify.com/album/6N89nT1jqqUcwXanNtolv6) | 3:08 | 2025-08-20 | 2026-04-06 |
+| [Presença](https://open.spotify.com/track/6NfoaNC3F12ucmVtiLoDV2) | [Moacir Sader](https://open.spotify.com/artist/4XnU7oi3AKqJwOrFY0Cd6w) | [Presença](https://open.spotify.com/album/5202vgV2cGnn2Ih8xcxt89) | 4:56 | 2026-10-06 |  |
 | [Prohibido](https://open.spotify.com/track/63eGxmuAVpzfeeHCW3jd7o) | [Dooa](https://open.spotify.com/artist/6k02XKBlGAhdnMaFZE9jBj) | [Prohibido](https://open.spotify.com/album/70cpQRcnqDyK2vLq8MJBGN) | 2:56 | 2025-04-02 | 2026-04-06 |
 | [Psycho Mi Amor](https://open.spotify.com/track/0iXOH4bdAbpok6olSnmIan) | [Gisella Engel](https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1) | [Psycho Mi Amor](https://open.spotify.com/album/1dt4tzdeBZ9jw8zC2h4p7x) | 6:38 | 2026-06-13 |  |
 | [Puppy Love](https://open.spotify.com/track/5D672ryBKNtr8h9Jy1PNIf) | [CypherWav](https://open.spotify.com/artist/0gXfujbeV17M5aX4SAckzO) | [Honey Dreamscape](https://open.spotify.com/album/39S7eLEInacdw9H1pidkBu) | 3:59 | 2025-02-01 | 2026-06-12 |

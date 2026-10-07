@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Clyde Crooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,159 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,196 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 101 | [Saint Loreto](https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [Saint Loreto](https://open.spotify.com/album/5hXcv9dclv6JAUmTmcha0W) | 3:03 |
 
-Snapshot ID: `AAAAAP/nNCcMq6/oagyAZFL3FP1kyAkO`
+Snapshot ID: `AAAAAGMBoi60qkF8WKt38ceVR5XsVX3q`

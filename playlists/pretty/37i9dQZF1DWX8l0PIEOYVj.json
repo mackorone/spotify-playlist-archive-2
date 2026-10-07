@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring Andrew Bayer",
-  "num_followers": 473873,
+  "num_followers": 473864,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFYFNMQfULkfpBhZXPt1NyLi8ZEV",
+  "snapshot_id": "AAAAAEmK78fZmEKzvcfH1OW4RBFcmYZC",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Icarus & I",
+        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 210567,
+      "name": "Beautiful Unknown",
+      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/7jdmw56fXUz5RHyVHXZ6X4"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 285000,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/5zJWZLWlChbh820KLmMPIF"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Icarus & I",
-        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 210567,
-      "name": "Beautiful Unknown",
-      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "PART I - EXODUS",
-        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Megan Ashworth",
-          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
-        }
-      ],
-      "duration_ms": 214096,
-      "name": "Colder",
-      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 237696,
       "name": "Your Imagination",
       "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "PART I - EXODUS",
+        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Megan Ashworth",
+          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
+        }
+      ],
+      "duration_ms": 214096,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2319,6 +2319,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Shark (ILLENIUM 2014 Remix)",
+        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Shark - ILLENIUM 2014 Remix",
+      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
       },
@@ -2343,26 +2363,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Shark (ILLENIUM 2014 Remix)",
-        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Shark - ILLENIUM 2014 Remix",
-      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0vf786GQAdrGGHxbw4ohZg"
       },
@@ -2383,6 +2383,26 @@
       "duration_ms": 176086,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2e3dBn6jKVP2AGAG74mh6c"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "Who Am I Now",
+        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Who Am I Now",
+      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2415,26 +2435,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Here's To Hope",
         "url": "https://open.spotify.com/album/3OKG40YRnB3mpXBoLRRZqj"
       },
@@ -2459,22 +2459,22 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Who Am I Now",
-        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
       },
       "artists": [
         {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
         },
         {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Who Am I Now",
-      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+      "duration_ms": 206047,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2543,26 +2543,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "End of the Universe",
-        "url": "https://open.spotify.com/album/6sHp3WiM6GvWx1sTrl2bxb"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 241256,
-      "name": "breathe",
-      "url": "https://open.spotify.com/track/07qhhvivk6KSl1zi0lw2hH"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "VOLPETRON ASCENDS EP",
         "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
       },
@@ -2579,6 +2559,26 @@
       "duration_ms": 187034,
       "name": "IT ISN'T ME",
       "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "End of the Universe",
+        "url": "https://open.spotify.com/album/6sHp3WiM6GvWx1sTrl2bxb"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 241256,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/07qhhvivk6KSl1zi0lw2hH"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ary kemler",
+          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9"
       },
@@ -2655,22 +2675,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Ready Now",
-        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
+        "name": "Made For",
+        "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
       "artists": [
         {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
         },
         {
-          "name": "ary kemler",
-          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 201931,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
+      "duration_ms": 200869,
+      "name": "Made For",
+      "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2711,46 +2735,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Made For",
-        "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Made For",
-      "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Waiting On This Day Forever",
         "url": "https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1"
       },
@@ -2775,22 +2759,18 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/6dKMXL0sNKY71m2JqnbH0v"
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "JIM",
-          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Curtain Call",
-      "url": "https://open.spotify.com/track/7bwErxWaQkAHbFfFJFJ8QV"
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2815,6 +2795,26 @@
       "duration_ms": 224000,
       "name": "Walk to the Sun",
       "url": "https://open.spotify.com/track/6km8dVIGHsi9tUpZKLTRZl"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/6dKMXL0sNKY71m2JqnbH0v"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/7bwErxWaQkAHbFfFJFJ8QV"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2855,6 +2855,22 @@
       "duration_ms": 218482,
       "name": "Begin Again (feat. Mokita)",
       "url": "https://open.spotify.com/track/4W7h2WuFuCPDXey0LclFM1"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+      },
+      "artists": [
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2903,22 +2919,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Always You",
-        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
-      },
-      "artists": [
-        {
-          "name": "Monika Santucci",
-          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Have My Heart",
         "url": "https://open.spotify.com/album/1e5tRNrGZCUmKyXgf9AIqt"
       },
@@ -2951,30 +2951,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Trust Fall",
-        "url": "https://open.spotify.com/album/2266P3Bfcr0RykZX5IW0RW"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Gayle Fuller",
-          "url": "https://open.spotify.com/artist/4iP37Oyg0YYGHESTITvjnU"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Trust Fall",
-      "url": "https://open.spotify.com/track/7A37RU1vEaC09ZPUS649j2"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "My Home",
         "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
       },
@@ -2995,22 +2971,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+        "name": "Trust Fall",
+        "url": "https://open.spotify.com/album/2266P3Bfcr0RykZX5IW0RW"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         },
         {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Gayle Fuller",
+          "url": "https://open.spotify.com/artist/4iP37Oyg0YYGHESTITvjnU"
         }
       ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+      "duration_ms": 247384,
+      "name": "Trust Fall",
+      "url": "https://open.spotify.com/track/7A37RU1vEaC09ZPUS649j2"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -3039,6 +3019,26 @@
       "duration_ms": 193655,
       "name": "Not Enough - SLICK x 808GONG Remix",
       "url": "https://open.spotify.com/track/0DF9kBDai7faBp2jBVDjyL"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+        }
+      ],
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -3087,6 +3087,22 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "I Don't Want Anyone",
+        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "I Don't Want Anyone",
+      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Places We Know",
         "url": "https://open.spotify.com/album/59AAwi8qUIPLOJuQnTKh6z"
       },
@@ -3103,22 +3119,6 @@
       "duration_ms": 187058,
       "name": "Places We Know",
       "url": "https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "I Don't Want Anyone",
-        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "I Don't Want Anyone",
-      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
     },
     {
       "added_at": "2026-09-25 04:02:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Judith, La Mano 1.9, Suzan & Freek, Angèle, x Caroline Polachek, SebastiAn and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,148 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,143 likes - 124 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 123 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 124 | [Why Don’t You Say So \(feat\. Avery Anna\)](https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Friends That I Don't Like](https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF) | 3:26 |
 
-Snapshot ID: `AAAAAPgoz03jBJMwH5i6wdNWChJkQ5Vj`
+Snapshot ID: `AAAAANfOKb60Bd9hqD8wm2QUR+wm7m4Q`

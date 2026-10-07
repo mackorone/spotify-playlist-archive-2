@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,214 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,208 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 20 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |
 | 21 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
 | 22 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
-| 23 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
-| 24 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
+| 23 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
+| 24 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
 | 25 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 | 26 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
 | 27 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 50 | [TOW](https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Forgive To Forget](https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27) | 3:08 |
 | 51 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
 | 52 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
-| 53 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
-| 54 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
-| 55 | [Kissing Underwater](https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Kissing Underwater](https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK) | 2:39 |
+| 53 | [Kissing Underwater](https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Kissing Underwater](https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK) | 2:39 |
+| 54 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
+| 55 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 56 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 57 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 |
 | 58 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Heaven](https://open.spotify.com/track/5CadVyJeeehuMNhESZxvvM) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Heaven](https://open.spotify.com/album/5eJI0nLtSgzMjrg1ENvM1G) | 3:03 |
 | 100 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 
-Snapshot ID: `AAAAACg8G1zxwYAlbr4wlpq9YC6zCUKK`
+Snapshot ID: `AAAAAJ/86QltNTurapsfGnokxkDYJtHO`

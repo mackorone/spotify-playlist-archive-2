@@ -152,13 +152,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 142 | [Shoot Me Down](https://open.spotify.com/track/2umo57mtmQOEoCza8OncR0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:38 |
 | 143 | [Again](https://open.spotify.com/track/6YrH2Gv2iksIYbAhLcr0NB) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:36 |
 | 144 | [Loving Me Lover](https://open.spotify.com/track/6H7liIg8Yo2Nm5vKJ51hYo) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 3:24 |
-| 145 | [Young Strangers](https://open.spotify.com/track/1ZuNRSgHxHBJThsj54D915) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:22 |
-| 146 | [Concrete](https://open.spotify.com/track/2YzOZVISn7UPohH8Ius1ah) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:49 |
+| 145 | [Concrete](https://open.spotify.com/track/2YzOZVISn7UPohH8Ius1ah) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:49 |
+| 146 | [Young Strangers](https://open.spotify.com/track/1ZuNRSgHxHBJThsj54D915) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:22 |
 | 147 | [All I Got Is You](https://open.spotify.com/track/5LdqOr1f7cq7EZOfs2UqsG) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:44 |
 | 148 | [Little Things](https://open.spotify.com/track/5PcUoMGPDNSmYzLYrt0yqu) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:14 |
 | 149 | [Still Young](https://open.spotify.com/track/5qGPBJkL6moL7wr9ET1Q7k) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:21 |
-| 150 | [Robot Love](https://open.spotify.com/track/7FPrSOO1S9OzVNS4OS25Rs) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB) | 3:27 |
-| 151 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
+| 150 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
+| 151 | [Robot Love](https://open.spotify.com/track/7FPrSOO1S9OzVNS4OS25Rs) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB) | 3:27 |
 | 152 | [Wash Me In The Water](https://open.spotify.com/track/2qtZj7T7nYixKbVvPInwvy) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:33 |
 | 153 | [In My Way](https://open.spotify.com/track/4Vzu7HaiibAZ8HoaO8NwR1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Blood To Bone](https://open.spotify.com/album/3dtekEn6Y5SpEDO4sy1d1o) | 3:29 |
 | 154 | [Tonight](https://open.spotify.com/track/2buSpYnNhpHW83Nk1X0cK5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Forget Who You Are](https://open.spotify.com/album/6Kw1xFI4YeiB1dzrWhZS9U) | 2:59 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 170 | [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 |
 | 171 | [Numb](https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS) | [Kimberly Anne](https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq) | [From the Trauma Care Unit](https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv) | 3:23 |
 
-Snapshot ID: `AceKygAAAAB/8ejpV1lLUelI0M8KTVXB`
+Snapshot ID: `AceQLgAAAAC7K8rp/7mQa8B2l95lFAAb`

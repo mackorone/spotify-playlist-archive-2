@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 117333,
+  "num_followers": 117340,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8EkKLyjsGJgnmCAVlJzD/FiJsY",
+  "snapshot_id": "AAAAAKk3QVcUxqP3ZMeO/VkRQy9z8pPg",
   "tracks": [
     {
       "added_at": "2026-10-01 14:18:19",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "\u00a1Vaya Full!",
         "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 134920,
       "name": "Loko Kuerdo",
       "url": "https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
-      },
-      "artists": [
-        {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
+      },
+      "artists": [
+        {
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/4XHaklNF38ZoNVaJ7AL1YT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 158437,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/5nKVeHvxJqylDBJBHBQy0C"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "ANTIFASCISTA",
-        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
         }
       ],
-      "duration_ms": 273052,
-      "name": "ANTIFASCISTA",
-      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+        "name": "ANTIFASCISTA",
+        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
         }
       ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+      "duration_ms": 273052,
+      "name": "ANTIFASCISTA",
+      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L"
     },
     {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "Ya No Me Divierto",
-        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Ya No Me Divierto",
-      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
-    },
-    {
       "added_at": "2026-10-02 08:32:57",
       "album": {
         "name": "Luigi",
@@ -971,6 +955,22 @@
       "duration_ms": 157337,
       "name": "Luigi",
       "url": "https://open.spotify.com/track/41kXkdEBkaOlZ9KSSSWDfw"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Ya No Me Divierto",
+        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Ya No Me Divierto",
+      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Nunca He Visto el Mar",
-        "url": "https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 250770,
-      "name": "Nunca He Visto el Mar",
-      "url": "https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Sin Perd\u00f3n",
         "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 190980,
       "name": "Sin Perd\u00f3n",
       "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Nunca He Visto el Mar",
+        "url": "https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 250770,
+      "name": "Nunca He Visto el Mar",
+      "url": "https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "S\u00edndrome de Trinchera",
-        "url": "https://open.spotify.com/album/2VdR7bHFYYDmmr4Ch7KBbN"
-      },
-      "artists": [
-        {
-          "name": "Bardeo",
-          "url": "https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "S\u00edndrome de Trinchera",
-      "url": "https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "La Casika No Se Toca",
         "url": "https://open.spotify.com/album/2lnu8Fk62iWRmzTjURUdPO"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 91919,
       "name": "La Casika No Se Toca",
       "url": "https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "S\u00edndrome de Trinchera",
+        "url": "https://open.spotify.com/album/2VdR7bHFYYDmmr4Ch7KBbN"
+      },
+      "artists": [
+        {
+          "name": "Bardeo",
+          "url": "https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "S\u00edndrome de Trinchera",
+      "url": "https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1215,22 +1199,6 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1251,6 +1219,38 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 186000,
       "name": "Salve",
       "url": "https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -1315,6 +1299,22 @@
       "duration_ms": 194192,
       "name": "El Mes\u00edas",
       "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-10-01 14:18:19",

@@ -1,6 +1,6 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1230169,
+  "num_followers": 1230206,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Autumn Leaves - Remastered 1999",
+      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 211800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/441B5anVFUoLytPQ7BHtAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Are You? (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Autumn Leaves - Remastered 1999",
-      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Swing With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "I Love You - Remastered",
+      "url": "https://open.spotify.com/track/4w9dZ5cMKPsL6zXqBBz1JQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Seventeen Number Ones",
         "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
       },
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Swing With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR"
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
       "artists": [
         {
@@ -744,25 +760,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 148293,
-      "name": "I Love You - Remastered",
-      "url": "https://open.spotify.com/track/4w9dZ5cMKPsL6zXqBBz1JQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Night And Day - Remastered 1998",
-      "url": "https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j"
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Night And Day - Remastered 1998",
+      "url": "https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra \u201965",
         "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 188066,
       "name": "My Kind Of Town",
       "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,

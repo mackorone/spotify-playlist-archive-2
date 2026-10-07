@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,945 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,014 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 33 | [Sita Kalyanam](https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK) | [Renuka Arun](https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv), [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Solo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4) | 4:32 |
 | 34 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P S Jayhari](https://open.spotify.com/artist/2G1EstqVdKjJfk7G58S9DC), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 |
 | 35 | [Etho Mazhayil](https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Prince George](https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0) | [Vijay Superum Pournamiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V) | 3:38 |
-| 36 | [Alare](https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [Ayraan](https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Alare \(From "Member Rameshan 9aam Ward"\)](https://open.spotify.com/album/3r2555dO9qhGphE183VtFU) | 4:21 |
+| 36 | [Alare](https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [Ayraan](https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P), [Shabareesh Varma](https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki) | [Alare \(From "Member Rameshan 9aam Ward"\)](https://open.spotify.com/album/3r2555dO9qhGphE183VtFU) | 4:21 |
 | 37 | [Parudeesa \- From "Bheeshma Parvam"](https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [Parudeesa \(From "Bheeshma Parvam"\)](https://open.spotify.com/album/3GyGzZ9smF8HkYLNtb2U0w) | 4:03 |
 | 38 | [Kannil Kannil \(From "Sita Ramam \(Malayalam\)"\)](https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kannil Kannil \[From "Sita Ramam \(Malayalam\)"\]](https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd) | 3:52 |
 | 39 | [Sakhiyeee \- From "Thrissur Pooram"](https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Ratheesh Vega](https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl) | [Sakhiyeee \(From "Thrissur Pooram"\)](https://open.spotify.com/album/3p3Uxg1wnnEjzZTmfRWz0D) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 
-Snapshot ID: `AAAAAA3Jm3yHxLVra3oDNnW2OytRyxFK`
+Snapshot ID: `AAAAAKwPjcdK9zPI5K+Pql5aHVAA+So/`

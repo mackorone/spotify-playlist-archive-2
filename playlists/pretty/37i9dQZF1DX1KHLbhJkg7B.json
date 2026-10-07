@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwGRT9plfAukbUTQMm6vCho1Ozi",
+  "snapshot_id": "AAAAACwbZZvKWd+rBNLExJlAwmQeImjX",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:49",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-10-02 04:02:49",
       "album": {
+        "name": "There\u2019s Your Trouble - Spotify Singles",
+        "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:49",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2026-10-02 04:02:49",
       "album": {
-        "name": "There\u2019s Your Trouble - Spotify Singles",
-        "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 191949,
-      "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
-      "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:49",
-      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
+    },
+    {
+      "added_at": "2026-10-02 04:02:49",
+      "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-10-02 04:02:49",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2026-10-02 04:02:49",
       "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-10-02 04:02:49",
@@ -1539,22 +1555,6 @@
       "duration_ms": 157880,
       "name": "Only Daddy That'll Walk The Line",
       "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:49",
-      "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-10-02 04:02:49",

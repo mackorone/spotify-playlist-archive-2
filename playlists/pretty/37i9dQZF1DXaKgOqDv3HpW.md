@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,853 likes - 185 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,850 likes - 185 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 184 | [Serenity](https://open.spotify.com/track/53vCD2lfsCIfZIpyIGi6XN) | [Sonovia](https://open.spotify.com/artist/2nVjmcJg8X9fvKtbkJRXts) | [Serenity](https://open.spotify.com/album/4KykM9UREqz6WuMIZq6J3p) | 2:55 |
 | 185 | [Breathing Slowly](https://open.spotify.com/track/65A8hcuz4CWjLdMc81xbc3) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Breathing Slowly](https://open.spotify.com/album/0ocnCItaPBYLY33QqMQW95) | 2:44 |
 
-Snapshot ID: `AAAAAGnuTte/3ZVFglmQUEbHAj6r4gDr`
+Snapshot ID: `AAAAAPY3vsMUjpByelJI/0F0Wx5kQvjj`

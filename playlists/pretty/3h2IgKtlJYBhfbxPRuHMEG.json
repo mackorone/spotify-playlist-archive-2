@@ -6,8 +6,24 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAFC2wojH26ZiaamtbcFV+BO3Iz/K0s",
+  "snapshot_id": "AAAFDcWl9xL9ZYpc8bs+OS1Bjfip6N63",
   "tracks": [
+    {
+      "added_at": "2026-10-06 15:51:34",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/33OIvCtt4T2uisA9vkMAtX"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/74jUGc8wu6oiBrMqhqDQ3b"
+    },
     {
       "added_at": "2026-07-03 05:10:01",
       "album": {

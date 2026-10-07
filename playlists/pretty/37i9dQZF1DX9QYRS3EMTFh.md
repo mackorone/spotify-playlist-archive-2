@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Le Jèm'ss
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,289 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,294 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [WAP WAP](https://open.spotify.com/track/1mBZFAPrnuhYI5UqGZBFsi) | [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [WAP WAP](https://open.spotify.com/album/6xZNlL2Sv2fMw87lYxy2JS) | 2:49 |
 | 50 | [MOOD](https://open.spotify.com/track/0l2q130SGIW7uZncJmrbdc) | [Alvin Brown Beats](https://open.spotify.com/artist/06YsgAfOVUoiazGBN7eYfZ), [LK97](https://open.spotify.com/artist/0b3zcbh6PE2nQ7qmd9Lx1Z) | [MOOD](https://open.spotify.com/album/0gc2uOCnBUCz3XHiKH76g1) | 2:08 |
 
-Snapshot ID: `AAAAAIwj8FXGHnrKCGcUXZOcaaJkHjpf`
+Snapshot ID: `AAAAAM6AhR1KMm/JJCy2kdFeYrs64xLU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Oct 7th \(Wed\), 8th \(Thu\) @ Goyang Stadium, Gyeonggi\-do
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,961 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,123 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 39 | [House Of Balloons / Glass Table Girls](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 6:47 |
 | 40 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 |
 
-Snapshot ID: `AAAAAEKfkZ6+SIHgwtSMEU9YI7038Vc8`
+Snapshot ID: `AAAAAM9weu9ADkuirMZxIsMWT+ME6yPD`

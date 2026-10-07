@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belik Bellak",
         "url": "https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 163124,
       "name": "Belik Bellak",
       "url": "https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
+        "name": "No Fuimos",
+        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 158653,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
+      "duration_ms": 166346,
+      "name": "No Fuimos",
+      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fuimos",
-        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 166346,
-      "name": "No Fuimos",
-      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
+      "duration_ms": 158653,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Suena con Tequila",
-        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 164272,
-      "name": "El que Quiero que Me Quiera",
-      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+      "duration_ms": 193223,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
+        "name": "Asi Suena con Tequila",
+        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193223,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
+      "duration_ms": 164272,
+      "name": "El que Quiero que Me Quiera",
+      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cigarra",
         "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 241726,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
     },
     {
       "added_at": null,
@@ -612,25 +612,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Acab\u00f3",
-        "url": "https://open.spotify.com/album/54PHqFPXNjmvnoGKsuN6r8"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 182122,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/7ebYaUMVJCLVtD4SB16Mum"
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d3diame (En Vivo)",
-        "url": "https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw"
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/54PHqFPXNjmvnoGKsuN6r8"
       },
       "artists": [
         {
@@ -660,25 +644,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199816,
-      "name": "\u00d3diame - En Vivo",
-      "url": "https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+      "duration_ms": 182122,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/7ebYaUMVJCLVtD4SB16Mum"
     },
     {
       "added_at": null,
@@ -695,6 +663,38 @@
       "duration_ms": 192818,
       "name": "Sentimientos de Cart\u00f3n",
       "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah\u00ed Va la Loca",
+        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Ah\u00ed Va la Loca",
+      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Va la Loca",
-        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
+        "name": "\u00d3diame (En Vivo)",
+        "url": "https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw"
       },
       "artists": [
         {
@@ -740,9 +740,41 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
+      "duration_ms": 199816,
+      "name": "\u00d3diame - En Vivo",
+      "url": "https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00f3nde Est\u00e1n?",
+        "url": "https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 253147,
+      "name": "D\u00f3nde Est\u00e1n?",
+      "url": "https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E"
     },
     {
       "added_at": null,
@@ -767,74 +799,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00f3nde Est\u00e1n?",
-        "url": "https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 253147,
-      "name": "D\u00f3nde Est\u00e1n?",
-      "url": "https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         },
         {
-          "name": "Jr Salazar",
-          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 247737,
-      "name": "Fuiste T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+      "duration_ms": 214801,
+      "name": "Le\u00f1a de Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Tijuana",
-        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 230230,
-      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
-      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+      "duration_ms": 214954,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

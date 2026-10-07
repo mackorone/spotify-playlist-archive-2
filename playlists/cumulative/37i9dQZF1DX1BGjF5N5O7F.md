@@ -4,7 +4,7 @@
 
 > emotionally destroyed by yet another hockey show
 
-255 songs - 16 hr 40 min
+259 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-11-21 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2025-08-25 | 2026-01-15 |
 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 | 2025-08-25 |  |
+| [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 | 2026-10-06 |  |
 | [Back To You](https://open.spotify.com/track/47rCs1JJXC6AG20WKbyOUR) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:35 | 2025-11-21 |  |
 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2026-01-13 |  |
 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-03-19 | 2022-07-29 |
@@ -51,6 +52,7 @@
 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 | 2023-02-01 | 2025-08-26 |
 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 | 2026-08-13 |  |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2025-08-25 |  |
+| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2026-10-06 |  |
 | [Courage](https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:38 | 2025-08-25 |  |
 | [Craving](https://open.spotify.com/track/1JFIggpK5qun8s9gcHvWn9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 2:43 | 2023-09-15 | 2024-01-20 |
 | [Craving](https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 2:43 | 2021-03-19 | 2023-12-09 |
@@ -118,6 +120,7 @@
 | [letting go](https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:26 | 2024-02-09 | 2024-04-19 |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2021-03-19 | 2022-07-29 |
 | [Light a Fire](https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:27 | 2021-03-19 | 2025-08-26 |
+| [Linger](https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 4:34 | 2026-10-06 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2025-08-25 |  |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-03-19 | 2024-09-09 |
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2021-03-19 | 2022-07-29 |
@@ -240,6 +243,7 @@
 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/0zM2a9OW0acD4xQvde2ckO) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Ur Name on a Grain of Rice](https://open.spotify.com/album/2auqUxYuvoz4ptxv7Y8imI) | 5:01 | 2025-08-25 |  |
 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 | 2021-03-19 | 2025-08-26 |
 | [Vampire Empire](https://open.spotify.com/track/4SwSpxsOYtnEaRxWtYrnvZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:12 | 2025-08-25 |  |
+| [Velvet Ring](https://open.spotify.com/track/7qshYIOUFQAGgYfWXg1m9N) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 2:35 | 2026-10-06 |  |
 | [Visions of Gideon](https://open.spotify.com/track/5c9qm0bMYawSyRNUTmUMs5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:07 | 2025-08-25 |  |
 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 | 2021-03-19 | 2025-08-26 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2025-08-25 |  |

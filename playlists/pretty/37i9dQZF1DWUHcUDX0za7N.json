@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Txmmyily",
-  "num_followers": 86548,
+  "num_followers": 86557,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoWG9/bYHEu51/LPki84uoj1D8K",
+  "snapshot_id": "AAAAAJhzRCW25gaL7jzZkgSh8oLSn5Hw",
   "tracks": [
     {
       "added_at": "2026-10-02 08:09:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
         "name": "Different Wave",
         "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 195963,
       "name": "Different Wave",
       "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -679,6 +659,22 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -699,6 +695,26 @@
       "duration_ms": 135724,
       "name": "I Knoww II",
       "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
         "name": "Abefe (Begged To Be Loved)",
         "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 147692,
       "name": "Wuse Tu",
       "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
         "name": "Gaou la (feat. 6uff)",
         "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 113206,
       "name": "Bere Mole",
       "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
-        "name": "Uzo Ano",
-        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Uzo Ano",
-      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -951,6 +931,26 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
+        "name": "Uzo Ano",
+        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Uzo Ano",
+      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -999,26 +1019,6 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
         "name": "By Now",
         "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -1079,18 +1095,38 @@
     {
       "added_at": "2026-10-02 08:09:00",
       "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 158181,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+      "duration_ms": 187530,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
+    },
+    {
+      "added_at": "2026-10-02 08:09:00",
+      "album": {
+        "name": "Promise Land",
+        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
+      },
+      "artists": [
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 252903,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -1115,26 +1151,6 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
-        "name": "Promise Land",
-        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
-      },
-      "artists": [
-        {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 252903,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"
     },
     {
       "added_at": "2026-10-02 08:09:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 140527,
       "name": "SHAOLIN",
       "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2026-10-02 08:09:00",
-      "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 187530,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
     },
     {
       "added_at": "2026-10-02 08:09:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Pomme.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,323 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,321 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 | 50 | [DANS LE LOINTAIN DE TA VOIX](https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [DANS LE LOINTAIN DE TA VOIX,](https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF) | 4:45 |
 
-Snapshot ID: `AAAAAEOH9isKR19oeuZf6eo0jcUnTjoX`
+Snapshot ID: `AAAAACvVoc4qKAmNJwI1kv/oJEBk9WZZ`

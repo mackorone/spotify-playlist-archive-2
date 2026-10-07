@@ -1,12 +1,12 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2323754,
+  "num_followers": 2324261,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9si6HQQOLSuL79TrkE+JXA4SqU",
+  "snapshot_id": "AAAAAEK2VzrngGtMxwq50OEcSHojkUf3",
   "tracks": [
     {
       "added_at": "2026-07-16 22:35:35",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Southtown",
-      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246040,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Southtown",
+      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 215133,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-07-16 22:35:35",

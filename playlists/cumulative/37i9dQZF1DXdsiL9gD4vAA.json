@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 288157,
       "name": "Ab Ke Tajdeed",
       "url": "https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG"
@@ -4420,6 +4420,32 @@
       "duration_ms": 430108,
       "name": "Tumne Jo Kuchh Kaha",
       "url": "https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ"
+    },
+    {
+      "album": {
+        "name": "Unke Dil Ke",
+        "url": "https://open.spotify.com/album/7jjhPx2wtozD8rDtB0fwtT"
+      },
+      "artists": [
+        {
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320962,
+      "name": "Unke Dil Ke",
+      "url": "https://open.spotify.com/track/4wCx07hTmFlWMFkbf4U8Y3"
     },
     {
       "album": {

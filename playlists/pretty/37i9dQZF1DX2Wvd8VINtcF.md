@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Fine✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,612 likes - 200 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,611 likes - 200 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 199 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 |
 | 200 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
 
-Snapshot ID: `AAAAANpOBXnV9nB3Sp3UqPRjzsccjmml`
+Snapshot ID: `AAAAAK2LRCpx+QzyTNUgmlm/i+K4gK1g`

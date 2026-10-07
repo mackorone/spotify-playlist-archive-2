@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,204 likes - 81 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,275 likes - 81 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 80 | [741 Hz Inner Guidance](https://open.spotify.com/track/5FCbyMFGvCZAxDHR64srfQ) | [Moguil](https://open.spotify.com/artist/2x7loRWVhZ9oh73l1TuFWq) | [741 Hz Inner Guidance](https://open.spotify.com/album/0fGFAouxgDpRwrhKN9FvSX) | 3:00 |
 | 81 | [Purificación 741Hz](https://open.spotify.com/track/2BilmsN8LT4rzo1iuSMnzN) | [Svara Mandala](https://open.spotify.com/artist/6zmP8t7JV87fKWNXIEpBoI) | [Purificación 741Hz](https://open.spotify.com/album/3f0amhQe67ssiwpb4Ynmp7) | 3:00 |
 
-Snapshot ID: `AAAAAGHarKYr5sbQdrma4/mI0OKzaZOD`
+Snapshot ID: `AAAAAEZ0EHMOEmMvjbXvnMLASEPwW8Is`

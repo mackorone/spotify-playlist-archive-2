@@ -1,12 +1,12 @@
 {
   "description": "Double-jump into these legendary video game soundtracks, featuring old favorites and new classics.",
-  "num_followers": 747106,
+  "num_followers": 747157,
   "original_name": "Video Game Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtSvQ6xGxCTGcDre2eIXdE5wbtG",
+  "snapshot_id": "AAAAAC32cZJmmNM+tw6wzHCQS0Ff9yME",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:57",
@@ -622,6 +622,10 @@
         {
           "name": "Christopher Tin",
           "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        },
+        {
+          "name": "Sid Meier's Civilization",
+          "url": "https://open.spotify.com/artist/4jsiQseYrJYcPYMhjjSI3o"
         }
       ],
       "duration_ms": 290626,

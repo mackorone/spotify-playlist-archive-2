@@ -1,12 +1,12 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6241,
+  "num_followers": 6244,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJum8RmG5qr2KvkO53rkw+nwtyqL",
+  "snapshot_id": "AAAAANByuilLmS7mc61NtH8k5bhtVJAb",
   "tracks": [
     {
       "added_at": "2025-03-14 16:55:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Hits (Remastered)",
-        "url": "https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J"
-      },
-      "artists": [
-        {
-          "name": "Peter, Sue & Marc",
-          "url": "https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Djambo Djambo",
-      "url": "https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Collection: Sergio Endrigo",
         "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 190080,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Golden Hits (Remastered)",
+        "url": "https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J"
+      },
+      "artists": [
+        {
+          "name": "Peter, Sue & Marc",
+          "url": "https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Djambo Djambo",
+      "url": "https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
-      },
-      "artists": [
-        {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Reeling In The Decades",
         "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173013,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+      },
+      "artists": [
+        {
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
     },
     {
       "added_at": "2025-03-14 16:55:23",

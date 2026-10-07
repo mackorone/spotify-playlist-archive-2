@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 628142,
+  "num_followers": 628140,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKb8eao9PYkFU1oXIVl0bqSD5Woo",
+  "snapshot_id": "AAAAAEiwkZRqXrL/F+jrIZPobvbYhG74",
   "tracks": [
     {
       "added_at": "2024-07-05 20:58:56",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 297103,
-      "name": "Orange Juice",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 215341,
+      "name": "The View Between Villages",
+      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 215341,
-      "name": "The View Between Villages",
-      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 270892,
       "name": "Salt And The Sea",
       "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171746,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 323093,
       "name": "The Love Still Held Me Near",
       "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
         "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 256352,
       "name": "Santa Ana Winds",
       "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2024-07-05 20:58:56",

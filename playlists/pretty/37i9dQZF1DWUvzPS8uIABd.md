@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,780 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,779 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 98 | [Maailma on mun](https://open.spotify.com/track/0v6TXFg3wJseuieozmpLTD) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maailma on mun](https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX) | 2:38 |
 | 99 | [Tuhlaajapoika](https://open.spotify.com/track/2ASg9yzBPTLR63886IOzTp) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Tuhlaajapoika](https://open.spotify.com/album/4nAarP84OVUVhGCLbUU70H) | 3:18 |
 
-Snapshot ID: `AAAAAOqxhLjbaRIBeklz2NWgfdvpC4hI`
+Snapshot ID: `AAAAALOBZ5y1rlzZtpWeLHxn8gslWaot`

@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "Nature's Warmth",
+        "url": "https://open.spotify.com/album/35SfwuoCkYYQ09DpaTB1rQ"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Nature's Warmth",
+      "url": "https://open.spotify.com/track/6Nf6hlrskPSmNCTOp3JZgq"
+    },
+    {
+      "album": {
         "name": "Naya Raasta",
         "url": "https://open.spotify.com/album/2f2Xr2TzaZjlBAdm7vFR26"
       },
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 132000,
       "name": "Sunday By The Stream",
       "url": "https://open.spotify.com/track/3wRiGWZwwjpuTyefeclZ17"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: 宇宙人
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,387 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,382 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [101](https://open.spotify.com/track/6ceN4yL9T8Nt4Chw7VZE6h) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [U:NFOLD](https://open.spotify.com/album/17c9mW5MqLtBQudtLXgsya) | 3:04 |
 | 50 | [女兒殿下](https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:44 |
 
-Snapshot ID: `AAAAAGbDOY2/KC0m4bpoP6bOVD+cYMwq`
+Snapshot ID: `AAAAAEeSYPRAp6q/CQovuSjYuhV6i+u8`

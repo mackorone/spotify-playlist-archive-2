@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Paige Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,113 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,155 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
 | 100 | [Big Star](https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Big Star](https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG) | 4:15 |
 
-Snapshot ID: `AAAAANGr/0TZA94CzN2RrCjL0CQ3tZK/`
+Snapshot ID: `AAAAAEE9jKWicnericmLdJP/6Jt+xEag`

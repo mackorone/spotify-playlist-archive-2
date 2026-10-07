@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,543 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,562 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 58 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 |
 | 59 | [Justo Ahora \(Vivo Sinfónico\)](https://open.spotify.com/track/73dxMLbVH9qSs7cP4tLSFu) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Sinfónico \(En Vivo en el Teatro Coliseo\)](https://open.spotify.com/album/5AQpMlLv5eYj9odaCTeDfA) | 2:42 |
 | 60 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
-| 61 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
-| 62 | [AMOR EN ZAMBA](https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S) | [Rodri Medina](https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL) | [RODRI MEDINA](https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm) | 4:15 |
+| 61 | [AMOR EN ZAMBA](https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S) | [Rodri Medina](https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL) | [RODRI MEDINA](https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm) | 4:15 |
+| 62 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
 | 63 | [Cerca del Sol](https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Cerca del Sol](https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5) | 3:37 |
 | 64 | [Eso Eres Tú](https://open.spotify.com/track/4L5c16rJlYxpLrpKcdFxPX) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Eso Eres Tú](https://open.spotify.com/album/5izPHVd1rA1ApYbukWKM2L) | 4:11 |
 | 65 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 90 | [La Flor Azul](https://open.spotify.com/track/0ETzFaHMsT2MdaEgOQzn4J) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG) | 2:42 |
 
-Snapshot ID: `AAAAALH7IhL9C8Y3rVyVoQ87XjEQlS+d`
+Snapshot ID: `AAAAAIWrdvOYI+QPgJoXDsLGGUkaJbhc`

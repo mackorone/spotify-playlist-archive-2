@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: XONARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,741 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,757 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Dulo](https://open.spotify.com/track/3506kWSiqIx2AKaFrA9C8Y) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Dulo](https://open.spotify.com/album/4vnI7wWwcBaiHrfYtvFhLY) | 3:34 |
 | 100 | [Bugsay](https://open.spotify.com/track/0GD7H9Fw3800fIr27luwI6) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Bugsay](https://open.spotify.com/album/2kMKMsLHZv71pcFNM6L6CB) | 3:39 |
 
-Snapshot ID: `AAAAAGSbfHCljpj1RKjdTKy3/2CXI4nO`
+Snapshot ID: `AAAAAB5/i5Nxq889d3tmRRTKNsVdKSKZ`

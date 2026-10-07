@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 510034,
+  "num_followers": 510102,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtaNPaekRyYIZD8QXnmq1nLRIqA",
+  "snapshot_id": "AAAAADFrUa/wv2iuYc21LxFOg9cptgeT",
   "tracks": [
     {
       "added_at": "2025-02-07 08:52:35",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 290973,
       "name": "Amiga m\u00eda",
       "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+      "duration_ms": 239866,
+      "name": "La soledad",
+      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1139,22 +1155,6 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "La soledad",
-      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218440,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2025-02-07 08:52:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,755 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,993 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 50 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 51 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
 
-Snapshot ID: `AAAAAF9vFn4oP4RfSYPBDDWvOb0wlqPi`
+Snapshot ID: `AAAAAEKVCkGkgnKxpxmVomQruzAvc+3W`

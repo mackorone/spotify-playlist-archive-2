@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 742938,
+  "num_followers": 743207,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP38FA4yAI6Ra7Tyewc+lGaBqyWP",
+  "snapshot_id": "AAAAAP8ZQKGVwXAzxAHCW6zWn7ghhvif",
   "tracks": [
     {
       "added_at": "2026-09-21 13:07:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 287613,
       "name": "Will you still love me tomorrow",
       "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Reawakened",
         "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "La belle vie - The Good Life",
-        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
       },
       "artists": [
         {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
         },
         {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
         }
       ],
-      "duration_ms": 222920,
-      "name": "La belle vie - The Good Life",
-      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
+      "duration_ms": 406554,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "La belle vie - The Good Life",
+        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "La belle vie - The Good Life",
+      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 273960,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 406554,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Singin' In The Rain",
-        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Singin\u2019 In The Rain",
-      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Singin' In The Rain",
+        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Singin\u2019 In The Rain",
+      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 341333,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Reaching For The Sky",
         "url": "https://open.spotify.com/album/3Tzs2RDjic6cxCMMUz2406"
       },
@@ -1927,18 +1911,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
       },
       "artists": [
         {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
         }
       ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1955,6 +1939,22 @@
       "duration_ms": 199040,
       "name": "The World in You",
       "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+      },
+      "artists": [
+        {
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 226656,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
-      },
-      "artists": [
-        {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "The Molly Johnson Songbook",
-        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Summer Wind",
         "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 161271,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
     },
     {
       "added_at": "2026-09-21 13:07:00",

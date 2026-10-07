@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Alisha Dira
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,360 likes - 108 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,370 likes - 108 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 107 | [anywhere in the world](https://open.spotify.com/track/0U2tZqUEqbtp9Ju2ljT9k8) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [anywhere in the world](https://open.spotify.com/album/6bCqOiCm7Wl7tkkakk8BzN) | 4:08 |
 | 108 | [Salah Tingkah](https://open.spotify.com/track/1EC83q6yiGuTWEaXZ0n9yK) | [Farrel Nugroho](https://open.spotify.com/artist/5fTEdlBvW2WQtX5CxPoVE5) | [Salah Tingkah](https://open.spotify.com/album/2v3m69kc35al7BiGTz7jPo) | 3:12 |
 
-Snapshot ID: `AAAAAGaDgW1GXnnY2diINi+Etl0URTo8`
+Snapshot ID: `AAAAAMqMfNam5/t/xtlg6lri3hbzHvC3`

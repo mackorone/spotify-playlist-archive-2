@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 382731,
+  "num_followers": 382780,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqq94kwl/0vMlgO/gvVKuPwY8Mq",
+  "snapshot_id": "AAAAAIdBMk5pPZpQ3h66xOhmK4IugDw/",
   "tracks": [
     {
       "added_at": "2026-08-07 14:21:56",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 264566,
       "name": "Serei Tudo",
       "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-08-07 14:21:56",

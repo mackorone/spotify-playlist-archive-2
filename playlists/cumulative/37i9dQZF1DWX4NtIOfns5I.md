@@ -4,7 +4,7 @@
 
 > it's finally folk weather 🍂
 
-930 songs - 2 day 8 hr 4 min
+932 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 | 2026-02-04 | 2026-07-18 |
 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 | 2026-01-30 | 2026-04-18 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-21 | 2025-09-27 |
+| [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 | 2026-10-06 |  |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-10-06 | 2024-06-01 |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 | 2024-04-06 |
 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-07-18 | 2026-01-31 |
@@ -285,6 +286,7 @@
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-18 | 2024-04-27 |
 | [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 | 2026-04-10 | 2026-09-03 |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-11 | 2025-08-09 |
+| [From](https://open.spotify.com/track/30knrTIql1uc7Ljp7uBRXN) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [tiarn](https://open.spotify.com/album/2Kt7Izz50rQVGCxalT4NQT) | 3:46 | 2026-10-06 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-10-06 | 2024-07-13 |
 | [Full Circle](https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [When You Turn Around](https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8) | 3:15 | 2026-04-24 | 2026-09-26 |
 | [Funeral](https://open.spotify.com/track/24kHKodPq3mDxkvlQdW0wr) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 1:53 | 2026-02-20 | 2026-07-25 |

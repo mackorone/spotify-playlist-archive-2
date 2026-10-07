@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 💙 with TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,379 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,377 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 78 | [KEEP SEEING THINGS](https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [KEEP SEEING THINGS](https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme) | 2:40 |
 | 79 | [MOVE LIKE THAT](https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [MOVE LIKE THAT](https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b) | 2:20 |
 | 80 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 81 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
-| 82 | [HUSH](https://open.spotify.com/track/0BBzJt4nTWXbZKvO2k3L8X) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [HUSH](https://open.spotify.com/album/2HEYYrnIqfHaaGg3fUgEkd) | 3:13 |
-| 83 | [ONE TWO](https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4), [IKU](https://open.spotify.com/artist/2cS62vlUoltYzNJxNBgeGE) | [ONE TWO](https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD) | 3:06 |
+| 81 | [ONE TWO](https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4), [IKU](https://open.spotify.com/artist/2cS62vlUoltYzNJxNBgeGE) | [ONE TWO](https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD) | 3:06 |
+| 82 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
+| 83 | [HUSH](https://open.spotify.com/track/0BBzJt4nTWXbZKvO2k3L8X) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [HUSH](https://open.spotify.com/album/2HEYYrnIqfHaaGg3fUgEkd) | 3:13 |
 | 84 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
 | 85 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
-| 86 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
-| 87 | [Children](https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [Children](https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD) | 3:56 |
+| 86 | [Children](https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [Children](https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD) | 3:56 |
+| 87 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
 | 88 | [OK](https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6) | [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [OK](https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7) | 3:06 |
 | 89 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 |
 | 90 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
-| 91 | [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 |
-| 92 | [UH OH!](https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [UH OH!](https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2) | 3:58 |
+| 91 | [UH OH!](https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [UH OH!](https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2) | 3:58 |
+| 92 | [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 |
 | 93 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 94 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
-| 95 | [2MINUTES](https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [rossxo](https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W) | [2MINUTES](https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon) | 3:39 |
-| 96 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 97 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
+| 95 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
+| 96 | [2MINUTES](https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [rossxo](https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W) | [2MINUTES](https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon) | 3:39 |
+| 97 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 98 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |
 | 99 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
 | 100 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
 
-Snapshot ID: `AAAAALexFx4J4e5fNN+kZgaVKSBBrV0j`
+Snapshot ID: `AAAAAKoEuE+NClJhcgcj46g+ZaKm974F`

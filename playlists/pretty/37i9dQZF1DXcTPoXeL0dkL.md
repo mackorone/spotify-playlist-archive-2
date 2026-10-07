@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,456 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,477 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 35 | [Tu Eres La Reina](https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Lo Mejor 17 Grandes Exitos](https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz) | 4:12 |
 | 36 | [Me Tiraste Al Mar](https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:26 |
 | 37 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
-| 38 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 |
+| 38 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
 | 39 | [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 |
 | 40 | [Dime Pajarito](https://open.spotify.com/track/1b6JXzkLGjYtQY9JKi46VC) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Sólo Clásicos: Rafael Orozco](https://open.spotify.com/album/5pGuwOF6KPOskJb9x2sTTV) | 4:55 |
 | 41 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
 | 42 | [Pregúntele a Su Hija](https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Negrito Osorio](https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl) | [Para Nunca Olvidar](https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD) | 4:40 |
-| 43 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
+| 43 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 |
 | 44 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 45 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
 | 46 | [Amarte Mas No Pude](https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Lo Mejor 17 Grandes Exitos](https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz) | 4:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [Sólo para Ti](https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:48 |
 | 60 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
 
-Snapshot ID: `AAAAAHSxYSK3MCfYLGwb0cXvBSY2CuyU`
+Snapshot ID: `AAAAAMb1odYb+LHG6rS3aS08g0cH+pLa`

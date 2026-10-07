@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,173 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,168 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 10 | [Get Like You](https://open.spotify.com/track/3JnWRfZr9hAx6togM06icV) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Cookie](https://open.spotify.com/artist/3lWaJCgIdzXSnfqrkzPOZU) | [Get Like You](https://open.spotify.com/album/6uq0uiGhA4TKWIPnk6AIev) | 6:42 |
 | 11 | [New Life](https://open.spotify.com/track/5tFO2Q2PNRZafF76yrH9jc) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [New Life](https://open.spotify.com/album/1CY4ywLOvU3m7b2rEEk34X) | 2:40 |
 | 12 | [Close to Close](https://open.spotify.com/track/4Fkd7z5YtgO2BFVqdTcTd4) | [FEMI ISHOLA](https://open.spotify.com/artist/1M1eX7IsJIMl96uTcPHHEI), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Kiwi Salad!](https://open.spotify.com/album/4qkbwCwfTcFBhoYBHu1Z9H) | 2:00 |
-| 13 | [Edge Of The Earth \- Lunch Break Freestyle](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
+| 13 | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
 | 14 | [FOGO](https://open.spotify.com/track/3oQm2dZU1bVxkQJ6tHyMhL) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Illmac](https://open.spotify.com/artist/57cZEJjLppvEmppehjqwmI) | [Illmad](https://open.spotify.com/album/03PHVxcQtxlVwuWFeSNk6O) | 3:40 |
 | 15 | [Sky Rockets](https://open.spotify.com/track/6VXLCrygHc0QyGdsUhAosK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:30 |
 | 16 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 101 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 |
 
-Snapshot ID: `AAAAACbHhYPltz9MHj03Lr3WVXtJwURt`
+Snapshot ID: `AAAAAOkg914dvwgk1OOU3TNGEOQCoPfq`

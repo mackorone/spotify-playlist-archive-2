@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: ALLDAY PROJECT) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: KickFlip) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 153000,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
@@ -9032,6 +9032,28 @@
       "duration_ms": 189700,
       "name": "Kick It - Valentino Khan Remix",
       "url": "https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo"
+    },
+    {
+      "album": {
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
     },
     {
       "album": {
@@ -17762,6 +17784,28 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141699,
+      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
     },
     {
       "album": {

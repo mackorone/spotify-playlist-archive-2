@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4686,
+  "num_followers": 4695,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDeuIksJw1Fc49D7RQEzNnt+1AP",
+  "snapshot_id": "AAAAAPwFL6JliZ2ZwHAhWOgYlZgD8B6S",
   "tracks": [
     {
       "added_at": "2026-09-18 19:07:30",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
+        "name": "(nostalgia)",
+        "url": "https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
         "name": "Xclusiva",
         "url": "https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 141215,
       "name": "Xclusiva",
       "url": "https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
-        "name": "(nostalgia)",
-        "url": "https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR"
     },
     {
       "added_at": "2026-09-18 19:07:30",

@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
+        "url": "https://open.spotify.com/album/435VD0Boy9b1FQ7HOsS4m6"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "\u3042\u306a\u305f\u306e\u82b1\u306e\u8272",
+      "url": "https://open.spotify.com/track/4or5caHru8j2EHRLmjSZay"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30aa\u306e\u30cf\u30b3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D"
       },

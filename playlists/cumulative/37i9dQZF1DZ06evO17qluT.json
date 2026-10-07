@@ -1604,6 +1604,32 @@
     {
       "album": {
         "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232096,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/3OrMzKr1E8FCCpRH4xhjwr"
+    },
+    {
+      "album": {
+        "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
       "artists": [

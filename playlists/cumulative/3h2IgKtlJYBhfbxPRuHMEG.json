@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/33OIvCtt4T2uisA9vkMAtX"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190508,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/74jUGc8wu6oiBrMqhqDQ3b"
+    },
+    {
+      "album": {
         "name": "Dirty Talk",
         "url": "https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm"
       },

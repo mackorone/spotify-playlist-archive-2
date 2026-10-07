@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,165 likes - 66 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,274 likes - 66 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 65 | [963 Hz \- Unfolding Space](https://open.spotify.com/track/68RfzLWOuXFVYqarMbhzWI) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [963 Hz \- Unfolding Space](https://open.spotify.com/album/4j1m80MunivAI9y6WlHcDF) | 2:15 |
 | 66 | [Snowmelt Serenade 963 Hz](https://open.spotify.com/track/5rlKmcUYPMRAPHqgF3quXR) | [Cosmic Sooth](https://open.spotify.com/artist/5ozCJLjahj9KK6MX8isMc7) | [Snowmelt Serenade 963 Hz](https://open.spotify.com/album/2TvRNfmx9rMlKrTDRxnERe) | 3:07 |
 
-Snapshot ID: `AAAAAFWP5BPPLMCJ/LaPDDYFiBZkvdGx`
+Snapshot ID: `AAAAAG6GEiEvuXwZb5aWl3LIl9XJ6D9X`

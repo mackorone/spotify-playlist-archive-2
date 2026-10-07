@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,594 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,575 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 57 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 58 | [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 |
 | 59 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
-| 60 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 |
-| 61 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
+| 60 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
+| 61 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 |
 | 62 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |
 | 63 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
 | 64 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 69 | [Light Blue](https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:34 |
 | 70 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
 | 71 | [Outside the Outside](https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 5:12 |
-| 72 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
-| 73 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
+| 72 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
+| 73 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
 | 74 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 75 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 |
 | 76 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 88 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 | 89 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 |
 | 90 | [South For The Winter \(feat\. Matt Berninger\)](https://open.spotify.com/track/5WD7NduZx58sry7EbodMve) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:15 |
-| 91 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 |
-| 92 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
+| 91 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
+| 92 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 |
 | 93 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 |
 | 94 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 |
 | 95 | [Summer](https://open.spotify.com/track/5wghHTSgz3KugE6b7QTm2e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Summer](https://open.spotify.com/album/0ZRGex2LSlTPx9Na2PBqB5) | 3:21 |
 | 96 | [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 |
-| 97 | [Queenstown](https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [I Love You, Brae](https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m) | 4:43 |
-| 98 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 97 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 98 | [Queenstown](https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [I Love You, Brae](https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m) | 4:43 |
 | 99 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 |
 | 100 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 |
 
-Snapshot ID: `AAAAAHWdtW4L8t9jxv4aMAwbzkznvM0s`
+Snapshot ID: `AAAAACFPQzH2YtAw3nHP3B0ie7sH5ilD`

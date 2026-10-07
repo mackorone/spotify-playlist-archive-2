@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Max Rickun\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,996 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,032 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
 | 75 | [made for love](https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [we're all in love](https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF) | 3:56 |
 
-Snapshot ID: `AAAAAPDcuLSBY3D8s4lWLhGMTWkfQNuG`
+Snapshot ID: `AAAAAPlSKOrvWc+N1mOecG31/dXHe0fV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Dom Dolla, Skepta & Solomun \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,009 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,017 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Keep Up](https://open.spotify.com/track/2A9N0ECrmbRIwLpSiRF1fq) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [Keep Up](https://open.spotify.com/album/4l5N7329RCDBmB59VYaf8u) | 2:30 |
 | 100 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 
-Snapshot ID: `AAAAAAGWpjDkVPkdwNq1Fdy1sIn3CFWe`
+Snapshot ID: `AAAAAOERJzqtQ2XhLP0n7OGL8pICGC6S`

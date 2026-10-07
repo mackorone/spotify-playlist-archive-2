@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-457 songs - 1 day 1 hr 30 min
+458 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Reach Out](https://open.spotify.com/track/488LUcRU6PCWIZYU7dwmjI) | [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Reach Out](https://open.spotify.com/album/0RxksKCj5vd2QK9WAgpmpy) | 3:13 | 2023-01-24 | 2023-04-28 |
 | [Ready Or Not](https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Ready Or Not](https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n) | 3:46 | 2024-09-05 | 2025-01-16 |
 | [Real Real](https://open.spotify.com/track/6umBv8BZ6XOoZQ5LOReO6V) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Real Real](https://open.spotify.com/album/33npKwJalTtdqANAUsAVzq) | 2:58 | 2025-11-21 | 2026-02-06 |
+| [Renegade \(Power To The People\)](https://open.spotify.com/track/5Noo993fLRchdzg2OUYOR2) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Renegade \(Power To The People\)](https://open.spotify.com/album/45v5WSicwzYQIzVgjAiFe9) | 2:08 | 2026-10-02 |  |
 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 | 2023-09-22 | 2024-04-01 |
 | [Ricardo](https://open.spotify.com/track/5NKqifwgTbMOAZavYnrGcm) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Ricardo](https://open.spotify.com/album/63qn7uIE3pQWjYwm0zAcxz) | 2:12 | 2024-01-03 | 2024-04-23 |
 | [Right Before My Eyes](https://open.spotify.com/track/0wqlrGYS9APVK8H7ELMsRv) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Right Before My Eyes](https://open.spotify.com/album/4pQEJPHRmbnR31a6jL2KJf) | 2:12 | 2026-04-16 |  |
@@ -374,7 +375,7 @@
 | [Speedy Sax](https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT) | [Ken Spieker](https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2) | [Speedy Sax](https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1) | 3:37 | 2025-06-19 | 2025-08-16 |
 | [Spend The Night](https://open.spotify.com/track/47S3zvHZpNTj0tgUNYjVOO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/3OZZyvrtjaYP3rsliOZhrs) | 3:30 | 2023-06-08 | 2024-01-04 |
 | [Spend The Night](https://open.spotify.com/track/5qnO8c1bY6jNGT7sR8kkYB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/10DbHQSNuMpzOkhT3pv2sL) | 3:30 | 2022-11-25 | 2023-07-14 |
-| [Spirit](https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Swarm](https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD) | 5:34 | 2026-09-24 |  |
+| [Spirit](https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Swarm](https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD) | 5:34 | 2026-09-24 | 2026-10-07 |
 | [Stand Up](https://open.spotify.com/track/0lRMFznrQu9fUMyY4EeLKw) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Stand Up](https://open.spotify.com/album/7Geo0kVq7MMWFUf7AseF3E) | 5:32 | 2024-07-12 | 2024-09-08 |
 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 | 2026-02-06 |  |
 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 | 2023-04-27 | 2024-08-23 |

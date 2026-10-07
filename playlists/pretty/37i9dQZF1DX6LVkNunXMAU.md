@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Milo j & Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,480 likes - 104 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,491 likes - 104 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 103 | [Una Noche Más](https://open.spotify.com/track/7dAZanaXWRfcKxcumPacay) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Una Noche Más](https://open.spotify.com/album/4VMpgMcMBco980EcsHGkks) | 2:48 |
 | 104 | [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 |
 
-Snapshot ID: `AAAAAOxYpRF24MlqBcyAbwyuEk8xQcNv`
+Snapshot ID: `AAAAAPUA3ZH20twdUxqi0aeCjkGDHH+G`

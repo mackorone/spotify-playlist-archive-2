@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 65 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 |
 | 66 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
 | 67 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
-| 68 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
-| 69 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
-| 70 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
-| 71 | [Girl](https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Off Hours](https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh) | 2:58 |
-| 72 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 68 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 69 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
+| 70 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
+| 71 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
+| 72 | [Girl](https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Off Hours](https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh) | 2:58 |
 | 73 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
 | 74 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
 | 75 | [What Happened](https://open.spotify.com/track/6oYDesnbzrC6Hzbd9Tk17y) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Happened](https://open.spotify.com/album/6epAWsXHGwVc8utKHf1wmI) | 3:10 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 82 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 83 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AceKygAAAABbbxOB/3LMU1aszCWGFpnx`
+Snapshot ID: `AceQLgAAAAAiXnh/iypdwELrl5EUtt5B`

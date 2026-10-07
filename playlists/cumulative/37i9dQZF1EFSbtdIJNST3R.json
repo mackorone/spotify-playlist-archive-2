@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Izakaya",
+        "url": "https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144803,
+      "name": "Izakaya",
+      "url": "https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2"
+    },
+    {
+      "album": {
         "name": "Januari",
         "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
       },

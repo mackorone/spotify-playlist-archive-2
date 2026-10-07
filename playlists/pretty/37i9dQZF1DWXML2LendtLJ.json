@@ -1,12 +1,12 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 530633,
+  "num_followers": 530648,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFbiiYAtAytlszpGHGtuZqyf+PS",
+  "snapshot_id": "AAAAAFhSeaReAT+VKKv+O+uxcOO5Gc/W",
   "tracks": [
     {
       "added_at": "2026-09-29 03:48:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-29 03:48:05",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2026-09-29 03:48:05",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 229413,
       "name": "Take A Bow",
       "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "added_at": "2026-09-29 03:48:05",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2026-09-29 03:48:05",

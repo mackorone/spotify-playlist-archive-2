@@ -1,12 +1,12 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 225632,
+  "num_followers": 225669,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAT9tLrztgE78RC1G65xOcd8znwN",
+  "snapshot_id": "AAAAAFDwnuIvpbumED8RlhZZv55x6Ndk",
   "tracks": [
     {
       "added_at": "2026-10-02 04:42:52",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-02 04:42:52",
       "album": {
-        "name": "Vision De Tunel",
-        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 172890,
-      "name": "Vision De Tunel",
-      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
-    },
-    {
-      "added_at": "2026-10-02 04:42:52",
-      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-10-02 04:42:52",
       "album": {
+        "name": "Vision De Tunel",
+        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 172890,
+      "name": "Vision De Tunel",
+      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
+    },
+    {
+      "added_at": "2026-10-02 04:42:52",
+      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 191994,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "added_at": "2026-10-02 04:42:52",
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Asquerosamente Rico",
+      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2026-10-02 04:42:52",
@@ -867,26 +887,6 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": "2026-10-02 04:42:52",
-      "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Asquerosamente Rico",
-      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2026-10-02 04:42:52",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-02 04:42:52",
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": "2026-10-02 04:42:52",
-      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
+    },
+    {
+      "added_at": "2026-10-02 04:42:52",
+      "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-10-02 04:42:52",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2026-10-02 04:42:52",
       "album": {
+        "name": "Ya Fui Negro Ya Fui Blanco",
+        "url": "https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO"
+      },
+      "artists": [
+        {
+          "name": "Alfonso Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 158596,
+      "name": "Ya Fui Negro Ya Fui Blanco",
+      "url": "https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8"
+    },
+    {
+      "added_at": "2026-10-02 04:42:52",
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 193849,
       "name": "Hay Con Que",
       "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
-    },
-    {
-      "added_at": "2026-10-02 04:42:52",
-      "album": {
-        "name": "Ya Fui Negro Ya Fui Blanco",
-        "url": "https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO"
-      },
-      "artists": [
-        {
-          "name": "Alfonso Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 158596,
-      "name": "Ya Fui Negro Ya Fui Blanco",
-      "url": "https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8"
     },
     {
       "added_at": "2026-10-02 04:42:52",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-02 04:42:52",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
-    },
-    {
-      "added_at": "2026-10-02 04:42:52",
-      "album": {
         "name": "Escuela De Rancho",
         "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 139186,
       "name": "El Mech\u00f3n",
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "added_at": "2026-10-02 04:42:52",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": "2026-10-02 04:42:52",

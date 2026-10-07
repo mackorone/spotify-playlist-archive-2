@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,340 likes - 144 songs - 7 hr 33 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,341 likes - 144 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 |
-| 2 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 |
-| 3 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
-| 4 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
-| 5 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 2:58 |
+| 2 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 2:58 |
+| 3 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 |
+| 4 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 5 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
 | 6 | [Bet On That](https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Bet On That](https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf) | 3:10 |
 | 7 | [People Don't Talk About](https://open.spotify.com/track/4xcpiAoUIRtFFqefwYYqlr) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/2IefuIJJJaRjnplEBribfX) | 3:17 |
 | 8 | [The Old Guys](https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Young](https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX) | 3:13 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 143 | [Ruin A Good Thing](https://open.spotify.com/track/6koiEgvhQ4CyHXfYz9tIv4) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [No Brakes](https://open.spotify.com/album/72abK2vIKvsudMypl89dX3) | 3:18 |
 | 144 | [Called It](https://open.spotify.com/track/1P0l3SrbgZFeyU6hGRx0QZ) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:17 |
 
-Snapshot ID: `AAAf36euJYN1h6zGM6OEhGD45rlBubO3`
+Snapshot ID: `AAAf4MfoU5m+IkKC0BNdWunE+W6aUygu`

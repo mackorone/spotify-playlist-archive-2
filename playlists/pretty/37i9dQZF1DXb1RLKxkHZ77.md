@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,694 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,721 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Romancinta](https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Romancinta](https://open.spotify.com/album/1dqV2O8kV4flijwKc2s9e0) | 4:04 |
 | 50 | [iqro'](https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs) | 3:54 |
 
-Snapshot ID: `AAAAAHVwJmizFT19+vfJ+LhzPRpijyLm`
+Snapshot ID: `AAAAAG4IdK1Ko/ME7gne2WIwBWEbravy`

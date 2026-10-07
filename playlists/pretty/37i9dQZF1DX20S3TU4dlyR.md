@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,994 likes - 89 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,999 likes - 89 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 41 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 42 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
 | 43 | [Quiero ser feliz tambien](https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Quiero ser feliz tambien](https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG) | 3:17 |
-| 44 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
-| 45 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
+| 44 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
+| 45 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 46 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
 | 47 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
 | 48 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 79 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 80 | [Así Se Vive Feliz](https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Así Se Vive Feliz](https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ) | 3:19 |
 | 81 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
-| 82 | [Tiempo de Sanar](https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT) | [Vida Pura](https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ) | [Flores de Asfalto](https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe) | 5:01 |
-| 83 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
+| 82 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
+| 83 | [Tiempo de Sanar](https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT) | [Vida Pura](https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ) | [Flores de Asfalto](https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe) | 5:01 |
 | 84 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
 | 85 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
 | 86 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
 | 89 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 
-Snapshot ID: `AAAAAKIBCIjZl1wl4AjS+UaCh5ZtSKGj`
+Snapshot ID: `AAAAACG+I9NqW3mCHyyDKfnGT8GvRo3S`

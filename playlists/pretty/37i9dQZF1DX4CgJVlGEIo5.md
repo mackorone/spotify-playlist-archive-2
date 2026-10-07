@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,268 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,271 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 37 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
 | 38 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 39 | [Nobody Opened The Door](https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes \(PT\. 1\)](https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP) | 4:42 |
-| 40 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
-| 41 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
+| 40 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
+| 41 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 42 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 43 | [We Were Young](https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [We Were Young](https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg) | 4:53 |
 | 44 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 60 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
 | 61 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 | 62 | [Is It Ever Gonna Be Easy](https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:11 |
-| 63 | [Instinct](https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Instinct](https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW) | 4:44 |
-| 64 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
+| 63 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
+| 64 | [Instinct](https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Instinct](https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW) | 4:44 |
 | 65 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 |
 | 66 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
 | 67 | [Low \(Acoustic\)](https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0) | 3:26 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [Clean Getaway](https://open.spotify.com/track/4aPkrXsRnoF7fgpt4va3ur) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Clean Getaway](https://open.spotify.com/album/3hLWNMK8P5d6wJkRWWFmEE) | 3:47 |
 | 82 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 
-Snapshot ID: `AAAAAGnyr07rWmprJm+r819rGDzWAwnm`
+Snapshot ID: `AAAAANxMgiUhDaeNGbUaFeFJe/yH+FmG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Maluma y Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,603,843 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,604,001 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [PA'LLÁ YA YO VOY \- Spotify Sessions](https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 4:36 |
 | 50 | [verano en la ciudad](https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [verano en la ciudad](https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR) | 3:32 |
 
-Snapshot ID: `AAAAAGcDkNrTkQGuhBGN8Wh0/tmImyGk`
+Snapshot ID: `AAAAAPok2rqQYOxOXE08ijJAeyH6KTYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,606 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,629 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 44 | [Lying To Myself](https://open.spotify.com/track/6pCF34MslLygdtS1XKPlzk) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Lying To Myself](https://open.spotify.com/album/47WAuqQgA6C5yIjGtfcLMH) | 3:39 |
 | 45 | [Pain In My Chest](https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Pain In My Chest](https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4) | 3:42 |
 | 46 | [Limb From Limb](https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Limb From Limb / Mechanically Separated](https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt) | 3:04 |
-| 47 | [TELL ME WHY \(feat\. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love\)](https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [JINX](https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk) | 3:35 |
+| 47 | [TELL ME WHY \- feat\. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love](https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [JINX](https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk) | 3:35 |
 | 48 | [I'm Up, I'm Up](https://open.spotify.com/track/4upyTJHHcg6JiRrryaL63p) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Down On Earth](https://open.spotify.com/album/0ZFmlWgygmNkqn01heNfqq) | 4:34 |
 | 49 | [Concrete](https://open.spotify.com/track/3krrOD1ChbVQ4gYnh4CsAe) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 3:03 |
 | 50 | [Sunblind](https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Still There’s a Glow](https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd) | 2:48 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 123 | [You Hate Me](https://open.spotify.com/track/5Vpb3sJeb6pWjkPuEZchEG) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You Hate Me](https://open.spotify.com/album/601KLtTDsvxaDKgtGIJFOS) | 3:32 |
 | 124 | [Kindly, wash yourself](https://open.spotify.com/track/3yLXkE4NWsT9oOc0Vn3CM2) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [The weathervane is my body](https://open.spotify.com/album/2fVzzo8IRKjQOVpkcUnRQD) | 4:25 |
 
-Snapshot ID: `AAAAAEfEud5V576SCuFYd433EiTygOM+`
+Snapshot ID: `AAAAAKTGJUizpP/9d6rf/zqKbX0enYh1`

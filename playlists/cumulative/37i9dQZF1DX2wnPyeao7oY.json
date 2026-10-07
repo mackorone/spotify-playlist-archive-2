@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sicksense",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DOGBITE",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 186582,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1dFEeTaJoT6q3VUQVcYdTK"
@@ -1693,6 +1693,32 @@
     },
     {
       "album": {
+        "name": "Human Error",
+        "url": "https://open.spotify.com/album/37OhRJGcLHm7YZyCt4nCrf"
+      },
+      "artists": [
+        {
+          "name": "Feral Vices",
+          "url": "https://open.spotify.com/artist/19A9fXIkL7MkYBdLI0qZro"
+        },
+        {
+          "name": "Foxbat",
+          "url": "https://open.spotify.com/artist/2AbZOd1hnJCe0IKdr2gUGs"
+        },
+        {
+          "name": "GVUP",
+          "url": "https://open.spotify.com/artist/7lTgZR9Hw7GCSUmAKnAKBE"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167811,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4Auluv7see8gVVLOjP2yhi"
+    },
+    {
+      "album": {
         "name": "Blew",
         "url": "https://open.spotify.com/album/4SFfYhOLQjw7mh7whz35cu"
       },
@@ -1744,6 +1770,24 @@
       "duration_ms": 192750,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3BqmxJZ5rAX47T1p01linH"
+    },
+    {
+      "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/2Yx1qHlz79pH5p8ALAf2qE"
+      },
+      "artists": [
+        {
+          "name": "Antlr",
+          "url": "https://open.spotify.com/artist/41CaboR7ZcNF57M0hjaRpG"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220017,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/0Pvg3J9J1Gm08txEx5YyDA"
     },
     {
       "album": {
@@ -4529,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Done To Me",
+        "url": "https://open.spotify.com/album/1gDzWNuJc9mCJOps25dhnU"
+      },
+      "artists": [
+        {
+          "name": "Palebloom",
+          "url": "https://open.spotify.com/artist/5lix23W9XlUVAI0sLEaYbM"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230863,
+      "name": "Done To Me",
+      "url": "https://open.spotify.com/track/5vuDAgBHMj3gACouRcZkAS"
+    },
+    {
+      "album": {
         "name": "Doomed",
         "url": "https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko"
       },
@@ -4728,6 +4790,24 @@
       "duration_ms": 198160,
       "name": "drown",
       "url": "https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6"
+    },
+    {
+      "album": {
+        "name": "PUNISHMENT ROUTINE",
+        "url": "https://open.spotify.com/album/3D8GnjvFV213S2CRLT7V2t"
+      },
+      "artists": [
+        {
+          "name": "DOGBITE",
+          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155445,
+      "name": "DROWN SLOW",
+      "url": "https://open.spotify.com/track/5Gx2T4du8dMn6G5gf4TISF"
     },
     {
       "album": {
@@ -10087,6 +10167,24 @@
     },
     {
       "album": {
+        "name": "Middle Man",
+        "url": "https://open.spotify.com/album/1Cf42agYTHrFZB9SsadK3a"
+      },
+      "artists": [
+        {
+          "name": "Awake Again",
+          "url": "https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174806,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/6oWVOCurVdlgHiK2glkaxn"
+    },
+    {
+      "album": {
         "name": "Midian",
         "url": "https://open.spotify.com/album/4YuZwM2WGBVPD7HvOPOsU3"
       },
@@ -11362,7 +11460,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 85412,
       "name": "ONE MINUTE",
       "url": "https://open.spotify.com/track/7tTsTV5XZOWiiovCDytYYu"
@@ -11708,7 +11806,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 100982,
       "name": "Paradise/Parasite II",
       "url": "https://open.spotify.com/track/6rRwnlLNQCDrkSMHXONuWY"
@@ -11820,7 +11918,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195585,
       "name": "PATRIOT",
       "url": "https://open.spotify.com/track/3OYlsKCzJb7JNnTYXu2pFh"
@@ -12300,7 +12398,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 187374,
       "name": "PROMETHEUS PROTOCOL",
       "url": "https://open.spotify.com/track/1z8YopWJu6kuOheQ1wZorc"
@@ -13974,7 +14072,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 277215,
       "name": "Silent Strain",
       "url": "https://open.spotify.com/track/1aP4o1vk7nk9lgRzJ1tMH7"
@@ -14234,6 +14332,24 @@
       "duration_ms": 165391,
       "name": "Smoking Mirrors",
       "url": "https://open.spotify.com/track/1N6IRPRoQMOzGvPuEwJpgf"
+    },
+    {
+      "album": {
+        "name": "sodium",
+        "url": "https://open.spotify.com/album/0r6X5AlBoueuJwKjf6GVNI"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228006,
+      "name": "sodium",
+      "url": "https://open.spotify.com/track/0t0gNWuHPINBH21NC0OeDQ"
     },
     {
       "album": {

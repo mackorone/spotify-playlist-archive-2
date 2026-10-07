@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Marie Hummel
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,111 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,118 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Tränen](https://open.spotify.com/track/6hCyX5cdEb7Vu84cNJ79uh) | [Avoid Amber](https://open.spotify.com/artist/7dBlVvbiNtmVlPa1u0aDI7) | [Tränen](https://open.spotify.com/album/3tQ8cYCPyvCaGVZjRumn3v) | 3:41 |
 | 50 | [Letzte Seite](https://open.spotify.com/track/3cvXcYAkPvbzewxCRYuhoq) | [vilo](https://open.spotify.com/artist/2qNDPDaLfn29Zd84jdGGmS) | [Letzte Seite](https://open.spotify.com/album/6KdxMWV7SiBYHQWoTansy8) | 3:07 |
 
-Snapshot ID: `AAAAAIL34gPCmOEU2cvKESVX9iMUKuEw`
+Snapshot ID: `AAAAALtCNh1ZM//rugvb6iad9CqX1/hY`

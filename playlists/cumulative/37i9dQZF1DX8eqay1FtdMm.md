@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: WOODZ, Lee Seung Chul\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: YESUNG\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-671 songs - 1 day 19 hr 43 min
+672 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [BREATHE](https://open.spotify.com/track/7iXL8WCagyp9aoWTWF1Tn8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk) | 4:48 | 2021-12-20 | 2022-07-29 |
 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-04-30 |  |
 | [Bruising](https://open.spotify.com/track/1fA5Eiu5GgHvJN5YogiAIa) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 2:43 | 2021-12-20 | 2022-07-26 |
-| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 | 2026-10-05 |
+| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-04 |  |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-04-27 | 2022-07-04 |
 | [By Your Side](https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Poong, the Joseon Psychiatrist OST Part.1](https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI) | 3:52 | 2022-08-12 | 2022-10-25 |
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-09-12 |  |
@@ -313,7 +313,7 @@
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
 | [like wind](https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [like wind](https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x) | 2:49 | 2023-03-27 | 2023-05-04 |
-| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 |  |
+| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 | 2026-10-07 |
 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 | 2022-10-26 |  |
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Lingering](https://open.spotify.com/track/0rubDl8akBZ3qP5CWDmmV9) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Lingering](https://open.spotify.com/album/6VMORU9yksutF9zwmP9g4u) | 3:36 | 2024-01-12 | 2024-02-12 |
@@ -436,6 +436,7 @@
 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [Parrot](https://open.spotify.com/track/443u0pdNj2Jqb4OMKkdXlc) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Parrot](https://open.spotify.com/album/2bfVsf22jGTekWukB9fh9p) | 4:56 | 2026-02-03 | 2026-05-01 |
 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 | 2025-04-03 |
+| [Pedazos](https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Where We Are \- The 2nd Album](https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f) | 3:51 | 2026-10-06 |  |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 | 2024-01-02 |
@@ -456,7 +457,7 @@
 | [rumor](https://open.spotify.com/track/698TO5R7XS6uHypzpVYbuH) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [r](https://open.spotify.com/album/6KmrLxGgaRGIchZU1eb3br) | 4:36 | 2022-03-24 | 2022-05-16 |
 | [Run](https://open.spotify.com/track/0rqth7TKBij4qKmqI1h4Ts) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [WORD](https://open.spotify.com/album/1y20zPeDfHZyG5BZmJKSiO) | 6:09 | 2021-12-20 | 2022-07-13 |
 | [Run to you](https://open.spotify.com/track/3iB8EwIDGGF7LMIiBqsKip) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 4:09 | 2022-03-31 | 2022-04-21 |
-| [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 | 2026-06-23 |  |
+| [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 | 2026-06-23 | 2026-10-07 |
 | [Say goodbye for no reason](https://open.spotify.com/track/2NiqeqX69bXKOdXS3E6HCx) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Say goodbye for no reason](https://open.spotify.com/album/69rwgUoFeUWO9MldOT5MVn) | 3:48 | 2024-08-26 | 2024-09-03 |
 | [Scattered Days](https://open.spotify.com/track/27HoEXjsTVnwmvsSMQEDKb) | [Hanseul](https://open.spotify.com/artist/1mXzPR6FH3CMZYu4VQ6ghD), [In the City](https://open.spotify.com/artist/31Gze6obVZxuBeqEXJYNo8) | [PLAYBACK \#4 'Scattered Days'](https://open.spotify.com/album/6JwxEhmxoie8ldjW6PBE7m) | 3:48 | 2022-01-14 | 2022-06-26 |
 | [seep into you](https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY) | [Yeoeun](https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P) | 3:48 | 2022-07-04 | 2022-07-23 |

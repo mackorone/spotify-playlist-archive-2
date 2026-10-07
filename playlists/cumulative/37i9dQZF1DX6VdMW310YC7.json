@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
@@ -14738,6 +14738,28 @@
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+    },
+    {
+      "album": {
+        "name": "Hiding / Shallow Water",
+        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Claxy",
+          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232130,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
     },
     {
       "album": {

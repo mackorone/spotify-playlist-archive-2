@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Compa Steve y Adriel Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,532 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,505 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [Acércate Mija](https://open.spotify.com/track/1V83qbHspRnEptdprl8ybq) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [Lo Que Hiciste](https://open.spotify.com/album/2dXGFz2PIq0w1K1328RFgf) | 2:35 |
 | 75 | [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 |
 
-Snapshot ID: `AAAAACIO1I6WEBnXMLRxmn1cHNiW/y57`
+Snapshot ID: `AAAAALOCFLW0tPXjD53L39+TBwZBQL7U`

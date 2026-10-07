@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 499219,
+  "num_followers": 499221,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXDUZTuBA0kb98VXU4VGMprEnLR",
+  "snapshot_id": "AAAAAGHppDEqVrGeuvWfXHoC6Yg3rFsI",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
-        "name": "Es ist Zeit",
-        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Tirol",
-      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
-    },
-    {
-      "added_at": "2026-09-24 22:01:14",
-      "album": {
         "name": "Gute Laune",
         "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+        "name": "Es ist Zeit",
+        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+      "duration_ms": 173480,
+      "name": "Tirol",
+      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
     },
     {
       "added_at": "2026-09-24 22:01:14",
@@ -567,6 +547,26 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2026-09-24 22:01:14",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2026-09-24 22:01:14",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2026-09-24 22:01:14",
+      "album": {
         "name": "3 x KO",
         "url": "https://open.spotify.com/album/4CWNkFagrZH9U5weIKxiuZ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 171780,
       "name": "3 x KO",
       "url": "https://open.spotify.com/track/5FzL0797FMOyNzjSE7n3lI"
-    },
-    {
-      "added_at": "2026-09-24 22:01:14",
-      "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2026-09-24 22:01:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
-    },
-    {
-      "added_at": "2026-09-24 22:01:14",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2026-09-24 22:01:14",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
     },
     {
       "added_at": "2026-09-24 22:01:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2026-09-24 22:01:14",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2026-09-24 22:01:14",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2026-09-24 22:01:14",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-24 22:01:14",
       "album": {
-        "name": "Hier kommt der B\u00fcffelmann",
-        "url": "https://open.spotify.com/album/4GAHN14tCkKeQdlZtkX0gV"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 180441,
-      "name": "Hier kommt der B\u00fcffelmann",
-      "url": "https://open.spotify.com/track/6VGFg8HKWRgpZGHtEH7eW1"
-    },
-    {
-      "added_at": "2026-09-24 22:01:14",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2026-09-24 22:01:14",
+      "album": {
+        "name": "Hier kommt der B\u00fcffelmann",
+        "url": "https://open.spotify.com/album/4GAHN14tCkKeQdlZtkX0gV"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 180441,
+      "name": "Hier kommt der B\u00fcffelmann",
+      "url": "https://open.spotify.com/track/6VGFg8HKWRgpZGHtEH7eW1"
     },
     {
       "added_at": "2026-09-24 22:01:14",

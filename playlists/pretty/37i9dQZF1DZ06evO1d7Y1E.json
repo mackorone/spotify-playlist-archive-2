@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117596,
+  "num_followers": 117595,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAAs4Ux//frfNxttBFK11dfu",
+  "snapshot_id": "asLogAAAAAC1Yx89ZOFNCQE8YeFYp58H",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacman de Panicat",
-        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+        "name": "\u00c9 o Baile do Japa NK",
+        "url": "https://open.spotify.com/album/72MiIktTaLRmAvnjViU7hw"
       },
       "artists": [
         {
@@ -94,7 +94,7 @@
       ],
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
-      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
+      "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
     },
     {
       "added_at": null,
@@ -371,34 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00c9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/2zMggkRttYqOui9ZYr6QXS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberdade (Deluxe)",
         "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
       },
@@ -427,6 +399,34 @@
       "duration_ms": 325039,
       "name": "Manifesto #1 - A Rua Cercada por Divis\u00e3o",
       "url": "https://open.spotify.com/track/3a1UkFymv1PL28nJHfqQO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00c9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/2zMggkRttYqOui9ZYr6QXS"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fica \u00e0 Vontade",
         "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 276105,
       "name": "Fica \u00e0 Vontade",
       "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1419,7 +1419,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdas & Ganhos",
+        "name": "Perdas & Ganhos, Vol. 2",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Niña Lobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,007 likes - 107 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,006 likes - 107 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 106 | [Tan Adorable](https://open.spotify.com/track/7cSnscdxaW12w0T6eQzMAT) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [ATALAYA AVALANCHA](https://open.spotify.com/album/50Tx2aMQD2tI4mZDR7xRaQ) | 2:27 |
 | 107 | [Cuidado!](https://open.spotify.com/track/72GGPzaWYpeEHstvhkMcBH) | [Parásito Paraíso](https://open.spotify.com/artist/0H6YoMqKk2CF7Z0TPtraUZ) | [Imagen, Defecto](https://open.spotify.com/album/47wbKgA1KXkTfTYsAAp0Zd) | 2:59 |
 
-Snapshot ID: `AAAAAHy77JsRkQBtgyc13FrYdFwxuXoS`
+Snapshot ID: `AAAAABQockqucOLZGtxAvO7KHFFEMlna`

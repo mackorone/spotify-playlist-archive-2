@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: DPR CREAM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,384 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,388 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [UNTITLED](https://open.spotify.com/track/6NdhdnucTvZUXN1Pjs8AGe) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Hanlim](https://open.spotify.com/artist/2beQ2sgZu9Yr4G8lCwZr8e) | [UNTITLED](https://open.spotify.com/album/4FmqGUHcQBWzpyNwclmkd8) | 2:52 |
 | 50 | [who is this woman?](https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [who is this woman?](https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B) | 3:10 |
 
-Snapshot ID: `AAAAADtcpt297YYvNr7DpGe5lmVet4rf`
+Snapshot ID: `AAAAAEQsFsJqxUNBRrTBpQB2t0suiS0G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Meltt
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,488 likes - 103 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,495 likes - 103 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 102 | [I\-40](https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [I\-40](https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD) | 3:54 |
 | 103 | [fear of missing out](https://open.spotify.com/track/6DjEVNA5xJESxFfmYako8N) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [fear of missing out](https://open.spotify.com/album/7tpR10hyk5R2CfJM26xg0Y) | 2:58 |
 
-Snapshot ID: `AAAAAM4oe/+Fj8+HKeGFjP6EZ7RJhKXk`
+Snapshot ID: `AAAAAIjWmPwIbMgC8fqknN6Xc4oxdd/S`

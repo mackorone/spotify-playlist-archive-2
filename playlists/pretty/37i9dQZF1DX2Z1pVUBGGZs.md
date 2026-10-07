@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: 300SkullsAndCounting
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,610 likes - 112 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,703 likes - 112 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 111 | [OUTLINE](https://open.spotify.com/track/1EOJsVyUERYxRmjQmhwzun) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [OUTLINE](https://open.spotify.com/album/6qQRrmgWPALosfMLHCtvph) | 2:45 |
 | 112 | [ups/downs](https://open.spotify.com/track/39XT7vqNZnnzJC7TltM0tM) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [ups/downs](https://open.spotify.com/album/75SGQtS8V8IwuLS8ZRXfMh) | 2:33 |
 
-Snapshot ID: `AAAAAASL1LyxUkJbK8NTXdjPsUCZ3kEN`
+Snapshot ID: `AAAAAPSu/+ut70IxMfvQdf3Vbo+RzlEY`

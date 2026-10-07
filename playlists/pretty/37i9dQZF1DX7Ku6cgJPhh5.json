@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. ",
-  "num_followers": 617801,
+  "num_followers": 617886,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKh20SU62ktgXkvqrezUwiDTzHuz",
+  "snapshot_id": "AAAAAOd8DRAaE4rWE5DOxvVWykPGdNHx",
   "tracks": [
     {
       "added_at": "2026-07-10 04:01:53",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+        "name": "Three Days Grace",
+        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Three Days Grace",
-        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
+      "duration_ms": 233933,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Highway Tune",
-      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 208186,
       "name": "Scars",
       "url": "https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Stone Sour",
-        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Bother",
-      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 298253,
       "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Stone Sour",
+        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Bother",
+      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 231533,
       "name": "The Kill (Bury Me)",
       "url": "https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
       "added_at": "2026-07-10 04:01:53",

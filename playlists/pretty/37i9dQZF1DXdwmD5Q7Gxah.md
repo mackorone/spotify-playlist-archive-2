@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > insecure and pretty, it's everyone's problem\. cover: daine <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,716 likes - 114 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,681 likes - 114 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 113 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 |
 | 114 | [Imitation \(how to become you\)](https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Imitation \(how to become you\)](https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz) | 4:16 |
 
-Snapshot ID: `AAAAAIxZc6owMgWFyyOir8lF81jufcDN`
+Snapshot ID: `AAAAAPaGi9q6LRQ02gw/TgOt4SmDLmub`

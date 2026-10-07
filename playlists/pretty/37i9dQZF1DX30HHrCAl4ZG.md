@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wishy
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,412 likes - 161 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,427 likes - 161 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 160 | [You Were Solved](https://open.spotify.com/track/2GCpKaWWtcM6UKG2oJ2hut) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 4:04 |
 | 161 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
 
-Snapshot ID: `AAAAANLPr42xjjGERRUifAP3O2IvCdC5`
+Snapshot ID: `AAAAAGEE6rtQHlZ6y6xwIm/cZt4hW4gz`

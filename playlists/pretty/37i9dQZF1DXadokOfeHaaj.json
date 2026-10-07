@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 44026,
+  "num_followers": 44030,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHyMOiw3iHFoLuObTOZEV7Yu0f9v",
+  "snapshot_id": "AAAAAMMTeodyXxJ5sbIKCZJkqfPGA1OA",
   "tracks": [
     {
       "added_at": "2026-10-02 10:25:11",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Solar Skin (feat. jasper.wav)",
         "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
       },
@@ -335,22 +355,6 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Distance in Static",
-        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 261517,
-      "name": "Uncasually",
-      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -395,22 +399,18 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 192195,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+      "duration_ms": 261517,
+      "name": "Uncasually",
+      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Gotta Be Cool",
-        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
-      },
-      "artists": [
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "Gotta Be Cool",
-      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/2B92o8NIVPpUUQ6JWutnRD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 261546,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Tiger J",
         "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 142374,
       "name": "Tiger J",
       "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -939,6 +923,22 @@
       "duration_ms": 218506,
       "name": "TripoWah",
       "url": "https://open.spotify.com/track/7BzWIpEbBKKMBPez33o3jU"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Till It's Over",
         "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
       },
@@ -1007,6 +991,38 @@
       "duration_ms": 213888,
       "name": "Till It's Over",
       "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "pull u right thru",
+        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 217864,
+      "name": "pull u right thru",
+      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1059,38 +1075,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "pull u right thru",
-        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 217864,
-      "name": "pull u right thru",
-      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1151,6 +1151,26 @@
       "duration_ms": 166875,
       "name": "I LUV IT",
       "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1211,6 +1231,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -1227,42 +1263,6 @@
       "duration_ms": 199196,
       "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Confirmation!",
-        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "FAUZIA",
-          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
-        }
-      ],
-      "duration_ms": 164611,
-      "name": "2Love (feat. FAUZIA)",
-      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+      "duration_ms": 151763,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
     }
   ],
   "unique_name": "Indie Electronic ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,228,119 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228,223 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Train To Skaville](https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Absolutely The Best Of Reggae Vol\. 1](https://open.spotify.com/album/0U9LMMfkDK3alar1KZ7JEX) | 2:54 |
 | 100 | [Girlie Girlie](https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 |
 
-Snapshot ID: `AAAAAJel0I/blbmF81uB0A4TFaRuOD3b`
+Snapshot ID: `AAAAAJnMEhfXIyHGEzo7vAZ1aG9V+csB`

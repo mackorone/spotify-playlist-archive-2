@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! © 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-49 songs - 2 hr 41 min
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 | 2021-05-26 |  |
 | [sky & blue](https://open.spotify.com/track/1AZKHiqBKfdBxVcWUnJJUj) | [GIRLFRIEND](https://open.spotify.com/artist/4jMAPB1oOdRVwqvGOnsNGn) | [sky & blue](https://open.spotify.com/album/5tNvYlCJYyNXXLKwlP7vpF) | 3:58 | 2021-05-26 |  |
 | [Stories](https://open.spotify.com/track/4okEi9xbi50bwPbThP4ejk) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:31 | 2025-05-02 |  |
+| [Yellow Brick Road](https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Yellow Brick Road](https://open.spotify.com/album/2zavFs3Aryj4KIsXiln4rV) | 2:51 | 2026-10-06 |  |
 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 | 2021-05-26 |  |
 | [アンサー](https://open.spotify.com/track/5w3rC66HQ8fQWg2V3gepdS) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [魔法](https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov) | 3:50 | 2023-06-15 | 2024-04-19 |
 | [アンサー](https://open.spotify.com/track/0ud4VAfTH1AOb904kWOTzJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花と解答](https://open.spotify.com/album/1JavH0LMoyFjKlTUKl7mA7) | 3:51 | 2021-05-26 |  |

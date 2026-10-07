@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-80 songs - 3 hr 36 min
+81 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 | 2024-03-22 | 2026-07-31 |
 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 | 2026-07-30 |  |
 | [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 | 2025-10-24 |  |
+| [Rather You Leave](https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Rather You Leave](https://open.spotify.com/album/0VhlajjpFQPn7OPPSE6NmG) | 2:28 | 2026-10-06 |  |
 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 | 2025-07-02 |  |
 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 | 2024-03-22 |  |
 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 | 2026-07-03 |  |

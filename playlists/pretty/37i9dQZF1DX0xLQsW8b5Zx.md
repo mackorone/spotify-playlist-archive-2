@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,394 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,411 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 |
 | 60 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
 
-Snapshot ID: `AAAAAJRE2PT7ONWAqpCb4r1hk6AUzmLw`
+Snapshot ID: `AAAAAELJ2lf9AV8adK8c8lR+iRiY9GM3`

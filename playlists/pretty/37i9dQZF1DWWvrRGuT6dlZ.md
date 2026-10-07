@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Chaca Trisha\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,306 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,310 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 36 | [刚好的Just nice](https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [刚好的Just nice](https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat) | 3:19 |
 | 37 | [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 |
 
-Snapshot ID: `AAAAAOugEBiZzsJ3iNAodGCUJ0BjtKqR`
+Snapshot ID: `AAAAAGktSwtUYo76uKHIKdHg3Wa1BDoz`

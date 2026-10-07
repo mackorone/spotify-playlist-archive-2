@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-181 songs - 13 hr 49 min
+184 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [In The Twilight](https://open.spotify.com/track/2Q0ZmisH3IBgmB88wLJYQ8) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Man Steals the Stars](https://open.spotify.com/album/2EeZCGDC5sJEmZPRyxygda) | 6:48 | 2023-03-14 | 2023-05-16 |
 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 | 2024-02-27 | 2025-03-08 |
 | [Install](https://open.spotify.com/track/0XHXSRiodyRHikC7Rah4L5) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [The Creation of ADAM](https://open.spotify.com/album/15yXyGAjrQJj2wdKrzUqvc) | 3:39 | 2025-01-29 | 2025-02-21 |
+| [is here \- Remix](https://open.spotify.com/track/1BvX1hlR7fVBaG9uMbxiCI) | [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [is here \(Remix\)](https://open.spotify.com/album/0X0KoNp1Fb7r8z9v8MlrxK) | 3:00 | 2026-10-06 |  |
 | [Keep on Going](https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Keep on Going](https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH) | 3:34 | 2025-01-08 | 2025-03-16 |
 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 | 2023-03-14 | 2026-07-20 |
 | [Liberty](https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:56 | 2025-02-20 |  |
@@ -118,7 +119,9 @@
 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 | 2023-03-14 | 2023-04-29 |
 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 | 2023-03-14 | 2024-04-19 |
 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 | 2023-03-14 | 2024-09-19 |
+| [SHORTCAKE](https://open.spotify.com/track/2XhGBA8IarDdjzK1UxNQMs) | [DIRTY FOUR EYES](https://open.spotify.com/artist/13rCJqAuHs8yonheBGm449) | [SHORTCAKE](https://open.spotify.com/album/3TvgIMqT8brUQFplcZKlbA) | 5:18 | 2026-10-06 |  |
 | [SignaL](https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [SignaL](https://open.spotify.com/album/5wcdh9GwhmHAdyQmbpwmkd) | 3:37 | 2024-09-18 | 2025-02-21 |
+| [Six As One](https://open.spotify.com/track/1eZPE692vJ6f6QSXIxBk0j) | [TRUE VACANCES](https://open.spotify.com/artist/3qv4DY6NavWy8kQH3Jmngn) | [Six As One](https://open.spotify.com/album/7BjLEOtf0fPrC0ELeM0UJW) | 3:32 | 2026-10-06 |  |
 | [SKY SO HIGH](https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [TRUE BLUE](https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP) | 4:36 | 2025-08-26 |  |
 | [Sleeping Giant](https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [SLAK](https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c) | 5:32 | 2026-04-28 |  |
 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 | 2023-03-14 |  |
@@ -170,11 +173,11 @@
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2024-01-31 |
 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 | 2024-02-27 |  |
 | [トーキョーレギー](https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 4:20 | 2026-01-28 |  |
-| [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 | 2024-09-18 |  |
+| [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 | 2024-09-18 | 2026-10-07 |
 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 | 2024-09-18 |  |
-| [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 | 2026-01-21 |  |
+| [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 | 2026-01-21 | 2026-10-07 |
 | [京都](https://open.spotify.com/track/6xePBiTAAtrAtH2a37fwGS) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [ZIPANG 弐nd](https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q) | 4:25 | 2026-01-28 | 2026-06-30 |
-| [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 | 2026-02-18 |  |
+| [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 | 2026-02-18 | 2026-10-07 |
 | [夏のGravity](https://open.spotify.com/track/6enQtdIj33IpAt8Z0baDpA) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夏のGravity](https://open.spotify.com/album/7rS1CRSWX9zdmlALxZ8m3d) | 2:23 | 2025-07-08 | 2025-08-06 |
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2023-03-14 | 2024-04-19 |
 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 | 2023-03-14 | 2026-02-05 |

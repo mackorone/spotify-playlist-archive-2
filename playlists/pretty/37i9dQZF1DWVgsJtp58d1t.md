@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="spotify:artist:2Gzy8TYJ5xrEMDyUjZuDsK">Masicka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,872 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,865 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 149 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
 | 150 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
 
-Snapshot ID: `AAAAAHpsDRktkLnVk9sjYTF08kLd8Niw`
+Snapshot ID: `AAAAAM93mO9mXdc5wx1Z/qmQjoURI/UV`

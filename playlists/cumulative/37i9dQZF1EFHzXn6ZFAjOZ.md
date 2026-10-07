@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 12 hr 12 min
+211 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Of My Love](https://open.spotify.com/track/65NGL1BaumIDVLpoGyqy26) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/0IRoXjatL55BR2QAgRzByL) | 4:08 | 2024-01-01 | 2024-01-31 |
 | [Ambition](https://open.spotify.com/track/0ykYUf381iNVClU9RyRfKT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 4:52 | 2023-12-30 |  |
 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 | 2023-12-30 |  |
+| [because i love you](https://open.spotify.com/track/1OzJlcVFseginKgnHiuqOC) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 3:31 | 2026-10-06 |  |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2023-12-30 |  |
 | [Bet U Wish](https://open.spotify.com/track/3XFGS2uk0l6neVIXiQ3iYO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Bet U Wish](https://open.spotify.com/album/4V0XKzcLd9niMqbLw5Sf6O) | 3:21 | 2023-12-30 | 2025-06-28 |
 | [Better Things](https://open.spotify.com/track/330IIz7d75eqAsKq1xhzXR) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:23 | 2024-02-27 |  |

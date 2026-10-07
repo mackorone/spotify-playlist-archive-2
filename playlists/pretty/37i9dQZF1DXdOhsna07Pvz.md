@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,542 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,579 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 6 | [Anunciação](https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 4:48 |
 | 7 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 8 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
-| 9 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
-| 10 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
+| 9 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
+| 10 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
 | 11 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 12 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
 | 13 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 45 | [Brasil](https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Focus On...500 Years Of Brazil](https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0) | 2:48 |
 | 46 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
 | 47 | [Cabeça de Nêgo](https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO) | [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [Coleção Nacional](https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu) | 3:57 |
-| 48 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
-| 49 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
+| 48 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
+| 49 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 50 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 51 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Nem Vem Que Não Tem](https://open.spotify.com/album/2T4SgxLYyvVJxqwWGk4Pjq) | 2:32 |
 | 52 | [Nao Force](https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD) | [Joutro Mundo](https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:04 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 55 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
 | 56 | [São Jorge](https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM) | [Juçara Marçal e Kiko Dinucci](https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m) | [Padê](https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU) | 3:05 |
 | 57 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
-| 58 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
+| 58 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
 | 59 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
-| 60 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
+| 60 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 61 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 | 62 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
 | 63 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 66 | [Conto De Areia](https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 3:40 |
 | 67 | [Meu Sangue Ferve Por Você](https://open.spotify.com/track/7DFmmRFl6ms2E9FNCVyM0T) | [Sidney Magal](https://open.spotify.com/artist/5rTeMryHu78OcG49ySDHU1) | [Chacrinha \- O Musical](https://open.spotify.com/album/0BA8MBSI22zv5YhFeAUEHe) | 3:14 |
 | 68 | [Um raio laser](https://open.spotify.com/track/2s1BwI22Ay6ZagD1ube6yn) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Um Raio Laser](https://open.spotify.com/album/7inldfPDvUkQCvJkBrsf0m) | 3:26 |
-| 69 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
-| 70 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
+| 69 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
+| 70 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
 
-Snapshot ID: `AAAAABWPVHCcyPv0l1wO0yP3LO6bFVNx`
+Snapshot ID: `AAAAABKqLFtRy00kT/CLto7+qqaoKbgy`

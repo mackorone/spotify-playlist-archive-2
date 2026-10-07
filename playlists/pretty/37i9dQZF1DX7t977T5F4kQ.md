@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   DopeNation
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,021 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,051 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Oblee](https://open.spotify.com/track/4xAr5VMsyOvrJVEPt6wQGn) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Oblee](https://open.spotify.com/album/6HuwnzhcHKYzkrj6qpOqNf) | 2:28 |
 | 80 | [Odo Nti](https://open.spotify.com/track/2s6f2wUoorQnBk1tm8JrXH) | [Mophty](https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q), [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa) | [Odo Nti](https://open.spotify.com/album/1sb44qTuezcAFllgNEe9wI) | 3:04 |
 
-Snapshot ID: `AAAAAGUHwUFM7CJt4LUa4ptFvy4PUgOO`
+Snapshot ID: `AAAAAFRDzEiXv/m00kA3L8Io+KbRIeqj`

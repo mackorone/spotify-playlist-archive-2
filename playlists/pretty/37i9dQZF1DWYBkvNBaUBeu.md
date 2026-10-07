@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,891 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,888 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
 | 80 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 
-Snapshot ID: `AAAAAGpHgkJeUdoUMTzwN9bvsqPMO9G8`
+Snapshot ID: `AAAAAE6MYz+NfFzx41kQyLRF1FwW6G5D`

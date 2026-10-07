@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: jesda\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: The Young Wolf\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,698 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,702 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ก่อนเธอจะหายไป](https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg) | [Lost Polaroids](https://open.spotify.com/artist/7vFvfoNCkhhQ30I0vsb8YT) | [ก่อนเธอจะหายไป](https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr) | 5:02 |
-| 2 | [ติด \(Circle\)](https://open.spotify.com/track/6g8rkcSmaYa4EeCbq95W3b) | [JOLY](https://open.spotify.com/artist/0rAR9WooSNMPy4tAykW8NE) | [ติด \(Circle\)](https://open.spotify.com/album/43tZMr6lNG16Wlq7ymKj79) | 3:09 |
-| 3 | [พูดออกมาสิ .communicate](https://open.spotify.com/track/6iBJfqPi8ba5HUNYfEKtfy) | [jesda](https://open.spotify.com/artist/05cVUky7fgl6A3HP26u41n) | [พูดออกมาสิ .communicate](https://open.spotify.com/album/37uoKcBPkbLLSAVuM3Cm6s) | 2:58 |
-| 4 | [ลองรักนักวิ่ง \( Love On The Run \)](https://open.spotify.com/track/3WgbQs4b9zKdNwhLbqqvDW) | [EASE](https://open.spotify.com/artist/7hmZ7pAsAffoBjN5ynQIJ4) | [ลองรักนักวิ่ง \( Love On The Run \)](https://open.spotify.com/album/7kqoGlQT3JOTUdTTtx9nMS) | 4:19 |
-| 5 | [Goodguy](https://open.spotify.com/track/3Eml3iMmwTWQcSrHRAOtui) | [Saturn's Light](https://open.spotify.com/artist/51o9Htq8zltnyHIK6cZ7Fe) | [Goodguy](https://open.spotify.com/album/5t9POAD3W9UglxX550zgsU) | 3:42 |
-| 6 | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 |
-| 7 | [คิดถึงเเค่ไหน \(404 Not Found\)](https://open.spotify.com/track/0JW1hpkgeOtsKAmK7u4VMJ) | [erutanpsn](https://open.spotify.com/artist/6HMA2phbGuWvz8aiUvPZkP) | [คิดถึงเเค่ไหน \(404 Not Found\)](https://open.spotify.com/album/1VMcBPtjm6xgfgEOq2R6VQ) | 3:40 |
-| 8 | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/track/0Y9SCr1oUEm7qfUQGh9zCs) | [redmango404](https://open.spotify.com/artist/4r25ksMDtsLaguQ2BAy1AK) | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/album/3KxVEL0AFcV7oNzFjrnMl3) | 4:46 |
-| 9 | [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/track/1qivAYxhYjitA0YJ1RWEi8) | [PEPPA PEAK](https://open.spotify.com/artist/2mRJgEPpfyHmsSQ1xlNIfg) | [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/album/2BjCYAAqX5xsoRh9xVrvci) | 3:04 |
-| 10 | [Adore](https://open.spotify.com/track/5UrImmfgaR89pknZBKoZND) | [JOONS](https://open.spotify.com/artist/0A4Iu6DpHpYibqc61Zw4oP) | [Adore](https://open.spotify.com/album/4xXMK306X7JV3LKii30A8L) | 3:26 |
-| 11 | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 |
-| 12 | [Million Years \- ล้านปี](https://open.spotify.com/track/0Snx5k5SHbTAS5Q2n3sGsQ) | [RyuzilL](https://open.spotify.com/artist/06yq9b41Zua4F3rzXTQG9y) | [Million Years \(ล้านปี\)](https://open.spotify.com/album/1OU1gC0i5beOYQ2Mc3zIZO) | 4:42 |
-| 13 | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi) | [WINNING](https://open.spotify.com/artist/0O8xugIMlXx64eukbqYVgc) | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/album/2pi4uVwZB3FEgXuIfxLdKQ) | 3:03 |
-| 14 | [โคตรคิดถึง](https://open.spotify.com/track/6YJlvheMKliZyu5QeAzP1O) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [โคตรคิดถึง](https://open.spotify.com/album/4RtBmqdaJ5SFsKRyF88GsB) | 3:33 |
+| 1 | [ติด \(Circle\)](https://open.spotify.com/track/6g8rkcSmaYa4EeCbq95W3b) | [JOLY](https://open.spotify.com/artist/0rAR9WooSNMPy4tAykW8NE) | [ติด \(Circle\)](https://open.spotify.com/album/43tZMr6lNG16Wlq7ymKj79) | 3:09 |
+| 2 | [คิดถึงเเค่ไหน \(404 Not Found\)](https://open.spotify.com/track/0JW1hpkgeOtsKAmK7u4VMJ) | [erutanpsn](https://open.spotify.com/artist/6HMA2phbGuWvz8aiUvPZkP) | [คิดถึงเเค่ไหน \(404 Not Found\)](https://open.spotify.com/album/1VMcBPtjm6xgfgEOq2R6VQ) | 3:40 |
+| 3 | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi) | [WINNING](https://open.spotify.com/artist/0O8xugIMlXx64eukbqYVgc) | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/album/2pi4uVwZB3FEgXuIfxLdKQ) | 3:03 |
+| 4 | [The Ace \(of spades\)](https://open.spotify.com/track/5aI5AHEAxVSRYSkKh1ihx9) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [The Dead Man's Hand](https://open.spotify.com/album/2W8UlHxDfat0iea73Z9lmo) | 4:21 |
+| 5 | [ก่อนเธอจะหายไป](https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg) | [Lost Polaroids](https://open.spotify.com/artist/7vFvfoNCkhhQ30I0vsb8YT) | [ก่อนเธอจะหายไป](https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr) | 5:02 |
+| 6 | [โคตรคิดถึง](https://open.spotify.com/track/6YJlvheMKliZyu5QeAzP1O) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [โคตรคิดถึง](https://open.spotify.com/album/4RtBmqdaJ5SFsKRyF88GsB) | 3:33 |
+| 7 | [พูดออกมาสิ .communicate](https://open.spotify.com/track/6iBJfqPi8ba5HUNYfEKtfy) | [jesda](https://open.spotify.com/artist/05cVUky7fgl6A3HP26u41n) | [พูดออกมาสิ .communicate](https://open.spotify.com/album/37uoKcBPkbLLSAVuM3Cm6s) | 2:58 |
+| 8 | [ลองรักนักวิ่ง \( Love On The Run \)](https://open.spotify.com/track/3WgbQs4b9zKdNwhLbqqvDW) | [EASE](https://open.spotify.com/artist/7hmZ7pAsAffoBjN5ynQIJ4) | [ลองรักนักวิ่ง \( Love On The Run \)](https://open.spotify.com/album/7kqoGlQT3JOTUdTTtx9nMS) | 4:19 |
+| 9 | [Goodguy](https://open.spotify.com/track/3Eml3iMmwTWQcSrHRAOtui) | [Saturn's Light](https://open.spotify.com/artist/51o9Htq8zltnyHIK6cZ7Fe) | [Goodguy](https://open.spotify.com/album/5t9POAD3W9UglxX550zgsU) | 3:42 |
+| 10 | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/track/0Y9SCr1oUEm7qfUQGh9zCs) | [redmango404](https://open.spotify.com/artist/4r25ksMDtsLaguQ2BAy1AK) | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/album/3KxVEL0AFcV7oNzFjrnMl3) | 4:46 |
+| 11 | [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/track/1qivAYxhYjitA0YJ1RWEi8) | [PEPPA PEAK](https://open.spotify.com/artist/2mRJgEPpfyHmsSQ1xlNIfg) | [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/album/2BjCYAAqX5xsoRh9xVrvci) | 3:04 |
+| 12 | [Adore](https://open.spotify.com/track/5UrImmfgaR89pknZBKoZND) | [JOONS](https://open.spotify.com/artist/0A4Iu6DpHpYibqc61Zw4oP) | [Adore](https://open.spotify.com/album/4xXMK306X7JV3LKii30A8L) | 3:26 |
+| 13 | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 |
+| 14 | [Million Years \- ล้านปี](https://open.spotify.com/track/0Snx5k5SHbTAS5Q2n3sGsQ) | [RyuzilL](https://open.spotify.com/artist/06yq9b41Zua4F3rzXTQG9y) | [Million Years \(ล้านปี\)](https://open.spotify.com/album/1OU1gC0i5beOYQ2Mc3zIZO) | 4:42 |
 | 15 | [BETTER](https://open.spotify.com/track/6GxnPinovu0AosoXMwwV6T) | [QLO](https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF) | [BETTER](https://open.spotify.com/album/3zOcqZ20AhEJyrdNPlxMA8) | 2:42 |
 | 16 | [ไม่หลับไม่นอน](https://open.spotify.com/track/6R9Y1VOrwEylj2f5pkK6ZI) | [Pawitt](https://open.spotify.com/artist/74SBxmdiDYl2tNbxmQg7VM) | [ไม่หลับไม่นอน](https://open.spotify.com/album/3QFeCtREbpSagNoeoimGQv) | 3:42 |
 | 17 | [ถ้าเธอรักเขา \- Not Mine](https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl) | [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ถ้าเธอรักเขา \(Not Mine\)](https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 59 | [ก็แค่น้อยใจ](https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd) | [PAIRY](https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep) | [ก็แค่น้อยใจ](https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw) | 2:28 |
 | 60 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 
-Snapshot ID: `AAAAAKSmtQpA24uqZXW56GMDdxcPlWMV`
+Snapshot ID: `AAAAALLQdEObqA2uS79sjQVCEoV8mkYm`

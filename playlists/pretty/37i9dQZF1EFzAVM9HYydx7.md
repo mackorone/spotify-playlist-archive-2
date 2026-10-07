@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124 likes - 319 songs - 19 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125 likes - 319 songs - 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 81 | [No New Friends \- SFTB Remix](https://open.spotify.com/track/04a1HkNH7LFsG5mEiLN7vl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Suffering From Success](https://open.spotify.com/album/0nRAbeyOElQVVHsDTRYbOO) | 5:08 |
 | 82 | [Best Life \(feat\. Chance The Rapper\)](https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:44 |
 | 83 | [Diplomatic Immunity](https://open.spotify.com/track/4haJoBPbPj9QFKNpp9e8kx) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Diplomatic Immunity](https://open.spotify.com/album/46Uz9e8yCamc8M6bXBaRyP) | 4:15 |
-| 84 | [Uptown \(feat\. Bun B & Lil Wayne\)](https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:22 |
-| 85 | [6PM In New York](https://open.spotify.com/track/5mZJwWdxAOR4xUvSGZvvMU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:43 |
+| 84 | [6PM In New York](https://open.spotify.com/track/5mZJwWdxAOR4xUvSGZvvMU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:43 |
+| 85 | [Uptown \(feat\. Bun B & Lil Wayne\)](https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:22 |
 | 86 | [Wicked Freestyle](https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:48 |
 | 87 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
 | 88 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 202 | [Rapper Estates \(feat\. Benny The Butcher\)](https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 3:23 |
 | 203 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 204 | [NBA \(feat\. Wiz Khalifa and French Montana\)](https://open.spotify.com/track/2tZGjqVZJzHiXLvhlBMN6t) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [No Love Lost](https://open.spotify.com/album/2kChyU6pvb9C2JM7OTSi2T) | 5:05 |
-| 205 | [TOUCH ME](https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 3:46 |
+| 205 | [TOUCH ME](https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a) | 3:46 |
 | 206 | [Immigration To The Trap](https://open.spotify.com/track/5bePAvg3OIBTCmWB9j430m) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 1:53 |
 | 207 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 208 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
@@ -328,4 +328,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 318 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 319 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AceKygAAAAALb32PHHW12IX36FHCLeBH`
+Snapshot ID: `AceQLgAAAADnQaRIlpzcSuFqFHUpvU4E`

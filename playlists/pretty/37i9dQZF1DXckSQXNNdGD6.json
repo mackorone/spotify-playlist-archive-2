@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22967,
+  "num_followers": 22966,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEUI3fkETytuD+zsYb1CKR96FPkS",
+  "snapshot_id": "AAAAAAhTuAYeCRnTdPb6osUQSoBZ3oAj",
   "tracks": [
     {
       "added_at": "2026-09-11 15:45:48",
@@ -355,18 +355,22 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "favorita de la vida",
-        "url": "https://open.spotify.com/album/0sN55xZeR9VTYNUjplmblW"
+        "name": "dama en apuros remix metrika",
+        "url": "https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ"
       },
       "artists": [
         {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
         }
       ],
-      "duration_ms": 170360,
-      "name": "favorita de la vida",
-      "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
+      "duration_ms": 147640,
+      "name": "dama en apuros remix metrika",
+      "url": "https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -427,22 +431,18 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "dama en apuros remix metrika",
-        "url": "https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ"
+        "name": "favorita de la vida",
+        "url": "https://open.spotify.com/album/0sN55xZeR9VTYNUjplmblW"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
         }
       ],
-      "duration_ms": 147640,
-      "name": "dama en apuros remix metrika",
-      "url": "https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO"
+      "duration_ms": 170360,
+      "name": "favorita de la vida",
+      "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "EL NENE, VOL 2",
-        "url": "https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Soulost",
         "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
       },
@@ -727,22 +711,34 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Ouineta Verificada",
-        "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
+        "name": "EL NENE, VOL 2",
+        "url": "https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu"
       },
       "artists": [
         {
-          "name": "Ouineta",
-          "url": "https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3"
-        },
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 181001,
-      "name": "NOIS",
-      "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+      "duration_ms": 130666,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "Toujours oui <3",
+        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "Toujours oui <3",
+      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -763,18 +759,22 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Toujours oui <3",
-        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
+        "name": "Ouineta Verificada",
+        "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Ouineta",
+          "url": "https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         }
       ],
-      "duration_ms": 205738,
-      "name": "Toujours oui <3",
-      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
+      "duration_ms": 181001,
+      "name": "NOIS",
+      "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
         "name": "Recardelino",
         "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 187634,
       "name": "D\u00e9jalo Ir",
       "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
-        "name": "Yo quiero un affaire",
-        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Yo quiero un affaire",
-      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "added_at": "2026-09-07 22:00:31",

@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 104368,
+  "num_followers": 104382,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEG4regEMV5e4a/B8CYTGABS+qC4",
+  "snapshot_id": "AAAAAISokb9KAZt4y4HPj9p8dRlN6+cC",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     },
     {
       "added_at": "2022-05-11 15:37:27",

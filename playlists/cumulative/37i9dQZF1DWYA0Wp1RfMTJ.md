@@ -4,7 +4,7 @@
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-80 songs - 17 hr 5 min
+81 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [【 第7回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【上田麗奈＆小野賢章】](https://open.spotify.com/episode/1w74vFBCaSWlhPiYvz5uVf) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 59:39 | 2025-04-04 |  |
 | [【 第8回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【鬼頭明里＆結川あさき】](https://open.spotify.com/episode/0MsCqMT7kpglY03CJVHD6Y) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 50:36 | 2025-04-04 |  |
 | [【 第9回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【上田麗奈＆永瀬アンナ】](https://open.spotify.com/episode/6ge6SaihmzA1RiEgzTNChI) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 53:21 | 2025-04-04 |  |
+| [あなたの花の色](https://open.spotify.com/track/4or5caHru8j2EHRLmjSZay) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [最後に熱い日々を狂わしき想いで](https://open.spotify.com/album/435VD0Boy9b1FQ7HOsS4m6) | 4:00 | 2026-10-06 |  |
 | [ありがとう](https://open.spotify.com/track/5gqzBK4RFM9Jwq6qA4uG1p) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:53 | 2025-04-03 |  |
 | [いつもの風景](https://open.spotify.com/track/0izJEHPw6rpHoPhBEg9coq) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:38 | 2025-04-03 |  |
 | [おしゃべり](https://open.spotify.com/track/0pcNzZ6MJrbaVFhJXvQCEs) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:46 | 2025-04-03 |  |

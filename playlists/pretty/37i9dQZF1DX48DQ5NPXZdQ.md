@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 
 > Su música, como ellos, es eterna\. José José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,452 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,463 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 2 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 |
-| 3 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
-| 4 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 |
+| 3 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 |
+| 4 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
 | 5 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 6 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 7 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 40 | [No Discutamos](https://open.spotify.com/track/3kkkjHun0BfnpBZfiQJgfd) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 2:15 |
 | 41 | [El Día Que Me Quieras](https://open.spotify.com/track/2LdjqsBZHy5RdUUzdbtcka) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Carlos Gardel](https://open.spotify.com/album/7dJE0Yi1vCL10OgysqFbJS) | 3:22 |
 | 42 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 43 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 |
-| 44 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 |
-| 45 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
-| 46 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
-| 47 | [Si Nos Dejan](https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Serie 20 Exitos](https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e) | 2:24 |
-| 48 | [El Cantante](https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man and His Music](https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP) | 10:23 |
+| 43 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
+| 44 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 |
+| 45 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 |
+| 46 | [El Cantante](https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man and His Music](https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP) | 10:23 |
+| 47 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
+| 48 | [Si Nos Dejan](https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Serie 20 Exitos](https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e) | 2:24 |
 | 49 | [Amor Chiquito](https://open.spotify.com/track/3UBu1v5SiusUctK44s3sLL) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito de la Tele "Cepillin"](https://open.spotify.com/album/1jAFxGIOlZmcirweEwRkJW) | 2:32 |
 | 50 | [María Bonita](https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Serie Platino](https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1) | 3:20 |
 
-Snapshot ID: `AAAAADIYjgnRcW3xUzD8AKJhgkht00SI`
+Snapshot ID: `AAAAAKvHNKVo/jFbj+bUG8ZaAzvT23fw`

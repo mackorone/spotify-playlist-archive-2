@@ -1,12 +1,12 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Taylor Swift",
-  "num_followers": 249586,
+  "num_followers": 249578,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYlfLzWkK6hkJd92pq2MdW/Rkjr",
+  "snapshot_id": "AAAAAKvoDy8pqg7TUJbgnYgCkLw2ehNZ",
   "tracks": [
     {
       "added_at": "2026-10-01 22:01:19",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -243,18 +243,18 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Good Reason",
-      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
-    },
-    {
-      "added_at": "2026-10-01 22:01:19",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
+    },
+    {
+      "added_at": "2026-10-01 22:01:19",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -919,18 +919,22 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "PASSENGER",
-        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+        "name": "des fleurs x stromae",
+        "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         }
       ],
-      "duration_ms": 159771,
-      "name": "PASSENGER",
-      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+      "duration_ms": 172544,
+      "name": "des fleurs x stromae",
+      "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -971,22 +975,18 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "des fleurs x stromae",
-        "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 172544,
-      "name": "des fleurs x stromae",
-      "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "RESCUER",
-        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "RESCUER",
-      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
-    },
-    {
-      "added_at": "2026-10-01 22:01:19",
-      "album": {
         "name": "A Matter of Time: The Final Hour",
         "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-10-01 22:01:19",
+      "album": {
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
     },
     {
       "added_at": "2026-10-01 22:01:19",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-10-01 22:01:19",
       "album": {
-        "name": "FINE PLACE TO DIE",
-        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 187423,
-      "name": "FINE PLACE TO DIE",
-      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
-    },
-    {
-      "added_at": "2026-10-01 22:01:19",
-      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+    },
+    {
+      "added_at": "2026-10-01 22:01:19",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "added_at": "2026-10-01 22:01:19",

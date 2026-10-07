@@ -1,12 +1,12 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1430490,
+  "num_followers": 1430406,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcxYocVAN0UBJlEBFrPZRQ06yQN",
+  "snapshot_id": "AAAAAIQ+TM/mSiAxiSOl3CwSYek6YxCl",
   "tracks": [
     {
       "added_at": "2026-10-02 19:28:11",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
-        "name": "HEY!",
-        "url": "https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt"
-      },
-      "artists": [
-        {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
-          "name": "Necroez",
-          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
-        }
-      ],
-      "duration_ms": 138571,
-      "name": "HEY!",
-      "url": "https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU"
-    },
-    {
-      "added_at": "2026-10-02 19:28:11",
-      "album": {
         "name": "Dentro da Sua",
         "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Necroez",
+          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+        }
+      ],
+      "duration_ms": 138571,
+      "name": "HEY!",
+      "url": "https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU"
+    },
+    {
+      "added_at": "2026-10-02 19:28:11",
+      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 122834,
       "name": "Milimetricamente",
       "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-10-02 19:28:11",
-      "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-10-02 19:28:11",
@@ -759,6 +739,26 @@
       "duration_ms": 177828,
       "name": "Dentro Da SUV",
       "url": "https://open.spotify.com/track/5URD5SYQH1QWxurojwaa8R"
+    },
+    {
+      "added_at": "2026-10-02 19:28:11",
+      "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-10-02 19:28:11",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Trick",
+          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 181079,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
+    },
+    {
+      "added_at": "2026-10-02 19:28:11",
+      "album": {
         "name": "Sol Na Lata",
         "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
       },
@@ -1203,34 +1231,6 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Trick",
-          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 181079,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
-    },
-    {
-      "added_at": "2026-10-02 19:28:11",
-      "album": {
         "name": "Session analogic #1",
         "url": "https://open.spotify.com/album/7By3rMLOdYgYJmbhEohVjV"
       },
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
+        "name": "Sorte do Dia",
+        "url": "https://open.spotify.com/album/6yovtSbFJUBPF8RNxA40C9"
+      },
+      "artists": [
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "Sorte do Dia",
+      "url": "https://open.spotify.com/track/7yAOnA6YczejKj08GPE5Ay"
+    },
+    {
+      "added_at": "2026-10-02 19:28:11",
+      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -1319,22 +1339,22 @@
     {
       "added_at": "2026-10-02 19:28:11",
       "album": {
-        "name": "Sorte do Dia",
-        "url": "https://open.spotify.com/album/6yovtSbFJUBPF8RNxA40C9"
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
       },
       "artists": [
         {
-          "name": "Anna Suav",
-          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
         },
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         }
       ],
-      "duration_ms": 180857,
-      "name": "Sorte do Dia",
-      "url": "https://open.spotify.com/track/7yAOnA6YczejKj08GPE5Ay"
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
     },
     {
       "added_at": "2026-10-02 19:28:11",
@@ -1383,26 +1403,6 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
-    },
-    {
-      "added_at": "2026-10-02 19:28:11",
-      "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
     },
     {
       "added_at": "2026-10-02 19:28:11",

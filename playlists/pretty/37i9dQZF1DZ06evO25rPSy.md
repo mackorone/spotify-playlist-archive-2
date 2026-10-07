@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,266 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,268 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 18 | [No Llores Más](https://open.spotify.com/track/6b99570f9AyRpALqusGu05) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:55 |
 | 19 | [Sentimiento Increible](https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 |
 | 20 | [Recuéstame](https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 3:55 |
-| 21 | [Nadia \(feat\. Juan Diego Florez\)](https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:50 |
+| 21 | [Ponerme a volar](https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:43 |
 | 22 | [Globo de Gas](https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:08 |
 | 23 | [Mi Auto Era Una Rana](https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:58 |
 | 24 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 |
-| 25 | [Ponerme a volar](https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:43 |
+| 25 | [Nadia \(feat\. Juan Diego Florez\)](https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:50 |
 | 26 | [Tema del Adiós](https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy) | 4:11 |
 | 27 | [Qué Oscuridad](https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 4:28 |
 | 28 | [Cuando El Sol Va A Salir](https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:33 |

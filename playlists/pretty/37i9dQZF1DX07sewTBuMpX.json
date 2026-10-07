@@ -1,12 +1,12 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141828,
+  "num_followers": 141841,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPk+OlxWcrJjr29ngcGIJ5vY4IlJ",
+  "snapshot_id": "AAAAADfPnDFlHpGguFwx/57PINEHa4Os",
   "tracks": [
     {
       "added_at": "2026-09-28 22:00:24",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Don Julio Daddy",
-        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Don Julio Daddy",
-      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 155381,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Don Julio Daddy",
+        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Don Julio Daddy",
+      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Stemgeluid",
         "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 206988,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
     },
     {
       "added_at": "2026-09-28 22:00:24",

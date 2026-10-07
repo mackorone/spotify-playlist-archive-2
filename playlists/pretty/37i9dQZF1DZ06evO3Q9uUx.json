@@ -1,6 +1,6 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16448,
+  "num_followers": 16454,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
@@ -428,7 +428,7 @@
       "added_at": null,
       "album": {
         "name": "BIANCA (Deluxe)",
-        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+        "url": "https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm"
       },
       "artists": [
         {
@@ -436,13 +436,21 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
         }
       ],
-      "duration_ms": 165801,
-      "name": "WE ON GO III (feat. TiaCorine)",
-      "url": "https://open.spotify.com/track/2wDKkCGz1JQfMaLgkERmcv"
+      "duration_ms": 177709,
+      "name": "ROLLIN - Remix",
+      "url": "https://open.spotify.com/track/67wx36cWIXy1dC9oWDEzxF"
     },
     {
       "added_at": null,
@@ -524,7 +532,7 @@
       "added_at": null,
       "album": {
         "name": "BIANCA (Deluxe)",
-        "url": "https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm"
+        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
       },
       "artists": [
         {
@@ -532,21 +540,13 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Stunna Sandy",
-          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         }
       ],
-      "duration_ms": 177709,
-      "name": "ROLLIN - Remix",
-      "url": "https://open.spotify.com/track/67wx36cWIXy1dC9oWDEzxF"
+      "duration_ms": 165801,
+      "name": "WE ON GO III (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/2wDKkCGz1JQfMaLgkERmcv"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DADE",
         "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young (ft. BIA & Destroy Lonely)",
         "url": "https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 168074,
       "name": "Young (ft. BIA & Destroy Lonely)",
       "url": "https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 149497,
-      "name": "COVER GIRL",
-      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
     },
     {
       "added_at": null,
@@ -1075,30 +1075,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+        "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+        "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
       },
       "artists": [
         {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 228251,
-      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+      "duration_ms": 144796,
+      "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+      "url": "https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu"
     }
   ],
   "unique_name": "This Is BIA",

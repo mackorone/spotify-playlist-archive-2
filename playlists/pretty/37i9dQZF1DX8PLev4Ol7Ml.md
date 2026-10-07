@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: モーニング娘。'26
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,018 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,015 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [Butterfly \(TV size\)](https://open.spotify.com/track/77uJdJBV8czCRNYTqbq2Wc) | [INUWASI](https://open.spotify.com/artist/5ohPhAHJDOqmiRLbgTHQBH) | [TVアニメ『捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました』オリジナルサウンドトラック](https://open.spotify.com/album/4Ub8b1uus5mQyJ2TcbB8oD) | 1:33 |
 | 50 | [桜花爛漫](https://open.spotify.com/track/0gfHZA3H0dN1BsgZJvdVjG) | [ディアブルボア](https://open.spotify.com/artist/5HUFWk7wAt5E23v6aNunFR) | [桜花爛漫](https://open.spotify.com/album/4KzYJCHAignFfiLUYzCbER) | 4:02 |
 
-Snapshot ID: `AAAAAHgHPcrksXDK7E7TnCo2cD13cfE8`
+Snapshot ID: `AAAAAPsEM0i7RIsdNXZ4iYvQVodBDGWR`

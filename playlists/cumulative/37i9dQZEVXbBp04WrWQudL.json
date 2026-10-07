@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 252302,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 168298,
       "name": "GET EVEN",
       "url": "https://open.spotify.com/track/3ksPsHjq0rvoM5lfavmExY"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 239210,
       "name": "Happiness Is So Sad",
       "url": "https://open.spotify.com/track/157QjsVq8YdtPgJrd57PFp"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 202552,
       "name": "I Will Always Love You - Live From The 2026 MTV VMAs",
       "url": "https://open.spotify.com/track/58ba4WzPoN6C0cVCd4Q28q"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 146249,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 255284,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 211463,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/3TFrcyXnpc0zOgcLd5Vjb2"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 228550,
       "name": "Pure (Live) | Presented by Spotify",
       "url": "https://open.spotify.com/track/1qsvzrtLNBtdK413pJ51A8"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 230279,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/7EimtFVVIXTqNql0r1YsmE"
@@ -3449,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Sonne (Live in Mexico City)",
+        "url": "https://open.spotify.com/album/1oUrydzZSQ2J3NSnyu12iW"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298806,
+      "name": "Sonne - Live in Mexico City",
+      "url": "https://open.spotify.com/track/1gwzsMBEZTgU5weTGToJwi"
+    },
+    {
+      "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/2oYO6jxypHjUrE56nf0g4l"
       },
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 236766,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 197376,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/4h8HRVsErpk4N1TxE0sApE"
@@ -3782,7 +3800,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"

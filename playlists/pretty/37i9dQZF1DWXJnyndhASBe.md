@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Young Leosia
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,047 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,028 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [RED BULL 64 BARS](https://open.spotify.com/track/62uPooqlz5eELqyv675VlW) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [RED BULL 64 BARS](https://open.spotify.com/album/1DbNDbr3NizI0NdaX5iSyk) | 3:31 |
 | 50 | [Grand Soir](https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV) | 2:13 |
 
-Snapshot ID: `AAAAAJxarin5M+MVvlFT4RY5o9FLjuIE`
+Snapshot ID: `AAAAAEQnSbecH6ALGjZBwDvy6aXUCsml`

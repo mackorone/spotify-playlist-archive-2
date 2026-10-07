@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Forrest Nolan",
-  "num_followers": 1661407,
+  "num_followers": 1661444,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPD7ljUsvAUSD/6j3iCd2oyo2+9Y",
+  "snapshot_id": "AAAAAGmdIuglYyJOV/4QqwKz+IeyOzqK",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 265606,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "PARTY",
-        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 180116,
-      "name": "Caught Myself Believing",
-      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
         "name": "Fell Asleep in the Sun",
         "url": "https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         }
       ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -859,18 +843,34 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
       },
       "artists": [
         {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+      "duration_ms": 180116,
+      "name": "Caught Myself Believing",
+      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
         "name": "Sweet Hallelujah",
         "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6"
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 189320,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ"
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
         "name": "will you be coming around?",
         "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 218433,
+      "name": "The Fall - Shadow",
+      "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
         "name": "Endless Sundays",
         "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 254026,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
-      },
-      "artists": [
-        {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
-        }
-      ],
-      "duration_ms": 218433,
-      "name": "The Fall - Shadow",
-      "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -1285,20 +1285,36 @@
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
     },
     {
-      "added_at": "2026-09-18 04:00:30",
+      "added_at": "2026-10-02 04:02:18",
       "album": {
-        "name": "Tough Luck (When You Don\u2019t Call)",
-        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG"
       },
       "artists": [
         {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          "name": "Jade Street",
+          "url": "https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Tough Luck (When You Don\u2019t Call)",
-      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
+      "duration_ms": 173849,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A"
+    },
+    {
+      "added_at": "2026-10-02 04:02:18",
+      "album": {
+        "name": "hunting what we already killed",
+        "url": "https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 216729,
+      "name": "in the middle of the night",
+      "url": "https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -1335,6 +1351,22 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
+        "name": "Tough Luck (When You Don\u2019t Call)",
+        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Tough Luck (When You Don\u2019t Call)",
+      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
         "name": "Romanticize",
         "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
       },
@@ -1367,70 +1399,6 @@
       "duration_ms": 229100,
       "name": "lie alone",
       "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
-    },
-    {
-      "added_at": "2026-10-02 04:02:18",
-      "album": {
-        "name": "hunting what we already killed",
-        "url": "https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 216729,
-      "name": "in the middle of the night",
-      "url": "https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET"
-    },
-    {
-      "added_at": "2026-10-02 04:02:18",
-      "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG"
-      },
-      "artists": [
-        {
-          "name": "Jade Street",
-          "url": "https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11"
-        }
-      ],
-      "duration_ms": 173849,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 194592,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
-        "name": "In N Out",
-        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
-      },
-      "artists": [
-        {
-          "name": "Zach Stephenson",
-          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "In N Out",
-      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
     },
     {
       "added_at": "2026-09-25 13:45:07",
@@ -1471,6 +1439,38 @@
     {
       "added_at": "2026-09-18 04:00:30",
       "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 194592,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
         "name": "Edges of You",
         "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 194746,
       "name": "Edges of You",
       "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
+    },
+    {
+      "added_at": "2026-09-18 04:00:30",
+      "album": {
+        "name": "Nothing's Accidental",
+        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nothing's Accidental",
+      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -1515,22 +1531,6 @@
       "duration_ms": 206247,
       "name": "Wine",
       "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"
-    },
-    {
-      "added_at": "2026-09-18 04:00:30",
-      "album": {
-        "name": "Nothing's Accidental",
-        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Nothing's Accidental",
-      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     },
     {
       "added_at": "2026-09-18 04:00:30",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0"
     },
     {
+      "added_at": "2026-09-25 04:02:38",
+      "album": {
+        "name": "The Chapel",
+        "url": "https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 182900,
+      "name": "The Chapel",
+      "url": "https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ"
+    },
+    {
       "added_at": "2026-09-18 04:00:30",
       "album": {
         "name": "PIXIE",
@@ -1615,22 +1631,6 @@
       "duration_ms": 156640,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
-    },
-    {
-      "added_at": "2026-09-25 04:02:38",
-      "album": {
-        "name": "The Chapel",
-        "url": "https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
-        }
-      ],
-      "duration_ms": 182900,
-      "name": "The Chapel",
-      "url": "https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ"
     },
     {
       "added_at": "2026-09-18 04:00:30",

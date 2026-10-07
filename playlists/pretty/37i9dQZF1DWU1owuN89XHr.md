@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,829 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,856 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 40 | [Hoy Como Ayer](https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Hoy Como Ayer](https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4) | 4:32 |
 | 41 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
 | 42 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
-| 43 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
-| 44 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
+| 43 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
+| 44 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
 | 45 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
 | 46 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 47 | [Ojalá](https://open.spotify.com/track/2PptHH46AdfiLRh4964cch) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Ojalá](https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw) | 3:21 |
-| 48 | [Márgenes](https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Arde Estocolmo](https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE) | 3:13 |
-| 49 | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i) | [Beatriz Gutiérrez Müller](https://open.spotify.com/artist/2GTKkzcRGQXRQJLDFmnfrt), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U) | 3:26 |
+| 48 | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i) | [Beatriz Gutiérrez Müller](https://open.spotify.com/artist/2GTKkzcRGQXRQJLDFmnfrt), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U) | 3:26 |
+| 49 | [Márgenes](https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Arde Estocolmo](https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE) | 3:13 |
 | 50 | [Para una Imaginaria María del Carmen](https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE) | [Noel Nicola](https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR), [Santiago Feliú](https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns) | [Colección Nos Queda Su Canción, Vol\. 8: Entre Otros](https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR) | 3:26 |
 | 51 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
 | 52 | [Trapecistas \- En Vivo](https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Bernardo Quesada](https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T) | [20 Años de Viaje, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [El Manual de Lo Prohibido](https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo / Ni Tan Sólo 2](https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T) | 4:05 |
 | 100 | [Porque la Queria](https://open.spotify.com/track/4qGQMRzfi3zZRTMy5HIevR) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Te Seguiré](https://open.spotify.com/album/1oxsfEFwpEc1PnUYTBQpjH) | 3:39 |
 
-Snapshot ID: `AAAAANo1xZSpYFvaOR7iL0gNAI+HHlGY`
+Snapshot ID: `AAAAADM2f0dl9MZ/1qgPVQ37WBIDjr69`

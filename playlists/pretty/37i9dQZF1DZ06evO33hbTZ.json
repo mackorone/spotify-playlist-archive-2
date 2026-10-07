@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAACLYxFi0HYtXO7tn0D8ekWM",
+  "snapshot_id": "asGXAAAAAADWTAuguZ5/dbL4u2VumsyT",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalm 8",
-        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Psalm 8",
-      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalm 8",
+        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 256872,
-      "name": "2Cor 5:7",
-      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+      "duration_ms": 247719,
+      "name": "Yahweh Will Manifest Himself",
+      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 247719,
-      "name": "Yahweh Will Manifest Himself",
-      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+      "duration_ms": 256872,
+      "name": "2Cor 5:7",
+      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
     },
     {
       "added_at": null,
@@ -407,42 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subscribed (Live)",
-        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Subscribed - Live",
-      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Absolutely Nothing",
-      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD and MORE",
-        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
-      },
-      "artists": [
-        {
-          "name": "Toluwanimee",
-          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 371457,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 318727,
       "name": "Dependable God",
       "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOOD and MORE",
+        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
+      },
+      "artists": [
+        {
+          "name": "Toluwanimee",
+          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 371457,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
     },
     {
       "added_at": null,

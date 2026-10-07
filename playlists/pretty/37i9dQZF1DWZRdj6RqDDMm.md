@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,653 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,695 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [You God](https://open.spotify.com/track/3ZLL2PTBvwbyaWgcotVZip) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You God](https://open.spotify.com/album/4Jh2UhQ9UW9piDyhGnPoEz) | 2:29 |
 | 100 | [Kavuyo \- Live](https://open.spotify.com/track/4rChOsCdjb9lvZrTAIpYeu) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Kavuyo \(Live\)](https://open.spotify.com/album/7B9UJmRVolieUUZMMc4ZLd) | 3:41 |
 
-Snapshot ID: `AAAAAEC1Cc/1Z9LbhtIZqnOU+V45WSAt`
+Snapshot ID: `AAAAAG74eDkjSJmoLNaLAfcxRGW0knIT`

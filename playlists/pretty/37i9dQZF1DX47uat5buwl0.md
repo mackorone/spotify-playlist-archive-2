@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Banger na banger\. Cover: Def 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,581 likes - 72 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,568 likes - 72 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBrittneySGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
+| 1 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
 | 2 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 |
 | 3 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 4 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 71 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 72 | [Drugsprobleem](https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk) | 2:44 |
 
-Snapshot ID: `AAAAAB+vJpHwHVMc88UC5rKyUEO6grQU`
+Snapshot ID: `AAAAABU8fl/0XsrkVl0l/umnHZQua8BL`

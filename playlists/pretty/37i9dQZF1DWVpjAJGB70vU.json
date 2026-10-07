@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2270064,
+  "num_followers": 2270432,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI74iwGo4QgmZmiVFdanAISbAqrY",
+  "snapshot_id": "AAAAANWAFSw/rTkw8GZCK8Wk0fz9rf/v",
   "tracks": [
     {
       "added_at": "2026-02-11 22:52:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 256066,
       "name": "I Can Still Make Cheyenne",
       "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 193064,
-      "name": "There's Your Trouble",
-      "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1115,22 +1115,6 @@
       "duration_ms": 180160,
       "name": "T-R-O-U-B-L-E",
       "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "There's Your Trouble",
+      "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 162466,
       "name": "Wink",
       "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 223973,
       "name": "One Way Ticket (Because I Can)",
       "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1783,8 +1783,8 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
@@ -1792,9 +1792,9 @@
           "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1863,8 +1863,8 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
       "artists": [
         {
@@ -1872,9 +1872,9 @@
           "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2026-02-11 22:52:29",

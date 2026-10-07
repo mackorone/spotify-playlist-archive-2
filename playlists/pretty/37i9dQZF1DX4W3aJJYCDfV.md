@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Michael Kiwanuka, Fontaines D.C., Drake, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,939 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,899 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
 | 101 | [No Problem \(feat\. Bryte\)](https://open.spotify.com/track/4w3iQNSo3AKGWiUozuaudS) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [No Problem \(feat\. Bryte\)](https://open.spotify.com/album/2ngDZz6Z62POTczGmfjL4d) | 2:13 |
 
-Snapshot ID: `AAAAACVP2Y0oTEY5HvmGXdv4ZE1sq891`
+Snapshot ID: `AAAAAEVDVxomTJ1tUFwuJ0SSPyEtsb9O`

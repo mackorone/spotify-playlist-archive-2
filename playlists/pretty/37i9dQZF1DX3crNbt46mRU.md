@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Bligg, Monet192, Provinz, Quavo, Future, Holly Humberstone & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,748 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,742 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 97 | [INAT](https://open.spotify.com/track/3yfTVgQdgJEtG7Jc1QGljP) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [INAT](https://open.spotify.com/album/2XYUiSw1lmiAT1d0bDxc7c) | 2:50 |
 
-Snapshot ID: `AAAAANh81QEf9sfepndRdDjI0ElSFI7F`
+Snapshot ID: `AAAAAGHqDBhePqu179H0uHmZdwhZUEIy`

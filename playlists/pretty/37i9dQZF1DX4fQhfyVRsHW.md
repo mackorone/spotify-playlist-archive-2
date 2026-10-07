@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,034 likes - 145 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,058 likes - 145 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 144 | [Coral Cliffs](https://open.spotify.com/track/28u5PawDd8X0rpHQBxFBHI) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Coral Cliffs](https://open.spotify.com/album/26X3nlB2Q1IWXPuqNOWVK0) | 2:48 |
 | 145 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 |
 
-Snapshot ID: `AAAAAJPwTb2YDQFA85tU2cOnpP05c8tJ`
+Snapshot ID: `AAAAALmEDDi6NMCV5z3clOvVUpi3odn1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,451 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,478 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 21 | [Keep Your Head to the Sky](https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Head To The Sky](https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB) | 5:11 |
 | 22 | [Serpentine Fire](https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:50 |
 | 23 | [On Your Face](https://open.spotify.com/track/1364cfVtDUV74zIeMl6ydQ) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:33 |
-| 24 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
-| 25 | [Spend the Night](https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Millennium](https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB) | 4:23 |
+| 24 | [Spend the Night](https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Millennium](https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB) | 4:23 |
+| 25 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 26 | [In the Marketplace \(Interlude\)](https://open.spotify.com/track/5sz00JY0sDJHdK6R2x3BRM) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 0:43 |
 | 27 | [September '99 \- Phats & Small Remix](https://open.spotify.com/track/6Z6my7Cpi5BongU2fsY96l) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Top Of The Pop' s Vol\. 2/'99](https://open.spotify.com/album/3fev7GRcXpqwTIAVZaHh4V) | 3:42 |
 | 28 | [Star](https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:25 |

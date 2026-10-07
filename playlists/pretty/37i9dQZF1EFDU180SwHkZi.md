@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 18 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 |
 | 19 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 |
 | 20 | [CLEO](https://open.spotify.com/track/6K7f7IQm4shmQVtvizFTFw) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [CLEO](https://open.spotify.com/album/2gRjWGznX1WuVOynDvsrXS) | 2:38 |
-| 21 | [How Many](https://open.spotify.com/track/440pK11VCjuuMYcXKBIbHE) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [How Many](https://open.spotify.com/album/5sLmAqE2kT2AUi695gy8g6) | 2:49 |
-| 22 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 |
+| 21 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 |
+| 22 | [How Many](https://open.spotify.com/track/440pK11VCjuuMYcXKBIbHE) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [How Many](https://open.spotify.com/album/5sLmAqE2kT2AUi695gy8g6) | 2:49 |
 | 23 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
 | 24 | [Backfire](https://open.spotify.com/track/4cMBFU3ZjlbscquikM8sM7) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Backfire](https://open.spotify.com/album/71OOJwnxEHDkb1JYVUp3js) | 3:04 |
 | 25 | [Everything Goes With Blue \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:10 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 139 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 140 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 
-Snapshot ID: `AceKygAAAACWN/7qd86yYAYUcmcF7dLC`
+Snapshot ID: `AceQLgAAAAAtOWAo8GiLD0hRiNpXGQvb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,920 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,930 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
 | 48 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |
 
-Snapshot ID: `AAAAAInf4HNh4xEcLRCeM6AugMLFLY2Q`
+Snapshot ID: `AAAAACQhS9OyrK22VARKEK6en41K1PxR`

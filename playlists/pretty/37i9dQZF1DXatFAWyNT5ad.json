@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153572,
+  "num_followers": 153583,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEEgTqAXvj8CxSOJR1Rzsxwaegls",
+  "snapshot_id": "AAAAAI9OmFXwHZ9V41PShbW33SCEm/If",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:07",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "SIDEQUEST",
-        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
-      },
-      "artists": [
-        {
-          "name": "Michael Clifford",
-          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 245521,
       "name": "You First",
       "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "tiptoeing",
-        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "tiptoeing",
-      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "tiptoeing",
+        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "tiptoeing",
+      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "NEXT2U",
         "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 196508,
       "name": "NEXT2U",
       "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Days (Deluxe)",
-        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 171294,
-      "name": "Hell With Me (feat. Steve Aoki)",
-      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 171294,
+      "name": "Hell With Me (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Mascara Masquerade",
         "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 236527,
       "name": "LSD (Love, Sex & Diamonds)",
       "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "...with little ease",
+        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
+      },
+      "artists": [
+        {
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "\u2026with little ease",
+      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 185936,
       "name": "Earthquakes",
       "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "...with little ease",
-        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
-      },
-      "artists": [
-        {
-          "name": "Saint Blonde",
-          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "\u2026with little ease",
-      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Little Like Hell",
         "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1531,6 +1515,22 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Rock A Bye Baby",
-        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Rock A Bye Baby",
-      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Bliss Of Ignorance",
         "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 196800,
       "name": "Don't Bother",
       "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Rock A Bye Baby",
+        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Rock A Bye Baby",
+      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 263389,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 174981,
       "name": "2022",
       "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
       },
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
         }
       ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2143,22 +2127,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 186779,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "love that kills",
         "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
       },
@@ -2171,6 +2139,38 @@
       "duration_ms": 184655,
       "name": "love that kills",
       "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 186779,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "june",
         "url": "https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz"
       },
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
-      },
-      "artists": [
-        {
-          "name": "The Foxies",
-          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Love Made Me Do It",
         "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
       },
@@ -2303,6 +2303,22 @@
       "duration_ms": 181393,
       "name": "Daughter of the Night",
       "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2335,22 +2351,6 @@
       "duration_ms": 189444,
       "name": "Dark Passenger",
       "url": "https://open.spotify.com/track/4ddu2y3fVE2yaSSeRxGLCy"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",

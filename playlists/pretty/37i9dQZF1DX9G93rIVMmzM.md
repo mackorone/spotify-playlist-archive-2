@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,796 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,887 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 48 | [WAR](https://open.spotify.com/track/2Q4t8PCGdjy5Uk6uSxTYpD) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [FEAN IS WAR](https://open.spotify.com/album/28rByyY0tDhN0DfQ2cQiO1) | 4:17 |
 | 49 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
 | 50 | [For Now](https://open.spotify.com/track/0Gg9krMVwwsTC3URfYb7Hc) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 4:05 |
-| 51 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
-| 52 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 |
+| 51 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 |
+| 52 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
 | 53 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 |
 | 54 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 55 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 99 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 | 100 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 
-Snapshot ID: `AAAAANPpRhPyEna/gXZzm/uJih8dGPBW`
+Snapshot ID: `AAAAALLGAMVaUNRLdI3IGbcqs1DAaf00`

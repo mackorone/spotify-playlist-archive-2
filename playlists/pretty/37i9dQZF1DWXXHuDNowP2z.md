@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,301 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,334 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 82 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 83 | [El Son de la Rabia](https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:39 |
 | 84 | [El Pistolero \- El Chinelito Borracho \- Popurrí / En Vivo](https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:53 |
-| 85 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
-| 86 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 |
+| 85 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 |
+| 86 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
 | 87 | [Me Pierdo \(En Vivo\)](https://open.spotify.com/track/4q3vxXsDiZbdAv1wOr6gU5) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Me Pierdo \(En Vivo\)](https://open.spotify.com/album/1Prj4dQS9QKnhZdlyBhqOn) | 3:05 |
 | 88 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
 | 89 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 149 | [Celoso](https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Celoso](https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj) | 3:21 |
 | 150 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
 
-Snapshot ID: `AAAAAAIDuJxOuhNJTmiUso1q7R0NZozQ`
+Snapshot ID: `AAAAADgoVermbykCpPcanTiUVIBVzYMU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,938 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,365 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 74 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 | 75 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 |
 
-Snapshot ID: `AAAAAPZK5T6/uFDu81caQ0EPo2b79mx/`
+Snapshot ID: `AAAAAPtJQw1ukIHkoys2sU18FVoNCsQn`

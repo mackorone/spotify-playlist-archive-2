@@ -2,7 +2,7 @@
 
 ### [T1 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0BcvW2psHDx)
 
-> T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
+> T1 홈그라운드를 빛낸 라이브 무대들을 오피셜 플레이리스트에서 다시 즐겨보세요! \(Enjoy the live performances from T1 HOME GROUND, all in the official playlist!\)
 
 205 songs - 9 hr 57 min
 

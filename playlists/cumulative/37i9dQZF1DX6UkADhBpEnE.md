@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,186 songs - 2 day 16 hr 48 min
+1,188 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2024-11-15 |
 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 | 2025-09-25 | 2025-11-20 |
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 | 2023-09-07 |
+| [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 | 2026-10-01 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-01-31 | 2024-09-21 |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-04-02 | 2026-04-17 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-03-31 |
@@ -979,6 +980,7 @@
 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 | 2024-07-18 | 2024-08-03 |
 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-24 | 2023-09-07 |
 | [World On Fire](https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [World On Fire](https://open.spotify.com/album/1C3X6pwfOwQVBCrFRAIuWh) | 3:18 | 2023-09-14 | 2024-01-10 |
+| [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 | 2026-10-01 |  |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-06-01 | 2023-09-07 |
 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 | 2026-09-18 |  |
@@ -1039,7 +1041,7 @@
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-07-18 | 2024-08-17 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-18 |  |
 | [クリームで会いにいけますか](https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [クリームで会いにいけますか](https://open.spotify.com/album/4E1uEIEcYmDIhR0sThjDL8) | 3:54 | 2025-05-22 | 2025-07-04 |
-| [グッタイム](https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [グッタイム](https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11) | 3:21 | 2026-07-09 |  |
+| [グッタイム](https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [グッタイム](https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11) | 3:21 | 2026-07-09 | 2026-10-07 |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-06-06 | 2023-10-13 |
 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 | 2023-04-03 | 2023-05-08 |
 | [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-27 | 2024-05-17 |
@@ -1126,7 +1128,7 @@
 | [夢の続きを](https://open.spotify.com/track/0fHXumWliyCu45JzeHM5nc) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [夢の続きを](https://open.spotify.com/album/14Dv5zMhRfjN4gwHVU3NFh) | 4:09 | 2023-03-21 | 2023-03-31 |
 | [夢みるスーパーマン](https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 3:12 | 2023-07-18 | 2023-07-20 |
 | [常緑](https://open.spotify.com/track/42dM8WcW6SUxueqABK1LmQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [常緑](https://open.spotify.com/album/36Wwao113URCTIu6PoR9sH) | 2:51 | 2023-09-06 | 2023-09-22 |
-| [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-03-07 |  |
+| [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-03-07 | 2026-10-07 |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-09-05 | 2024-09-27 |
 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-20 |  |
 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 | 2023-08-03 | 2023-09-08 |

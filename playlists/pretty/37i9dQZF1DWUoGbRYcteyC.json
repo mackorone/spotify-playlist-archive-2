@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1856117,
+  "num_followers": 1856116,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFt0cE5pAtcjJiru3tVLsl/sUeRJ",
+  "snapshot_id": "AAAAAGcVbPaGCUmT5vV43p6nBZEvPZ8v",
   "tracks": [
     {
       "added_at": "2026-04-03 04:02:09",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
         "name": "Un Beso Menos",
         "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 220702,
       "name": "Un Beso Menos",
       "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -771,22 +771,18 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "En Esta Boca",
-        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 170742,
-      "name": "En Esta Boca",
-      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -811,18 +807,22 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2026-04-03 04:02:09",

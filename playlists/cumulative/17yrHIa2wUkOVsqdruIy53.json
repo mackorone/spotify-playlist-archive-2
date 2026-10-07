@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 39.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 40.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 171506,
       "name": "Adrenalin 2.0",
       "url": "https://open.spotify.com/track/5QKA5bLgapUv4saAsivuPP"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 177920,
       "name": "An meiner Seite",
       "url": "https://open.spotify.com/track/2eCov3IL9WM18dOtIHJ5dy"
@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219365,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
+    },
+    {
+      "album": {
         "name": "Baccarat",
         "url": "https://open.spotify.com/album/19QZyVt0YSbfplha3kmarF"
       },
@@ -1664,6 +1682,32 @@
       "duration_ms": 202460,
       "name": "Bass Persuades",
       "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -2976,7 +3020,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 480160,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/15aQnzJcKnKuHPmF3hIdGB"
@@ -2998,6 +3042,24 @@
       "duration_ms": 146230,
       "name": "City Gang",
       "url": "https://open.spotify.com/track/2LW6ZSYpRDatz2MpgdWw4e"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
     },
     {
       "album": {
@@ -4489,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Backstreet's Back (European Version)",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "album": {
         "name": "4LAP",
         "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
       },
@@ -4522,6 +4602,24 @@
       "duration_ms": 176077,
       "name": "FABRIZIO ROMANO",
       "url": "https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd"
+    },
+    {
+      "album": {
+        "name": "Faint - Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2yQH6X1bEIPn2VvKZlCsJz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272045,
+      "name": "Faint - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2WZeTsbq8ZQcqqR2ZVYvYJ"
     },
     {
       "album": {
@@ -4706,7 +4804,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 158117,
       "name": "FREAKED OUT",
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
@@ -5672,7 +5770,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/0a9npeEQIad1Wr4H1RsLPU"
@@ -6414,6 +6512,24 @@
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
+    },
+    {
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "album": {
@@ -7170,7 +7286,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 176883,
       "name": "Kein Kokain",
       "url": "https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd"
@@ -8394,7 +8510,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -9531,6 +9647,24 @@
     },
     {
       "album": {
+        "name": "Niemals",
+        "url": "https://open.spotify.com/album/2IvEPPD2QMrGkCTc6Qo3SM"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Niemals",
+      "url": "https://open.spotify.com/track/4sQLcCNICsrx3eJCRzIkDM"
+    },
+    {
+      "album": {
         "name": "NUR DAMIT DU WEISST 2",
         "url": "https://open.spotify.com/album/24Oq72JnkdXeUgxZhKRxFr"
       },
@@ -9920,7 +10054,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 132666,
       "name": "Off",
       "url": "https://open.spotify.com/track/3Wj2ewc5A5Jy0nAdCwBwss"
@@ -10070,7 +10204,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -10262,7 +10396,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 157291,
       "name": "Paper",
       "url": "https://open.spotify.com/track/4OHZawF8aSfIBErnsh0oJZ"
@@ -10332,6 +10466,24 @@
       "duration_ms": 160863,
       "name": "PARFUM",
       "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
+    },
+    {
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
     },
     {
       "album": {
@@ -10499,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190690,
+      "name": "Pink Clouding",
+      "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
+    },
+    {
+      "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
       },
@@ -10586,7 +10756,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 203440,
       "name": "Pocketful of Sunshine",
       "url": "https://open.spotify.com/track/4hjuUelurEBKlqpJPJ77Iw"
@@ -10926,6 +11096,32 @@
       "duration_ms": 145973,
       "name": "RAUCH",
       "url": "https://open.spotify.com/track/54hLXHFtrWb9ModG5BrS4V"
+    },
+    {
+      "album": {
+        "name": "Rauchen ist t\u00f6dlich",
+        "url": "https://open.spotify.com/album/30sIHHJSi2CSG3WsAEQGNV"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "FINJA",
+          "url": "https://open.spotify.com/artist/6FZKD8kAyVIHpXkdhzxUvk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168674,
+      "name": "Rauchen ist t\u00f6dlich",
+      "url": "https://open.spotify.com/track/7d5PNefuRb3KAtiveUT4fw"
     },
     {
       "album": {
@@ -12556,7 +12752,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
@@ -13394,7 +13590,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
@@ -13914,7 +14110,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 151500,
       "name": "TTT",
       "url": "https://open.spotify.com/track/4AiyOygLad3NHGPwQOxY5N"
@@ -14624,7 +14820,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 160056,
       "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
       "url": "https://open.spotify.com/track/3O9DrxFz8i0B5aykNQy5le"
@@ -15448,7 +15644,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 157720,
       "name": "WOKE",
       "url": "https://open.spotify.com/track/2rcUsgC2Op6lXRWJqXwUNL"

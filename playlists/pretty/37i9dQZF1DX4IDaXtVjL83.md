@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Alok, NAYEON of TWICE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,152 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,171 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 49 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 | 50 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
 
-Snapshot ID: `AAAAAPwlKfHJFakjq9X9iJiysNKWfivZ`
+Snapshot ID: `AAAAABh3TphMXuBC22FWEbH57+4RIpKk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,431 likes - 192 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,587 likes - 192 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 | 191 | [Infinite Expansion \(528 Hz\)](https://open.spotify.com/track/7fHMeu13rfSQFYdT3Az98y) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Earth Moods: Frequencies \(Vol\. 1\)](https://open.spotify.com/album/6D6ZNU2t2iOB0TzH2epzqt) | 2:15 |
 | 192 | [The Bare Necessities \(Waves\)](https://open.spotify.com/track/3TOypLoadYNzqbkEzrCMya) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG), [andysocialclub](https://open.spotify.com/artist/3ZU0e9k7EnHIod4BfOOg8L) | [Disney Ambient: Waves](https://open.spotify.com/album/1ekSlGVIKdD4s13IRGtL3z) | 3:43 |
 
-Snapshot ID: `AAAAAK5ObUeUZwfeCQjVlL8xUaRmSEEr`
+Snapshot ID: `AAAAAC6qZSZhVXLLIS/6UFm+/NdBbUgN`

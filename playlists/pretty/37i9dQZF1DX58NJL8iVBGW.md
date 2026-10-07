@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,381 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,450 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 23 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
 | 24 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 25 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 |
-| 26 | [Open Up Your Mind](https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Open Up Your Mind](https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG) | 3:04 |
-| 27 | [Hammers and Nails](https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 2:49 |
+| 26 | [Hammers and Nails](https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 2:49 |
+| 27 | [Open Up Your Mind](https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Open Up Your Mind](https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG) | 3:04 |
 | 28 | [The Glowing](https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V) | [Rabbitology](https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO), [Marcus Quintana](https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW) | [PHTHALO](https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg) | 3:32 |
 | 29 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
 | 30 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 76 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 77 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 78 | [Election Day](https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [Election Day](https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm) | 3:07 |
-| 79 | [All At Once](https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M) | [Kyle Brew](https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x) | [All At Once](https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ) | 4:12 |
-| 80 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
+| 79 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
+| 80 | [All At Once](https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M) | [Kyle Brew](https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x) | [All At Once](https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ) | 4:12 |
 | 81 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 |
 | 82 | [Black Dog Sin](https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Black Dog Sin](https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB) | 3:22 |
 | 83 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 86 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
 | 87 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
 | 88 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
-| 89 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
-| 90 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
+| 89 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
+| 90 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
 | 91 | [Elizabeth](https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Elizabeth](https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU) | 4:01 |
 | 92 | [Moving](https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Moving](https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG) | 3:00 |
 | 93 | [Crisscross Way](https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [Crisscross Way](https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Virginia \- Acoustic](https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z) | [Eli Waltz](https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV) | [Virginia \(Acoustic\)](https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G) | 5:32 |
 | 100 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
 
-Snapshot ID: `AAAAAN5ygTXfSKGO9IdWnbjwyDGPCW2i`
+Snapshot ID: `AAAAACAWPx++RZ1tnXilWToqRD5JF7ol`

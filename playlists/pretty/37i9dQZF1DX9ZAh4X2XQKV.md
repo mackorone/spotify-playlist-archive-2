@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > ft\. Laura Castellano's \(@heylovelygirl\) songs she's had on repeat lately.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,010 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,014 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 | 29 | [Después de Tí](https://open.spotify.com/track/3eteUl11caDou4uO3AqkEz) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB) | [Después de Tí](https://open.spotify.com/album/1KeXrOx4wjEe38vakyc5mc) | 2:51 |
 | 30 | [REPIKETEE](https://open.spotify.com/track/6bKGit2oouDen5E6XZ8alE) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [REPIKETEE](https://open.spotify.com/album/4PEmP3DVUGjbejDwRpULSY) | 2:43 |
 
-Snapshot ID: `AAAAAOTVnxu+IonOgMj2gihCvAVkdR4d`
+Snapshot ID: `AAAAAGbnFcit9VmTHyWo0hHjfaeXXyFI`

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,447 songs - 5 day 16 hr 24 min
+2,453 songs - 5 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [DINKY](https://open.spotify.com/track/4PcYojEeQPi8Mz9gvCes1d) | [Obsolescence](https://open.spotify.com/artist/6IxEerSy0GrEJo2At5NIKd) | [DINKY](https://open.spotify.com/album/0eZV4Vs34YQ8MJ88pPWiEz) | 3:25 | 2026-02-19 | 2026-03-23 |
 | [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 | 2025-12-03 | 2025-12-24 |
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-01 | 2026-04-21 |
+| [Disappointment Panda](https://open.spotify.com/track/12ehT5XRXyjftkI8WBpnAX) | [Koloclyphis](https://open.spotify.com/artist/7d4ro1bvVCEB63M3bPH3T9) | [Disappointment Panda](https://open.spotify.com/album/3iziO9wTG5uXOjvpd25XcU) | 2:55 | 2026-10-06 |  |
 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 | 2026-06-24 |  |
 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 | 2026-02-16 | 2026-03-09 |
 | [Disco Brawl](https://open.spotify.com/track/2FQoq4k4jetvgGjettxjrG) | [HOUSEPLANTS](https://open.spotify.com/artist/3MwGFn6D0KahcmIVGKlU1M) | [Disco Brawl](https://open.spotify.com/album/56rqQsOBqRWtMTIcsaqoCM) | 4:14 | 2026-08-21 | 2026-09-21 |
@@ -977,6 +978,7 @@
 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 | 2025-12-15 | 2026-01-06 |
 | [I Am Your Drug](https://open.spotify.com/track/0lNwTow7V4DHDhGLqfUmsJ) | [PaPa DJonny](https://open.spotify.com/artist/67FqFWr3YH8HDDtOjSAga4) | [17\-27](https://open.spotify.com/album/2J2OjybZGk9eTGKIsZWoNj) | 3:33 | 2026-09-28 |  |
 | [I DEVOUR \(BECAUSE I DESERVE\)](https://open.spotify.com/track/2Vdso3tAvzdItTgpBiQULg) | [grāvelōrd](https://open.spotify.com/artist/1CXtzDy7vy5pSa9AyC5mxc) | [ANESTHETIC](https://open.spotify.com/album/6vCFMkO3z9ChpeqhnEzh2P) | 3:37 | 2026-02-06 | 2026-03-10 |
+| [I Don't Mind \(I Fade Away\)](https://open.spotify.com/track/74XXhqsw7q2Kg9OJ3caTZS) | [Black & White, Digital](https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV) | [I Don't Mind \(I Fade Away\)](https://open.spotify.com/album/4u8KmbORyoBeLN3LQo9mtr) | 4:19 | 2026-10-06 |  |
 | [I Don't Understand It](https://open.spotify.com/track/1FMftJu5CXMzGeJQUMTfIq) | [Empty Heaven](https://open.spotify.com/artist/0XvNb4H3fcUzkvrYuNddnO) | [I Don't Understand It](https://open.spotify.com/album/2KH9M89MO1sRGhTnuxVZZa) | 3:11 | 2026-03-16 | 2026-04-17 |
 | [I don't wanna be that girl](https://open.spotify.com/track/2Qx38kNXSslGPbi3jh8jv7) | [Echopecker](https://open.spotify.com/artist/7fiEUlmjnRGtD2v5ZjwZ5D) | [I don't wanna be that girl](https://open.spotify.com/album/0ag2sPBjaVaCk9nyNwWe2y) | 2:40 | 2026-10-02 |  |
 | [I Don't Wanna Live \(Like This\)](https://open.spotify.com/track/3mTmi5qB1mPGvI4JR8BTha) | [born for nothing](https://open.spotify.com/artist/5uToWSOLkuiu97NEIanFOO) | [I Don't Wanna Live \(Like This\)](https://open.spotify.com/album/3ofUrRG2jEhgQiPvt900na) | 2:22 | 2026-04-02 | 2026-05-04 |
@@ -1583,6 +1585,7 @@
 | [Pink Noises](https://open.spotify.com/track/52gZK9uDQM7g0wvcvJ56wr) | [Satva](https://open.spotify.com/artist/5hW3wXuMeJBeG11j3YSL5o) | [Pink Noises](https://open.spotify.com/album/4PQrY6AeBdjMZMck9tDidz) | 3:31 | 2026-05-31 | 2026-07-04 |
 | [Pink Sludge](https://open.spotify.com/track/262wgSAnWAoQV56qo4Jx6n) | [Wasted Youth Club](https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw) | [Pink Sludge](https://open.spotify.com/album/2gvxrjDKOg6zn4gWy7WoKj) | 3:10 | 2026-08-18 | 2026-09-18 |
 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 | 2025-11-28 | 2026-01-15 |
+| [Pity Party](https://open.spotify.com/track/1It8A5nY868nZi5BvXtVjS) | [Natalie Gray](https://open.spotify.com/artist/047rvCsEJLIKpbhzi4nHi4) | [Pity Party](https://open.spotify.com/album/1tbYtpymGLGlViPQsgwRbt) | 4:24 | 2026-10-06 |  |
 | [Pizza Feet](https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Pizza Feet](https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa) | 4:35 | 2026-04-15 | 2026-05-08 |
 | [Pizza Mind](https://open.spotify.com/track/3nxDriOWhb18SqYqKjyKXj) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Pizza Mind](https://open.spotify.com/album/3AAZhW5TBZzs6k2XjGzaYE) | 3:05 | 2026-03-06 | 2026-03-31 |
 | [Playboy](https://open.spotify.com/track/0lGzNxd6zMr2iI6g5gENmr) | [The Reevengers](https://open.spotify.com/artist/7msgtCDPICCFaZOH8XMlZl) | [when college becomes executive](https://open.spotify.com/album/2CzCYE4lWIKftbsW4zvtXx) | 3:17 | 2026-01-17 | 2026-02-05 |
@@ -2150,12 +2153,14 @@
 | [There's Not Enough Black In Your Images](https://open.spotify.com/track/4aVNW8SDgXy3xzSLHrGDz3) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [There's Not Enough Black In Your Images](https://open.spotify.com/album/3ujWLhJoyqqPfAMiCqlbCm) | 4:18 | 2026-05-31 | 2026-07-04 |
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2026-07-05 | 2026-08-01 |
 | [These High Standards](https://open.spotify.com/track/2JgitROPRHpXPQxowJUOIr) | [Jaden Hancock](https://open.spotify.com/artist/1NUX8X0fbA01JM2Kg1Nxlt) | [These High Standards](https://open.spotify.com/album/01jvcsOQgy4ROesE3uSyiA) | 3:20 | 2025-12-19 | 2026-01-15 |
+| [These Wolves](https://open.spotify.com/track/5iRuO0IPkDnULGwy2kBCmJ) | [Brendan Miller](https://open.spotify.com/artist/5w3l4qzoBGRzgo7Q9KPV2v) | [These Wolves](https://open.spotify.com/album/39YpGQR2HPr23e7cMrZBVm) | 2:26 | 2026-10-06 |  |
 | [They Hate The Truth](https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx) | [Sasha Jay](https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1) | [They Hate The Truth](https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1) | 1:58 | 2026-05-12 | 2026-05-30 |
 | [They Say/Honest](https://open.spotify.com/track/1BFySPO6JOLLM6g0T2WY8a) | [Snugsworth](https://open.spotify.com/artist/38PIRv5SnPsCwlQzoL1ec4) | [They Say/Honest](https://open.spotify.com/album/3D2qk5YQmfUcC7ascblRR5) | 2:21 | 2026-01-20 | 2026-02-12 |
 | [They Suffocate](https://open.spotify.com/track/4jDKE3FnB2QyZAtw9Sl3oB) | [Barbarism.](https://open.spotify.com/artist/0YAuUyYQorYBXjGmU3iwte) | [They Suffocate](https://open.spotify.com/album/6NlINobYsDf7OnBvFEaYMu) | 3:25 | 2026-10-04 |  |
 | [They Take You to War](https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:10 | 2026-03-23 | 2026-04-17 |
 | [Thick 'N Thin](https://open.spotify.com/track/6BTiiTIYAfjfktUzy3tzYg) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:27 | 2025-09-16 |  |
 | [Think of Something Nice](https://open.spotify.com/track/55QbVDHON8KDOVytrbesoj) | [Lord Jane](https://open.spotify.com/artist/0kTqh3iVi9V7h1w3QiWiU1) | [Think of Something Nice](https://open.spotify.com/album/6bwOOzPOEsZtWm5bv2R79s) | 4:49 | 2026-07-09 | 2026-08-10 |
+| [Thirteen](https://open.spotify.com/track/3dDbhqYHOGuxr24CFyecPK) | [Calling Annabelle](https://open.spotify.com/artist/6aY6gsPf7Z26xT5Oid4Bxh) | [Thirteen](https://open.spotify.com/album/1HkAV7wWsR1YXHoqGkNvQk) | 2:44 | 2026-10-06 |  |
 | [Thirty Something Else](https://open.spotify.com/track/2qyLxyLpgiswQK2SZnK4Cv) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Thirty Something Else](https://open.spotify.com/album/2D5K5LrYtiUXC8fREZGGVw) | 4:30 | 2026-09-14 |  |
 | [This Is The End](https://open.spotify.com/track/5snyVmnEIWhUDQ9h9gCF1F) | [Fake Lighters](https://open.spotify.com/artist/4UHuZhmbhkKgoiLkvc9lQQ) | [Sinking In](https://open.spotify.com/album/7BsyiJx9d0lUwiDx0M6Nm4) | 1:45 | 2026-02-13 | 2026-03-17 |
 | [This Is War](https://open.spotify.com/track/5xHb6LAV5YmTauShzQINtZ) | [A Small Madness](https://open.spotify.com/artist/6F0GRN52TubFymPaF7NpSS) | [This Is War](https://open.spotify.com/album/1qkMeLSTl7fY9aNzh81twf) | 4:00 | 2025-12-04 | 2025-12-24 |
@@ -2225,6 +2230,7 @@
 | [UN OSITO DE PELUCHE DE TAIWAN \- Cover](https://open.spotify.com/track/6N1AhDO4GHvZ0Z9BYNf33g) | [RÁU](https://open.spotify.com/artist/0vdkKp2Zn8X2Vi6VXo19iX) | [UN OSITO DE PELUCHE DE TAIWAN](https://open.spotify.com/album/4OsLrjWgSpPCcxNqNVrc0S) | 3:04 | 2026-03-27 | 2026-04-17 |
 | [Unbreakable](https://open.spotify.com/track/5D7RAguYiG8VYocqgaCt25) | [Backbite](https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL) | [Unbreakable](https://open.spotify.com/album/5mtDADisRmMc9JgCrEwQMO) | 4:00 | 2026-04-29 | 2026-05-22 |
 | [Unbreakable](https://open.spotify.com/track/1MER0YAsu55Gut37JVsPG8) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [Unbreakable](https://open.spotify.com/album/31F4H3iHdb2Tw5kpyoRHZN) | 3:28 | 2026-01-24 | 2026-02-25 |
+| [Unburied](https://open.spotify.com/track/0Qu3AgdEPpv3UHiiyVj47X) | [Calling Annabelle](https://open.spotify.com/artist/6aY6gsPf7Z26xT5Oid4Bxh) | [Unburied](https://open.spotify.com/album/46qzoqQUhwtYNmvBIvMhVy) | 2:43 | 2026-10-06 |  |
 | [UNDER KONTROL](https://open.spotify.com/track/6LRt9NxLbIWKfNxwzOeBQl) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:35 | 2026-07-14 |  |
 | [Underdog](https://open.spotify.com/track/7sNihEZZpbwywjdf0Z0ggg) | [MASWO](https://open.spotify.com/artist/5XgbBkGDKDADOxmOzjme0f) | [Underdog](https://open.spotify.com/album/58Gm1YoyISUB0NsadKQzzy) | 3:28 | 2026-01-12 | 2026-02-03 |
 | [underWATER](https://open.spotify.com/track/6V07XHar6Bj83M38rfDrNi) | [Surprise Asteroid](https://open.spotify.com/artist/4POY53CgtEnd2FUGxE8IGe) | [underWATER](https://open.spotify.com/album/1VsMI6W8IoknCnahYJPpM9) | 2:43 | 2026-07-22 | 2026-08-13 |

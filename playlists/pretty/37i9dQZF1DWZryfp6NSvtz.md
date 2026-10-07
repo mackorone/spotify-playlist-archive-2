@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,320 likes - 202 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,406 likes - 202 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 7 | [OUTBREAK \(feat\. Cory Brandan\)](https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [OUTBREAK \(feat\. Cory Brandan\)](https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x) | 4:52 |
 | 8 | [Hollywood On Fire](https://open.spotify.com/track/6Fx93FeykhviDh2kF0kY4r) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Monarch](https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU) | 3:37 |
 | 9 | [HELEN KELLER](https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [HELEN KELLER](https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB) | 4:43 |
-| 10 | [Flying Blind \(feat\. Myles Kennedy & The Conspirators\)](https://open.spotify.com/track/5T3DsIFLUWTxCnZBa8CTQZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Flying Blind](https://open.spotify.com/album/3ZEQ7MV5LLhhXPKvAgBwwa) | 4:42 |
+| 10 | [Flying Blind \(feat\. Myles Kennedy & The Conspirators\)](https://open.spotify.com/track/5T3DsIFLUWTxCnZBa8CTQZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy & The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Flying Blind](https://open.spotify.com/album/3ZEQ7MV5LLhhXPKvAgBwwa) | 4:42 |
 | 11 | [Shed Your Skin](https://open.spotify.com/track/6qPZi0an9of1lO3O0Y5VJn) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Axis Mundi](https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT) | 4:53 |
 | 12 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
 | 13 | [Private Lives](https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Private Lives](https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq) | 3:05 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 29 | [my girl could too](https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [hey hey](https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe) | [Indie Movie Soundtrack](https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw) | 3:09 |
 | 30 | [Altitude](https://open.spotify.com/track/1Pb6gm6fY65cMsO1zUwIYR) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Altitude](https://open.spotify.com/album/6dme2fXEF8aQKJwGCtxaQY) | 3:02 |
 | 31 | [YOU CAN'T TELL ME NOTHING](https://open.spotify.com/track/0B3S45DjfqmyEcxrGzAyft) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [YOU CAN'T TELL ME NOTHING](https://open.spotify.com/album/6tlt8XwEuFDBNKEGoYT5t0) | 1:57 |
-| 32 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 32 | [Big Ideas](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Big Ideas](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 33 | [destroy you](https://open.spotify.com/track/03FTCzsqV9DoX3x5FVLvAa) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [when no one's watching](https://open.spotify.com/album/7I0tO7HY82oFjUMpeIpPQE) | 3:33 |
 | 34 | [t r a n s f u s 1 0 n](https://open.spotify.com/track/4qGO3eCYrTyByWgY8B8LW0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [t r a n s f u s 1 0 n](https://open.spotify.com/album/0Dl7W1GDurgpGVmZbAVILr) | 4:47 |
 | 35 | [Everything Ends In Silence](https://open.spotify.com/track/1IAjbjtQk23OyWKeg1Capm) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [We Were Bleeding Anyway](https://open.spotify.com/album/3Fv9UES0mXzes5hb2TF8jY) | 3:41 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 201 | [Wander](https://open.spotify.com/track/4ff3P871raAqybUBAsboKA) | [Bleary Eyed](https://open.spotify.com/artist/0JTGTWQ2CBQlQtAHb8zMWS) | [Wander](https://open.spotify.com/album/1WbKg0487PWLylhC5BqOkR) | 3:18 |
 | 202 | [Tea Drops Park](https://open.spotify.com/track/63hXNvKU1hZkar83TSuEIl) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Umbrella](https://open.spotify.com/album/7czxyUfML5Ma88C0Wjgvkq) | 2:55 |
 
-Snapshot ID: `AAAAAEex+7Ybi6sST9OHYcK4O5wFhSG7`
+Snapshot ID: `AAAAAJlCA5fSsdmC6rEnyTrLOjB2V8Ro`

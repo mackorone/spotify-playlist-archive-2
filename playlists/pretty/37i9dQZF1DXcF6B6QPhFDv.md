@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Dexter and The Moonrocks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158,047 likes - 84 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158,007 likes - 84 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 83 | [Cup](https://open.spotify.com/track/5ehXIPDrMEhc4H0JDLna6l) | [Jawdropped](https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa) | [Cup](https://open.spotify.com/album/23Lm6LpK504J0yZ21nVJ9d) | 4:07 |
 | 84 | [February Theory](https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [February Theory](https://open.spotify.com/album/6Z3xax7xkuVUyP0ab201J6) | 3:20 |
 
-Snapshot ID: `AAAAAOgvSUuzei456gjA/cmCbvq1x73y`
+Snapshot ID: `AAAAAOUwWGLqatenc0eG2vP5BqzFAfjt`

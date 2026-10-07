@@ -1,12 +1,12 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5861,
+  "num_followers": 5862,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBckEfFaSjtaOP18Ez1/tuKu/By",
+  "snapshot_id": "AAAAAH7Y4xid0G8Q6qjGsce7/h6ukK7o",
   "tracks": [
     {
       "added_at": "2026-09-23 08:12:22",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "James Southall",
-          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
-        }
-      ],
-      "duration_ms": 267085,
-      "name": "for such a gaze of wonder",
-      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 234266,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        }
+      ],
+      "duration_ms": 267085,
+      "name": "for such a gaze of wonder",
+      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
-        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+        "name": "CONTINUUM - 40th Anniversary Special Album",
+        "url": "https://open.spotify.com/album/2pkmvgbJV40b1nzoYgF4Tu"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         }
       ],
-      "duration_ms": 56613,
-      "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
-      "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
+      "duration_ms": 261186,
+      "name": "How Beautiful",
+      "url": "https://open.spotify.com/track/6kaeKCOLi6vfsewk7HQBeS"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "CONTINUUM - 40th Anniversary Special Album",
-        "url": "https://open.spotify.com/album/2pkmvgbJV40b1nzoYgF4Tu"
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
       "artists": [
         {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
         }
       ],
-      "duration_ms": 261186,
-      "name": "How Beautiful",
-      "url": "https://open.spotify.com/track/6kaeKCOLi6vfsewk7HQBeS"
+      "duration_ms": 56613,
+      "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
+      "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
@@ -1771,6 +1755,62 @@
       "duration_ms": 41733,
       "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
       "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1799,46 +1839,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "MOZART: Piano Works 1",
-        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "duration_ms": 433986,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
-      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
-      },
-      "artists": [
-        {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Esthesia",
         "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
       },
@@ -1851,46 +1851,6 @@
       "duration_ms": 243640,
       "name": "Esthesia",
       "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Une Vie",
-        "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 31373,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
-      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1935,6 +1895,46 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Une Vie",
+        "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 31373,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
+      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1975,6 +1975,38 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1999,50 +2031,26 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
       "artists": [
         {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "The Red String",
-      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+        },
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
         {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
     }
   ],
   "unique_name": "Classics Korea",

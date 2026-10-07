@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 99 | [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 |
 | 100 | [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 |
 
-Snapshot ID: `AAAAAJwuBk7l1qrc+47LGDjTQUX7z5C7`
+Snapshot ID: `AAAAAKZNPauP3usUkvhg9RjhrHuxiAQz`

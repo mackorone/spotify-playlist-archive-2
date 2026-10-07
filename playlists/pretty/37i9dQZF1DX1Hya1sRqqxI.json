@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 820858,
+  "num_followers": 821076,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6a912bNlslfWowYPy7vJia98fv",
+  "snapshot_id": "AAAAANdNuetyGWN8ucT5VkEE4NECXn5A",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -1129,20 +1145,20 @@
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
         }
       ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
-      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1223,6 +1207,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
+      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Collection & Tracklisting",
-        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Collection & Tracklisting",
+        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Rose Garden",
@@ -1447,6 +1431,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "In The Right Place",
         "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 175240,
       "name": "Right Place Wrong Time",
       "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2269,22 +2269,6 @@
       "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 480096,
-      "name": "Shake Your Body (Down to the Ground)",
-      "url": "https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -2299,6 +2283,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 480096,
+      "name": "Shake Your Body (Down to the Ground)",
+      "url": "https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs"
     },
     {
       "added_at": "2021-09-08 13:31:49",

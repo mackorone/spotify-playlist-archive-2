@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93783,
+  "num_followers": 93780,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+VSogLFyFk1OOBcCR1GpzydoDF",
+  "snapshot_id": "AAAAAKQspD04lmoXGwnof0ALINuGq05q",
   "tracks": [
     {
       "added_at": "2026-10-01 22:00:50",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "Vann du livet?",
         "url": "https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 270825,
       "name": "Streets of Minneapolis - Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "Har du ocks\u00e5 k\u00e4nt den",
         "url": "https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 205248,
       "name": "Har du ocks\u00e5 k\u00e4nt den",
       "url": "https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "Kontrollen & f\u00f6rlusten av den",
         "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 183749,
       "name": "Kontrollen & f\u00f6rlusten av den",
       "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Jack & Coke",
-        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
       },
       "artists": [
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Jack & Coke",
-      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
+      "duration_ms": 166733,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
       },
       "artists": [
         {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -807,8 +807,8 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+        "name": "25k",
+        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+      "duration_ms": 237019,
+      "name": "25k",
+      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -875,38 +875,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "25k",
-        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 237019,
-      "name": "25k",
-      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "You Got The Look",
         "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
@@ -923,6 +891,38 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Den f\u00f6rsta sn\u00f6n",
         "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
       },
@@ -935,6 +935,30 @@
       "duration_ms": 277360,
       "name": "Den f\u00f6rsta sn\u00f6n",
       "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "Inte h\u00e4r",
+        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        },
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Inte h\u00e4r",
+      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -987,22 +1011,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Mina v\u00e4nner",
-        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 194405,
-      "name": "Mina v\u00e4nner",
-      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
       },
@@ -1019,26 +1027,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Inte h\u00e4r",
-        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
+        "name": "Mina v\u00e4nner",
+        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        },
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
         }
       ],
-      "duration_ms": 167586,
-      "name": "Inte h\u00e4r",
-      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
+      "duration_ms": 194405,
+      "name": "Mina v\u00e4nner",
+      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Everything's wasted",
+        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 262501,
+      "name": "Everything's wasted",
+      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 191840,
       "name": "VM-guld",
       "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Everything's wasted",
-        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 262501,
-      "name": "Everything's wasted",
-      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
     }
   ],
   "unique_name": "Aktuellt",

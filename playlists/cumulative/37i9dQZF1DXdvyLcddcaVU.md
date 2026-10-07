@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,227 songs - 2 day 15 hr 26 min
+1,228 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Gyal Accroupi](https://open.spotify.com/track/4oXygSKEIkyJ3oQff3z7GN) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [TKD](https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV) | [Gyal Accroupi](https://open.spotify.com/album/5fz8fy4jDTonJFQAsHagfg) | 1:53 | 2023-03-24 | 2023-10-02 |
 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 | 2025-11-14 | 2026-06-13 |
 | [H24](https://open.spotify.com/track/0UBfw0XZUzGsqY7CeqI2sc) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [H24](https://open.spotify.com/album/6wPX23RiG2SjaODHumYOMx) | 2:09 | 2025-01-06 | 2025-03-08 |
+| [Habiba](https://open.spotify.com/track/1ixnGkLXZJuEueqJioIjmm) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Neptune](https://open.spotify.com/album/4d6UPuzH7S5hZhaWqQZ2U9) | 3:13 | 2026-10-06 |  |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-03-22 | 2025-01-18 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-19 | 2024-08-24 |
 | [has to be you](https://open.spotify.com/track/7hgdBoFN7AE2c6Gwh0zS4P) | [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [has to be you](https://open.spotify.com/album/7cLHMTmxPwRJtIO5HO3JRx) | 1:50 | 2025-06-27 | 2025-08-24 |
@@ -835,7 +836,7 @@
 | [Oh la](https://open.spotify.com/track/36obIpPE10B8VGMMgRDTOP) | [Brice Conrad](https://open.spotify.com/artist/242ASvDG4LKautD1K2QTwD) | [La nuit bleue](https://open.spotify.com/album/1Ss5JF0wGSdHbIP5KVIX0w) | 3:20 | 2023-11-17 | 2023-12-31 |
 | [Oh la menteuse](https://open.spotify.com/track/4ciGtByVL83wawPlA43VW8) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Les jolies filles aiment Jok'air](https://open.spotify.com/album/5AisXJ0N4Roto7eJnamm3j) | 2:47 | 2025-04-04 | 2025-05-23 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 | 2024-03-29 | 2024-09-14 |
-| [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-19 |  |
+| [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-19 | 2026-10-07 |
 | [Ohlala](https://open.spotify.com/track/7tswVd3xg1ckSyrMdzeFQo) | [S2](https://open.spotify.com/artist/60HWrpmSefhtMWCkghazzG) | [Masqué](https://open.spotify.com/album/5UlR4fprmrw2vMZoNhh9ZN) | 2:48 | 2026-05-13 | 2026-08-15 |
 | [Okay okay](https://open.spotify.com/track/04To8DXmqhZoBmi3fBFhFH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:53 | 2024-02-23 | 2024-06-01 |
 | [Ola Oli \(feat\. Brigade Sarbaty\)](https://open.spotify.com/track/2FZ6CpoBnaS5EsYigbYenG) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy), [Brigade Sarbaty](https://open.spotify.com/artist/5Hz5Fmcthu4RM0knrLlQje) | [Ola Oli \(feat\. Brigade Sarbaty\)](https://open.spotify.com/album/6PMRcHUAengltUKAlmAbwB) | 2:51 | 2025-12-12 | 2026-01-15 |

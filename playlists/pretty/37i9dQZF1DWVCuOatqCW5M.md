@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Salim\-Sulaiman, Darshan Raval, Monali Thakur and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,521 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,536 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Barsaat Lagdi Ae](https://open.spotify.com/track/7xbRQfVgKHGyp5grJErFop) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Barsaat Lagdi Ae](https://open.spotify.com/album/0DVXVJZHAu4mBhjMxmlN6k) | 3:06 |
 | 50 | [Marz \- E \- Dawa](https://open.spotify.com/track/1o1kpJl4TuWaPBAsHTqfLa) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Devendra Dangi](https://open.spotify.com/artist/00Rd0QgyKTupYWGE2eVoqd) | [Yours With Love](https://open.spotify.com/album/7oouBOnCI783kJYmHZhdk2) | 3:06 |
 
-Snapshot ID: `AAAAALcJAZJe5CRIQgHEzUB13scEcebn`
+Snapshot ID: `AAAAAL0hfqfii9qHZn9YgkAN5XauQaHv`

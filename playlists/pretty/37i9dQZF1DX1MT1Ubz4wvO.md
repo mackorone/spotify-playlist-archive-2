@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Zyanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,649 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,650 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Sencillo, para mentes complicadas](https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Sencillo, para mentes complicadas](https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H) | 3:47 |
 | 50 | [GIRL DINNER](https://open.spotify.com/track/3Qr8G2MfUcWBWMbmLR0Y4V) | [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [cuando esté rota las pelotas no diré nada pero habrá señales!!>:\)](https://open.spotify.com/album/0Iuv2wkenRIgYtQLaSrdi5) | 2:43 |
 
-Snapshot ID: `AAAAAA+wwjB4+wkv1H8rhr3f6h9TS6sk`
+Snapshot ID: `AAAAAIOaaSV88nAZfTN3N7fzqyYqmG2P`

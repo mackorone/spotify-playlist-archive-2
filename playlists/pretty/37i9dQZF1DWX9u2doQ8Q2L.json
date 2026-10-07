@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 393821,
+  "num_followers": 393822,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpue3ru/79rA7MS+/NzMrQs52Ih",
+  "snapshot_id": "AAAAAMLMLCZJ/nsvppEgEZzwJz39E9/A",
   "tracks": [
     {
       "added_at": "2026-09-16 03:36:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
         "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
       },
@@ -823,6 +807,38 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
         "name": "\u706b\u661f\u4eba",
         "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 197853,
       "name": "Stare In Wonder",
       "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 242603,
-      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 242603,
+      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
         "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 250106,
       "name": "\u7d75\u753b",
       "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
-        "name": "WORK HARD",
-        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "WORK HARD",
-      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
+        "name": "WORK HARD",
+        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "WORK HARD",
+      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
         "name": "\u4fee\u7f85",
         "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 236083,
       "name": "\u4fee\u7f85",
       "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "mountain",
-        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "mountain",
-      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "mountain",
+      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "GALA",
-        "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "GALA",
-      "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "\u604b\u611b\u5f8c\u907a\u75c7",
         "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 167400,
       "name": "\u604b\u611b\u5f8c\u907a\u75c7",
       "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "GALA",
+        "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 227175,
+      "name": "GALA",
+      "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
     },
     {
       "added_at": "2026-09-16 03:36:47",

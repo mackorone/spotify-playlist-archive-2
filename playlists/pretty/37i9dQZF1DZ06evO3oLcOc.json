@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229312,
+  "num_followers": 229313,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAACqbxRDy/IqtKSuIFWnT3wr",
+  "snapshot_id": "asLogAAAAAC2jWdMlapInrMB9uEn/BWV",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayy Macarena",
+        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 131606,
+      "name": "Ayy Macarena",
+      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BROWN (The Chocolate Edition)",
         "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 204000,
       "name": "Just the Bro (feat. Tyga & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0Q54gKsmxMlXzY23r1qbAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayy Macarena",
-        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131606,
-      "name": "Ayy Macarena",
-      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
     },
     {
       "added_at": null,
@@ -651,6 +651,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wait For A Minute",
         "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 160320,
       "name": "Kim Kardashian",
       "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GAVE U RACKS",
-        "url": "https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0"
-      },
-      "artists": [
-        {
-          "name": "$TARFACE",
-          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 199757,
-      "name": "GAVE U RACKS",
-      "url": "https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel California (Deluxe)",
         "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GAVE U RACKS",
+        "url": "https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0"
+      },
+      "artists": [
+        {
+          "name": "$TARFACE",
+          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 199757,
+      "name": "GAVE U RACKS",
+      "url": "https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "February Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Documentary III",
         "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 230160,
       "name": "In The Way",
       "url": "https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "February Love (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT"
     }
   ],
   "unique_name": "This Is Tyga",

@@ -1,12 +1,12 @@
 {
-  "description": "With The Dogs, HAM, Bad Scullianz and more",
+  "description": "With The Old, The Dogs, Crimson Disc and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIyMfqqnoHFLHl+1MGbAn7I3V2K3",
+  "snapshot_id": "AAAAAFCIE8SzhP/eGuJstlPnvp6JM6uj",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trauma Junkie",
-        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
-      },
-      "artists": [
-        {
-          "name": "The Dogs",
-          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
-        }
-      ],
-      "duration_ms": 246425,
-      "name": "Another Child of the Cross",
-      "url": "https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Don`t Wait For) The Next Call",
         "url": "https://open.spotify.com/album/4Fqy1lBu3VebzMWPAsxz6b"
       },
@@ -83,18 +67,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
-        "url": "https://open.spotify.com/album/1A35bFBzpTOA3rbKZh6WR5"
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
       },
       "artists": [
         {
-          "name": "Mareritt Larsen",
-          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
         }
       ],
-      "duration_ms": 142321,
-      "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
-      "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
+      "duration_ms": 246425,
+      "name": "Another Child of the Cross",
+      "url": "https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH"
+      },
+      "artists": [
+        {
+          "name": "Danger Line",
+          "url": "https://open.spotify.com/artist/1aA8T2dE1qY2AQYpmfg2Uj"
+        }
+      ],
+      "duration_ms": 248451,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
     },
     {
       "added_at": null,
@@ -119,34 +119,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH"
+        "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+        "url": "https://open.spotify.com/album/1A35bFBzpTOA3rbKZh6WR5"
       },
       "artists": [
         {
-          "name": "Danger Line",
-          "url": "https://open.spotify.com/artist/1aA8T2dE1qY2AQYpmfg2Uj"
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
         }
       ],
-      "duration_ms": 248451,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
+      "duration_ms": 142321,
+      "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+      "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Rebel",
-        "url": "https://open.spotify.com/album/3vFOJfi4KYKH74myKPxrjh"
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
       },
       "artists": [
         {
-          "name": "The Old",
-          "url": "https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp"
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
         }
       ],
-      "duration_ms": 181714,
-      "name": "The Rebel",
-      "url": "https://open.spotify.com/track/6eqbBvlm2yBeeFNXNmHeFI"
+      "duration_ms": 261821,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/2pZXgCkpHeD4aNyOzk3MN7"
+      },
+      "artists": [
+        {
+          "name": "Viperstone",
+          "url": "https://open.spotify.com/artist/6bDPqm8yi9c2v384ILz8vz"
+        }
+      ],
+      "duration_ms": 230357,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Down 'N' Dirty: Volume 1",
+        "url": "https://open.spotify.com/album/6gmpbWtF0ZRqXD1pLmijQe"
+      },
+      "artists": [
+        {
+          "name": "Nick Helm",
+          "url": "https://open.spotify.com/artist/2JYFvQnnocLtU3Anrt5vS2"
+        }
+      ],
+      "duration_ms": 215836,
+      "name": "Battle Damaged",
+      "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "N\u00e5r Verden Treffer Meg I Hodet",
+      "url": "https://open.spotify.com/track/15PYf2wzLRgn4q2vxeRR54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patient X",
+        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 188625,
+      "name": "Man on a Horse",
+      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
     },
     {
       "added_at": null,
@@ -171,98 +235,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinnsyke Sanger",
-        "url": "https://open.spotify.com/album/1ciYPGKf7tAwn9JToXMLyB"
+        "name": "The Rebel",
+        "url": "https://open.spotify.com/album/3vFOJfi4KYKH74myKPxrjh"
       },
       "artists": [
         {
-          "name": "Svigermors Dr\u00f8m",
-          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
+          "name": "The Old",
+          "url": "https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp"
         }
       ],
-      "duration_ms": 200086,
-      "name": "Sinnsyke Sanger",
-      "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
+      "duration_ms": 181714,
+      "name": "The Rebel",
+      "url": "https://open.spotify.com/track/6eqbBvlm2yBeeFNXNmHeFI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "Another Kind Of The Blues",
+        "url": "https://open.spotify.com/album/2BfnKG0A1FhWheZ4WFrTWO"
       },
       "artists": [
         {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+          "name": "Pablo Mercedes",
+          "url": "https://open.spotify.com/artist/6lYfGVFFXkVTmnZRLsldvt"
         }
       ],
-      "duration_ms": 214000,
-      "name": "N\u00e5r Verden Treffer Meg I Hodet",
-      "url": "https://open.spotify.com/track/15PYf2wzLRgn4q2vxeRR54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
-        "url": "https://open.spotify.com/album/20xCIRw9LRMIGUu43JtON1"
-      },
-      "artists": [
-        {
-          "name": "Vacum",
-          "url": "https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO"
-        }
-      ],
-      "duration_ms": 162200,
-      "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
-      "url": "https://open.spotify.com/track/08UtDhh6FVO4t0RMaVBRzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circle Six",
-        "url": "https://open.spotify.com/album/1Udoj8rtpXng60QPcMI0Ne"
-      },
-      "artists": [
-        {
-          "name": "Emmerhoff & the Melancholy Babies",
-          "url": "https://open.spotify.com/artist/7A7IHYf021S18DrF4q6DOn"
-        }
-      ],
-      "duration_ms": 353913,
-      "name": "Desert Ritual",
-      "url": "https://open.spotify.com/track/35vBPWIiCu3MZsLoLQ5oKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake News",
-        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
-      },
-      "artists": [
-        {
-          "name": "Bad Scullianz",
-          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
-        }
-      ],
-      "duration_ms": 261821,
-      "name": "Fake News",
-      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patient X",
-        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
-      },
-      "artists": [
-        {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
-        }
-      ],
-      "duration_ms": 188625,
-      "name": "Man on a Horse",
-      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
+      "duration_ms": 167285,
+      "name": "Iron Line",
+      "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
     },
     {
       "added_at": null,
@@ -283,54 +283,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/3lxKDfXUG1unB1R8W0GJfK"
+        "name": "En sista s\u00e5ng fr\u00e5n Tjapps\u00e5ive",
+        "url": "https://open.spotify.com/album/6M0kN0riMm5IcczfPUlr3x"
       },
       "artists": [
         {
-          "name": "RYDIS",
-          "url": "https://open.spotify.com/artist/4zWJ1DPqgmIfaKxNOWfKze"
-        },
-        {
-          "name": "Inmehead",
-          "url": "https://open.spotify.com/artist/3pjzGVLqzeeOMoIa9rW5WB"
+          "name": "Johan Piribauer",
+          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
+      "duration_ms": 331440,
+      "name": "Stranden",
+      "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hellishei\u00f0i",
-        "url": "https://open.spotify.com/album/6gi6QOtQcbp9M7bhknCLuX"
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
       },
       "artists": [
         {
-          "name": "HAM",
-          "url": "https://open.spotify.com/artist/0oxFfQiaEinJbDSrTVB6c4"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 258850,
-      "name": "Hellishei\u00f0i",
-      "url": "https://open.spotify.com/track/4Lyr9iFYeefybU3B5V6Mhn"
+      "duration_ms": 161036,
+      "name": "Song For The Hanged Man - 2023 Remaster",
+      "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trauma Junkie",
-        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/4dvSoIH80G8SPSSyJPwwQ3"
       },
       "artists": [
         {
-          "name": "The Dogs",
-          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+          "name": "Firehill",
+          "url": "https://open.spotify.com/artist/6f1rti1er9Al2g3fHBMnES"
         }
       ],
-      "duration_ms": 190281,
-      "name": "Becoming God of Nothing",
-      "url": "https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0"
+      "duration_ms": 246373,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
     },
     {
       "added_at": null,
@@ -367,18 +363,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu"
+        "name": "Virus Potus (Extended)",
+        "url": "https://open.spotify.com/album/2S6SKZ9P1Fw5rsRhNousSF"
       },
       "artists": [
         {
-          "name": "Svigermors Dr\u00f8m",
-          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
+          "name": "Vii-Pii",
+          "url": "https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
+      "duration_ms": 128600,
+      "name": "Virus Potus",
+      "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magik",
+        "url": "https://open.spotify.com/album/5WkLw1B255pZh5C3YZm9Fw"
+      },
+      "artists": [
+        {
+          "name": "Marti Wilde",
+          "url": "https://open.spotify.com/artist/05szXIA8QmElY4ayT3BMx6"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Do it again!",
+      "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
     },
     {
       "added_at": null,
@@ -399,34 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som en egen man",
-        "url": "https://open.spotify.com/album/1yaywXdhnBspAHDrEVAgkX"
+        "name": "Mamma Africa",
+        "url": "https://open.spotify.com/album/7AbzEugV7sdL1leTZcrCbm"
       },
       "artists": [
         {
-          "name": "Stockholm Kallar",
-          "url": "https://open.spotify.com/artist/30vCZYyz5It7r5ZFxS4oKd"
+          "name": "Greg Maclennan",
+          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
         }
       ],
-      "duration_ms": 193304,
-      "name": "Som en egen man",
-      "url": "https://open.spotify.com/track/7xyQqrndudqpdan5PYfMgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/54J5z8fwaehG2NClZejMok"
-      },
-      "artists": [
-        {
-          "name": "Bad Scullianz",
-          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
-        }
-      ],
-      "duration_ms": 338747,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
+      "duration_ms": 199578,
+      "name": "Mamma Africa",
+      "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
     },
     {
       "added_at": null,
@@ -447,6 +443,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ambulance Song",
+        "url": "https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi"
+      },
+      "artists": [
+        {
+          "name": "Rat Silo",
+          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
+        }
+      ],
+      "duration_ms": 156095,
+      "name": "The Ambulance Song",
+      "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Narakarappor Alias The GrandMaster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Aii9pAV0sP3HQLd3rKkIh"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/6Qsx5pClocDX1YLkA5tlkH"
+        },
+        {
+          "name": "Sujay",
+          "url": "https://open.spotify.com/artist/3dr5NKc1nzUhtxUzoKHDEy"
+        },
+        {
+          "name": "Deva Rajesh",
+          "url": "https://open.spotify.com/artist/1k5IHLnQBFNW2iH3iRUxHc"
+        },
+        {
+          "name": "Malaiarasan Periyasamy",
+          "url": "https://open.spotify.com/artist/06xAmurChnfDtMVHp1he6E"
+        },
+        {
+          "name": "Dinesh Antony",
+          "url": "https://open.spotify.com/artist/2JuI4dYYClik4TDHXaljWO"
+        },
+        {
+          "name": "Pugazhendi",
+          "url": "https://open.spotify.com/artist/4qig5HvSaAF9jK0GuP8QDH"
+        }
+      ],
+      "duration_ms": 119052,
+      "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
+      "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carry The Light",
         "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
       },
@@ -463,50 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mitchell",
-        "url": "https://open.spotify.com/album/4LOqQDwpMHjpexTseWCMWT"
+        "name": "Apache",
+        "url": "https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu"
       },
       "artists": [
         {
-          "name": "Mitchell",
-          "url": "https://open.spotify.com/artist/1AuCaomswbfaBYWkhx5R0K"
+          "name": "Svigermors Dr\u00f8m",
+          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
         }
       ],
-      "duration_ms": 87251,
-      "name": "Life In Prison",
-      "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Svik, harmur og dau\u00f0i",
-        "url": "https://open.spotify.com/album/3kAIugg0jMHnsOkYgwHTIG"
-      },
-      "artists": [
-        {
-          "name": "HAM",
-          "url": "https://open.spotify.com/artist/0oxFfQiaEinJbDSrTVB6c4"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Heimamenn",
-      "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down 'N' Dirty: Volume 1",
-        "url": "https://open.spotify.com/album/6gmpbWtF0ZRqXD1pLmijQe"
-      },
-      "artists": [
-        {
-          "name": "Nick Helm",
-          "url": "https://open.spotify.com/artist/2JYFvQnnocLtU3Anrt5vS2"
-        }
-      ],
-      "duration_ms": 215836,
-      "name": "Battle Damaged",
-      "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
+      "duration_ms": 220000,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
     },
     {
       "added_at": null,
@@ -527,66 +543,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ambulance Song",
-        "url": "https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi"
+        "name": "Busan Serenade",
+        "url": "https://open.spotify.com/album/02XwA12DWO51UDUqQJOLJ6"
       },
       "artists": [
         {
-          "name": "Rat Silo",
-          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
+          "name": "Crimson Disc",
+          "url": "https://open.spotify.com/artist/5AbZvGB2eavlRRigb4e4Zb"
         }
       ],
-      "duration_ms": 156095,
-      "name": "The Ambulance Song",
-      "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
+      "duration_ms": 171441,
+      "name": "Busan Serenade",
+      "url": "https://open.spotify.com/track/2BeEL612JUHRUoJKhBZuuf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Credits Left (Edition 2022)",
-        "url": "https://open.spotify.com/album/03dtYf0mILcfUsLAxLVjTO"
+        "name": "It's Just A Photograph",
+        "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
       },
       "artists": [
         {
-          "name": "Next Generation Voodoo",
-          "url": "https://open.spotify.com/artist/1xdqXYwdBoKV0WauNX125U"
+          "name": "Simone Vignini",
+          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
         }
       ],
-      "duration_ms": 287413,
-      "name": "Take Me for a While - Edition 2022",
-      "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
+      "duration_ms": 191525,
+      "name": "It's Just A Photograph",
+      "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Jorden",
-        "url": "https://open.spotify.com/album/398V3exFWa1OAkAgApbxFQ"
+        "name": "Golden Thrones",
+        "url": "https://open.spotify.com/album/60L0Iwf9qjUFAqzOvP4709"
       },
       "artists": [
         {
-          "name": "Ove Markstr\u00f6m",
-          "url": "https://open.spotify.com/artist/1lc8KZKBbZn6a5NWhgXckl"
+          "name": "Space Aquarium",
+          "url": "https://open.spotify.com/artist/6klQXmHKMO9IZNA4gol1Gb"
         }
       ],
-      "duration_ms": 279933,
-      "name": "Jorden",
-      "url": "https://open.spotify.com/track/7t5iHxdeKcgXAQdoVWfXYE"
+      "duration_ms": 239171,
+      "name": "Golden Thrones",
+      "url": "https://open.spotify.com/track/3kgEpgNT2VFH3u2Q1f70LV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Remains",
-        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
       },
       "artists": [
         {
-          "name": "FirstWave Music",
-          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
         }
       ],
-      "duration_ms": 299896,
-      "name": "My Remains",
-      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
+      "duration_ms": 190281,
+      "name": "Becoming God of Nothing",
+      "url": "https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0"
     },
     {
       "added_at": null,
@@ -607,66 +623,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palliativ Planet",
-        "url": "https://open.spotify.com/album/57B2Y4eRc5lNVc95rs56xf"
+        "name": "Minnefond",
+        "url": "https://open.spotify.com/album/7kjUoXd95mEnGQJe5EgBSL"
       },
       "artists": [
         {
-          "name": "Johan Piribauer",
-          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
         }
       ],
-      "duration_ms": 228150,
-      "name": "Arvidsjaur",
-      "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
+      "duration_ms": 167051,
+      "name": "Minnefond",
+      "url": "https://open.spotify.com/track/4UzE44sX6mQj2uFxX1Byff"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/0pjhkfy3ceCEPNO4XhqHhL"
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/4f1ZBkCiaoOncedwyQdtAB"
       },
       "artists": [
         {
-          "name": "Emerson B. Ocampo",
-          "url": "https://open.spotify.com/artist/0sOfXa91hGJyJ21wfT6PzC"
+          "name": "Call Me T",
+          "url": "https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF"
         }
       ],
-      "duration_ms": 168263,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
+      "duration_ms": 197000,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/0nGgprHN8K6Gyl1fBXwHKv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/5OYbZkXZyH5YpkmhGmzbv1"
+        "name": "Pale Ontology",
+        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
       },
       "artists": [
         {
-          "name": "Crimson Disc",
-          "url": "https://open.spotify.com/artist/5AbZvGB2eavlRRigb4e4Zb"
+          "name": "Tom Markey",
+          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
         }
       ],
-      "duration_ms": 177502,
-      "name": "Pointless Paranoia - Remastered 2025",
-      "url": "https://open.spotify.com/track/57aH8JoDiGALsR3bAsSK4m"
+      "duration_ms": 201996,
+      "name": "Complaining",
+      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fall from Grace",
-        "url": "https://open.spotify.com/album/5RikhTUZ6wIyNsU5WezmZI"
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/3lxKDfXUG1unB1R8W0GJfK"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+          "name": "RYDIS",
+          "url": "https://open.spotify.com/artist/4zWJ1DPqgmIfaKxNOWfKze"
+        },
+        {
+          "name": "Inmehead",
+          "url": "https://open.spotify.com/artist/3pjzGVLqzeeOMoIa9rW5WB"
         }
       ],
-      "duration_ms": 301250,
-      "name": "Fall from Grace",
-      "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
+      "duration_ms": 238500,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
     },
     {
       "added_at": null,
@@ -691,34 +711,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranded Future Soho Fugitive",
-        "url": "https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm"
+        "name": "Ship of Sorrow",
+        "url": "https://open.spotify.com/album/05j1aMIOAJ2GBy1dqCphVT"
       },
       "artists": [
         {
-          "name": "Forwardman",
-          "url": "https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR"
+          "name": "The Exceptional Mr Hyde",
+          "url": "https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp"
         }
       ],
-      "duration_ms": 290186,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
+      "duration_ms": 245000,
+      "name": "Ship of Sorrow",
+      "url": "https://open.spotify.com/track/4nM1YRktjwhcRg41vBbKaA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Gabbagabbaheyhotel, Pt. 3",
-        "url": "https://open.spotify.com/album/4Y6qMWLujTEUWPojOtvVoS"
+        "name": "In the Shadow of the Mountain",
+        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
       },
       "artists": [
         {
-          "name": "The Old",
-          "url": "https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp"
+          "name": "Huston Sonhouse",
+          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
         }
       ],
-      "duration_ms": 155076,
-      "name": "The Hair",
-      "url": "https://open.spotify.com/track/3pIRroC5iuw3TvSlV7mqI8"
+      "duration_ms": 220056,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
     },
     {
       "added_at": null,
@@ -739,34 +759,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Night in Las Cruces",
-        "url": "https://open.spotify.com/album/4braX0GOzq358eNTUW9DuJ"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/54J5z8fwaehG2NClZejMok"
       },
       "artists": [
         {
-          "name": "R\u00f6swell",
-          "url": "https://open.spotify.com/artist/7q1PLwTm4UVWqWBWq9v2or"
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Last Night in Las Cruces",
-      "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
+      "duration_ms": 338747,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mark of Cain",
-        "url": "https://open.spotify.com/album/2J7Eg0XKOBDmHMO9vd3uTh"
+        "name": "Stranded Future Soho Fugitive",
+        "url": "https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm"
       },
       "artists": [
         {
-          "name": "machine messiahs",
-          "url": "https://open.spotify.com/artist/40tH1DcdgKhp48yDTXsUnO"
+          "name": "Forwardman",
+          "url": "https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR"
         }
       ],
-      "duration_ms": 218070,
-      "name": "Zodiac Snipers",
-      "url": "https://open.spotify.com/track/1sNYumI1kFlDXqxXwf0p65"
+      "duration_ms": 290186,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
     },
     {
       "added_at": null,
@@ -787,50 +807,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "En sista s\u00e5ng fr\u00e5n Tjapps\u00e5ive",
-        "url": "https://open.spotify.com/album/6M0kN0riMm5IcczfPUlr3x"
+        "name": "No Credits Left (Edition 2022)",
+        "url": "https://open.spotify.com/album/03dtYf0mILcfUsLAxLVjTO"
       },
       "artists": [
         {
-          "name": "Johan Piribauer",
-          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
+          "name": "Next Generation Voodoo",
+          "url": "https://open.spotify.com/artist/1xdqXYwdBoKV0WauNX125U"
         }
       ],
-      "duration_ms": 331440,
-      "name": "Stranden",
-      "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
+      "duration_ms": 287413,
+      "name": "Take Me for a While - Edition 2022",
+      "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Virus Potus (Extended)",
-        "url": "https://open.spotify.com/album/2S6SKZ9P1Fw5rsRhNousSF"
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/2VQC9Q33SsTWZCYPY48dj2"
       },
       "artists": [
         {
-          "name": "Vii-Pii",
-          "url": "https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ"
+          "name": "Everyday carry band",
+          "url": "https://open.spotify.com/artist/6aMYZLZI2XRZAsH0nC7ej8"
         }
       ],
-      "duration_ms": 128600,
-      "name": "Virus Potus",
-      "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
+      "duration_ms": 223051,
+      "name": "Progress",
+      "url": "https://open.spotify.com/track/6UaMb5HuoDC9Kf5N6d72jK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Busan Serenade",
-        "url": "https://open.spotify.com/album/02XwA12DWO51UDUqQJOLJ6"
+        "name": "Generating Station Complex",
+        "url": "https://open.spotify.com/album/070SquMp0lfMW3yicWxLhm"
       },
       "artists": [
         {
-          "name": "Crimson Disc",
-          "url": "https://open.spotify.com/artist/5AbZvGB2eavlRRigb4e4Zb"
+          "name": "The Cassandra Complex",
+          "url": "https://open.spotify.com/artist/3NhBwiq1BSgJg7HMJPlwVT"
         }
       ],
-      "duration_ms": 171441,
-      "name": "Busan Serenade",
-      "url": "https://open.spotify.com/track/2BeEL612JUHRUoJKhBZuuf"
+      "duration_ms": 187118,
+      "name": "Moscow Idaho - GSCX Version",
+      "url": "https://open.spotify.com/track/6f8lwYFmqxYHYhklisBMPl"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,331,619 likes - 215 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333,341 likes - 215 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 214 | [The Small Things](https://open.spotify.com/track/3Ifr0lmnOeTaCHDXuDMR25) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [The Small Things](https://open.spotify.com/album/1N3NXLBOYThq2vZ6kfdGuF) | 2:47 |
 | 215 | [Long Have I Longed For](https://open.spotify.com/track/6i1w3XtzHwlDGP1qgF2p8P) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [Long Have I Longed For](https://open.spotify.com/album/44xa25y3tXuGxa2xdw3AdM) | 3:10 |
 
-Snapshot ID: `AAAAAGXCqHbXiBoO3Sc7d7mxyHuoblIk`
+Snapshot ID: `AAAAAOea4TE8sD421Sd3p+v1fmjv76Go`

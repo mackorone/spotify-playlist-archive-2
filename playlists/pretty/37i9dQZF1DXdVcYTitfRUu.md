@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,884 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,888 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 13 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 14 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 15 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 |
-| 16 | [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 |
-| 17 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
+| 16 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
+| 17 | [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 |
 | 18 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 19 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
 | 20 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 73 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
 | 74 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
 | 75 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
-| 76 | [You may live in happiness \(2022\)](https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You may live in happiness \(2022\)](https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8) | 4:34 |
-| 77 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
-| 78 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
+| 76 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
+| 77 | [You may live in happiness \(2022\)](https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You may live in happiness \(2022\)](https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8) | 4:34 |
+| 78 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
 | 79 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
 | 80 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |
 
-Snapshot ID: `AAAAAFDor3dFtVMq2yGjeP+uGt0QfBaF`
+Snapshot ID: `AAAAAKegMYbsm49Wt2Ki6tU+blPycn8m`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Nepal Nepal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,130 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,143 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [EL AÑO DEL CABALLO](https://open.spotify.com/track/7cdLExJzvxfp7rj0L4CuLv) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [EL AÑO DEL CABALLO](https://open.spotify.com/album/0NaGYGwOgn0FgBTSljastT) | 3:03 |
 | 100 | [Non Sei Como](https://open.spotify.com/track/48Qrb6fpGg0N0VoDSBteuv) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Non Sei Como](https://open.spotify.com/album/69nLTmEQvfhh4q4sf6ri4u) | 3:21 |
 
-Snapshot ID: `AAAAAFIQS5JCgbjeoFZa2RST97jl5XYW`
+Snapshot ID: `AAAAADEbhskhWRk89BdVrLn+zvMsBdRp`

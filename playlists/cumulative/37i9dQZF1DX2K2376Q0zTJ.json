@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: kiki vivi lily",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: LAUSBUB",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 213740,
       "name": "23",
       "url": "https://open.spotify.com/track/5ZCGBQV1c9afVyrsQ0yuZ3"
+    },
+    {
+      "album": {
+        "name": "2nd\u30b9\u30ad\u30f3",
+        "url": "https://open.spotify.com/album/34qGV2RMnchJjv1aWvXiZU"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "2nd\u30b9\u30ad\u30f3",
+      "url": "https://open.spotify.com/track/45IongiIeIhQoLhZqzIfEr"
     },
     {
       "album": {
@@ -4278,6 +4296,24 @@
       "duration_ms": 231733,
       "name": "dive into you",
       "url": "https://open.spotify.com/track/7ch6oYzzxOk4Ez5FdYLulB"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146037,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
     },
     {
       "album": {
@@ -9299,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "It's AI",
+        "url": "https://open.spotify.com/album/5WBb0ZJHneOzVYE7oQSEOm"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150619,
+      "name": "It's AI",
+      "url": "https://open.spotify.com/track/7rGZzeGA7r3XKRJkwtcPaz"
+    },
+    {
+      "album": {
         "name": "It\u2019s You",
         "url": "https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs"
       },
@@ -9310,7 +9364,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 242986,
       "name": "It's You",
       "url": "https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP"
@@ -13304,7 +13358,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 240398,
       "name": "New Walk",
       "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
@@ -18079,6 +18133,24 @@
     },
     {
       "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/0hckWSl7jBQEx5OS074Ffc"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217227,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/5wXtP1G0e6qlpjkEGB9655"
+    },
+    {
+      "album": {
         "name": "Status ailment just alive",
         "url": "https://open.spotify.com/album/6zE2UaKZCm6wvUVhd4Txfv"
       },
@@ -20174,7 +20246,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 180905,
       "name": "Truth in the dark",
       "url": "https://open.spotify.com/track/10sGZWOddZT9TSYM2iz8pq"
@@ -24942,7 +25014,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 251548,
       "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
       "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
@@ -25846,6 +25918,28 @@
       "duration_ms": 167762,
       "name": "\u30d5\u30fc\u30e6\u30fc\u30a2\u30fc!",
       "url": "https://open.spotify.com/track/6ZmAXCSRl14F4VptA5Wdso"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/6HIFiBH6bv2jFbk0sfbCio"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        },
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173129,
+      "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/7AVx0WwHiuPA76HRrJ90ru"
     },
     {
       "album": {
@@ -28460,7 +28554,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 183813,
       "name": "\u65b0\u5973\u795e",
       "url": "https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9"

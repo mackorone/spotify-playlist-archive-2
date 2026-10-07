@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > Our editor's picks for the biggest Drum & Bass bangers of 2024\. Cover: Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,432 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,448 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 63 | [Breathe](https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Breathe](https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw) | 3:02 |
 | 64 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 65 | [rampage](https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [DJ Ss](https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:47 |
-| 66 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
+| 66 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Christopher Jones](https://open.spotify.com/artist/7jUXyYN5kZijQWW4M2UOVD), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
 | 67 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
 | 68 | [Electricity](https://open.spotify.com/track/5L3WyH271K5kFFnTvLgmmZ) | [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Electricity](https://open.spotify.com/album/3mi41jhAY5fQoAe8gtWtOP) | 3:21 |
 | 69 | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/album/0AykD0vZXh4qotarIZaein) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 74 | [My Favourite Game \(feat\. The Cardigans\)](https://open.spotify.com/track/0cIgRv4Ew48c2r2yixOR1K) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY), [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g), [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [My Favourite Game \(feat\. The Cardigans\)](https://open.spotify.com/album/3rMfs8Eno9bwi3Z5ZkfRXp) | 2:28 |
 | 75 | [Poison \- Potential Badboy Remix](https://open.spotify.com/track/0aseMxZ638eTXqXhSykwcU) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Pesolife](https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT), [Potential Badboy](https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n) | [Poison \(Potential Badboy Remix\)](https://open.spotify.com/album/3y412ik8DPKnGkwTO9uOzk) | 3:20 |
 
-Snapshot ID: `AAAAACVHALbLwq5Ht38r4DeoIivsMaQT`
+Snapshot ID: `AAAAAF3DAheP4hyurOGwg56pc8rPIhcS`

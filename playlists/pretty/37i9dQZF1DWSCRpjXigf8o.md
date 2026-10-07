@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,634 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,641 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 38 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
 | 39 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 40 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 41 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
-| 42 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
+| 41 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
+| 42 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 43 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 44 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
 | 45 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 72 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
 | 73 | [NEW ERA](https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW ERA](https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv) | 4:39 |
 | 74 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
-| 75 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
-| 76 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
-| 77 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
+| 75 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
+| 76 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
+| 77 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
 | 78 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 |
 | 79 | [FASHION](https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BALLOONS & BUBBLES](https://open.spotify.com/album/6m4m0bomFQOpBMgkDbRDwT) | 3:27 |
-| 80 | [la misma piedra](https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU) | [Ton Felices](https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [la misma piedra](https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE) | 3:36 |
-| 81 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 |
+| 80 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 |
+| 81 | [la misma piedra](https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU) | [Ton Felices](https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [la misma piedra](https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE) | 3:36 |
 | 82 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
 | 83 | [ceremony](https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ceremony](https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL) | 4:35 |
 | 84 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
 | 100 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 
-Snapshot ID: `AAAAALU3VW0VrKN218s2L8h4KLL4Seb1`
+Snapshot ID: `AAAAAEicLCjcSpGAckbkTL6AQhPj6eBO`

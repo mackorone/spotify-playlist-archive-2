@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Angèle, Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,416 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,405 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Listen When Sad](https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Listen When Sad](https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9) | 3:48 |
 | 100 | [PICK RIGHT](https://open.spotify.com/track/4f5wOf1GYhiEOVTijixs1l) | [Rose Adam](https://open.spotify.com/artist/7B102wjkKpOBdpMWnY24cW), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [PICK RIGHT](https://open.spotify.com/album/2TF80OUKQNu9VTjLf6UAFs) | 2:59 |
 
-Snapshot ID: `AAAAAI40rhRDpOiW9XjQp2JC+rZGdz5B`
+Snapshot ID: `AAAAAPN3KO2eI3CYDDOt7ibNG9Phu0Cd`

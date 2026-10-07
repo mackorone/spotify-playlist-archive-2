@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-171 songs - 10 hr 48 min
+172 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Favela Vive 2](https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Favela Vive 2](https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3) | 7:02 | 2023-09-18 | 2025-11-20 |
 | [Gatilhos](https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:09 | 2025-12-18 |  |
 | [Gaudi Apex](https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez) | [Gaudi Apex](https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL) | 2:34 | 2024-12-21 | 2025-03-14 |
+| [Gigantes](https://open.spotify.com/track/3OrMzKr1E8FCCpRH4xhjwr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Juyè](https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 3:52 | 2026-10-07 |  |
 | [Gigantes](https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:52 | 2023-09-18 | 2025-11-20 |
 | [Guru do Asfalto](https://open.spotify.com/track/7gEFbX3gKYiZ69zkSmTyqp) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Old Dirty Bacon](https://open.spotify.com/artist/47u3qUpiwYT0NFBO75umme), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:54 | 2025-12-18 | 2025-12-23 |
 | [HOTEL ZONA SUL](https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 4:00 | 2024-02-18 | 2025-11-28 |

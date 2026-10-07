@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ijzq5N149E.md) - [plain]
 
 > Fall head over heels with love stories that center queer romance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAH3I5y8+LO++gcJ14cnc4CRna+UA`
+Snapshot ID: `AAAAAHf2A90cdSC6UQ0G70OLtXvdmHBJ`

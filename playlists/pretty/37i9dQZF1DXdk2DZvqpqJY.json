@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 127195,
+  "num_followers": 127223,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqgx/8pxHXKNMDQpZu2Mojzgigj",
+  "snapshot_id": "AAAAAKE7vwZYV9rpzA8frXbScQ0SZ/nI",
   "tracks": [
     {
       "added_at": "2026-06-09 09:45:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Lewis",
-          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Nocturnal Whispers",
         "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 267688,
       "name": "Nocturnal Whispers",
       "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Lewis",
+          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "All The Sunsets",
-        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "All The Sunsets",
-      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "You Gave Me That Look",
         "url": "https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 304694,
       "name": "You Gave Me That Look",
       "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "All The Sunsets",
+        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "All The Sunsets",
+      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
+        "name": "Moved by Performance",
+        "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 158698,
+      "name": "Moved by Performance",
+      "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 299349,
       "name": "There Will Be Better Days",
       "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Moved by Performance",
-        "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 158698,
-      "name": "Moved by Performance",
-      "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176263,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Can't Help Loving That Man",
-        "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
-      },
-      "artists": [
-        {
-          "name": "Kingsbury Station",
-          "url": "https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD"
-        }
-      ],
-      "duration_ms": 269030,
-      "name": "Can't Help Loving That Man",
-      "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Jazz Odyssey",
         "url": "https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa"
       },
@@ -715,34 +699,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Sunset Stroll",
-        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
+        "name": "Can't Help Loving That Man",
+        "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
       },
       "artists": [
         {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+          "name": "Kingsbury Station",
+          "url": "https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD"
         }
       ],
-      "duration_ms": 164682,
-      "name": "Sunset Stroll",
-      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Lovestrung",
-        "url": "https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 199043,
-      "name": "Lovestrung",
-      "url": "https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK"
+      "duration_ms": 269030,
+      "name": "Can't Help Loving That Man",
+      "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -763,18 +731,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Thank God It's Friday",
-        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
+        "name": "Sunset Stroll",
+        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
       },
       "artists": [
         {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
         }
       ],
-      "duration_ms": 233319,
-      "name": "Thank God It's Friday",
-      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
+      "duration_ms": 164682,
+      "name": "Sunset Stroll",
+      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -795,18 +763,34 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
+        "name": "Thank God It's Friday",
+        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
       },
       "artists": [
         {
-          "name": "M\u00e5ns & Dotter",
-          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
         }
       ],
-      "duration_ms": 182563,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
+      "duration_ms": 233319,
+      "name": "Thank God It's Friday",
+      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Lovestrung",
+        "url": "https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 199043,
+      "name": "Lovestrung",
+      "url": "https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -823,6 +807,22 @@
       "duration_ms": 178511,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "duration_ms": 182563,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Walking talking fields",
-        "url": "https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr"
+        "name": "Here Comes Friday",
+        "url": "https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8"
       },
       "artists": [
         {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
         }
       ],
-      "duration_ms": 234370,
-      "name": "Walking talking fields",
-      "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
+      "duration_ms": 169622,
+      "name": "Here Comes Friday",
+      "url": "https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -923,34 +923,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Here Comes Friday",
-        "url": "https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8"
+        "name": "Walking talking fields",
+        "url": "https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr"
       },
       "artists": [
         {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
         }
       ],
-      "duration_ms": 169622,
-      "name": "Here Comes Friday",
-      "url": "https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Love To Be Happy",
-        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Love To Be Happy",
-      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+      "duration_ms": 234370,
+      "name": "Walking talking fields",
+      "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -967,6 +951,22 @@
       "duration_ms": 221909,
       "name": "February Brings The Rain",
       "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO"
-      },
-      "artists": [
-        {
-          "name": "Ray Love Trio",
-          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
-        }
-      ],
-      "duration_ms": 220658,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Clowns And Crowns",
         "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 262707,
       "name": "Maze of Tranquility",
       "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "duration_ms": 220658,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Every Time (You Say You Love Me)",
-        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
-      },
-      "artists": [
-        {
-          "name": "The Grace Smith Gang",
-          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Every Time (You Say You Love Me)",
-      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Have You Seen Me Lately",
         "url": "https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 131219,
       "name": "Have You Seen Me Lately",
       "url": "https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Every Time (You Say You Love Me)",
+        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Every Time (You Say You Love Me)",
+      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Lena",
-        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 182561,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "duration_ms": 182561,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+        "name": "On 14th Street",
+        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
       },
       "artists": [
         {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
         }
       ],
-      "duration_ms": 327224,
-      "name": "Quiet Sunset",
-      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
+      "duration_ms": 176896,
+      "name": "On 14th Street",
+      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "On 14th Street",
-        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
       "artists": [
         {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
         }
       ],
-      "duration_ms": 176896,
-      "name": "On 14th Street",
-      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
+      "duration_ms": 327224,
+      "name": "Quiet Sunset",
+      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Glencoe Sketches",
-        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
-      },
-      "artists": [
-        {
-          "name": "Saphena Trio",
-          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
-        }
-      ],
-      "duration_ms": 261316,
-      "name": "Glencoe Sketches",
-      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Forever and Always",
         "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 238970,
       "name": "Forever and Always",
       "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Glencoe Sketches",
+        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "duration_ms": 261316,
+      "name": "Glencoe Sketches",
+      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
     },
     {
       "added_at": "2026-06-09 09:45:00",

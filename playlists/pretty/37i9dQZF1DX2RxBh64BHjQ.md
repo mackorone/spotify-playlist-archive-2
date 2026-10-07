@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Fatt Smaxk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,704,303 likes - 101 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,704,272 likes - 101 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 7 | [Earn Ya Rank \- Remix](https://open.spotify.com/track/4zTnfYNLBdrazWNiPNzaLH) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [Surf7](https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj) | [Earn Ya Rank \(Remix\)](https://open.spotify.com/album/3Z40sPGGWxZNj5pNOqDkTn) | 3:03 |
 | 8 | [Intro](https://open.spotify.com/track/1ulcnjDqL2iJKqEteiMmkt) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Intro](https://open.spotify.com/album/1SH4HVfGORmSVbQCrVWVwj) | 3:08 |
 | 9 | [Pink Blush \(Remix\) \[feat\. Megan Thee Stallion\]](https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob) | [Dolly Babe](https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Pink Blush \(Remix\) \[feat\. Megan Thee Stallion\]](https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA) | 2:41 |
-| 10 | [Edge Of The Earth \- Lunch Break Freestyle](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
+| 10 | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
 | 11 | [1v1](https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [1v1](https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg) | 3:06 |
 | 12 | [MONDAY TO SUNDAY](https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [MONDAY TO SUNDAY](https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu) | 3:07 |
 | 13 | [LITE \(feat\. Belly Gang Kushington\)](https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [LITE \(feat\. Belly Gang Kushington\)](https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7) | 2:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 |
 | 101 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 
-Snapshot ID: `AAAAAGsj3mWGZULyOmVKAOKiL218Nq/Q`
+Snapshot ID: `AAAAAPASu2jbjKZDASkXNAO0aeyK4s3M`

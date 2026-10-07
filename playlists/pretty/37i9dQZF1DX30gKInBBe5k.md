@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,033 likes - 84 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,027 likes - 84 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 83 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 |
 | 84 | [Cry Wolf](https://open.spotify.com/track/4DQh5AgN4UJ0TrjQb27oY6) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/3Bz97TkMv12oZx09hjwBd4) | 4:59 |
 
-Snapshot ID: `AAAAALXVfd+gCBzngPC4KPRa7JwOVe+U`
+Snapshot ID: `AAAAABcUvwSDaFJvcGezOHooif9+toB3`

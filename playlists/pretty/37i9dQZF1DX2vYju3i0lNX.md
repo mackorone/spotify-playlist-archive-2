@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,297 likes - 205 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,393 likes - 205 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 204 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 |
 | 205 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 |
 
-Snapshot ID: `AAAAANyDZrDlG89BtfBeEQGS+d3VAtWH`
+Snapshot ID: `AAAAANi0XGv6BwR7MUn+G/xgjg0OnLU3`

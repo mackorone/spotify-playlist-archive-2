@@ -1,6 +1,6 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 131574,
+  "num_followers": 131587,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 227647,
       "name": "Tony Montana (feat. Tornillo)",
       "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,

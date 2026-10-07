@@ -1,12 +1,12 @@
 {
   "description": "Try a little tenderness. Cover: TEEKS",
-  "num_followers": 58112,
+  "num_followers": 58119,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTx9pG4Vnt+gAdPmf0EbzUa3/vy",
+  "snapshot_id": "AAAAAMrNqPGW5p6CDMAe9GmVNxuRACPQ",
   "tracks": [
     {
       "added_at": "2026-09-18 02:30:45",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
     },
     {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Rose in the Dark",
@@ -435,6 +419,22 @@
       "duration_ms": 335310,
       "name": "When I'm in Your Arms",
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 416322,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Change & Remain",
         "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2026-01-23 01:47:43",

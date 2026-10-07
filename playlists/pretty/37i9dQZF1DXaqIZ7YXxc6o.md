@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: DJ HEARTSTRING
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,926 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,921 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Til Death](https://open.spotify.com/track/209B6ePlgrgUhErO5mnTcl) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Til Death](https://open.spotify.com/album/5vY7zRwYoEAFrounXi7HaQ) | 3:44 |
 | 100 | [How I'm Feeling](https://open.spotify.com/track/3smleAtnvntGn5X1seufXB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [How I'm Feeling](https://open.spotify.com/album/1deZknQYIKYQ5tStcxl9vl) | 2:39 |
 
-Snapshot ID: `AAAAAGPJEU9CXixuUzpau9Jx9fvyJrTZ`
+Snapshot ID: `AAAAANu46tTqmdmw66y4cOu4Z3xfJHoW`

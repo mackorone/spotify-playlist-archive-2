@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,198 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,236 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 32 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
 | 33 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 34 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
-| 35 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
-| 36 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
+| 35 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
+| 36 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
 | 37 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
 | 38 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 39 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 65 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 66 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
 | 67 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |
-| 68 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
-| 69 | [Bijou](https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:05 |
+| 68 | [Bijou](https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:05 |
+| 69 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
 | 70 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
 | 71 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 |
 | 72 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
-| 73 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
-| 74 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
+| 73 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
+| 74 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
 | 75 | [BOUCHEKARAILLE](https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [BOUCHEKARAILLE](https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY) | 3:06 |
 | 76 | [Garde Ta Position](https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Garde Ta Position](https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8) | 2:13 |
 | 77 | [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 | 80 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 |
 
-Snapshot ID: `AAAAAEQ0pS16W8kmdKBBoB445NSlZegy`
+Snapshot ID: `AAAAAG2k98G82PjCbQgvpD1a+EDukNxq`

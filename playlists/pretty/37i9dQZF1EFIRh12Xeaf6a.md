@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,428 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,429 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 225 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
 | 226 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 227 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
-| 228 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
-| 229 | [Funny Face](https://open.spotify.com/track/6yJ7h7EThTaR4IYG23XWiA) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Shelley!](https://open.spotify.com/album/3gm0Xom6PrWBT1t6ua7oE0) | 1:59 |
+| 228 | [Funny Face](https://open.spotify.com/track/6yJ7h7EThTaR4IYG23XWiA) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Shelley!](https://open.spotify.com/album/3gm0Xom6PrWBT1t6ua7oE0) | 1:59 |
+| 229 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
 | 230 | [Victim Of Circumstance](https://open.spotify.com/track/2c2m4pEvp03PdFUDBGgYmz) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj) | 2:36 |
 | 231 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 232 | [Why Are You Leaving](https://open.spotify.com/track/6LAZ6NrfsXXJ435QJt64So) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj) | 3:38 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AceKtgAAAAD3NjdASIqM1pGoGEAkQbMa`
+Snapshot ID: `AceQGgAAAAACxVPIy+EInn/DC06nKVdo`

@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49155,
+  "num_followers": 49152,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMnS5wZo4ETI4YoJjlwG2mkt7n6j",
+  "snapshot_id": "AAAAAO6ZWQthf0zscUtWn7nIvmuikKpX",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "60Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
         }
       ],
-      "duration_ms": 182153,
-      "name": "Chiudi Gli Occhi",
-      "url": "https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO"
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "L'amico degli amici",
+        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Cosa vuoi da me",
+      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -659,18 +659,34 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "L'amico degli amici",
-        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
       "artists": [
         {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 242880,
-      "name": "Cosa vuoi da me",
-      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
+      "duration_ms": 182153,
+      "name": "Chiudi Gli Occhi",
+      "url": "https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -699,38 +715,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+        "name": "60Hz",
+        "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
       "artists": [
         {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "FASTLIFE 5 : Audio Luxury",
-        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
         }
       ],
-      "duration_ms": 149651,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3VfHckaUvLwTmgTO4osxOi"
+      "duration_ms": 233786,
+      "name": "Bolo By Night (feat. Royal Mehdi)",
+      "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -755,26 +759,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "60Hz",
-        "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         },
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
         }
       ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night (feat. Royal Mehdi)",
-      "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
+      "duration_ms": 149651,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3VfHckaUvLwTmgTO4osxOi"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Sindrome di Stendhal",
+      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Io sono il viaggio",
         "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 168593,
       "name": "Pedala e batteria (feat. Jovanotti)",
       "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Sindrome di Stendhal",
-      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "SECONDO MEDIOEVO",
+      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "URLAMI",
         "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 181599,
       "name": "URLAMI",
       "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "SECONDO MEDIOEVO",
-      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1591,34 +1591,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
-      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
       },
@@ -1643,6 +1615,34 @@
       "duration_ms": 197290,
       "name": "Welcome To The Jungle (feat. Ernia, Joshua, Neffa)",
       "url": "https://open.spotify.com/track/7D5N7XBeGeAedTg7oL8xEl"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
+      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2003,6 +2003,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Milano Docet",
+        "url": "https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 217806,
+      "name": "Sogni Diventano Incubi",
+      "url": "https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 187415,
       "name": "Sembra un film",
       "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Milano Docet",
-        "url": "https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 217806,
-      "name": "Sogni Diventano Incubi",
-      "url": "https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Fuori di qua! (Stories) [2022 Remastered]",
+        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "IncrEdible Freestyle, pt. IV",
         "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
       },
@@ -2579,22 +2599,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fuori di qua! (Stories) [2022 Remastered]",
-        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
       },
       "artists": [
         {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2615,26 +2635,6 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",

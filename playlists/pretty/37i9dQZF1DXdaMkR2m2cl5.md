@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,689 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,688 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 52 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 |
 | 53 | [Safe](https://open.spotify.com/track/1X2NJ47sVg5ehgaPpukYqx) | [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i) | [Some Good Lives](https://open.spotify.com/album/3uabupxSHc1Nrvk1OKkzO8) | 3:50 |
 | 54 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/4DEN6S0ysyln9dZceE1YuM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/4IXUHwfkm4GhHZX1yjE28f) | 3:03 |
-| 55 | [True North](https://open.spotify.com/track/3vbxHp7vq9jBcWmlwR5jTE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 4:13 |
-| 56 | [Not Healthy Anymore](https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Not Healthy Anymore](https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5) | 4:01 |
+| 55 | [Not Healthy Anymore](https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Not Healthy Anymore](https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5) | 4:01 |
+| 56 | [True North](https://open.spotify.com/track/3vbxHp7vq9jBcWmlwR5jTE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 4:13 |
 | 57 | [Wildwood Flower](https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Wildwood Flower](https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo) | 2:31 |
 | 58 | [Fight](https://open.spotify.com/track/5kzRUNI7QprMwFFhHuNd8t) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 4:15 |
 | 59 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 77 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 78 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
 | 79 | [Indigo](https://open.spotify.com/track/3FCt30JpAVLYSVVtEqSjoo) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Indigo](https://open.spotify.com/album/2e4f9Tv2fwL9LCho2NT5AF) | 4:32 |
-| 80 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
-| 81 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
-| 82 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
+| 80 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
+| 81 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
+| 82 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
 | 83 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 84 | [Floral Dresses](https://open.spotify.com/track/6IjxaBQs1NGkPTNttWvAat) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Something's Changing](https://open.spotify.com/album/7wc8JVfc4CY9H1xThYJABJ) | 2:33 |
 | 85 | [Find a Way \(Acoustic\)](https://open.spotify.com/track/7H0yB7Tm1GmLdjpDDLSISE) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Find a Way \(Acoustic\) / Filling Up Our Lungs \(Acoustic\)](https://open.spotify.com/album/2ffjsINnl0jzADOrgivpXL) | 3:38 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 93 | [You Worry Me](https://open.spotify.com/track/6jwsbxD1nvTc4UGLgRoCa6) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing at the Seams \(Deluxe Edition\)](https://open.spotify.com/album/4A2z1eFKxkLX3sI57R5y5s) | 3:34 |
 | 94 | [Be Where You Are](https://open.spotify.com/track/0Spm6fjntrn9IXqfR1MHCD) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 4:11 |
 | 95 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
-| 96 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 97 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
-| 98 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
-| 99 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 |
+| 96 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 |
+| 97 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
+| 98 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
+| 99 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
 | 100 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 
-Snapshot ID: `AAAAALfucDAljxX0JcQbqoC1XatzV10W`
+Snapshot ID: `AAAAAIJqg6Xj45SM28e3a7VrDN8grSxT`

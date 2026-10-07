@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,301 likes - 97 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,296 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 96 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 97 | [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 |
 
-Snapshot ID: `AAAAABHQlTaxG6S45J9gEzxdtKDnTPyt`
+Snapshot ID: `AAAAAKhEKp8K+tT4rRz9DdHDe11GstaZ`

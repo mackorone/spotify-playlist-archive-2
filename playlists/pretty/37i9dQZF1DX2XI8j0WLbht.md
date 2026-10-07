@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Gabriela Alatorre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,664 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,665 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 79 | [Pajaro Azul](https://open.spotify.com/track/1FhrYN4eKtfXUhS1bMnknI) | [Ivan de la Rioja](https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Pajaro Azul](https://open.spotify.com/album/7qbKlMLwSZUMR4tgOaOlKG) | 2:28 |
 | 80 | [me inundo](https://open.spotify.com/track/2Iulk5WY9RIz1wExyzRh1j) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [me inundo](https://open.spotify.com/album/7tOz3fGxNkXTVLrxnokn5R) | 5:38 |
 
-Snapshot ID: `AAAAAG/ckjoWcmS28cDcN0EE4xGjBVlL`
+Snapshot ID: `AAAAAOnIUr6C/iC7dDhGrMaoBjgRoUGL`

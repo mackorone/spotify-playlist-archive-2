@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,945 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,946 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 37 | [Inna city](https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [RISING](https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES) | 2:26 |
 | 38 | [Introverted Stoner](https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Introverted Stoner](https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08) | 3:12 |
 | 39 | [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 |
-| 40 | [airplanes](https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT) | [Lio Kalebic](https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX) | [airplanes](https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS) | 1:22 |
-| 41 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
+| 40 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
+| 41 | [airplanes](https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT) | [Lio Kalebic](https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX) | [airplanes](https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS) | 1:22 |
 | 42 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 |
 | 43 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 |
 | 44 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 77 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 78 | [Feeling Like](https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Wasalu](https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7) | [Feeling Like](https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O) | 3:04 |
 | 79 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
-| 80 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
-| 81 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
+| 80 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
+| 81 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
 | 82 | [Makin' You Mine](https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV) | [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [KYA](https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9) | [Makin' You Mine/WHATCHUNEED](https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin) | 2:18 |
 | 83 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 |
 | 84 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
 | 85 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 86 | [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 |
 | 87 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 |
-| 88 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
-| 89 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
+| 88 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
+| 89 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
 | 90 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
 | 91 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
 | 92 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 94 | [iwtwbaigwap](https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6) | [Leo Chavez](https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv) | [iwtwbaigwap](https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL) | 3:55 |
 | 95 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 |
 | 96 | [Force](https://open.spotify.com/track/3J0gyp94IxVZynoALNhL5x) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Force](https://open.spotify.com/album/4Gb6ekyYn7G2EGx9VkDoWy) | 3:04 |
-| 97 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 |
-| 98 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
+| 97 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
+| 98 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 |
 | 99 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
-| 100 | [Memory](https://open.spotify.com/track/4VLXVGAMvfoEBd1hzErJpS) | [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Constellation A](https://open.spotify.com/album/1VSRmwbSPADRzGsxcLkfi0) | 3:22 |
+| 100 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 |
 
-Snapshot ID: `AAAAAFJvGhpeI3gATgHPGvOKDB9LjCeX`
+Snapshot ID: `AAAAALRELvymWSKGXHxAy0iTQgSQ7Ezz`

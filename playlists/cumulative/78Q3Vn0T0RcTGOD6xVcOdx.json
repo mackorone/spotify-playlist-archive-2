@@ -4691,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Presen\u00e7a",
+        "url": "https://open.spotify.com/album/5202vgV2cGnn2Ih8xcxt89"
+      },
+      "artists": [
+        {
+          "name": "Moacir Sader",
+          "url": "https://open.spotify.com/artist/4XnU7oi3AKqJwOrFY0Cd6w"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296960,
+      "name": "Presen\u00e7a",
+      "url": "https://open.spotify.com/track/6NfoaNC3F12ucmVtiLoDV2"
+    },
+    {
+      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/70cpQRcnqDyK2vLq8MJBGN"
       },

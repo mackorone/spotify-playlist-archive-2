@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring madra salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,764 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,732 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [The Human Can Opener](https://open.spotify.com/track/19NFwLSHRW617Tl2A0cxyj) | [The Kitchen Sink Band](https://open.spotify.com/artist/4pGU6VjVBJAUqWd0aDJmwg) | [The Human Can Opener](https://open.spotify.com/album/4zDOqiCBEnMv03RKUzZqgK) | 4:30 |
 | 80 | [pick me up](https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [pick me up](https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS) | 2:40 |
 
-Snapshot ID: `AAAAABjvjK/N7zxsFvDNRyefezRx2A6f`
+Snapshot ID: `AAAAAPDHoMQlWVnMz45UGHyGCx4d6SE0`

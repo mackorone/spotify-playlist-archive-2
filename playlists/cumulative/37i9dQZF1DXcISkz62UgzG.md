@@ -4,14 +4,14 @@
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-82 songs - 4 hr 28 min
+83 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 | 2022-11-04 | 2025-02-15 |
 | [A Year Without Rain](https://open.spotify.com/track/1r0XfrhdG6bsiS4oe1QM96) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [A Year Without Rain](https://open.spotify.com/album/2rxTiLaHxp9jctuczFwwHp) | 3:54 | 2022-11-04 | 2024-04-19 |
 | [A Year Without Rain](https://open.spotify.com/track/0lYS1tJg3r6ATe9bRPB0Hu) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [A Year Without Rain \(International Standard Version\)](https://open.spotify.com/album/6r8008bnpeLNfHdYCKtPK0) | 3:54 | 2024-02-28 |  |
-| [Adiós](https://open.spotify.com/track/5MUZhMWlbypeWFeRY4sE2l) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:10 | 2022-11-04 |  |
+| [Adiós](https://open.spotify.com/track/5MUZhMWlbypeWFeRY4sE2l) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:10 | 2022-11-04 | 2026-10-07 |
 | [Back To You \- From 13 Reasons Why – Season 2 Soundtrack](https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Back To You \(From 13 Reasons Why – Season 2 Soundtrack\)](https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO) | 3:27 | 2022-11-04 |  |
 | [Bad Liar](https://open.spotify.com/track/1sCxVKWImDZSZKvG0U9B23) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1nIz2JbAAL6wK0HS6Wb9aC) | 3:34 | 2024-02-28 |  |
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2022-11-04 | 2024-04-19 |
@@ -22,6 +22,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-11-04 |  |
 | [Come & Get It](https://open.spotify.com/track/5U2m76qAMdr3gXI0g6ptlG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance](https://open.spotify.com/album/4MGDyHLc9ctHHiX4wCn1tV) | 3:51 | 2024-02-28 |  |
 | [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:51 | 2022-11-04 | 2024-04-19 |
+| [Cowboy](https://open.spotify.com/track/1j6NNt6UDZVjrjijLFTKc7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:04 | 2026-10-07 |  |
 | [Dance Again](https://open.spotify.com/track/5tJVdHErWeof8gCXJCtDDk) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:50 | 2022-11-04 | 2024-05-28 |
 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 | 2022-11-04 | 2025-02-22 |
 | [Feel Me](https://open.spotify.com/track/4mt7C6wYeTUWDDk7xKym9w) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 3:46 | 2022-11-04 |  |

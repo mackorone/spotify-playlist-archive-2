@@ -1,12 +1,12 @@
 {
   "description": "Sweet afro melodies. Cover: DJ Tunez",
-  "num_followers": 267578,
+  "num_followers": 267609,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKn3AiNuwkdlX/WAChvjgUP+fr6q",
+  "snapshot_id": "AAAAAPs+8JZmxbDGmgz64uGcWLO8a0Wv",
   "tracks": [
     {
       "added_at": "2026-10-02 00:01:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Hold Somebody",
-        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "Hold Somebody",
-      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 139199,
       "name": "Venus",
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "Before I Blow",
         "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
       },
@@ -543,22 +523,22 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 152105,
-      "name": "PINO (feat. Babyboy AV)",
-      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -599,6 +579,26 @@
       "duration_ms": 143575,
       "name": "BADMAN GANGSTA",
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "PINO (feat. Babyboy AV)",
+      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "STATE OF MIND",
         "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
       },
@@ -683,6 +663,46 @@
       "duration_ms": 192227,
       "name": "STATE OF MIND",
       "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -747,42 +767,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -819,30 +819,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -963,22 +983,22 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1011,26 +1031,6 @@
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
-      },
-      "artists": [
-        {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 182790,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "Muhammad Ali (Can't Relate)",
         "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate)",
       "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1355,6 +1339,26 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-10-02 00:01:35",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "Crazily",
-        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Crazily",
-      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
-        "name": "ANGELINA",
-        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "ANGELINA",
-      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
-    },
-    {
-      "added_at": "2026-10-02 00:01:35",
-      "album": {
         "name": "Pami",
         "url": "https://open.spotify.com/album/647NndPt3TbMUYlTojxes9"
       },
@@ -1499,22 +1463,54 @@
     {
       "added_at": "2026-10-02 00:01:35",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
         },
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "Ifeoma & Rascal",
+        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "duration_ms": 152372,
+      "name": "IFEOMA",
+      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
+    },
+    {
+      "added_at": "2026-10-02 00:01:35",
+      "album": {
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
     }
   ],
   "unique_name": "Ginja",

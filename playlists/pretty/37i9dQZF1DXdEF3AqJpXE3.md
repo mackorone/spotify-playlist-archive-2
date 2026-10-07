@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,591 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,590 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 |
 | 50 | [Opening Line](https://open.spotify.com/track/4SYuHF6mkmOm9kMEhZYSLv) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [everland](https://open.spotify.com/album/6KDACdZRZMtZGAv00d3cpP) | 2:50 |
 
-Snapshot ID: `AAAAACqQ4+Lv5e3W9ltoc85Es1tnV5N9`
+Snapshot ID: `AAAAAOizNKQ2kZPxvKL8GL9LQdE1xU0l`

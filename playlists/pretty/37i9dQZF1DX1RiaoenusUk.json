@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35526,
+  "num_followers": 35528,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvfWr6dsYmD7PLo1kti4Mp5O4jm",
+  "snapshot_id": "AAAAAKZrF2PQQQP4OxCy2IVoxCMwRhPy",
   "tracks": [
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Espacios",
-        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        },
-        {
-          "name": "Dinast\u00eda",
-          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+        "name": "Espacios",
+        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
       "artists": [
         {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        },
+        {
+          "name": "Dinast\u00eda",
+          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
+      "duration_ms": 178000,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Ready For Life",
         "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 227174,
       "name": "Ready For Life",
       "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "F\u00e1bulas",
         "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 259318,
       "name": "F\u00e1bulas",
       "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
-      },
-      "artists": [
-        {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
-        }
-      ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Sepia",
         "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 326661,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+      },
+      "artists": [
+        {
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+        }
+      ],
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     }
   ],
   "unique_name": "Nota Funk",

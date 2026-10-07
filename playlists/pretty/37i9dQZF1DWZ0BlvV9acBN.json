@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148809,
+  "num_followers": 148808,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEc9OMvHK0pooJdE0xpiwaJ3TYPD",
+  "snapshot_id": "AAAAAH3C4xD3LBTJhTJvKBEbD3n9W6wD",
   "tracks": [
     {
       "added_at": "2026-08-03 21:13:53",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
+        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 397750,
+      "name": "H\u03a3R\u039eGE",
+      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 240704,
       "name": "For\u00e7a",
       "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
-        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 397750,
-      "name": "H\u03a3R\u039eGE",
-      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Me Fez Vivo (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 241088,
-      "name": "Me Fez Vivo (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "A Est\u00e1tua",
         "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Me Fez Vivo (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 241088,
+      "name": "Me Fez Vivo (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
     },
     {
       "added_at": "2026-08-03 21:13:53",

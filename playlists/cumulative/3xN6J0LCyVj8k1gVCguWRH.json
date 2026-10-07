@@ -22357,6 +22357,28 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/2KE7QtUidu4m91bbkxWTmf"
+      },
+      "artists": [
+        {
+          "name": "Antrix",
+          "url": "https://open.spotify.com/artist/79zdbhO5VPbya23Nkj7Apr"
+        },
+        {
+          "name": "Lava Hong",
+          "url": "https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/7oEkUm79Yr7LXpda0pzpv9"
+    },
+    {
+      "album": {
         "name": "'79 Playlist",
         "url": "https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz"
       },
@@ -51906,7 +51928,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 113828,
       "name": "I Wanna Be Your Wife",
       "url": "https://open.spotify.com/track/1MblIddZXTMpJusiHDrWJX"
@@ -71604,7 +71626,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 289880,
       "name": "More (Imagine) - Remix",
       "url": "https://open.spotify.com/track/51mio1Fz3kpQHcUmFlhq9g"
@@ -82544,7 +82566,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 180586,
       "name": "Paying It Forward",
       "url": "https://open.spotify.com/track/1Djvcq8QVb3oXKvjIo7eH6"
@@ -87244,7 +87266,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 262710,
       "name": "Rain Clouds Leave",
       "url": "https://open.spotify.com/track/7wmK3nfdljJQhCwAPZF0If"
@@ -113794,7 +113816,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 197857,
       "name": "Two Plus One",
       "url": "https://open.spotify.com/track/2NNqj5a9qosI6H8GI1hzE0"

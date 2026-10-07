@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 694249,
+  "num_followers": 694270,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3MMXYnbb0kmZ/hHhuLz8qn9A00",
+  "snapshot_id": "AAAAAPL9IDUHIIKwPUnaEW7MT+GX8+j5",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Misguided Roses",
         "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Making Movies",
-        "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Romeo And Juliet",
-      "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229706,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Making Movies",
+        "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Marc Cohn",
-        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
-      },
-      "artists": [
-        {
-          "name": "Marc Cohn",
-          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Walking in Memphis",
-      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+        "name": "Marc Cohn",
+        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Marc Cohn",
+          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
         }
       ],
-      "duration_ms": 252440,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
+      "duration_ms": 252613,
+      "name": "Walking in Memphis",
+      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -923,6 +907,22 @@
       "duration_ms": 346960,
       "name": "Love Bites - Remastered 2017",
       "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Collective Soul",
+        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 230293,
       "name": "Plush - Acoustic",
       "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Collective Soul",
-        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "The World I Know",
-      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Battle Studies",
         "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329649,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329649,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2023-04-11 13:31:58",

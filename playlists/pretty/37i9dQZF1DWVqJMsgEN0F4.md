@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > The Paradox along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,221 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,255 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 79 | [L+R](https://open.spotify.com/track/1EgDWQYtFBrqwRBypzCwR7) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [as in progress](https://open.spotify.com/album/4ywGQ13kokX0rq53emZfMn) | 2:34 |
 | 80 | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs) | 2:58 |
 
-Snapshot ID: `AAAAAEfvML4XdA95t6C9L+3JABVLbBTu`
+Snapshot ID: `AAAAAIwCgvFYbzqe3BPWqSMRPxZjvnxy`

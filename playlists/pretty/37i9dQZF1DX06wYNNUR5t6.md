@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Grace Garber
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,846 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,871 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 49 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 |
 | 50 | [Stupid Deep](https://open.spotify.com/track/0CDc1hvrNZZw6qVNfq7Fp4) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Stupid Deep](https://open.spotify.com/album/6iBbaoo5wrHot6lLJQVuqW) | 3:10 |
 
-Snapshot ID: `AAAAAPBQQTCvsS4qxNY1/yV/5EyJSmO1`
+Snapshot ID: `AAAAAHK1P1+KrazbrvyLLIYj/NND9cGy`

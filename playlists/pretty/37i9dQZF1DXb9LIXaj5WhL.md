@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445,622 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445,673 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 57 | [Stellar \- Acoustic](https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:15 |
 | 58 | [I Don't Want to Wait](https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 5:18 |
 | 59 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
-| 60 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 61 | [I'm On Fire \- Live](https://open.spotify.com/track/6DTzKm0E0T7U8o4MntTpg8) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Wonderlust](https://open.spotify.com/album/2UsWebaN9VKWusifbgp5ZW) | 3:43 |
+| 60 | [I'm On Fire \- Live](https://open.spotify.com/track/6DTzKm0E0T7U8o4MntTpg8) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Wonderlust](https://open.spotify.com/album/2UsWebaN9VKWusifbgp5ZW) | 3:43 |
+| 61 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 62 | [If You Knew \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/1nd2JEHXbUuQFDiQzCBpsv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 4:28 |
 | 63 | [Stolen Car](https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Central Reservation](https://open.spotify.com/album/6lijTrmA0yAucg4Axbj1up) | 5:25 |
 | 64 | [The Times They Are A\-Changin' \- Live at Sony Music Studios, New York, NY \- November 1994](https://open.spotify.com/track/32gGuJXlLJbKCk3MDfW53y) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/0zTd4xTpA9ytGuH3Gnfnn4) | 5:48 |
-| 65 | [You Oughta Know](https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY) | 4:42 |
-| 66 | [Island](https://open.spotify.com/track/33OKxxPWyeVfybg8ytaj7G) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Oyster](https://open.spotify.com/album/5P2QD4RUFQo9iSwAAq8VSf) | 6:20 |
+| 65 | [Island](https://open.spotify.com/track/33OKxxPWyeVfybg8ytaj7G) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Oyster](https://open.spotify.com/album/5P2QD4RUFQo9iSwAAq8VSf) | 6:20 |
+| 66 | [You Oughta Know](https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY) | 4:42 |
 | 67 | [Be Your Husband \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/5K3XHLYc9uaDyx0YSLGmuL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 4:55 |
 | 68 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 |
 | 69 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Where Is My Mind?](https://open.spotify.com/track/5BP0oaQ1VhuaznT77CBXQp) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death To The Pixies](https://open.spotify.com/album/718KJ6VFOdcqCFCWykJKoG) | 3:51 |
 | 75 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
 
-Snapshot ID: `AAAAANwt+rUlOb7eF0Bt4FG+5wrnmNqr`
+Snapshot ID: `AAAAAJn9hy199UUVNISxhJPLAH22lhY8`

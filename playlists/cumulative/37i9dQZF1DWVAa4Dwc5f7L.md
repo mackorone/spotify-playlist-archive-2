@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma
 
-237 songs - 15 hr 48 min
+238 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 | 2022-01-20 |  |
 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 | 2025-05-15 | 2026-03-28 |
 | [La Bailadora](https://open.spotify.com/track/3Ud3lGER6MKygOhdCuaMHS) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Lluvia De Amor](https://open.spotify.com/album/1FTFQd9HVhWZWw2pWKgjKj) | 4:41 | 2022-01-20 | 2023-03-11 |
-| [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-01-20 |  |
+| [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-01-20 | 2026-10-07 |
 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 | 2022-09-09 | 2024-04-19 |
 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 | 2024-01-25 |  |
 | [La Casa de Ramon](https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Casa de Ramon](https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs) | 3:33 | 2022-01-20 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 | 2022-09-09 |  |
 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y) | 3:33 | 2023-12-08 | 2025-10-09 |
 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK) | 3:33 | 2024-02-09 | 2024-04-19 |
+| [Reina No Ruega](https://open.spotify.com/track/3JmGPds0dSau3ewCrMbse0) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Reina No Ruega](https://open.spotify.com/album/3EXYrCvhAVkJEleUMnFkIa) | 3:00 | 2026-10-06 |  |
 | [Sacala, Bailala y Pegala](https://open.spotify.com/track/64fiC7TQMy43uuyTROGjE2) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Hombres De Honor](https://open.spotify.com/album/5cJhc5kSYS9770vR7TE0fJ) | 3:53 | 2023-03-10 |  |
 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 | 2022-01-20 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/1CdBBfADPyTsN5RiZo7dqT) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:42 | 2022-01-20 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,267 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,255 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 |
 | 100 | [Detaljer](https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Detaljer](https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ) | 2:03 |
 
-Snapshot ID: `AAAAAPyfUjHWSLNPbxtBCtaRWKnexw+F`
+Snapshot ID: `AAAAAE8mZ7moffhrSzd+NONVWI4lRwgq`

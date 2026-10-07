@@ -1,6 +1,6 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12876,
+  "num_followers": 12877,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
       "artists": [
         {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Jalisa Faye",
-          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
-        },
-        {
-          "name": "Rone Grant",
-          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
         }
       ],
-      "duration_ms": 282888,
-      "name": "Look Up - Live In LA",
-      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
       "added_at": null,
@@ -699,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only On The Road (Live)",
         "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
       },
@@ -726,27 +702,19 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 130505,
-      "name": "Every Time I Turn Around - Live In Houston",
-      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
+        },
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Jalisa Faye",
+          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
+        },
+        {
+          "name": "Rone Grant",
+          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
         }
       ],
-      "duration_ms": 336080,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
+      "duration_ms": 282888,
+      "name": "Look Up - Live In LA",
+      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
     },
     {
       "added_at": null,
@@ -767,22 +735,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 392586,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Everything Will Be Alright - Live",
+      "url": "https://open.spotify.com/track/0MdFa9NYbDijPriUTqjcwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 130505,
+      "name": "Every Time I Turn Around - Live In Houston",
+      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
     },
     {
       "added_at": null,
@@ -823,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Everything Will Be Alright - Live",
-      "url": "https://open.spotify.com/track/0MdFa9NYbDijPriUTqjcwN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -875,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Definition Of...",
-        "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 340251,
-      "name": "I Made It (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -915,6 +875,46 @@
       "duration_ms": 278952,
       "name": "Most High",
       "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Definition Of...",
+        "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 340251,
+      "name": "I Made It (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

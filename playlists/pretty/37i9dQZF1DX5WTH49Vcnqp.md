@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,503 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,480 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [All The Rage](https://open.spotify.com/track/3pwC4DncVP3y1SX06IFsxD) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [All The Rage](https://open.spotify.com/album/1Lr6AXuNKVKDKPp0qvI7ds) | 3:49 |
 | 75 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
 
-Snapshot ID: `AAAAADo1LbsH2ka00Ylbmd4Ht+UxgTvc`
+Snapshot ID: `AAAAAI5Lz++EscEhO7DOc3ewpGhB20Tk`

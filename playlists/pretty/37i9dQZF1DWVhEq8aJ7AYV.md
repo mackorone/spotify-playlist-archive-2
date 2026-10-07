@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,507 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,517 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 38 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
 | 39 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 |
 | 40 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
-| 41 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
-| 42 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
-| 43 | [A Go\-Gótica](https://open.spotify.com/track/4yUprRBa7bisq9G2OF6aQv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [A Go\-Gótica](https://open.spotify.com/album/6MnUJVr0ZKjyeHYKl31mUL) | 3:31 |
+| 41 | [A Go\-Gótica](https://open.spotify.com/track/4yUprRBa7bisq9G2OF6aQv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [A Go\-Gótica](https://open.spotify.com/album/6MnUJVr0ZKjyeHYKl31mUL) | 3:31 |
+| 42 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
+| 43 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
 | 44 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
 | 45 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 46 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 51 | [Acapulco Rock](https://open.spotify.com/track/6bZ7FtpxiN3gGUBw5f7ZKN) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acapulco Rock](https://open.spotify.com/album/4kKdCpKunuITYaZAMneEgW) | 3:02 |
 | 52 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 53 | [Qué Divertido](https://open.spotify.com/track/6WKzHKnJhlD5aNAxfRLsER) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [El Jugador](https://open.spotify.com/album/6smHJpUz67QCkxAgtUAkP2) | 3:03 |
-| 54 | [For Your Love](https://open.spotify.com/track/49768PixpSxavruNoPHzdf) | [Johnny Nasty Boots](https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod) | [For Your Love](https://open.spotify.com/album/05mW6JhQ0QgpDtnBonTpul) | 4:05 |
-| 55 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
+| 54 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
+| 55 | [For Your Love](https://open.spotify.com/track/49768PixpSxavruNoPHzdf) | [Johnny Nasty Boots](https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod) | [For Your Love](https://open.spotify.com/album/05mW6JhQ0QgpDtnBonTpul) | 4:05 |
 | 56 | [Me Quieren Casar](https://open.spotify.com/track/4379Ju4PfYb6SQM5J3g8y5) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB), [Hector Quijada](https://open.spotify.com/artist/1uKb1Vsm6JYpD4lVaipFA3) | [Me Quieren Casar](https://open.spotify.com/album/3Sm0YEXjNOa58RO5skV4ir) | 2:52 |
 | 57 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
-| 58 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
-| 59 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
+| 58 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
+| 59 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
 | 60 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
 | 61 | [Tsunami Mami](https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tsunami Mami](https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc) | 2:20 |
 | 62 | [Nación Apache](https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 70 | [Overdrawn At Cortes Bank](https://open.spotify.com/track/0jxywL4Hg5cyX9ehgTUWBD) | [The Torquays](https://open.spotify.com/artist/3Db0GCUUmVYk4Y5l34aN3m) | [Somewhere In California](https://open.spotify.com/album/4sFbu1hw27FWvNQyKCwx5M) | 2:37 |
 | 71 | [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 |
 | 72 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |
-| 73 | [Huevos Al Motor](https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs) | [Yokozuna](https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK) | [EP](https://open.spotify.com/album/31Zc2FUYI5ckAeI5qKGmV2) | 2:43 |
-| 74 | [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 |
-| 75 | [Cordyceps](https://open.spotify.com/track/0vPMGS5FEPjk7pVf6oNdMc) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [Cordyceps](https://open.spotify.com/album/06BS8FuiWWr0qqJqxsZloj) | 2:34 |
+| 73 | [Cordyceps](https://open.spotify.com/track/0vPMGS5FEPjk7pVf6oNdMc) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [Cordyceps](https://open.spotify.com/album/06BS8FuiWWr0qqJqxsZloj) | 2:34 |
+| 74 | [Huevos Al Motor](https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs) | [Yokozuna](https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK) | [EP](https://open.spotify.com/album/31Zc2FUYI5ckAeI5qKGmV2) | 2:43 |
+| 75 | [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 |
 
-Snapshot ID: `AAAAAE/VoAS36eThPhTxsRl5xAkVPF6e`
+Snapshot ID: `AAAAACGcoVRM1VAxA8t29jbfmr1WY7Q9`

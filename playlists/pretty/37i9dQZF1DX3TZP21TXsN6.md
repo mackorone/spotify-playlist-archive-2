@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > NDD, Ocho & Ibs, Getit, 247Loosey, Ezzie & Marou en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,345 likes - 70 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,343 likes - 70 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 69 | [GUNS & DRUGS](https://open.spotify.com/track/0lQV7VH3BusBAbb6QKm5Xo) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [GUNS & DRUGS](https://open.spotify.com/album/3AfQFgcEfGTkVbPmKSggFe) | 2:10 |
 | 70 | [Schietgevaar](https://open.spotify.com/track/2ERo7Qj9YtuD5RbhpPORvd) | [YSL](https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Schietgevaar](https://open.spotify.com/album/6o5gKX6TF7CySlwJNklALg) | 2:44 |
 
-Snapshot ID: `AAAAAF7/pzl3GRgPuyRxPNID1NiLcIoY`
+Snapshot ID: `AAAAAC8m81JZbbMIy5PooBUMbfSqK44G`

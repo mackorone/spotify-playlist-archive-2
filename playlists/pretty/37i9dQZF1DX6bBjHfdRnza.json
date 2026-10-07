@@ -1,13 +1,29 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
-  "num_followers": 217883,
+  "num_followers": 217960,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB0u8l5ofC+3Fp+71Ug2yuGGFnne",
+  "snapshot_id": "AAAAAFtT/T41NRMx4N3kI8C3ldLonSDK",
   "tracks": [
+    {
+      "added_at": "2026-10-07 04:00:12",
+      "album": {
+        "name": "Senses EP",
+        "url": "https://open.spotify.com/album/75PvOaZ2Ioo5jUBQNpxpwD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
+        }
+      ],
+      "duration_ms": 396666,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
+    },
     {
       "added_at": "2026-09-17 01:08:14",
       "album": {
@@ -25,26 +41,6 @@
       "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
     },
     {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "I Got A Story From...",
-        "url": "https://open.spotify.com/album/135lRYt0qFen4ttAh03cPe"
-      },
-      "artists": [
-        {
-          "name": "Edd",
-          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
-        },
-        {
-          "name": "King Wizard",
-          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "I Got A Story From... - Edds Eddit",
-      "url": "https://open.spotify.com/track/28JJCpmvuGEmtKKrOEnCpo"
-    },
-    {
       "added_at": "2026-09-18 04:02:35",
       "album": {
         "name": "ROCK THE DISCO",
@@ -59,38 +55,6 @@
       "duration_ms": 181818,
       "name": "ROCK THE DISCO",
       "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
-    },
-    {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/2IC6PX6OaKMyPSHLqz9FSx"
-      },
-      "artists": [
-        {
-          "name": "RIPPY",
-          "url": "https://open.spotify.com/artist/3SLwm5V5RYbVSOeAs3aNc2"
-        }
-      ],
-      "duration_ms": 210697,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1TrDNbA3XlB8tC0epo2vGq"
-    },
-    {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/0eYEgpjM4V0gnsPxSWVtro"
-      },
-      "artists": [
-        {
-          "name": "Fresh Stuff",
-          "url": "https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -113,56 +77,20 @@
       "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
-      "added_at": "2026-10-02 04:02:43",
+      "added_at": "2026-10-07 04:00:12",
       "album": {
-        "name": "Esoteric Reality EP",
-        "url": "https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60"
+        "name": "Can't Define",
+        "url": "https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR"
       },
       "artists": [
         {
-          "name": "Tamara Wirth",
-          "url": "https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI"
+          "name": "AUGUXT",
+          "url": "https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw"
         }
       ],
-      "duration_ms": 358356,
-      "name": "I",
-      "url": "https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy"
-    },
-    {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "HOOCHIE PALACE",
-        "url": "https://open.spotify.com/album/1hOBLF5X0mfQKxO5cMxCbl"
-      },
-      "artists": [
-        {
-          "name": "SKY JETTA",
-          "url": "https://open.spotify.com/artist/3YkeyxLbsdnfP7vSyqTvnI"
-        }
-      ],
-      "duration_ms": 140852,
-      "name": "HOOCHIE PALACE",
-      "url": "https://open.spotify.com/track/7uD1o6OIcTguJ75S6JKAkh"
-    },
-    {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Am I Dreaming",
-        "url": "https://open.spotify.com/album/6Kyr2QhnMkRUrhybeydroX"
-      },
-      "artists": [
-        {
-          "name": "Poolhaus",
-          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
-        },
-        {
-          "name": "Beni Hana",
-          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Am I Dreaming",
-      "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
+      "duration_ms": 245901,
+      "name": "Can't Define",
+      "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
     },
     {
       "added_at": "2026-10-01 04:34:51",
@@ -181,20 +109,152 @@
       "url": "https://open.spotify.com/track/1NBv7FQrdPomUgceVWawKX"
     },
     {
-      "added_at": "2026-09-18 18:06:53",
+      "added_at": "2026-10-07 04:00:12",
       "album": {
-        "name": "Punch You",
-        "url": "https://open.spotify.com/album/64L1jISmOrDtmN2760WYJK"
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/5xzfbBtV2iiQBBCcZwCU6w"
       },
       "artists": [
         {
-          "name": "PATCHWRK",
-          "url": "https://open.spotify.com/artist/41c9OuzcvzQelrjiBFOl6G"
+          "name": "rom&BAAWLA",
+          "url": "https://open.spotify.com/artist/7dZtqcWfXuGDTyi1WLModI"
+        },
+        {
+          "name": "rom",
+          "url": "https://open.spotify.com/artist/75ybiVnYYHgBNx08VrIyLM"
+        },
+        {
+          "name": "BAAWLA",
+          "url": "https://open.spotify.com/artist/0jaVYitpvZqkDSpDXScIu2"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Punch You",
-      "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
+      "duration_ms": 259411,
+      "name": "PEOPLE (Stomping)",
+      "url": "https://open.spotify.com/track/7HbGe9tgbqhe6ZqrnAUY1P"
+    },
+    {
+      "added_at": "2026-10-02 04:02:43",
+      "album": {
+        "name": "I JUST WANT TO LOVE YOU",
+        "url": "https://open.spotify.com/album/3a8ePmluyQ97mOfCDvEM6r"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "I JUST WANT TO LOVE YOU",
+      "url": "https://open.spotify.com/track/03pv8bM9YTbme1TZc7rAzd"
+    },
+    {
+      "added_at": "2026-10-01 04:34:51",
+      "album": {
+        "name": "I Got A Story From...",
+        "url": "https://open.spotify.com/album/135lRYt0qFen4ttAh03cPe"
+      },
+      "artists": [
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        },
+        {
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "I Got A Story From... - Edds Eddit",
+      "url": "https://open.spotify.com/track/28JJCpmvuGEmtKKrOEnCpo"
+    },
+    {
+      "added_at": "2026-10-01 04:34:51",
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/2IC6PX6OaKMyPSHLqz9FSx"
+      },
+      "artists": [
+        {
+          "name": "RIPPY",
+          "url": "https://open.spotify.com/artist/3SLwm5V5RYbVSOeAs3aNc2"
+        }
+      ],
+      "duration_ms": 210697,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1TrDNbA3XlB8tC0epo2vGq"
+    },
+    {
+      "added_at": "2026-10-07 04:00:12",
+      "album": {
+        "name": "I Need EP",
+        "url": "https://open.spotify.com/album/7LvFbt0joNJXFFGghdeETA"
+      },
+      "artists": [
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        },
+        {
+          "name": "Jungle Georgia",
+          "url": "https://open.spotify.com/artist/3B3QwBPt7bJdfjm7DnBBxz"
+        },
+        {
+          "name": "DJ Sarah",
+          "url": "https://open.spotify.com/artist/2ENBr5U6mFa8ylriwcKdfh"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "I Need - 5AM Sunrise Mix",
+      "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
+    },
+    {
+      "added_at": "2026-10-01 04:34:51",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/0eYEgpjM4V0gnsPxSWVtro"
+      },
+      "artists": [
+        {
+          "name": "Fresh Stuff",
+          "url": "https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4"
+    },
+    {
+      "added_at": "2026-09-23 21:31:26",
+      "album": {
+        "name": "Want U Back",
+        "url": "https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        }
+      ],
+      "duration_ms": 155515,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
+    },
+    {
+      "added_at": "2026-10-02 04:02:43",
+      "album": {
+        "name": "Esoteric Reality EP",
+        "url": "https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60"
+      },
+      "artists": [
+        {
+          "name": "Tamara Wirth",
+          "url": "https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI"
+        }
+      ],
+      "duration_ms": 358356,
+      "name": "I",
+      "url": "https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy"
     },
     {
       "added_at": "2026-10-01 04:34:51",
@@ -233,20 +293,56 @@
       "url": "https://open.spotify.com/track/7D8yRzQXkDdDr3CQ7UX6An"
     },
     {
-      "added_at": "2026-10-02 04:02:43",
+      "added_at": "2026-10-01 04:34:51",
       "album": {
-        "name": "I JUST WANT TO LOVE YOU",
-        "url": "https://open.spotify.com/album/3a8ePmluyQ97mOfCDvEM6r"
+        "name": "HOOCHIE PALACE",
+        "url": "https://open.spotify.com/album/1hOBLF5X0mfQKxO5cMxCbl"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+          "name": "SKY JETTA",
+          "url": "https://open.spotify.com/artist/3YkeyxLbsdnfP7vSyqTvnI"
         }
       ],
-      "duration_ms": 164423,
-      "name": "I JUST WANT TO LOVE YOU",
-      "url": "https://open.spotify.com/track/03pv8bM9YTbme1TZc7rAzd"
+      "duration_ms": 140852,
+      "name": "HOOCHIE PALACE",
+      "url": "https://open.spotify.com/track/7uD1o6OIcTguJ75S6JKAkh"
+    },
+    {
+      "added_at": "2026-09-02 04:00:31",
+      "album": {
+        "name": "Am I Dreaming",
+        "url": "https://open.spotify.com/album/6Kyr2QhnMkRUrhybeydroX"
+      },
+      "artists": [
+        {
+          "name": "Poolhaus",
+          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
+        },
+        {
+          "name": "Beni Hana",
+          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Am I Dreaming",
+      "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
+    },
+    {
+      "added_at": "2026-09-18 18:06:53",
+      "album": {
+        "name": "Punch You",
+        "url": "https://open.spotify.com/album/64L1jISmOrDtmN2760WYJK"
+      },
+      "artists": [
+        {
+          "name": "PATCHWRK",
+          "url": "https://open.spotify.com/artist/41c9OuzcvzQelrjiBFOl6G"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Punch You",
+      "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
     },
     {
       "added_at": "2026-10-01 04:34:51",
@@ -457,22 +553,6 @@
       "url": "https://open.spotify.com/track/42sh19iYGReVErKTOKaAJy"
     },
     {
-      "added_at": "2026-09-23 21:31:26",
-      "album": {
-        "name": "Want U Back",
-        "url": "https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb"
-      },
-      "artists": [
-        {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
-        }
-      ],
-      "duration_ms": 155515,
-      "name": "Want U Back",
-      "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
-    },
-    {
       "added_at": "2026-09-17 01:08:14",
       "album": {
         "name": "Boombox",
@@ -669,22 +749,6 @@
       "url": "https://open.spotify.com/track/1OoxghVJA3YkWvrH7f1jBn"
     },
     {
-      "added_at": "2026-09-04 04:01:34",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "Call Me",
@@ -699,22 +763,6 @@
       "duration_ms": 202500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "Where I Stand",
-        "url": "https://open.spotify.com/album/56KMlB0e6LcEYXScsqjELe"
-      },
-      "artists": [
-        {
-          "name": "Karod",
-          "url": "https://open.spotify.com/artist/267FlnTC1YprshD7Vf3fqv"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Where I Stand",
-      "url": "https://open.spotify.com/track/3SkuTkIkeNa9l2UCexClYh"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -755,42 +803,6 @@
       "duration_ms": 196615,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7AmmvZoDLFmKXcDCGWVAGv"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "SKULL",
-        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 195899,
-      "name": "SKULL",
-      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
-    },
-    {
-      "added_at": "2026-09-11 04:02:14",
-      "album": {
-        "name": "Keep Stepping!",
-        "url": "https://open.spotify.com/album/0RUPP9RVNyRTPKLPjqH4je"
-      },
-      "artists": [
-        {
-          "name": "Jaime Rosso",
-          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
-        }
-      ],
-      "duration_ms": 302343,
-      "name": "Night After Night",
-      "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
     },
     {
       "added_at": "2026-09-02 04:00:31",

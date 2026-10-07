@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,243 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,376 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 47 | [Títere](https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Pero No Me Dejes](https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ) | 3:06 |
 | 48 | [Amigo Bronco \- Remasterizado](https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:47 |
 | 49 | [No Tengo Lágrimas](https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 2:47 |
-| 50 | [Doy La Vida Por Un Beso](https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Mas Alla Del Tiempo Y La Distancia](https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt) | 3:45 |
-| 51 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
+| 50 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
+| 51 | [Doy La Vida Por Un Beso](https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Mas Alla Del Tiempo Y La Distancia](https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt) | 3:45 |
 | 52 | [Palabras Tristes](https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq) | 3:23 |
 | 53 | [Me Está Doliendo Dejarte](https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:25 |
 | 54 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 75 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 2:49 |
 | 76 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 77 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
-| 78 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
-| 79 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
+| 78 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
+| 79 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
 | 80 | [Muñeca de Ojos de Miel](https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 3:19 |
 | 81 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 |
 | 82 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 86 | [Paraiso Terrenal](https://open.spotify.com/track/1j24uoQ72zDdXKnYdY1QSo) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [La Más Completa Colección \(Disc 1 \- Mexico\)](https://open.spotify.com/album/4pM16t7igU0K9eE4AHMuHG) | 3:36 |
 | 87 | [Notas De Sociedad](https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Por Siempre](https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l) | 3:01 |
 | 88 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
-| 89 | [Regálame](https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Elaine Haro](https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS) | [Regálame](https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV) | 2:38 |
-| 90 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
+| 89 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
+| 90 | [Regálame](https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Elaine Haro](https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS) | [Regálame](https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV) | 2:38 |
 | 91 | [El Puente de Piedra](https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Tesoros De Coleccion \- Los Chicanos](https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u) | 3:40 |
 | 92 | [Pobre Gato](https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Sin Límites](https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7) | 2:27 |
 | 93 | [Dos Enamorados](https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [20 Aniversario](https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi) | 3:41 |
@@ -114,12 +114,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 104 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 105 | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa) | 3:05 |
 | 106 | [Novia Linda](https://open.spotify.com/track/0dZ2ZLis40lrPOg3TLVGX9) | [Los Silver](https://open.spotify.com/artist/6Gq2KFKpQgJgoLPDtxdRtD) | [15 Exitos De Los Silver](https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1) | 3:44 |
-| 107 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
+| 107 | [Lapiz Labial](https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Los Felinos](https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ) | 2:52 |
 | 108 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
 | 109 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 110 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 111 | [Me Estoy Enamorando](https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
-| 112 | [Lapiz Labial](https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Los Felinos](https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ) | 2:52 |
+| 112 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
 | 113 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 |
 | 114 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
 | 115 | [Te Ví Con El](https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg) | [Mandingo](https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba) | [Gran Encuentro](https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB) | 2:37 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 124 | [Del Signo Libra](https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn) | 3:26 |
 | 125 | [Morena De 15 Años](https://open.spotify.com/track/0ZTOUnF9SYd4fjnPMwLRpK) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [15 Exitos \- Felinos](https://open.spotify.com/album/1WINkjIcYmvV3TGG3ezQfd) | 2:42 |
 
-Snapshot ID: `AAAAANagN3+uH5qFgyttkT5PGcK/c0qd`
+Snapshot ID: `AAAAALXSEonF1hnsHJ27nVBHvwS3gH0f`

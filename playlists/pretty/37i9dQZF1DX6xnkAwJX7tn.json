@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1476238,
+  "num_followers": 1476509,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIilXudHE/7YZpA0dsDq4kZOS8m",
+  "snapshot_id": "AAAAAIpphcFNdU6aK4R4vG7BclBAjfcc",
   "tracks": [
     {
       "added_at": "2024-07-09 02:34:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230269,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Discography - Complete Singles Collection",
         "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 234906,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230269,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Chinese Wall",
+        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 304506,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 203333,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Chinese Wall",
-        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
-      },
-      "artists": [
-        {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 304506,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Points On The Curve",
         "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "True (Special Edition)",
         "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 290720,
       "name": "Gold - 2003 Remaster",
       "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Keep It Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5m2wPGGx4dS3oIyAhoWi37"
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
       "artists": [
         {
-          "name": "Dazz Band",
-          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 281280,
-      "name": "Let It Whip",
-      "url": "https://open.spotify.com/track/2UCgWpa2r4ytWueNItYbWE"
+      "duration_ms": 241506,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+        "name": "Keep It Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5m2wPGGx4dS3oIyAhoWi37"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Dazz Band",
+          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
         }
       ],
-      "duration_ms": 241506,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+      "duration_ms": 281280,
+      "name": "Let It Whip",
+      "url": "https://open.spotify.com/track/2UCgWpa2r4ytWueNItYbWE"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Why ?",
-      "url": "https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Lexicon Of Love",
         "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Why ?",
+      "url": "https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "She Works Hard For The Money",
-        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "She Works Hard For The Money",
-      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 320573,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "She Works Hard For The Money",
+        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 320840,
+      "name": "She Works Hard For The Money",
+      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/741fWPbQLcaYT0uVL32KCS"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 287360,
       "name": "Everybody Have Fun Tonight",
       "url": "https://open.spotify.com/track/6qBSGvyUzqNQv8XtnzCr9n"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2024-07-09 02:34:23",

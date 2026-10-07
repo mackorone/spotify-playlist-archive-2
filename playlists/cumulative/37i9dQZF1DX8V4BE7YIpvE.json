@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 217627,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/0n3eQd5OwyywONTRfXQ0Ry"
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Airspace",
+        "url": "https://open.spotify.com/album/65nhTxjYsIKBorF5m5ToYT"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Airspace",
+      "url": "https://open.spotify.com/track/6ECst6ggycoUWNVPWiCfnL"
+    },
+    {
+      "album": {
         "name": "Alaris",
         "url": "https://open.spotify.com/album/4GtLNaHwvJTWFXYeMWegeX"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 130434,
       "name": "Alaris",
       "url": "https://open.spotify.com/track/35YWT8sOGWZ726NG0li7g6"
@@ -258,6 +276,42 @@
       "duration_ms": 134347,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/25opYqHRWFhf2BXnXdTJ6s"
+    },
+    {
+      "album": {
+        "name": "Before We Rise",
+        "url": "https://open.spotify.com/album/7yDjqvPewDm4BL1sxiC8As"
+      },
+      "artists": [
+        {
+          "name": "Interwave",
+          "url": "https://open.spotify.com/artist/56oS99WDufkuJs4yV85vPM"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184852,
+      "name": "Before We Rise",
+      "url": "https://open.spotify.com/track/2LfUwievXjannrsmUxuGY0"
+    },
+    {
+      "album": {
+        "name": "Between Suns",
+        "url": "https://open.spotify.com/album/28Gdp8P72uQVm0kh3dAOsj"
+      },
+      "artists": [
+        {
+          "name": "Low Horizon",
+          "url": "https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206213,
+      "name": "Between Suns",
+      "url": "https://open.spotify.com/track/68k6Lwg3oEyb95pWGgHFFB"
     },
     {
       "album": {
@@ -1160,7 +1214,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 163200,
       "name": "Enough time to think",
       "url": "https://open.spotify.com/track/2j4PAHfX5Buu75RXeTO59l"
@@ -1514,7 +1568,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 134117,
       "name": "going up",
       "url": "https://open.spotify.com/track/1QM0ffb8mqBOoG1mDUwDdO"
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 118762,
       "name": "Golden Hours",
       "url": "https://open.spotify.com/track/6ZDnM2WosUcYKKP2WIiUmo"
@@ -1955,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Last Exit",
+        "url": "https://open.spotify.com/album/6wjwOg4Ntz4ockLEHoCCS0"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "Last Exit",
+      "url": "https://open.spotify.com/track/7nfWGXtouumGninZiVmSxt"
+    },
+    {
+      "album": {
         "name": "Last Flight Home",
         "url": "https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1"
       },
@@ -1966,7 +2038,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 133894,
       "name": "Last Flight Home",
       "url": "https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ"
@@ -2494,7 +2566,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 138725,
       "name": "Neon Divide",
       "url": "https://open.spotify.com/track/3yQbh84b8lu5soUK01v9QK"
@@ -2879,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Pale Giants",
+        "url": "https://open.spotify.com/album/70US3JWwGPm9u8CWGzvYRY"
+      },
+      "artists": [
+        {
+          "name": "Azure Rooms",
+          "url": "https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Pale Giants",
+      "url": "https://open.spotify.com/track/5Rw777MQzQwmoCfiiY2xjB"
+    },
+    {
+      "album": {
         "name": "Parallax",
         "url": "https://open.spotify.com/album/6WXePaUDedYtJimyPRjy5W"
       },
@@ -3104,7 +3194,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 130666,
       "name": "Platform 22",
       "url": "https://open.spotify.com/track/2H9WYcVOtCkBtcAK26zxap"
@@ -3346,7 +3436,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 135000,
       "name": "Ring of Tomorrow",
       "url": "https://open.spotify.com/track/6SEE7vwnevV0E2IgRVpm0f"
@@ -3476,7 +3566,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 138461,
       "name": "Serein",
       "url": "https://open.spotify.com/track/38Im5Mm3bfcL6RyhqYqsnR"
@@ -3574,6 +3664,24 @@
       "duration_ms": 142736,
       "name": "Signal in the Night",
       "url": "https://open.spotify.com/track/0GfrH11bdkBG26DLlRuxYD"
+    },
+    {
+      "album": {
+        "name": "Silent Aurora",
+        "url": "https://open.spotify.com/album/6Cu4y5xwFEBqZjQHLrtYnM"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128709,
+      "name": "Silent Aurora",
+      "url": "https://open.spotify.com/track/5WErBY78MtV10z8WJ3Hxqc"
     },
     {
       "album": {
@@ -3852,7 +3960,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 132000,
       "name": "Static Horizon",
       "url": "https://open.spotify.com/track/47pIdfwVppx9bWNs2FHnDO"
@@ -4014,7 +4122,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 146296,
       "name": "Terminal Romance",
       "url": "https://open.spotify.com/track/0kGJIx3hRmsNZezWkAHhj9"
@@ -4122,7 +4230,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 141259,
       "name": "The Sun Wasn't Alone",
       "url": "https://open.spotify.com/track/5T6bsnTuKpKvx3wFQSJ6Ji"

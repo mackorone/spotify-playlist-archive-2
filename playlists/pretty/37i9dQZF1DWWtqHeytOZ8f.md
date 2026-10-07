@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,939 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,952 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 99 | [Pine Trees](https://open.spotify.com/track/1756DkmF0sBuCrCSs2lUUY) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:20 |
 | 100 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 
-Snapshot ID: `AAAAAPiZH3neAAQnQuXNmnJOuX2grage`
+Snapshot ID: `AAAAABMmwePSMXB92t2nMc5FHRANyCWx`

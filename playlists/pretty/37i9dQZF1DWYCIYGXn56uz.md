@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Sangiovanni in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,874 likes - 81 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,859 likes - 81 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 80 | [GIRASOLE](https://open.spotify.com/track/6i8q7geqsUuj9Uhkv8zvuf) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [VITA VERA PARADISO](https://open.spotify.com/album/7ujoimoSquqdm5EKAhtnf6) | 3:01 |
 | 81 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 
-Snapshot ID: `AAAAAD5bqPrrpTKOpxYH13Pev0n1t1GN`
+Snapshot ID: `AAAAAKlv3Aa84ydh8GDNriNCSXc35dik`

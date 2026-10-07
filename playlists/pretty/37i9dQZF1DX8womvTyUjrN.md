@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: ANASOF
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,247 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,257 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Berlín](https://open.spotify.com/track/1SUGOWZuixBXBUEDYN6hMu) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Berlín](https://open.spotify.com/album/1AQmeupkRUvsHtKCRzg3Mh) | 3:20 |
 | 50 | [miss universo](https://open.spotify.com/track/5jAC6o32oJXDYk4uRtdGNH) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [miss universo](https://open.spotify.com/album/7f4vaflTTp2eL5m622wqJi) | 3:12 |
 
-Snapshot ID: `AAAAANrbH767YGZIp6bbXqI/1vzfbOpz`
+Snapshot ID: `AAAAABq/VmtHWwck+umha88ZLc0gfasY`

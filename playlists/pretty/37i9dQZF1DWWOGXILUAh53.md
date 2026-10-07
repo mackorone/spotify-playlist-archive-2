@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,786 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,954 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Last Day of Summer](https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Last Day of Summer](https://open.spotify.com/album/5230mkvEzWhiy0tlzWz5v9) | 2:26 |
 | 100 | [Dumb Decisions](https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Dumb Decisions](https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1) | 1:58 |
 
-Snapshot ID: `AAAAAGbSBcXzqxRpruKqPnNRQtO1lDst`
+Snapshot ID: `AAAAAJm7F+l6IYu15cfF06A6CUfYu0go`

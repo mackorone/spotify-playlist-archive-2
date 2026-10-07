@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-546 songs - 1 day 10 hr 35 min
+547 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [ハーメルン](https://open.spotify.com/track/5cB9HOqYW1MlSCDY5XT4Vw) | [メルトタイマー](https://open.spotify.com/artist/3ipWDVcSIYrBC1vVJottkd) | [ハーメルン](https://open.spotify.com/album/1sR0etIGz5TXe7uJM2GG13) | 3:09 | 2024-10-29 | 2024-11-06 |
 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 | 2026-01-21 | 2026-09-03 |
 | [ヒカリ](https://open.spotify.com/track/0Xf7lckHz3jvpSurbgbrFf) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ヒカリ](https://open.spotify.com/album/6ZkIrRQFB5BeXrDO8T52KC) | 4:10 | 2024-01-16 | 2024-01-31 |
-| [ヒカリヘ](https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:52 | 2026-05-26 |  |
+| [ヒカリヘ](https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:52 | 2026-05-26 | 2026-10-07 |
 | [ピュア \(feat\. 橋本絵莉子\)](https://open.spotify.com/track/4VTC276ujrgDkdyKWPGdre) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [ピュア](https://open.spotify.com/album/3SZzpkCsHoH37FaJPh7I7i) | 3:20 | 2026-02-03 | 2026-02-11 |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [ファイナルボーイフレンド](https://open.spotify.com/track/0VNPAfMasBmlJjeOllhvxt) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 5:04 | 2023-08-15 | 2023-12-27 |
@@ -513,6 +513,7 @@
 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 | 2025-10-21 | 2026-01-31 |
 | [純恋愛のインゴット](https://open.spotify.com/track/49OhFX4S8uX22KnzZDGGU2) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:04 | 2025-01-07 | 2025-04-09 |
 | [結](https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:24 | 2024-04-16 | 2026-01-05 |
+| [結び](https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [結び](https://open.spotify.com/album/6EiurupQASTiD9uFEJwxqg) | 3:26 | 2026-10-06 |  |
 | [絶対約束](https://open.spotify.com/track/49Q8rKDz5VcAyomvbubfKi) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [絶対約束](https://open.spotify.com/album/6zJaVfdIRNrn3jfwMLhj5x) | 2:53 | 2024-02-20 | 2024-03-13 |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-06-17 |  |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 |  |

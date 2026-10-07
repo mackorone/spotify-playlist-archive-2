@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,419 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,441 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 124 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 |
 | 125 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
 | 126 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
-| 127 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
-| 128 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 127 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 128 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 129 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
 | 130 | [One Call Away \(feat\. Chris Brown\)](https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:31 |
 | 131 | [SAN ANDREAS](https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SAN ANDREAS](https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo) | 2:00 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 134 | [Sink In](https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:16 |
 | 135 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 |
 | 136 | [Gas Station Love \- remix](https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gas Station Love \(remix\)](https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3) | 4:05 |
-| 137 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
-| 138 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 137 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 138 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
 | 139 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 140 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
 | 141 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [BITCHES BREW](https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:31 |
 | 150 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
 
-Snapshot ID: `AAAAAP7oAFD7iq3H/ROzdWVZyKbjzBQ9`
+Snapshot ID: `AAAAALkoIb9Uqk87gbPkxdY9l2CsuOOw`

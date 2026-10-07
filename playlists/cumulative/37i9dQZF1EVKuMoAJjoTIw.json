@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIUm1i3tc4k3j>Mazzy Star</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIX7AhUgWTdp6>Hoobastank</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 160061,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0LLw0rGBTJ1ErPuYbbvl6a"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 184803,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206379,
+      "name": "Blu Celeste",
+      "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/4TQmmasocRmAr8QC0Uchsf"
@@ -3949,6 +3967,32 @@
     },
     {
       "album": {
+        "name": "RAPPER",
+        "url": "https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        },
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181304,
+      "name": "COSE CHE NON POSSO DIRE (feat. nayt)",
+      "url": "https://open.spotify.com/track/6yEWgijF4AxZPnzXK4bcS9"
+    },
+    {
+      "album": {
         "name": "Pablo Honey",
         "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
       },
@@ -4032,7 +4076,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 135168,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
@@ -4086,7 +4130,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 135724,
       "name": "CUORE RINCHIUSO",
       "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
@@ -4260,7 +4304,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 225459,
       "name": "Davide e Golia",
       "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
@@ -5902,7 +5946,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -6809,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "La Cura, in nome di Miria",
+        "url": "https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201182,
+      "name": "Girasole (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
+    },
+    {
+      "album": {
         "name": "Poemas Para Quem Chora",
         "url": "https://open.spotify.com/album/4YB4alzxPxTm8VQZ2fXw5M"
       },
@@ -7030,7 +7096,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 108034,
       "name": "Guardian angel",
       "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
@@ -7052,7 +7118,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 178000,
       "name": "guerra dentro",
       "url": "https://open.spotify.com/track/2aPz4c03AsOhTgbuSnfrCs"
@@ -7628,7 +7694,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 203360,
       "name": "Hide Behind My Disguise",
       "url": "https://open.spotify.com/track/7yqCXB1u5eWVWzx0A9HNyn"
@@ -8094,7 +8160,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 139457,
       "name": "I DONT WANNA BE HERE",
       "url": "https://open.spotify.com/track/0arakLpzowyd8DmwJmUpoU"
@@ -8850,7 +8916,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
@@ -10612,7 +10678,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 188442,
       "name": "Let Me Fall",
       "url": "https://open.spotify.com/track/5z9wqB7sohmudNJtojWRsV"
@@ -10700,6 +10766,24 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193708,
+      "name": "Lettera a Draco",
+      "url": "https://open.spotify.com/track/0FXnBTA1NzYrIitGxDphkk"
     },
     {
       "album": {
@@ -11784,7 +11868,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
@@ -12154,7 +12238,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 136881,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/6Ln7dIucQFcVGmh1NrvIva"
@@ -12518,7 +12602,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -13628,7 +13712,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 228454,
       "name": "Non lo Sai",
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
@@ -13864,7 +13948,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 186267,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
@@ -14236,10 +14320,32 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Parole Vuote (La Solitudine) (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/5pfoywYsOxTlXNjwwwHCFJ"
     },
     {
       "album": {
@@ -14572,7 +14678,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 208212,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -15128,7 +15234,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -18822,7 +18928,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
@@ -19146,7 +19252,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 172198,
       "name": "TI DIREI",
       "url": "https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt"
@@ -19164,7 +19270,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
@@ -19342,7 +19448,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -19804,7 +19910,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 105486,
       "name": "Uncomparable",
       "url": "https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT"
@@ -20150,7 +20256,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 198163,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/4LgW7QYjhd3nqXcU4cfHRK"
@@ -20978,7 +21084,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 95680,
       "name": "Why Am I Waiting",
       "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
@@ -21216,7 +21322,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
@@ -21722,7 +21828,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"

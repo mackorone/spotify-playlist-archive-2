@@ -271,7 +271,7 @@
     },
     {
       "album": {
-        "name": "Perdas & Ganhos",
+        "name": "Perdas & Ganhos, Vol. 2",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [
@@ -2401,6 +2401,44 @@
     },
     {
       "album": {
+        "name": "\u00c9 o Baile do Japa NK",
+        "url": "https://open.spotify.com/album/72MiIktTaLRmAvnjViU7hw"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262158,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
+    },
+    {
+      "album": {
         "name": "Pacman de Panicat",
         "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
       },
@@ -2432,7 +2470,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
       "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"

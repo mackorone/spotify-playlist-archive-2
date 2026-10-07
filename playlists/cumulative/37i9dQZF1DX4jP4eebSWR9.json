@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 127071,
       "name": "Augenblick",
       "url": "https://open.spotify.com/track/628h6njwRhD653gUi1Hxbb"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -1648,6 +1648,24 @@
       "duration_ms": 146000,
       "name": "CRAZYYY",
       "url": "https://open.spotify.com/track/4WRPZc8xQsolMusrLy2sxn"
+    },
+    {
+      "album": {
+        "name": "Cry Baby Cry",
+        "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Cry Baby Cry",
+      "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
     },
     {
       "album": {
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 158206,
       "name": "Hin und Her",
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
@@ -5845,6 +5863,28 @@
     },
     {
       "album": {
+        "name": "Porzellan",
+        "url": "https://open.spotify.com/album/7gvPJDMYou0XnDGcOmqqO9"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "Porzellan",
+      "url": "https://open.spotify.com/track/5bDWgqubENQqlPoORYNtIQ"
+    },
+    {
+      "album": {
         "name": "Prada Sport",
         "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
       },
@@ -6844,6 +6884,46 @@
       "duration_ms": 92029,
       "name": "step up",
       "url": "https://open.spotify.com/track/4KkZR2L1iDl2f9Oi8UyaH2"
+    },
+    {
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
     },
     {
       "album": {
@@ -8504,7 +8584,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195573,
       "name": "zwei Punkte",
       "url": "https://open.spotify.com/track/3BPBWV7zlW6uxSl3PESNGM"

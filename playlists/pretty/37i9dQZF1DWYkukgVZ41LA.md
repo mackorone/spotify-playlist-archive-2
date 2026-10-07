@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkukgVZ41LA.md) - [plain]
 | 29 | [Cool](https://open.spotify.com/track/2nMOodYNHBAQ3Kc1QNimZU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:29 |
 | 30 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
 
-Snapshot ID: `AAAAAFNpkUBFdtxTqyGsrV2V9bXRg1fi`
+Snapshot ID: `AAAAAHQ3Pr2XOb0zZLH/ln25YOr/DBy3`

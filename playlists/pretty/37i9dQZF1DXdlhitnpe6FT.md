@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,189 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,267 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 4 | [Un homme et une femme \- Instrumental](https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 2:41 |
 | 5 | [The Good, The Bad and The Ugly \- Il Buono, Il Brutto, Il Cattivo \(Titles\)](https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad and The Ugly \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq) | 2:42 |
 | 6 | [And I Love Her](https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:10 |
-| 7 | [Crepuscolo sul mare](https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La legge dei gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:47 |
+| 7 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 |
 | 8 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 |
-| 9 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 |
+| 9 | [Crepuscolo sul mare](https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La legge dei gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:47 |
 | 10 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
 | 11 | [Se Busca](https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq) | [Bodas y 15 Años](https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss) | [20 Valses Instrumentales](https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5) | 3:26 |
 | 12 | [BLUE DOLPHIN](https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl) | [Stephen Schlaks](https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL), [Michel](https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn) | [...SI CI SONO ANCH'IO \(BLUE DOLPHIN\)](https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS) | 2:59 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 57 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
 | 58 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 59 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
-| 60 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
-| 61 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |
+| 60 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |
+| 61 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 62 | [Autumn Leaves \- Live At Town Hall, New York/1960](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
 | 63 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
 | 64 | [Promise Of A Fisherman \(Promessa De Pescador\)](https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 3:33 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 67 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [Kristin Amarie](https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |
 | 68 | [Il](https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:17 |
 | 69 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
-| 70 | [Look For A Star](https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:10 |
-| 71 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
+| 70 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
+| 71 | [Look For A Star](https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:10 |
 | 72 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
 | 73 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
 | 74 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Always in my heart](https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:29 |
 | 115 | [Frenesi](https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6) | 3:20 |
 
-Snapshot ID: `AAAAAEPk1ixVdxllBXXDORdd2I8L+YTT`
+Snapshot ID: `AAAAACPv6sm0qe4KKrXXprd/S9MjQ96W`

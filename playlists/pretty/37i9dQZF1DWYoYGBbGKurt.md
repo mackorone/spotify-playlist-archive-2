@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,900 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,259 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Midnight Garden](https://open.spotify.com/track/2cM659ssY5NSXrLThF3FjH) | [softwaves](https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Midnight Garden](https://open.spotify.com/album/1Ft6yKQr8N2btEh5NlMlXq) | 2:28 |
 | 200 | [at the blue hour](https://open.spotify.com/track/5PXW1rFIHsKhU0LMSkinZn) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [at the blue hour](https://open.spotify.com/album/3bNe0OcNAuOCnbINzUx6Sh) | 1:44 |
 
-Snapshot ID: `AAAAAHBeAy+sJCoIQBTM8wjB2lMa+DTs`
+Snapshot ID: `AAAAAAFsFPKx/tAbHkuEWgC89jNIeH8D`

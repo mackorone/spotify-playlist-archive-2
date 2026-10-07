@@ -1,13 +1,77 @@
 {
   "description": "The best new music videos from independent artists and labels. Featuring Cowboy Hunters. Music videos only available on Premium.\n",
-  "num_followers": 855,
+  "num_followers": 872,
   "original_name": "Fresh Finds Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACW3fvALNuc2erfwWVKGC2FNehWG",
+  "snapshot_id": "AAAAAMJ/lW6BVBezW7x2d0r+359/xiTs",
   "tracks": [
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
+    },
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "TOPDOWN",
+        "url": "https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "TOPDOWN",
+      "url": "https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A"
+    },
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "AHHHH***",
+        "url": "https://open.spotify.com/album/1S57d9hqZ61HL6vDM7RPza"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "AHHHH***",
+      "url": "https://open.spotify.com/track/09ovKflFL3KRcFvNMnM7aj"
+    },
+    {
+      "added_at": "2026-10-02 12:22:55",
+      "album": {
+        "name": "Punched In The Head",
+        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Hunters",
+          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
+        }
+      ],
+      "duration_ms": 118754,
+      "name": "Punched In The Head",
+      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
+    },
     {
       "added_at": "2026-08-18 15:31:09",
       "album": {
@@ -25,20 +89,72 @@
       "url": "https://open.spotify.com/track/0ckVKicgNyv074p0lG4lRX"
     },
     {
-      "added_at": "2026-10-02 12:22:55",
+      "added_at": "2026-10-07 04:00:14",
       "album": {
-        "name": "Punched In The Head",
-        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
       },
       "artists": [
         {
-          "name": "Cowboy Hunters",
-          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
         }
       ],
-      "duration_ms": 118754,
-      "name": "Punched In The Head",
-      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+    },
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "Black bear",
+        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Black bear",
+      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-10-07 04:00:14",
+      "album": {
+        "name": "Mess of It",
+        "url": "https://open.spotify.com/album/5n3SNE7GVXbPi7rYSsR2QA"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lee",
+          "url": "https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS"
+        }
+      ],
+      "duration_ms": 171233,
+      "name": "Mess of It",
+      "url": "https://open.spotify.com/track/2p5BJVZMkqmo4e7tiI3nm2"
     },
     {
       "added_at": "2026-07-13 20:41:13",

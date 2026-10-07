@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,569 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,638 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 |
 | 50 | [Forever \(feat\. AratheJay\)](https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 3:16 |
 
-Snapshot ID: `AAAAABLimz4saNZbnCiNyMDqjn0Ipenh`
+Snapshot ID: `AAAAAK5yTAzTOeRFJS0EaWEttltPGAgZ`

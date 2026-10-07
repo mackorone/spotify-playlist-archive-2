@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,457 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 | 50 | [BRONCEADITA](https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:48 |
 
-Snapshot ID: `asGXAAAAAACSMetsGIsAqR1x7wgH6md8`
+Snapshot ID: `asLogAAAAABOQbq6tCVb3TCwyXhhz25h`

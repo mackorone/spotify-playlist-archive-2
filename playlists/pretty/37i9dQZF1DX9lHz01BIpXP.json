@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3644,
+  "num_followers": 3645,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2d80gCcn/L+JQGwZ41L0LXbJFB",
+  "snapshot_id": "AAAAAHSFxm+gZFO72Z/8aGc4hpy2Utiq",
   "tracks": [
     {
       "added_at": "2025-09-25 22:00:28",
@@ -883,8 +883,8 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Staan Uit",
-        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
       },
       "artists": [
         {
@@ -892,9 +892,29 @@
           "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Staan Uit",
-      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+      "duration_ms": 131813,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+      },
+      "artists": [
+        {
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
+        },
+        {
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -933,26 +953,6 @@
       "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
     },
     {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
-      },
-      "artists": [
-        {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
-    },
-    {
       "added_at": "2025-08-07 22:00:54",
       "album": {
         "name": "Hulle Weet Nog Niks",
@@ -971,8 +971,8 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
+        "name": "Staan Uit",
+        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 131813,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
+      "duration_ms": 147428,
+      "name": "Staan Uit",
+      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

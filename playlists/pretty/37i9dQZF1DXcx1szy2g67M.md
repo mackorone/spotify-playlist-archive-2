@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de herfst van 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,250 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,229 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 | 100 | [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 |
 
-Snapshot ID: `AAAAAEMwJOY3qqg2yW4N9vcekkCGnRXc`
+Snapshot ID: `AAAAAC+diXPrDbACX3ibHH1F9g0wlW3u`

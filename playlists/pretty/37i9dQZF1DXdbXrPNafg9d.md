@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,450 likes - 225 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,458 likes - 225 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 224 | [Heather \(2013\)](https://open.spotify.com/track/2TwXP9r1Ifa66zXKnKcAGX) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heather \(2013\) / i love you very much forever \(remastered\)](https://open.spotify.com/album/1WxHD6sPP71SojZvq9pYT5) | 4:13 |
 | 225 | [Sensational](https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Sensational](https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq) | 3:36 |
 
-Snapshot ID: `AAAAABJhRS9Ay1yaWFY9pUck8apQdsGF`
+Snapshot ID: `AAAAAN8VoxrWejqTGVCZz1x39wCGkZhn`

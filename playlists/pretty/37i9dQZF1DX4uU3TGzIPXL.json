@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 885866,
+  "num_followers": 885902,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLc8lslbghVnpmKMeTy0o4qcYzt",
+  "snapshot_id": "AAAAAMtSO+V2WAeuGX2/m/WvMhTeCDIO",
   "tracks": [
     {
       "added_at": "2025-07-01 19:44:45",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "A Lot About Livin' (And A Little 'Bout Love)",
         "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2025-07-01 19:44:45",

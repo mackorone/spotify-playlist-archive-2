@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,808 likes - 100 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,880 likes - 100 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Never Fail \- Live](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
 | 100 | [Holy Ground/ Wakwetsima \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
 
-Snapshot ID: `AAAAAKa1PeZc8NwVXgFBe+gMnSuuwq9A`
+Snapshot ID: `AAAAANeAS5Rzy4qWghsy147LggGobFy8`

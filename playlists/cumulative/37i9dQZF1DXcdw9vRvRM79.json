@@ -3991,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Rained In",
+        "url": "https://open.spotify.com/album/7jsDY0RaUfYztjvDKCDmyf"
+      },
+      "artists": [
+        {
+          "name": "Toni Ludwig-Grapha\u00fcs",
+          "url": "https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157867,
+      "name": "Rained In",
+      "url": "https://open.spotify.com/track/7vbz1y8vPInKCEOwlLAVCD"
+    },
+    {
+      "album": {
         "name": "Rainfall",
         "url": "https://open.spotify.com/album/5doTmyH5erYnc3GMQwZVgX"
       },

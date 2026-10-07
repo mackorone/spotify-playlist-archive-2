@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,673 likes - 100 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,751 likes - 100 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Mbogi Oyee!](https://open.spotify.com/track/0qUwveaCUktJiaNm8EgGUE) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Mbogi Oyee!](https://open.spotify.com/album/3tbPkLV8wPUsmwG4CNoOGD) | 2:24 |
 | 100 | [NACHEZA](https://open.spotify.com/track/0SroOTkCo1Dzp2USuVVb8G) | [Tory Lynn](https://open.spotify.com/artist/4ipYpjTLHtOPZ657jj21nv) | [NACHEZA](https://open.spotify.com/album/4Gt7FnGl9sMOFiIgbcCwy2) | 3:00 |
 
-Snapshot ID: `AAAAAIgj5KYZwVkgVYatY3H13KIHelkj`
+Snapshot ID: `AAAAAEQxHm4555H3uLmTa3eD6Uy6SIDz`

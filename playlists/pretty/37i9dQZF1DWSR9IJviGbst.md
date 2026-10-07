@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,893 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,960 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 18 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
 | 19 | [Mossy Mountain Calm](https://open.spotify.com/track/65Mbf2HRXivSYfCVBxORBL) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Mossy Mountain Calm](https://open.spotify.com/album/6H0se40CddIdv18qdMnU6N) | 3:55 |
 | 20 | [Morning River in Austria](https://open.spotify.com/track/1fHGpH6KmYuXFbvbXOjiVc) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Morning River in Austria](https://open.spotify.com/album/5aPXBe0d45D4ZktK34JmKb) | 4:07 |
-| 21 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
-| 22 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
+| 21 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
+| 22 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
 | 23 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
-| 24 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
-| 25 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 |
+| 24 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 |
+| 25 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
 | 26 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
 | 27 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
 | 28 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 35 | [Stream for Relaxation](https://open.spotify.com/track/4fhObAU1ctlgQEIMh51x7L) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:45 |
 | 36 | [Rivulet Waterfall](https://open.spotify.com/track/4GX5dWysbyCKYhIt6vexqN) | [Space of Waves](https://open.spotify.com/artist/7sgfizLbHLPoNWVxA7TtzW) | [Rivulet Waterfall](https://open.spotify.com/album/76AOpX7h5DYg8qnrGd1FVT) | 2:17 |
 | 37 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
-| 38 | [Little Babbling Brook](https://open.spotify.com/track/4oCZ4rR6q9FTXFwwEw3Xya) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Natural Relaxation](https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU) | 3:59 |
-| 39 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
+| 38 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
+| 39 | [Little Babbling Brook](https://open.spotify.com/track/4oCZ4rR6q9FTXFwwEw3Xya) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Natural Relaxation](https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU) | 3:59 |
 | 40 | [Fjällbäck](https://open.spotify.com/track/6d54aNX0e0Y4IvncHa3whr) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [More Swedish River Sounds](https://open.spotify.com/album/4yhFtZFQE8rgGX81kYWAlv) | 2:02 |
 | 41 | [Down The River](https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:26 |
 | 42 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 44 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
 | 45 | [Waterfall Flow \(River\)](https://open.spotify.com/track/4m1qQOIYJ5Fa9TCDJkex8b) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds \(Deluxe Edition\)](https://open.spotify.com/album/0E3PmOacI8b8LWRheRfwRv) | 2:45 |
 | 46 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
-| 47 | [Stream for Mind Balance](https://open.spotify.com/track/44Pn1Qi4iLLRYBnvEdSBSj) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:55 |
-| 48 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
+| 47 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
+| 48 | [Stream for Mind Balance](https://open.spotify.com/track/44Pn1Qi4iLLRYBnvEdSBSj) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:55 |
 | 49 | [Gentle River Flow](https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Flowing Rivers](https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4) | 3:21 |
 | 50 | [River Tranquility](https://open.spotify.com/track/1UAGZ0c0vkzUkRigTxrtyV) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [River Tranquility](https://open.spotify.com/album/606z5kFtzqUPzsBGkzDxLu) | 4:00 |
 
-Snapshot ID: `AAAAAKNLLJyE6LKMsd/CJE+CAV5b5CF2`
+Snapshot ID: `AAAAADhSPPJqLCRDhjz4HhrjKqxAbDb5`

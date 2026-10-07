@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Yung Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267,452 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,512 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 50 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |
 
-Snapshot ID: `AAAAAAk7/8ecxqAMQAXtr9oudrqmeQyi`
+Snapshot ID: `AAAAAEOtzZqsWPh7F1tIAjVoj3uijkwW`

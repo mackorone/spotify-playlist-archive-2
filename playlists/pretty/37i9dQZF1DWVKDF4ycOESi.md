@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE, Geolier, Rkomi e Khodi, Tony Boy, Giorgia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,976 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,961 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [Consequences](https://open.spotify.com/track/7nUzvvLRt50Ipymwu4Vn8I) | [Ken Ate My Homework](https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0) | [Consequences](https://open.spotify.com/album/2kcuCQGHSZIIc3fWEP4TKv) | 3:03 |
 | 95 | [Measuring Cup](https://open.spotify.com/track/3FofSe2OagYmG6tN7BrcWr) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Measuring Cup](https://open.spotify.com/album/3g9mAIsoPSq3zoYsbXB8Zg) | 3:21 |
 
-Snapshot ID: `AAAAAIxH4PGvxMIQDAoZxCm69VxjuqfZ`
+Snapshot ID: `AAAAAIR5iaJudoBanXpb6Umc5qremInL`

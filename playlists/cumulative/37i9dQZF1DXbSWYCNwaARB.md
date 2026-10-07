@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: Keyveatz\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: X:IN\)
 
-644 songs - 1 day 9 hr 10 min
+645 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 | 2025-05-28 | 2025-06-28 |
 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-01-27 | 2026-04-25 |
 | [A.I TROOPER](https://open.spotify.com/track/33xJsKmNqrm8909NnjbguA) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [A.I TROOPER](https://open.spotify.com/album/4EgzPL3u6phqVolLWJhQw6) | 2:02 | 2020-10-13\* | 2022-04-21 |
-| [A1 GO](https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Mixtape : A1 GO](https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B) | 2:18 | 2026-09-30 |  |
+| [A1 GO](https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Mixtape : A1 GO](https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B) | 2:18 | 2026-09-30 | 2026-10-07 |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 | 2024-03-11 | 2024-04-03 |
 | [ACACIA](https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [ACACIA](https://open.spotify.com/album/0hwx9RAwQqLMt5gCDrC49w) | 3:32 | 2022-05-28 | 2022-05-31 |
@@ -646,6 +646,7 @@
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2021-09-09 | 2022-07-18 |
 | [ZOOM](https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF) | 2:48 | 2024-11-19 | 2024-11-26 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-13 | 2023-08-11 |
+| [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 | 2026-10-06 |  |
 | [갓 잇](https://open.spotify.com/track/0s24m0MBH9iYSY8KHUbCc1) | [아이러브](https://open.spotify.com/artist/5tS5V80C8eJu3aJaOEiZsv) | [갓 잇](https://open.spotify.com/album/3HCKzxhnDRSCRjnR5HRu0b) | 3:16 | 2021-03-08 | 2022-04-21 |
 | [기기괴괴](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [기기괴괴](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) | 3:31 | 2021-11-03 | 2022-04-20 |
 | [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-12 | 2025-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Cryzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,403 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,399 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [BOSSBITCHES](https://open.spotify.com/track/1sCzJJpwyIBC65CRRkpWUf) | [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Zenity Records](https://open.spotify.com/artist/6ljkMQroth4uHuj5WwyQzu) | [BOSSBITCHES](https://open.spotify.com/album/3l7yfWYhJ2fuxmD7MRkaQV) | 2:12 |
 | 75 | [Fatos Reais](https://open.spotify.com/track/1bRZKPWiVdjC4jNQzJzk0f) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fatos Reais](https://open.spotify.com/album/30lzqW1TGAtj0895NLmGb6) | 2:22 |
 
-Snapshot ID: `AAAAACdGWTIgUkFnKZqpfzEn3cTpdbCe`
+Snapshot ID: `AAAAAGqYSXv+Db2S0GHlmAtJQ6UY6qPV`

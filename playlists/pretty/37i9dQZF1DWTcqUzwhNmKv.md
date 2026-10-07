@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Imminence are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,170 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,289 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Shrine](https://open.spotify.com/track/663lLE4Rhv6P8WRu0DZgyJ) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Who Loves The Sun](https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk) | 4:37 |
 | 100 | [Solar Will](https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Solar Will](https://open.spotify.com/album/2QSu5aGc6EcfjTjQedZO5W) | 4:39 |
 
-Snapshot ID: `AAAAAB3zR6DfS0fNPUMVoIWfXGEPyGun`
+Snapshot ID: `AAAAAItQb+CjZD/Tbxjq/oArM8EGYFs3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring bri!!o ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 22 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 23 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 24 | [ACELERADAS!](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS!](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
-| 25 | [Constelación](https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Constelación](https://open.spotify.com/album/0icWXRGdopPIamBatGerqU) | 4:09 |
-| 26 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 25 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
+| 26 | [Constelación](https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Constelación](https://open.spotify.com/album/0icWXRGdopPIamBatGerqU) | 4:09 |
 | 27 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
 | 28 | [Acapulco En La Azotea](https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Estudio A](https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb) | 2:34 |
 | 29 | [Stuck in California](https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Stuck in California](https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt) | 2:06 |
 | 30 | [DUB COMPLEX](https://open.spotify.com/track/2rjP1QNx1liruVrTY9MlIS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 3:04 |
 | 31 | [4ME](https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [4ME](https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC) | 2:40 |
-| 32 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
-| 33 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
-| 34 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh), [Duplat](https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
+| 32 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh), [Duplat](https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
+| 33 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
+| 34 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
 | 35 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
 | 36 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
 | 37 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 48 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
 | 49 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
 | 50 | [Tiempo, a ver](https://open.spotify.com/track/6GD69uM56K8RSEY2K4bBvK) | [Bosque](https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS) | [Traigo un monte](https://open.spotify.com/album/4Tji6shiBgFB3oHHIqPmWo) | 2:44 |
-| 51 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
-| 52 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 51 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 52 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
 | 53 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 54 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 |
 | 55 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 |
 | 75 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
 
-Snapshot ID: `AAAAAG5yi1XS1a/3GUEQq47AXdH5kGZT`
+Snapshot ID: `AAAAALXYbBiAX3RHWVCMqjgvcgZj8Jev`

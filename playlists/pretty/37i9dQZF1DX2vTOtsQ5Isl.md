@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,744 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,899 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 64 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
 | 65 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 
-Snapshot ID: `AAAAANQwdYCWhYDPRFwrBBXvC85WE1Qy`
+Snapshot ID: `AAAAAA2xx2H7cRsBsCFAeifvltC7FtYD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,083 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,093 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 36 | [Glow On](https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:58 |
 | 37 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:35 |
 | 38 | [When You're Around](https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:12 |
-| 39 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
+| 39 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
 | 40 | [Death Ray](https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:10 |
-| 41 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
+| 41 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
 | 42 | [Every Type of Friend](https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:13 |
 | 43 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |
 | 44 | [I Need You](https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:45 |

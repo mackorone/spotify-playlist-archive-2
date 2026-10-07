@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388313,
+  "num_followers": 388320,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbtdJI0s3VgjarZnrp8XgXjkuTZ",
+  "snapshot_id": "AAAAAJsfaGfrfFR1TiLI+pkZSUW53czM",
   "tracks": [
     {
       "added_at": "2026-10-02 13:21:19",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-10-02 13:21:19",
       "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
-    },
-    {
-      "added_at": "2026-10-02 13:21:19",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2026-10-02 13:21:19",
+      "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2026-10-02 13:21:19",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-02 13:21:19",
       "album": {
-        "name": "Paint The Picture",
-        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "Paint The Picture",
-      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
-    },
-    {
-      "added_at": "2026-10-02 13:21:19",
-      "album": {
         "name": "Some Birds Don't Fly",
         "url": "https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206480,
       "name": "Some Birds Don't Fly",
       "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
+    },
+    {
+      "added_at": "2026-10-02 13:21:19",
+      "album": {
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
     },
     {
       "added_at": "2026-10-02 13:21:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-02 13:21:19",
       "album": {
-        "name": "Changes Rising",
-        "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 196908,
-      "name": "Changes Rising",
-      "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
-    },
-    {
-      "added_at": "2026-10-02 13:21:19",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
+    },
+    {
+      "added_at": "2026-10-02 13:21:19",
+      "album": {
+        "name": "Changes Rising",
+        "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 196908,
+      "name": "Changes Rising",
+      "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
     },
     {
       "added_at": "2026-10-02 13:21:19",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-02 13:21:19",
       "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
-      "added_at": "2026-10-02 13:21:19",
-      "album": {
         "name": "Gliding for the sun",
         "url": "https://open.spotify.com/album/7wOV4zU3RI6JTNhgultRwU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 285026,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY"
+    },
+    {
+      "added_at": "2026-10-02 13:21:19",
+      "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
       "added_at": "2026-10-02 13:21:19",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-02 13:21:19",
       "album": {
-        "name": "Learning to Live",
-        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 185344,
-      "name": "My Whole Life",
-      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
-    },
-    {
-      "added_at": "2026-10-02 13:21:19",
-      "album": {
         "name": "Una lunghissima ombra",
         "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 389173,
       "name": "Ricordo tattile",
       "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
+    },
+    {
+      "added_at": "2026-10-02 13:21:19",
+      "album": {
+        "name": "Learning to Live",
+        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 185344,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
     },
     {
       "added_at": "2026-10-02 13:21:19",

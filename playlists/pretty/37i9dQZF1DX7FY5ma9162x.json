@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Lucky Daye",
-  "num_followers": 300976,
+  "num_followers": 300964,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABs81FyfYwxuy5cAuECwBt+/YZb/",
+  "snapshot_id": "AAAAAIjziNnX0Cq5vD87q8r8Ax9uHHtl",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:14",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 198294,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -339,18 +339,22 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 289160,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -371,22 +375,18 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 289160,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 448573,
       "name": "What Goes Around.../...Comes Around (Interlude)",
       "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Year Of The Gentleman (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q"
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+      "duration_ms": 232000,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+      "duration_ms": 459659,
+      "name": "The Party & The After Party",
+      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 459659,
-      "name": "The Party & The After Party",
-      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "HABIBTI",
-        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "I'm Spent (feat. Loe Shimmy)",
-      "url": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 275085,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "I'm Spent (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
     },
     {
       "added_at": "2026-10-02 04:02:14",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
-    },
-    {
-      "added_at": "2026-10-02 04:02:14",
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
     },
     {
       "added_at": "2026-10-02 04:02:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,606 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,629 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 38 | [Twist para Mr\. Antony](https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj) | [Tony's Twist Team](https://open.spotify.com/artist/17iTxUwaNzaenRncjHmNPR) | [Los Originales](https://open.spotify.com/album/11NFoS5dchhn7DIYrEuZTT) | 2:17 |
 | 39 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |
 | 40 | [Jerusalén](https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU) | [Beto Diaz](https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:40 |
-| 41 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
-| 42 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
+| 41 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
+| 42 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
 | 43 | [Tema Del Elefantito](https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:51 |
 | 44 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 45 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 49 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
 | 50 | [Cuando Me Enamoro \(Quando Mi Inamoro\)](https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8) | [Angélica María](https://open.spotify.com/artist/4gQdqkVDEvftEBlCb2C8Ly) | [Las Numero 1 De Angelica Maria](https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW) | 3:01 |
 
-Snapshot ID: `AAAAADqPfPVJUhC9INkoiRX7OkLr4ow+`
+Snapshot ID: `AAAAAJm0cOT8oRpVkWDqa1OkYHzTC9ZD`

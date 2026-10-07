@@ -4445,6 +4445,40 @@
     },
     {
       "album": {
+        "name": "Fiquei o tempo que precisei",
+        "url": "https://open.spotify.com/album/5gAO1YnNTdb2hoSHLLNk4T"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        },
+        {
+          "name": "Pulim",
+          "url": "https://open.spotify.com/artist/1bz6GpkRZaeBbkUeDbVkW9"
+        },
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Epit\u00e1fio de um ex apaixonado",
+      "url": "https://open.spotify.com/track/63Wj0neC5ebBTyudDg2G4U"
+    },
+    {
+      "album": {
         "name": "Escola da Vida",
         "url": "https://open.spotify.com/album/4RwjsNrTHlsj2ixEhtjIPY"
       },
@@ -7410,7 +7444,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 182406,
       "name": "MEU CORA\u00c7\u00c3O N\u00c3O SENTE DOR",
       "url": "https://open.spotify.com/track/2VY3nfm3fwLg0weQ5qNBKb"
@@ -12268,7 +12302,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 201355,
       "name": "Sinopse",
       "url": "https://open.spotify.com/track/52NRuwUkXByg4dk99RbraN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,012 likes - 81 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,080 likes - 81 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 | 80 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 |
 | 81 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 
-Snapshot ID: `AAAAAFjpQIPvOTMoa3VTwKtI8rVTiZB9`
+Snapshot ID: `AAAAAIk1gAOTkU9QMyymUlh1y5nvdFRx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 
 > This is Céline Dion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,417 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,638 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 | 49 | [Ashes \- from "Deadpool 2" Motion Picture Soundtrack](https://open.spotify.com/track/7FihoA0WgTT21DkWR7wbYR) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Ashes \(from "Deadpool 2" Motion Picture Soundtrack\)](https://open.spotify.com/album/3NrXBJmXedum2g4vKr3d9y) | 3:19 |
 | 50 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
 
-Snapshot ID: `AAAAAFeO+yGiW6rYL5M4qcuWj440HNsH`
+Snapshot ID: `AAAAAFshSnqBiYobnqPZ8Fg7Cd7EYdcb`

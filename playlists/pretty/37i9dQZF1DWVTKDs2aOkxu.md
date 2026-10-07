@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,650 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,547 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Woof](https://open.spotify.com/track/6YmgCMhLVSRyZ1SUFnsK1g) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Woof](https://open.spotify.com/album/5HKS8CRsWJyOuX20m9TMb5) | 3:18 |
 | 80 | [Rings Of Saturn](https://open.spotify.com/track/2nh2i8stFugX5PeT4MUavZ) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Rings Of Saturn](https://open.spotify.com/album/3begTKcg8uLAIZuEZOWutR) | 2:59 |
 
-Snapshot ID: `AAAAAHg7YEfSWeJxjfBnnMOoA6tJNwD0`
+Snapshot ID: `AAAAADDTqBRkcFJ43bg9Or5RqPqTJz2c`

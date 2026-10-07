@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 860525,
+  "num_followers": 860581,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5J5oVxwe1e4tejV9cM8QLMQfy4",
+  "snapshot_id": "AAAAAGpAr/oQe1gkgh4fJDhHqMvbWEbH",
   "tracks": [
     {
       "added_at": "2026-10-02 14:45:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-10-02 14:45:00",
       "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2026-10-02 14:45:00",
+      "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 197000,
       "name": "19 (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
-    },
-    {
-      "added_at": "2026-10-02 14:45:00",
-      "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2026-10-02 14:45:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,239 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,326 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 89 | [639 Hz Connectivity](https://open.spotify.com/track/1r2SpKKPyueqs8Pl1FDoNa) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [639 Hz Connectivity](https://open.spotify.com/album/7iyC6R4UlbrFSEye8PyknH) | 2:45 |
 | 90 | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/track/2gtEwLuFIQQ5YKHJPn1OiD) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/album/29DyukLyhMHOGDoL0M1Ywt) | 2:33 |
 
-Snapshot ID: `AAAAAAZHUsUPRXxUINEPZJYvUZ0HyjC7`
+Snapshot ID: `AAAAAD0x433tP9kPaGvXaC/LbHB9Hfx5`

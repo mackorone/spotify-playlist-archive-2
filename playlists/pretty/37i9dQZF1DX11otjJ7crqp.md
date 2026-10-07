@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,731 likes - 198 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,104 likes - 198 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 197 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
 | 198 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 |
 
-Snapshot ID: `AAAAADs9bsRDEL47Gfu+psr1XKj04m5s`
+Snapshot ID: `AAAAAPnxQxCVYi1WtHXxfZmkejfKggGh`

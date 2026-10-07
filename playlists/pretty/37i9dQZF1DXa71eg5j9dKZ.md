@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Loods, SG Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,523 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,539 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Pulse](https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [howtin](https://open.spotify.com/artist/17n21mJLkfRIaCnyYzuqWU) | [Pulse](https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg) | 4:51 |
 | 100 | [ten toes](https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [ten toes](https://open.spotify.com/album/5OVHJp0XgK9cMW32m4eOXz) | 1:54 |
 
-Snapshot ID: `AAAAANYHJ2fbADSpA4KHyEYSrTrc/6ly`
+Snapshot ID: `AAAAAC+MxE0TFfuZEbYXudZKNyPZooZ/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493,606 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493,608 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 68 | [Gun In The Duffel Bag](https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Gun In The Duffel Bag](https://open.spotify.com/album/7Gm8YxceqFlYL4rARkmzTh) | 3:07 |
 | 69 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 70 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
-| 71 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
-| 72 | [OTHERSIDE](https://open.spotify.com/track/6aVmsQcdI3TLoY2H0FOAyh) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [OTHERSIDE](https://open.spotify.com/album/1CvYaXExrWfm1oUp2Yf7ys) | 3:14 |
-| 73 | [True Believers \(Feat\. Sam Carter\)](https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Nightmare Tripping](https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe) | 3:32 |
+| 71 | [True Believers \(Feat\. Sam Carter\)](https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Nightmare Tripping](https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe) | 3:32 |
+| 72 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
+| 73 | [OTHERSIDE](https://open.spotify.com/track/6aVmsQcdI3TLoY2H0FOAyh) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [OTHERSIDE](https://open.spotify.com/album/1CvYaXExrWfm1oUp2Yf7ys) | 3:14 |
 | 74 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 |
 | 75 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
 | 76 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 86 | [Hollow Points](https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:07 |
 | 87 | [Song Of The Swamp](https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Song Of The Swamp](https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN) | 3:18 |
 | 88 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
-| 89 | [further eden](https://open.spotify.com/track/1mrAlj4btJnjnAlD2cSJrT) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [silence outlives the earth](https://open.spotify.com/album/78YcVZNpzM357BBvAOKS6H) | 3:31 |
-| 90 | [4 Words \(To Choke Upon\)](https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:43 |
+| 89 | [4 Words \(To Choke Upon\)](https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:43 |
+| 90 | [further eden](https://open.spotify.com/track/1mrAlj4btJnjnAlD2cSJrT) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [silence outlives the earth](https://open.spotify.com/album/78YcVZNpzM357BBvAOKS6H) | 3:31 |
 | 91 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 |
 | 92 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 |
 | 93 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 99 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
 | 100 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 |
 
-Snapshot ID: `AAAAAPJwDMzA/sNYkFBNy2kaCc63/Bpq`
+Snapshot ID: `AAAAADWvgcIEPL+/xjl6fHGsANwqUoPi`

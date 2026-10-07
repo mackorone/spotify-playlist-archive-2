@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,007 likes - 110 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,105 likes - 110 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 109 | [Amen \- Live](https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Pastor E.A Adeboye](https://open.spotify.com/artist/1o9Wsdmi8AIsqBsctcPeM8) | [Amen \(Live\)](https://open.spotify.com/album/543dGL7ntD305dtK6Jx8JB) | 9:07 |
 | 110 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |
 
-Snapshot ID: `AAAAAO4NwoJNAf9u+sOJe5hvdWe68+4h`
+Snapshot ID: `AAAAAChrHfZmn3dFlsdVcBGjIggq4P67`

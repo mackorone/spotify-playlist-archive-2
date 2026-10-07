@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 125 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
 | 126 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
 | 127 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
-| 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 129 | [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 |
+| 128 | [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 |
+| 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AceKtgAAAADe5+cCQ4OYpq80GwzxPJ0w`
+Snapshot ID: `AceQOAAAAAAEOoDHYI4lx8ZdlxH+U2v/`

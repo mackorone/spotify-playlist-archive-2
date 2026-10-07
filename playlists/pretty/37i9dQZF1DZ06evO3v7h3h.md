@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,762 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,764 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Abre Caminhos](https://open.spotify.com/track/4InPGpczdrOVATP2fz0HMd) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Abre Caminhos](https://open.spotify.com/album/2j7dJMTEZ5iaADJkue5dlQ) | 3:22 |
 | 50 | [Na Vanguarda de Mim Mesmo](https://open.spotify.com/track/3FZoUCXOrmUQTELHPjc2Ia) | [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [A Beleza do Erro](https://open.spotify.com/album/4PJaUBnJbYOFyWJNkVFABb) | 3:25 |
 
-Snapshot ID: `asGXAAAAAAA+agAXyMoitkGfhNbjuNmo`
+Snapshot ID: `asGXAAAAAADzQTactuZvhVIkKnjHo8UF`

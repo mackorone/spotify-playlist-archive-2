@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Inolvidable Banda Agua De La Llave \ud83d\udcf8",
-  "num_followers": 1296570,
+  "num_followers": 1296590,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0MhisuabOz9uVa0hbL5McL3cDM",
+  "snapshot_id": "AAAAAB63H9ZD0crmtlQK8iyn3xGcIgpy",
   "tracks": [
     {
       "added_at": "2026-10-02 05:33:59",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Si Las Miradas Mataran",
-        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
+        "name": "Voy a Pintar Mi Raya (En Vivo)",
+        "url": "https://open.spotify.com/album/0TdEu27NxrnpGl6egTyn65"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Si Las Miradas Mataran",
-      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+      "duration_ms": 229285,
+      "name": "Voy a Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/450m4jeZrgGIH6CBkzZQ2p"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Voy a Pintar Mi Raya (En Vivo)",
-        "url": "https://open.spotify.com/album/0TdEu27NxrnpGl6egTyn65"
+        "name": "Si Las Miradas Mataran",
+        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
       },
       "artists": [
         {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 229285,
-      "name": "Voy a Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/450m4jeZrgGIH6CBkzZQ2p"
+      "duration_ms": 169500,
+      "name": "Si Las Miradas Mataran",
+      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Rancheras Bonitas",
-        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 212865,
-      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
-    },
-    {
-      "added_at": "2026-10-02 05:33:59",
-      "album": {
         "name": "Para Morir Iguales",
         "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
       },
@@ -423,18 +407,34 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Mira Beb\u00e9",
-        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
+        "name": "Rancheras Bonitas",
+        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
         }
       ],
-      "duration_ms": 161797,
-      "name": "Mira Beb\u00e9",
-      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
+      "duration_ms": 212865,
+      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
+    },
+    {
+      "added_at": "2026-10-02 05:33:59",
+      "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 222910,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
+        "name": "Mira Beb\u00e9",
+        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
       },
       "artists": [
         {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 222910,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
+      "duration_ms": 161797,
+      "name": "Mira Beb\u00e9",
+      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
+        "name": "Se Alquila Un Borracho",
+        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Se Alquila Un Borracho",
+      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
+    },
+    {
+      "added_at": "2026-10-02 05:33:59",
+      "album": {
         "name": "Ya Se Muri\u00f3",
         "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
       },
@@ -915,22 +931,18 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "\u00a1Que Viva Antonio Aguilar!",
-        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+        "name": "No He Avanzado Nada",
+        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
-      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+      "duration_ms": 160605,
+      "name": "No He Avanzado Nada",
+      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -955,6 +967,26 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
+        "name": "\u00a1Que Viva Antonio Aguilar!",
+        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
+      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+    },
+    {
+      "added_at": "2026-10-02 05:33:59",
+      "album": {
         "name": "Piratita",
         "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
       },
@@ -971,8 +1003,8 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Se Alquila Un Borracho",
-        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
       },
       "artists": [
         {
@@ -980,25 +1012,9 @@
           "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
         }
       ],
-      "duration_ms": 234771,
-      "name": "Se Alquila Un Borracho",
-      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
-    },
-    {
-      "added_at": "2026-10-02 05:33:59",
-      "album": {
-        "name": "No He Avanzado Nada",
-        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 160605,
-      "name": "No He Avanzado Nada",
-      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
-    },
-    {
-      "added_at": "2026-10-02 05:33:59",
-      "album": {
         "name": "Legado Coleccion 1 Regrabado",
         "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
       "artists": [
         {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-10-02 05:33:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-02 05:33:59",
       "album": {
-        "name": "Cari\u00f1ito (Live)",
-        "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Cari\u00f1ito - Live",
-      "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
-    },
-    {
-      "added_at": "2026-10-02 05:33:59",
-      "album": {
         "name": "Vale M\u00e1s Que Reces",
         "url": "https://open.spotify.com/album/4jqFvYmcnZ3uhmDsd9HxXb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 187434,
       "name": "Vale M\u00e1s Que Reces",
       "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"
+    },
+    {
+      "added_at": "2026-10-02 05:33:59",
+      "album": {
+        "name": "Cari\u00f1ito (Live)",
+        "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Cari\u00f1ito - Live",
+      "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
     },
     {
       "added_at": "2026-10-02 05:33:59",

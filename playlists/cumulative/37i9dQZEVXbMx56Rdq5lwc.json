@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 127272,
       "name": "A\u0161ara",
       "url": "https://open.spotify.com/track/3HiFbGgC1kSvvoD0RGIs0J"
@@ -8840,7 +8840,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -13484,7 +13484,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -18766,7 +18766,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 305800,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5XhMgAWzou6EjDmQtoyoZE"
@@ -21538,7 +21538,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 179147,
       "name": "KALABASAS",
       "url": "https://open.spotify.com/track/1G0GtwNUVJFegUJoYBElNa"
@@ -22008,6 +22008,28 @@
       "duration_ms": 289280,
       "name": "Keturios sienos",
       "url": "https://open.spotify.com/track/4qzURIX56X0mpUiPd5wkto"
+    },
+    {
+      "album": {
+        "name": "Ketvirtadienis",
+        "url": "https://open.spotify.com/album/2eLyHkmidwkFrtMGLuxviq"
+      },
+      "artists": [
+        {
+          "name": "Lilas ir Innomine",
+          "url": "https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR"
+        },
+        {
+          "name": "\u017dalgiris",
+          "url": "https://open.spotify.com/artist/3Quj5aUEP7MsoXyLCIYBG6"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223046,
+      "name": "Ketvirtadienis",
+      "url": "https://open.spotify.com/track/0JDeVnoJvDHhMphbuAAuEp"
     },
     {
       "album": {
@@ -25156,7 +25178,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -27916,7 +27938,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 212386,
       "name": "Mira\u017eas",
       "url": "https://open.spotify.com/track/6jLmAjY0hfGF98mqfu4ugw"
@@ -32044,7 +32066,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "onsra",
       "url": "https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND"
@@ -42310,7 +42332,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 129600,
       "name": "Suged\u0119s Telefonas",
       "url": "https://open.spotify.com/track/5zhkKaVAIZabyfDavt0odR"
@@ -42328,7 +42350,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 189272,
       "name": "Sugr\u0105\u017einu",
       "url": "https://open.spotify.com/track/7zGLbuP5RQidLIjK6Gxvlq"
@@ -42532,7 +42554,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -42630,7 +42652,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -42648,7 +42670,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -43372,7 +43394,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 123000,
       "name": "Tarp Gelton\u0173 R\u016bt\u0173",
       "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"

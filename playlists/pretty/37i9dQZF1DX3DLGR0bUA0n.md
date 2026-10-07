@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,371 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,384 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 64 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 |
 | 65 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw) | [La Fuerza de Tierra Caliente](https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N) | [A Donde Vas Chiquilla](https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y) | 3:36 |
 | 66 | [Será Mi Castigo / La Silla Vacía / Somos Ajenos \- En Vivo](https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 9:40 |
-| 67 | [El Potosino y El Cocho](https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [El Potosino y El Cocho](https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5) | 3:20 |
-| 68 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |
+| 67 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |
+| 68 | [El Potosino y El Cocho](https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [El Potosino y El Cocho](https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5) | 3:20 |
 | 69 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
-| 70 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
-| 71 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
-| 72 | [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 |
+| 70 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
+| 71 | [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 |
+| 72 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 73 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
 | 74 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
 | 75 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 | 125 | [Como Lo Hice Yo](https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Como Lo Hice Yo](https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y) | 3:16 |
 
-Snapshot ID: `AAAAAB/SWzTvZAexRsmYZkkr/I3tYyOF`
+Snapshot ID: `AAAAAANzUYIsUTaeo1GjG2CNS0iw3XgM`

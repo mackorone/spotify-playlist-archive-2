@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Ribikaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,898 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,924 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [El Amor](https://open.spotify.com/track/4syuNF37DkfbeAWCK5iqL8) | [J Harman](https://open.spotify.com/artist/7hi73iWwArPEvgAlyP197u) | [El Amor](https://open.spotify.com/album/0wKElzAbry46z7WXEbt0Qo) | 1:40 |
 | 50 | [Stay](https://open.spotify.com/track/3UeeNQrMCfYeHMsourGRY1) | [Yara](https://open.spotify.com/artist/0Z0Qg3PkQFKQvP6u6qItC7) | [Stay](https://open.spotify.com/album/3tLXJDIsuvgaNricUDXFng) | 2:37 |
 
-Snapshot ID: `AAAAAC07Ui2BwOi12ILO+7ohUIZH0a7g`
+Snapshot ID: `AAAAALutconh+DnBFGm4BDWaa+7w8WQg`

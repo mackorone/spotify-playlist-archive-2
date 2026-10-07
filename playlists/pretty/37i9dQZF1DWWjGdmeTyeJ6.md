@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring YiiiNKA\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,956 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,041 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [hey fever](https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [hey fever](https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG) | 2:02 |
 | 100 | [PTSD](https://open.spotify.com/track/4l2yt3rEAQ6K61UjL0EwLP) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Confessions Of A People Pleaser](https://open.spotify.com/album/31pRdcwhgldaFjuTmaAqtS) | 2:54 |
 
-Snapshot ID: `AAAAAGJB5ELiRMK26o8iZLPhxCc9JMoD`
+Snapshot ID: `AAAAAMNhGBoR92UZsT+1bw6AjS2r4efX`

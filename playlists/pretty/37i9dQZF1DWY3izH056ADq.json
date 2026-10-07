@@ -1,12 +1,12 @@
 {
   "description": "Enjoy music From \"Paradox Live\"! \u00a9Paradox Live2023",
-  "num_followers": 43082,
+  "num_followers": 43076,
   "original_name": "Paradox Live -\u30d1\u30e9\u30e9\u30a4-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD0dVaieH3DEKUQh5eUJFYXaoX+1",
+  "snapshot_id": "AAAAAMB3gai7f2vQcKBrS2gsyy0pP+Ee",
   "tracks": [
     {
       "added_at": "2026-09-15 16:20:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live -Battle of Unity-",
+        "url": "https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw"
+      },
+      "artists": [
+        {
+          "name": "REVENGERS",
+          "url": "https://open.spotify.com/artist/3S6PUnGb5f70u0ow7j6PAV"
+        }
+      ],
+      "duration_ms": 222802,
+      "name": "The REVENGERS",
+      "url": "https://open.spotify.com/track/1mbRFaWiDEOCnYjLYbOAac"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live Shuffle Team Show (Vol.1)",
         "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 231386,
       "name": "\u30ae\u30e9\u30ae\u30e9CANDY NIGHT",
       "url": "https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live -Battle of Unity-",
-        "url": "https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw"
-      },
-      "artists": [
-        {
-          "name": "REVENGERS",
-          "url": "https://open.spotify.com/artist/3S6PUnGb5f70u0ow7j6PAV"
-        }
-      ],
-      "duration_ms": 222802,
-      "name": "The REVENGERS",
-      "url": "https://open.spotify.com/track/1mbRFaWiDEOCnYjLYbOAac"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -695,8 +695,8 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live -Battle of Unity- Round3 \u201cFUTURE\u201d",
-        "url": "https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR"
+        "name": "Paradox Live Opening Show -Battle of Unity- Unit A",
+        "url": "https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Grace \u0418 Guilt",
-      "url": "https://open.spotify.com/track/1eW3q29gURRKBqA9a2WTAw"
+      "duration_ms": 232672,
+      "name": "\u042fesonance",
+      "url": "https://open.spotify.com/track/5fxY8RGA1HVss4W2MRExks"
     },
     {
       "added_at": "2026-09-15 16:20:21",

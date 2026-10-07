@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,798 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,823 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 16 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 |
 | 17 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 18 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:03 |
-| 19 | [Troubadour](https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 2:56 |
-| 20 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
+| 19 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
+| 20 | [Troubadour](https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 2:56 |
 | 21 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 22 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
 | 23 | [Diamond in My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 83 | [Love](https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [I Got the Guns](https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N) | 3:50 |
 | 84 | [Delta Dawn](https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [16 Biggest Hits](https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx) | 2:56 |
 | 85 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
-| 86 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
-| 87 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
+| 86 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
+| 87 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 88 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |
 | 89 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
 | 90 | [Mendocino County Line](https://open.spotify.com/track/41cm0jYZCvTcBeYZQ8lnwV) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Great Divide](https://open.spotify.com/album/3N1fyo5kFjZhMYVsiEsRKB) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
 | 100 | [Cowboy Man](https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Lyle Lovett](https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE) | 2:50 |
 
-Snapshot ID: `AAAAADmpZG/ZdBmdwDOoqe6bCg/IHWmY`
+Snapshot ID: `AAAAACJR4fFjr1uv3ppNGl125hydPCLT`

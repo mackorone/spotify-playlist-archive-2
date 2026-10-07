@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 32470,
+  "num_followers": 32605,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLqOinP/6uGuOKguyI3CggmxwZi",
+  "snapshot_id": "AAAAAPw8bStxT/3C4bGq1EeUuEqiYy6w",
   "tracks": [
     {
       "added_at": "2026-07-01 16:22:16",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "My Apologies To The Chef",
         "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 146392,
       "name": "HAMMS IN A GLASS",
       "url": "https://open.spotify.com/track/3yOfqcmYBcRZwOhApqfYr5"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Package Pt. 2",
-        "url": "https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 237864,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Gato Negro",
         "url": "https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187333,
       "name": "Miss Understood",
       "url": "https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Package Pt. 2",
+        "url": "https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 237864,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j"
     },
     {
       "added_at": "2026-07-01 16:22:16",

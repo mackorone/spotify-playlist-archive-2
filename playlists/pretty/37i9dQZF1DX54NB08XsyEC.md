@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: minhas favs / Foto: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,363 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,327 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 36 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
 | 37 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
 | 38 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
-| 39 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
-| 40 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
-| 41 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
+| 39 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
+| 40 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
+| 41 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 42 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 | 43 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 44 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 64 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
 | 65 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
 | 66 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
-| 67 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
+| 67 | [Mercy](https://open.spotify.com/track/6cIa8qVgqDksyJxUwNT56T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/1aKNACxJIJD8o8j84vdqpm) | 3:10 |
 | 68 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 69 | [Mercy](https://open.spotify.com/track/6cIa8qVgqDksyJxUwNT56T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/1aKNACxJIJD8o8j84vdqpm) | 3:10 |
-| 70 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
-| 71 | [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 |
-| 72 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
-| 73 | [CATastrophe](https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [CATastrophe](https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF) | 2:17 |
+| 69 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
+| 70 | [CATastrophe](https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [CATastrophe](https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF) | 2:17 |
+| 71 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
+| 72 | [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 |
+| 73 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 74 | [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 |
 | 75 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 |
 
-Snapshot ID: `AAAAAM8trPKfx5BDqwSN7AYpeMraD+KU`
+Snapshot ID: `AAAAANgLSNnOPyzc9M9ng16juRvwTOJ1`

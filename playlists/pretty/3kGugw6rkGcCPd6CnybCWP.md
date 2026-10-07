@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 71 songs - 4 hr 6 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 69 | [Don't U Dare](https://open.spotify.com/track/1WtO1bHKvJ8kGh6kPaekiE) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Don't U Dare](https://open.spotify.com/album/1ehAcGDL9SKmjhODnte3Fo) | 3:28 |
 | 70 | [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 |
 | 71 | [Grand Parade](https://open.spotify.com/track/5LaZeUeAbWf7AdlqJube9u) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Grand Parade](https://open.spotify.com/album/3ojxXTX7wbPjfyk4v4pf3z) | 4:42 |
+| 72 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
 
-Snapshot ID: `AAAQKzy1eXBmG7UobZzGOhM7Lu3fUUib`
+Snapshot ID: `AAAQLFhqB52jbRwZK/hGtyMYprumoH5+`

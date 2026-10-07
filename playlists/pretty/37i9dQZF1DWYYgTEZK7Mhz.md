@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,673 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,674 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 33 | [Sei Diventata Nera](https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [I Marcellos Ferial](https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj) | 2:13 |
 | 34 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
 | 35 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
-| 36 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |
-| 37 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
+| 36 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
+| 37 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |
 | 38 | [Acapulco](https://open.spotify.com/track/6ljOLXDHJ7zPFfxZzG9vUM) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Le Canzoni La Nostra Storia](https://open.spotify.com/album/1knxIimFXSLzDsvgXwE7VY) | 3:46 |
 | 39 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
 | 40 | [Il mare nel cassetto](https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Milva: i più grandi successi](https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |
 | 50 | [Bandiera gialla](https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq) | [Gianni Pettenati](https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo) | [I Grandi Successi degli anni '60 \[New Edition\]](https://open.spotify.com/album/1membNisSAiJIocUKBuvCz) | 2:28 |
 
-Snapshot ID: `AAAAALZ39scTW7hlPlafrZT2sAOZW7Sd`
+Snapshot ID: `AAAAABC7pCLj8juPQu+qC7zHQsMt+DQq`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368434,
+  "num_followers": 368432,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHdODgAWpa7tQrgDoaq96d6mOhtj",
+  "snapshot_id": "AAAAANwcVJPJ0ijWm2vA15EVB1sAbNRD",
   "tracks": [
     {
       "added_at": "2026-10-03 08:33:58",
@@ -459,18 +459,22 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+        "name": "Malagradecido",
+        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+      "duration_ms": 174133,
+      "name": "Malagradecido",
+      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -491,22 +495,18 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Malagradecido",
-        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Malagradecido",
-      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
         "name": "Contigo Quiero (A Caballo)",
         "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 251149,
       "name": "Contigo Quiero (A Caballo)",
       "url": "https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 173291,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Besitos Al Contado",
-        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Besitos Al Contado",
-      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
         "name": "Lo Que Se Dice Amor",
         "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 192935,
       "name": "Lo Que Se Dice Amor",
       "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
+        "name": "Besitos Al Contado",
+        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Besitos Al Contado",
+      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -1099,6 +1099,22 @@
       "duration_ms": 164960,
       "name": "Pagar\u00e9 Condena",
       "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
     },
     {
       "added_at": "2026-10-03 08:33:58",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
-        "name": "Pintando sue\u00f1os",
-        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
-      },
-      "artists": [
-        {
-          "name": "Mariacho Ay Ay Ay",
-          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Pintando sue\u00f1os",
-      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
         "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-10-03 08:33:58",
       "album": {
+        "name": "Porque la vida fue tan injusta",
+        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 182424,
+      "name": "Porque la vida fue tan injusta",
+      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
+    },
+    {
+      "added_at": "2026-10-03 08:33:58",
+      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 227987,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
-    },
-    {
-      "added_at": "2026-10-03 08:33:58",
-      "album": {
-        "name": "Porque la vida fue tan injusta",
-        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
-      },
-      "artists": [
-        {
-          "name": "Mariacho Ay Ay Ay",
-          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
-        }
-      ],
-      "duration_ms": 182424,
-      "name": "Porque la vida fue tan injusta",
-      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
     },
     {
       "added_at": "2026-10-03 08:33:58",

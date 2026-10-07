@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,572 songs - 3 day 19 hr 30 min
+1,575 songs - 3 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Bullshit Nation](https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Bullshit Nation](https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI) | 4:06 | 2026-09-12 |  |
 | [Buried Alive](https://open.spotify.com/track/3tMP4zyg8MXPQC87LAUtgD) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Buried Alive](https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx) | 3:48 | 2026-02-15 | 2026-03-15 |
 | [Burn It Down \- Stripped Version](https://open.spotify.com/track/5e6CaDpZZp96QThzuAlIIf) | [JB and Me](https://open.spotify.com/artist/4PdHm4dyO7YaXQxXyz3Yk2) | [12:21](https://open.spotify.com/album/3wBynC8dg8ZV6IZxYzE9az) | 4:45 | 2026-07-22 | 2026-08-30 |
+| [Burn My Wings](https://open.spotify.com/track/1wPrpXvmVXxj1OAvdC1EDq) | [Waller](https://open.spotify.com/artist/1rluEP2Hevekk48lnfkeUQ) | [Burn My Wings](https://open.spotify.com/album/55tS8Ifltjkf0akKVERM7p) | 2:53 | 2026-10-06 |  |
 | [BUSY](https://open.spotify.com/track/5bjd9IPzs7avJgswVKZtQC) | [Nancy Dunkle](https://open.spotify.com/artist/0SE0lZgXJ2XCdvO77Zv2Kl) | [BUSY](https://open.spotify.com/album/5s8s7OnvvEm4u5d6mHug1W) | 3:19 | 2026-03-02 | 2026-03-25 |
 | [Buttana di to ma \(Remix\)](https://open.spotify.com/track/2MEm5sbIhzWmLfhpoHvbvP) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO), [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:55 | 2023-04-27 | 2025-11-29 |
 | [Butterflies](https://open.spotify.com/track/383NSGXVqSdKongECsYcnb) | [Haaniel](https://open.spotify.com/artist/3rNsxByNqSJjegnFQHkkeK) | [Butterflies](https://open.spotify.com/album/6u4DugOvPbTvHegUAXIh6L) | 2:56 | 2026-09-30 |  |
@@ -554,6 +555,7 @@
 | [Holy Light](https://open.spotify.com/track/5sO8Q4Yii3v3JCneozayy3) | [Yade Ivy](https://open.spotify.com/artist/0VZtxz6FOhkurLOPdUH9CW) | [Holy Light](https://open.spotify.com/album/2g2GdOAFgY5WFIDT6ouNmM) | 5:08 | 2026-03-31 | 2026-04-26 |
 | [Hope](https://open.spotify.com/track/2Wy1stSrMcYwPvmKAb8Pay) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Only Noise](https://open.spotify.com/album/7wUOMeBuyuh8tGYQPWUNV4) | 3:48 | 2026-03-17 | 2026-04-12 |
 | [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 | 2026-02-13 | 2026-03-15 |
+| [Hotel Room Window View](https://open.spotify.com/track/62fgAsI4vrhbSnXs10h1v1) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [Hotel Room Window View](https://open.spotify.com/album/1UqBpV5SOhhb88kA3n7IVI) | 4:32 | 2026-10-06 |  |
 | [House of Love](https://open.spotify.com/track/4HysNxpaGjnYRkIBE0Tqil) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love](https://open.spotify.com/album/55IthOjzheeAnTwVoj6Vfv) | 4:19 | 2026-03-23 | 2026-04-22 |
 | [House of Love \- New Wave](https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love \(New Wave\)](https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB) | 4:59 | 2026-06-10 | 2026-07-19 |
 | [House on a Hill](https://open.spotify.com/track/5Fqnq8YvSdg1E5XAILfLRo) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [House on a Hill](https://open.spotify.com/album/4sCSHV3fuZrG2vi7MfU04H) | 3:08 | 2026-06-16 | 2026-07-19 |
@@ -1158,6 +1160,7 @@
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-04-21 | 2026-06-05 |
 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 | 2026-06-16 | 2026-07-19 |
 | [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 | 2026-05-03 | 2026-06-05 |
+| [Shina\-Skyl](https://open.spotify.com/track/0zItUrNLnAO1VvbJNKu1Mi) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Shina\-Skyl](https://open.spotify.com/album/0LnbhBCqAUfOGwmomwVPMo) | 3:00 | 2026-10-06 |  |
 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 | 2026-04-27 | 2026-06-05 |
 | [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 | 2026-04-29 | 2026-06-05 |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |

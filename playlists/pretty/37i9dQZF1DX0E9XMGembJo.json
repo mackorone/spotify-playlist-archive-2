@@ -1,12 +1,12 @@
 {
   "description": "a serotonin forward glow ",
-  "num_followers": 1733574,
+  "num_followers": 1733748,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHU9MYFhTJGmqxebfBJpeC4YbRV6",
+  "snapshot_id": "AAAAAOa3Nuy1V2dLzMz9vVByuZuHvDDR",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "For Abby",
-        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 135581,
-      "name": "Honeypie",
-      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "For Abby",
+        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 135581,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
       "added_at": "2025-04-04 04:00:27",
       "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
@@ -743,6 +727,22 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
+    },
+    {
       "added_at": "2025-06-13 04:01:00",
       "album": {
         "name": "Suzanne",
@@ -1291,22 +1307,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 80\. Foto: Los Prisioneros
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,411 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,482 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 | 49 | [We Are Sudamerican Rockers \- 2002 Digital Remaster](https://open.spotify.com/track/2Q2zvWmsnfSFBMfqWXeVkD) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [We Are Sudamerican Rockers](https://open.spotify.com/album/2D8p4bqQ0YzEdqDfHTAxwe) | 3:37 |
 | 50 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 |
 
-Snapshot ID: `AAAAALeBouKsSgXbLY1nSuzk+ObBVk7b`
+Snapshot ID: `AAAAALPtMXPRAyNBhTYu+J44LpV7cwnb`

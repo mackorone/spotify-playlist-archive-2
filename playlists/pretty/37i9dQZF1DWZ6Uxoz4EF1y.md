@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,896 likes - 100 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,881 likes - 100 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 44 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
 | 45 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 | 46 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 |
-| 47 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
-| 48 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 |
-| 49 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
+| 47 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
+| 48 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
+| 49 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 |
 | 50 | [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 |
 | 51 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
 | 52 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
 | 100 | [Por las Llagas](https://open.spotify.com/track/3IoIzDjBLx2UObchfh7tb1) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Digno Es el Señor](https://open.spotify.com/album/4prQ3uAC1aPsYwcjG3hSAi) | 5:00 |
 
-Snapshot ID: `AAAAAOSGbX31FF+6A4lId3ZTTqe0KgKH`
+Snapshot ID: `AAAAAPxONFKN0SjAVSZKUevkXvjCY8gq`

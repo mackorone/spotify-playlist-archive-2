@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-381 songs - 1 day 0 hr 25 min
+382 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [I'll Change for You](https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:16 | 2026-02-27 |  |
 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 | 2025-08-08 |  |
 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 | 2025-05-25 |  |
+| [I'm Going Home](https://open.spotify.com/track/0mpAxd8iOa74mPyaHaHHGh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B), [The Rocky Horror Picture Show](https://open.spotify.com/artist/76bQhD0x4b8VlS0gLG016G) | [The Rocky Horror Picture Show \- Original Soundtrack \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/22wHP6MgVndK4lNQo6UXBa) | 2:54 | 2026-10-06 |  |
 | [I\. Flight of the Navigator](https://open.spotify.com/track/5k8eNtmqlKe21qjIFIp1Du) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 5:44 | 2020-04-01 |  |
 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 | 2026-03-07 |  |
 | [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 | 2025-09-28 |  |

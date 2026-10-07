@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,091 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,111 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Halcon](https://open.spotify.com/track/6XlkDOzPNCvBhrBRMEgpK9) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Halcon](https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy) | 3:44 |
 | 50 | [Los Vargas](https://open.spotify.com/track/4DnK6AzeP5qfRff5ngA0KQ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:21 |
 
-Snapshot ID: `asGXAAAAAADMzyjRG3H3MrLXl/nQqpn5`
+Snapshot ID: `asLogAAAAACev1IBjlsyaF1CsuOUB8DX`

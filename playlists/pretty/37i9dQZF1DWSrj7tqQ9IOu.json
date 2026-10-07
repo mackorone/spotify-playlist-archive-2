@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401613,
+  "num_followers": 401591,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8OVXFP1fmFBN6csjCFeF8N9nOf",
+  "snapshot_id": "AAAAALjrzlsr8WtxvyQPqyuV5JGBLD8U",
   "tracks": [
     {
       "added_at": "2026-09-30 22:00:22",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 193716,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+      "duration_ms": 165121,
+      "name": "Empty Stadium",
+      "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -147,22 +163,6 @@
       "duration_ms": 131744,
       "name": "source of life",
       "url": "https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 165121,
-      "name": "Empty Stadium",
-      "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Don Junio",
-        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
-      },
-      "artists": [
-        {
-          "name": " (D)Juno",
-          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
-        }
-      ],
-      "duration_ms": 186772,
-      "name": "Don Junio",
-      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "NODA: le monde et les humains",
         "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 200571,
       "name": "SttttRANGERENDER",
       "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+      },
+      "artists": [
+        {
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "TELFAR\u2122",
+        "url": "https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "TELFAR\u2122",
+      "url": "https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Cognac en canette",
         "url": "https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 214013,
       "name": "Cognac en canette",
       "url": "https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "TELFAR\u2122",
-        "url": "https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o"
-      },
-      "artists": [
-        {
-          "name": "Folie's",
-          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "TELFAR\u2122",
-      "url": "https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3"
     },
     {
       "added_at": "2026-09-30 22:00:22",

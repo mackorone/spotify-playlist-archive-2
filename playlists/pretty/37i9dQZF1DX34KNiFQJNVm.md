@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho com Marina Sena, Simone Mendes, Drake, Pixote, Bruno & Marrone Pabllo Vittar e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313,120 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313,095 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 89 | [Flor](https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D) | [Ananda Paixão](https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ) | [Flor](https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt) | 2:55 |
 | 90 | [Consequences](https://open.spotify.com/track/7nUzvvLRt50Ipymwu4Vn8I) | [Ken Ate My Homework](https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0) | [Consequences](https://open.spotify.com/album/2kcuCQGHSZIIc3fWEP4TKv) | 3:03 |
 
-Snapshot ID: `AAAAAIZEZFZt2IkbcN7jl4cud6SpEtkc`
+Snapshot ID: `AAAAAGH/wih0uPeLIkn8mWcHUae5JUf/`

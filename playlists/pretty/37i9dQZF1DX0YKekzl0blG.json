@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 759319,
+  "num_followers": 759343,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeK/JJA/HB8Z5ITCSVr6Io4/CNl",
+  "snapshot_id": "AAAAABWX5f+8BiAG7CRpKrxYlxQFLImX",
   "tracks": [
     {
       "added_at": "2024-03-18 22:33:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205213,
       "name": "Golden Touch",
       "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "In For The Kill",
-      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "In For The Kill",
+      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Bows + Arrows",
-        "url": "https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
       "artists": [
         {
-          "name": "The Walkmen",
-          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 262226,
-      "name": "The Rat",
-      "url": "https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT"
+      "duration_ms": 197973,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "St. Jude",
-        "url": "https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4"
+        "name": "Bows + Arrows",
+        "url": "https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2"
       },
       "artists": [
         {
-          "name": "Courteeners",
-          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
         }
       ],
-      "duration_ms": 243973,
-      "name": "Not Nineteen Forever",
-      "url": "https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu"
+      "duration_ms": 262226,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -875,6 +859,22 @@
       "duration_ms": 186946,
       "name": "Never Miss A Beat",
       "url": "https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "St. Jude",
+        "url": "https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Not Nineteen Forever",
+      "url": "https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Up the Bracket",
-        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
+        "name": "Fly Or Die",
+        "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
         }
       ],
-      "duration_ms": 158546,
-      "name": "Up the Bracket",
-      "url": "https://open.spotify.com/track/6dgNSYxHgPruJtgISdi61C"
+      "duration_ms": 213786,
+      "name": "She Wants To Move",
+      "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
     }
   ],
   "unique_name": "Alternative 00s",

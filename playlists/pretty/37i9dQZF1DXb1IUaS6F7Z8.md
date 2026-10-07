@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,674 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,734 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 45 | [Welcome To Bastards Bay](https://open.spotify.com/track/2tqi27SMrF3lfvVWVVlJfr) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:30 |
 | 46 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
 | 47 | [Old Jack](https://open.spotify.com/track/4zdtk5187wpYozVpV3JRpt) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Propping up the Floor](https://open.spotify.com/album/0pZu510c9RtngtrvL6VNYv) | 5:04 |
-| 48 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
-| 49 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
+| 48 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
+| 49 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
 | 50 | [Foggy Dew](https://open.spotify.com/track/27Pu3Gp0lG0v2qRk8NHjWX) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 4:26 |
 
-Snapshot ID: `AAAAADPsnif47bepKTBeAW9g5+lLdVaM`
+Snapshot ID: `AAAAAA8cpkL9N9Oeg/sVW7freqatMOA7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,166 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,189 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 61 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
 | 62 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
 | 63 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
-| 64 | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Derrama o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm) | 4:51 |
-| 65 | [Noites Traiçoeiras](https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Noites Traiçoeiras](https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s) | 4:12 |
+| 64 | [Noites Traiçoeiras](https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Noites Traiçoeiras](https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s) | 4:12 |
+| 65 | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Derrama o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm) | 4:51 |
 | 66 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 |
 | 67 | [No Caminho do Milagre](https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [No Caminho do Milagre \- Ao Vivo](https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ) | 6:05 |
 | 68 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [Pagodah](https://open.spotify.com/artist/47a5fNlYub0UA5ZEbjA11c) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 72 | [Levanto Um Aleluia \- Ao Vivo](https://open.spotify.com/track/7Doq6g4EEIrpyoYP48jGzK) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Outra Vez \(Ao Vivo\)](https://open.spotify.com/album/25kW5U8Nn74M7DBoUzKLBc) | 6:08 |
 | 73 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
 | 74 | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Joelhos no Chão \(Ao Vivo\)](https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn) | 6:08 |
-| 75 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 |
+| 75 | [Ele Não Se Esquece \- Ao Vivo](https://open.spotify.com/track/2sjtFZxsGIDkatkKR61QPA) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Se Esquece \(Ao Vivo\)](https://open.spotify.com/album/3ntcZXPwZzpTUwOe0vRNBs) | 6:14 |
 
-Snapshot ID: `AAAAAJkWTdTAKhclCSuhkg4yBO3krSD2`
+Snapshot ID: `AAAAACfNH+9psrEi6Rax+e+SYWFy7kgV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > algorave\_ˋˏ♡ˎˊ˗\_hyper\_sleaze.electro\_glitch\_☆▽☆\_⏻⏻⏻\_w/meatcomputer\_\[FINAL\]\_\[REAL\]\_\_coverartist.DJ\_Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,797 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,757 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [14c4](https://open.spotify.com/track/2WwYvc2MpU5hFSvSZfT96C) | [ideasforconversations](https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD) | [14c4](https://open.spotify.com/album/0a7tkwTzog170nhI08y7tP) | 2:44 |
 | 70 | [Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 3:38 |
 
-Snapshot ID: `AAAAAGWSQwpAFu+FwLjUipMyoai0Spgg`
+Snapshot ID: `AAAAAPJaSgSKbaapnamf0IatFb/m1TwJ`

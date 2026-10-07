@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Teo Planell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,376 likes - 120 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,387 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [f.m.k.](https://open.spotify.com/track/5Z5NjgTfv0vYCJhcy3wwzc) | [duna](https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz) | [f.m.k\. / jura](https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ) | 1:35 |
 | 120 | [Teskiya](https://open.spotify.com/track/2oc3n11K6mqke5KcASGH58) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Teskiya](https://open.spotify.com/album/28dIXjCG8vMtgBE14wVFyq) | 2:17 |
 
-Snapshot ID: `AAAAAGYkeRdJxpaHWuraR94YXjO/u8MA`
+Snapshot ID: `AAAAAOSbqnh+9B0bNpNwkPEE9EO0+rUy`

@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-199 songs - 9 hr 44 min
+200 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/1I3EawcCTzAYZtonoobkuU), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 | 2023-07-24 | 2025-04-14 |
 | [Gaddafi](https://open.spotify.com/track/3dIHyzvaVuIDcHJ2W0WNy6) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Big Plans](https://open.spotify.com/album/54fEGQyEy3HEM2mimhBgjZ) | 2:47 | 2026-08-28 |  |
 | [Gang Class](https://open.spotify.com/track/1kUlCpqQ0oElAHdqTq9oRy) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR), [Nonu Rana](https://open.spotify.com/artist/5isqrCxXiPdl4FT4NfXZhQ) | [Gang Class](https://open.spotify.com/album/05acw0SlIBMgeepm1Kk9uf) | 2:52 | 2026-06-24 |  |
+| [Grinder](https://open.spotify.com/track/5nHkaD0zCfSLa0B0Q4Jvfj) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Grinder](https://open.spotify.com/album/4gzdUaPtrbO0bp6Rzm3qpS) | 2:37 | 2026-10-01 |  |
 | [Gunda 2 \(feat\. Jatin Tyagi\)](https://open.spotify.com/track/6zgWpXFihYLR9HWpt31Dvp) | [Aman Jaji](https://open.spotify.com/artist/3VJGHT0QL4RFU1DVpinyo3), [Narender Bhagana](https://open.spotify.com/artist/6Fom93njgQmfWGslEx76dE), [Jatin Tyagi](https://open.spotify.com/artist/0DNLyxjauOUQznxJVwS0Tc) | [Gunda 2 \(feat\. Jatin Tyagi\)](https://open.spotify.com/album/3IayS3JWiK6pUdQb2kO2WX) | 2:43 | 2025-11-24 | 2025-12-29 |
 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 | 2023-07-31 | 2023-11-10 |
 | [Gunday](https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E), [Rao Inderjeet Singh](https://open.spotify.com/artist/1UUxLQuphE7XL3EOQga1yk), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa) | [Gunday](https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0) | 2:56 | 2023-07-24 | 2024-04-19 |
@@ -135,7 +136,7 @@
 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 | 2024-10-23 |  |
 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 | 2025-10-04 |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-10-03 | 2023-11-10 |
-| [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-07-24 |  |
+| [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-07-24 | 2026-10-07 |
 | [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 | 2025-03-10 | 2025-09-13 |
 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 |  |
 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 | 2026-02-24 |  |

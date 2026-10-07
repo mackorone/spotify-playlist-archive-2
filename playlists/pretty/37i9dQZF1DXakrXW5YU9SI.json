@@ -1,12 +1,12 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 343507,
+  "num_followers": 343516,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMRDgieqj8K2ZCrXwvjMu6YvnqmE",
+  "snapshot_id": "AAAAAOCUayt7VCDJd+JAebChxvdivf+w",
   "tracks": [
     {
       "added_at": "2026-10-02 15:14:32",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
+        "name": "trees for the woods",
+        "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 247540,
+      "name": "trees for the woods",
+      "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
         "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
         "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 150944,
       "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
       "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
-        "name": "trees for the woods",
-        "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 247540,
-      "name": "trees for the woods",
-      "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
         "name": "Fall In Love With Me",
         "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 168685,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
-        "name": "LOT",
-        "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 169008,
-      "name": "LOT",
-      "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
-        "name": "You Said Jump... And I Flew",
-        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+        "name": "LOT",
+        "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
       },
       "artists": [
         {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 156209,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+      "duration_ms": 169008,
+      "name": "LOT",
+      "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
-    },
-    {
-      "added_at": "2026-10-02 15:14:32",
-      "album": {
         "name": "Kamienie",
         "url": "https://open.spotify.com/album/7nNcz54gtf3haO9340N90P"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-10-02 15:14:32",
       "album": {
-        "name": "Kr\u0119ci si\u0119 ziemia",
-        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
       },
       "artists": [
         {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 152213,
-      "name": "Kr\u0119ci si\u0119 ziemia",
-      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
     },
     {
       "added_at": "2026-10-02 15:14:32",
@@ -1043,6 +1027,22 @@
       "duration_ms": 141984,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
+    },
+    {
+      "added_at": "2026-10-02 15:14:32",
+      "album": {
+        "name": "Kr\u0119ci si\u0119 ziemia",
+        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Kr\u0119ci si\u0119 ziemia",
+      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
     }
   ],
   "unique_name": "Jesienny chill",

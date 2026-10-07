@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Caloncho y Jaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,561 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,594 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 34 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
 | 35 | [Cosas de Enamorao](https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cosas de Enamorao](https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8) | 2:39 |
 | 36 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
-| 37 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 38 | [Reggae Para Los Amigos](https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:56 |
+| 37 | [Reggae Para Los Amigos](https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:56 |
+| 38 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 39 | [Atrévete](https://open.spotify.com/track/1VMwXqyPNq6OUxjpmliimG) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Atrévete](https://open.spotify.com/album/20vNurDn3Jc6lpRWBiOxlP) | 3:29 |
 | 40 | [Mantis](https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Mantis](https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK) | 4:14 |
 | 41 | [Timelapse de Sol](https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 3:05 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 65 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 66 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
 | 67 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
-| 68 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
-| 69 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
+| 68 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
+| 69 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
 | 70 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
 | 71 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
 | 72 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
 | 100 | [Santa](https://open.spotify.com/track/6OPMwjpBacWGDI0Z8Qx7RW) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO) | [Santa](https://open.spotify.com/album/10u6ktIfkDbZhowIiZURwO) | 3:31 |
 
-Snapshot ID: `AAAAAIPWTs2aDwwStxTO243P5H0MoQCg`
+Snapshot ID: `AAAAAGZrrMAIlam5urDlSUdtnUUaUV/X`

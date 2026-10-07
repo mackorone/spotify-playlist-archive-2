@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Stony
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,365 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,388 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Toi](https://open.spotify.com/track/55EYonQmO7u8bKVwkx8dc7) | [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Toi](https://open.spotify.com/album/0hAAmnQn4ZeBEfaBbLPZGK) | 3:12 |
 | 40 | [C' Mort](https://open.spotify.com/track/2YP3BlXblVJv54FVvIFkc4) | [Kaf Malbar](https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3), [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [C' Mort](https://open.spotify.com/album/0dpRGKxSn2ECXSIqs43eWu) | 3:13 |
 
-Snapshot ID: `AAAAAPfQ9PpgLc8La5CxEAJIxXYLa1fM`
+Snapshot ID: `AAAAAPIQMZkCLLma0XIU5c1TAXYpOi89`

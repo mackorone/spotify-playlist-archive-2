@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,722 likes - 44 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,729 likes - 44 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 38 | [Brackish \- Live](https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Brackish \(Live\)](https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92) | 2:52 |
 | 39 | [Witch Hunt](https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:58 |
 | 40 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 |
-| 41 | [Sleepwalking](https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:17 |
+| 41 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
 | 42 | [Empires \(Part 2\)](https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 3:41 |
-| 43 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
+| 43 | [Sleepwalking](https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:17 |
 | 44 | [Time Never Heals](https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:30 |
 
 Snapshot ID: `asGXAAAAAAAXSfiuo/Z2vyZLb2fuBKjS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,039 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,069 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 13 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
 | 14 | [BITCH & MONEY](https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 3:15 |
 | 15 | [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 |
-| 16 | [Dont Come Too Close II](https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Dont Come Too Close II](https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR) | 3:06 |
-| 17 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
+| 16 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
+| 17 | [Dont Come Too Close II](https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Dont Come Too Close II](https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR) | 3:06 |
 | 18 | [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 |
 | 19 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 20 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 |
 | 70 | [Reason](https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Reason](https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli) | 2:01 |
 
-Snapshot ID: `AAAAAGybkJ5w77ulR2yX5f3c713vlysr`
+Snapshot ID: `AAAAAN4IqBBQGsjWPCFy3Ev60Dg+B/Kf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,169 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 25 | [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 |
 | 26 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 | 27 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
-| 28 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
-| 29 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
+| 28 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
+| 29 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
 | 30 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 31 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 32 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 54 | [Could it be like this](https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Could it be like this](https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme) | 3:41 |
 | 55 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 56 | [WANT U](https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 |
-| 57 | [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 |
-| 58 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 |
+| 57 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 |
+| 58 | [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 |
 | 59 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 60 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
 
-Snapshot ID: `AAAAAA1DKmHqdIINVnq5KpkQg0bgwDq8`
+Snapshot ID: `AAAAAM4wIkhM1Du5ViXqLQ0ZXfcRn4xp`

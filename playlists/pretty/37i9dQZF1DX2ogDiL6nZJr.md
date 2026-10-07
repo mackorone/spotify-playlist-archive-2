@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,362 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,376 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 5 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 6 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 7 | [One Evening](https://open.spotify.com/track/09dYenMs0WXWh0pAAtd9Zd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:36 |
-| 8 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
-| 9 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 8 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 9 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 10 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
 | 11 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
 | 12 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
-| 13 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
-| 14 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
+| 13 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
+| 14 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 15 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 |
 | 16 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 |
 | 17 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 31 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 |
 | 32 | [Le temps se fuit](https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Le temps se fuit](https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt) | 3:30 |
 | 33 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
-| 34 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
-| 35 | [Lost Forever Over The Moon](https://open.spotify.com/track/5vRe5caFk0xaJ58whrsKwB) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Lost Forever Over The Moon](https://open.spotify.com/album/2jJE6NcA3uvGaSLsf8FGZI) | 3:02 |
+| 34 | [Lost Forever Over The Moon](https://open.spotify.com/track/5vRe5caFk0xaJ58whrsKwB) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Lost Forever Over The Moon](https://open.spotify.com/album/2jJE6NcA3uvGaSLsf8FGZI) | 3:02 |
+| 35 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 36 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
 | 37 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 38 | [favorite place](https://open.spotify.com/track/3OoEy74Z2neKejptWR4RIy) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [ep 1](https://open.spotify.com/album/3LnhpCfWzvyUy3WTE6AwDr) | 3:32 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 92 | [Cars](https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q) | [A Tale of Golden Keys](https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY) | [The Only Thing That's Real](https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn) | 3:17 |
 | 93 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
 | 94 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
-| 95 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 |
-| 96 | [Los Angeles](https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Angeles](https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF) | 3:33 |
-| 97 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
+| 95 | [Los Angeles](https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Angeles](https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF) | 3:33 |
+| 96 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
+| 97 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 |
 | 98 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
 | 99 | [passenger seat](https://open.spotify.com/track/3dtGmAbmjm3VsILtYkFf10) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [HOMESICK](https://open.spotify.com/album/03BfcKu7N2Hy7yZHLStwlV) | 1:45 |
 | 100 | [The Sunlighttt](https://open.spotify.com/track/5pWg3CJ8lMkxA6dXc7j0g1) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Sundrops!](https://open.spotify.com/album/04nTSxSAZvFV49FJR5Lcv1) | 3:17 |
 
-Snapshot ID: `AAAAADW5vCE0xjVufkk1aJnDyWwvZVGq`
+Snapshot ID: `AAAAALTXxzK1wIy4EvPkQq3Sfaf/UlME`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,976 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,966 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 49 | [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 |
 | 50 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
 
-Snapshot ID: `AAAAAC5QWAPvNnwvsVVyDQAn67vrbGiI`
+Snapshot ID: `AAAAABFiO5nfp/MzxXHgTvyOQyhRNSDj`

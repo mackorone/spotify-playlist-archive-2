@@ -6166,7 +6166,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -6564,6 +6564,24 @@
       "duration_ms": 240125,
       "name": "Muscle",
       "url": "https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb"
+    },
+    {
+      "album": {
+        "name": "BULLDOZER!!",
+        "url": "https://open.spotify.com/album/0ob10johhogCNiWerZeWkj"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203984,
+      "name": "MUSCLE MARYS..",
+      "url": "https://open.spotify.com/track/7tnOR8TWcJGSSfoGbewXf7"
     },
     {
       "album": {
@@ -7902,6 +7920,32 @@
       "duration_ms": 158696,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "Margo XS",
+          "url": "https://open.spotify.com/artist/4TfgyYjNRfHUdPJSQGUke0"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148962,
+      "name": "Pretty Ugly - Girls Trip",
+      "url": "https://open.spotify.com/track/3t6k4z2biWM5y3RaKYHo4W"
     },
     {
       "album": {

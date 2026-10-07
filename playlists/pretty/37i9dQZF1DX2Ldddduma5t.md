@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,304 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,332 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 | 39 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 40 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 
-Snapshot ID: `AAAAAHi9Y2AHjaiEONy0P/IyLazLFDGE`
+Snapshot ID: `AAAAAEoIekIo/QndH1xcK8vq1ZNy8yAV`

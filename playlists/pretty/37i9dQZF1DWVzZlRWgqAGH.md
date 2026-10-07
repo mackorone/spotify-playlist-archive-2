@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Sasha Keable and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,474 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,525 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 79 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 80 | [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 |
 
-Snapshot ID: `AAAAAE2an/zUIQeSsOsBv80xTlnFObtr`
+Snapshot ID: `AAAAABfv7jgPBzUteWlLQUmBJpyOfcmF`

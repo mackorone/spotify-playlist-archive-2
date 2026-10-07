@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,496 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,499 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 19 | [Respire](https://open.spotify.com/track/7t5Hs59TO36wls9JGwdei7) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Um Novo Dya](https://open.spotify.com/album/0leNfO1lfD9XFIsKEZAKS2) | 2:08 |
 | 20 | [KIT NOVO](https://open.spotify.com/track/2DPjad5luoIoVifhhtfvIc) | [Galick](https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H), [Nick Dilla](https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j) | [KIT NOVO](https://open.spotify.com/album/59D6Nai1sKVyUr9ZWjHeOq) | 2:37 |
 | 21 | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/track/1HR4dYh0FSrkkBOIkW8Twj) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha) | 2:21 |
-| 22 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
+| 22 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
 | 23 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 24 | [+ Swag](https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [+ Swag](https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD) | 2:30 |
-| 25 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
+| 25 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
 | 26 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |
 | 27 | [Próximo Passo](https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 2:20 |
 | 28 | [DE ONDE ELE VEM?](https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [Linguagem De Rua](https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Givenchy](https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN) | [Blacka](https://open.spotify.com/artist/7CP3YMunVNU7kslDUDR3li) | [Luxe](https://open.spotify.com/album/2VbjJozJq7IyciVCGU2hWO) | 2:08 |
 | 50 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
 
-Snapshot ID: `AAAAALQmDG6NwpY0kS1PIftzwe6QVYb/`
+Snapshot ID: `AAAAAIwR8gNvhPiZVp0JXdZwlccoXAZC`

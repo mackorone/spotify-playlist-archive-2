@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,382 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,420 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

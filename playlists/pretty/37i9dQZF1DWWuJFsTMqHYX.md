@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,159 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,215 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 16 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
 | 17 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
 | 18 | [Amidinine](https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Amidinine](https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU) | 4:21 |
-| 19 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
-| 20 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
+| 19 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
+| 20 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
 | 21 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 22 | [Degg Gui](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
 | 23 | [Tamiditine](https://open.spotify.com/track/0SEiSDYckOwK8PJ4tY8PLc) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Eylel](https://open.spotify.com/album/1A14W8j3lCfImsotyGSUiT) | 5:50 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 28 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 |
 | 29 | [Sekou Oumarou](https://open.spotify.com/track/0ww5hcdJB78pFq3sH2Fucn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/0DVAsW7CZkaUg8zv0FinJI) | 3:33 |
 | 30 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
-| 31 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
-| 32 | [Ansuf](https://open.spotify.com/track/12j2cxm2cUNt2EqynA7302) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Azizdeg](https://open.spotify.com/album/1oV2PusQ9T05cJb2Keubpr) | 4:50 |
+| 31 | [Ansuf](https://open.spotify.com/track/12j2cxm2cUNt2EqynA7302) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Azizdeg](https://open.spotify.com/album/1oV2PusQ9T05cJb2Keubpr) | 4:50 |
+| 32 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 33 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
 | 34 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 35 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
 | 50 | [Imidiwan Takyadam \- feat\. José González](https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imidiwan Takyadam](https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle) | 4:16 |
 
-Snapshot ID: `AAAAAGiZv4NPO4Ps/9FuwwYgRV/AOYw1`
+Snapshot ID: `AAAAAEUV9xslNKmyFT8ea+CU2yxrlaEs`

@@ -1,12 +1,12 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 240455,
+  "num_followers": 240491,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExvCEN3MO4CJHQK3YgJ826j5iBN",
+  "snapshot_id": "AAAAAD0cWVoAteqhwr22BjBpRnPQu70y",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Saint Mary Of The Woods",
         "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 513440,
       "name": "Choctaw Bingo",
       "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Look What the Cat Drug In",
-        "url": "https://open.spotify.com/album/5UJQYneuqPNCDbtYl734ey"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 163939,
-      "name": "Look What the Cat Drug In",
-      "url": "https://open.spotify.com/track/4O3rtAR2Xh2iQUP3GJ3SjL"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Am I Missing Out",
         "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 246858,
       "name": "Am I Missing Out",
       "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Look What the Cat Drug In",
+        "url": "https://open.spotify.com/album/5UJQYneuqPNCDbtYl734ey"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 163939,
+      "name": "Look What the Cat Drug In",
+      "url": "https://open.spotify.com/track/4O3rtAR2Xh2iQUP3GJ3SjL"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Medicine Man",
-        "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
-      "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Medicine Man",
+        "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
+      "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "The Traveling Kind",
         "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 220600,
       "name": "The Traveling Kind",
       "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1271,22 +1255,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Great Television",
-        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
       "artists": [
         {
-          "name": "Elizabeth Cook",
-          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
-        },
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 215338,
-      "name": "The Easy Kind (feat. Wynonna)",
-      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1307,6 +1287,26 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Great Television",
+        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cook",
+          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
+        },
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "The Easy Kind (feat. Wynonna)",
+      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Strangers Here",
         "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1435,22 +1451,6 @@
       "duration_ms": 210540,
       "name": "Don\u2019t Look Back",
       "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "I Could Have Told You",
+        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Could Have Told You",
+      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "I Could Have Told You",
-        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "I Could Have Told You",
-      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Place in My Heart",
         "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 174720,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 234213,
       "name": "16 Days",
       "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "added_at": "2026-10-02 04:01:37",

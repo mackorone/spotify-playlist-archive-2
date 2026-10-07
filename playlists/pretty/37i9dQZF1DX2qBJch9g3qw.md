@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,791 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,786 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 59 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 |
 | 60 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 |
 
-Snapshot ID: `AAAAAEQ8iemRzeI6ny05Fh3Lc9ymzBpz`
+Snapshot ID: `AAAAAHmY6uLkMh6jd/sHlFEFu/H0biEv`

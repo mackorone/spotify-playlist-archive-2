@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,160 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,280 likes - 50 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 |
 | 50 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
 
-Snapshot ID: `AAAAAG1jh9ECZJ/DZIgRNLe3VeojvvCG`
+Snapshot ID: `AAAAAAgfNMVFgSZndXuTF+yYrE3WqZr+`

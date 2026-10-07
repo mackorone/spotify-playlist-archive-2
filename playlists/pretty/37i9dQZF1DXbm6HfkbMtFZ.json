@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 844884,
+  "num_followers": 844899,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3HZRRZNcWVK/R2ofG+ikZyfkzH",
+  "snapshot_id": "AAAAAHwyUTtpd6SHzdGlztQH8lRrNrf8",
   "tracks": [
     {
       "added_at": "2026-09-11 17:50:27",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+        "name": "man oh man !",
+        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+      "duration_ms": 170903,
+      "name": "hello !",
+      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -491,18 +507,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "man oh man !",
-        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
       "artists": [
         {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 170903,
-      "name": "hello !",
-      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
+      "duration_ms": 229849,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -519,22 +535,6 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 229849,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "Tiger Lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Quadron",
-        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
-      },
-      "artists": [
-        {
-          "name": "Quadron",
-          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
+        "name": "Quadron",
+        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Quadron",
+          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
         }
       ],
-      "duration_ms": 191560,
-      "name": "You're A Song (That I Can't Sing)",
-      "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
+      "duration_ms": 272466,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1851,6 +1835,22 @@
       "duration_ms": 243365,
       "name": "Fossils",
       "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "You're A Song (That I Can't Sing)",
+      "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Mamalarky",
-        "url": "https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43"
+        "name": "Solutions",
+        "url": "https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh"
       },
       "artists": [
         {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+          "name": "Greenflow",
+          "url": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
         }
       ],
-      "duration_ms": 216840,
-      "name": "You Make Me Smile",
-      "url": "https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp"
+      "duration_ms": 278320,
+      "name": "No Other Life Without You",
+      "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
     }
   ],
   "unique_name": "Feel Good Dinner",

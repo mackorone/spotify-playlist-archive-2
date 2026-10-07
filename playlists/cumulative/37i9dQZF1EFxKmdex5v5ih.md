@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-585 songs - 1 day 8 hr 10 min
+586 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 | 2026-04-30 |  |
 | [Steady 1234 \(feat\. Jasmine Thompson & Skizzy Mars\)](https://open.spotify.com/track/6Z6quH5WcwOkmgGPGrGUPL) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Steady 1234 \(feat\. Jasmine Thompson & Skizzy Mars\)](https://open.spotify.com/album/0GBegi5sGx2qvFWHg95Dji) | 2:57 | 2021-12-27 |  |
 | [Stranger](https://open.spotify.com/track/6DF0Xr3mQYzsERnqVigXV1) | [Conor Kavanagh](https://open.spotify.com/artist/2cEaqytjIMKQXsiac9O1JC) | [Stranger](https://open.spotify.com/album/1xL0aoP2aANqQozKhYqkKx) | 2:55 | 2026-07-12 |  |
+| [Stranger Than Heaven](https://open.spotify.com/track/2o7Z95TBgdcAhjhEFkYPn8) | [Pageless](https://open.spotify.com/artist/5W6PWK6ms280LeIYndQyQw), [PagelessSV](https://open.spotify.com/artist/0W77noAfgOOte4RT8lKISB) | [Stranger Than Heaven](https://open.spotify.com/album/5BjgOq3prboE0rVyb04zhN) | 3:51 | 2026-10-06 |  |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-05 |  |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-12-13 |  |
 | [Suffer](https://open.spotify.com/track/43I842M75on5FsmrVOh34B) | [Big Sad](https://open.spotify.com/artist/6rotiKKdlT9yVAphYy7TJC) | [Don't Forget](https://open.spotify.com/album/2l9Deiy1gADpDbiYVpX6Pz) | 2:21 | 2026-08-26 | 2026-08-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón\. Luciano Daniel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,055 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,044 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Despedida](https://open.spotify.com/track/5KUTr1CV83xYKzHOBAOGEr) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/47YLb4TmbwABbNEwmKMX1P) | 2:38 |
 | 80 | [Soñar Contigo](https://open.spotify.com/track/0Z8c7bgYXsHvKDJ2eLUBXV) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo de Dos](https://open.spotify.com/album/0wQiLJAm15W5IVKks3Rvqg) | 2:47 |
 
-Snapshot ID: `AAAAAATKal7Vni6eV3bRI4uST8OPjBK8`
+Snapshot ID: `AAAAAHUvj5oWuwlJkQWChhTszAcvbyfH`

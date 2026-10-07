@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,293 songs - 2 day 16 hr 38 min
+1,294 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,6 +1085,7 @@
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2026-04-24 |
 | [Teatterii](https://open.spotify.com/track/7unJcils43dvDrUjadoyI5) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Teatterii](https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL) | 2:39 | 2026-04-09 | 2026-09-04 |
 | [Tee Mulle Mitä Vaan](https://open.spotify.com/track/225v95FOaSABtxkvndBTzk) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ), [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Tee Mulle Mitä Vaan](https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj) | 3:48 | 2026-05-14 | 2026-09-04 |
+| [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 | 2026-10-01 |  |
 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 | 2025-11-13 | 2026-01-31 |
 | [Tequila](https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH2](https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF) | 2:28 | 2024-07-18 | 2024-08-23 |
 | [Terapia](https://open.spotify.com/track/0dnLTX7Dz7iFRRR6DkLAjp) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLOCKFEST PACK](https://open.spotify.com/album/7pNPSHlTSF8JN4hNwXjOVt) | 3:36 | 2025-08-07 | 2025-09-19 |
@@ -1176,7 +1177,7 @@
 | [USA \- Vain elämää kausi 16](https://open.spotify.com/track/728qyJHSo78ruBRwVXbSVu) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [USA \(Vain elämää kausi 16\)](https://open.spotify.com/album/1KRnK5MkLKrrXYORMyuq13) | 2:47 | 2025-10-02 | 2025-10-10 |
 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 | 2025-09-04 | 2026-02-27 |
 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 | 2025-01-03 |
-| [Vaan yks sinä](https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Vaan yks sinä](https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH) | 2:48 | 2026-09-03 |  |
+| [Vaan yks sinä](https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Vaan yks sinä](https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH) | 2:48 | 2026-09-03 | 2026-10-07 |
 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 | 2024-09-20 |
 | [Vaarallist](https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ) | [Vaarallist](https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV) | 2:34 | 2026-06-25 |  |
 | [Valentine](https://open.spotify.com/track/2wtFX3sqT1n2vqNXomQuPz) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Valentine](https://open.spotify.com/album/0KSyqpwyyp2hl3CEFbY0sg) | 2:46 | 2024-09-05 | 2024-10-18 |

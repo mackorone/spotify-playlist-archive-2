@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,207 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,232 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 100 | [Eastern Time](https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Eastern Time](https://open.spotify.com/album/7219GK59ut1GptItHdsERG) | 3:18 |
 | 101 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
 
-Snapshot ID: `AAAAAGleX0TkguasLhVmjUYatO82XUYR`
+Snapshot ID: `AAAAAFMkVB3beWz0EtV2fBAW/GwULtXT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,381 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,393 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 34 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
 | 35 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
 | 36 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
-| 37 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
-| 38 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
+| 37 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
+| 38 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
 | 39 | [/Nachica](https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:22 |
 | 40 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
 | 41 | [A LA ORDEN](https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [A LA ORDEN](https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD) | 2:55 |
-| 42 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
-| 43 | [Cumbia Azteca](https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Recuerdos Andinos](https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ) | 3:56 |
+| 42 | [Cumbia Azteca](https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Recuerdos Andinos](https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ) | 3:56 |
+| 43 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
 | 44 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 45 | [Desde Que No Estás Aquí](https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:39 |
 | 46 | [El Piropo \- Versión Sonidera](https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:51 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 94 | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Alta Ralea](https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N) | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf) | 3:27 |
 | 95 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
 | 96 | [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 |
-| 97 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
-| 98 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
-| 99 | [Si Alguien Me Ve](https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Si Alguien Me Ve](https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF) | 2:56 |
+| 97 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
+| 98 | [Si Alguien Me Ve](https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Si Alguien Me Ve](https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF) | 2:56 |
+| 99 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 100 | [Amiga Traidora \- Cumbia TexMex](https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O) | [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla) | [Amiga Traidora \(Cumbia TexMex\)](https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1) | 4:09 |
 
-Snapshot ID: `AAAAAKxUkUHGR3GGDqKmYKg5Tpf3J9J5`
+Snapshot ID: `AAAAACThiZwWxxWsOFmwAVVQN4gW4jZs`

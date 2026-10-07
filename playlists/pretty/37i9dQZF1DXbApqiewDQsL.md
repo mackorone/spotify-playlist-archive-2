@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Benji V
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,250 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,275 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 48 | [POLO](https://open.spotify.com/track/76SKiOuHHvKhHCeWV835Hn) | [Omar Handal](https://open.spotify.com/artist/0w5ka5WHimQ0q45ks2XbMh) | [POLO](https://open.spotify.com/album/44ocQNNvFhGzCbPh9r3ljm) | 3:47 |
 | 49 | [31](https://open.spotify.com/track/43hJrUcamNZAX4EdRSEc5v) | [Los Pilares De Culiacan](https://open.spotify.com/artist/4SRCDftKEFcjil6H0AxKFR) | [31](https://open.spotify.com/album/7H8dyBB47DrD4D9ybIB8hJ) | 3:09 |
 
-Snapshot ID: `AAAAAMMeCEslWN/wxYQfwb42wnT/1OAn`
+Snapshot ID: `AAAAAHuctKIApfgQZ/IET0l4ODP8Rml5`

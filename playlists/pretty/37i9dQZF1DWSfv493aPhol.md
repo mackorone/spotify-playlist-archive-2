@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 
 > Las canciones más escuchadas por la comunidad gamer en Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,584 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,588 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 | 75 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 76 | [Todas Mueren por Mí](https://open.spotify.com/track/2uMoRVFsd7ET4bLrDqu6y8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Greatest \- Hits](https://open.spotify.com/album/5iZB8JDxunNlWFTc3BdEHp) | 3:41 |
 | 77 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
-| 78 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 |
-| 79 | [360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:09 |
+| 78 | [360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:09 |
+| 79 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 |
 | 80 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 |
 | 81 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 |
 | 82 | [PSL](https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 | 99 | [Toa la Vida](https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Toa la Vida](https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP) | 3:38 |
 | 100 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 
-Snapshot ID: `AAAAAOIK9W6lCpUl0HlGz19PEMlDGn0M`
+Snapshot ID: `AAAAAPps0/84pRzDKqGYYdbBzPwbc/al`

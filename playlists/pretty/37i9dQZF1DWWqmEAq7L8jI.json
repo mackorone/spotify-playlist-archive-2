@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 TOBIKA",
-  "num_followers": 349125,
+  "num_followers": 349123,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAsclQJpWzdOuJVsCZRlxUqvIrX/",
+  "snapshot_id": "AAAAAKCjFmTFWJ9exNw7RDfmXuEfai62",
   "tracks": [
     {
       "added_at": "2026-09-28 18:22:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "Tu C\u00e1rcel",
         "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 216149,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Machu Picchu",
-        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 179004,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -639,22 +619,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+        "name": "Machu Picchu",
+        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 169559,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+      "duration_ms": 179004,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -679,6 +659,26 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 169559,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "Calambre",
         "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 240315,
       "name": "BUENOS AIRES",
       "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "No Hay M\u00e1s Que Hablar",
+        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "No Hay M\u00e1s Que Hablar",
+      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 170862,
       "name": "Baloncito Viejo",
       "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
-        "name": "No Hay M\u00e1s Que Hablar",
-        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "No Hay M\u00e1s Que Hablar",
-      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "Fuego de Noche, Nieve de D\u00eda",
         "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Prometieron volar",
-        "url": "https://open.spotify.com/album/2lBkfSRpIuPR09IaLGiqn4"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Tu y yo",
-      "url": "https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "Prometieron volar",
+        "url": "https://open.spotify.com/album/2lBkfSRpIuPR09IaLGiqn4"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Tu y yo",
+      "url": "https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "MALDITA",
-        "url": "https://open.spotify.com/album/0sLn4jBVelPl50LtJ9Qx3o"
+        "name": "Tan f\u00e1cil",
+        "url": "https://open.spotify.com/album/2Mc3okZIvTnW3vXikb4rzN"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
         }
       ],
-      "duration_ms": 161147,
-      "name": "MALDITA",
-      "url": "https://open.spotify.com/track/2P54TV1BnSzX1IL8kpjeyF"
+      "duration_ms": 183000,
+      "name": "Tan f\u00e1cil",
+      "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
     }
   ],
   "unique_name": "Radio Pop",

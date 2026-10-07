@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,539 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,534 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 |
 | 80 | [Arsenal](https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Arsenal](https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP) | 3:41 |
 
-Snapshot ID: `AAAAABZqT95z6I6GXsEJzCbKIJAAvtnB`
+Snapshot ID: `AAAAAB87jenbCRAtyK4Zl4+SvSYQQAwt`

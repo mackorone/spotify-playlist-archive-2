@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: KAROL G & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,258 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,266 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 45 | [Beretta \(De Los Cerros La Escuela\)](https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j) | [Estilo R'S](https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J) | 2:13 |
 | 46 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 47 | [Gabriela \(with Young Miko\) \- Young Miko Remix](https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Gabriela \(with Young Miko\) \[Young Miko Remix\]](https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1) | 3:18 |
-| 48 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:11 |
-| 49 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
+| 48 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
+| 49 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:11 |
 | 50 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 |
 | 51 | [Sengithole Omunye](https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Imizamo Yami](https://open.spotify.com/album/3Lfbsj7w7y2qzKbnDsicPI) | 4:18 |
 | 52 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 99 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 |
 | 100 | [Three Nations](https://open.spotify.com/track/7CQjf3iDJcNCvzSR9YMQx1) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album \(Bonus Edition\)](https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo) | 3:30 |
 
-Snapshot ID: `AAAAAPS/o8y+xXZ8fTv7KxBvgfqsLmiI`
+Snapshot ID: `AAAAAIfdTSkqj9O1auW47BP1VjmlHR3S`

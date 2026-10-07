@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Dimitri Vegas, Dj Bountyhunter & BRANDON
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,289 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,297 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Love Feels Like You](https://open.spotify.com/track/0G3oPhw5CDuITXUjCLdCSi) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Love Feels Like You](https://open.spotify.com/album/34iQr6ezHu7nDYt8ak7mqE) | 2:42 |
 | 60 | [Hold Me In Heaven](https://open.spotify.com/track/5EXprmPJtnGKgfIT8bejLV) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Hold Me In Heaven](https://open.spotify.com/album/2ZyeSOegRloityIr5TMo0b) | 3:12 |
 
-Snapshot ID: `AAAAAIyJlDXTfWdn0SJVUdSlmVOx1O4x`
+Snapshot ID: `AAAAAGZSPdkGfyadX14+piM+FOBl4Kau`

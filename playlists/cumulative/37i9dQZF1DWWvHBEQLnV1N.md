@@ -4,7 +4,7 @@
 
 > Festive season staples and new holiday favourites 🎁
 
-203 songs - 10 hr 52 min
+204 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 | 2023-10-27 | 2026-07-27 |
 | [Love this Christmas](https://open.spotify.com/track/0s3x37HfdUXvoW9N5zA5fN) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Love this Christmas](https://open.spotify.com/album/3CdqhL16AXYFXcHyGkPFzB) | 3:11 | 2021-12-17 | 2023-10-28 |
 | [Main Title "Somewhere in My Memory" \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 | 2023-10-27 |  |
-| [Memory Lane](https://open.spotify.com/track/3yMQqcTCfTJUpwdZajJH1o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:12 | 2025-12-04 |  |
+| [Memory Lane](https://open.spotify.com/track/3yMQqcTCfTJUpwdZajJH1o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:12 | 2025-12-04 | 2026-10-07 |
 | [Merry Christmas](https://open.spotify.com/track/2EfOo7QkJu69cxRTZLvgaZ) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Merry Christmas](https://open.spotify.com/album/6VpaWGxgxBNrU5WBfKPUfM) | 2:42 | 2022-12-16 | 2023-10-28 |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2021-12-17 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The King of Soul](https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs) | 2:35 | 2023-10-27 | 2025-12-05 |
@@ -187,6 +187,7 @@
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-12-17 | 2025-12-05 |
 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 | 2023-10-27 |  |
 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 | 2023-10-27 |  |
+| [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 | 2025-12-04 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-17 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2021-12-17 | 2024-04-19 |
 | [Underneath the Tree](https://open.spotify.com/track/4R9DGZjme5DCgHlmLvXYkQ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Songs](https://open.spotify.com/album/0EpoPC0mlAGna8H08tkXoI) | 3:49 | 2022-10-28 | 2022-11-14 |

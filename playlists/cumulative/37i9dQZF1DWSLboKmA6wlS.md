@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: jesda\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: The Young Wolf\. Artwork: Isu Kim
 
-2,700 songs - 7 day 1 hr 23 min
+2,701 songs - 7 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Tell Me Moon](https://open.spotify.com/track/1vTnzA7PVfr4GG62cvTAy4) | [Okomo P](https://open.spotify.com/artist/71wrDZRYadma6qaodkVHev) | [Tell Me Moon](https://open.spotify.com/album/2kHHOGhg3nC4LawypsYdqC) | 4:24 | 2025-02-20 | 2025-02-28 |
 | [Textrovert](https://open.spotify.com/track/0P34kEEnYyldcHJNsZu9oT) | [JJPERR](https://open.spotify.com/artist/47FXfjKh07G2XnEqBLh0z1) | [Textrovert](https://open.spotify.com/album/0LmERz0Y3J2DhGUtoIP9sw) | 3:48 | 2023-11-17 | 2024-01-13 |
 | [Thank You Kateyki \(lalala\)](https://open.spotify.com/track/5uKashKF11mn718cnzUPo3) | [Aon Somrutai](https://open.spotify.com/artist/7B2N5R9hjnoyG4NSRWSAdP) | [Thank You Kateyki \(lalala\)](https://open.spotify.com/album/6miRs0jGFABZpoArJtMkZZ) | 3:09 | 2025-02-14 | 2025-02-28 |
+| [The Ace \(of spades\)](https://open.spotify.com/track/5aI5AHEAxVSRYSkKh1ihx9) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [The Dead Man's Hand](https://open.spotify.com/album/2W8UlHxDfat0iea73Z9lmo) | 4:21 | 2026-10-06 |  |
 | [The Last Star \(ดาวดวงสุดท้าย\)](https://open.spotify.com/track/2DYQ8faFjPufVeYl2F9uoQ) | [4\-FILL](https://open.spotify.com/artist/6zZpzFnnHT8hMLKdvGJFYe), [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [The Last Star \(ดาวดวงสุดท้าย\)](https://open.spotify.com/album/6N0VgpNFUiYYKVoGMcY34v) | 3:29 | 2024-01-05 | 2024-01-13 |
 | [TikTok Girl](https://open.spotify.com/track/2w8Zrz96QEp1U2IDryJgPR) | [TONHON](https://open.spotify.com/artist/4oWLiDNUCS097Cef0sfLN1) | [TikTok Girl](https://open.spotify.com/album/2aBxQANf65d6llmxEUYNjy) | 2:58 | 2023-09-29 | 2023-10-07 |
 | [TIME MACHINE](https://open.spotify.com/track/3oMgDz84kGhpmoNZGLq7Dz) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [TIME MACHINE](https://open.spotify.com/album/5r8CqHiE5zvNKOSG3ki88I) | 3:06 | 2024-05-31 | 2024-07-02 |
@@ -2271,7 +2272,7 @@
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-05-17 | 2024-06-01 |
 | [เมื่อวันอังคารที่แล้ว \(Last Tuesday\)](https://open.spotify.com/track/4bIbv944DHGptnaUd3iOch) | [SAREENA](https://open.spotify.com/artist/2LPrJoFmgy4F3Lcd1kzycT) | [Last Tuesday Story](https://open.spotify.com/album/2EIJ6ysuyJ3jNBnqBXxbx7) | 3:05 | 2025-06-19 | 2025-07-25 |
 | [เมื่อวาน \(If I had Known\)](https://open.spotify.com/track/2VPUfsbOeLjkStCVHU297T) | [Pitcha](https://open.spotify.com/artist/1zGfyVesOudcNkU3oMeVtU) | [เมื่อวาน \(If I had Known\)](https://open.spotify.com/album/2LN5WvM0nMvbcQkEPxVrnV) | 4:04 | 2024-10-11 | 2024-11-09 |
-| [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 | 2026-06-24 |  |
+| [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 | 2026-06-24 | 2026-10-07 |
 | [เมื่อสายไป \(Too Late\)](https://open.spotify.com/track/50ly42q5tSJKrg8PeVrM2x) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เมื่อสายไป \(Too Late\)](https://open.spotify.com/album/2vbLYQcRuMpIYVhit6r61J) | 4:51 | 2023-10-20 | 2023-11-09 |
 | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/track/3EwfaOLNINnYtkl1LBATjW) | [Alarm9](https://open.spotify.com/artist/1CVUCotEuE0NG4KiRGaYit) | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/album/47f9gn5eWnyfKPNJZWGT50) | 4:00 | 2025-04-03 | 2025-05-23 |
 | [เมื่อไม่มีเธอ](https://open.spotify.com/track/5LhAlOhkGcQK8OjPFSfCJ5) | [Paks](https://open.spotify.com/artist/2YV9gw9wdpbCZpBUI7ukDz) | [เมื่อไม่มีเธอ](https://open.spotify.com/album/61Z30nkN3TPVQFH4ZyEdRG) | 4:08 | 2024-04-19 | 2024-06-01 |

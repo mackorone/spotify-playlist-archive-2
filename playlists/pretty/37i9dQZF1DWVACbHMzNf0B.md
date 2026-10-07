@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Ricardo Arjona, Grupo Firme en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,421 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,521 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 21 | [OLIVIA LA FLAKA](https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [OLIVIA LA FLAKA](https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2) | 5:36 |
 | 22 | [Sera El Amor](https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde Estacion Corral Hasta Los Hornos Sonora](https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww) | 2:50 |
 | 23 | [Una vida juntos](https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:14 |
-| 24 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Castro](https://open.spotify.com/artist/3ypcczL3pVuYHO4MfQzVNh), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
+| 24 | [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Raúl](https://open.spotify.com/artist/6pj2OaALBI7L6Wtq6XNyGj), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 |
 | 25 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 |
 | 26 | [Amor Del Bueno \(con Alfredo Olivas\)](https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 4:22 |
 | 27 | [MIS LÁGRIMAS](https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [MIS LÁGRIMAS](https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Palm Springs \(feat\. Ovy On The Drums\)](https://open.spotify.com/track/0NHwue3JYhODro0rQYwCPd) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 3:14 |
 | 75 | [Ya No Hay Beatles \- En Vivo](https://open.spotify.com/track/4r1rVtg5MrVPTVt3iP1Gnj) | [Grupo La Chisspa](https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV) | [En Vivo ! Sobra ¡](https://open.spotify.com/album/3D8ALvbPY6fy7OOQ6Heolb) | 3:12 |
 
-Snapshot ID: `AAAAAFo0nYBw4cDO7Bs560rU8WOJ6uo/`
+Snapshot ID: `AAAAABb8J5hh/QBdCDDJmXVdX236Dzmv`

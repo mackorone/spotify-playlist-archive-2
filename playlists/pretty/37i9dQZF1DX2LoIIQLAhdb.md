@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : DAKEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,100 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,097 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Viens qu'on se fatigue](https://open.spotify.com/track/5kSiiAu3p9LsJnw7Fz4evF) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Viens qu'on se fatigue](https://open.spotify.com/album/3u7p4p6n2kLEzP4aP87rEv) | 3:22 |
 | 40 | [À Fleur De Peau](https://open.spotify.com/track/36nwb4DeKA4Y8IxXJYatTG) | [Naja Loan](https://open.spotify.com/artist/2e2q47WPgdJLjlWLRzsOD4) | [À Fleur De Peau](https://open.spotify.com/album/3mq0eIasK5shcMGGl1NGsH) | 2:25 |
 
-Snapshot ID: `AAAAAPTd8cXg5i+LClj70qVNU3ycOsuk`
+Snapshot ID: `AAAAACqVV+Sj4YCC5iUe6Y3bsa+RE2Yy`

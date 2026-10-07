@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: SETTEMBRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,720 likes - 98 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,716 likes - 98 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 97 | [PAROLE AL VENTO](https://open.spotify.com/track/1hH3NZI3u7ripOZDu4HPA1) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [PAROLE AL VENTO](https://open.spotify.com/album/4GUb7g0PDX2dBLGYVG96Oi) | 2:57 |
 | 98 | [GIORNATA DI MERDA](https://open.spotify.com/track/7MKhsszo9hqaPAPDbYHwEq) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [GIORNATA DI MERDA](https://open.spotify.com/album/5Rho41JX9XMVZdySXtuehm) | 2:21 |
 
-Snapshot ID: `AAAAABezKnnTGWvX/ganUEa19GPUBJC+`
+Snapshot ID: `AAAAAMCVCNND8wbSkOHmGDujHrqs2Ars`

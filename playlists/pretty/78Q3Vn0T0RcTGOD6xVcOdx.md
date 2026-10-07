@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 533 likes - 78 songs - 4 hr 50 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 533 likes - 79 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 76 | [Make It Right Tonight](https://open.spotify.com/track/2N6E9QHbKfUN4B2tRelFNQ) | [GIABY](https://open.spotify.com/artist/20co0JO6iFN5Xh4oKbA7Nv) | [Make It Right Tonight](https://open.spotify.com/album/6WKra06AdOGLWguPJIjsGM) | 3:44 |
 | 77 | [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 |
 | 78 | [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 |
+| 79 | [Presença](https://open.spotify.com/track/6NfoaNC3F12ucmVtiLoDV2) | [Moacir Sader](https://open.spotify.com/artist/4XnU7oi3AKqJwOrFY0Cd6w) | [Presença](https://open.spotify.com/album/5202vgV2cGnn2Ih8xcxt89) | 4:56 |
 
-Snapshot ID: `AAACYCRyOSqwm4KdeXEqluXjLsgMSBKU`
+Snapshot ID: `AAACYSdqRXZt91hbI+T90b6uGxCPUXTO`

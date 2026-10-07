@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,197 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,176 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [After the Curtain](https://open.spotify.com/track/1qMNSTLsr12MLhUq0s6oZX) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [After the Curtain](https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7) | 3:06 |
 | 50 | [Would you?](https://open.spotify.com/track/6jWfqmdlDf0aVIW8vT9E0C) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Would you?](https://open.spotify.com/album/5cRbXO3l10xT8eiiSmrWgL) | 2:46 |
 
-Snapshot ID: `AAAAAFk4J/DWCvzhXDzEaowOrrum3H5I`
+Snapshot ID: `AAAAAPWGGKtK51SMonQ+ADdd4mh9iidp`

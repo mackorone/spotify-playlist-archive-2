@@ -4,7 +4,7 @@
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-325 songs - 15 hr 32 min
+326 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Rain Prayer](https://open.spotify.com/track/0KDGpRp7Zl1OEEmmwyxjbU) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Rain Prayer](https://open.spotify.com/album/3CRIJMs11ENdGlDDCIgZof) | 2:42 | 2024-01-25 | 2025-02-19 |
 | [Rain Song](https://open.spotify.com/track/1SEvWvVTTJZ3adH7QYv5hB) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Rain Song](https://open.spotify.com/album/0CaejyGZLxOtoMwfZq7MZ0) | 2:34 | 2024-07-18 | 2024-09-07 |
 | [Raindrop Prayer](https://open.spotify.com/track/3lYPgg6r6YodM83wxxKUln) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Raindrop Prayer](https://open.spotify.com/album/6nfmM3nUxDfcza9gRRKvuI) | 2:51 | 2024-03-20 | 2026-02-27 |
+| [Rained In](https://open.spotify.com/track/7vbz1y8vPInKCEOwlLAVCD) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [Rained In](https://open.spotify.com/album/7jsDY0RaUfYztjvDKCDmyf) | 2:37 | 2026-10-06 |  |
 | [Rainfall](https://open.spotify.com/track/1JijyH27FEgUfQI6VJ39hQ) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Rainfall](https://open.spotify.com/album/5doTmyH5erYnc3GMQwZVgX) | 2:31 | 2023-09-28 | 2023-10-10 |
 | [Raining 528 Hz](https://open.spotify.com/track/6tfXf057OK4KnvtgLJTCcS) | [Gilbert Frost](https://open.spotify.com/artist/2uyHDj3s1k5eEG46b0pj3h) | [Raining 528 Hz](https://open.spotify.com/album/0H020aSL40KeGimZNKeeN7) | 2:37 | 2024-04-01 |  |
 | [Raining Stars](https://open.spotify.com/track/6P0X2zwmhyEHDAOM1i36Zq) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Raining Stars](https://open.spotify.com/album/0jcX6O8NchXVLxrwyjP3Dt) | 3:28 | 2023-10-20 | 2026-02-19 |

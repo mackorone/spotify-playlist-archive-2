@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,878 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,875 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [3 Years](https://open.spotify.com/track/57crF4v0kiQwuQncA0URHG) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [3 Years](https://open.spotify.com/album/6s4BKFBX7tyF3nsW0UTeQn) | 3:13 |
 | 100 | [Serial Kisser](https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Serial Kisser](https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6) | 2:46 |
 
-Snapshot ID: `AAAAACaohu6MIVuakVgBpKLH2KNISkLZ`
+Snapshot ID: `AAAAAP1UQ+qg1d2DDh8Db+Y4v3f1tFOr`

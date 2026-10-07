@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,425 likes - 132 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,428 likes - 132 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 61 | [33 Miniatures for Piano \(Excerpts\): No\. 22, Grazioso](https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Memories from Home](https://open.spotify.com/album/38ZYEkGiDnTszDhMYDUUix) | 1:12 |
 | 62 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/6DjJASpNIqqEABN4geePv0) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Althea Waites](https://open.spotify.com/artist/5cFDIXZI13ESqS25ixveDv) | [Piano Recital: Waites, Althea \- Price, F.B\. / Still, W.G\. / Bland, E.](https://open.spotify.com/album/3QTA3qI6hBkrcWhO6BawKG) | 4:21 |
 | 63 | [In Retrospect](https://open.spotify.com/track/01yKVn4gVNu3pKrDiFzIdT) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [In Retrospect](https://open.spotify.com/album/013HlaUbtTEYInYdESDJIi) | 2:07 |
-| 64 | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/track/0kRB0hhG9KYXiokmqZehwn) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Cinema](https://open.spotify.com/album/243oDF9ZIj87IaQp8duXzR) | 3:42 |
+| 64 | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/track/0kRB0hhG9KYXiokmqZehwn) | [Ennio Morricone](https://open.spotify.com/artist/1MnznL7sONes2ImA22WiaP), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Cinema](https://open.spotify.com/album/243oDF9ZIj87IaQp8duXzR) | 3:42 |
 | 65 | [Homebound](https://open.spotify.com/track/1YC73UseIZ9AjZ3bkh7YoM) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [DAWN](https://open.spotify.com/album/3AIuVXMYIVziYMYM7UxW2h) | 2:02 |
 | 66 | [The Firebird, K10: X\. Round Dance of the Princesses](https://open.spotify.com/track/6oVBLpHQIR1pSwgBjMOFkO) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: L'Oiseau de feu \(1911 Version\): X\. Khorovod \(Ronde\) des princesses](https://open.spotify.com/album/7EnZm1nR8zwrm3lUSKmmbU) | 4:42 |
 | 67 | [Keyboard Sonata in F Minor, Kk\. 466 \- Upright Version](https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin – Scarlatti: Singles \(Pt\. 2\)](https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI) | 3:57 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 131 | [Le Musicien](https://open.spotify.com/track/0p7eGj7iQWV2471jXeMyit) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e) | 3:31 |
 | 132 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/4us41JLDICJX3YWZgz9Whp) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/0OrXtJZAvSnqEu6jKw2bE8) | 2:57 |
 
-Snapshot ID: `AAAAALw9IUeQO9fH48IyXfsB641JzxZK`
+Snapshot ID: `AAAAAOXbisCWTAFemDIcgA9X0sySoZM8`

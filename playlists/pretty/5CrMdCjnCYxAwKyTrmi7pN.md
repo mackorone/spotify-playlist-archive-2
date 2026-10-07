@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,540 likes - 76 songs - 4 hr 22 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,533 likes - 76 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

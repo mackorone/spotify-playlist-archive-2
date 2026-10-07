@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,252 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,349 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 45 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
 | 46 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 47 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
-| 48 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
-| 49 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
-| 50 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 48 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 49 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 50 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 51 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
 | 52 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
 | 53 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Pai](https://open.spotify.com/track/5sUvzMn02TghrI6ntFV24w) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Diamante Vol\. 1](https://open.spotify.com/album/69sjIPFx42Mxq5kZyutgSn) | 5:28 |
 | 70 | [Tempo de Vencer \(All The Man That I Need \)](https://open.spotify.com/track/0aNQmlnj981Lwkj7Htvgic) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex), [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Tempo de Vencer](https://open.spotify.com/album/20E5gzYNHIzwwFIMZAHSxR) | 3:57 |
 
-Snapshot ID: `AAAAAEahh+2BTdeR8Rfw7SiwZop/xqqW`
+Snapshot ID: `AAAAACPcm7ippNue+JtFXWCTiTFmGFdT`

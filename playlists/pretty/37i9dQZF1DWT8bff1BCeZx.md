@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,971 likes - 110 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,981 likes - 110 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 109 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 |
 | 110 | [Blessings](https://open.spotify.com/track/3RpKqwrluaAhKtjDCT6xOG) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [Blessings](https://open.spotify.com/album/1ergOEUgLEmFvho9hxMu0W) | 2:45 |
 
-Snapshot ID: `AAAAAFF6XVEPsEVe8ILSme4BMyiq8Z7r`
+Snapshot ID: `AAAAAIWhqwqcZK2WKEl5UBL9jS8o1wrr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,232 likes - 424 songs - 21 hr 54 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,231 likes - 424 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -372,7 +372,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 362 | [locked in](https://open.spotify.com/track/00pg5cHgRt9nkst3hyLj6P) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [Meowmiggons](https://open.spotify.com/artist/4NYfkUCuzkwDJk4PJl8Tub) | [locked in](https://open.spotify.com/album/1gAAa5uaTfGGyDcFwNVUgD) | 3:04 |
 | 363 | [long\_time.MP4](https://open.spotify.com/track/5AKjpH0izAn7ZRK38LUiAR) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [zerofault](https://open.spotify.com/artist/6xMJqWd8jHp0Sos80wQlQc) | [long\_time.MP4](https://open.spotify.com/album/2D2bxVuPyflihXmnDerYUN) | 2:04 |
 | 364 | [ANTONYMPH](https://open.spotify.com/track/6wmn9nN4of6GOnJ15qWfjU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:02 |
-| 365 | [talk my shit](https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [h i d a m a](https://open.spotify.com/artist/4hwdD8J5z3iLG7uSg3w6sw) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 3:25 |
+| 365 | [talk my shit](https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [h i d a m a](https://open.spotify.com/artist/5sRXq9w0O0h6EkuyYSMo2v) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 3:25 |
 | 366 | [ALL BITE NO BARK!](https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Dea\_Pressed](https://open.spotify.com/artist/5ANlNfJIQ5OV4MZqe1WTFt) | [ALL BITE NO BARK!](https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats) | 1:39 |
 | 367 | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/track/766wyP4PUBQFbDi8OUrCfM) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/album/24DMxLAjxbShCcn9PZYvpC) | 2:19 |
 | 368 | [south](https://open.spotify.com/track/0RGO0OK4kV9bKviTFjcllk) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [south](https://open.spotify.com/album/2F7xWlv89FfERq4uTBiACU) | 1:25 |

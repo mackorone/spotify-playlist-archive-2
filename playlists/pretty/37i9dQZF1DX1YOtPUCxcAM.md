@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,007 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,033 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 9 | [Blow Your Brains Out](https://open.spotify.com/track/4xnCBaYumvPVj57y3G0wKt) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 4:58 |
 | 10 | [Soul Flower \(feat\. The Pharcyde\)](https://open.spotify.com/track/4r3c2ZJoMQ2zZl5YmOZTGp) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Heavy Rhyme Experience Vol\. 1](https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt) | 3:41 |
 | 11 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 |
-| 12 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 |
+| 12 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Blu James](https://open.spotify.com/artist/7al6k3rnK5Nx516gKPl6Gw) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 |
 | 13 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 14 | [Sax\-A\-Go\-Go](https://open.spotify.com/track/070bDNenZlWcjzZGAc2npp) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Sax\-A\-Go\-Go](https://open.spotify.com/album/1gdzBI9P2aNqCDVLHVVdZ0) | 4:54 |
 | 15 | [Feelin' Alright](https://open.spotify.com/track/493nyrfKMzxeYhZHa1RsAS) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Done By The Forces Of Nature](https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V) | 3:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 101 | [Throw Your Hands Up \- Treach Version](https://open.spotify.com/track/5AQXqGCGr4AIKsWDMv18YB) | [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [I Am L.V.](https://open.spotify.com/album/0ul5KNzHUj1BIIaJPsiKgT) | 3:50 |
 | 102 | [Short but Funky](https://open.spotify.com/track/6wgHXUrJziEmONrs4kioJe) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 4:13 |
 
-Snapshot ID: `AAAAAEZFsSsLuKLkzvQi8csxzM6ecjp6`
+Snapshot ID: `AAAAABYkVgBPPoIeq23Gg71mk4YLyvJz`

@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Inner Sun",
+        "url": "https://open.spotify.com/album/3LbZ2rwV1HC4grCSHgp2Wv"
+      },
+      "artists": [
+        {
+          "name": "Koroan",
+          "url": "https://open.spotify.com/artist/2ZiQmEObZQrqrEZuibyqFD"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137777,
+      "name": "Inner Sun",
+      "url": "https://open.spotify.com/track/78uY1a1m6646hmA9oBWS11"
+    },
+    {
+      "album": {
         "name": "Insightful",
         "url": "https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH"
       },
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196000,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP"

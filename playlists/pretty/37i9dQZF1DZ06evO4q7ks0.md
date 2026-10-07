@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,722 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,765 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 45 | [Never Grow Old](https://open.spotify.com/track/63EbxkWfYDEe428SMvzW5g) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 2:35 |
 | 46 | [So Cold In Ireland](https://open.spotify.com/track/4Hfdrh3dcLj32wPpWfV0yM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:44 |
 | 47 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
-| 48 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
-| 49 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
+| 48 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
+| 49 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
 | 50 | [Dying Inside](https://open.spotify.com/track/71yv2oUlDswarpajuXlw5O) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/592j1syleeHJWGP5a4kYPm) | 3:10 |
 
-Snapshot ID: `asGXAAAAAADroOfQB1g79ShMreeepB+J`
+Snapshot ID: `asLogAAAAACnMQ8o9wglYr4QK9NmRPKp`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:1vK8NnrPlBlF34LaiFX1SK\">Funk Tribu</a>'s favorite tracks. Updated regularly. Curated by Funk Tribu. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 18371,
+  "num_followers": 18385,
   "original_name": "Funk Tribu's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACX+sDu4HUygSuatPl3WVyDwtEFu",
+  "snapshot_id": "AAAAADYjHv7j2uZ0J+u6WY3ptSdHz1TC",
   "tracks": [
     {
       "added_at": "2026-08-21 15:09:01",
@@ -291,7 +291,7 @@
     {
       "added_at": "2026-08-21 15:09:01",
       "album": {
-        "name": "Some Love (Radio Edit)",
+        "name": "Some Love",
         "url": "https://open.spotify.com/album/6Lz1K2ILGmvRAwMzZzE6qm"
       },
       "artists": [
@@ -301,7 +301,7 @@
         }
       ],
       "duration_ms": 213129,
-      "name": "Some Love - Radio Edit",
+      "name": "Some Love",
       "url": "https://open.spotify.com/track/3wCMlY6zSW2a678kuPUau2"
     },
     {

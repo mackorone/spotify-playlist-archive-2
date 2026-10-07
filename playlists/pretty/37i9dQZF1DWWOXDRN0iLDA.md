@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,392 likes - 89 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,399 likes - 89 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 88 | [Ängen](https://open.spotify.com/track/5VgHUWF00Ssel5mUI161X2) | [Stillwatr](https://open.spotify.com/artist/7m7bWDMCGzyiuxHeMPJ5vD) | [Ängen](https://open.spotify.com/album/5RUkz0t2KTW1Esn4eFQ3Pi) | 2:18 |
 | 89 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
 
-Snapshot ID: `AAAAAF1FTD+ru6/a1kGskS9V7SesWaED`
+Snapshot ID: `AAAAAMyZasIiviNILiFcOeqm/fhcf+tQ`

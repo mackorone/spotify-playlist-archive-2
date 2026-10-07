@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 207991,
       "name": "Billets Mauves (feat. SDM)",
       "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
@@ -4274,7 +4274,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 180855,
       "name": "DEVANT LA MER",
       "url": "https://open.spotify.com/track/5ued3TFeQe30wBA0NCsiIF"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 205769,
       "name": "Distortions",
       "url": "https://open.spotify.com/track/0MwjWDAmrj4CKw70d5vM9t"
@@ -5688,6 +5688,24 @@
       "duration_ms": 128976,
       "name": "Freestyle Session #1",
       "url": "https://open.spotify.com/track/4h54J2q0MEVu7rTSznNNsN"
+    },
+    {
+      "album": {
+        "name": "FRENCH CONNEXION, Pt.3",
+        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "FRENCH CONNEXION, Pt.3",
+      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
     },
     {
       "album": {
@@ -10024,7 +10042,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "MURDER #4",
       "url": "https://open.spotify.com/track/1XoMvAcsQprKifICAMmae3"
@@ -11116,7 +11134,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 227356,
       "name": "PALE ANPIL",
       "url": "https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f"

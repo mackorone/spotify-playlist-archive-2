@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Delivery
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,508 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,982 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Heat](https://open.spotify.com/track/1nDlFgDg3b4kYGWr8wEaUV) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 8:18 |
 | 75 | [Get Up and Dance](https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Get Up and Dance](https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn) | 4:21 |
 
-Snapshot ID: `AAAAAPRcVo0re9cHHTCHHcaLweuVjGWF`
+Snapshot ID: `AAAAANdI8FO2sK9eF3UIwPe/fNpPpxyQ`

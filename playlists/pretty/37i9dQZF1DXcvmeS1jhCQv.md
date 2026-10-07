@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: SOAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,646 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,656 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 | 100 | [Girlfriend](https://open.spotify.com/track/6D468N32hOm1CnQaYRCIyx) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Girlfriend](https://open.spotify.com/album/2ifLsTNcpLHakw8wYQPd3A) | 3:00 |
 
-Snapshot ID: `AAAAAJEbp2yJEvlU9obvw9okdOfNHULN`
+Snapshot ID: `AAAAAJrvOWN7yRWzk2fofNxoOdCZKrkh`

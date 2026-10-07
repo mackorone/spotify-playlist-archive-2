@@ -939,6 +939,32 @@
     },
     {
       "album": {
+        "name": "RENGANEK",
+        "url": "https://open.spotify.com/album/6Wwa5xQn4lDZJaaovWuYGw"
+      },
+      "artists": [
+        {
+          "name": "Renga Nek",
+          "url": "https://open.spotify.com/artist/17bIH0Lk8uD4mqjyHqmfb2"
+        },
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        },
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191302,
+      "name": "Faro",
+      "url": "https://open.spotify.com/track/5NaLDZsRZthCHaU1C9qIqG"
+    },
+    {
+      "album": {
         "name": "Far\u00f2 Pi\u00f9 Rumore Del Ratatata",
         "url": "https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO"
       },

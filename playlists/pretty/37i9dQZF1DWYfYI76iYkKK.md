@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,577 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,588 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 6 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
 | 7 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:48 |
 | 8 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
-| 9 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
-| 10 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
+| 9 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
+| 10 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
 | 11 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
 | 12 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
 | 13 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 18 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
 | 19 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 20 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 |
-| 21 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
-| 22 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
+| 21 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
+| 22 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 23 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 24 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 |
 | 25 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 46 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 47 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 48 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
-| 49 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 |
-| 50 | [你說話的聲音好細](https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [你說話的聲音好細](https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17) | 5:14 |
+| 49 | [你說話的聲音好細](https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [你說話的聲音好細](https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17) | 5:14 |
+| 50 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 |
 
-Snapshot ID: `AAAAAGIkQWACtT8c+Yb1Y/uRTgjd/st8`
+Snapshot ID: `AAAAAFg9dMXlisIS/84FumruR9dogObj`

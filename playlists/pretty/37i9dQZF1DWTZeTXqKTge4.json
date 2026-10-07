@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Tel Kel",
-  "num_followers": 89621,
+  "num_followers": 89618,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH62BBA58Pn0dXh0QMFSkqZGw0DU",
+  "snapshot_id": "AAAAAD7GV3yEv/j/4Cmc94RhQifZ0Q9K",
   "tracks": [
     {
       "added_at": "2026-10-02 04:03:48",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
+        "name": "Berger",
+        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 126139,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ"
+    },
+    {
+      "added_at": "2026-10-02 04:03:48",
+      "album": {
         "name": "PIKET",
         "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 207915,
       "name": "PIKET",
       "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
-    },
-    {
-      "added_at": "2026-10-02 04:03:48",
-      "album": {
-        "name": "Berger",
-        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 126139,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ"
     },
     {
       "added_at": "2026-10-02 04:03:48",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 183952,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
+    },
+    {
+      "added_at": "2026-10-02 04:03:48",
+      "album": {
         "name": "SEPT ANS DE MALHEUR (titre temporaire)",
         "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 245950,
       "name": "SEPT ANS DE MALHEUR (titre permanent)",
       "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
-    },
-    {
-      "added_at": "2026-10-02 04:03:48",
-      "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 183952,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
     },
     {
       "added_at": "2026-10-02 04:03:48",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
-        "name": "Take the time",
-        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
-      },
-      "artists": [
-        {
-          "name": "Muhoza",
-          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
-        },
-        {
-          "name": "Carson",
-          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Take the time",
-      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
-    },
-    {
-      "added_at": "2026-10-02 04:03:48",
-      "album": {
         "name": "Tel Kel X Boutot",
         "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 246951,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx"
+    },
+    {
+      "added_at": "2026-10-02 04:03:48",
+      "album": {
+        "name": "Take the time",
+        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
+      },
+      "artists": [
+        {
+          "name": "Muhoza",
+          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+        },
+        {
+          "name": "Carson",
+          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Take the time",
+      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
     },
     {
       "added_at": "2026-10-02 04:03:48",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2026-10-02 04:03:48",
       "album": {
-        "name": "Tehfouf",
-        "url": "https://open.spotify.com/album/70DTqN5rPBB9ICMf0LkWa5"
+        "name": "Laisse nous",
+        "url": "https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF"
       },
       "artists": [
         {
-          "name": "Jula\u00ef",
-          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+          "name": "Boutot",
+          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
         }
       ],
-      "duration_ms": 148351,
-      "name": "Tehfouf",
-      "url": "https://open.spotify.com/track/1C1d6BPQ9ILd6fSgRtcQrV"
+      "duration_ms": 168000,
+      "name": "Laisse nous",
+      "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

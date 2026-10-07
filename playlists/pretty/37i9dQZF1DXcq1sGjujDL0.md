@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,622 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,633 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 46 | [A Wink and a Smile](https://open.spotify.com/track/5XMJBKj01EU7asjQCAlYhu) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Sleepless In Seattle: Original Motion Picture Soundtrack](https://open.spotify.com/album/3Qz4L6mtgnRBU6UPihqEan) | 2:46 |
 | 47 | [Waiting for Your Love](https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:12 |
 | 48 | [Inspiration Information](https://open.spotify.com/track/6qH6xP8tzxvZlCcmHit4AL) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [INSPIRATION INFORMATION](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF) | 4:12 |
-| 49 | [Nothing Without Love](https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 3:56 |
-| 50 | [Right To Be Wrong](https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:40 |
+| 49 | [Right To Be Wrong](https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:40 |
+| 50 | [Nothing Without Love](https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 3:56 |
 | 51 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:08 |
 | 52 | [I'll Be There \(feat\. Nile Rodgers\) \- Single Version](https://open.spotify.com/track/6xKmaLfne8mU7DYcqvCtSB) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [I'll Be There \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6H6yQWiRb6Rm2JfBK7C7nB) | 3:37 |
 | 53 | [If You Want Me to Stay](https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Life, Love & The Blues](https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm) | 5:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 59 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
 | 60 | [Frim Fram Sauce](https://open.spotify.com/track/5CPMSCcWKvVt5TV63Jw8bp) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Very Best Of Diana Krall](https://open.spotify.com/album/1tv8v6dIknJrDN2tZYJygI) | 5:00 |
 
-Snapshot ID: `AAAAAIe7LyIbWUSmCgt2A4N3IzZFWC3h`
+Snapshot ID: `AAAAALdjw3oK8MKVuGZRgfNhm39wjJhU`

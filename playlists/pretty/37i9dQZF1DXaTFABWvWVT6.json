@@ -1,12 +1,12 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90324,
+  "num_followers": 90326,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJhSB+8Hg4B43JEquiY7QuUo7Gmp",
+  "snapshot_id": "AAAAAEm+Zm/+3qY01hP4q+eeZMZauFeC",
   "tracks": [
     {
       "added_at": "2026-10-02 10:12:09",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "We Do What We Want (Edit)",
-        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We Do What We Want - Edit",
-      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "Holding You Back",
+        "url": "https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT"
+      },
+      "artists": [
+        {
+          "name": "Vivace",
+          "url": "https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt"
+        },
+        {
+          "name": "Gusta",
+          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
+        },
+        {
+          "name": "K.ONE",
+          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Holding You Back",
+      "url": "https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Club Rompas, Vol. 2",
         "url": "https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX"
       },
@@ -1559,30 +1583,6 @@
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "Holding You Back",
-        "url": "https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT"
-      },
-      "artists": [
-        {
-          "name": "Vivace",
-          "url": "https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt"
-        },
-        {
-          "name": "Gusta",
-          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
-        },
-        {
-          "name": "K.ONE",
-          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Holding You Back",
-      "url": "https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH"
     },
     {
       "added_at": "2026-10-02 10:12:09",

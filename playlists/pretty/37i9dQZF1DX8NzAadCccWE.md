@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,627 likes - 90 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,626 likes - 90 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 43 | [Rhythm of Auld \(feat\. J'Danna\)](https://open.spotify.com/track/3wCNc11otlghohrDHDaT6j) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG), [J’Danna](https://open.spotify.com/artist/26cxbdcg0dljeZYweE6bR4) | [Knockin' Boots](https://open.spotify.com/album/3Bv307Re0aS7JdkXrfh3N6) | 5:23 |
 | 44 | [R House](https://open.spotify.com/track/2ks58TaLOpNGc6ZAMdoZMt) | [DJ Rashad & DJ Manny](https://open.spotify.com/artist/1v5sWZpm4sCQy5bh1mE8AB) | [Ghettoteknitianz E.P.](https://open.spotify.com/album/5HqTWOz5YieNol73L66jIK) | 4:48 |
 | 45 | [Renegade Snares \- Foul Play Remix](https://open.spotify.com/track/4ec5PsABKbfsEQ5DCNYD8v) | [Omni Trio](https://open.spotify.com/artist/2lWfeg9pEv7nuCkZMbnhai), [Foul Play](https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8) | [Renegade Snares \(Foul Play Remix\) / Feel Good \(Original in Demand Mix\)](https://open.spotify.com/album/25a3TCi9ModLhnGqSQyJLe) | 6:09 |
-| 46 | [Red Alert \- Steve Gurley Mix](https://open.spotify.com/track/4ij8YroHm7qSeJmdXFnEwf) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Steve Gurley](https://open.spotify.com/artist/106TZcguPJXQECgwqAJpVG) | [Red Alert](https://open.spotify.com/album/5qc88L7cwBAEZj8SYjZXTb) | 5:31 |
+| 46 | [Red Alert \- Steve Gurley Mix](https://open.spotify.com/track/4ij8YroHm7qSeJmdXFnEwf) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Blu James](https://open.spotify.com/artist/7al6k3rnK5Nx516gKPl6Gw), [Steve Gurley](https://open.spotify.com/artist/106TZcguPJXQECgwqAJpVG) | [Red Alert](https://open.spotify.com/album/5qc88L7cwBAEZj8SYjZXTb) | 5:31 |
 | 47 | [Pineapple Crush](https://open.spotify.com/track/17PdTsY9iIpPKZvQxP2OLk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Pineapple Crush / Angel Brain](https://open.spotify.com/album/3VaHaXC6hGSHARwwANXxfL) | 5:26 |
 | 48 | [Open Your Mind \- Tango Remix](https://open.spotify.com/track/4B89NkWI45fvf5xvJYluk3) | [Foul Play](https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8), [Tango](https://open.spotify.com/artist/4oAQxaPghScvga50V4BhnZ) | [Open Your Mind \(Tango Remix\) / Open Your Mind \(Foul Play Remix\)](https://open.spotify.com/album/3U7C78SHVmqYDyzFVZzyIw) | 5:11 |
 | 49 | [The One](https://open.spotify.com/track/1NrBtYPrcZ5QxcFU7WOfva) | [Sepalcure](https://open.spotify.com/artist/2MPSxDniHj2BKV7GSSOFMA) | [Sepalcure](https://open.spotify.com/album/2CPlbYjUuko95fQ4krzzIB) | 5:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 89 | [Alright Wid Me](https://open.spotify.com/track/23uGz8o01ThulEQPZTLvM2) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents The Definition of Hardcore](https://open.spotify.com/album/0Ajwqb746Owv6ALnMWBiGI) | 4:53 |
 | 90 | [Ahora](https://open.spotify.com/track/05N1EV6Amcno97OdjtGhg4) | [2 In A Room](https://open.spotify.com/artist/2029eJThczywCgnjE33s33), [The Wepaman](https://open.spotify.com/artist/1bssoMlDIuqovvzzi6NN4q) | [World Party](https://open.spotify.com/album/2wxVC5gBh5KeTDRRo5iRQa) | 4:27 |
 
-Snapshot ID: `AAAAAND5EXoi9TAiNRYCxu53LJHLNJwO`
+Snapshot ID: `AAAAAGYUXFxW4N6F8aIB7XuDXRk4Hy/O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,795 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 66 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
 | 67 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 68 | [Regalo De Navidad](https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:33 |
-| 69 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
-| 70 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
-| 71 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
+| 69 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
+| 70 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
+| 71 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
 | 72 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
 | 73 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 |
 | 74 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 83 | [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 |
 | 84 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
 | 85 | [Campanas Navideñas](https://open.spotify.com/track/34UR0VBlJPPhTYzuGrYyXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:17 |
-| 86 | [Los Peces en el Río](https://open.spotify.com/track/2tanhbR7OE2KRuOqKp6WIP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
-| 87 | [Llego Navidad](https://open.spotify.com/track/4hqBRTQBM6WpKaUlpX5wtA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Llego Navidad](https://open.spotify.com/album/7pmgBUyaWtngkQ0qd5UUlg) | 3:24 |
+| 86 | [Llego Navidad](https://open.spotify.com/track/4hqBRTQBM6WpKaUlpX5wtA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Llego Navidad](https://open.spotify.com/album/7pmgBUyaWtngkQ0qd5UUlg) | 3:24 |
+| 87 | [Los Peces en el Río](https://open.spotify.com/track/2tanhbR7OE2KRuOqKp6WIP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 88 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
 | 89 | [Amarga Navidad](https://open.spotify.com/track/09o5v9lhDZjv10YTuq5HII) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Amarga Navidad](https://open.spotify.com/album/51cutxEJjhAElByk3K1I8X) | 3:13 |
-| 90 | [Cumbia Sampuesana](https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Puro Cumbion](https://open.spotify.com/album/3FCRggpb1Ea1uGWvqB7YGQ) | 3:51 |
-| 91 | [El Tucanazo](https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro\-Secuestro De Amor...Y Siguen Los Tucanes](https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr) | 2:54 |
+| 90 | [El Tucanazo](https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro\-Secuestro De Amor...Y Siguen Los Tucanes](https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr) | 2:54 |
+| 91 | [Cumbia Sampuesana](https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Puro Cumbion](https://open.spotify.com/album/3FCRggpb1Ea1uGWvqB7YGQ) | 3:51 |
 | 92 | [El Burrito de Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/6j7xchyjTYkdU3myJsQJGO) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Fiesta Navidad \- Noche de Paz, Navidad para Rockear, Cascabel, El Burrito de Belen y Mas](https://open.spotify.com/album/6vJ2sXHJAL2BYDl7lwLkNP) | 3:06 |
 | 93 | [El Colesterol](https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 2:23 |
 | 94 | [Mi Cuco](https://open.spotify.com/track/07zJA7QE7DUhaUlp3BfILO) | [Cumbias Viejitas](https://open.spotify.com/artist/7uZMoloUqYrmMFJbiu9DCV) | [Cumbias](https://open.spotify.com/album/41lOZhgjYvRshjBaIXz0G1) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 99 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 |
 | 100 | [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 |
 
-Snapshot ID: `AAAAANZMCsnOir1iUoB3aXa8FEmKBQZl`
+Snapshot ID: `AAAAABidYmi0issyKsSw8iSY3RevgBF8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Laudo
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,711 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,720 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 28 | [Self Respect](https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ) | [Mercury's in the Microwave](https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h) | [Lazerbeams of Love](https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT) | 3:24 |
 | 29 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
 | 30 | [ROER](https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8) | [ALTRA\-MAL](https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx) | [ROER](https://open.spotify.com/album/5xk1r1UIiF4WiDc6TuRzTr) | 3:56 |
-| 31 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 32 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
+| 31 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
+| 32 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 33 | [Ghost Girl](https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU) | [Crying in Colour](https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn) | [Ghost Girl](https://open.spotify.com/album/5ZcSNo605tBB2f00QQsK43) | 2:58 |
 | 34 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 35 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 | 50 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 
-Snapshot ID: `AAAAAJFnPbkiageW9pAJYXj23G2vLaql`
+Snapshot ID: `AAAAAJiiqj6FKBfBI70xMkwOZHA2Q82H`

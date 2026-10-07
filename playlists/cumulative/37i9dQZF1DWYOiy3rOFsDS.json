@@ -3917,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "LIBERTAD Y NOSTALGIA",
+        "url": "https://open.spotify.com/album/4BCuR9uLBvLSdL1jWL1g59"
+      },
+      "artists": [
+        {
+          "name": "LEAX",
+          "url": "https://open.spotify.com/artist/4VJ3WkiexwjtitmRbNRsz0"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168167,
+      "name": "LIBERTAD Y NOSTALGIA",
+      "url": "https://open.spotify.com/track/1Ki8tpcdZRD3mckvrtH3yj"
+    },
+    {
+      "album": {
         "name": "Lo Hice, Te Dej\u00e9",
         "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
       },
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 209473,
       "name": "Mi Dolor Un Arte",
       "url": "https://open.spotify.com/track/5rTobNqWGcnDzSbiPWuFRW"

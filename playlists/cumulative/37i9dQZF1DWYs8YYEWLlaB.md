@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Ahiyan
+> viral, trend ve yükselenler\. Kapak: KARM6
 
 327 songs - 16 hr 30 min
 

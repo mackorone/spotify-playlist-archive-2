@@ -1,6 +1,6 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 201908,
+  "num_followers": 202011,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Suerte",
-        "url": "https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 234591,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Pagar Renta",
         "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 202443,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Suerte",
+        "url": "https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 234591,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
+        "name": "El Cuadros (Live)",
+        "url": "https://open.spotify.com/album/4KupvBAM1H8vyTn8jDnBlg"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ"
+      "duration_ms": 247000,
+      "name": "El Cuadros (Live)",
+      "url": "https://open.spotify.com/track/53dI1nKPKxtMmS7jwQe3Z2"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cuadros (Live)",
-        "url": "https://open.spotify.com/album/4KupvBAM1H8vyTn8jDnBlg"
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 247000,
-      "name": "El Cuadros (Live)",
-      "url": "https://open.spotify.com/track/53dI1nKPKxtMmS7jwQe3Z2"
+      "duration_ms": 285093,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Joven Bragado",
+      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Joven Bragado",
-      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pocho (En Vivo)",
-        "url": "https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "El Pocho - En Vivo",
-      "url": "https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj"
     },
     {
       "added_at": null,

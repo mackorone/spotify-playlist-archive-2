@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Ivo Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,980 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,961 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Meer](https://open.spotify.com/track/2G40wtkEKNzDiXocNvDTYH) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Meer](https://open.spotify.com/album/6chyOsCuSWxPJonQfCkprp) | 3:02 |
 | 75 | [crocodile tears](https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [crocodile tears](https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o) | 2:50 |
 
-Snapshot ID: `AAAAAGou2tPwtd9EdXjH27doBqzVc8kA`
+Snapshot ID: `AAAAAL3/4ikGEumiDY0Yq+gfv2r5cRZ6`

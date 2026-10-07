@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,458 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,461 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 18 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
 | 19 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
 | 20 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
-| 21 | [Gimidi](https://open.spotify.com/track/6wX0Jmo6ojeMXhFNTrzYuH) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Gimidi](https://open.spotify.com/album/3FDRHQZ14TUixAZwwYLQXP) | 2:34 |
-| 22 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
+| 21 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
+| 22 | [Gimidi](https://open.spotify.com/track/6wX0Jmo6ojeMXhFNTrzYuH) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Gimidi](https://open.spotify.com/album/3FDRHQZ14TUixAZwwYLQXP) | 2:34 |
 | 23 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
 | 24 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 25 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 46 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 |
 | 47 | [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 |
 | 48 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |
-| 49 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
-| 50 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
+| 49 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
+| 50 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
 | 51 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
-| 52 | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/track/2AfAXREccYROY8IdG789VC) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9) | 3:00 |
-| 53 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
+| 52 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
+| 53 | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/track/2AfAXREccYROY8IdG789VC) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9) | 3:00 |
 | 54 | [TE LO ADVERTÍ](https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3) | [Dos Rayos](https://open.spotify.com/artist/6oW8mrGWf9Hy3Q5sFr71Pc), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [TE LO ADVERTÍ](https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK) | 3:19 |
 | 55 | [Me Enamoró](https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Me Enamoró](https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf) | 2:34 |
 | 56 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 89 | [Juguito de Mañana](https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Juguito de Mañana](https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW) | 3:42 |
 | 90 | [Porrito y a Dormir](https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG) | 3:18 |
 
-Snapshot ID: `AAAAAAFOmdN19nkciddDvOGJU1W43xGI`
+Snapshot ID: `AAAAAB7agC/XacnpjpdFeTYN0RA4EVQc`

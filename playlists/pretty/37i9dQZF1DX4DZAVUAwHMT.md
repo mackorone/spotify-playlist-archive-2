@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Cowboy Hunters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,434 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,358 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 28 | [Where The Goth Girls At?](https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Where The Goth Girls At?](https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP) | 3:28 |
 | 29 | [Hollywood On Fire](https://open.spotify.com/track/6Fx93FeykhviDh2kF0kY4r) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Monarch](https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU) | 3:37 |
 | 30 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 |
-| 31 | [TELL ME WHY \(feat\. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love\)](https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [JINX](https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk) | 3:35 |
+| 31 | [TELL ME WHY \- feat\. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love](https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [JINX](https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk) | 3:35 |
 | 32 | [Lovers To Enemies](https://open.spotify.com/track/5nQv9VFRM13HK3058fGKQw) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Lovers To Enemies](https://open.spotify.com/album/5ultElEonKrfporhFSq3uF) | 2:32 |
 | 33 | [Confidant](https://open.spotify.com/track/0wzYkzCLwEdjwllDxdyN7v) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Separation From The Animals](https://open.spotify.com/album/6U24SurpHgAPWckYEivKrs) | 3:24 |
 | 34 | [One Hot July](https://open.spotify.com/track/2fsgLcJElACDHoBcdKV4WL) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [One Hot July](https://open.spotify.com/album/1si6IlCtjcCIENtBLr9s84) | 5:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Juice A Jumbo Jet](https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Juice A Jumbo Jet](https://open.spotify.com/album/3MDvb0nm9ZuSTvNnFVmbnK) | 4:51 |
 | 80 | [Yeah I Guess](https://open.spotify.com/track/4WCHu8S9Ft3b5N5St0TSfr) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Yeah I Guess](https://open.spotify.com/album/0S7IG0zCJOtLSqHcKYAAL1) | 3:04 |
 
-Snapshot ID: `AAAAAMyRtyuk+emrShsilCdJgZiqawsc`
+Snapshot ID: `AAAAAEfR64KwtHLaSS7Wo6MnoNMpQJR1`

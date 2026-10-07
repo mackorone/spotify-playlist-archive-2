@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 226 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 806 likes - 226 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,16 +124,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 114 | [SAFE SPACE](https://open.spotify.com/track/1xwa32HgXQvkRxVTB2qP0U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:14 |
 | 115 | [Breath Away](https://open.spotify.com/track/6wpEKnAD0c7y4H2iAUrj4K) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:51 |
 | 116 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
-| 117 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
-| 118 | [Puerta del Sol](https://open.spotify.com/track/7wPAgA4sRARKeQE6LTcbOC) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:23 |
+| 117 | [Puerta del Sol](https://open.spotify.com/track/7wPAgA4sRARKeQE6LTcbOC) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:23 |
+| 118 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
 | 119 | [Port Pelegrí](https://open.spotify.com/track/22hH0aVWmxNW3clG1Dck8F) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
 | 120 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
 | 121 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 |
 | 122 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 |
 | 123 | [Morning Sex](https://open.spotify.com/track/4Vfs046cJ4foUV2mqB6vHU) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [iiiDrops](https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd) | 3:31 |
 | 124 | [Talk](https://open.spotify.com/track/3wXft3pfqMptVjxzEDi8be) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:37 |
-| 125 | [Waiting on You](https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:31 |
-| 126 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
+| 125 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
+| 126 | [Waiting on You](https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:31 |
 | 127 | [Dora](https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Dora](https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu) | 2:27 |
 | 128 | [Don't Matter](https://open.spotify.com/track/5v1QJxlh7mkNsq7fsUf5wV) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 2:56 |
 | 129 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 144 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
 | 145 | [I Want Mo \(with London On Da Track\)](https://open.spotify.com/track/4IFIvreLx7CxwT0iRmWZLD) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:06 |
 | 146 | [Hope You’re Happy \(feat\. EARTHGANG\)](https://open.spotify.com/track/54GIqRUit4ZG4vk5gj03Oj) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Young](https://open.spotify.com/album/4mED75Kkla92lMvxpCw4mX) | 3:48 |
-| 147 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
-| 148 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 147 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 148 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
 | 149 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
 | 150 | [Poses](https://open.spotify.com/track/3vbwaRt6B0Xtcw12TkJjlk) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
 | 151 | [Boy Bye](https://open.spotify.com/track/7hkG66i9EGLFPLlQuMd2U4) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 3:25 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 225 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 226 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AceKygAAAAA95L+/7dVxJ+UnAgsuJNmI`
+Snapshot ID: `AceQLgAAAACdheL8rC/0b7gG3yKbRoEu`

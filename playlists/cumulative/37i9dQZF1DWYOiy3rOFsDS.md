@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Valdo Rodríguez y Wuicho Kun en portada.
 
-444 songs - 1 day 1 hr 18 min
+445 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 | 2021-10-16 | 2022-07-25 |
 | [La Voz](https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Voz](https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S) | 3:21 | 2025-11-07 |  |
 | [La Última Noche \(feat\. Goyo\) \- En Vivo](https://open.spotify.com/track/1KufFlWwqD111AKQgCwJzp) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 3:01 | 2021-10-16 | 2022-07-23 |
+| [LIBERTAD Y NOSTALGIA](https://open.spotify.com/track/1Ki8tpcdZRD3mckvrtH3yj) | [LEAX](https://open.spotify.com/artist/4VJ3WkiexwjtitmRbNRsz0) | [LIBERTAD Y NOSTALGIA](https://open.spotify.com/album/4BCuR9uLBvLSdL1jWL1g59) | 2:48 | 2026-10-06 |  |
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2021-10-16 | 2024-09-14 |
 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 | 2024-10-25 |  |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 | 2021-10-16 | 2023-05-23 |
@@ -239,7 +240,7 @@
 | [Mi Alma Llorará](https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Sabor A Llanto](https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of) | 3:22 | 2026-05-29 |  |
 | [Mi Bendición](https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:08 | 2021-10-16 | 2024-04-20 |
 | [Mi Cielo](https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Mi Cielo](https://open.spotify.com/album/0GHRe1hmeLiFHbN4NegcXz) | 2:52 | 2023-09-08 | 2024-11-23 |
-| [Mi Dolor Un Arte](https://open.spotify.com/track/5rTobNqWGcnDzSbiPWuFRW) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Mi Dolor Un Arte](https://open.spotify.com/album/6VVK5cxMtdH1BECTeda9PP) | 3:29 | 2026-09-04 |  |
+| [Mi Dolor Un Arte](https://open.spotify.com/track/5rTobNqWGcnDzSbiPWuFRW) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Mi Dolor Un Arte](https://open.spotify.com/album/6VVK5cxMtdH1BECTeda9PP) | 3:29 | 2026-09-04 | 2026-10-07 |
 | [Mi Guitarra](https://open.spotify.com/track/2BnlapIGXEBnzCA04B5N9i) | [Javier Limón](https://open.spotify.com/artist/001TRduQniM6dsJbQpMsbJ), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Mi Guitarra](https://open.spotify.com/album/6579ZB0oLehl6odluHqPJW) | 3:37 | 2021-10-16 | 2022-07-26 |
 | [Mi Mejor Canción](https://open.spotify.com/track/0A2o0B7XNkvfFckJ6jFaki) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Mi Mejor Canción](https://open.spotify.com/album/6kfnfYiw9caZgtUH5v4IkQ) | 2:27 | 2021-10-16 | 2022-04-21 |
 | [Mil Vidas](https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Mil Vidas](https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz) | 2:16 | 2024-09-13 |  |

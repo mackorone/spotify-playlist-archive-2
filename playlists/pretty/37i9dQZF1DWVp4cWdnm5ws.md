@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,809 likes - 58 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,807 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 57 | [Tatlong Hiling](https://open.spotify.com/track/1q0l294XTsmggN3RqXAzwc) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Tatlong Hiling](https://open.spotify.com/album/1w4BO15BOKWYPZdGtVTADV) | 3:26 |
 | 58 | [MAN IN THE MERROR](https://open.spotify.com/track/1cvCRZIRrLWS4kFhcTnGRt) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [BACKSHOTS](https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT) | 2:52 |
 
-Snapshot ID: `AAAAAMGvJ9CHvA0/E7nQc5Nkcz0h0dt1`
+Snapshot ID: `AAAAAEySPtPXFPFoMACh8y1QDqnKr9S0`

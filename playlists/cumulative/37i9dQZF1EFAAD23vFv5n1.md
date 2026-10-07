@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 11 hr 22 min
+234 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Facile](https://open.spotify.com/track/7xs0gw660PtVVJqdkYyVtV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:40 | 2024-04-29 |  |
 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 | 2024-04-29 |  |
 | [Fare finta](https://open.spotify.com/track/0oxCfIael0av7V8JCucC7q) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/5IuN8Gt3WM27QXNhb6kenh) | 3:02 | 2025-07-04 |  |
+| [Faro](https://open.spotify.com/track/5NaLDZsRZthCHaU1C9qIqG) | [Renga Nek](https://open.spotify.com/artist/17bIH0Lk8uD4mqjyHqmfb2), [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2), [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [RENGANEK](https://open.spotify.com/album/6Wwa5xQn4lDZJaaovWuYGw) | 3:11 | 2026-10-06 |  |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2026-07-17 |  |
 | [Fede](https://open.spotify.com/track/2WYL6etkzaNnQUxvQ7KyYC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:42 | 2024-04-29 |  |
 | [FEMME FATALE](https://open.spotify.com/track/38meGgUo3fx6HRuBSzlKtx) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:25 | 2026-08-21 |  |

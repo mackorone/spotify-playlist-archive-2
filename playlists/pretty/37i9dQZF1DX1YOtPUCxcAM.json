@@ -1,12 +1,12 @@
 {
   "description": "The best and finest 90s Funk. Cover: The Brand New Heavies.",
-  "num_followers": 123007,
+  "num_followers": 123033,
   "original_name": "I Love My 90s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZFsSsLuKLkzvQi8csxzM6ecjp6",
+  "snapshot_id": "AAAAABYkVgBPPoIeq23Gg71mk4YLyvJz",
   "tracks": [
     {
       "added_at": "2020-12-01 11:29:25",
@@ -210,6 +210,10 @@
         {
           "name": "Basement Jaxx",
           "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Blu James",
+          "url": "https://open.spotify.com/artist/7al6k3rnK5Nx516gKPl6Gw"
         }
       ],
       "duration_ms": 218026,

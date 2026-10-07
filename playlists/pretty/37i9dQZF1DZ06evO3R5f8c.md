@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,869 likes - 48 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,906 likes - 48 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 17 | [I Know What's On Your Mind](https://open.spotify.com/track/70IaMEsiO8r9KWP79AYz3q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tortured Soul](https://open.spotify.com/artist/3C1iOOVTmPNAe3a1exn0LL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:16 |
 | 18 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
 | 19 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 |
-| 20 | [Come With Me \(feat\. Mque\)](https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me \(feat\. Mque\)](https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS) | 3:17 |
+| 20 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
 | 21 | [Keep Moving](https://open.spotify.com/track/0R1OKth6oLvhDDvjBoHxWW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:54 |
-| 22 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
+| 22 | [Come With Me \(feat\. Mque\)](https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me \(feat\. Mque\)](https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS) | 3:17 |
 | 23 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 7:42 |
 | 24 | [Muyè \(Black Coffee Remix\)](https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Sónar 25: An advanced music mixtape by Black Coffee](https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ) | 7:20 |
 | 25 | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf) | 4:10 |

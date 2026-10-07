@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-241 songs - 13 hr 36 min
+242 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/0A8SNVB9aIWEW3rm2OgwOB) | 4:35 | 2022-09-08 |  |
 | [Outro \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/31Xy58NK7jr4H05K28EzrH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 2:32 | 2022-09-08 |  |
 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 | 2022-09-08 |  |
+| [P.O](https://open.spotify.com/track/1QKfxpOED1lDW1Hrz4qWPb) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Likkle Jordee](https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB) | [e.t.d.s.](https://open.spotify.com/album/7j9Ytqep4WlXetjzzM3yPQ) | 2:58 | 2026-10-06 |  |
 | [Please Babe](https://open.spotify.com/track/2rAbrVnPBp6TcqdY8vRQbF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:46 | 2025-04-16 |  |
 | [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 | 2024-12-11 |  |
 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-12-13 |  |

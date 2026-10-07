@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Greyson Chance
 
-658 songs - 1 day 11 hr 13 min
+659 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Maybe When I'm Ready](https://open.spotify.com/track/7obdksarukkPPOZWnKpkUs) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Maybe When I'm Ready](https://open.spotify.com/album/0PgMO4z0O9sBiSRMdpr6g8) | 3:41 | 2025-11-28 | 2026-01-15 |
 | [Memories](https://open.spotify.com/track/40cL7PsLdnhihvSeEk4reN) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Memories](https://open.spotify.com/album/6dExRXtJGGvGlykHXCNRHy) | 3:41 | 2026-06-16 | 2026-07-25 |
 | [MEN](https://open.spotify.com/track/5zgQKfdJaW3hJlPQ0ycYdb) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [MEN](https://open.spotify.com/album/12wK2zF0EbhKeSEkAkuGdA) | 2:44 | 2026-05-22 | 2026-08-22 |
+| [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 | 2026-10-02 |  |
 | [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-12-15 | 2024-02-03 |
 | [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-26 | 2026-01-15 |
 | [Mid July](https://open.spotify.com/track/6PsnCUm3Gx4IEB7YaQiyMm) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mid July](https://open.spotify.com/album/6Ghj66uOHT1AIQaMzBMZnf) | 3:20 | 2025-10-31 | 2025-11-29 |
@@ -544,7 +545,7 @@
 | [Sore Thumb](https://open.spotify.com/track/5BKmTLEg682SUsDpNHSkiq) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Sore Thumb](https://open.spotify.com/album/6dben80LpRWuMSDVx6ZYBv) | 3:15 | 2026-02-13 | 2026-03-21 |
 | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs) | 2:58 | 2026-03-27 |  |
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-12 | 2025-09-06 |
-| [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 | 2026-06-16 |  |
+| [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 | 2026-06-16 | 2026-10-07 |
 | [SPELL IT OUT](https://open.spotify.com/track/55WLta1zNRKPLwjGkRNgI8) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SPELL IT OUT](https://open.spotify.com/album/6KkJuUdqagSd1N9cFwqUGJ) | 2:22 | 2026-02-10 | 2026-04-18 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-05-13 | 2025-05-31 |
 | [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 | 2025-11-14 | 2026-02-14 |

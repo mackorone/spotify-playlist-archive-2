@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 103602,
+  "num_followers": 103609,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCRJ3RrFrzm2sarlIVYHEUsZa2z",
+  "snapshot_id": "AAAAAL5tv6OiWQspqx56MuuQvRlbG2KE",
   "tracks": [
     {
       "added_at": "2026-02-16 22:44:16",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 202534,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Jealous - Remix",
+      "url": "https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
-        "name": "Nick Jonas X2",
-        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Jealous - Remix",
-      "url": "https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT"
     },
     {
       "added_at": "2026-02-16 22:44:16",

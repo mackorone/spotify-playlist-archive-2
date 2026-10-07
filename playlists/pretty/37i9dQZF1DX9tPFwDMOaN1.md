@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: YENA, NOWIMYOUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,126,645 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,126,664 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 50 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |
 | 51 | [A1 GO](https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Mixtape : A1 GO](https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B) | 2:18 |
 
-Snapshot ID: `AAAAAB0cnGwA1h8bo9yIL92QG3OX5WA6`
+Snapshot ID: `AAAAAEOspRSq/dnVLdQGMGy08w6zPK9P`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"`spotify:artist:6vqyGm4tSHrerJwKwQm7jo`\">Primo Amore</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:6IfnY1i1ReRAZD3Spl7JCm\">Lembrete</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 160000,
       "name": "+ Gatto \u2425",
       "url": "https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO"
+    },
+    {
+      "album": {
+        "name": "+ vivo + ti odio",
+        "url": "https://open.spotify.com/album/48dEqWpf8G0BTAETqZhqEa"
+      },
+      "artists": [
+        {
+          "name": "ANSIA",
+          "url": "https://open.spotify.com/artist/1wAmT937aHUqIPr8sdKZXh"
+        },
+        {
+          "name": "ClayMore",
+          "url": "https://open.spotify.com/artist/05dmoYIBp6hNPQTkPJ1hSs"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "+ vivo + ti odio",
+      "url": "https://open.spotify.com/track/0FJpFqzgnFsqkwlY3QnCaI"
     },
     {
       "album": {
@@ -3447,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "ARIA",
+        "url": "https://open.spotify.com/album/4rBLSYQdzIS5EgOGrqYQyx"
+      },
+      "artists": [
+        {
+          "name": "EMSAISI",
+          "url": "https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163828,
+      "name": "ARIA",
+      "url": "https://open.spotify.com/track/2VbXos2OGdq0tfCpT3ORKi"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/0GTOdVVHdGRGZLPL84FvRg"
       },
@@ -5978,7 +6018,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 200000,
       "name": "CAMBIA LA TRAMA",
       "url": "https://open.spotify.com/track/1PE7dc6ZGhZCqGqsmBSIKG"
@@ -12414,7 +12454,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 189268,
       "name": "estate//periferia",
       "url": "https://open.spotify.com/track/41SXX7eKbYOJR5aLXrsUIv"
@@ -29659,6 +29699,28 @@
     },
     {
       "album": {
+        "name": "pessimi amici (bruttastoria)",
+        "url": "https://open.spotify.com/album/29r0jUE5PTaYRc8vhPaxce"
+      },
+      "artists": [
+        {
+          "name": "RAISS",
+          "url": "https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x"
+        },
+        {
+          "name": "NRY",
+          "url": "https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "pessimi amici (bruttastoria)",
+      "url": "https://open.spotify.com/track/0062wLdfuIs2SYdb6bvlD6"
+    },
+    {
+      "album": {
         "name": "IN MEZZO A TUTTA QUESTA GENTE",
         "url": "https://open.spotify.com/album/19ChLKyyCSUabTlPhkEaAV"
       },
@@ -32032,7 +32094,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 167646,
       "name": "Raise Your Head",
       "url": "https://open.spotify.com/track/7fmUvqFBNYezql82zYANQJ"
@@ -39079,6 +39141,24 @@
     },
     {
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/6ANEFyJt1MhW1uQSKhXZCV"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272888,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0E7dPlV79iZOFJDB077rCG"
+    },
+    {
+      "album": {
         "name": "Club Amor",
         "url": "https://open.spotify.com/album/5dWqvP30TQpFMtzv3ehfXC"
       },
@@ -41276,7 +41356,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 183529,
       "name": "Vecchi Di Merda",
       "url": "https://open.spotify.com/track/1kQqiuc7OaI7OayHEkjbNK"

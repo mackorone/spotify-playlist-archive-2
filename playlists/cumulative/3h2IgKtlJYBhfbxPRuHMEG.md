@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
 
-204 songs - 11 hr 23 min
+205 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Darkness](https://open.spotify.com/track/1O2O3i80RzKsaW3xvCXIJ0) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl) | [Darkness](https://open.spotify.com/album/7z863ZdG17dRULD4JCkyeE) | 3:05 | 2024-09-06 | 2024-11-09 |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2023-12-01 | 2025-05-03 |
 | [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 | 2024-11-29 |  |
+| [Dimension](https://open.spotify.com/track/74jUGc8wu6oiBrMqhqDQ3b) | [COSTA](https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX) | [Dimension](https://open.spotify.com/album/33OIvCtt4T2uisA9vkMAtX) | 3:10 | 2026-10-06 |  |
 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 | 2023-12-01 | 2025-03-15 |
 | [Dismantle](https://open.spotify.com/track/0Fe869epfPRyxRWlRatUaz) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Dismantle](https://open.spotify.com/album/4WJfnU4X6Jqm6rG1QuukU7) | 3:09 | 2026-07-03 |  |
 | [Do It To It \- Sub Focus Remix](https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Sub Focus Remix\)](https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP) | 3:14 | 2023-12-01 | 2025-05-03 |

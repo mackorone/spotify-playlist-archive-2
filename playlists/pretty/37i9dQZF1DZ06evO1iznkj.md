@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,452 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,495 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 36 | [bread & butter](https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:46 |
 | 37 | [WAY IT IS](https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:15 |
 | 38 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 |
-| 39 | [YK Where It's Goin \(feat\. Gunna\)](https://open.spotify.com/track/7pEbUrQNQ5cEpFltjha5TA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [YK Where It's Goin \(feat\. Gunna\)](https://open.spotify.com/album/7hvZQ7mzQ1fqtskqtOYFEQ) | 3:00 |
+| 39 | [YK Where It's Goin](https://open.spotify.com/track/7pEbUrQNQ5cEpFltjha5TA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [YK Where It's Goin](https://open.spotify.com/album/7hvZQ7mzQ1fqtskqtOYFEQ) | 3:00 |
 | 40 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
 | 41 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 |
 | 42 | [Too Bad](https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Too Bad](https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb) | 2:42 |

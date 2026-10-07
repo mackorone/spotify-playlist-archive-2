@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
-  "num_followers": 786300,
+  "num_followers": 786301,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG3XnwPgZ7gL3iDUqE6s/QyfG332",
+  "snapshot_id": "AAAAADgoOEmJR1Il7GvovliWh2yw8C2B",
   "tracks": [
     {
       "added_at": "2026-10-02 07:36:23",
@@ -1105,6 +1105,26 @@
       "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
     },
     {
+      "added_at": "2026-10-02 07:36:23",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 278629,
+      "name": "That's Why I Love You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "2 Much",
@@ -1119,6 +1139,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-02-14 03:28:47",
+      "album": {
+        "name": "More Than A Lover",
+        "url": "https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 245227,
+      "name": "More Than A Lover",
+      "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1137,20 +1173,20 @@
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
-      "added_at": "2026-02-14 03:28:47",
+      "added_at": "2025-10-10 07:46:04",
       "album": {
-        "name": "More Than A Lover",
-        "url": "https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f"
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 245227,
-      "name": "More Than A Lover",
-      "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/0ToKCro5MJ4J46BIzR8z6D"
     },
     {
       "added_at": "2025-01-24 07:45:43",
@@ -1171,42 +1207,6 @@
       "duration_ms": 227400,
       "name": "Live For You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS"
-    },
-    {
-      "added_at": "2025-10-10 07:46:04",
-      "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/0ToKCro5MJ4J46BIzR8z6D"
-    },
-    {
-      "added_at": "2026-10-02 07:36:23",
-      "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 278629,
-      "name": "That's Why I Love You (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
     },
     {
       "added_at": "2025-10-03 18:39:49",
@@ -1417,6 +1417,38 @@
       "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2025-12-05 07:50:19",
+      "album": {
+        "name": "Yours Deeply (Deluxe)",
+        "url": "https://open.spotify.com/album/3ioO7iP44CnrMJmhDQwy6F"
+      },
+      "artists": [
+        {
+          "name": "SHERIE",
+          "url": "https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "Heart Help",
+      "url": "https://open.spotify.com/track/09S1rM23LMw9iUkl4TY042"
+    },
+    {
       "added_at": "2026-09-25 08:27:30",
       "album": {
         "name": "Happiness Anytime: Part 2",
@@ -1437,38 +1469,6 @@
       "url": "https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2"
     },
     {
-      "added_at": "2025-12-05 07:50:19",
-      "album": {
-        "name": "Yours Deeply (Deluxe)",
-        "url": "https://open.spotify.com/album/3ioO7iP44CnrMJmhDQwy6F"
-      },
-      "artists": [
-        {
-          "name": "SHERIE",
-          "url": "https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "Heart Help",
-      "url": "https://open.spotify.com/track/09S1rM23LMw9iUkl4TY042"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
-    {
       "added_at": "2025-06-20 04:00:54",
       "album": {
         "name": "Come As You Are",
@@ -1487,6 +1487,66 @@
       "duration_ms": 196323,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/6pNrdoEgWVcHvKxrsvHMKL"
+    },
+    {
+      "added_at": "2026-10-02 07:36:23",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "You Mean The World To Me (feat. Leon Thomas & Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D"
+    },
+    {
+      "added_at": "2024-05-17 07:14:12",
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+    },
+    {
+      "added_at": "2025-08-15 19:53:41",
+      "album": {
+        "name": "My World (beyond)",
+        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "My World (beyond)",
+      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
     },
     {
       "added_at": "2026-05-15 07:45:33",
@@ -1529,42 +1589,6 @@
       "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "My World (beyond)",
-        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "My World (beyond)",
-      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
-    },
-    {
-      "added_at": "2024-05-17 07:14:12",
-      "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
       "added_at": "2025-03-21 05:07:45",
       "album": {
         "name": "HEART OF THE MATTER",
@@ -1579,62 +1603,6 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
-    },
-    {
-      "added_at": "2026-10-02 07:36:23",
-      "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "You Mean The World To Me (feat. Leon Thomas & Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D"
-    },
-    {
-      "added_at": "2025-10-03 18:39:49",
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
-    },
-    {
-      "added_at": "2025-04-25 07:19:25",
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 226274,
-      "name": "I DO",
-      "url": "https://open.spotify.com/track/0cJqjE0vODNJQdi10z8fNw"
     },
     {
       "added_at": "2025-11-14 12:04:27",
@@ -1653,6 +1621,22 @@
       "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
+      "added_at": "2025-04-25 07:19:25",
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 226274,
+      "name": "I DO",
+      "url": "https://open.spotify.com/track/0cJqjE0vODNJQdi10z8fNw"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "That's You",
@@ -1667,6 +1651,22 @@
       "duration_ms": 319454,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2025-10-03 18:39:49",
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "added_at": "2025-09-26 04:57:19",
@@ -2061,6 +2061,22 @@
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
     },
     {
+      "added_at": "2026-09-25 08:27:30",
+      "album": {
+        "name": "God of You",
+        "url": "https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 220428,
+      "name": "God of You",
+      "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "In Limbo",
@@ -2079,22 +2095,6 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2026-09-25 08:27:30",
-      "album": {
-        "name": "God of You",
-        "url": "https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 220428,
-      "name": "God of You",
-      "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
     },
     {
       "added_at": "2025-12-12 18:54:21",
@@ -2385,22 +2385,6 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2025-03-07 05:51:28",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Algorithm",
@@ -2419,6 +2403,22 @@
       "duration_ms": 224218,
       "name": "Blame (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
+    },
+    {
+      "added_at": "2025-03-07 05:51:28",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2025-02-28 17:58:06",
@@ -2509,6 +2509,26 @@
       "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
     },
     {
+      "added_at": "2026-09-25 08:27:30",
+      "album": {
+        "name": "Chameleon (feat. Chloe George)",
+        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        },
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 214661,
+      "name": "Chameleon (feat. Chloe George)",
+      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
+    },
+    {
       "added_at": "2026-05-08 07:01:11",
       "album": {
         "name": "Chakzilla",
@@ -2571,26 +2591,6 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
-    },
-    {
-      "added_at": "2026-09-25 08:27:30",
-      "album": {
-        "name": "Chameleon (feat. Chloe George)",
-        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
-      },
-      "artists": [
-        {
-          "name": "Mai Anna",
-          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
-        },
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 214661,
-      "name": "Chameleon (feat. Chloe George)",
-      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
     },
     {
       "added_at": "2025-12-12 18:54:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Drake, Yung Miami and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,482 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,509 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 4 | [F You](https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [F You](https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2) | 2:08 |
 | 5 | [GIRLS GIRL](https://open.spotify.com/track/73qHZ9ewdMNB0lWbt81xEN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [GIRLS GIRL](https://open.spotify.com/album/1M2ZRsaDrBIzUTFLEMh7dJ) | 2:04 |
 | 6 | [1v1](https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [1v1](https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg) | 3:06 |
-| 7 | [Edge Of The Earth \- Lunch Break Freestyle](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
+| 7 | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |
 | 8 | [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 |
 | 9 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |
 | 10 | [Orange Soda](https://open.spotify.com/track/7zMB3GxMuDfunEHjv6nnpw) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [INNANETAPE](https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Big Status](https://open.spotify.com/track/3RcQpoW6M4cYuTTZx2X9Jx) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Big Status](https://open.spotify.com/album/2cHv1SciixRwKko37AjlYP) | 2:42 |
 | 50 | [Astro Turf](https://open.spotify.com/track/4zG7wzppCFMt2VxXAMCeEs) | [The Koreatown Oddity](https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ) | [Astro Turf](https://open.spotify.com/album/4Y2gwGwagFBYCBGjiQUgMU) | 3:05 |
 
-Snapshot ID: `AAAAAHZ3Pwm52tLfYv9mBtKjpFn0S0AA`
+Snapshot ID: `AAAAAPSBfU5x3Z5nRUNvAKsFFIxvN+HD`

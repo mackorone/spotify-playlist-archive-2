@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Kelissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,813 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,837 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 60 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 |
 | 61 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 |
 | 62 | [Hallelujah](https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6) | [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Hallelujah](https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo) | 4:07 |
-| 63 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
-| 64 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
-| 65 | [Unforgettable](https://open.spotify.com/track/0KNYy8BJY364hIoiQpQfP0) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Unforgettable](https://open.spotify.com/album/3LBfn842eEw7Rcc6tVCa60) | 3:14 |
-| 66 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 63 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
+| 64 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
+| 65 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 66 | [Unforgettable](https://open.spotify.com/track/0KNYy8BJY364hIoiQpQfP0) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Unforgettable](https://open.spotify.com/album/3LBfn842eEw7Rcc6tVCa60) | 3:14 |
 | 67 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 68 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 69 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 | 70 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 |
 
-Snapshot ID: `AAAAANmiJ8nc12sXKLbWqvvunkF4EepN`
+Snapshot ID: `AAAAANrrDSDoG+HQli38DVXOYE/6AL3j`

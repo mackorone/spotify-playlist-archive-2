@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,327 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,343 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 41 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
 | 42 | [The Sax Pack](https://open.spotify.com/track/6OY7cBD5zFn5lsvvqr9eXs) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/5RXQDyVVpdSiOWZPuJeynx) | 3:34 |
 | 43 | [Stone Groove](https://open.spotify.com/track/6hJ2hxampO4cZQN5bTO4p1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/5WBT4baeyxgu2TltzMiMZr) | 4:45 |
-| 44 | [Nightfall](https://open.spotify.com/track/1a3aN3eutz5D3IQlLCwIEY) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/7bLMqsTsu3yAOocXEx2LJ4) | 5:32 |
-| 45 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
+| 44 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
+| 45 | [Nightfall](https://open.spotify.com/track/1a3aN3eutz5D3IQlLCwIEY) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/7bLMqsTsu3yAOocXEx2LJ4) | 5:32 |
 | 46 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
 | 47 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
 | 48 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
 | 49 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 |
 | 50 | [Just Like The First Time](https://open.spotify.com/track/20JF2Ix0c2XwffIHQ2ROpg) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/1XrHlJEEAvJPwB5BNmUVtm) | 4:39 |
 
-Snapshot ID: `AAAAAMos4AgFIBUoRR3xzfLnaVCWh/XU`
+Snapshot ID: `AAAAAEOPhwZ7/W3gsFastdyE3tLFXMHI`

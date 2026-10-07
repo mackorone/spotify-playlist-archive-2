@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Viva Belgrado 🇪🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,401 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,407 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 123 | [Until It's Normal](https://open.spotify.com/track/1DgYRoyywe7OWB3tx3avAS) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Until It's Normal](https://open.spotify.com/album/3p0pest06jSlGn353z89uS) | 2:59 |
 | 124 | [I Could Say Less](https://open.spotify.com/track/3TiKKRMEHJUYQsNNU52BiA) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [I Could Say Less / Pavement](https://open.spotify.com/album/0jDh0MyBoJoflMb5klMVpR) | 4:03 |
 
-Snapshot ID: `AAAAAOecJD96azyFlGljM4VxVPV5+C/6`
+Snapshot ID: `AAAAAFI09sRYWeuqJ06pfRNFhm5/1Dsn`

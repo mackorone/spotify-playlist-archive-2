@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-167 songs - 10 hr 35 min
+168 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-12-15 | 2024-05-17 |
 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 | 2024-12-27 | 2025-08-27 |
 | [Fearing Love \- Club Mix](https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc) | [Damiano C](https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Camille Safiya](https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D) | [Fearing Love](https://open.spotify.com/album/6C40PL4H8Mn4pWadW4ZA6u) | 7:28 | 2023-12-15 | 2025-08-27 |
-| [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 | 2025-08-26 |  |
+| [Feels So Good](https://open.spotify.com/track/3ZvuFT8oS8BmqjZItKp3eL) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/6YNZCaWoEmuYwUPY9Llw3W) | 3:25 | 2025-08-26 |  |
+| [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 | 2025-08-26 | 2026-10-07 |
 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 | 2023-12-15 | 2024-12-28 |
 | [Forbidden Fruit](https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Forbidden Fruit](https://open.spotify.com/album/7GnTlRiJC8e2NG6oNkm8FL) | 2:59 | 2025-08-26 |  |
 | [Forgotten One](https://open.spotify.com/track/4GyEgH6FkD26ArhdVulDvo) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Forgotten One](https://open.spotify.com/album/1lOaydh7b2nciFFOVsSuI7) | 4:00 | 2024-12-27 | 2025-08-27 |

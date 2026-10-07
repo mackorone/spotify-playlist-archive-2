@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,421 likes - 80 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,483 likes - 80 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 39 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
 | 41 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 42 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
-| 43 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
+| 42 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
+| 43 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
 | 44 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 45 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
 | 46 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 55 | [Lullaby \- Extended Mix](https://open.spotify.com/track/3oHh50CILa1PKDBSvfVuDd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Mixed Up \(Remastered 2018 / Deluxe Edition\)](https://open.spotify.com/album/3huHRCpnBNMIrU4e10HDtr) | 7:45 |
 | 56 | [T.V\. Scene \- Sensurround Mix](https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl) | [Linda Di Franco](https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW) | [T.V\. Scene \(Sensurround Mix\)](https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae) | 7:18 |
 | 57 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
-| 58 | [Stop Bajon \- Club Mix](https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [Acqua E Viento](https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g) | 7:14 |
-| 59 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
+| 58 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
+| 59 | [Stop Bajon \- Club Mix](https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [Acqua E Viento](https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g) | 7:14 |
 | 60 | [Watch The Sunrise \- Extended Vocal](https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Watch The Sunrise](https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ) | 6:12 |
 | 61 | [Don't You Want Me \- Hooj Mix Edit](https://open.spotify.com/track/3zXRtN3UOtt197xbTxv1A1) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Red Jerry](https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW) | [Essential \- The 90s](https://open.spotify.com/album/1suw2wSUQSR9ZJxL2xkh3e) | 3:07 |
 | 62 | [Barefoot in the Head](https://open.spotify.com/track/3jIt5p1qi6mGpmGbiXVc0K) | [A Man Called Adam](https://open.spotify.com/artist/6lDjEqCQQ6acNSzyDYhE75) | [The Apple](https://open.spotify.com/album/0lMQ3gr0vA1nMXwy7L6FUb) | 7:12 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 73 | [Porcelain](https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 3:58 |
 | 74 | [Put Your Hands Up For Detroit](https://open.spotify.com/track/2T1Xemp92qxuUCAFBWfRrj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR) | 6:36 |
 | 75 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
-| 76 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
-| 77 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
+| 76 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
+| 77 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
 | 78 | [Natural Blues](https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 4:13 |
 | 79 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 80 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
 
-Snapshot ID: `AAAAAMgLcmYLwsl+pKK60iqPsi4Mqi3y`
+Snapshot ID: `AAAAAAZ3OPbhshotKzBHqbmJ02Aj+zhg`

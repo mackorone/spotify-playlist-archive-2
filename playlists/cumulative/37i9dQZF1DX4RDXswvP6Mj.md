@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: ALLDAY PROJECT\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: KickFlip\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-952 songs - 2 day 2 hr 3 min
+954 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-18 | 2022-07-12 |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-08 | 2024-07-27 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-17 |  |
-| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-25 |  |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-25 | 2026-10-07 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-12-21 | 2022-07-28 |
 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 | 2022-03-31 | 2022-04-04 |
 | [Changer](https://open.spotify.com/track/5A3BZXpLvw399NrvWatRMJ) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Changer : Dear Eris](https://open.spotify.com/album/1tLwLZEdx1pVmhzzY0L6nf) | 3:23 | 2022-03-14 | 2022-04-14 |
@@ -487,6 +487,7 @@
 | [Karma \(feat\. Nino Lucarelli\)](https://open.spotify.com/track/28tllebADXUaV2omFEhoSB) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:26 | 2022-04-12 | 2022-04-20 |
 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 | 2026-04-29 | 2026-09-19 |
 | [Kick It \- Valentino Khan Remix](https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:09 | 2023-05-01 | 2023-05-10 |
+| [Kick Off The Wall \(Feat\. iann dior\)](https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [KICK OFF THE WALL Pt\. 1](https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS) | 3:00 | 2026-10-06 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-21 | 2022-07-29 |
 | [KILLING ME](https://open.spotify.com/track/27kB4qLUCV8nZd2eOgj1Tk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS : CONTINUE](https://open.spotify.com/album/2yUTAuGu8Xu7xoTdASjClx) | 3:13 | 2022-03-24 | 2022-04-10 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2022-01-18 | 2022-04-10 |
@@ -952,6 +953,7 @@
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2022-01-25 | 2022-04-27 |
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2022-03-29 | 2022-04-19 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-21 | 2023-01-10 |
+| [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 | 2026-10-06 |  |
 | [‘Bout you](https://open.spotify.com/track/15IuYQKZ5zKDEY5YDzsqSQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Bout You \- The 2nd Mini Album](https://open.spotify.com/album/3hyZ9blHn3XIQtFh6CsKUw) | 3:27 | 2022-03-29 | 2022-04-13 |
 | [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-20 | 2025-06-28 |
 | [꼬리 \(TAIL\)](https://open.spotify.com/track/6u2Fya3Vi0188LMR2Wbvh5) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [꼬리 \(TAIL\)](https://open.spotify.com/album/72MzQWMQE0QSaA6c1sCQsL) | 3:10 | 2022-03-24 | 2022-04-21 |

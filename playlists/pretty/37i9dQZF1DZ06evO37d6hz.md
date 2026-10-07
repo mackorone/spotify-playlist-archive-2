@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 19 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
 | 20 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
 
-Snapshot ID: `asGXAAAAAADusnlAr58xyBv2dl8DW6kz`
+Snapshot ID: `asLogAAAAAAEN9gBT99J5xrivb0g8+p8`

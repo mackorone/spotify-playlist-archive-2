@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723 likes - 167 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 167 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 136 | [Whatever You Say](https://open.spotify.com/track/3HJAwbCG7vMR6xA7qK2Mg6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don’t look at the moon \(Deluxe\)](https://open.spotify.com/album/0pg20nefkrcmXHQRIEkTkI) | 3:16 |
 | 137 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 |
 | 138 | [Human](https://open.spotify.com/track/0278TT9ll8EfDjGquqSKHD) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Made By Humans](https://open.spotify.com/album/3w32i0W8RFQKyieEtihWl1) | 3:49 |
-| 139 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
-| 140 | [I Forgot](https://open.spotify.com/track/3WBdCRSuKazzpj05XSsm7N) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 3:50 |
+| 139 | [I Forgot](https://open.spotify.com/track/3WBdCRSuKazzpj05XSsm7N) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 3:50 |
+| 140 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
 | 141 | [THE UNIVERSE](https://open.spotify.com/track/1MsC4r2rLGULtETHuKC0YY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:06 |
 | 142 | [Wish You Well](https://open.spotify.com/track/6uPEY1yrE8gu9Rdcs07Ngv) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Anti Romantica](https://open.spotify.com/album/0eKLypqjx8bQQyVeTRBAa9) | 2:28 |
 | 143 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 166 | [What Love is Like](https://open.spotify.com/track/36MeEp541b2U9YfEpY3zUn) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 3:59 |
 | 167 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AceKrAAAAAAr56J9qFlstA2N/9NJeQlG`
+Snapshot ID: `AceQOAAAAADC9e+TERLbPbNGWamqkhpJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,004,421 likes - 255 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,004,996 likes - 255 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 254 | [Nebula in Bloom](https://open.spotify.com/track/1ujFw7NVM3AZz9OQ59QVzz) | [Sleeping Atlas](https://open.spotify.com/artist/7663VFCMOXEmo8oKCNZFZ4) | [Nebula in Bloom](https://open.spotify.com/album/520viCaxI1KAh0Tn1Lgr0f) | 2:03 |
 | 255 | [Seeing](https://open.spotify.com/track/7IdeZbJRDzOfrrPIbeYCMB) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Seeing](https://open.spotify.com/album/76Dfwy3GDtYDSEbpP6CIix) | 2:28 |
 
-Snapshot ID: `AAAAAJOROXdeUm+AR7WDXLAnHDTq6JM2`
+Snapshot ID: `AAAAAN67ivvscuj4eTU35CU8UV1ejz3X`

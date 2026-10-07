@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 289066,
+  "num_followers": 289050,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL9WjBY7a1TiFSc7+pre9SmO4oW7",
+  "snapshot_id": "AAAAACKjPOrWFUcHtLP04v3D8/+LpgUa",
   "tracks": [
     {
       "added_at": "2026-10-02 03:00:10",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Curiosidadista",
-        "url": "https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN"
-      },
-      "artists": [
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
+        "name": "Curiosidadista",
+        "url": "https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN"
+      },
+      "artists": [
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -643,6 +643,30 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -671,30 +695,6 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 224800,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -731,22 +747,6 @@
       "duration_ms": 168984,
       "name": "Quando Eu Te Vi",
       "url": "https://open.spotify.com/track/4iAzhPVhNyQJ0IxsyBvLxX"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -951,30 +951,6 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "PETER",
-          "url": "https://open.spotify.com/artist/0n1mAwB6WCl4n32lHCGJZ3"
-        },
-        {
-          "name": "O Brabo da Terra do Sol",
-          "url": "https://open.spotify.com/artist/4nYStsH7Stew93Q7C4XiFe"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 171000,
       "name": "assim",
       "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "PETER",
+          "url": "https://open.spotify.com/artist/0n1mAwB6WCl4n32lHCGJZ3"
+        },
+        {
+          "name": "O Brabo da Terra do Sol",
+          "url": "https://open.spotify.com/artist/4nYStsH7Stew93Q7C4XiFe"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Vida de Rei, Vida de C\u00e3o",
-        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 164833,
-      "name": "Vida de Rei, Vida de C\u00e3o",
-      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
+        "name": "Vida de Rei, Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 164833,
+      "name": "Vida de Rei, Vida de C\u00e3o",
+      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+        "name": "COMO ELA VEM",
+        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "FERMI",
+          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+      "duration_ms": 145151,
+      "name": "COMO ELA VEM",
+      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "COMO ELA VEM",
-        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
       "artists": [
         {
-          "name": "FERMI",
-          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 145151,
-      "name": "COMO ELA VEM",
-      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1367,34 +1367,30 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
       "artists": [
         {
-          "name": "Maip\u00ea",
-          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
         },
         {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
         },
         {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
         },
         {
-          "name": "Pedro Schin",
-          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
-        },
-        {
-          "name": "Dias Bruno",
-          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         }
       ],
-      "duration_ms": 158293,
-      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
+      "duration_ms": 200930,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1439,30 +1435,34 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
+        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
       "artists": [
         {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
         },
         {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
         },
         {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
         },
         {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+          "name": "Pedro Schin",
+          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
+        },
+        {
+          "name": "Dias Bruno",
+          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
+      "duration_ms": 158293,
+      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
+        "name": "insisto em voc\u00ea",
+        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "Tirado",
+          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
+        }
+      ],
+      "duration_ms": 135420,
+      "name": "insisto em voc\u00ea",
+      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
         "name": "Inseguran\u00e7a",
         "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
-        "name": "insisto em voc\u00ea",
-        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "Tirado",
-          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
-        }
-      ],
-      "duration_ms": 135420,
-      "name": "insisto em voc\u00ea",
-      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
     },
     {
       "added_at": "2026-10-02 03:00:10",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-10-02 03:00:10",
       "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2026-10-02 03:00:10",
+      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
-    },
-    {
-      "added_at": "2026-10-02 03:00:10",
-      "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2026-10-02 03:00:10",

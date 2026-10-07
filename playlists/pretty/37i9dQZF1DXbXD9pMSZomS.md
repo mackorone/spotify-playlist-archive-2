@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,733 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,779 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 5 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 6 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
 | 7 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
-| 8 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
-| 9 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
+| 8 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
+| 9 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
 | 10 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 11 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 12 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 31 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 32 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 33 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
-| 34 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 |
-| 35 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
+| 34 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
+| 35 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 |
 | 36 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 | 37 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
 | 38 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 50 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
 | 51 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 52 | [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 |
-| 53 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
-| 54 | [Take It For Granted](https://open.spotify.com/track/222hw1bqvfjHI8eGaKRg7A) | [QUASAR](https://open.spotify.com/artist/0TQgpQgq7wSCeohL4uc1pL) | [Take It For Granted](https://open.spotify.com/album/14Th8ev4esmoDwb7ljoz8J) | 2:36 |
-| 55 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
-| 56 | [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 |
+| 53 | [Take It For Granted](https://open.spotify.com/track/222hw1bqvfjHI8eGaKRg7A) | [QUASAR](https://open.spotify.com/artist/0TQgpQgq7wSCeohL4uc1pL) | [Take It For Granted](https://open.spotify.com/album/14Th8ev4esmoDwb7ljoz8J) | 2:36 |
+| 54 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 55 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 |
+| 56 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 57 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
-| 58 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 |
+| 58 | [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 |
 | 59 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 60 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
 
-Snapshot ID: `AAAAAH1waF1j9I/ey+zmWr7o1cMiL1Oi`
+Snapshot ID: `AAAAADSw/PFwq4IpwUGo8X7OI1X9IgRX`

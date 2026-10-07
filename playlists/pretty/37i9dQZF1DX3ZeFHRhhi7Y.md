@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: BOYNEXTDOOR\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,076 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,083 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 22 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
 | 23 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 |
 | 24 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
-| 25 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
-| 26 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
+| 25 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
+| 26 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
 | 27 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
 | 28 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 |
 | 29 | [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 |
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 40 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
 | 41 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 |
 | 42 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
-| 43 | [Cosmic](https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:45 |
-| 44 | [Heavy Serenade](https://open.spotify.com/track/2adYJ0qJw5Io8nhtQ9KjHq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj) | 3:00 |
+| 43 | [Heavy Serenade](https://open.spotify.com/track/2adYJ0qJw5Io8nhtQ9KjHq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj) | 3:00 |
+| 44 | [Cosmic](https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:45 |
 | 45 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 |
 | 46 | [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 |
 | 47 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/6QkyFjUMmncXzu6oSWKwHQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/1zL6cXyNIMtyJtmj99fkSS) | 2:54 |
-| 48 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
-| 49 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
+| 48 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 49 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
 | 50 | [Fame](https://open.spotify.com/track/7pjjoNOZQW7H8pOSCFIvsX) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/3SIlbEWc9S5hvcyIgMZN69) | 2:56 |
-| 51 | [WHAT!](https://open.spotify.com/track/5QryuTOhGQ8IHvMb1bcwdK) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:31 |
-| 52 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 51 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
+| 52 | [WHAT!](https://open.spotify.com/track/5QryuTOhGQ8IHvMb1bcwdK) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:31 |
 | 53 | [Nice to see you again \- Korean Ver.](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
 | 54 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 |
 | 55 | [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 65 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 |
 | 66 | [Love War \(Feat\. BE′O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 |
 | 67 | [LOOK AT ME](https://open.spotify.com/track/41FzP8TjIK1aK4LTVY5TUy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:39 |
-| 68 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
+| 68 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 |
 | 69 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
-| 70 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 |
+| 70 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
 | 71 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 |
 | 72 | [Hit 'Em](https://open.spotify.com/track/36vNPZ4chJ8IWfirSQMHN0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB) | 2:48 |
 | 73 | [I DONT CARE](https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [I DONT CARE](https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X) | 3:19 |
-| 74 | [This & That](https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl) | 3:05 |
-| 75 | [Impossible](https://open.spotify.com/track/2cN2qkaSnO5KKAMSa5ZfIm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:02 |
+| 74 | [Impossible](https://open.spotify.com/track/2cN2qkaSnO5KKAMSa5ZfIm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:02 |
+| 75 | [This & That](https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl) | 3:05 |
 | 76 | [EXTRA](https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1) | 2:30 |
 | 77 | [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 |
 | 78 | [Baby Flower](https://open.spotify.com/track/4tBgc1SEpeU6t5YRoOMI5P) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/55WiQx2kfXhAQDY5RgcZIE) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [Virtual Angel](https://open.spotify.com/track/1eCT7mlUiD0FDaYpFPiE4z) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/2mjImuILqi7T0JcNX1iHzv) | 2:53 |
 | 100 | [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 |
 
-Snapshot ID: `AAAAAJHmax6PocBhY7q+KTdAvIbtT92e`
+Snapshot ID: `AAAAAJ3dSjsalGPRFpaJTiYWLAfBSvtW`

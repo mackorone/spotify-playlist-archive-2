@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: THÉA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,892 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,891 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [PAS +](https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y) | [unisature](https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn), [William](https://open.spotify.com/artist/0TTEZQOq4cNQsdL7MA1gcH) | [PAS +](https://open.spotify.com/album/1gf5xUV0msVwmsHD4Ets8E) | 2:33 |
 | 50 | [Cookie](https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW) | [Cookie](https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh) | 2:00 |
 
-Snapshot ID: `AAAAAB8pjftl7uTDj26nfEZ6Vwz/NemK`
+Snapshot ID: `AAAAAMkepMVGnBhMYC1hHwXsxE9b90Fi`

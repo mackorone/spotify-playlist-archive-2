@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9364,
+  "num_followers": 9374,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABTgfc6rir/HjYZldPfgmRz",
+  "snapshot_id": "asGXAAAAAABFTUpAIlsM54Q7txG1cbBR",
   "tracks": [
     {
       "added_at": null,
@@ -731,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
       "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
       "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": null,
@@ -927,6 +927,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -951,46 +991,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": null,

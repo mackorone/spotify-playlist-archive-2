@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Stimpies
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,985 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,984 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [Moving On](https://open.spotify.com/track/4LkVAR9zY9SlFmrwZlIWgR) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Moving On](https://open.spotify.com/album/0WCQBtGYGv5KDhLoMQNzwP) | 3:28 |
 | 99 | [Windows](https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Windows](https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn) | 2:50 |
 
-Snapshot ID: `AAAAAGb1KcjyCJJ0pDyJih/lo8kiw+O8`
+Snapshot ID: `AAAAAPhqmqdH+YSpbXlNHTcSQMp+BdY2`

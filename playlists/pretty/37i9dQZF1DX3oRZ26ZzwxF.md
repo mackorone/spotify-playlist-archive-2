@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Suspect 95
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,986 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,031 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [ADIGBATE](https://open.spotify.com/track/2DtjVFrqRb3FIi5aJGFb9A) | [LYLE JOJO](https://open.spotify.com/artist/5LCtdFgKFATKZq9MmqCj2M), [Chizy Lova](https://open.spotify.com/artist/4kyDIYXpBhOFjsGjpUXEtv) | [ADIGBATE](https://open.spotify.com/album/7inNkKDFwgNpBAKYLIdZSn) | 3:04 |
 | 50 | [MOI AU MOINS](https://open.spotify.com/track/7jOruMv2nUCUzjAFjCJF4Q) | [Zo Killeuh](https://open.spotify.com/artist/0YHzaGvzk3KWBElV7zB6Gv), [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb) | [LDD \- L'œil Du Dragon](https://open.spotify.com/album/2yniUXmg10RT0EudAkDIqj) | 2:34 |
 
-Snapshot ID: `AAAAAEiqhAwdYljzHZV7Kun/KAtBUWRZ`
+Snapshot ID: `AAAAAPNpvIMSXuzjM4e6uKpk4MZtjak3`

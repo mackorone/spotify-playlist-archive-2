@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中の最新ヒットと日本のトレンドをまとめてお届けします。Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,114 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,122 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [かげろう](https://open.spotify.com/track/5BKwzntuwwe6V5oapO6eJ4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [かげろう](https://open.spotify.com/album/2et7q2u7h9RYelRR24tCPQ) | 4:34 |
 | 50 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 
-Snapshot ID: `AAAAAGQLAsfRMrFWMvgicXiwC2SwQHTi`
+Snapshot ID: `AAAAAC61+WvVZZlbwkVaYWMLIrfRIlVN`

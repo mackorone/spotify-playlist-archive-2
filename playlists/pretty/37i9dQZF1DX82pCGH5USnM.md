@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528,092 likes - 235 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,528,356 likes - 235 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 234 | [Infinite Blue](https://open.spotify.com/track/1j9g8q9ia6dmkzN1r0xKM4) | [Mare](https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8) | [Infinite Blue](https://open.spotify.com/album/1vUqfpeIVqBP2sRp5LV6iz) | 2:00 |
 | 235 | [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 |
 
-Snapshot ID: `AAAAANI9BGvuLoVZYE2vZQeTClasIC+N`
+Snapshot ID: `AAAAACDpdq2kyEbZtUdfFts5WLuXTnuh`

@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
@@ -2850,6 +2850,28 @@
     {
       "album": {
         "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/7Gfge2pY7ANlBTnA5sbKFR"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202387,
+      "name": "Too Faded",
+      "url": "https://open.spotify.com/track/1m4ndY8KrL0NqpY8uLCUQV"
+    },
+    {
+      "album": {
+        "name": "Stone Cold",
         "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
       },
       "artists": [
@@ -2864,7 +2886,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 202387,
       "name": "Too Faded",
       "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
@@ -2890,7 +2912,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"

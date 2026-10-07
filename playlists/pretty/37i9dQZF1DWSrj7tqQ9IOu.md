@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : Ben PLG
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,613 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,591 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 2 | [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 |
 | 3 | [Patient Zero](https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L) | 3:45 |
 | 4 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
-| 5 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
-| 6 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 |
-| 7 | [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 |
-| 8 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
-| 9 | [Empty Stadium](https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:45 |
+| 5 | [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 |
+| 6 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
+| 7 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 |
+| 8 | [Empty Stadium](https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:45 |
+| 9 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 10 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
 | 11 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
 | 12 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 24 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
 | 25 | [velib'bleu](https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [velib'bleu](https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N) | 3:23 |
 | 26 | [GODIN](https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [GODIN](https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5) | 2:44 |
-| 27 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
-| 28 | [SttttRANGERENDER](https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq) | [Ptite Soeur](https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [NODA: le monde et les humains](https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW) | 3:20 |
+| 27 | [SttttRANGERENDER](https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq) | [Ptite Soeur](https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [NODA: le monde et les humains](https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW) | 3:20 |
+| 28 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
 | 29 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
-| 30 | [Cognac en canette](https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Cognac en canette](https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP) | 3:34 |
-| 31 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
+| 30 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
+| 31 | [Cognac en canette](https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Cognac en canette](https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP) | 3:34 |
 | 32 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 33 | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N) | 3:32 |
 | 34 | [pas assez](https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [tout à la fois](https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z) | 2:44 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 44 | [Merci Michel](https://open.spotify.com/track/0syqWWuURjbVqIxAGUk4zr) | [Yirji](https://open.spotify.com/artist/0lJutluQaLSfvUX5Q7YpPu) | [Merci Michel](https://open.spotify.com/album/4N1284XkjTjLLoEZUkvD33) | 2:36 |
 | 45 | [Parler pour rien dire en Am](https://open.spotify.com/track/506mNiqZNvaOOQh3eeuQg1) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [AZZZ](https://open.spotify.com/artist/5Xjz10rR5J9btPUj7CaiLq) | [Parler pour rien dire en Am](https://open.spotify.com/album/4Zf2pP5L4aAMXWzC8Kfzap) | 2:08 |
 
-Snapshot ID: `AAAAAF8OVXFP1fmFBN6csjCFeF8N9nOf`
+Snapshot ID: `AAAAALjrzlsr8WtxvyQPqyuV5JGBLD8U`

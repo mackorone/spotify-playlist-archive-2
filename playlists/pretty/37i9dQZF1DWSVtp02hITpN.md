@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear! Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,530 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,509 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 80 | [Sauna](https://open.spotify.com/track/4tydTipPThewhJGmlxdcC5) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 3:08 |
 
-Snapshot ID: `AAAAAE4sLV+AV5qviS7hb/zYVLY+CW4K`
+Snapshot ID: `AAAAAEQhpvsXa6qqVxss+FoKZYH7h8NN`

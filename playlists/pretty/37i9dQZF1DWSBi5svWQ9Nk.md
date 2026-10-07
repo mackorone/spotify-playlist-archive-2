@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL met cover: Qlas, Antoon & Boef
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,300 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,302 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 16 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 |
 | 17 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 18 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
-| 19 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBrittneySGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
+| 19 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
 | 20 | [Bare Minimum](https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:32 |
 | 21 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 | 22 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
 | 50 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
 
-Snapshot ID: `AAAAAPEK+JuRx92QnkUtk11gJfUvySWg`
+Snapshot ID: `AAAAAJYFLpqVwuatXCWN4VbSk3nLmbb1`

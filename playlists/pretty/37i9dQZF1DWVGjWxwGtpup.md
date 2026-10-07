@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Ricky Martin x PEDRO SAMPAIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,240 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,245 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [LA SAPIÓ](https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [LA SAPIÓ](https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ) | 1:57 |
 | 50 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 
-Snapshot ID: `AAAAAFtMPoCE2GZ90Ge5S2mN6xLj1kmC`
+Snapshot ID: `AAAAAM9i6kWLvSjFuLtNMbSULMpjZALV`

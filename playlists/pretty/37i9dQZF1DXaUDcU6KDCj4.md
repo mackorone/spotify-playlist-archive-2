@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,035 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,134 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Why It’s Me](https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Why It’s Me](https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9) | 2:45 |
 | 150 | [Three Reds](https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Three Reds](https://open.spotify.com/album/1TORmjib416bF532Zsd0rL) | 3:52 |
 
-Snapshot ID: `AAAAAGQ5AVBI/9WUxHMmCKotDcRLdqd0`
+Snapshot ID: `AAAAAPQ9LdI6Nu6kbZeJAZj7A+eLmDvI`

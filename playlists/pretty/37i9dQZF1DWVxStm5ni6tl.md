@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Kerrington Gillespie, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,226 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,235 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [Unavez](https://open.spotify.com/track/6NAKKTBWoebtUTmym2RagB) | [Enola Bedard](https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y) | [Rouge](https://open.spotify.com/album/3ck2ziXg7uIlJ8apM1neJ0) | 2:44 |
 | 30 | [Same Old Games](https://open.spotify.com/track/025PPGYXFWgJdyMYXX8jmM) | [Paradi$e](https://open.spotify.com/artist/2tm8nTANMwZuGECwgumqc5) | [Same Old Games](https://open.spotify.com/album/0Kzgi4E78BmvmNgI10JcIa) | 1:52 |
 
-Snapshot ID: `AAAAAMxNNUD63cnPu8mWMt68sWcODXeH`
+Snapshot ID: `AAAAACEnDRU/e2fzK5IQcEUF5dXGiTox`

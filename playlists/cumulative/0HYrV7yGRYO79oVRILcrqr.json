@@ -3601,6 +3601,36 @@
     },
     {
       "album": {
+        "name": "Pope Joan Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf"
+      },
+      "artists": [
+        {
+          "name": "Gal Baliero",
+          "url": "https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M"
+        },
+        {
+          "name": "Isaac Gomez",
+          "url": "https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW"
+        },
+        {
+          "name": "Jacksa Suazo",
+          "url": "https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV"
+        },
+        {
+          "name": "Banda Pope Joan",
+          "url": "https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387455,
+      "name": "El lienzo",
+      "url": "https://open.spotify.com/track/6rHQGvTpPRrQt1WNVwiVJb"
+    },
+    {
+      "album": {
         "name": "Encantados",
         "url": "https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp"
       },

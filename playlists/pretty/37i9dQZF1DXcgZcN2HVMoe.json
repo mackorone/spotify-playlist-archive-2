@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 428047,
+  "num_followers": 428166,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMzZdK3pAKEBHEB4pzFxHYXmQp3",
+  "snapshot_id": "AAAAAC2rTjyXiiGKMvdV2rDh25m8faKK",
   "tracks": [
     {
       "added_at": "2026-05-22 15:00:53",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Low Season",
-        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -647,26 +647,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "The Little Mess You Made",
-        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 201284,
-      "name": "The Little Mess You Made",
-      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -687,18 +679,26 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+        "name": "The Little Mess You Made",
+        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "I Know What I Want",
         "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 230260,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 208088,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Vanilla (Stairwell Version)",
         "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 246070,
       "name": "Vanilla (Stairwell Version)",
       "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 208088,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Summer Somewhere",
-        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Summer Somewhere",
-      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 168798,
       "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Summer Somewhere",
+        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Summer Somewhere",
+      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Bluebird (Acoustic)",
-        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 220637,
-      "name": "Bluebird - Acoustic",
-      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Black And White (Stripped)",
         "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 232528,
       "name": "Black And White - Stripped",
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Bluebird (Acoustic)",
+        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 220637,
+      "name": "Bluebird - Acoustic",
+      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 232000,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Goodbye Mr Blue",
         "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
       },
@@ -2467,18 +2451,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2495,6 +2479,22 @@
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2527,38 +2527,6 @@
       "duration_ms": 184228,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Atlanta",
-        "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Atlanta",
-      "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2599,6 +2567,38 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Love To Love You",
         "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
       },
@@ -2631,26 +2631,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 270426,
-      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2671,18 +2663,26 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2891,6 +2891,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "The Wire (Alternate Version)",
+        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 221063,
+      "name": "The Wire - Alternate Version",
+      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -2919,22 +2935,6 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "The Wire (Alternate Version)",
-        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 221063,
-      "name": "The Wire - Alternate Version",
-      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2971,6 +2971,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Yours in the Morning",
+        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 214919,
+      "name": "Yours in the Morning",
+      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui"
       },
@@ -2999,22 +3015,6 @@
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Yours in the Morning",
-        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 214919,
-      "name": "Yours in the Morning",
-      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
     },
     {
       "added_at": "2026-05-22 15:00:53",

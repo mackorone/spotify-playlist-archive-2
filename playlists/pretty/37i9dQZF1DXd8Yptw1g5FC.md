@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eda Baba, Cem Adrian ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,257 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,253 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 118 | [Sinestesia](https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA) | [Conrado Stein](https://open.spotify.com/artist/3hlX8k8X5zTTkRw5icDEe3), [logos](https://open.spotify.com/artist/1RtYA8YugrzNGCttUbOAku) | [Sinestesia](https://open.spotify.com/album/3bDrawok1I0kejA7IBEiff) | 4:57 |
 | 119 | [ALIŞVERİŞ](https://open.spotify.com/track/3Qc479JV9UUX9QYITyONu2) | [AKU](https://open.spotify.com/artist/53aHCVlwJZRkvyJl0oZcPN), [Staff](https://open.spotify.com/artist/7mXFe1cqfFeVtAjpPDKUW6) | [ALIŞVERİŞ](https://open.spotify.com/album/4kFor7IZzTl5mc03xQKaHC) | 2:20 |
 
-Snapshot ID: `AAAAAHGEnyCi7kj+LcosuUUWU4WfE6s9`
+Snapshot ID: `AAAAAIWhxsdVLWo1jUvy/9a6dlQdJosp`

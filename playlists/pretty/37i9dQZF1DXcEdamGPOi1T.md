@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,874 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,873 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 56 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 57 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 58 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
-| 59 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
-| 60 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
+| 59 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
+| 60 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 61 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 62 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
 | 63 | [Hit Sale](https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C), [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Hit Sale](https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez) | 3:04 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 70 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
 | 71 | [Bruxelles je t’aime](https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:48 |
 | 72 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 |
-| 73 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
-| 74 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 |
+| 73 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 |
+| 74 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
 | 75 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
 | 76 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 77 | [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 92 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
 | 93 | [Dépotoir](https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:10 |
 | 94 | [Gayé](https://open.spotify.com/track/3vHnSDs9cgYtWBJg0VjE1z) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Plato Zay](https://open.spotify.com/album/1w538xCqUlw4J692Ychz3o) | 3:48 |
-| 95 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 96 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
+| 95 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
+| 96 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 97 | [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 |
 | 98 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
 | 99 | [Fille de personne II](https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:58 |
 | 100 | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 |
 
-Snapshot ID: `AAAAAHWc8QY2pNIClWwydqrAZ9CG+nVl`
+Snapshot ID: `AAAAAEL8R/VMLcSXe9x95BrZUI1V+LgF`

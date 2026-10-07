@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Quavo & Takeoff \ud83d\udd4a",
-  "num_followers": 511935,
+  "num_followers": 511926,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN9Cd1ytngkE+C1pHluhazLmkBVE",
+  "snapshot_id": "AAAAAMYoFRHEMtXVHW04UvqN2NQIduI9",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:30",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
         "name": "SremmLife 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 291893,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
       "added_at": "2026-10-02 04:02:30",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2026-10-02 04:02:30",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2026-10-02 04:02:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
-        "name": "Swimming Pools (Drank)",
-        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Swimming Pools (Drank)",
-      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
+        "name": "Swimming Pools (Drank)",
+        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Swimming Pools (Drank)",
+      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
       "added_at": "2026-10-02 04:02:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2026-10-02 04:02:30",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-10-02 04:02:30",
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Tiramisu",
+      "url": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw"
+    },
+    {
+      "added_at": "2026-10-02 04:02:30",
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:30",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Tiramisu",
-      "url": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw"
     },
     {
       "added_at": "2026-10-02 04:02:30",

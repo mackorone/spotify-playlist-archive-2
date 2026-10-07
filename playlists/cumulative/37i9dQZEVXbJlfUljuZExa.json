@@ -6492,7 +6492,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 211544,
       "name": "Dinda",
       "url": "https://open.spotify.com/track/0YxZwR2nJViImRcbNpDQDj"
@@ -11034,7 +11034,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -12904,7 +12904,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 221000,
       "name": "Jangan Jangan",
       "url": "https://open.spotify.com/track/3OqnKFIlA0dngc4stmjlcr"
@@ -20848,7 +20848,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 244222,
       "name": "Romancinta",
       "url": "https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE"
@@ -27568,6 +27568,24 @@
       "duration_ms": 150519,
       "name": "UNDERSTAND",
       "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
+    },
+    {
+      "album": {
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
       "album": {

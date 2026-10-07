@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-372 songs - 23 hr 51 min
+373 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Nobody Don't Care for Me](https://open.spotify.com/track/14XPS4Q6mxvHfsMf8R2ucR) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:15 | 2023-01-31 | 2026-04-13 |
 | [O Lord, Search My Heart](https://open.spotify.com/track/3R5AhtweeDN7eRhijbvVss) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:04 | 2022-08-01 | 2026-07-31 |
 | [O Lord, Search My Heart](https://open.spotify.com/track/32zidKZ81Jd6eK22Mkadqb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:05 | 2022-05-30 | 2026-10-04 |
-| [O, Glory](https://open.spotify.com/track/00s1kea6k7bajsz80Yeuvb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 3:56 | 2025-04-08 |  |
+| [O, Glory](https://open.spotify.com/track/00s1kea6k7bajsz80Yeuvb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 3:56 | 2025-04-08 | 2026-10-07 |
 | [Oh Glory, How Happy I Am](https://open.spotify.com/track/4wYAJRS9VZA1gY2bQppjjz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 4:36 | 2022-05-25 | 2025-07-25 |
 | [Oh Glory, How Happy I Am](https://open.spotify.com/track/30BoxMAKNWj0szlFeFhvXv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:36 | 2025-07-25 |  |
 | [Oh Lord, Search My Heart](https://open.spotify.com/track/0luW3eEfIU4Lg8ClY8ERk8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Gospel, Blues And Street Songs](https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO) | 3:04 | 2022-06-26 |  |
@@ -321,6 +321,7 @@
 | [There Was a Time That I Was Blind](https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 2:43 | 2024-06-02 | 2026-04-24 |
 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3BsgSIICiGyLR3niypMiOt) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:13 | 2022-06-26 | 2026-10-06 |
 | [There's A Table Sittin' In Heaven](https://open.spotify.com/track/2s5RAEIaTKtvkD1tSWyuoA) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:30 | 2022-10-13 | 2026-07-08 |
+| [There's Destruction](https://open.spotify.com/track/6tZMxL8SfVPbAd3h6o7fi4) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 5:51 | 2026-10-07 |  |
 | [There's Destruction In That Land \(Message From Heaven\)](https://open.spotify.com/track/20A0XItLKQRCYjKQdxCC5m) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 5:53 | 2023-04-20 | 2024-06-04 |
 | [There's Destruction in That Land \(Message from Heaven\)](https://open.spotify.com/track/3Zs7ZRcSudowk9NxeHwmRo) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 5:53 | 2023-01-14 | 2023-01-28 |
 | [There's Destruction in This Land](https://open.spotify.com/track/0QqySGlFr4oDTKsvAlcKtA) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 7:55 | 2025-07-18 | 2025-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,471 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,506 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,20 +79,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 69 | [Center of the Sun](https://open.spotify.com/track/1RMsdot8bVRgNzENfh9XcL) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU) | [Chilled Out \(a Collection Of Blissful Sounds\)](https://open.spotify.com/album/7qnVqzOn5LT6xnxL7KKvtU) | 9:58 |
 | 70 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
 | 71 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
-| 72 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 |
-| 73 | [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 |
+| 72 | [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 |
+| 73 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 |
 | 74 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
 | 75 | [Trigger Hippie](https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 5:31 |
 | 76 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 77 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 |
 | 78 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 79 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
-| 80 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
+| 80 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 81 | [Futures](https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:53 |
-| 82 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
-| 83 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 |
-| 84 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
-| 85 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
+| 82 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
+| 83 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
+| 84 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 |
+| 85 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
 | 86 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
 | 87 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
 | 88 | [In the Bath](https://open.spotify.com/track/2RutVE1bxmy90AeXrnq4Ov) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lemon Jelly.ky](https://open.spotify.com/album/4yXHe9sqDblvsKkAKBWts1) | 6:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [In A State](https://open.spotify.com/track/3ID4lXzK9hACkNbeXxEIre) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Never, Never, Land](https://open.spotify.com/album/2aoKE0cTYRTjEGw1M4j09o) | 6:57 |
 | 100 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/4mJ2jiw5WZgT1PIAEc7P5P) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [Twentyears](https://open.spotify.com/album/2g3LU2ye0fuDVgz7ThzeKY) | 3:32 |
 
-Snapshot ID: `AAAAAPLBglw0RP8ZpL5vEz8L0kWjLVGV`
+Snapshot ID: `AAAAAIPhL0UwkeZWC5gNbrNOWgfVO6hd`

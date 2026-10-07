@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 99 | [Technological Jazz](https://open.spotify.com/track/5VCEGZ2HQOY3SMWXlGT8uw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:18 |
 | 100 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
 
-Snapshot ID: `AAAAAFXO5xPfa/GHTKQ1Y+odWz11fVHw`
+Snapshot ID: `AAAAALlz68vLJALewZSArgduX0AUAYNB`

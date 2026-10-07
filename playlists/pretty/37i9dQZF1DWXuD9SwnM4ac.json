@@ -1,12 +1,12 @@
 {
   "description": "All the new indie tracks worth knowing about. Cover: Vacations",
-  "num_followers": 77262,
+  "num_followers": 77274,
   "original_name": "Indie Arrivals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLHalVZXffJbyz7FHK+An4UrIgX",
+  "snapshot_id": "AAAAAMi6O7sfXj0tMMlpmI2W7bFxQpA0",
   "tracks": [
     {
       "added_at": "2026-10-02 03:14:46",
@@ -235,7 +235,7 @@
     {
       "added_at": "2026-10-02 03:14:46",
       "album": {
-        "name": "Big Ideas (feat. Rachel Brown)",
+        "name": "Big Ideas",
         "url": "https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ"
       },
       "artists": [
@@ -246,14 +246,10 @@
         {
           "name": "thanks for coming",
           "url": "https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w"
-        },
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad"
         }
       ],
       "duration_ms": 254802,
-      "name": "Big Ideas (feat. Rachel Brown)",
+      "name": "Big Ideas",
       "url": "https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1"
     },
     {

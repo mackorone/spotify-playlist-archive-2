@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Victoria Monét, Drake,  Uncool MC, 031 CHOPPA, Quavo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,664 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,717 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Buyisa](https://open.spotify.com/track/2XfDbx24OFeOi6P9YhTON8) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Buyisa](https://open.spotify.com/album/6uFJdlwB9yfpdPvcXnJ5xa) | 2:36 |
 | 74 | [Kwetu](https://open.spotify.com/track/4svQhYadSnHhqCf0V1XDJ1) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Fadhilee Itulya](https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig) | [Kwetu](https://open.spotify.com/album/2mqlcRolR8TqjzLGuLMmJN) | 5:14 |
 | 75 | [Happiness](https://open.spotify.com/track/4uIXdE3tETjhBGGTodmCRh) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a), [Ladi Adiosoul](https://open.spotify.com/artist/2hVkV8mF0AmOz8oy2xPexF), [Mitch M](https://open.spotify.com/artist/3cPidnf6ksfcBaMiOGWvyi) | [Classic Room, Vol\. 6](https://open.spotify.com/album/1mDhRot78dsMXMJmgMJif8) | 5:53 |
-| 76 | [Sebenza](https://open.spotify.com/track/1AP18Q9eoelDm1KsBHlXvY) | [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730), [Sgijalo musiq](https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM) | [Sebenza](https://open.spotify.com/album/7MC7LBh56hpiLNRnsMS6Zi) | 5:11 |
+| 76 | [Sebenza](https://open.spotify.com/track/1AP18Q9eoelDm1KsBHlXvY) | [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730), [Sgijalo musiq](https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM), [MystroGee808](https://open.spotify.com/artist/7CyEm4SKQjzaB9h0KDE5GT) | [Sebenza](https://open.spotify.com/album/7MC7LBh56hpiLNRnsMS6Zi) | 5:11 |
 | 77 | [Basstrap](https://open.spotify.com/track/5AYL4H0iEYoCRgzbxzqUu0) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ), [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Basstrap](https://open.spotify.com/album/3Pd8zRGwzTZRYqqc7syOhU) | 6:07 |
 | 78 | [Uloyiko Lwami 2.0](https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Siyakha Khitha](https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Uloyiko Lwami](https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta) | 8:05 |
 | 79 | [Angels \(For Mama\)](https://open.spotify.com/track/5VDaMdFaIZwXVKMMj1dpEa) | [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [All The Lele's](https://open.spotify.com/album/5mUICBlNmrFWoj9ZHk38gd) | 3:30 |
 | 80 | [Awaiting](https://open.spotify.com/track/4sZp12ttFfzf16Ihn1HECZ) | [Vusinator](https://open.spotify.com/artist/4nflJxm43NUrqiKf8oyoUM), [ProSoul](https://open.spotify.com/artist/5LzKYOcCeROsw4UcEq5o74) | [Awaiting](https://open.spotify.com/album/7zVlZjsHngxtHvQTd41hwP) | 6:21 |
 
-Snapshot ID: `AAAAAPlwH4j3eE8iWuIhdMJxYgcp7+rb`
+Snapshot ID: `AAAAABR28wpdBgmpfYwz6x07Zd87+xf0`

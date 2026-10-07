@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Vacations
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,262 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,274 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 11 | [Tell Me When You're Home](https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/3IItemvs6diBqETll5pINP) | 3:00 |
 | 12 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 13 | [If I Had The Hand Of God](https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [If I Had The Hand Of God](https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b) | 2:41 |
-| 14 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 14 | [Big Ideas](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Big Ideas](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 15 | [Extra Time](https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Extra Time](https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw) | 3:34 |
 | 16 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 | 17 | [Fake Tree](https://open.spotify.com/track/1O6Ee63Z8bfdMZRx4sakcH) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fake Tree](https://open.spotify.com/album/1Wl77Ns93Wmag0SeKcXr7d) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Best Friend's House](https://open.spotify.com/track/2q40r1POGq0BHWpJoaKIAo) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [How Much Love Have I Got Left](https://open.spotify.com/album/3zL86XaQOQzSpBK7YkslOy) | 3:10 |
 | 100 | [Frida](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 3:39 |
 
-Snapshot ID: `AAAAADLHalVZXffJbyz7FHK+An4UrIgX`
+Snapshot ID: `AAAAAMi6O7sfXj0tMMlpmI2W7bFxQpA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,295 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,303 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 30 | [Géminis](https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:17 |
 | 31 | [La Diabla \- lofi edit](https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [LatinoFi](https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo), [lofi.remixes](https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0) | [La Diabla \(lofi edit\)](https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp) | 1:38 |
 | 32 | [Cholomuco](https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 2:26 |
-| 33 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
-| 34 | [Bolero coqueto](https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Diego Galindo](https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Bolero coqueto](https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D) | 2:15 |
+| 33 | [Bolero coqueto](https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Diego Galindo](https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Bolero coqueto](https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D) | 2:15 |
+| 34 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
 | 35 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
 | 36 | [Helado de Mango \(Remix\)](https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Helado de Mango \(Remix\)](https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3) | 2:21 |
 | 37 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 45 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 |
 | 46 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
 | 47 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
-| 48 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 |
-| 49 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
+| 48 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
+| 49 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 |
 | 50 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 |
 | 51 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
 | 52 | [Primer Beso](https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Primer Beso](https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 |
 | 80 | [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 |
 
-Snapshot ID: `AAAAAMIyrnKfbmEj9H4AhaIXr79Zp3hC`
+Snapshot ID: `AAAAADQYq744z4OP1VlGKsSYN22OZd9Y`

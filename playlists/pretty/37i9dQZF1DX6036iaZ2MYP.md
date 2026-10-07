@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,030 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,077 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 |
 | 50 | [Comme avant](https://open.spotify.com/track/6HSZigmDMJqQ7IvxqqriYZ) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [Comme avant](https://open.spotify.com/album/5SLaHTl3hysYXO4OlA6LLY) | 2:11 |
 
-Snapshot ID: `AAAAAIrvlxED4NZ+nw2aSeG++xr2MCd+`
+Snapshot ID: `AAAAAH9T1UETUAMVxjtne1oMdk7A6Y6d`

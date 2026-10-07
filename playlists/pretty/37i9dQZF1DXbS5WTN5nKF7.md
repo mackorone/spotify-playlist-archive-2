@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Manon Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,705 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,735 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 |
 | 50 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 |
 
-Snapshot ID: `AAAAAL0awFFPBQdwCxhV2Yk/TAvYM9mE`
+Snapshot ID: `AAAAAFMKBMeyKyMSk21Hj+avctFLOHZO`

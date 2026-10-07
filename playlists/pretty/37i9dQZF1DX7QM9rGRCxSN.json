@@ -1,12 +1,12 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39423,
+  "num_followers": 39425,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6MEjEooHjQ/vAOLc6rLM5850vg",
+  "snapshot_id": "AAAAAEMMOXMx04e6JkhUOnTrVlJao+no",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:16",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Quebrada",
-        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
-      },
-      "artists": [
-        {
-          "name": "Estoy Bien",
-          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Quebrada",
-      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "Tan f\u00e1cil que es hablar las cosas",
         "url": "https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 322254,
       "name": "Tan f\u00e1cil que es hablar las cosas",
       "url": "https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Quebrada",
+        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "Quebrada",
+      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -267,22 +267,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
-        "url": "https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG"
+        "name": "Flora y Fauna del Estado de M\u00e9xico",
+        "url": "https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8"
       },
       "artists": [
         {
-          "name": "Taller para Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn"
-        },
-        {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
         }
       ],
-      "duration_ms": 172390,
-      "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
-      "url": "https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt"
+      "duration_ms": 192893,
+      "name": "Charlie contra los monjes",
+      "url": "https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -303,18 +299,22 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Flora y Fauna del Estado de M\u00e9xico",
-        "url": "https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8"
+        "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
+        "url": "https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG"
       },
       "artists": [
         {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+          "name": "Taller para Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn"
+        },
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Charlie contra los monjes",
-      "url": "https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY"
+      "duration_ms": 172390,
+      "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
+      "url": "https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
+        "name": "micheladas",
+        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 136255,
+      "name": "micheladas",
+      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
         "name": "Nunca Pense En Algo Tan Feo Como Odiarte",
         "url": "https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "micheladas",
-        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
+        "name": "Perfecto acuerdo para estar en desacuerdo",
+        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
       },
       "artists": [
         {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+          "name": "Almost Done",
+          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
         }
       ],
-      "duration_ms": 136255,
-      "name": "micheladas",
-      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
+      "duration_ms": 211184,
+      "name": "Perfecto acuerdo para estar en desacuerdo",
+      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -415,18 +431,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Perfecto acuerdo para estar en desacuerdo",
-        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
+        "name": "Est\u00e9tica Unisex",
+        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
       },
       "artists": [
         {
-          "name": "Almost Done",
-          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
         }
       ],
-      "duration_ms": 211184,
-      "name": "Perfecto acuerdo para estar en desacuerdo",
-      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
+      "duration_ms": 113253,
+      "name": "Est\u00e9tica Unisex",
+      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -459,22 +475,6 @@
       "duration_ms": 232000,
       "name": "Jard\u00edn de Plastilina",
       "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Est\u00e9tica Unisex",
-        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 113253,
-      "name": "Est\u00e9tica Unisex",
-      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Todo Ocaso Resplandece y Acaba",
-        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 300596,
-      "name": "Destello",
-      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "lo que no tiene forma",
         "url": "https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 251894,
       "name": "lo que no tiene forma",
       "url": "https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Todo Ocaso Resplandece y Acaba",
+        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 300596,
+      "name": "Destello",
+      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 228198,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "El mejor verano de mi vida",
         "url": "https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 146629,
       "name": "Emo Mid Windows",
       "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 228198,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
     },
     {
       "added_at": "2026-09-25 06:00:16",

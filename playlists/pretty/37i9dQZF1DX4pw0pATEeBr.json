@@ -1,12 +1,12 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 187477,
+  "num_followers": 187570,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHmR/HLWrBWxZ8WlEHjxDiold/r/",
+  "snapshot_id": "AAAAAIli7n5EdmEv5BYINVOYiSwsGiul",
   "tracks": [
     {
       "added_at": "2025-10-17 01:49:16",
@@ -843,18 +843,26 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+        "name": "Ella No Es Tuya (Remix)",
+        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 156946,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+      "duration_ms": 218000,
+      "name": "Ella No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
     },
     {
       "added_at": "2025-10-17 01:49:16",
@@ -879,26 +887,18 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
-        "name": "Ella No Es Tuya (Remix)",
-        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Ella No Es Tuya - Remix",
-      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+      "duration_ms": 156946,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2025-10-17 01:49:16",
@@ -967,34 +967,6 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
-        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
-        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
-      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
-    },
-    {
-      "added_at": "2025-10-17 01:49:16",
-      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -1023,6 +995,34 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2025-10-17 01:49:16",
+      "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
     },
     {
       "added_at": "2025-10-17 01:49:16",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
-    },
-    {
-      "added_at": "2025-10-17 01:49:16",
-      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "added_at": "2025-10-17 01:49:16",
+      "album": {
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15/66",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2025-10-17 01:49:16",

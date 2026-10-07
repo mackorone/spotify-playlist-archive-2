@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,922 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,925 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 47 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 48 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
 
-Snapshot ID: `asGXAAAAAAAjTMNj/oCT+ZxG1eZ+S1Kn`
+Snapshot ID: `asLogAAAAACGb/kU7S9Qx/pYQmn0u/Ia`

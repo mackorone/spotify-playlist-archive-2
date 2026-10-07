@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAACR+Ag6z6dN4tetAbFpgOJS",
+  "snapshot_id": "asGXAAAAAAComt+fa5JVj83+kIUUbccW",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "MAS Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
-        }
-      ],
-      "duration_ms": 326330,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Una, Dos o Tres",
         "url": "https://open.spotify.com/album/4PNeDZTeOOAkWziN5hxHU9"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 179917,
       "name": "Con Una, Dos o Tres",
       "url": "https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "MAS Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
+        }
+      ],
+      "duration_ms": 326330,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
     },
     {
       "added_at": null,
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         },
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Est\u00e1 De Moda No Querer",
-      "url": "https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF"
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -447,62 +447,6 @@
       "duration_ms": 188986,
       "name": "55",
       "url": "https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Vas a Volver",
-      "url": "https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -532,9 +476,49 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv"
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Est\u00e1 De Moda No Querer",
+      "url": "https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 165446,
       "name": "FREE",
       "url": "https://open.spotify.com/track/0BCxiIsehp7HHnvSeQGBJD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "El Honor",
+      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 177240,
       "name": "Quisieran Tener Mi Lugar",
       "url": "https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "El Honor",
-      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Amanecer Con Alguien",
         "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 196440,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD"
     },
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         }
       ],
-      "duration_ms": 193453,
-      "name": "De Contrabando",
-      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
+      "duration_ms": 166613,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL"
     },
     {
       "added_at": null,
@@ -883,22 +887,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL"
+      "duration_ms": 193453,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico",
+        "url": "https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "No Llega El Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/3EVfXwnHa1FwjfINtwKIE7"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 161730,
       "name": "SOMOS",
       "url": "https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico",
-        "url": "https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "No Llega El Olvido - En Vivo",
-      "url": "https://open.spotify.com/track/3EVfXwnHa1FwjfINtwKIE7"
     }
   ],
   "unique_name": "This Is Chiquis",

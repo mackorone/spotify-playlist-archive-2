@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-410 songs - 22 hr 33 min
+411 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2023-12-30 |  |
 | [Lean In, Kiss Me](https://open.spotify.com/track/1VDE2EdLW9pkhAdtneo5nN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:38 | 2026-08-24 |  |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2023-12-30 |  |
+| [Less](https://open.spotify.com/track/5pdeBMJFZyPapoCiEwSDgN) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8), [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Less](https://open.spotify.com/album/4AfvAJm52XUX6F9rCXJuTR) | 3:31 | 2026-10-06 |  |
 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 | 2023-12-30 |  |
 | [Lie Like This](https://open.spotify.com/track/3pfPmHldkQ6JM1Aj8LaxFg) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie Like This](https://open.spotify.com/album/3KTU5yQcPVPQaFhYw0k1Rk) | 3:43 | 2024-01-02 | 2024-02-01 |
 | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT) | 2:29 | 2023-12-30 |  |

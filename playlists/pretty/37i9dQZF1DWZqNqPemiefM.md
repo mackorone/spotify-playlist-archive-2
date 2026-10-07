@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: 香田悠真
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,996 likes - 197 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,046 likes - 197 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 196 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
 | 197 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 
-Snapshot ID: `AAAAAN2OOR07d+7P1d8ReDppkmDfe3wn`
+Snapshot ID: `AAAAAOFi6SCMghcBMmcKqVQzlfaimNrV`

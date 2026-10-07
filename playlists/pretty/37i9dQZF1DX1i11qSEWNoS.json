@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 646367,
+  "num_followers": 646385,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGITbR3QtK5qW8dgjiiKUJBVAwq9",
+  "snapshot_id": "AAAAAB/Dg/nrvvVBrCtx6BqLA6iOow0w",
   "tracks": [
     {
       "added_at": "2026-09-24 10:19:19",
@@ -375,26 +375,18 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -419,18 +411,26 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
       "artists": [
         {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2026-09-24 10:19:19",
-      "album": {
         "name": "Fast Cars & Superstars",
         "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -811,6 +795,22 @@
       "duration_ms": 163783,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2026-09-24 10:19:19",
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
-      },
-      "artists": [
-        {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
-        }
-      ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
-    },
-    {
-      "added_at": "2026-09-24 10:19:19",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2026-09-24 10:19:19",
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2026-09-24 10:19:19",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2026-09-24 10:19:19",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2026-09-24 10:19:19",
-      "album": {
         "name": "The Bad Touch 2k20",
         "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 160844,
       "name": "The Bad Touch 2k20",
       "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
+    },
+    {
+      "added_at": "2026-09-24 10:19:19",
+      "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-09-24 10:19:19",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-09-24 10:19:19",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121755,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2026-09-24 10:19:19",
+      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -2027,26 +2043,6 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
-    },
-    {
-      "added_at": "2026-09-24 10:19:19",
-      "album": {
-        "name": "Zelten auf Kies",
-        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 137837,
-      "name": "Zelten auf Kies",
-      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     }
   ],
   "unique_name": "schiebt anders",

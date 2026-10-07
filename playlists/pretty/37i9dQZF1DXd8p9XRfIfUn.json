@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81386,
+  "num_followers": 81393,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQY11llTFMlZJQj7EXhFk0JFU+w",
+  "snapshot_id": "AAAAAEKWCwVME6rvPwGRb3NOqak/HBtO",
   "tracks": [
     {
       "added_at": "2025-09-18 23:00:14",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Algarete",
+        "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 131497,
+      "name": "Algarete",
+      "url": "https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Algarete",
-        "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 131497,
-      "name": "Algarete",
-      "url": "https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 217021,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Bandi2 (feat. Blow Music)",
-        "url": "https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq"
-      },
-      "artists": [
-        {
-          "name": "Cris Sour",
-          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
-        },
-        {
-          "name": "Leo Torrez",
-          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
-        },
-        {
-          "name": "Blow Music",
-          "url": "https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW"
-        }
-      ],
-      "duration_ms": 148078,
-      "name": "Bandi2 (feat. Blow Music)",
-      "url": "https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Taladrarr",
         "url": "https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 149333,
       "name": "Taladrarr",
       "url": "https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Bandi2 (feat. Blow Music)",
+        "url": "https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq"
+      },
+      "artists": [
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Leo Torrez",
+          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
+        },
+        {
+          "name": "Blow Music",
+          "url": "https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW"
+        }
+      ],
+      "duration_ms": 148078,
+      "name": "Bandi2 (feat. Blow Music)",
+      "url": "https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

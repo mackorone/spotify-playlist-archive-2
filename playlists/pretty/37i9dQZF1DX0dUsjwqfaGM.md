@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,313 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,312 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
-Snapshot ID: `AAAAAM4BvNFtzsTvy+gEU9DLEKLh2k3f`
+Snapshot ID: `AAAAAH5501LbEp0j/E2FX+nv0dWSm/aE`

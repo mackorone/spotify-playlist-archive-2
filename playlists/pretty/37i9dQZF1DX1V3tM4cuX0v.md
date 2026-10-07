@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: Jerry Heil & Sviatoslav Vakarchuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,097 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,114 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
 | 50 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 
-Snapshot ID: `AAAAAN2kbUVUgXcSIaalviNZDgj2OGY+`
+Snapshot ID: `AAAAAK+FydcTa4mOanCT7flY+vWn6poW`

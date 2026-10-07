@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Gabriel Eziashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,962 likes - 101 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,989 likes - 101 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 5 | [NO WEAPON](https://open.spotify.com/track/6N6HfrP1uSQUKrRDbKr8eF) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [NO WEAPON](https://open.spotify.com/album/4AL9RAMDeyI71r8D09jOlj) | 10:11 |
 | 6 | [Attributes](https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [The Promise](https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP) | 7:55 |
 | 7 | [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
-| 8 | [Mercy](https://open.spotify.com/track/2zMhknqFxGZlfFuXPMOR9W) | [Tellz Ikima](https://open.spotify.com/artist/3knrlGDPlFFFAyhQMkT63U), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ), [Pedro Badke](https://open.spotify.com/artist/5Ag74jxCPpyVVqe9uq7LOr), [Tinybraz](https://open.spotify.com/artist/5GCeYd8Rc4qhHMiKsfuByO) | [Mercy](https://open.spotify.com/album/62tFc7HPuZKDhSAdcIh3Bm) | 3:38 |
+| 8 | [Mercy](https://open.spotify.com/track/2zMhknqFxGZlfFuXPMOR9W) | [Tellz Ikima](https://open.spotify.com/artist/3knrlGDPlFFFAyhQMkT63U), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ), [Pedro Badke](https://open.spotify.com/artist/5Ag74jxCPpyVVqe9uq7LOr), [TinyBraz](https://open.spotify.com/artist/1PNEsjosWJlJSg5Yd346eY) | [Mercy](https://open.spotify.com/album/62tFc7HPuZKDhSAdcIh3Bm) | 3:38 |
 | 9 | [Ekele](https://open.spotify.com/track/2FMTfkIPXzgyk5ZZVBRnOK) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [DJ iRems](https://open.spotify.com/artist/4s7PAqbHCiBNAOEJaxywVt) | [Party Starter \(PS2\)](https://open.spotify.com/album/4xeGPODNCUeQpcnD2KcGR1) | 4:14 |
 | 10 | [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 |
 | 11 | [Praise the Lord](https://open.spotify.com/track/7oLGYV4iVjoTTJAmCrsAFE) | [Samwell Areson](https://open.spotify.com/artist/6JImh9OJIpeofUiJUEXyRE) | [Praise the Lord](https://open.spotify.com/album/0CqdZh1JjqCM8GPKtAvR6m) | 2:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [ADDU'A II](https://open.spotify.com/track/5ESYQHR8yWsvdBzQqZteFu) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [ADDU'A II](https://open.spotify.com/album/25REAlmke4usAabXdUCwGK) | 6:19 |
 | 101 | [Joy in My Soul](https://open.spotify.com/track/1JTwQuWkcdC9qkGu0hQd3q) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Joy in My Soul](https://open.spotify.com/album/6By6oPEvedkcu7Rx5WpwY8) | 2:50 |
 
-Snapshot ID: `AAAAADTh8ntgHT3EvFJAs0AML05oq9IT`
+Snapshot ID: `AAAAABblMj7+D9c4TJbgjklzZ4OdaA9Q`

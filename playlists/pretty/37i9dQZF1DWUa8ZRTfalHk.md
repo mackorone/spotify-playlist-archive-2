@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,196,866 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,197,001 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Closet](https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 2:26 |
 | 100 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
 
-Snapshot ID: `AAAAAJl11h2zHlGl0j399tFu9e8ZKSjY`
+Snapshot ID: `AAAAABzuhgrrrqBnPerKV8sox7Tuk3aA`

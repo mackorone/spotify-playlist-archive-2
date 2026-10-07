@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Miranda Lambert and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,639,965 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,640,274 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Shoot The Bull](https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 3:04 |
 | 50 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 
-Snapshot ID: `AAAAAMGuhlc3dkISIgqJO36gQsSQf7nh`
+Snapshot ID: `AAAAAAyjldkSYc6NL58OcvObadfat4B9`

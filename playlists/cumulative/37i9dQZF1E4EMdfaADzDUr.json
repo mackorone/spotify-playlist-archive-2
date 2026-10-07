@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, Leblanc, winterburn and more",
+  "description": "With After Cooking, winterburn, Douran and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 227812,
       "name": "Advent",
       "url": "https://open.spotify.com/track/1KMnfkdoAFYeKyPkGLqXqf"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 279359,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/26BaGezokStdgrM4kbBrsn"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 233079,
       "name": "ARCHETYPE",
       "url": "https://open.spotify.com/track/0sYddq4nT7BAF4OHvlRUV1"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 248893,
       "name": "Beyond My Mind",
       "url": "https://open.spotify.com/track/0seMnOYkb3jSGaiAWoOAPs"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 310942,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 413658,
       "name": "By the Brook",
       "url": "https://open.spotify.com/track/1CxkJzZB7IDqE5HtevW6JT"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 234240,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 219943,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3GcBtVmttDb09bMaCTNnCW"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 248005,
       "name": "Golden Ratio",
       "url": "https://open.spotify.com/track/2TwMYyNRaz1dQ6iWY4mEze"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 397216,
       "name": "In Between (Memories and Dreams)",
       "url": "https://open.spotify.com/track/5drR4fvdJgyGW6qxvErptp"
@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Kinkajou / Vozzhayevka",
+        "url": "https://open.spotify.com/album/6slB1YChp5zUjPTjZ47dbN"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Max Wexem",
+          "url": "https://open.spotify.com/artist/2bIBPJVhxlrReHuqlxrhzu"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Kinkajou",
+      "url": "https://open.spotify.com/track/5kZ3vTkyXQ2jE4MJLyW4A9"
+    },
+    {
+      "album": {
         "name": "Heian",
         "url": "https://open.spotify.com/album/4SqKEZuNlWXKh0muLXS1Al"
       },
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "Korienz\u00e9",
       "url": "https://open.spotify.com/track/5vBHUYljaHEVUKI3blpb8i"
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 260105,
       "name": "Like Drugs",
       "url": "https://open.spotify.com/track/2LU9t30EzGaWN5JJG2YZaS"
@@ -2952,7 +2974,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 225000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 335250,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/4zgjUwITPoDoy7xZ2Keco1"
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 279440,
       "name": "Nuclear Fission",
       "url": "https://open.spotify.com/track/7MEcVIZxNQOxRmaafMVvId"
@@ -3762,7 +3784,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 235161,
       "name": "Osmania",
       "url": "https://open.spotify.com/track/0w01wALkj28OhGVI1ZSpLf"
@@ -4008,7 +4030,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -4322,7 +4344,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 219832,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/7xscsJutf7zrEAGuSLzTYQ"
@@ -4470,7 +4492,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195238,
       "name": "Rwanda",
       "url": "https://open.spotify.com/track/49LaPsUVPkYcNRILcwQ1jX"
@@ -4524,7 +4546,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -4850,7 +4872,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 219317,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1iCPxpiD6HT7es28nNKtjn"
@@ -4922,7 +4944,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 282464,
       "name": "Space Race",
       "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
@@ -4976,7 +4998,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -5200,7 +5222,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 259523,
       "name": "Tacoma - Gone Remix",
       "url": "https://open.spotify.com/track/6MdquCVCI0a0Fqfr1Effkx"
@@ -5521,6 +5543,32 @@
     },
     {
       "album": {
+        "name": "MUTE",
+        "url": "https://open.spotify.com/album/7sZUJj6iZF5kS4vwiCrhOD"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282253,
+      "name": "The Robot Test",
+      "url": "https://open.spotify.com/track/0KtVXCT33wA7kuD3wajwG0"
+    },
+    {
+      "album": {
         "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
         "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
       },
@@ -5608,7 +5656,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 347984,
       "name": "Threshold",
       "url": "https://open.spotify.com/track/7ik2IjTeP9uPrkAERaqjRX"
@@ -5746,7 +5794,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 261639,
       "name": "Treason",
       "url": "https://open.spotify.com/track/7MgTiHlhs3IGN9cHoAKHbJ"
@@ -5854,7 +5902,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -6096,7 +6144,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 294240,
       "name": "Wei\u00dfstorch",
       "url": "https://open.spotify.com/track/5QJ7iRiie9SP5kck7pSrXW"
@@ -6168,7 +6216,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -6258,7 +6306,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"
@@ -6374,7 +6422,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 223125,
       "name": "you are not like the others",
       "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"
@@ -6414,7 +6462,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

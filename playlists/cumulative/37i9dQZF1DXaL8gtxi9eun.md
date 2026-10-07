@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: رحمه محسن
 
-554 songs - 1 day 8 hr 37 min
+555 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Kadab](https://open.spotify.com/track/39eUkvEEyIcVn7zem73Eb6) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kadab](https://open.spotify.com/album/7lG6TXcVFQWlJerEEZqxIA) | 2:02 | 2026-09-15 |  |
 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 | 2024-02-17 | 2024-11-19 |
 | [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 | 2025-06-10 | 2026-04-23 |
+| [Kan Andak Kam Sana](https://open.spotify.com/track/7gh3wCFApvGj2m7jxG9uFd) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Kan Andak Kam Sana](https://open.spotify.com/album/61ZickHAjsyDteiEGrPnSy) | 3:02 | 2026-10-06 |  |
 | [Keda Keda](https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Judy Ahmed Saad](https://open.spotify.com/artist/3h2b6sDomoUhwGjvhHROF0) | [Keda Keda](https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB) | 3:13 | 2026-07-30 |  |
 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-02-01 |
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2022-05-04 | 2022-07-15 |
@@ -307,7 +308,7 @@
 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 | 2026-04-15 | 2026-07-07 |
 | [SEBY NAFSEK KHALES](https://open.spotify.com/track/7dR4nnWzcUDpcW67jnOTfs) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [SEBY NAFSEK KHALES](https://open.spotify.com/album/6JcLDIgrEHF8u6D1K95acY) | 3:11 | 2026-07-06 |  |
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-06-23 | 2023-08-02 |
-| [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 | 2026-09-09 |  |
+| [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 | 2026-09-09 | 2026-10-07 |
 | [Seneen](https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Seneen](https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ) | 3:34 | 2026-01-20 | 2026-07-07 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2022-05-04 | 2022-10-25 |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-09 | 2023-07-12 |

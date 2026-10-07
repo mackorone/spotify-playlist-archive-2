@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15598,
+  "num_followers": 15605,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKrtAYEozyDdC9KBo6aCxVW5sMC",
+  "snapshot_id": "AAAAANQLgTBUyo9oVhZaLHD8mzK9yrib",
   "tracks": [
     {
       "added_at": "2026-07-24 08:44:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "Mark Lee",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Raincouver",
-      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
         "name": "Life is Wet",
         "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 186000,
       "name": "Life is Wet",
       "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Raincouver",
+      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
     },
     {
       "added_at": "2026-07-24 08:44:23",

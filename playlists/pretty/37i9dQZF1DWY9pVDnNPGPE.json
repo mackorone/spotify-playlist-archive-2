@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12173,
+  "num_followers": 12174,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAFmGXXzKCGgzS7JxOztvVKR9Owl",
+  "snapshot_id": "AAAAAMuenGF/rZlBYXJb0bjRnYcqU59P",
   "tracks": [
     {
       "added_at": "2026-09-03 07:10:58",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 189706,
       "name": "Small girl (feat. D.O.)",
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "DEPEND ON YOU",
-      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 214950,
+      "name": "dance all night",
+      "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "Wherever",
         "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 214950,
-      "name": "dance all night",
-      "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
     },
     {
       "added_at": "2026-09-03 07:10:58",

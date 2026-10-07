@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-593 songs - 1 day 9 hr 37 min
+595 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 | 2026-02-15 | 2026-08-24 |
 | [Mamacitas](https://open.spotify.com/track/76aa6qBm74ppxHmK4Kg3nN) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [รวมฮิต FLO](https://open.spotify.com/album/6BPtbSSWNk0lNKRBL5CBvy) | 3:26 | 2026-08-23 |  |
 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 | 2022-09-08 |  |
-| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 |  |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 | 2026-10-07 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-16 | 2025-09-29 |
 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 | 2025-12-04 |  |
 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 | 2022-11-18 |  |
@@ -339,6 +339,7 @@
 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 | 2022-09-08 |  |
 | [Muscle](https://open.spotify.com/track/5tG0MS4Q2AgehP1Rara7ui) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 4:00 | 2023-12-13 |  |
 | [Muscle](https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:00 | 2022-09-08 | 2023-12-14 |
+| [MUSCLE MARYS..](https://open.spotify.com/track/7tnOR8TWcJGSSfoGbewXf7) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 3:23 | 2026-10-06 |  |
 | [My Love 4 U](https://open.spotify.com/track/4lgSKKXmDPdhxvWwiNz07C) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(Official Video\)](https://open.spotify.com/album/2AkZpFF1g3SAwNayEo8fwo) | 3:11 | 2023-12-16 | 2024-02-01 |
 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 | 2022-09-08 |  |
 | [My Moom](https://open.spotify.com/track/64Uko1fSeQhw6gGYf5jxEm) | [Zun Work](https://open.spotify.com/artist/5YtRQ0n03wcJ5dVm86SY04) | [Unlimited](https://open.spotify.com/album/6j4irzpNp7G0Q0PI6GYqxw) | 2:29 | 2023-12-13 | 2025-06-28 |
@@ -406,6 +407,7 @@
 | [Press Rewind](https://open.spotify.com/track/26GKELlEnxOfYpUDJ5etbB) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Stay Together](https://open.spotify.com/album/1a1d7otjF9oxSGHHlSGbmo) | 5:01 | 2025-01-09 | 2025-04-12 |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-26 | 2025-09-29 |
 | [Pretty Ugly](https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:38 | 2025-09-28 |  |
+| [Pretty Ugly \- Girls Trip](https://open.spotify.com/track/3t6k4z2biWM5y3RaKYHo4W) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Margo XS](https://open.spotify.com/artist/4TfgyYjNRfHUdPJSQGUke0) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:28 | 2026-10-06 |  |
 | [Private](https://open.spotify.com/track/7pFPQAQV2XxbhMlvs3Ym75) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 3:10 | 2022-09-08 |  |
 | [Private](https://open.spotify.com/track/3lRX3PJF531A3b7C2z8UKG) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 2:29 | 2023-12-13 | 2025-06-28 |
 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 | 2024-12-11 |  |

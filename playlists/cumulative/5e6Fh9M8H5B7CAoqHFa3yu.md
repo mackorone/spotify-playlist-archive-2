@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,665 songs - 6 day 11 hr 17 min
+2,667 songs - 6 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Booty Workout 144BPM \(Hiit Mix 30\-10\)](https://open.spotify.com/track/3YQ5g2cPChJzzIhKcP182r) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [High Intensity Training](https://open.spotify.com/album/1JJwI42eaM8Vo4tJjNfwBS) | 1:20 | 2024-03-08 |  |
 | [Born Free](https://open.spotify.com/track/2gdJQePF3LkqluWUmFjZnu) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Very Best Of Matt Monro](https://open.spotify.com/album/1n4VuuvNLZepFrHucqrBIl) | 2:48 | 2026-03-15 |  |
 | [Borrowed Light](https://open.spotify.com/track/1bho1XejCPCYz4G6RJ3CS4) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:54 | 2026-07-16 |  |
+| [Borrowed Time](https://open.spotify.com/track/6UhQ7qEpXlCGreefjM6Ely) | [Sentriz](https://open.spotify.com/artist/0IsnUloaBFGEuNXqPlNn5t) | [Borrowed Time](https://open.spotify.com/album/72QOa3mGgM6Ghh7MOt66Ti) | 3:42 | 2026-10-06 |  |
 | [Bossa Nova](https://open.spotify.com/track/0JP57TrgNaFzRgE3Fq403n) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:29 | 2026-10-02 |  |
 | [bossanova](https://open.spotify.com/track/6DCLJAi26EOix1B1NFdjx3) | [Zoe Gabrielle](https://open.spotify.com/artist/18o0M5S6lejez1ZWSQH2aq) | [Big Fucking Whoop](https://open.spotify.com/album/3HuPTPGIIwc6w7mRzbv16e) | 2:16 | 2025-11-18 |  |
 | [Botanical Bongo](https://open.spotify.com/track/0bhZPudq7aSiywPKGAR4f9) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:49 | 2024-05-01 |  |
@@ -1310,6 +1311,7 @@
 | [Life Giver](https://open.spotify.com/track/3lRoi8nA7KhagN9UYQLPcp) | [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Book Of Daniel](https://open.spotify.com/album/2XzXT3GWKksLTxcaCoQc6I) | 3:38 | 2024-03-25 |  |
 | [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 | 2026-03-25 |  |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2026-03-15 |  |
+| [Life Goes On](https://open.spotify.com/track/0szGGovWjmEG1k3ZwdqTWw) | [S1J](https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG), [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Your Favorite Sins](https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU) | 1:52 | 2026-10-07 |  |
 | [Life in a Trance](https://open.spotify.com/track/0z1FdNC5zjBUbbCMIozWsX) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:31 | 2024-09-25 |  |
 | [Lifted \- Dub](https://open.spotify.com/track/2197x7hAKTe441x8MspFnu) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Zacheous Jackson](https://open.spotify.com/artist/5UdtdI2aqCEAoUizwEgGvz), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 5:16 | 2024-05-04 |  |
 | [Lifted Up](https://open.spotify.com/track/6yRnWR0p1lYBCTOK4Kqs1u) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Zacheous Jackson](https://open.spotify.com/artist/5UdtdI2aqCEAoUizwEgGvz), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 4:21 | 2024-05-04 |  |
@@ -1647,7 +1649,7 @@
 | [Nunca existiu](https://open.spotify.com/track/7K8StUZmGTUCfz5tj5zE7z) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Nunca existiu](https://open.spotify.com/album/6210vDcCo0uFR4kxpkQURI) | 2:44 | 2025-11-17 |  |
 | [Nura](https://open.spotify.com/track/1r0tSRtG85WzU8BXY9w3WP) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Nura](https://open.spotify.com/album/3Qw5OcvnTYtXjU78OmDDwQ) | 2:00 | 2025-03-18 |  |
 | [Nutbush City Limits](https://open.spotify.com/track/06yREZ9X92R2e9RJpdzZ2O) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:01 | 2024-03-04 |  |
-| [Näkemiin & Secundaa](https://open.spotify.com/track/3CKUOcYNNA7bwkmGO5Hq1l) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:59 | 2026-09-23 |  |
+| [Näkemiin & Secundaa](https://open.spotify.com/track/3CKUOcYNNA7bwkmGO5Hq1l) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:59 | 2026-09-23 | 2026-10-07 |
 | [O Desafio](https://open.spotify.com/track/6Oahw9RuzO5t6FAhBzto16) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 3:20 | 2025-06-16 |  |
 | [O Desafio](https://open.spotify.com/track/6Yhtieupfq7WwgmZPpjyXC) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 3:20 | 2026-03-16 |  |
 | [O Meri Jana](https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk) | [sarkar\_1](https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5) | [O Meri Jana](https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY) | 3:46 | 2026-05-26 |  |

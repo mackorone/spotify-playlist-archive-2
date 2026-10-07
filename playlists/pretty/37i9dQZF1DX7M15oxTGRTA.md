@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,447 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,545 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 80 | [The Closer I Get to You](https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:40 |
 | 81 | [Remind Me \- Remastered](https://open.spotify.com/track/0vDu3wX2y4gMCYxkkvN08W) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 5:19 |
 | 82 | [Good Love](https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Giving You the Best That I Got](https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W) | 5:33 |
-| 83 | [Cada Um, Cada Um](https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse) | [Claudio Zoli](https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav) | [Cláudio Zoli](https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ) | 4:48 |
-| 84 | [Clouds](https://open.spotify.com/track/1opSxQP8KkdKOGvbvlmuIV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Naughty](https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC) | 4:25 |
+| 83 | [Clouds](https://open.spotify.com/track/1opSxQP8KkdKOGvbvlmuIV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Naughty](https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC) | 4:25 |
+| 84 | [Cada Um, Cada Um](https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse) | [Claudio Zoli](https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav) | [Cláudio Zoli](https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ) | 4:48 |
 | 85 | [One Step Ahead](https://open.spotify.com/track/1L2v0m8OZthSoBHGpOwpV2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Genesis of Aretha: 1960\-1966](https://open.spotify.com/album/46rXeT9V36y4MaVgPWXlKf) | 2:33 |
 | 86 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
 | 87 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 96 | [Stronger Than Before](https://open.spotify.com/track/4Xt62tjE20m3ATFv9zXrgi) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:21 |
 | 97 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
 | 98 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
-| 99 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
-| 100 | [Settle For My Love](https://open.spotify.com/track/4QCCDd71NAygvMG3CzVDjT) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 5:15 |
+| 99 | [Settle For My Love](https://open.spotify.com/track/4QCCDd71NAygvMG3CzVDjT) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 5:15 |
+| 100 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
 
-Snapshot ID: `AAAAACZ/6ucV1yIU6z/MNi6xW7raalnA`
+Snapshot ID: `AAAAAEUf4B7AQeiWBgzPc2SdFHYPeUIM`

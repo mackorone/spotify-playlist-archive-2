@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > we got it covered
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081,965 likes - 104 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081,868 likes - 104 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 103 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
 | 104 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 
-Snapshot ID: `AAAAAO7jMSRD/6VdIMMKYPhadAlT24rT`
+Snapshot ID: `AAAAAKPC2gO/QCjgFYhh4h0I6/uDECDL`

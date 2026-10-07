@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 61 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
 | 62 | [Best Part](https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Best Part](https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc) | 4:40 |
 | 63 | [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 |
-| 64 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
-| 65 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
+| 64 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
+| 65 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 66 | [Seventeen](https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Seventeen](https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3) | 3:02 |
 | 67 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 |
 | 68 | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 75 | [Always On My Mind](https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn) | [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Always On My Mind](https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk) | 3:13 |
 
-Snapshot ID: `AAAAACmdNY27kkhjiMOAKOxGVkuUuLg4`
+Snapshot ID: `AAAAALycvS+eI8zDwkiNGA43ormWFPXw`

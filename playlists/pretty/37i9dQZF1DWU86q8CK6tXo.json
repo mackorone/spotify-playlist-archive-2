@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Josie Edwards",
-  "num_followers": 65711,
+  "num_followers": 65708,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALErQchQhBwV7sEgeVyLh4Xtv9Du",
+  "snapshot_id": "AAAAAFd3XqtPAZDPYpg6dqz1HZmF2rmz",
   "tracks": [
     {
       "added_at": "2026-10-05 15:51:33",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Get Hit",
-        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        }
-      ],
-      "duration_ms": 114928,
-      "name": "Get Hit",
-      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "Bones and All",
         "url": "https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 201666,
       "name": "Bones and All",
       "url": "https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Get Hit",
+        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "duration_ms": 114928,
+      "name": "Get Hit",
+      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "Expensive & Difficult",
+      "url": "https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
         "name": "Thank God",
         "url": "https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "AUDACITY",
-        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
       },
       "artists": [
         {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 169093,
-      "name": "Expensive & Difficult",
-      "url": "https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX"
+      "duration_ms": 173827,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -575,22 +591,6 @@
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 173827,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Sugar Trap",
-        "url": "https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Sugar Trap",
-      "url": "https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "The World Keeps Spinning",
         "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 135306,
       "name": "The World Keeps Spinning",
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Sugar Trap",
+        "url": "https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Sugar Trap",
+      "url": "https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2"
     },
     {
       "added_at": "2026-10-05 15:51:33",

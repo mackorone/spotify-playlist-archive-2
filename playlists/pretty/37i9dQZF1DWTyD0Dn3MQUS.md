@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyD0Dn3MQUS.md) - [plain]
 
 > Enjoy NCT 127's 5TH TOUR 'NEO CITY \- THE REDLINE' LIVE SET including their voices from the stage! \(NCT 127의 무대 멘트와 목소리가 포함된 'NEO CITY \- THE REDLINE' 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,416 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,443 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyD0Dn3MQUS.md) - [plain]
 | 29 | [Promise You](https://open.spotify.com/track/6NgnzFTrGz9jINgUmZiqfx) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk) | 3:31 |
 | 30 | [MENT 5](https://open.spotify.com/track/1zSR91KJB4PprYFtkkhnW1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT 127 5TH TOUR \[NEO CITY \- THE REDLINE\]](https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV) | 0:40 |
 
-Snapshot ID: `AAAAAHyE+AmqEZRtP02QBf+936LZ9xh6`
+Snapshot ID: `AAAAAO4UxPOegJMJEAeQqJ5sc/yKIPzy`

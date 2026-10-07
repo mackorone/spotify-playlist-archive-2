@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/72QOa3mGgM6Ghh7MOt66Ti"
+      },
+      "artists": [
+        {
+          "name": "Sentriz",
+          "url": "https://open.spotify.com/artist/0IsnUloaBFGEuNXqPlNn5t"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/6UhQ7qEpXlCGreefjM6Ely"
+    },
+    {
+      "album": {
         "name": "Beat Tape 1",
         "url": "https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3"
       },
@@ -24757,6 +24775,28 @@
     },
     {
       "album": {
+        "name": "Your Favorite Sins",
+        "url": "https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU"
+      },
+      "artists": [
+        {
+          "name": "S1J",
+          "url": "https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG"
+        },
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112825,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0szGGovWjmEG1k3ZwdqTWw"
+    },
+    {
+      "album": {
         "name": "Veil of Conformity",
         "url": "https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey"
       },
@@ -31170,7 +31210,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 119880,
       "name": "N\u00e4kemiin & Secundaa",
       "url": "https://open.spotify.com/track/3CKUOcYNNA7bwkmGO5Hq1l"

@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 135890,
+  "num_followers": 135924,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAJrZILXONL4Zn3z0KWh/CTT5S98",
+  "snapshot_id": "AAAAABFjkYLe8rxbG2PCZ8LvQqXjcHX6",
   "tracks": [
     {
       "added_at": "2025-09-30 11:32:09",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -515,26 +531,6 @@
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -587,6 +583,26 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 182226,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
     },
     {
       "added_at": "2025-09-30 11:32:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Winter Hotel, Corlea, ROUX, Keynan Fox, Abigail de Villiers, Akademia en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,603 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,606 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Jy's Die Antwoord](https://open.spotify.com/track/19CQNifHCgJl9QppOQohPp) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r), [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Jy's Die Antwoord](https://open.spotify.com/album/2Ks1vu2EuAdVLhJz7DMOdC) | 3:10 |
 | 60 | [Tree Terug](https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX), [Net Francois](https://open.spotify.com/artist/6ZRHHVXgxYnvQHn1VNcHmk) | [Tree Terug](https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn) | 3:40 |
 
-Snapshot ID: `AAAAAMN3gt/uyvzPCauEvGF2qjBBd7eb`
+Snapshot ID: `AAAAANKJKgV+tOvEywPFNy5e+f6LYdaP`

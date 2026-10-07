@@ -1843,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "Such A Good Feeling (Tommy Mc Remix)",
+        "url": "https://open.spotify.com/album/6G36pryg1NtONjqEyR3GpX"
+      },
+      "artists": [
+        {
+          "name": "Brothers In Rhythm",
+          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
+        },
+        {
+          "name": "Tommy Mc",
+          "url": "https://open.spotify.com/artist/3EKGHC0HhsytwEFdSt5p9p"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Such A Good Feeling - Tommy Mc Remix",
+      "url": "https://open.spotify.com/track/6iu5cpI2E63K9Zymus4Ey9"
+    },
+    {
+      "album": {
         "name": "Sweater Weather",
         "url": "https://open.spotify.com/album/6DClWjSL0eJtRKTNM8efE2"
       },

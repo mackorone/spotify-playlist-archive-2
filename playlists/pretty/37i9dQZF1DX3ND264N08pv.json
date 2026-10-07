@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 97051,
+  "num_followers": 97060,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHqJmIw5iePI3Gw2VuEZFt0i6iAk",
+  "snapshot_id": "AAAAAEam8nqYKiZyL57kd/jBhl8DWGjT",
   "tracks": [
     {
       "added_at": "2026-09-28 12:47:18",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-09-28 12:47:18",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7KpN5YOLMSR9L1BZEjTtD8"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 188914,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/1Wh4d4pQj9LXkTb02OYbQA"
-    },
-    {
-      "added_at": "2026-09-28 12:47:18",
-      "album": {
         "name": "Hardcore Bass",
         "url": "https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 168855,
       "name": "Hardcore Bass",
       "url": "https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt"
+    },
+    {
+      "added_at": "2026-09-28 12:47:18",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7KpN5YOLMSR9L1BZEjTtD8"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 188914,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/1Wh4d4pQj9LXkTb02OYbQA"
     },
     {
       "added_at": "2026-09-28 12:47:18",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-09-28 12:47:18",
       "album": {
-        "name": "Tequila In My Eyes",
-        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Tequila In My Eyes",
-      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-09-28 12:47:18",
-      "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
+    },
+    {
+      "added_at": "2026-09-28 12:47:18",
+      "album": {
+        "name": "Tequila In My Eyes",
+        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Tequila In My Eyes",
+      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
     },
     {
       "added_at": "2026-09-28 12:47:18",

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 714151,
+  "num_followers": 714321,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXirj3F+o1DhUs7grat5X1WIXHo",
+  "snapshot_id": "AAAAAOSoxZUAvZagTXEJoJTtORqDGocq",
   "tracks": [
     {
       "added_at": "2026-06-30 12:26:56",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "La Rua Madureira",
-      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Ilo Veyou",
         "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
       "artists": [
         {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+      "duration_ms": 197880,
+      "name": "La Rua Madureira",
+      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -319,6 +303,22 @@
       "duration_ms": 194863,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
-        }
-      ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Hoping for Love",
         "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 253000,
       "name": "Le Poisson Des Mers Du Sud",
       "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 150973,
       "name": "Cette Nuit l\u00e0",
       "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "Frenchy (Deluxe Version)",
         "url": "https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 180866,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "Venez donc chez moi",
         "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 180139,
       "name": "J\u2019aime Paris au mois de mai",
       "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2026-06-30 12:26:56",

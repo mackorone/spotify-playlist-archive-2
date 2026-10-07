@@ -10231,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "Can't Define",
+        "url": "https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR"
+      },
+      "artists": [
+        {
+          "name": "AUGUXT",
+          "url": "https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Can't Define",
+      "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
+    },
+    {
+      "album": {
         "name": "Can't Get My Head Around It",
         "url": "https://open.spotify.com/album/0hjEh4U8ysxucLiUgb4kbS"
       },
@@ -30849,6 +30867,32 @@
     },
     {
       "album": {
+        "name": "I Need EP",
+        "url": "https://open.spotify.com/album/7LvFbt0joNJXFFGghdeETA"
+      },
+      "artists": [
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        },
+        {
+          "name": "Jungle Georgia",
+          "url": "https://open.spotify.com/artist/3B3QwBPt7bJdfjm7DnBBxz"
+        },
+        {
+          "name": "DJ Sarah",
+          "url": "https://open.spotify.com/artist/2ENBr5U6mFa8ylriwcKdfh"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "I Need - 5AM Sunrise Mix",
+      "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
+    },
+    {
+      "album": {
         "name": "I Need a Miracle (Club Edit)",
         "url": "https://open.spotify.com/album/39x59ywGEdLsDE8LGdEO1y"
       },
@@ -43002,7 +43046,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 302343,
       "name": "Night After Night",
       "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
@@ -47337,6 +47381,32 @@
     },
     {
       "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/5xzfbBtV2iiQBBCcZwCU6w"
+      },
+      "artists": [
+        {
+          "name": "rom&BAAWLA",
+          "url": "https://open.spotify.com/artist/7dZtqcWfXuGDTyi1WLModI"
+        },
+        {
+          "name": "rom",
+          "url": "https://open.spotify.com/artist/75ybiVnYYHgBNx08VrIyLM"
+        },
+        {
+          "name": "BAAWLA",
+          "url": "https://open.spotify.com/artist/0jaVYitpvZqkDSpDXScIu2"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259411,
+      "name": "PEOPLE (Stomping)",
+      "url": "https://open.spotify.com/track/7HbGe9tgbqhe6ZqrnAUY1P"
+    },
+    {
+      "album": {
         "name": "RDV Discoteca",
         "url": "https://open.spotify.com/album/0bZJq4bd6VHDnU8CHY6dP6"
       },
@@ -48386,7 +48456,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 216000,
       "name": "Power",
       "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
@@ -52829,6 +52899,24 @@
     },
     {
       "album": {
+        "name": "Senses EP",
+        "url": "https://open.spotify.com/album/75PvOaZ2Ioo5jUBQNpxpwD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396666,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
+    },
+    {
+      "album": {
         "name": "Senses",
         "url": "https://open.spotify.com/album/662bn674V62JlOIqCkHB28"
       },
@@ -54334,7 +54422,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 195899,
       "name": "SKULL",
       "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
@@ -67780,7 +67868,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 177187,
       "name": "Where I Stand",
       "url": "https://open.spotify.com/track/3SkuTkIkeNa9l2UCexClYh"

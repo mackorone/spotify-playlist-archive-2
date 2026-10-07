@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 372234,
+  "num_followers": 372263,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4qMoxVeCvi1hGcnAGV84RCRLQU",
+  "snapshot_id": "AAAAAK5YxdSd47I7FKpuxy9TcCp68+w9",
   "tracks": [
     {
       "added_at": "2024-07-11 15:48:05",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Sin Ti - Remasterizado",
-      "url": "https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
         "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 190386,
       "name": "Pagina Blanca",
       "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Sin Ti - Remasterizado",
+      "url": "https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Dame Que Te Doy",
-        "url": "https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs"
-      },
-      "artists": [
-        {
-          "name": "Maria Victoria",
-          "url": "https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Cuidadito, Cuidadito",
-      "url": "https://open.spotify.com/track/2eNyia284twoi86yKlDFxV"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 163853,
       "name": "Mar y Cielo",
       "url": "https://open.spotify.com/track/1Y4Mmj1ssPrXQpkImdctyA"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Dame Que Te Doy",
+        "url": "https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs"
+      },
+      "artists": [
+        {
+          "name": "Maria Victoria",
+          "url": "https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Cuidadito, Cuidadito",
+      "url": "https://open.spotify.com/track/2eNyia284twoi86yKlDFxV"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Inspiraciones de Siempre",
-        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Inspiraciones de Siempre",
+        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Romanticamente Trios Vol. 9",
-        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
-      },
-      "artists": [
-        {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Romanticamente Trios Vol. 9",
+        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
+      },
+      "artists": [
+        {
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
+        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
+      },
+      "artists": [
+        {
+          "name": "Trio Caribe",
+          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Son De La Loma",
+      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 188963,
       "name": "Esta Melodia",
       "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
-        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
-      },
-      "artists": [
-        {
-          "name": "Trio Caribe",
-          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Son De La Loma",
-      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Una Copa M\u00e1s",
+        "url": "https://open.spotify.com/album/51If9keVmTRGDzOZ6npnky"
+      },
+      "artists": [
+        {
+          "name": "Hernando Avil\u00e9s",
+          "url": "https://open.spotify.com/artist/1qIqCjFr9BRIsxiKPWWHeV"
+        },
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 178224,
+      "name": "No Me Quieras Tanto (Bolero)",
+      "url": "https://open.spotify.com/track/427gTQ1L5cTv9OtKNC13aE"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Una Copa M\u00e1s",
-        "url": "https://open.spotify.com/album/51If9keVmTRGDzOZ6npnky"
-      },
-      "artists": [
-        {
-          "name": "Hernando Avil\u00e9s",
-          "url": "https://open.spotify.com/artist/1qIqCjFr9BRIsxiKPWWHeV"
-        },
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 178224,
-      "name": "No Me Quieras Tanto (Bolero)",
-      "url": "https://open.spotify.com/track/427gTQ1L5cTv9OtKNC13aE"
     }
   ],
   "unique_name": "Tr\u00edos y Boleros Rom\u00e1nticos",

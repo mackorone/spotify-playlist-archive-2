@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 95913,
+  "num_followers": 95924,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+XrCpyTE7TEFJtZ58c3dxn0wib",
+  "snapshot_id": "AAAAALncIdW0v0nbuU1Zcl4qYH8tuH4g",
   "tracks": [
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "In the Sky",
         "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
       },
@@ -1620,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1655,22 +1671,6 @@
       "duration_ms": 189246,
       "name": "Say, Can You Hear",
       "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
     }
   ],
   "unique_name": "Best of Indie 2018",

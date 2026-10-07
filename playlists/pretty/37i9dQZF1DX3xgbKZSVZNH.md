@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,903 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,945 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 49 | [When Love And Hate Collide](https://open.spotify.com/track/5HJoLjMetgvuOyvuubDl1g) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Best Of](https://open.spotify.com/album/2MHIDS8G3Er8PUI7QkgoXi) | 4:16 |
 | 50 | [All By Myself](https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/0351W7FeCQal5XzaR161tW) | 7:15 |
 
-Snapshot ID: `AAAAADKSpfod9qc0rtz6Zt8MXmkYrKTZ`
+Snapshot ID: `AAAAAN8Gxx63579M7OPbGsEo/GAzdQR4`

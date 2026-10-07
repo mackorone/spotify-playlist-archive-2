@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Txmmyily
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,056 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,090 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
 | 80 | [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 |
 
-Snapshot ID: `AAAAACQHl96HRqwF2OxTgEXUR8HTHg2g`
+Snapshot ID: `AAAAANff555di609eBywCRcop3uf4GLD`

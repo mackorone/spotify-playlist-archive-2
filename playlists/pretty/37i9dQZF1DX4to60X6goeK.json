@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76905,
+  "num_followers": 76916,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8cW3GS5xMMjgDq2F4LE08Z67Xa",
+  "snapshot_id": "AAAAAONEN0Ri2Tt7B56ZosygDqGeJwHo",
   "tracks": [
     {
       "added_at": "2026-10-02 09:59:15",
@@ -191,22 +191,26 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG"
+        "name": "Options",
+        "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
         },
         {
-          "name": "Entity",
-          "url": "https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t"
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
         }
       ],
-      "duration_ms": 139310,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG"
+      "duration_ms": 202758,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -235,26 +239,22 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG"
       },
       "artists": [
         {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         },
         {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "Entity",
+          "url": "https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t"
         }
       ],
-      "duration_ms": 202758,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
+      "duration_ms": 139310,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -743,6 +743,30 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Carasel",
+          "url": "https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "USB",
+      "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -819,6 +843,26 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
@@ -859,50 +903,6 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
-      },
-      "artists": [
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Carasel",
-          "url": "https://open.spotify.com/artist/4tKJAusQAI9xHrHyDUTf0f"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "USB",
-      "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/4aLilCwYZ1lV0GldFFQHyJ"
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
       "artists": [
         {
-          "name": "ring noord",
-          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
         }
       ],
-      "duration_ms": 206511,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/7k0ozQX1ZvVYCBwkeSWOct"
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     }
   ],
   "unique_name": "Jump Up!",

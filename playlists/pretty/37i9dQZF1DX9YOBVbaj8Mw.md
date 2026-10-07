@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,408 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,406 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 29 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 30 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
 | 31 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
-| 32 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
-| 33 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
+| 32 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
+| 33 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
 | 34 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
 | 35 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
 | 36 | [Co za stan](https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 2:39 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 44 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |
 | 45 | [Canon](https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Dawid Fortuna](https://open.spotify.com/artist/4xVlgpnFp1beopNgUNSIDk) | [Portraits](https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN) | 4:47 |
 | 46 | [Life Is A Game](https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:32 |
-| 47 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
-| 48 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
+| 47 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
+| 48 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
 | 49 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
 | 50 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
 | 51 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Seventh Sand](https://open.spotify.com/track/5WzkuUQM1dj3IQIpI8Poey) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 6:55 |
 | 79 | [number 4](https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [neurodivergent](https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu) | 3:09 |
 
-Snapshot ID: `AAAAACY6RJCSA/fFcb419U9xGxx/oT6T`
+Snapshot ID: `AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO`

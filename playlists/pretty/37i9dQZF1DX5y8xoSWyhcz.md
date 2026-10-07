@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,087 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,103 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Higher](https://open.spotify.com/track/736dtUONBLraRNmUFBixTX) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Run, Run Pure Beauty](https://open.spotify.com/album/6tEKOTU8xDuIabBbNTkoam) | 4:06 |
 | 100 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 
-Snapshot ID: `AAAAAEsgqxkWb8hdQqMjEFVtIZO+uKPA`
+Snapshot ID: `AAAAAHNs/n9tK6+RYXDbaYvGtqKgJZ0s`

@@ -1,12 +1,12 @@
 {
   "description": "New music from Victoria Mon\u00e9t, Bruno Mars, Noah Kahan, Lil Nas X,  BOYNEXTDOOR, Anirudh Ravichander, Super Subu, Kaer Azami, NAKI, and more!",
-  "num_followers": 76022,
+  "num_followers": 76023,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPV9e+6S6/kTUBwm5bGlw+mU9fc",
+  "snapshot_id": "AAAAAE8TFxDUIZr3yOLCsg6J42k3AL26",
   "tracks": [
     {
       "added_at": "2026-10-01 16:00:13",
@@ -1999,7 +1999,7 @@
     {
       "added_at": "2026-10-01 16:00:13",
       "album": {
-        "name": "Big Ideas (feat. Rachel Brown)",
+        "name": "Big Ideas",
         "url": "https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ"
       },
       "artists": [
@@ -2010,14 +2010,10 @@
         {
           "name": "thanks for coming",
           "url": "https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w"
-        },
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad"
         }
       ],
       "duration_ms": 254802,
-      "name": "Big Ideas (feat. Rachel Brown)",
+      "name": "Big Ideas",
       "url": "https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1"
     },
     {

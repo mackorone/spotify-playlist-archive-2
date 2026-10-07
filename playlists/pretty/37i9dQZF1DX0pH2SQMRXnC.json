@@ -1,12 +1,12 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1568114,
+  "num_followers": 1568304,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoTKSWLR/mgGORGBIPg7YDN2PzT",
+  "snapshot_id": "AAAAAG6NfdS5kx5V0arkW9RcLTrDNWld",
   "tracks": [
     {
       "added_at": "2026-09-28 12:07:27",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
+        "name": "FCK DAT!",
+        "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "duration_ms": 167378,
+      "name": "FCK DAT!",
+      "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
         "name": "4 THE SCENE",
         "url": "https://open.spotify.com/album/6KP7d6om2F114FQZ8x3nM0"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 202838,
       "name": "4 THE SCENE",
       "url": "https://open.spotify.com/track/2Tbz9ZMUoqh6iCHafGYfV4"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "FCK DAT!",
-        "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
-        }
-      ],
-      "duration_ms": 167378,
-      "name": "FCK DAT!",
-      "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1155,26 +1155,22 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "WAITING 4",
-        "url": "https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN"
+        "name": "Coco Jamboo",
+        "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
       },
       "artists": [
         {
-          "name": "4444 OF A KIND",
-          "url": "https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         },
         {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
         }
       ],
-      "duration_ms": 224516,
-      "name": "WAITING 4",
-      "url": "https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ"
+      "duration_ms": 124012,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5N4alh9Kc98YbEyX1yYOFb"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1199,38 +1195,26 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Coco Jamboo",
-        "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
+        "name": "WAITING 4",
+        "url": "https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "4444 OF A KIND",
+          "url": "https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di"
         },
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 124012,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5N4alh9Kc98YbEyX1yYOFb"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0"
-      },
-      "artists": [
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 207483,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr"
+      "duration_ms": 224516,
+      "name": "WAITING 4",
+      "url": "https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1251,6 +1235,22 @@
       "duration_ms": 173070,
       "name": "OG Raver",
       "url": "https://open.spotify.com/track/022updRO7JlJd8CczURSqU"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 207483,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
+        "name": "FTS (Sub Zero Project Rework)",
+        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 203862,
+      "name": "FTS - Sub Zero Project Rework",
+      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 190600,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "FTS (Sub Zero Project Rework)",
-        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 203862,
-      "name": "FTS - Sub Zero Project Rework",
-      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 191153,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "All Good Things (Come To An End)",
         "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 134918,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 191153,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "The Tunnel",
-        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Jordan Jade",
-          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "The Tunnel",
-      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
       },
@@ -1883,22 +1863,22 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
+        "name": "The Tunnel",
+        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
       },
       "artists": [
         {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
         },
         {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
         }
       ],
-      "duration_ms": 202513,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
+      "duration_ms": 179612,
+      "name": "The Tunnel",
+      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1919,6 +1899,26 @@
       "duration_ms": 158007,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 202513,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -1959,30 +1959,6 @@
       "duration_ms": 147096,
       "name": "What's A Girl To Do (D-Sturb Remix)",
       "url": "https://open.spotify.com/track/1rGAcKaILp1yS5vPJGirjI"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "Rebels In The Frontline",
-        "url": "https://open.spotify.com/album/1qA89hPlhB7I9rVtKIxXtA"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 178838,
-      "name": "Rebels In The Frontline",
-      "url": "https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2051,6 +2027,30 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
+        "name": "Rebels In The Frontline",
+        "url": "https://open.spotify.com/album/1qA89hPlhB7I9rVtKIxXtA"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "Rebels In The Frontline",
+      "url": "https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
         "name": "LEFT - RIGHT",
         "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 97680,
       "name": "LEFT - RIGHT",
       "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Make That Body Move (Warrior Workout 2024 OST)",
-        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "Make That Body Move (Warrior Workout 2024 OST)",
-      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "It Must Have Been Love (feat. Charla K)",
         "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Make That Body Move (Warrior Workout 2024 OST)",
+        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Make That Body Move (Warrior Workout 2024 OST)",
+      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 183483,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "The Kids Aren't Alright",
         "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 183483,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "The Colour of the Harder Styles EP",
-        "url": "https://open.spotify.com/album/7ubiBQJHeVUoHVARbr9WUi"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "The Colour Of The Harder Styles - 2026 Rework",
-      "url": "https://open.spotify.com/track/36mG1Kmr56WjoosohfMpXJ"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
       },
@@ -2675,18 +2659,18 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "END GAME",
-        "url": "https://open.spotify.com/album/4LJt78HX3uRldlJiHoh6FD"
+        "name": "The Colour of the Harder Styles EP",
+        "url": "https://open.spotify.com/album/7ubiBQJHeVUoHVARbr9WUi"
       },
       "artists": [
         {
-          "name": "Testarossa",
-          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
         }
       ],
-      "duration_ms": 267000,
-      "name": "END GAME",
-      "url": "https://open.spotify.com/track/0Hk1FbpJChxbFcPdIWCy07"
+      "duration_ms": 242500,
+      "name": "The Colour Of The Harder Styles - 2026 Rework",
+      "url": "https://open.spotify.com/track/36mG1Kmr56WjoosohfMpXJ"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2727,6 +2711,22 @@
       "duration_ms": 233806,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "END GAME",
+        "url": "https://open.spotify.com/album/4LJt78HX3uRldlJiHoh6FD"
+      },
+      "artists": [
+        {
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "END GAME",
+      "url": "https://open.spotify.com/track/0Hk1FbpJChxbFcPdIWCy07"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2795,6 +2795,26 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
         "name": "Up, Down, Left, Right",
         "url": "https://open.spotify.com/album/35vXtZNrFjgaoxmPYE9bLf"
       },
@@ -2811,26 +2831,6 @@
       "duration_ms": 144750,
       "name": "Up, Down, Left, Right",
       "url": "https://open.spotify.com/track/2fUWH5VjaLgfi6yAPtpKO7"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
-        "url": "https://open.spotify.com/album/78QmadtrN5axEatsJPecBR"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Diss Reaction",
-          "url": "https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
-      "url": "https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2855,42 +2855,22 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13"
+        "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+        "url": "https://open.spotify.com/album/78QmadtrN5axEatsJPecBR"
       },
       "artists": [
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+          "name": "Diss Reaction",
+          "url": "https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
-        "name": "Dirty Bassline",
-        "url": "https://open.spotify.com/album/1iezA1XBoMgZZkQfbZnmw6"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        }
-      ],
-      "duration_ms": 153375,
-      "name": "Dirty Bassline",
-      "url": "https://open.spotify.com/track/3KFAczT5MjQPkZW8mHibML"
+      "duration_ms": 159000,
+      "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+      "url": "https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2915,6 +2895,26 @@
       "duration_ms": 163776,
       "name": "Love Generation",
       "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Dirty Bassline",
+        "url": "https://open.spotify.com/album/1iezA1XBoMgZZkQfbZnmw6"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "duration_ms": 153375,
+      "name": "Dirty Bassline",
+      "url": "https://open.spotify.com/track/3KFAczT5MjQPkZW8mHibML"
     },
     {
       "added_at": "2026-09-28 12:07:27",
@@ -2955,30 +2955,6 @@
     {
       "added_at": "2026-09-28 12:07:27",
       "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr"
-      },
-      "artists": [
-        {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
-        },
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
-    },
-    {
-      "added_at": "2026-09-28 12:07:27",
-      "album": {
         "name": "Trippin On That Oldschool",
         "url": "https://open.spotify.com/album/5WSyjOS03EQ6pKQhwHHyt0"
       },
@@ -3007,6 +2983,30 @@
       "duration_ms": 168000,
       "name": "POLIZEI",
       "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
+    },
+    {
+      "added_at": "2026-09-28 12:07:27",
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
     }
   ],
   "unique_name": "Hardstyle Bangers",

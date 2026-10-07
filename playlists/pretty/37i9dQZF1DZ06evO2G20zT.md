@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,741 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,793 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 10 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 11 | [Today](https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:37 |
 | 12 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
-| 13 | [Pansa](https://open.spotify.com/track/7yPQU3QSDUcA1Ii3OUPFgr) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
+| 13 | [GTA](https://open.spotify.com/track/188ZcI2wLxV91ppTH0dkNk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
 | 14 | [Hushpuppi](https://open.spotify.com/track/0e0kV3cnEHS721PoDYxQyk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:42 |
 | 15 | [Cana](https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:20 |
 | 16 | [Dejavu](https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 2:40 |
-| 17 | [GTA](https://open.spotify.com/track/188ZcI2wLxV91ppTH0dkNk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
+| 17 | [Pansa](https://open.spotify.com/track/7yPQU3QSDUcA1Ii3OUPFgr) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
 | 18 | [FUJI MOTO](https://open.spotify.com/track/3am9LsAqmh8yTWTb9Mwzy8) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 |
 | 19 | [Set Up](https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:04 |
 | 20 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 |

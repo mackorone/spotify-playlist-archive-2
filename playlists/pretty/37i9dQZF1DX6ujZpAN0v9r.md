@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,600 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,672 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 13 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 | 14 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
 | 15 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
-| 16 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
-| 17 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
-| 18 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
-| 19 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
+| 16 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
+| 17 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
+| 18 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
+| 19 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
 | 20 | [Wishes](https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 3:33 |
 | 21 | [Slide Away \- Remastered 2016](https://open.spotify.com/track/0Sr9uJqXFAvqHcgwg3UjY5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Storm In Heaven \(Remastered 2016 / Deluxe\)](https://open.spotify.com/album/02hoMMI8uT38gkU2mJN10t) | 4:03 |
 | 22 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 72 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 73 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 74 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
-| 75 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
-| 76 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
+| 75 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
+| 76 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
 | 77 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 |
 | 78 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 79 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 155 | [Ordeal](https://open.spotify.com/track/6I1euZN8qsmXYJq2nDH8EN) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [In Ribbons](https://open.spotify.com/album/7KVa0JkUwjpd23K5o6BYs1) | 3:58 |
 | 156 | [La nuit marche avec moi](https://open.spotify.com/track/7o71YfM5JEiP1sC1y2l8Ls) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 4:58 |
 
-Snapshot ID: `AAAAABbgxDWpILcNhlbzYFl8X8ZNgVXs`
+Snapshot ID: `AAAAAGNHSpBMd3hBKeLedRYoqIZpad5o`

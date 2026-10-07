@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 118763,
+  "num_followers": 118812,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABP23QGs1ya6DHrPIXXBR80DJOf3",
+  "snapshot_id": "AAAAAOULFXUrJL54MgH3onlCrYUf1CSp",
   "tracks": [
     {
       "added_at": "2026-10-01 14:03:25",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 167823,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "lamb (feat. Kellin Quinn)",
         "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 144906,
       "name": "lamb (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 167823,
-      "name": "Popstar",
-      "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 208331,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Love Triangle",
         "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 224206,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Comedy Show",
+        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Comedy Show",
+      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Call It What You Want",
         "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Comedy Show",
-        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
+        "name": "Vulnerability",
+        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 180021,
-      "name": "Comedy Show",
-      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
+      "duration_ms": 193820,
+      "name": "Vulnerability",
+      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -691,22 +707,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Vulnerability",
-        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 193820,
-      "name": "Vulnerability",
-      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "WONDERMAN",
         "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 220295,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Yeeha",
         "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 239613,
       "name": "Yeeha",
       "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 220295,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -799,6 +799,22 @@
       "duration_ms": 112984,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Sometimes I rush",
-        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 90867,
-      "name": "Sometimes I rush",
-      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Just Us In The Room",
         "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Simon Says",
-        "url": "https://open.spotify.com/album/39GjE18YGLzkfPo5aLvKUS"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 121175,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "ON THE SCHEDULE",
         "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 196566,
       "name": "ON THE SCHEDULE",
       "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/39GjE18YGLzkfPo5aLvKUS"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 121175,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Devout",
         "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
       },
@@ -995,22 +1015,6 @@
       "duration_ms": 217206,
       "name": "Devout",
       "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "BLUNTS & BLADES",
-        "url": "https://open.spotify.com/album/0Gl1uDfVFpR19tdgbov1N4"
-      },
-      "artists": [
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 190203,
-      "name": "FUNKY MONKEY/CHARACTERISTICS",
-      "url": "https://open.spotify.com/track/0kMCGREbHR3jJThi3xvpxe"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "THIS IS SPA TOWN!",
-        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+        "name": "BLUNTS & BLADES",
+        "url": "https://open.spotify.com/album/0Gl1uDfVFpR19tdgbov1N4"
       },
       "artists": [
         {
-          "name": "300SkullsAndCounting",
-          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
-        },
-        {
-          "name": "Jenny Sparks",
-          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
         }
       ],
-      "duration_ms": 193522,
-      "name": "The Ballad of St Nick's Park",
-      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+      "duration_ms": 190203,
+      "name": "FUNKY MONKEY/CHARACTERISTICS",
+      "url": "https://open.spotify.com/track/0kMCGREbHR3jJThi3xvpxe"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 191786,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-01 14:03:25",

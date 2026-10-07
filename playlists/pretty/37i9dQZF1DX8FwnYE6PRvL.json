@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2781335,
+  "num_followers": 2781459,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLh+ibtTwzOMQBs0oPTUIbPnJhR",
+  "snapshot_id": "AAAAAB1dcQb/FESVVSc13NltjfcOpNB+",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "The Bad Touch",
-      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2026-09-25 04:03:21",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-09-25 04:03:21",
       "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Renegades Of Funk",
+      "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:21",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 310375,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
-    },
-    {
-      "added_at": "2026-09-25 04:03:21",
-      "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Renegades Of Funk",
-      "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
     },
     {
       "added_at": "2026-09-25 04:03:21",

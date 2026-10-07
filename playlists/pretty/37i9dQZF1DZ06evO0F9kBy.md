@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,875 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,880 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 |
 | 50 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
 
-Snapshot ID: `asGXAAAAAABtaDZcbLMv49R/4+dAWGVP`
+Snapshot ID: `asLogAAAAADGRxu6qd/hYHxVN678a/AB`

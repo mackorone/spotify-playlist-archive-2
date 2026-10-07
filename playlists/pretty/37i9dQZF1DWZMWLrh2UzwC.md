@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Victoria Monét, Bruno Mars, Noah Kahan, Lil Nas X,  BOYNEXTDOOR, Anirudh Ravichander, Super Subu, Kaer Azami, NAKI, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,022 likes - 119 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,023 likes - 119 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,11 +121,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 111 | [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 |
 | 112 | [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 |
 | 113 | [All I’ll Ever Need](https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 2:15 |
-| 114 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
+| 114 | [Big Ideas](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Big Ideas](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |
 | 115 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
 | 116 | [my girl could too](https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [hey hey](https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe) | [Indie Movie Soundtrack](https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw) | 3:09 |
 | 117 | [Houston](https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Houston](https://open.spotify.com/album/3T1BwJ9nC5UVAPXBhDtr2Q) | 3:43 |
 | 118 | [Beyond the Rain](https://open.spotify.com/track/5LrJeWWvtaosuHX8404N5O) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [The Age Of Everything](https://open.spotify.com/album/52lzfH80ON0jSqt1NkKsOQ) | 4:00 |
 | 119 | [Right Side Up](https://open.spotify.com/track/21dfLUYJ7tJeaoVghlsMTB) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [Right Side Up](https://open.spotify.com/album/1ZWtbLmn7lC5fDaTmGJsKR) | 3:11 |
 
-Snapshot ID: `AAAAAGPV9e+6S6/kTUBwm5bGlw+mU9fc`
+Snapshot ID: `AAAAAE8TFxDUIZr3yOLCsg6J42k3AL26`

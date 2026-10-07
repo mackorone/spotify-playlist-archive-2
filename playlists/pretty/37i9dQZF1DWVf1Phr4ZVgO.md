@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,583 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,711 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
 | 2 | [Fly Me To The Moon](https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:27 |
-| 3 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
-| 4 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
+| 3 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
+| 4 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 5 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
 | 6 | [September In The Rain](https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:09 |
 | 7 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 51 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 | 52 | [Rusty Dusty Blues](https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Big Band Era , Volume 1 \- The Passing Of An Era](https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH) | 3:07 |
 | 53 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
-| 54 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 |
-| 55 | [Qu'est\-ce que tu crois ?](https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs), [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Platinum Collection](https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT) | 2:55 |
+| 54 | [Qu'est\-ce que tu crois ?](https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs), [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Platinum Collection](https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT) | 2:55 |
+| 55 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 |
 | 56 | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky) | [Jake Mason Trio](https://open.spotify.com/artist/2qsUIL8cjpY7fO2ucmTaXP), [Kate Ceberano](https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx) | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr) | 5:06 |
 | 57 | [The Way You Look Tonight](https://open.spotify.com/track/0WJJ9OCU44CoDxs0pE6EBL) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [The Way You Look Tonight](https://open.spotify.com/album/1B8Bkp1UJRujLSDOoNL5xs) | 3:31 |
 | 58 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 84 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 | 85 | [Misty](https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [4 Beautiful Jazz Divas \(40 Tracks Remastered\)](https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR) | 3:02 |
 
-Snapshot ID: `AAAAAFXOQ3jpeOdxdaHcGYF8RgweadK/`
+Snapshot ID: `AAAAAM3ZVUWVFS+kEQclVT1BmJwUh/uM`

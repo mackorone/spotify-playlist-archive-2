@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-340 songs - 16 hr 21 min
+341 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 | 2025-09-11 |  |
 | [Pound Town 2 \(feat\. Tay Keith & Nicki Minaj\)](https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 3:14 | 2024-06-11 |  |
 | [Presidential Rolex](https://open.spotify.com/track/5t0MkcpR3E24eNQcJN48WP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:28 | 2025-05-22 |  |
+| [PRINCE OF THE SCENE](https://open.spotify.com/track/5AdiCoE3SdB3vWvtk3Yi6S) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 | 2026-10-06 |  |
 | [Promise U That](https://open.spotify.com/track/7EB2UpfRbS4QVjZQlKLi3Z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:25 | 2024-06-11 |  |
 | [Publicity Stunt](https://open.spotify.com/track/3mDJbXIpV9osy8d3TCw9hh) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:16 | 2024-06-11 |  |
 | [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/0smwhGyMeqfWSvkOo5dZbg) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:11 | 2025-05-09 | 2025-05-22 |

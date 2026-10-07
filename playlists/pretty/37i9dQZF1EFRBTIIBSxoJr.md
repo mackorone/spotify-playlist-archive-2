@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 78 | [Ruin Your Night](https://open.spotify.com/track/72dYMoL2SGUC2RNAvBw4L1) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Ruin Your Night](https://open.spotify.com/album/2frSU8Ww4v8nzFpWKK4lBV) | 3:31 |
 | 79 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 |
 | 80 | [Goodbye My Friend](https://open.spotify.com/track/5Zn2RY4CFqzm9lxQWyN8i9) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:48 |
-| 81 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 |
-| 82 | [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 |
+| 81 | [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 |
+| 82 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 |
 | 83 | [F.L.Y.](https://open.spotify.com/track/3NEuDhQxPh9mXA8fufQsKh) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [F.L.Y.](https://open.spotify.com/album/4KmOABMWA5k924gh3uGG83) | 2:24 |
 | 84 | [Higher \(Call My Name\)](https://open.spotify.com/track/4uX6unuXXrUAKSTaqOovp9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Higher \(Call My Name\)](https://open.spotify.com/album/0Y4Gw8rHKGl2iyI4BRmPTw) | 3:09 |
 | 85 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 144 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 145 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AceKrAAAAABEv93Cpp8bMEy5d0gbo6U5`
+Snapshot ID: `AceQTAAAAADsjS1tA6sOKjqlSdQWNUBE`

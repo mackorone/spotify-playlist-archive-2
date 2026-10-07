@@ -1,12 +1,12 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 33745,
+  "num_followers": 33781,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAqy8tIitd1HhtLfpGuw0tg8p1u",
+  "snapshot_id": "AAAAAJpiF6UEJ/x6UeAscYWXBHwbQ42z",
   "tracks": [
     {
       "added_at": "2026-09-22 16:46:40",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
       },
       "artists": [
         {
-          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
-          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
         }
       ],
-      "duration_ms": 159700,
-      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
+        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
         "name": "TRASHURE",
         "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "KURU KURU HARAJUKU",
-        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
-      },
-      "artists": [
-        {
-          "name": "Kyary Pamyu Pamyu",
-          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
-        }
-      ],
-      "duration_ms": 257820,
-      "name": "KURU KURU HARAJUKU",
-      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "KURU KURU HARAJUKU",
+        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "duration_ms": 257820,
+      "name": "KURU KURU HARAJUKU",
+      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     },
     {
       "added_at": "2026-09-22 16:46:40",

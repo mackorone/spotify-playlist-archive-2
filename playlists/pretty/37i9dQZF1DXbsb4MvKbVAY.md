@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,656 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,655 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 65 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |
 | 66 | [Älä sano sua rumaksi](https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Älä sano sua rumaksi](https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc) | 2:33 |
 | 67 | [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 |
-| 68 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
+| 68 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 |
 | 69 | [Monsteri \(feat\. Rajaton\)](https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Rajaton](https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 4:37 |
 | 70 | [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 |
-| 71 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 |
+| 71 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
 | 72 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 73 | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m) | 3:53 |
 | 74 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Chasing the Flame](https://open.spotify.com/track/5lXA6WnXiAnSpMy0J8oV9m) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD), [Veera Syrén](https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI) | [Chasing the Flame](https://open.spotify.com/album/13BCjXlmjCjOzvXQZDOywd) | 3:06 |
 
-Snapshot ID: `AAAAABVbAFyJNHqVpdOOlBe41UrH1zeh`
+Snapshot ID: `AAAAAJH7SXn5NEM9fH7M1whGo29DUWwB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Wamen
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,812 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,776 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Fantaisie](https://open.spotify.com/track/1pdtTlrKAG69x4WDolSXnI) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Fantaisie](https://open.spotify.com/album/63nFwsGGKaNlNWqg5Qo52K) | 2:55 |
 | 50 | [LAURYN HILL](https://open.spotify.com/track/10rQ8yfPzhD2EXc7xoIFK1) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [LAURYN HILL](https://open.spotify.com/album/4MqYfRe08Dc4bXM19dK8Hm) | 3:09 |
 
-Snapshot ID: `AAAAAKOCRIfGDLLoZeR8je328S44ORiv`
+Snapshot ID: `AAAAAF1GrwalnM/sXPfi+yu4j6JuUelO`

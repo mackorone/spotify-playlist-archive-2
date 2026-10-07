@@ -4023,6 +4023,24 @@
     },
     {
       "album": {
+        "name": "Con Esos Celos",
+        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133142,
+      "name": "Con Esos Celos",
+      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
+    },
+    {
+      "album": {
         "name": "El Hombre",
         "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
       },
@@ -9357,6 +9375,28 @@
     },
     {
       "album": {
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Jukiar",
+      "url": "https://open.spotify.com/track/1nnh1lotoDxDMcIgiyB1zi"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6XromBO32uhidY3LWZORO1"
       },
@@ -10808,7 +10848,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 159840,
       "name": "Las mas bonitas son p#tas",
       "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
@@ -10830,7 +10870,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 188976,
       "name": "LE METE",
       "url": "https://open.spotify.com/track/15LJW7YL0112oiuBOWr0aR"

@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "halcyon",
+        "url": "https://open.spotify.com/album/09SVWoZa9EAeaSntE3sEVU"
+      },
+      "artists": [
+        {
+          "name": "onte",
+          "url": "https://open.spotify.com/artist/5h4rcVNOcg33YNWOMi4N1h"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "halcyon",
+      "url": "https://open.spotify.com/track/0TNPQUCHadBHlELOlIQp0j"
+    },
+    {
+      "album": {
         "name": "Regardless EP",
         "url": "https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq"
       },

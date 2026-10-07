@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,663 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,970 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 25 | [Read Between the Lines](https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:22 |
 | 26 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
 | 27 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
-| 28 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
-| 29 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 28 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 29 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
 | 30 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 |
 | 31 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 |
 | 32 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 42 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
 | 43 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
 | 44 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
-| 45 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
-| 46 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
+| 45 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
+| 46 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
 | 47 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 |
 | 48 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
 | 49 | [In The City Life](https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ) | [GOTA](https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ) | [Smooth Jazz Radio Hits Volume Two](https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS) | 3:36 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 65 | [astro turf](https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [astro turf](https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC) | 3:40 |
 | 66 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 |
 | 67 | [Golden Hour](https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Golden Hour](https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A) | 3:31 |
-| 68 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 |
-| 69 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
+| 68 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
+| 69 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 |
 | 70 | [Big Dume](https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Big Dume](https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk) | 3:50 |
 | 71 | [BeatBack](https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [BeatBack](https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR) | 3:52 |
 | 72 | [Cat and Mouse](https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Cat and Mouse](https://open.spotify.com/album/0kSCTapQtnOjLNjn9bdaFX) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 |
 | 100 | [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 |
 
-Snapshot ID: `AAAAAE6K5Up7/iRfoHjkCmoVmM6V2QUp`
+Snapshot ID: `AAAAABvWXJ853T/fPosUEGFVHqhMglN0`

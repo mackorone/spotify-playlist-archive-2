@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,512 songs - 5 day 21 hr 14 min
+2,513 songs - 5 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Feel The Heat](https://open.spotify.com/track/3gzFwocYC3xcdl6vIOEu3f) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Feel The Heat](https://open.spotify.com/album/62dxnU6YCP207geZjvYU5v) | 3:04 | 2025-08-15 | 2025-11-16 |
 | [Feel the Music](https://open.spotify.com/track/7g8Er65FnRQfWiOVvNEjmC) | [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz) | [Feel the Music](https://open.spotify.com/album/08Iuw43mvfJbaCd1fSXSYV) | 2:19 | 2022-09-17 | 2022-09-24 |
 | [Feel The Need](https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Feel The Need](https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj) | 3:35 | 2023-11-10 | 2023-11-18 |
+| [Feel The Same](https://open.spotify.com/track/331yBqeJDzISGYKjSKH4ae) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Feel The Same](https://open.spotify.com/album/7f87BbzESNhnPsHdInmOS6) | 2:47 | 2026-10-06 |  |
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2023-04-28 | 2023-05-06 |
 | [Feel The Tempo](https://open.spotify.com/track/5OeVVj1Z0aUkGC7YyR6YaP) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Feel The Tempo](https://open.spotify.com/album/2MnCeAFZobUi2zF6cRh6M1) | 2:37 | 2024-03-12 | 2024-04-06 |
 | [Feel The Vibe](https://open.spotify.com/track/0GnnkZmTnw4DOYjYlYYKC4) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Feel The Vibe](https://open.spotify.com/album/5KoeaejyJxdemp67PDfDts) | 3:08 | 2022-07-09 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,346 likes - 100 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,419 likes - 100 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Ivangeli](https://open.spotify.com/track/3Dty5aNckcIkJdBhBl81ml) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Ivangeli](https://open.spotify.com/album/249JJMW3R8hNiFgOzpkCTz) | 5:25 |
 | 100 | [Motho Tshaba Modimo \- Live](https://open.spotify.com/track/19kJNYSJYOsOXc8c0BQXRf) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Motho Tshaba Modimo \(Live\)](https://open.spotify.com/album/6JcDAEnM0AWRw4eO5uJGMN) | 6:13 |
 
-Snapshot ID: `AAAAAJRs6KrMfOm+TnFJxwBq146L8qRC`
+Snapshot ID: `AAAAAP1TMBDbc+B6piwXwbbV8AT248uP`

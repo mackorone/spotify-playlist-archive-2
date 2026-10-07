@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Skip Waiters
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,376 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,380 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Kevlar Plated](https://open.spotify.com/track/6d8NZHNXXu3yOXOlkY7FXF) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Kevlar Plated](https://open.spotify.com/album/2ESk433PV6bGS9IQzIKquf) | 2:16 |
 | 50 | [Aujla Szn](https://open.spotify.com/track/6FA6lEbtWNxknRtaok2Ua4) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [AUJLA SZN 1](https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN) | 3:38 |
 
-Snapshot ID: `AAAAAO6MjS3+ZA8/b1a8glNNPDrT+mQ1`
+Snapshot ID: `AAAAAMt80s7ZtzZkWNtYBKUWXUyeG2vj`

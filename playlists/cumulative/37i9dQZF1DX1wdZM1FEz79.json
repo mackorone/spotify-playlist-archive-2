@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Krr) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Roy Kim) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "CRY OUT LOUD",
+        "url": "https://open.spotify.com/album/0fISK3FS84Z6qz2M8MtWfz"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "CRY OUT LOUD",
+      "url": "https://open.spotify.com/track/2dZXaRNwrSkywk5RrCrLjw"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/0mItSTk5v5NyKnhKjsOUnr"
       },
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 228293,
       "name": "Dear My Summer",
       "url": "https://open.spotify.com/track/1XeAg69I8cKxiCUvnpLYn4"
@@ -2678,6 +2696,24 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "album": {
+        "name": "pool vol.9 - Ether Under the Parasol",
+        "url": "https://open.spotify.com/album/48R73r45I4e0OKsxwiUyI1"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ether Under the Parasol",
+      "url": "https://open.spotify.com/track/0haLXhHU8DMx4mspQBvJC9"
     },
     {
       "album": {
@@ -5316,7 +5352,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 173000,
       "name": "I\u2019m No Astronomer, But",
       "url": "https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,793 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,887 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 99 | [Ban Ja Tu](https://open.spotify.com/track/1USl5qs5IzNfrUS3sCicNo) | [Charan Preet](https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ban Ja Tu](https://open.spotify.com/album/6ZuTjqP8moTUaVFpX60neO) | 3:48 |
 | 100 | [Bounce](https://open.spotify.com/track/2GW2XeWQ3NWOCwHJTOy5KQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:23 |
 
-Snapshot ID: `AAAAALnYN06Crd+G7va3cZIzbEgohqeM`
+Snapshot ID: `AAAAAGYVqaB0VmFovLS6nTttTVYyWyEH`

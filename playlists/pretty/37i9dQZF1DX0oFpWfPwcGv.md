@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,784 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,794 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 71 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 72 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
 | 73 | [I Want Your Love](https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 6:55 |
-| 74 | [Never Too Much \- 12" Version](https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 5:39 |
-| 75 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
+| 74 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
+| 75 | [Never Too Much \- 12" Version](https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 5:39 |
 
-Snapshot ID: `AAAAACZ0usNgkgyx1lIN+bHdBHj5JTje`
+Snapshot ID: `AAAAALNpq8nsKTiTKwqAVkKTMap1ve+R`

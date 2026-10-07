@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-118 songs - 9 hr 39 min
+119 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Despertar](https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:06 | 2022-05-25 | 2024-06-10 |
 | [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 | 2022-05-25 |  |
 | [Déjame Entrar](https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Déjame Entrar](https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV) | 4:10 | 2026-04-19 | 2026-06-20 |
+| [Días Intensos](https://open.spotify.com/track/1VYBSJipWUOQ7tX0SLhRJD) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO) | 4:59 | 2026-10-07 |  |
 | [Días Intensos](https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:59 | 2025-07-05 | 2026-10-06 |
 | [Días Intensos \- En Vivo](https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:51 | 2022-05-25 | 2025-07-05 |
 | [Efecto Dominó](https://open.spotify.com/track/2QQzm3FX7CVoF3x65YdbFL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 3:17 | 2022-08-15 | 2022-10-07 |

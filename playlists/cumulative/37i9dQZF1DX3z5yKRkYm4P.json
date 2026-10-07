@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 308123,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 211500,
       "name": "A Go-G\u00f3tica",
       "url": "https://open.spotify.com/track/4yUprRBa7bisq9G2OF6aQv"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 196648,
       "name": "Bailando Con el Diablo",
       "url": "https://open.spotify.com/track/4xY0VSiude1VWZ81Q26QCq"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 264986,
       "name": "Bocanegra",
       "url": "https://open.spotify.com/track/4cLh48mq3xUmmY1x7G3HqU"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 140026,
       "name": "Cementerio",
       "url": "https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 255701,
       "name": "Chaneque",
       "url": "https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba"
@@ -384,10 +384,28 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 236533,
       "name": "Cinema Terror",
       "url": "https://open.spotify.com/track/0YaWZrXMWBPdRoeijcMlld"
+    },
+    {
+      "album": {
+        "name": "Film",
+        "url": "https://open.spotify.com/album/3bisZXEstO6o68aMTsCVUS"
+      },
+      "artists": [
+        {
+          "name": "Casino Shanghai",
+          "url": "https://open.spotify.com/artist/1oAFW9buoiw1ZG9Hl43Mdh"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Cuerpos Huecos",
+      "url": "https://open.spotify.com/track/1GP0A3w6iZxIkgxjGvX9Tc"
     },
     {
       "album": {
@@ -463,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Vamos Perdiendo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4lcbQQyqg5NkrKVdnK4Ovt"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/7KBzo2RWU7mhDJZgTjD5gY"
+    },
+    {
+      "album": {
         "name": "Clint Eastwood",
         "url": "https://open.spotify.com/album/3sB5GyaLFk9Vlf9UG7B1W8"
       },
@@ -474,7 +510,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 281466,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/08qq7XjoPnQgo8QHiJvURk"
@@ -528,7 +564,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 124706,
       "name": "Drive Thru",
       "url": "https://open.spotify.com/track/3KO6DOORANi6hRIZxVvHzy"
@@ -564,7 +600,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 173560,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
       "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
@@ -582,10 +618,46 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 130840,
       "name": "El baile de las momias",
       "url": "https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179350,
+      "name": "El Chamuco",
+      "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
+    },
+    {
+      "album": {
+        "name": "Size",
+        "url": "https://open.spotify.com/album/4cSZesj9ONrMsKSfM9QWl4"
+      },
+      "artists": [
+        {
+          "name": "Size",
+          "url": "https://open.spotify.com/artist/4BPTzPG92NSGqAkegit5t4"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238931,
+      "name": "El Diablo en el Cuerpo",
+      "url": "https://open.spotify.com/track/7003uu01EikaVaCMiU2RC0"
     },
     {
       "album": {
@@ -690,7 +762,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 263000,
       "name": "El Fantasma Enamorado",
       "url": "https://open.spotify.com/track/2D7yfNs7wWzAD33FMCOIPN"
@@ -733,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "album": {
         "name": "Fantasmagoria (Hidrogenesse Remix)",
         "url": "https://open.spotify.com/album/4tf8LecJdP92YCbmhLPiVm"
       },
@@ -748,7 +838,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 312633,
       "name": "Fantasmagoria - Hidrogenesse Remix",
       "url": "https://open.spotify.com/track/2s6iIcUL7JpA4iL9zY4BcA"
@@ -766,7 +856,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 192075,
       "name": "Fantomasofobia",
       "url": "https://open.spotify.com/track/4KjAMjd0AAK5S5B4eZ6HPO"
@@ -856,7 +946,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 241493,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/6fk8LQAusI2XNKb6knj3sP"
@@ -892,7 +982,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 181840,
       "name": "Haunted House Of Rock",
       "url": "https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca"
@@ -968,7 +1058,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 141866,
       "name": "Horror En El Hipermercado",
       "url": "https://open.spotify.com/track/3rdZn4Vjk2zteCrWHXAe7t"
@@ -990,6 +1080,24 @@
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
     },
     {
       "album": {
@@ -1066,7 +1174,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 149461,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4LgNdvzM8qu5uc8AaVs7Wb"
@@ -1084,10 +1192,28 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 186352,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/7wXtXVOG2Z6LIklL3S4zST"
+    },
+    {
+      "album": {
+        "name": "Nierika",
+        "url": "https://open.spotify.com/album/5tZBcmhyPQRczMN6lT6nXl"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "La Casa Obscura",
+      "url": "https://open.spotify.com/track/1YJTz6an5c35acvMDZDacT"
     },
     {
       "album": {
@@ -1210,10 +1336,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 164075,
       "name": "La Tumba",
       "url": "https://open.spotify.com/track/4b20jg6rGAHohIxakXx9zO"
+    },
+    {
+      "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/5wJSmvy9WG3bBv6jU3q8M3"
+      },
+      "artists": [
+        {
+          "name": "El Clan",
+          "url": "https://open.spotify.com/artist/7I7f2RxGlWM6AQ1ru5S1sg"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "Las Brujas",
+      "url": "https://open.spotify.com/track/2pT12MicqJms8yJ26Y4eTX"
     },
     {
       "album": {
@@ -1228,7 +1372,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 272064,
       "name": "Las Momias",
       "url": "https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa"
@@ -1390,7 +1534,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 258546,
       "name": "Mi novio es un zombi",
       "url": "https://open.spotify.com/track/5J12YO8YRSnfwvKOIFp31S"
@@ -1412,7 +1556,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -1430,7 +1574,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 133933,
       "name": "Monstruo Verde",
       "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
@@ -1574,7 +1718,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 238907,
       "name": "Noche triler",
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
@@ -1592,7 +1736,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 295333,
       "name": "Nocturnal Me",
       "url": "https://open.spotify.com/track/6qcv0k6UrSaMjfcP2j60wc"
@@ -1628,7 +1772,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 152122,
       "name": "Pap\u00e1 Soy una Zombie",
       "url": "https://open.spotify.com/track/4pAk5rjfyA4BkUKysqNk5U"
@@ -1646,7 +1790,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 273559,
       "name": "Pasa la Vida",
       "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
@@ -1764,7 +1908,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 213680,
       "name": "Raska Yu",
       "url": "https://open.spotify.com/track/3bYH2PgsgrueYBR8QfZDG5"
@@ -1840,7 +1984,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 211960,
       "name": "Satan Swing",
       "url": "https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD"
@@ -1862,7 +2006,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 200000,
       "name": "Satan Swing",
       "url": "https://open.spotify.com/track/29c63GCZuU5gSWOtTsmevb"
@@ -2024,7 +2168,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 191226,
       "name": "Stinkin' zombies",
       "url": "https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH"
@@ -2172,6 +2316,24 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition / Remastered 2018",
       "url": "https://open.spotify.com/track/0lLPAht0tX1ex2ZpzNS3nF"
+    },
+    {
+      "album": {
+        "name": "All Hallow's EP",
+        "url": "https://open.spotify.com/album/1sFmy6QB04jhph6YPRsm3O"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "The Boy Who Destroyed The World",
+      "url": "https://open.spotify.com/track/6VbkHFFZuK8Ys0fLqtp393"
     },
     {
       "album": {
@@ -2334,7 +2496,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 102226,
       "name": "Vampirella",
       "url": "https://open.spotify.com/track/02McArUB8N3aTVfW0FGYqM"
@@ -2424,7 +2586,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-07",
       "duration_ms": 257519,
       "name": "\u00bfA D\u00f3nde Van Los Muertos?",
       "url": "https://open.spotify.com/track/7Kqu2qzklldYONlvrojo0t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,684 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,456 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 89 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 |
 | 90 | [In Love, In Vain](https://open.spotify.com/track/24HJ0wbvFZflLOlr9SzM6h) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:00 |
 
-Snapshot ID: `AAAAACCPA3tbLGtWreBHxYKofn78Y7Lc`
+Snapshot ID: `AAAAAIG3spMG74VjHVfEG4rnhNUU/e/L`

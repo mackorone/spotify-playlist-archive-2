@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-75 songs - 3 hr 38 min
+76 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [Aioi](https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Aioi](https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG) | 2:36 | 2026-09-22 |  |
 | [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 | 2025-10-24 |  |
 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 | 2025-10-24 | 2026-07-19 |
-| [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 |  |
+| [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 | 2026-10-07 |
 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 | 2025-10-24 |  |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2025-10-24 |  |
 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 | 2025-10-24 |  |
+| [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 | 2026-10-05 |  |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2025-10-24 |  |
 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 | 2025-10-24 | 2026-08-05 |
 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 | 2025-10-24 |  |
@@ -41,11 +42,11 @@
 | [Kurokami](https://open.spotify.com/track/1sQP8aR3mzSVOhVdIQEhaB) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Beauty](https://open.spotify.com/album/2xcLsKxQjmoGzRs0JVEWC0) | 2:35 | 2026-10-05 |  |
 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2026-07-18 |  |
 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 | 2025-10-24 |  |
-| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2026-07-18 |  |
+| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2026-07-18 | 2026-10-07 |
 | [Nitnoi](https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M) | [Morning Breakfast](https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Morning Breakfast Vol.3](https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H) | 3:38 | 2025-12-12 | 2026-07-19 |
 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 | 2025-10-24 |  |
 | [ole](https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 3:27 | 2025-10-24 | 2026-07-19 |
-| [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 | 2026-07-18 | 2026-10-03 |
+| [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 | 2026-07-18 |  |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2025-10-24 |  |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2025-10-24 |  |
 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 | 2025-10-24 |  |

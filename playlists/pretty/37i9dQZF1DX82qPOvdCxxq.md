@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Lily Hooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,008 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,047 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [God Saved My Life Through Music](https://open.spotify.com/track/3eCGmQlTQe4uhCkzmRXCf1) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [God Saved My Life Through Music](https://open.spotify.com/album/0T9F1eIh6nQFRwR4h9I91V) | 3:18 |
 | 75 | [He Lives](https://open.spotify.com/track/1XmJ2qkOCOK0Zoo90eaHTV) | [Kodoku](https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu) | [He Lives](https://open.spotify.com/album/5mKiK0jqBaDzJN5LErVQuS) | 2:16 |
 
-Snapshot ID: `AAAAANMZwwTFa2v3EaZXMNPk9M1+ReTF`
+Snapshot ID: `AAAAAHzTFRzio2UvxGUpF1B6Gy4z9MjD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,292 likes - 141 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,285 likes - 141 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 140 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 | 141 | [bones](https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [spilling my guts](https://open.spotify.com/album/7phn0SadS5635xhyXthk02) | 2:28 |
 
-Snapshot ID: `AAAAAPbysLTiuc4hGNs0XAAQVq8DtZBU`
+Snapshot ID: `AAAAAC0MOZ0pxi3IewRvBYiOl0ZF3JdX`

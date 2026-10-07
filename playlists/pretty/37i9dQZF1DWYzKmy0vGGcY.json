@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 659335,
+  "num_followers": 659442,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCC3yk/+pEF+aqoxKup9j8qjOe4",
+  "snapshot_id": "AAAAAHMTOIADtHxjXXdx+0+H/jgnITfv",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "...\"Let Me Sing\"",
-        "url": "https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Break It To Me Gently",
-      "url": "https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Insight Out",
         "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "...\"Let Me Sing\"",
+        "url": "https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Break It To Me Gently",
+      "url": "https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Guitars A La Lee",
         "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 129066,
       "name": "Sweet Happy Life",
       "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Its Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 147527,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Its Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -2171,6 +2155,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Chapel of Love",
         "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
       },
@@ -2199,6 +2199,38 @@
       "duration_ms": 197640,
       "name": "Words",
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2235,38 +2267,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Best Of Bee Gees, Vol. 1",
         "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
       },
@@ -2295,22 +2295,6 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2347,6 +2331,22 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
       "added_at": "2022-05-30 13:00:37",

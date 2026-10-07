@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik på New Music Friday bl.a\. fra URO, Jada, Gobs og mange flere ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,118 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,119 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Way Too Late](https://open.spotify.com/track/6x6qpL0Qxi68Z0POHaIToF) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Way Too Late](https://open.spotify.com/album/4MGP41iZLRFvEf0uNqnLQx) | 3:05 |
 | 103 | [Lost a Friend](https://open.spotify.com/track/2mQ25VTjKEdk5ueOYSejKr) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Lost a Friend](https://open.spotify.com/album/2lxaPUPiE3iQxLKzMGTfIy) | 2:38 |
 
-Snapshot ID: `AAAAAEuZJC4XK15OTrDAo+6uUyeLw+yc`
+Snapshot ID: `AAAAAKrlneIOn0FAqiqSiSgCweingZnt`

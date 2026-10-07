@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Nena
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,489 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,488 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 | 70 | [ALÔ](https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [ALÔ](https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh) | 2:16 |
 
-Snapshot ID: `AAAAALX/JW9AFGR7xVm2/VdqydVlpDE8`
+Snapshot ID: `AAAAALVjkJY58spuC3LlNzMMGpBh0QuE`

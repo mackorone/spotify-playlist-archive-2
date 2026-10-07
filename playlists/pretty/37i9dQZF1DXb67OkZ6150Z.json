@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304699,
+  "num_followers": 304708,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO4NzHoKRYHu/Gh/TWAC3n/JsUIx",
+  "snapshot_id": "AAAAAI4tqyioPyFiuIyYRSBJK9/Bkw2w",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:19",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 240002,
       "name": "Steal My Sunshine (feat. Cherry Glazerr)",
       "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 151649,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+      },
+      "artists": [
+        {
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1431,6 +1415,22 @@
       "duration_ms": 249789,
       "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Tonight, Tonight",
-        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 261088,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 215200,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Tonight, Tonight",
+        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 261088,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Girlfriend Is Better",
-        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Girlfriend Is Better",
-      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/7eUS2wu8pqoHIQZXuvtKL6"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 252346,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/6OLeTuJ0u10taGHONnYAFS"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0jwuOY0u0VJ283tDVW8gT1"
+      },
+      "artists": [
+        {
+          "name": "Muzz",
+          "url": "https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/2bjdtN4Ju1HcceRI7A7cq2"
     }
   ],
   "unique_name": "Indie Covers",

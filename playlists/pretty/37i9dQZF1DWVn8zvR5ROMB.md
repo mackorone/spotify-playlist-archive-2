@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kameron Marlowe, Miranda Lambert with Ella Langley, Gavin Adcock and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,270 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,327 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 59 | [Being Honest](https://open.spotify.com/track/4lBNParCQA0cpE2vvVcjTA) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Being Honest](https://open.spotify.com/album/5DLEf072MTazdMy3UdRvwj) | 3:26 |
 | 60 | [Don't Be That Guy](https://open.spotify.com/track/3AaDSU2FT3Iq5FQchhmYKL) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Don't Be That Guy](https://open.spotify.com/album/6by3aP99ZkTuF0SvIxrgai) | 2:35 |
 
-Snapshot ID: `AAAAAP0lApEfdHQCy+87/rKYmgnn3YL8`
+Snapshot ID: `AAAAAHl8UCWciHwKPcx/Tnv4InxX29es`

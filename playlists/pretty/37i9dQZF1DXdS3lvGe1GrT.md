@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Cicada
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,903 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,995 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 85 | [Johnny Workman](https://open.spotify.com/track/7MAFfhdDQMSyb0wvA6eVhS) | [Rua Rí](https://open.spotify.com/artist/2QDqviufSdQFiUgF6HsvfM) | [Tell Your Mother I Saved Your Life](https://open.spotify.com/album/3Fgc1Z61QpGNkFZeN44okt) | 3:36 |
 | 86 | [Counting](https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Counting](https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC) | 3:38 |
 
-Snapshot ID: `AAAAAKHG5o5sKAWvhqp/NmjEePn/4yFm`
+Snapshot ID: `AAAAAMD/DNOUcKFC4YEF3cnzk74pq2y0`

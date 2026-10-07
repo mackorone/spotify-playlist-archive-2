@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Frsh,  Jordymone9, Rijck, Leblanco en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,073 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,084 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Hoog](https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Kameleon](https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz) | 2:38 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAAAz8bQTuuz5axyDLEXVZ5beOu/3Q`
+Snapshot ID: `AAAAAO9JAnD+L1B9JOdBPusp8HzMYT6S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,326 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,333 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
 | 50 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 |
 
-Snapshot ID: `asGXAAAAAAAbLX1s7fAZuAym2SgCuPrQ`
+Snapshot ID: `asLogAAAAABM6MQeP3ymKPKfc7lao8hz`
