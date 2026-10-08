@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover:  jeebanoff)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover:  ONEW, ZICO)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -9862,7 +9862,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 182000,
       "name": "Love game",
       "url": "https://open.spotify.com/track/0qjjy799gEJdFKNvILwZRq"
@@ -16686,6 +16686,28 @@
       "duration_ms": 212666,
       "name": "Thunders (feat. The Beach Voice)",
       "url": "https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4"
+    },
+    {
+      "album": {
+        "name": "Tic Tac Toe",
+        "url": "https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Tic Tac Toe",
+      "url": "https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1"
     },
     {
       "album": {

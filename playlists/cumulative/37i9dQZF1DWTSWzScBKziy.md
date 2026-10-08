@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Jovonta Patton
 
-1,596 songs - 4 day 2 hr 47 min
+1,597 songs - 4 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Holding On To Me](https://open.spotify.com/track/6WSGmDDPKtqKDSZsQBHUmE) | [Sam Wesley](https://open.spotify.com/artist/3iACYYa77dlrA3YGZegypP) | [Holding On To Me](https://open.spotify.com/album/4mebgNj6vW9xNYMGmOZG5u) | 4:14 | 2026-05-19 | 2026-05-30 |
 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 | 2025-09-14 | 2025-11-16 |
 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 | 2026-04-04 | 2026-05-02 |
+| [Hollow of Your Hands](https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Hollow of Your Hands](https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK) | 4:37 | 2026-10-02 |  |
 | [Holy Ghost](https://open.spotify.com/track/5Kwd3m4WSgN9sEAa4SgiPA) | [Alvin Love](https://open.spotify.com/artist/6Hng7qHsjVDwppa6jmwHgk) | [Holy Ghost](https://open.spotify.com/album/6oG68gRF72DxYhOzNPThJZ) | 3:24 | 2025-09-14 | 2025-10-07 |
 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-10-29 | 2024-01-07 |
 | [Holy Ghost Town](https://open.spotify.com/track/2nWIazEUVvVGxUFDG1dKxk) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Holy Ghost Town](https://open.spotify.com/album/2Gikg56hpykR34ZE79BntV) | 3:12 | 2025-05-17 | 2025-08-05 |
@@ -1214,7 +1215,7 @@
 | [So So Good](https://open.spotify.com/track/2WMPGYQQjxKVB0DfmiVFMi) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Walls \(Part One\)](https://open.spotify.com/album/5ybiXYTTeGg32Grlh4p17k) | 4:23 | 2026-08-21 | 2026-09-19 |
 | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS) | 3:30 | 2022-05-27 | 2022-10-30 |
 | [Somebody's Praying](https://open.spotify.com/track/0gWKRPauuXB3en8wTQO0DP) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV) | [Better Days](https://open.spotify.com/album/1tvFyWMz2bIxPyibowrQnY) | 3:35 | 2025-10-06 | 2025-11-16 |
-| [Somebody's Praying](https://open.spotify.com/track/0M5wvjhQqG8kWc0ZcU2Hxx) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Somebody's Praying](https://open.spotify.com/album/2rnw1LnILnp3s2gChvWRu5) | 3:01 | 2026-09-18 |  |
+| [Somebody's Praying](https://open.spotify.com/track/0M5wvjhQqG8kWc0ZcU2Hxx) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Somebody's Praying](https://open.spotify.com/album/2rnw1LnILnp3s2gChvWRu5) | 3:01 | 2026-09-18 | 2026-10-08 |
 | [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 | 2026-07-03 | 2026-07-18 |
 | [SOMETHING GOOD](https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd) | [Sydni Alexander](https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq), [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [SOMETHING GOOD](https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY) | 2:44 | 2026-07-03 | 2026-08-22 |
 | [Something Good Is Coming](https://open.spotify.com/track/2FLgO4DEEi5SgXZUvSlPwL) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4) | [Something Good Is Coming](https://open.spotify.com/album/0TluCM1K9nH0g8yDkKvjQt) | 2:56 | 2026-09-18 |  |

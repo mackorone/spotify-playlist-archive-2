@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,936 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,939 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Poesia de Boteco 2](https://open.spotify.com/track/4k7kC0H47pWbkgabi2HhKw) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia de Boteco 2](https://open.spotify.com/album/5RhDrxzu6M5sujbEhDzWWN) | 5:27 |
 | 50 | [Te Escolhi](https://open.spotify.com/track/4hr93nmJbrM5fa6TpxA1jW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ponto Panorâmico](https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c) | 2:42 |
 
-Snapshot ID: `asGXAAAAAADXmCoD4UFaSOP9ESRNZ23H`
+Snapshot ID: `asLogAAAAADPD06yiEcnPWINXlrIcL8N`

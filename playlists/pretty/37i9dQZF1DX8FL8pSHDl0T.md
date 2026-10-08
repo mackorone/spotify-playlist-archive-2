@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 
 > Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,825 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,831 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 39 | [刻司ル十二ノ盟約](https://open.spotify.com/track/0O4b9jI3vwcMnG43mpqkz8) | [ファンタズム\(FES cv.榊原ゆい\)](https://open.spotify.com/artist/1kDTyOIQA33Xi1F7Q1Ox6y) | [TVアニメ『シュタインズ・ゲート』EDテーママキシシングル「刻司ル十二ノ盟約」](https://open.spotify.com/album/3mRiAMoMiOGz9zdK3zoX8o) | 5:03 |
 | 40 | [楽園のホログラム](https://open.spotify.com/track/2hSV8ZAM5eAxTK7xnmujbS) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [RASTER](https://open.spotify.com/album/0lI8gFEwzbf61lFJp3ocj6) | 6:03 |
 | 41 | [EUPHORIA 〜償いのレクイエム〜](https://open.spotify.com/track/3TwdQubE8bmQM4ju8V4Ryq) | [ファンタズム \(FES cv.榊原ゆい\)](https://open.spotify.com/artist/4hAeN5BaDLgkHClNPW6JZw) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 6:11 |
-| 42 | [LAST GAME](https://open.spotify.com/track/3rc1WzRiLAdIth63pyr1SI) | [Zwei](https://open.spotify.com/artist/3x6stWfT8fw52uEG0fihmb) | [LAST GAME\(TVアニメ「シュタインズ・ゲート ゼロ」EDテーマ\)](https://open.spotify.com/album/2HPnTXnhkkAcO7DuBT1vBQ) | 4:44 |
+| 42 | [LAST GAME](https://open.spotify.com/track/3rc1WzRiLAdIth63pyr1SI) | [Zwei](https://open.spotify.com/artist/3x6stWfT8fw52uEG0fihmb) | [LAST GAME\(TVアニメ「シュタインズ･ゲート ゼロ」EDテーマ\)](https://open.spotify.com/album/2HPnTXnhkkAcO7DuBT1vBQ) | 4:44 |
 | 43 | [Hacking to the Gate \- symphonic ver.](https://open.spotify.com/track/7mMshfkGDVQTjn03tvSlwI) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 4:18 |
 | 44 | [星の奏でる歌 \-strings quartet\-](https://open.spotify.com/track/3qwkpLZ1GdEkdQZUEIRAzI) | [Nobuaki Nobusawa](https://open.spotify.com/artist/4q4tYjUtx81Sfmm17JkH5I) | [TVアニメ『シュタインズ・ゲート ゼロ』オリジナル・サウンドトラック](https://open.spotify.com/album/5k0XKbTOo7Lrv9neeC4Anv) | 1:48 |
 

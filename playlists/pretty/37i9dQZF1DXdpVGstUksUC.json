@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549433,
+  "num_followers": 549454,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Capricorn",
         "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 433706,
       "name": "Eyes Behind the Wall",
       "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",

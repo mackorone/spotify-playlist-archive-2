@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...",
-  "num_followers": 130533,
+  "num_followers": 130534,
   "original_name": "HERFST 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+ROkXL++I7uMt9qQoDIN2L06FiSl8",
+  "snapshot_id": "AAA+RynTARurUaKPMeGI4hilMxER3e0h",
   "tracks": [
     {
       "added_at": "2026-10-02 08:04:24",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-02 08:04:24",
+      "added_at": "2026-10-07 07:53:33",
       "album": {
-        "name": "Incredible",
-        "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
       "artists": [
         {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         }
       ],
-      "duration_ms": 177120,
-      "name": "So Incredible",
-      "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "added_at": "2026-10-02 08:04:24",
@@ -59,6 +59,22 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6"
+    },
+    {
+      "added_at": "2026-10-02 08:04:24",
+      "album": {
+        "name": "Incredible",
+        "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "So Incredible",
+      "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
     },
     {
       "added_at": "2026-10-02 08:04:24",

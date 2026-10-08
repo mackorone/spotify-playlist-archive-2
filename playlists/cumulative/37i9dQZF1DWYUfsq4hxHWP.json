@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Dakota Caden, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Dylan Davidson, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -2656,6 +2656,24 @@
       "duration_ms": 202608,
       "name": "Always Never",
       "url": "https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn"
+    },
+    {
+      "album": {
+        "name": "Always on Mine",
+        "url": "https://open.spotify.com/album/0GWncIGLZXHjWqe5GJkKpi"
+      },
+      "artists": [
+        {
+          "name": "Grayson Ratliff",
+          "url": "https://open.spotify.com/artist/26ZU1kIqEJPPDFaZwc8jCn"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219082,
+      "name": "Always on Mine",
+      "url": "https://open.spotify.com/track/7HKTqPbAU71vKcPPIdlNvA"
     },
     {
       "album": {
@@ -17338,7 +17356,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 162273,
       "name": "Dust In My Glove Box",
       "url": "https://open.spotify.com/track/2aCmFHj0VkHEiwc0Bl14FU"
@@ -17540,7 +17558,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 184090,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/7vifzeNfxEheTPz3NwZlxv"
@@ -19550,7 +19568,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 228039,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/5z1r39HsJBaRUxTnjFYQ2X"
@@ -27000,7 +27018,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 168332,
       "name": "His Name Was John",
       "url": "https://open.spotify.com/track/1R117L3vHVFB243szqaVll"
@@ -31663,6 +31681,24 @@
     },
     {
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/7F73XYgZnhVroBRSSXXNvv"
+      },
+      "artists": [
+        {
+          "name": "Colin Lynch",
+          "url": "https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203409,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/1AHe66XorLzh7ljvOZdcT4"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/16xqNXNWs5nRjMBUXirpWr"
       },
@@ -32316,6 +32352,24 @@
       "duration_ms": 186202,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/0gftHg6T8wYqxJE5Yio59P"
+    },
+    {
+      "album": {
+        "name": "Why in the World",
+        "url": "https://open.spotify.com/album/3egPLAoQ7rlhIEnPhbpcnV"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lenhart",
+          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199635,
+      "name": "It's Not Like",
+      "url": "https://open.spotify.com/track/6hcr4jdhyZ57l9RaM0wNuz"
     },
     {
       "album": {
@@ -37225,6 +37279,24 @@
     },
     {
       "album": {
+        "name": "Losing Team",
+        "url": "https://open.spotify.com/album/0XYiW74NizCgxHinFCg8TS"
+      },
+      "artists": [
+        {
+          "name": "Lily Grace",
+          "url": "https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139809,
+      "name": "Losing Team",
+      "url": "https://open.spotify.com/track/2F8w4qhClbrENsOBtKm3id"
+    },
+    {
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/6AKnJBHKjp8zVqLcjr2WHL"
       },
@@ -40850,6 +40922,24 @@
       "duration_ms": 198800,
       "name": "More My Speed",
       "url": "https://open.spotify.com/track/0QKg1TYQcDI264iMbOyRIB"
+    },
+    {
+      "album": {
+        "name": "More or Less",
+        "url": "https://open.spotify.com/album/5mNs1fkhlOM3yDDVDixvXY"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143440,
+      "name": "More or Less",
+      "url": "https://open.spotify.com/track/6aDotKYmoqzr7IPkLhVec9"
     },
     {
       "album": {
@@ -46417,6 +46507,24 @@
     },
     {
       "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/1FJNGLQFtwLrsderhwij2U"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208551,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/4NXKbVrmTrID61yJ1KgjuE"
+    },
+    {
+      "album": {
         "name": "Polaroid Picture",
         "url": "https://open.spotify.com/album/05vIRY7DR4ksrEhMMYd3W6"
       },
@@ -48252,6 +48360,24 @@
       "duration_ms": 202066,
       "name": "Ricochets",
       "url": "https://open.spotify.com/track/7sUTw5K1NL7C2rKWwArXV8"
+    },
+    {
+      "album": {
+        "name": "Ride Away",
+        "url": "https://open.spotify.com/album/59SjZ7OIJyUKR8Djv7UGxA"
+      },
+      "artists": [
+        {
+          "name": "Chandler Marie",
+          "url": "https://open.spotify.com/artist/2nbCQ96QN3xuTVWR8uUpAH"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221967,
+      "name": "Ride Away",
+      "url": "https://open.spotify.com/track/2EEtrdTtAuwL5drOSy7vZq"
     },
     {
       "album": {
@@ -53352,7 +53478,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 163550,
       "name": "Some Version of It",
       "url": "https://open.spotify.com/track/6iCbLjtyNNw8FOtRInlk5w"
@@ -53478,7 +53604,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 191553,
       "name": "Somebody Should",
       "url": "https://open.spotify.com/track/5bORc5boqKm5x3mMwUagTn"
@@ -59321,6 +59447,24 @@
     },
     {
       "album": {
+        "name": "The Red and Gold",
+        "url": "https://open.spotify.com/album/24vxr2JxHnJoa6Buy9iAxY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Davidson",
+          "url": "https://open.spotify.com/artist/3djw1Ru8yEyjl22Q4wdEI6"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "The Red And Gold",
+      "url": "https://open.spotify.com/track/2v5lQZGephAULYF4sPL8dB"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/1ubB5vSd9crgWiC9i8yuwS"
       },
@@ -60014,6 +60158,24 @@
       "duration_ms": 187466,
       "name": "Thick as Thieves",
       "url": "https://open.spotify.com/track/7hCMCbrh9XwhH3zZ9FfzmE"
+    },
+    {
+      "album": {
+        "name": "Thin Line",
+        "url": "https://open.spotify.com/album/4TRXTcXaicX12fios8graX"
+      },
+      "artists": [
+        {
+          "name": "Amanda Couture",
+          "url": "https://open.spotify.com/artist/1znhqL77IuHDs2QnVmprU1"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1VDnj7Alaf3tnkSVy9ZyPv"
     },
     {
       "album": {
@@ -61138,7 +61300,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 160156,
       "name": "Title Track",
       "url": "https://open.spotify.com/track/31W9mk30NYSZcuSkYi5Emd"
@@ -66690,7 +66852,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 222107,
       "name": "Why in the World",
       "url": "https://open.spotify.com/track/2Ev27sEl2ecrovVy8JfAiO"
@@ -69544,7 +69706,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 174103,
       "name": "Your Town",
       "url": "https://open.spotify.com/track/5bXzQYpTI9xkeU1lVUg2g1"

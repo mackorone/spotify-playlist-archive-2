@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-713 songs - 1 day 13 hr 34 min
+714 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [CALL ME MAYBE](https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CALL ME MAYBE](https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi) | 3:42 | 2023-12-19 | 2024-01-30 |
 | [CAMBIANDO LA PIEL](https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:38 | 2023-09-29 | 2023-12-20 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2026-06-12 | 2026-07-21 |
+| [Canción de las simples cosas \- En Vivo](https://open.spotify.com/track/6RSAPcawZBLpOVozOmF8Ur) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 3:40 | 2026-10-07 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 | 2023-12-19 | 2024-01-17 |
 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 | 2024-03-04 | 2024-03-08 |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-19 | 2024-01-19 |
@@ -305,7 +306,7 @@
 | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi) | 2:15 | 2026-07-13 | 2026-08-07 |
 | [LA CUEVA](https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [LA CUEVA](https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR) | 2:44 | 2025-01-09 | 2025-09-26 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2026-07-13 | 2026-09-15 |
-| [LA DEFINICIÓN DE PERFECCIÓN En Vivo \- Estadio Vélez](https://open.spotify.com/track/0d8FvueMedYUSyFDqHWsmu) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [El Parcerito](https://open.spotify.com/artist/6JrxKB9U3c9TL1F7c3Jamv) | [El Mundo de Fede Vigevani En Vivo \- Estadio Vélez](https://open.spotify.com/album/75HCaJRAcTmMF7DiedCB9U) | 2:59 | 2026-09-18 |  |
+| [LA DEFINICIÓN DE PERFECCIÓN En Vivo \- Estadio Vélez](https://open.spotify.com/track/0d8FvueMedYUSyFDqHWsmu) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [El Parcerito](https://open.spotify.com/artist/6JrxKB9U3c9TL1F7c3Jamv) | [El Mundo de Fede Vigevani En Vivo \- Estadio Vélez](https://open.spotify.com/album/75HCaJRAcTmMF7DiedCB9U) | 2:59 | 2026-09-18 | 2026-10-08 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-28 | 2024-03-20 |
 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 | 2026-06-29 |  |
 | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/3vfF2yl2si2qoOQsv7DfUk) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/5fp2cMFps4ctRsi30e8tB6) | 2:10 | 2023-09-29 | 2023-12-20 |

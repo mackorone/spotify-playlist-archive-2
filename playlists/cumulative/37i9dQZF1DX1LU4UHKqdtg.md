@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: Hearts2Hearts
 
-1,836 songs - 4 day 0 hr 22 min
+1,837 songs - 4 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-02-07 | 2025-07-01 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-04-29 | 2025-08-19 |
 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 | 2026-02-27 |  |
+| [GO AHEAD](https://open.spotify.com/track/3ySdjUjy6RJmd5xDfHruWq) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [GO AHEAD](https://open.spotify.com/album/7kRz62nT3c0UzU1elTvzIu) | 2:29 | 2026-10-06 |  |
 | [Go Higher](https://open.spotify.com/track/5K11PM7oEARLOWAHyiI9Qg) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [The Highest](https://open.spotify.com/album/74WrPce0YrZGCBYazUApO7) | 3:17 | 2024-08-08 | 2024-10-18 |
 | [Go\-Getters](https://open.spotify.com/track/1HVZa1ezwRzomqVVfrfVO9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Yoon](https://open.spotify.com/artist/01ieSz0UhfrvFZzQHTCW9Z) | [Go\-Getters](https://open.spotify.com/album/6L9qErYnQvH2xgsGn9ZJzN) | 3:15 | 2024-07-30 | 2024-09-07 |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 | 2024-04-27 |

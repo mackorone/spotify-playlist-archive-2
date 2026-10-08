@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,826 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,829 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 70 | [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 |
 | 71 | [Perfect Pain](https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Biting Heels](https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy) | 2:59 |
 | 72 | [Hold It For Her](https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Porcelain](https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw) | 3:48 |
-| 73 | [Tell Me What I Want To Hear](https://open.spotify.com/track/2ZFdBYiFi0RDySqTjY0qaT) | [emerson](https://open.spotify.com/artist/0u7aiVlrb4gmvmYZiCWv8D) | [Tell Me What I Want To Hear](https://open.spotify.com/album/1fv1Wv1Xt6cqgbwn2KvZJM) | 2:11 |
+| 73 | [Tell Me What I Want To Hear](https://open.spotify.com/track/2ZFdBYiFi0RDySqTjY0qaT) | [emerson](https://open.spotify.com/artist/6LcSy8gx2Eb1FVRd1NoONZ) | [Tell Me What I Want To Hear](https://open.spotify.com/album/1fv1Wv1Xt6cqgbwn2KvZJM) | 2:11 |
 | 74 | [Tied](https://open.spotify.com/track/5JUZTcOfcZ2Rej9SqdRUB5) | [CAITLIN](https://open.spotify.com/artist/37yYoQiIfgAgxKimAy9Rx8) | [Guardrails](https://open.spotify.com/album/0jNVzQnxaQEUR9XApL8bOI) | 2:36 |
 | 75 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 |
 | 76 | [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 |

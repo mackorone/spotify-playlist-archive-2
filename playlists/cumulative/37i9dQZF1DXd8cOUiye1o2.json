@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 171360,
       "name": "Aisi Meri Vibe (From \"Vibe\")",
       "url": "https://open.spotify.com/track/0n1mgzR7ARULz0mfvJhxQQ"
@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 385846,
       "name": "Bol Ari",
       "url": "https://open.spotify.com/track/3ZHVmmcmGdsreproQsqEKp"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 302875,
       "name": "Chhathi Maiya - From \"The Vvaan\"",
       "url": "https://open.spotify.com/track/0gHc3wIJfHx26WPtw5GSgf"
@@ -10522,7 +10522,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 253913,
       "name": "Jaan lutaaun",
       "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
@@ -12869,6 +12869,24 @@
     },
     {
       "album": {
+        "name": "Kasoor/Doori",
+        "url": "https://open.spotify.com/album/5eC2ybLTURAU1BOsX00FtH"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Kasoor",
+      "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
+    },
+    {
+      "album": {
         "name": "Kaun Hai Woh (From \"Baby Do Die Do\")",
         "url": "https://open.spotify.com/album/23gP7jWEpn6Ne80ZrhId04"
       },
@@ -14933,6 +14951,32 @@
     },
     {
       "album": {
+        "name": "Main Udega",
+        "url": "https://open.spotify.com/album/5T84dbE0RV0CiysGH15Wit"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Junaid Ahmed",
+          "url": "https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E"
+        },
+        {
+          "name": "Sidhant Mago",
+          "url": "https://open.spotify.com/artist/3LpzLRTrNjgxqGVI0SjJ7Q"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Main Udega",
+      "url": "https://open.spotify.com/track/4rXtrX42vcyqImU3IRvpoH"
+    },
+    {
+      "album": {
         "name": "Majboori",
         "url": "https://open.spotify.com/album/1HdEOKu6vNhtagRuEOHwUX"
       },
@@ -16981,6 +17025,28 @@
     },
     {
       "album": {
+        "name": "Naina Saavan",
+        "url": "https://open.spotify.com/album/7DYQJTPNFGhIwvBEyqME4v"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Purusharth Jain",
+          "url": "https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Naina Saavan",
+      "url": "https://open.spotify.com/track/4zDxjgxg2gZDSnKCUIyQJA"
+    },
+    {
+      "album": {
         "name": "120 Bahadur (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7K6AuTmZvC1us2fYjIugtP"
       },
@@ -18372,6 +18438,32 @@
       "duration_ms": 146038,
       "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz"
+    },
+    {
+      "album": {
+        "name": "Phata Patakha (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196444,
+      "name": "Phata Patakha - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
     },
     {
       "album": {

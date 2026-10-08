@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/4MwV3lTm5VxU37CDbgfWS3"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        },
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "C\u00f3mo Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/76VrHzudRtBzsHbb6aMgCv"
+    },
+    {
+      "album": {
         "name": "Polvo y Nada",
         "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
@@ -640,7 +662,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 206880,
       "name": "El Cantador - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"

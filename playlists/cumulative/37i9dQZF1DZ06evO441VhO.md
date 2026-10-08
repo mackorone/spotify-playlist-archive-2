@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 57 min
+114 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Be Careful What You Wish For](https://open.spotify.com/track/4jtdv8OcWH7vyM9nelV0tD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:21 | 2022-09-16 | 2022-10-11 |
 | [Blackout](https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Get Nice!](https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl) | 3:45 | 2022-09-16 |  |
 | [Broadcast To The World](https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:16 | 2022-09-16 | 2023-09-16 |
-| [Burn Burn Burn](https://open.spotify.com/track/5iVh4MTn1n3mf2AScD4GFp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Burn Burn Burn](https://open.spotify.com/album/3YkwHZOU12OMiPyaYUxmLy) | 2:34 | 2026-03-20 |  |
+| [Burn Burn Burn](https://open.spotify.com/track/5iVh4MTn1n3mf2AScD4GFp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Burn Burn Burn](https://open.spotify.com/album/3YkwHZOU12OMiPyaYUxmLy) | 2:34 | 2026-03-20 | 2026-10-08 |
+| [Burn Burn Burn](https://open.spotify.com/track/5qBZoGUM2fvyxJ3L4DCUbf) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:34 | 2026-10-08 |  |
 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 | 2022-09-16 |  |
 | [Chasing the Sun](https://open.spotify.com/track/1K1VCU0M0n4WXsAxBGp9Fr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:12 | 2025-09-06 |  |
 | [Chasing the Sun](https://open.spotify.com/track/6Wmhm5sTC0fpIBCvVH2uQF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:12 | 2022-09-16 | 2025-09-06 |
@@ -40,7 +41,7 @@
 | [Falling Apart](https://open.spotify.com/track/1SMMq7Zupw6IHw7Hvy4xb0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:09 | 2023-06-22 |  |
 | [Falling Apart](https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:09 | 2022-09-16 | 2023-06-23 |
 | [Feel This Way](https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:44 | 2022-09-16 | 2022-12-13 |
-| [Follow Me \- Japanese Short Version](https://open.spotify.com/track/7qHbE04wCOkxL18IFVbgyq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:49 | 2026-10-05 | 2026-10-06 |
+| [Follow Me \- Japanese Short Version](https://open.spotify.com/track/7qHbE04wCOkxL18IFVbgyq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:49 | 2026-10-05 |  |
 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/4Su8xgxckDz9s1yLCPvFB2) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 | 2026-09-30 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 | 2026-08-13 |
@@ -54,7 +55,7 @@
 | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28) | 2:37 | 2026-08-14 |  |
 | [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/1VKGS4b6aVSJtoQmWtxGUl) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 | 2026-09-05 |  |
 | [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Have Mixed Drinks About Feelings](https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59) | 2:56 | 2024-06-28 | 2026-09-05 |
-| [I Know What You Did Last Summer](https://open.spotify.com/track/02fWbPqRqpk0wWo8jEksqd) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:45 | 2026-09-13 |  |
+| [I Know What You Did Last Summer](https://open.spotify.com/track/02fWbPqRqpk0wWo8jEksqd) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:45 | 2026-09-13 | 2026-10-08 |
 | [I Know What You Did Last Summer](https://open.spotify.com/track/0azkwzAMADV1WZv8vvZ2du) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Know What You Did Last Summer](https://open.spotify.com/album/27qPcsIKGzmZvSkLjVGCqE) | 2:45 | 2026-05-22 | 2026-09-13 |
 | [I'm Just Here for the Free Beer](https://open.spotify.com/track/2AHkeMOdgNNNbWj3KmqLE5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:42 | 2022-09-19 | 2022-10-11 |
 | [If You're Looking for Your Knife...I Think My Back Found It](https://open.spotify.com/track/48QYjzPFf9JV5WrUOHsUxG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:20 | 2025-11-18 | 2026-06-04 |

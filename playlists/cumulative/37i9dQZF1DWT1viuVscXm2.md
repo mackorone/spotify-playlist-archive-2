@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-458 songs - 1 day 1 hr 47 min
+459 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-21 |  |
 | [Con Otra](https://open.spotify.com/track/2dnYf7R057nlC62o7VDMPb) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Con Otra](https://open.spotify.com/album/6ir6hyzz2p08Q8j9BpvMYM) | 3:11 | 2025-07-18 | 2025-09-13 |
 | [Conmigo te gustó](https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx) | 1:37 | 2025-09-25 |  |
+| [Contigo Todo Lo Tengo](https://open.spotify.com/track/2ELF9H3KJvWoNw6IeJrWkD) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR) | [Contigo Todo Lo Tengo](https://open.spotify.com/album/6e6xTjQqAGyYtuXrk5ARwQ) | 3:05 | 2026-10-07 |  |
 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-20 | 2024-10-19 |
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 | 2024-09-28 |
 | [Cosas Pendientes](https://open.spotify.com/track/1TVfQEk0GYwfgCyajd1bNC) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Cosas Pendientes](https://open.spotify.com/album/54GetTgDwtsTB1rFfJTWi3) | 3:04 | 2025-03-28 | 2025-05-03 |
@@ -350,7 +351,7 @@
 | [Se lo Juro Vieja](https://open.spotify.com/track/4ygglDwHeNrTMEy9vAbaq2) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Se lo Juro Vieja](https://open.spotify.com/album/4RRhVZL8QFOfJwvfuYZFRb) | 2:49 | 2021-12-24 | 2022-08-01 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 | 2024-04-19 |
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2021-12-24 | 2026-04-18 |
-| [Se Te Olvida](https://open.spotify.com/track/2xy1gJyrM5Jt34cFmB4k5y) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Se Te Olvida](https://open.spotify.com/album/5F8g3DMFCMkI4r8KF9OJIA) | 2:49 | 2025-11-07 |  |
+| [Se Te Olvida](https://open.spotify.com/track/2xy1gJyrM5Jt34cFmB4k5y) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Se Te Olvida](https://open.spotify.com/album/5F8g3DMFCMkI4r8KF9OJIA) | 2:49 | 2025-11-07 | 2026-10-08 |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2021-12-24 | 2025-11-22 |
 | [Sentir Amor](https://open.spotify.com/track/7aDaLVUrrL2hOcL0fBBvti) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Imagínate](https://open.spotify.com/album/4fkGAe8IBGYkOljk6oDHU3) | 3:24 | 2021-12-24 | 2022-07-23 |
 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-07-22 | 2022-08-13 |

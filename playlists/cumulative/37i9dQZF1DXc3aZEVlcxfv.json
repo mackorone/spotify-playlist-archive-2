@@ -6842,7 +6842,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 421333,
       "name": "In Jesus Name",
       "url": "https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr"
@@ -13384,6 +13384,28 @@
       "duration_ms": 261055,
       "name": "When I Lift Up My Eyes - Gratitude Live Version",
       "url": "https://open.spotify.com/track/4fBQfTxjfYsmnpoJuiD7u9"
+    },
+    {
+      "album": {
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        },
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
       "album": {

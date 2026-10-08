@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-358 songs - 19 hr 38 min
+359 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 | 2022-09-22 | 2025-09-16 |
 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 | 2022-09-22 | 2025-09-16 |
 | [DEAD](https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [DEAD](https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD) | 4:08 | 2025-09-15 | 2026-09-11 |
+| [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 | 2026-10-07 |  |
 | [Diabla](https://open.spotify.com/track/3VjmE2R9lWcmj8UCmknuhS) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:51 | 2026-09-10 |  |
 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 | 2022-09-22 | 2025-09-16 |
 | [Disco Nap](https://open.spotify.com/track/54nlaNy6QVyFAZkTKWdVAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 3:14 | 2025-09-15 | 2026-09-11 |
@@ -147,7 +148,7 @@
 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 | 2022-09-23 | 2024-04-19 |
 | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl) | 3:01 | 2022-09-23 | 2025-09-16 |
 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2022-09-22 | 2025-09-16 |
-| [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 | 2026-09-10 |  |
+| [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Zainab DiStasio](https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d), [Joseph Pincus](https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 | 2026-09-10 |  |
 | [Heritage](https://open.spotify.com/track/4XCjdGmSw6RqFB6W4uS764) | [Regents](https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd), [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Shegry](https://open.spotify.com/album/52FuZ7LCpIb0ASm79pa51Z) | 4:13 | 2022-09-22 | 2025-09-16 |
 | [High Level](https://open.spotify.com/track/0ukJe2qwhEseGHFB5DTM70) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 2:39 | 2023-01-25 | 2024-04-19 |
 | [High Level](https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC) | 2:39 | 2022-09-22 | 2025-09-16 |
@@ -212,7 +213,7 @@
 | [Monster](https://open.spotify.com/track/0ArK2SbGCLuuWsSdF2YFGS) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Future Sounds of Argentina](https://open.spotify.com/album/4zinhFZq5IL2vf701O0kv7) | 3:00 | 2026-09-10 | 2026-09-23 |
 | [Moon And Back](https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [Moon And Back](https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx) | 3:24 | 2026-09-10 |  |
 | [Moon And Back](https://open.spotify.com/track/7g2YduzYoIzNW4U4Qgaum0) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [BBQ Summer Vibes](https://open.spotify.com/album/30RsC6ujRsMduoPaBqGmtj) | 3:24 | 2026-09-10 | 2026-10-02 |
-| [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2026-09-10 |  |
+| [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2026-09-10 | 2026-10-08 |
 | [Motivation](https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu) | [Rylo & Le Prof](https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4) | [Motivation](https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s) | 2:42 | 2026-09-10 |  |
 | [MOTO](https://open.spotify.com/track/44XhnPbTET1lEvQK8pdgoT) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [MOTO](https://open.spotify.com/album/1DMfotgXi2NtVg62NLgfcE) | 2:59 | 2025-09-15 | 2026-09-11 |
 | [Mountain Top](https://open.spotify.com/track/0AqWEuMIS9ZF26VwlfXW0j) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 4:03 | 2025-09-15 | 2026-09-11 |

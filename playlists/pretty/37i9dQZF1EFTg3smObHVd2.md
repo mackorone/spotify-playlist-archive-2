@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 85 | [Good for You](https://open.spotify.com/track/6xkRlf3PL1rJrUWltDJh2o) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:54 |
 | 86 | [I C U](https://open.spotify.com/track/3qab885LkthLRoVxIw6Ek2) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Love & Blood](https://open.spotify.com/album/6kNlBaFUALYiVCieaO3oqp) | 2:21 |
 | 87 | [Bullshit in Disguise](https://open.spotify.com/track/1GvB8lPblkTIVKWmHei9VI) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47) | [Gravity](https://open.spotify.com/album/230NAWq6YRHMKTFkw3gYON) | 2:39 |
-| 88 | [Honesty](https://open.spotify.com/track/4EkCXwfSUmzPr8APls1cTh) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:19 |
-| 89 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
+| 88 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
+| 89 | [Honesty](https://open.spotify.com/track/4EkCXwfSUmzPr8APls1cTh) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:19 |
 | 90 | [Personal Heaven](https://open.spotify.com/track/09YBIWKOy5jQ9gqB1ODvaa) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:05 |
 | 91 | [Yes Please](https://open.spotify.com/track/1EwaalnuBxcBnbIqEK2yNQ) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Yes Please](https://open.spotify.com/album/5buJ1a0qjOxVvBcjdvmtgT) | 3:20 |
 | 92 | [Red](https://open.spotify.com/track/6cb0HhIz1h6MM9lZkH0Htp) | [Kiah Victoria](https://open.spotify.com/artist/2JqGe5yK5vhJSJb0wPa7J9) | [And Then We Wept](https://open.spotify.com/album/0Z0vBD9iro5c1YTUMy9OzN) | 3:57 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AceQLgAAAAA1WIdBzi7B4nEP5D792RiW`
+Snapshot ID: `AceV9gAAAAA1+0vDuB4GIy8E64/K7ZCQ`

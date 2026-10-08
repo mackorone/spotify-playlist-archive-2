@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: AKRIILA",
-  "num_followers": 134398,
+  "num_followers": 134418,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "COMPA COLETO (uy_como)",
-        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "COMPA COLETO (uy_como)",
-      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -383,18 +383,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "M\u00e1s Cara",
-        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 127575,
-      "name": "Te Dar\u00e9",
-      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
+      "duration_ms": 190151,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -415,22 +419,18 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 190151,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
+      "duration_ms": 127575,
+      "name": "Te Dar\u00e9",
+      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "K de Karma",
         "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 198466,
       "name": "D\u00edas Tristes",
       "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "No Tengo Remedio",
-        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "No Tengo Remedio",
-      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
         "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 242973,
       "name": "Es Mentiroso",
       "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "No Tengo Remedio",
+        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "No Tengo Remedio",
+      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Todavia",
         "url": "https://open.spotify.com/album/1Td517a9y1xQJITOrZqfm2"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 203360,
       "name": "Todavia",
       "url": "https://open.spotify.com/track/56GdtA7PRUT4YRAtjSs4D3"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Qui\u00e9n Contra M\u00ed (Live From Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "ya no estoy",
         "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 193355,
       "name": "CRACK",
       "url": "https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Qui\u00e9n Contra M\u00ed (Live From Los \u00c1ngeles)",
-        "url": "https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 219104,
-      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
     },
     {
       "added_at": "2026-10-02 04:02:33",

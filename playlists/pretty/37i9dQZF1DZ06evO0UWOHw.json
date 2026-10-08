@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 19405,
+  "num_followers": 19421,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAADS10EvbN7B8iJOI1ipn/FN",
+  "snapshot_id": "asLogAAAAACM0N1zghzStZqUYH2VgTkO",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184591,
+      "name": "Ordinary Things",
+      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 175000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184591,
-      "name": "Ordinary Things",
-      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 158690,
       "name": "Glory",
       "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192284,
       "name": "All Power",
       "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
     },
     {
       "added_at": null,

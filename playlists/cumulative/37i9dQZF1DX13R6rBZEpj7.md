@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-421 songs - 1 day 0 hr 3 min
+422 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Every Night's A Party](https://open.spotify.com/track/3KV8k1LcSn37OT5DVNSPKk) | [Firewire](https://open.spotify.com/artist/2iOcMOLs9f1iaxxDVYgqcp) | [Every Night's A Party](https://open.spotify.com/album/7EeaCOmFlLVyCL3e87zzxa) | 2:14 | 2025-07-03 | 2025-07-25 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
-| [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 | 2026-01-16 |  |
+| [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 | 2026-01-16 | 2026-10-08 |
 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 | 2024-03-01 | 2025-03-28 |
 | [Fallin](https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [TRC](https://open.spotify.com/artist/4Oc6YddDw6YWdx4wYfyd3S), [Miss Fire](https://open.spotify.com/artist/1POjThbbB3DoTwSglss08D) | [Fallin](https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA) | 3:55 | 2026-01-16 |  |
 | [Fallin](https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [Fallin](https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm) | 3:02 | 2025-05-01 |  |
@@ -341,6 +341,7 @@
 | [Send It](https://open.spotify.com/track/3H2PlQre363vbV1rFMWDri) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [K Dot](https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb) | [Send It](https://open.spotify.com/album/2HVAcvYkOAxaM5Oj37ce9H) | 1:52 | 2026-08-06 |  |
 | [Seshame Street](https://open.spotify.com/track/4QpyVaTtVoRkCcMRxF5Guh) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Seshame Street / High](https://open.spotify.com/album/6ckvfv9dp7toJkoNreH1UC) | 2:52 | 2024-02-23 | 2025-05-18 |
 | [shake\_leg](https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [shake\_leg](https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh) | 2:17 | 2026-04-23 |  |
+| [Shot to My Heart](https://open.spotify.com/track/2wvbW9Kux20eKubqiOCLyZ) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [Natz](https://open.spotify.com/artist/4XggH5slQaCycWQl4bwiia), [Jammin](https://open.spotify.com/artist/2kqQ0ftQp5S4zyIaHdq3wK), [Millz](https://open.spotify.com/artist/1u0z1eEQWI9BXCa4iH9BF3) | [Shot to My Heart](https://open.spotify.com/album/454Lye1qTnnMlsEqIyvjs9) | 2:55 | 2026-10-02 |  |
 | [Show Me \- Skepsis Remix](https://open.spotify.com/track/7EfCX1JJcvCtul38U9PBRB) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Show Me \(Skepsis Remix\)](https://open.spotify.com/album/3KQMAgCDCdTzqCjWPRvaPY) | 2:45 | 2022-09-23 | 2023-08-11 |
 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 | 2022-09-05 | 2024-10-16 |
 | [Sick Of The Chatter](https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Sick Of The Chatter](https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp) | 3:27 | 2024-09-12 | 2026-01-16 |

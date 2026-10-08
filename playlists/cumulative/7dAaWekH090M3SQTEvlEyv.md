@@ -4,7 +4,7 @@
 
 > ニコニコ動画上におけるVOCALOID曲の人気を測るチャート。動画再生数や、作成数、コメント数、いいね数などのデータにビルボードが独自開発した係数を乗じて上位20位までのランキングを生成しています。Supported by ニコニコ
 
-202 songs - 10 hr 20 min
+203 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [ドッペルゲンガー](https://open.spotify.com/track/1blUYWznNCQ0M1syK7B1oH) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [ドッペルゲンガー](https://open.spotify.com/album/5nvyaS0v6LZsXj3NFCBZVX) | 3:25 | 2026-01-28 | 2026-02-19 |
 | [ドリーマーズビート](https://open.spotify.com/track/374paD6wZxAXIhCXkjbiQt) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [ドリーマーズビート](https://open.spotify.com/album/2UM50hTobeyTNCgROLjBhY) | 3:53 | 2026-06-03 | 2026-06-11 |
 | [ド七五サンバ \(feat\. 重音テト\)](https://open.spotify.com/track/51fXEeSQnSO2cvNUaM6Iij) | [なみぐる](https://open.spotify.com/artist/32ljht9dPnlZACgqyVTn6c), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [ド七五サンバ](https://open.spotify.com/album/6TiGnkssFY5FBJ8zF6MNZa) | 3:05 | 2026-05-13 | 2026-05-27 |
+| [ノーマルエンド](https://open.spotify.com/track/1kIp1OpCvZZkjjlsMcTclG) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [NORMAL END](https://open.spotify.com/album/3SHlC8bviDBswZgJ2Z4wQC) | 4:06 | 2026-10-07 |  |
 | [ハムパチーノ・キンタロキャンディ](https://open.spotify.com/track/0arXXBikMmbfLu6V3rzLH7) | [ハムパチーノ](https://open.spotify.com/artist/2NCBtQRDl7uaYosK11b9DP) | [ハムパチーノ・キンタロキャンディ](https://open.spotify.com/album/4Ef22Oayl9RrppN43UDRr8) | 2:05 | 2026-02-25 | 2026-03-12 |
 | [ハーモニー feat\. 原口沙輔, 初音ミク](https://open.spotify.com/track/0Hu6nUJMqkoOmHY0FVBSYk) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ハーモニー](https://open.spotify.com/album/15yQuoMzlJb4vpSuBr52NR) | 3:00 | 2026-02-25 | 2026-07-09 |
 | [バゥムクゥヘン・エンドロゥル](https://open.spotify.com/track/1lxynUwEgOxUTUm18PitpF) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [バゥムクゥヘン・エンドロゥル](https://open.spotify.com/album/2a0rMNNzGFccHjjxI92pY3) | 2:24 | 2026-01-07 | 2026-02-26 |

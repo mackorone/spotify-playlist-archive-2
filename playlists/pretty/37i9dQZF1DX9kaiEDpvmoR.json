@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93780,
+  "num_followers": 93778,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "H\u00f6gsbo Riviera",
         "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221416,
       "name": "Lukas, Dennis och Farsan",
       "url": "https://open.spotify.com/track/5GgwN0GRRi3z7uftDPS5MK"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Vann du livet?",
         "url": "https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 210680,
       "name": "Vann du livet?",
       "url": "https://open.spotify.com/track/7Aba1eJrqLrAP4NlMAvwK0"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Farsans h\u00e4nder",
+        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Farsans h\u00e4nder",
+      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Jealous Lover",
         "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Farsans h\u00e4nder",
-        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Farsans h\u00e4nder",
-      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -579,22 +595,6 @@
       "duration_ms": 202425,
       "name": "P\u00e5 egna ben (feat. Carola)",
       "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Kontrollen & f\u00f6rlusten av den",
-        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 183749,
-      "name": "Kontrollen & f\u00f6rlusten av den",
-      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "25k",
+        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 237019,
+      "name": "25k",
+      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Dansa p\u00e5 min grav (2026 version)",
         "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
       },
@@ -807,18 +823,26 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "25k",
-        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
+        "name": "Inte h\u00e4r",
+        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        },
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
         }
       ],
-      "duration_ms": 237019,
-      "name": "25k",
-      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
+      "duration_ms": 167586,
+      "name": "Inte h\u00e4r",
+      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -859,6 +883,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas"
       },
@@ -891,18 +931,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
         }
       ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+      "duration_ms": 277360,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -923,42 +963,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
       "artists": [
         {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 277360,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Inte h\u00e4r",
-        "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        },
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Inte h\u00e4r",
-      "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
+      "duration_ms": 171706,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -975,22 +991,6 @@
       "duration_ms": 211233,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Can't Frame the Moonlight",
+        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "Can't Frame the Moonlight",
+      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 244026,
       "name": "Muscle In",
       "url": "https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Can't Frame the Moonlight",
-        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 205896,
-      "name": "Can't Frame the Moonlight",
-      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Neverending Love (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Neverending Love (8-track Remix by MP)",
-      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
         "name": "R\u00e4dda Liv",
         "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 227666,
       "name": "R\u00e4dda Liv",
       "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
+        "name": "Neverending Love (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Neverending Love (8-track Remix by MP)",
+      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
         "url": "https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 206120,
       "name": "Who",
       "url": "https://open.spotify.com/track/3XOPD2Hl2SJLNSyFRnSHDz"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Ingenting \u00e4r efter oss",
+        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+      },
+      "artists": [
+        {
+          "name": "Timo R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "Ingenting \u00e4r efter oss",
+      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "Bra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
-        "name": "Ingenting \u00e4r efter oss",
-        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+        "name": "Gullmar Gospel",
+        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
       "artists": [
         {
-          "name": "Timo R\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
         }
       ],
-      "duration_ms": 181066,
-      "name": "Ingenting \u00e4r efter oss",
-      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
+      "duration_ms": 272575,
+      "name": "Gullmar Gospel",
+      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1407,22 +1423,6 @@
       "duration_ms": 178499,
       "name": "More!",
       "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "Gullmar Gospel",
-        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
-      },
-      "artists": [
-        {
-          "name": "Joel Alme",
-          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Gullmar Gospel",
-      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-10-01 22:00:50",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-10-01 22:00:50",
       "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+    },
+    {
+      "added_at": "2026-10-01 22:00:50",
+      "album": {
         "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 169800,
       "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
       "url": "https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm"
-    },
-    {
-      "added_at": "2026-10-01 22:00:50",
-      "album": {
-        "name": "VM-guld",
-        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "VM-guld",
-      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain]
 
 > These are the songs that have shaped acclaimed director, Osgood Perkins', alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,367 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,375 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain]
 | 9 | [I Shall Be Released](https://open.spotify.com/track/6SCiE2JKIhg9FlZDz3XOx2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 4:01 |
 | 10 | [Return to Sender](https://open.spotify.com/track/2cdzutoqFK6sfW6exi7oXh) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:08 |
 | 11 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 |
-| 12 | [Everybody's Got Something To Hide Except Me And My Monkey \- Remastered 2009](https://open.spotify.com/track/64P3zpRsDHIk7YTpRtaKYL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:24 |
+| 12 | [Everybody's Got Something To Hide Except Me And My Monkey \- Remastered 2009](https://open.spotify.com/track/64P3zpRsDHIk7YTpRtaKYL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered 2009\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:24 |
 | 13 | [Foggy Notion](https://open.spotify.com/track/7JS7ZFenT3fgPDsHXXkarU) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary / Super Deluxe\)](https://open.spotify.com/album/2rc2iWwiLaYqw2v9LACPu0) | 6:58 |
 | 14 | [I Got You](https://open.spotify.com/track/3KOPorZiKeW6gFeIViqMoq) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [True Colours](https://open.spotify.com/album/5UjwQ3co1TWY9458ojqjAj) | 3:29 |
 | 15 | [Ride a White Swan \- 2016 Remaster](https://open.spotify.com/track/01vRKzCUSI0VWLDdV7HTox) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [T\. Rex \(Remastered\)](https://open.spotify.com/album/3f65UcXm7xtNq2UDEhDi62) | 2:13 |

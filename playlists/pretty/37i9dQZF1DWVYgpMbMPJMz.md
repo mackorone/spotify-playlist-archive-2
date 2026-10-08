@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Karen Espinosa & Tiffany Hudson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,110 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,209 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

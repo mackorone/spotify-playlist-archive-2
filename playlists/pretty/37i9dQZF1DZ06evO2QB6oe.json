@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71153,
+  "num_followers": 71161,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAAUPGhHKMxNfXLmiUwHzQGT",
+  "snapshot_id": "asLogAAAAADz1upCVgO1Ad32lPq772uD",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pedro Cap\u00f3",
+        "url": "https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Si T\u00fa Me Lo Pides (feat. Kany Garc\u00eda)",
+      "url": "https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pedro Cap\u00f3",
-        "url": "https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Si T\u00fa Me Lo Pides (feat. Kany Garc\u00eda)",
-      "url": "https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta El Alma",
+        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sin Haber Dormido",
+      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 206414,
       "name": "Aprender a Vivir",
       "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta El Alma",
-        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Sin Haber Dormido",
-      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
     },
     {
       "added_at": null,
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
+        "name": "Mis No Lugares",
+        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 218665,
-      "name": "Cae de Una",
-      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
+      "duration_ms": 178285,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis No Lugares",
-        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
       "artists": [
         {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+      "duration_ms": 218665,
+      "name": "Cae de Una",
+      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
     },
     {
       "added_at": null,

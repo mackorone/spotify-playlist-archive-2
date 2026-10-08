@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,453 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,454 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Sexo Bolado](https://open.spotify.com/track/6imVq8B1PLvb7TDYUohfRR) | [Junior Gobira](https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk), [Arrochadeira FLuxos](https://open.spotify.com/artist/1QHls0KR42PAqEpkPnCMcP), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Abril](https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi) | 2:01 |
 | 50 | [Não Agrado Todos](https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJBHBHDJ](https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0) | [Não Agrado Todos](https://open.spotify.com/album/6YYqLDClhznmF4Xri1Di0a) | 2:05 |
 
-Snapshot ID: `asGXAAAAAAB8lM5pqsA7IlXeOdNszznn`
+Snapshot ID: `asLogAAAAABYBNShJUcQOMf9puPRhvPQ`

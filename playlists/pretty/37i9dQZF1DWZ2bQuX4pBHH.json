@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 340810,
+  "num_followers": 340910,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
-        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+        "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
       },
       "artists": [
         {
@@ -1056,17 +1056,17 @@
           "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
         {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 319560,
-      "name": "Kuch To Hua Hai",
-      "url": "https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI"
+      "duration_ms": 347453,
+      "name": "Tumhi Dekho Naa",
+      "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 448948,
+      "name": "Baazigar O Baazigar",
+      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 448948,
-      "name": "Baazigar O Baazigar",
-      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
     }
   ],
   "unique_name": "Shah Rukh Khan Hits",

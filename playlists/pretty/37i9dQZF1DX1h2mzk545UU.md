@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,428 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,450 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 3 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 4 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
 | 5 | [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 |
-| 6 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
-| 7 | [Mambo Positivo](https://open.spotify.com/track/6WdOMvCQf8Z1oH9yWvfEy4) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [Mambo Positivo](https://open.spotify.com/album/5cVamWqIlxO0nKI6POjxhQ) | 2:43 |
-| 8 | [STREETFIGHTER](https://open.spotify.com/track/2XmNP4PROaCEuY057cr8Mh) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [STREETFIGHTER](https://open.spotify.com/album/1NeHJ4okiBLmirKtvnKw3r) | 3:18 |
-| 9 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
+| 6 | [Mambo Positivo](https://open.spotify.com/track/6WdOMvCQf8Z1oH9yWvfEy4) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [Mambo Positivo](https://open.spotify.com/album/5cVamWqIlxO0nKI6POjxhQ) | 2:43 |
+| 7 | [STREETFIGHTER](https://open.spotify.com/track/2XmNP4PROaCEuY057cr8Mh) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [STREETFIGHTER](https://open.spotify.com/album/1NeHJ4okiBLmirKtvnKw3r) | 3:18 |
+| 8 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
+| 9 | [Amor Factura](https://open.spotify.com/track/3cZgBPSMbcbpfLfpmv54Nq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Factura](https://open.spotify.com/album/3tyAXoOG4Q2nAs705ujxsy) | 3:57 |
 | 10 | [Timelapse de Sol](https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 3:05 |
 | 11 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 12 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 99 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 |
 | 100 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 |
 
-Snapshot ID: `AAAAAPvp9/H/RMwt5Syw7jcMnxtKMjRR`
+Snapshot ID: `AAAAAF+AEybk4FcAJ374Cb1ZCtaFkWq4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: 香田悠真
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,046 likes - 197 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,094 likes - 197 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

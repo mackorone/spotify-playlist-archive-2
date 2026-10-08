@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 
 > The official soundtrack and score of Project Hail Mary, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,426 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,598 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 | 6 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 7 | [Po Atarau](https://open.spotify.com/track/2atjs3n7Da36ygUX9i80Fz) | [Turakina Maori Girls Choir](https://open.spotify.com/artist/2fv3jVAkZ4y5e6JquQ7LMv) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 0:51 |
 | 8 | [Gracias A La Vida](https://open.spotify.com/track/0Y7LvRJWXhUDASLmiugH1z) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 4:22 |
-| 9 | [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 |
+| 9 | [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 |
 | 10 | [Stargazer](https://open.spotify.com/track/1F9H21t3SqR3643NiffUKU) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 2:42 |
 | 11 | [Glory, Glory](https://open.spotify.com/track/7nPggvXVNWIZD08tZsax0X) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 3:13 |
 | 12 | [Ryland Grace, Cognition Assessment \- from "Project Hail Mary"](https://open.spotify.com/track/5jIgkhFUl6c6htlj1iCGcj) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 4:47 |

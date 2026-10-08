@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
-  "num_followers": 786301,
+  "num_followers": 786310,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1073,38 +1073,6 @@
       "url": "https://open.spotify.com/track/4UHuO8rdfAw3cjxVFynq8Y"
     },
     {
-      "added_at": "2026-02-06 09:45:58",
-      "album": {
-        "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 223509,
-      "name": "Might Just",
-      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
-    },
-    {
-      "added_at": "2025-10-17 05:46:20",
-      "album": {
-        "name": "Separate Ways",
-        "url": "https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 178538,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
-    },
-    {
       "added_at": "2026-10-02 07:36:23",
       "album": {
         "name": "Frequency Of Love",
@@ -1125,20 +1093,52 @@
       "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2025-10-17 05:46:20",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+        "name": "Separate Ways",
+        "url": "https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi"
       },
       "artists": [
         {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         }
       ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+      "duration_ms": 178538,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
+    },
+    {
+      "added_at": "2026-02-06 09:45:58",
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223509,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2026-02-14 03:28:47",
@@ -1157,20 +1157,20 @@
       "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
       "artists": [
         {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2025-10-10 07:46:04",
@@ -1765,22 +1765,6 @@
       "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Fear When You Fly",
-        "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 220104,
-      "name": "Fear When You Fly",
-      "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
-    },
-    {
       "added_at": "2025-05-16 04:52:04",
       "album": {
         "name": "We Don't Have to Be Alone",
@@ -1795,6 +1779,22 @@
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Fear When You Fly",
+        "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 220104,
+      "name": "Fear When You Fly",
+      "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
       "added_at": "2026-02-06 09:45:58",
@@ -1849,6 +1849,22 @@
       "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Gold",
@@ -1887,22 +1903,6 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Here To Stay",
-        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 202139,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
       "added_at": "2026-04-18 17:35:25",
@@ -2237,22 +2237,6 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Simply Beautiful",
-        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Simply Beautiful",
-      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
-    },
-    {
       "added_at": "2024-10-18 16:11:48",
       "album": {
         "name": "Full Circle",
@@ -2267,6 +2251,22 @@
       "duration_ms": 178891,
       "name": "If The Love Goes",
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2457,58 +2457,6 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
-      "added_at": "2025-02-14 09:04:21",
-      "album": {
-        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
-        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196439,
-      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
-      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
-    },
-    {
-      "added_at": "2023-09-16 14:17:34",
-      "album": {
-        "name": "Waiting For You (feat. Naomi Sharon)",
-        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 219998,
-      "name": "Waiting For You (feat. Naomi Sharon)",
-      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
-      },
-      "artists": [
-        {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
-        }
-      ],
-      "duration_ms": 129707,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
-    },
-    {
       "added_at": "2026-09-25 08:27:30",
       "album": {
         "name": "Chameleon (feat. Chloe George)",
@@ -2529,20 +2477,56 @@
       "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
     },
     {
-      "added_at": "2026-05-08 07:01:11",
+      "added_at": "2025-02-14 09:04:21",
       "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Chakzilla",
-      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
+    },
+    {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+      },
+      "artists": [
+        {
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+        }
+      ],
+      "duration_ms": 129707,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
+    },
+    {
+      "added_at": "2023-09-16 14:17:34",
+      "album": {
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
       "added_at": "2025-08-15 19:53:41",
@@ -2571,6 +2555,22 @@
       "duration_ms": 208696,
       "name": "The Present",
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
+    },
+    {
+      "added_at": "2026-05-08 07:01:11",
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Chakzilla",
+      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
     },
     {
       "added_at": "2025-02-21 07:53:52",

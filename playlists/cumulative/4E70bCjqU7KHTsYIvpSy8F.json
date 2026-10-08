@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "\u9006\u6c34\u5bd2\u4e4b\u4e5d\u5149\u5bd2\u6797 (\u6e38\u620f\u300a\u9006\u6c34\u5bd2\u300b\u4e5d\u5dde\u98de\u5149\u7248\u672c\u539f\u58f0\u4e13\u8f91)",
+        "url": "https://open.spotify.com/album/482g4PgZ7eAB6KKAWPD84B"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214569,
+      "name": "\u4e5d\u5149\u5343\u8f7d\uff08\u4e5d\u5149\u5bd2\u6797\uff09 - \u9006\u6c34\u5bd2\u4e4b\u4e5d\u5149\u5bd2\u6797(\u6e38\u620f\u300a\u9006\u6c34\u5bd2\u300b\u539f\u58f0\u4e13\u8f91)",
+      "url": "https://open.spotify.com/track/3JL2xya1p5vxf3cUFswqdT"
+    },
+    {
+      "album": {
         "name": "\u611b\u306b\u3064\u3044\u3066 (Agape)",
         "url": "https://open.spotify.com/album/3oXwYTXdkYmlOKSn4B1dWd"
       },

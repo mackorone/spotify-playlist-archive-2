@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,235 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,238 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 30 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 |
 | 31 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
 | 32 | [Return to Sender](https://open.spotify.com/track/1BOZEfrcvYQ9INFLxXvQFW) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Epilogue One](https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf) | 4:14 |
-| 33 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
-| 34 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
+| 33 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
+| 34 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
 | 35 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 |
 | 36 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 37 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 40 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
 | 41 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
 | 42 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 |
-| 43 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 |
+| 43 | [Symmetries](https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Symmetries](https://open.spotify.com/album/2qVKoJDlyCSpPh90SB5HEK) | 3:35 |
 | 44 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 |
-| 45 | [Symmetries](https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Symmetries](https://open.spotify.com/album/2qVKoJDlyCSpPh90SB5HEK) | 3:35 |
+| 45 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 |
 | 46 | [The Other Side](https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [The Other Side](https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG) | 3:20 |
 | 47 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
 | 48 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 |

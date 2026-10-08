@@ -13479,6 +13479,24 @@
     },
     {
       "album": {
+        "name": "Rathinamo",
+        "url": "https://open.spotify.com/album/0mhWO74xsaV16ZOEVvP4xO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189912,
+      "name": "Rathinamo",
+      "url": "https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2"
+    },
+    {
+      "album": {
         "name": "Rathinamo (Female Version)",
         "url": "https://open.spotify.com/album/3UueklpFLIfw6EJ0gSQPIW"
       },

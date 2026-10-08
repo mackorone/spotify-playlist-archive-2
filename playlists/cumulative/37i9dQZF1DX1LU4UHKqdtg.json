@@ -11271,6 +11271,24 @@
     },
     {
       "album": {
+        "name": "GO AHEAD",
+        "url": "https://open.spotify.com/album/7kRz62nT3c0UzU1elTvzIu"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149782,
+      "name": "GO AHEAD",
+      "url": "https://open.spotify.com/track/3ySdjUjy6RJmd5xDfHruWq"
+    },
+    {
+      "album": {
         "name": "The Highest",
         "url": "https://open.spotify.com/album/74WrPce0YrZGCBYazUApO7"
       },

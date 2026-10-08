@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-348 songs - 21 hr 36 min
+349 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Echo](https://open.spotify.com/track/0DWDoSdZa5mJGlhJrND0Zi) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Echo](https://open.spotify.com/album/2dUiNUFWAsFXqT7NdZQWOS) | 3:40 | 2021-12-09 | 2022-04-15 |
 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 | 2021-12-09 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-12-09 |  |
+| [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 | 2026-10-07 |  |
 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 | 2022-06-24 | 2026-02-10 |
 | [F Delano](https://open.spotify.com/track/3lo49mXR0DakVtIguASSmD) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [F Delano](https://open.spotify.com/album/7zuagMPFizgVfgFSRwPYvR) | 3:24 | 2022-04-14 | 2022-04-19 |
 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 | 2021-12-09 |  |
@@ -321,7 +322,7 @@
 | [The Love](https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [The Love](https://open.spotify.com/album/26cjoxtd6SxMvyy8xzLeXs) | 2:38 | 2021-12-09 | 2022-07-29 |
 | [The Mess We Make](https://open.spotify.com/track/7cetoxbgUuslYQEYkAUBIP) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [The Mess We Make](https://open.spotify.com/album/1BYqmwjC7pRkdJ1742WBNM) | 3:27 | 2022-04-14 | 2022-04-21 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-09 | 2024-06-01 |
-| [The Sunlighttt](https://open.spotify.com/track/5pWg3CJ8lMkxA6dXc7j0g1) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Sundrops!](https://open.spotify.com/album/04nTSxSAZvFV49FJR5Lcv1) | 3:17 | 2025-09-25 |  |
+| [The Sunlighttt](https://open.spotify.com/track/5pWg3CJ8lMkxA6dXc7j0g1) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Sundrops!](https://open.spotify.com/album/04nTSxSAZvFV49FJR5Lcv1) | 3:17 | 2025-09-25 | 2026-10-08 |
 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-14 |  |
 | [There's Nothing In The Water We Can't Fight](https://open.spotify.com/track/3A0rcWDZX9YCYwQmIvhwDl) | [Cloud Control](https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j) | [Bliss Release](https://open.spotify.com/album/0qly5POWuw9cGEi2gJtu3O) | 3:59 | 2023-01-18 | 2023-02-18 |
 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 | 2021-12-09 | 2026-05-08 |

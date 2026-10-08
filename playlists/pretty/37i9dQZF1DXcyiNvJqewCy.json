@@ -1,6 +1,6 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 235007,
+  "num_followers": 235012,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
@@ -139,7 +139,7 @@
     {
       "added_at": "2026-09-17 14:00:46",
       "album": {
-        "name": "Abbey Road (Remastered)",
+        "name": "Abbey Road (Remastered 2009)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-09-17 14:00:46",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
-    },
-    {
-      "added_at": "2026-09-17 14:00:46",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+    },
+    {
+      "added_at": "2026-09-17 14:00:46",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2026-09-17 14:00:46",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-09-17 14:00:46",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2026-09-17 14:00:46",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2026-09-17 14:00:46",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2026-09-17 14:00:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-17 14:00:46",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/4TBDgyNsiHYu9xTbasFCE9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 209816,
-      "name": "Bloom (Online Bonus Track)",
-      "url": "https://open.spotify.com/track/44alNkXsYnTyPnkMdohBcx"
-    },
-    {
-      "added_at": "2026-09-17 14:00:46",
-      "album": {
         "name": "a little more time",
         "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 210202,
       "name": "a little more time",
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
+    },
+    {
+      "added_at": "2026-09-17 14:00:46",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/4TBDgyNsiHYu9xTbasFCE9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 209816,
+      "name": "Bloom (Online Bonus Track)",
+      "url": "https://open.spotify.com/track/44alNkXsYnTyPnkMdohBcx"
     },
     {
       "added_at": "2026-09-17 14:00:46",

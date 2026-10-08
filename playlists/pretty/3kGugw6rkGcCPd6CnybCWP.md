@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 72 songs - 4 hr 9 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,13 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 70 | [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 |
 | 71 | [Grand Parade](https://open.spotify.com/track/5LaZeUeAbWf7AdlqJube9u) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Grand Parade](https://open.spotify.com/album/3ojxXTX7wbPjfyk4v4pf3z) | 4:42 |
 | 72 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
+| 73 | [entropy](https://open.spotify.com/track/2Jpb0JyCNvOFhkKnRwe05t) | [MØURIS](https://open.spotify.com/artist/0bqv8o4m2yr2wS0bV1YmpJ) | [entropy](https://open.spotify.com/album/0t0T9Z6hYVV2dPkjt4fTV1) | 3:53 |
+| 74 | [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 |
+| 75 | [Sweet](https://open.spotify.com/track/4dUj221VHz0oN9PRnHxVo5) | [The Nancys](https://open.spotify.com/artist/4Xl9EGYMEND8sP3SI43Fpb) | [Sweet](https://open.spotify.com/album/3rgo1WCTXHwD8ItkxpjJrl) | 4:23 |
+| 76 | [Madness of Absent Love](https://open.spotify.com/track/2di2yPFbBd2Ecg6AFoux7f) | [Michelly Possu](https://open.spotify.com/artist/3Xel3jD7uU48RbuVAEgj0t) | [Michu's Old Night Tapes](https://open.spotify.com/album/73u69cV72YkMb9pCBrW4CB) | 2:44 |
+| 77 | [Doormat](https://open.spotify.com/track/2triuhtTEfOHXDFKr2FQA6) | [Shelly Carmel](https://open.spotify.com/artist/0GdOT7ApvE5wEvvF01tyQ9) | [The wonderful and tragic tales from the first house you ever rent](https://open.spotify.com/album/5nEZzppRWFwshMCLcJBDv5) | 3:27 |
+| 78 | [Mountain Air](https://open.spotify.com/track/5RU1dJ8EBcVeYAP45kuBLf) | [SIBBA](https://open.spotify.com/artist/7ifOPuhHHKhlSEZ46341HS) | [Mountain Air](https://open.spotify.com/album/5FqC6izjs3eKsPa7pFul7z) | 4:13 |
+| 79 | [Twin Flame](https://open.spotify.com/track/7MG4BcFdNGBTCMJ0ipypdz) | [Fluxoxo](https://open.spotify.com/artist/74F50m6YsMlAJ2dEdujuDF) | [Twin Flame](https://open.spotify.com/album/6Q35Kr2PkmdVQGJIEyqGKn) | 2:14 |
+| 80 | [Autumn Leaves](https://open.spotify.com/track/0kSmIuMcvpjyYjkCngSb4q) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Autumn Leaves](https://open.spotify.com/album/4q9kf0FvysHkqWnpfi9cSy) | 3:30 |
 
-Snapshot ID: `AAAQLFhqB52jbRwZK/hGtyMYprumoH5+`
+Snapshot ID: `AAAQNGx1ny1Ir6YBjhXzKsn2ytI/E5dn`

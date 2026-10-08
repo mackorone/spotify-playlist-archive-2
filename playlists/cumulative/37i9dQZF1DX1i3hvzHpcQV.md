@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Dorothy
 
-215 songs - 12 hr 57 min
+216 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Nenjin Ezhuth](https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Vidya Lakshmi G](https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8) | [Nenjin Ezhuth](https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV) | 3:49 | 2024-06-12 | 2026-03-18 |
 | [Og Sambavam \(From "Good Bad Ugly"\)](https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adhik Ravi Chandran](https://open.spotify.com/artist/4Mc4AjHZb70VJsiV3BhWCu), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Og Sambavam \(From "Good Bad Ugly"\)](https://open.spotify.com/album/5uJEIc691EJ7R5vrbUJ7qs) | 3:18 | 2025-04-10 |  |
 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 | 2022-05-27 | 2025-03-29 |
+| [One Name](https://open.spotify.com/track/3eYaxbCWJ9gj4OqGVekwgm) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr) | 3:24 | 2026-10-07 |  |
 | [Onnoda Nadandhaa](https://open.spotify.com/track/5ppk5XtvJJjkYYfmJrnPX9) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:15 | 2023-04-03 | 2023-04-19 |
 | [Oo Solriya Oo Oo Solriya](https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Pushpa \- The Rise](https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx) | 3:43 | 2021-12-20 | 2024-06-12 |
 | [Oorum Blood \- From "Dude"](https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Oorum Blood \(From "Dude"\)](https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE) | 4:00 | 2025-10-23 |  |

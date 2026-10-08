@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416768,
+  "num_followers": 416790,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/2fuTVa0NlCsdFwzZe9VmWe"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 230163,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Old Friend (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Old Friend (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Euro",
-        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 168717,
-      "name": "Euro",
-      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 222701,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 168717,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Visage 5 (Floating)",
+        "url": "https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 293333,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 135600,
       "name": "A Different Path",
       "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Visage 5 (Floating)",
-        "url": "https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 293333,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
     },
     {
       "added_at": "2026-06-02 14:00:24",

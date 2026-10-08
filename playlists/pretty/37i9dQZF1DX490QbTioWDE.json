@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
-  "num_followers": 874416,
+  "num_followers": 874410,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-09-25 15:00:16",
       "album": {
+        "name": "Dime Si Eres Feliz / No Lo Enga\u00f1es M\u00e1s",
+        "url": "https://open.spotify.com/album/3akyCrsTv3dz2CC1NkXqgI"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 228174,
+      "name": "Dime Si Eres Feliz / No Lo Enga\u00f1es M\u00e1s",
+      "url": "https://open.spotify.com/track/1ZTyBQA5KCDtLrvqtkIZII"
+    },
+    {
+      "added_at": "2026-09-25 15:00:16",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 219800,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
-    },
-    {
-      "added_at": "2026-09-25 15:00:16",
-      "album": {
-        "name": "Dime Si Eres Feliz / No Lo Enga\u00f1es M\u00e1s",
-        "url": "https://open.spotify.com/album/3akyCrsTv3dz2CC1NkXqgI"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 228174,
-      "name": "Dime Si Eres Feliz / No Lo Enga\u00f1es M\u00e1s",
-      "url": "https://open.spotify.com/track/1ZTyBQA5KCDtLrvqtkIZII"
     },
     {
       "added_at": "2026-09-25 15:00:16",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2026-09-25 15:00:16",
       "album": {
-        "name": "Para Repetir - Versi\u00f3n Cuarteto (En Vivo)",
-        "url": "https://open.spotify.com/album/4Cpk7cozrkgmCJ6EvbdxC8"
+        "name": "Que Ganas De No Verte Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7EiH2AQ1XUYTekQYChiO77"
       },
       "artists": [
         {
@@ -1524,17 +1524,17 @@
           "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         },
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         },
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 217262,
-      "name": "Para Repetir - Versi\u00f3n Cuarteto - En Vivo",
-      "url": "https://open.spotify.com/track/0zIPLZvJpHTYlH38u9lfSw"
+      "duration_ms": 160010,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/2DbId26BELztSnlKG5nUl8"
     },
     {
       "added_at": "2026-09-25 15:00:16",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2026-09-25 15:00:16",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/7EiH2AQ1XUYTekQYChiO77"
+        "name": "Para Repetir - Versi\u00f3n Cuarteto (En Vivo)",
+        "url": "https://open.spotify.com/album/4Cpk7cozrkgmCJ6EvbdxC8"
       },
       "artists": [
         {
@@ -1616,17 +1616,17 @@
           "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         },
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         },
         {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 160010,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/2DbId26BELztSnlKG5nUl8"
+      "duration_ms": 217262,
+      "name": "Para Repetir - Versi\u00f3n Cuarteto - En Vivo",
+      "url": "https://open.spotify.com/track/0zIPLZvJpHTYlH38u9lfSw"
     },
     {
       "added_at": "2026-09-25 15:00:16",

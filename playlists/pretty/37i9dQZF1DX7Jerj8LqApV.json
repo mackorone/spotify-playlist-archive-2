@@ -1,6 +1,6 @@
 {
   "description": "Chill out and relax to the breeziest hits from the Philippines.",
-  "num_followers": 2034146,
+  "num_followers": 2034227,
   "original_name": "OPM Says Chillax",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-05 03:33:11",
       "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
-    },
-    {
-      "added_at": "2026-10-05 03:33:11",
-      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2026-10-05 03:33:11",
+      "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
       "added_at": "2026-10-05 03:33:11",
@@ -415,22 +415,6 @@
       "duration_ms": 367889,
       "name": "Nang Iwan",
       "url": "https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb"
-    },
-    {
-      "added_at": "2026-10-05 03:33:11",
-      "album": {
-        "name": "Naiilang",
-        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
-      },
-      "artists": [
-        {
-          "name": "Le John",
-          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "Naiilang",
-      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
     },
     {
       "added_at": "2026-10-05 03:33:11",
@@ -471,6 +455,22 @@
     {
       "added_at": "2026-10-05 03:33:11",
       "album": {
+        "name": "Naiilang",
+        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "Naiilang",
+      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
+    },
+    {
+      "added_at": "2026-10-05 03:33:11",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-05 03:33:11",
       "album": {
-        "name": "RD Covers (Live)",
-        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 361106,
-      "name": "Nandito Ako",
-      "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
-    },
-    {
-      "added_at": "2026-10-05 03:33:11",
-      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 317693,
       "name": "Nahanap Kita",
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+    },
+    {
+      "added_at": "2026-10-05 03:33:11",
+      "album": {
+        "name": "RD Covers (Live)",
+        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 361106,
+      "name": "Nandito Ako",
+      "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
     },
     {
       "added_at": "2026-10-05 03:33:11",
@@ -603,8 +603,8 @@
     {
       "added_at": "2026-10-05 03:33:11",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 171527,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2026-10-05 03:33:11",
@@ -651,22 +651,22 @@
     {
       "added_at": "2026-10-05 03:33:11",
       "album": {
-        "name": "Pakundangan (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
+        "name": "Palagi (TJxKZ Version)",
+        "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
       },
       "artists": [
         {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         },
         {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Pakundangan (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
+      "duration_ms": 241000,
+      "name": "Palagi - TJxKZ Version",
+      "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
     }
   ],
   "unique_name": "OPM Says Chillax",

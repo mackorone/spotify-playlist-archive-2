@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310626,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
+    },
+    {
+      "album": {
         "name": "TARENTINO",
         "url": "https://open.spotify.com/album/2hizWLYL5xaA5gTlW17mRg"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 148185,
       "name": "WHEN YOU WALK IN",
       "url": "https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg"

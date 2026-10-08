@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 77077,
+  "num_followers": 77095,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/01hp4DvayKlnqUQrmk0vvz"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 287906,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/01hp4DvayKlnqUQrmk0vvz"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Broken Boy Soldiers",
-        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm"
       },
       "artists": [
         {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Steady, As She Goes",
-      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
+      "duration_ms": 252213,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm"
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf"
+      "duration_ms": 215266,
+      "name": "Steady, As She Goes",
+      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
     },
     {
       "added_at": "2024-07-12 15:02:20",

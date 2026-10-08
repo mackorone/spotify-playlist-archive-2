@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-563 songs - 1 day 4 hr 57 min
+564 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Sorrow](https://open.spotify.com/track/55pmUCccXeZS5sEmGTMDJ9) | [Alpha](https://open.spotify.com/artist/7zv5CoE9STLCNLSf3wxk01) | [Sorrow](https://open.spotify.com/album/0p1s7ftSXs9GLEVJCnggN8) | 3:17 | 2025-03-13 | 2025-05-06 |
 | [STHUTHI](https://open.spotify.com/track/1BHkgZdcmyTl6OeQwXPpKF) | [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [STHUTHI](https://open.spotify.com/album/4COcsn1Hxace4Nw3E8qgRD) | 2:17 | 2025-05-09 | 2025-06-14 |
 | [Street Fight](https://open.spotify.com/track/1jY48EnxoV0IK0Y0Oj8TrJ) | [THE JGS](https://open.spotify.com/artist/1flgPX9tG9qslLNwlTXtiE), [FEBIN JACKSON](https://open.spotify.com/artist/1nHy258dDeQFCx5WwCMekU) | [Street Fight](https://open.spotify.com/album/6phUJtFIkQVKLFSnbxRy7h) | 2:31 | 2025-03-26 | 2025-05-17 |
+| [STREET KID](https://open.spotify.com/track/4Ft71Q3vHpd62dBPlmPkv0) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [STREET KID](https://open.spotify.com/album/2eflxQ0PrF73qZj4duCrtt) | 2:47 | 2026-10-07 |  |
 | [Sulaimani Armani](https://open.spotify.com/track/2cRWdN5z2oqyLURvzV7oiS) | [Hopsta](https://open.spotify.com/artist/0UPVJI8GPZfdxDjJWmqylG), [Dev\-G](https://open.spotify.com/artist/5wFKrwlnPl2lZupnO2oyWB) | [Sulaimani Armani](https://open.spotify.com/album/5wk3bzlAhRJo0N8dB9WfW1) | 3:31 | 2025-05-13 | 2025-06-24 |
 | [Sundara Lokam \- From "Not So Hip\-Hop"](https://open.spotify.com/track/6omswR4MHXOzcF6mmKSPem) | [Hatsmyth](https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ), [Rajat Prakash](https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X) | [Sundara Lokam \(From "Not So Hip\-Hop"\)](https://open.spotify.com/album/4jmK3sfAihkChR79LuXzBC) | 4:32 | 2025-07-11 | 2025-09-19 |
 | [Superglue](https://open.spotify.com/track/6MTVvvp7zBO8fq6MyxyVcE) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [Superglue \(Disc 1\)](https://open.spotify.com/album/6ET71AHpjYM5xM238W0OI7) | 2:06 | 2026-06-19 |  |

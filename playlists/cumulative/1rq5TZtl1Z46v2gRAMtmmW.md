@@ -4,7 +4,7 @@
 
 > 
 
-596 songs - 1 day 14 hr 32 min
+597 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 | 2025-01-21 | 2025-09-18 |
 | [heaven in your arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [heaven in your arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 | 2024-11-13 | 2025-09-18 |
 | [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 | 2023-06-27 | 2024-05-24 |
-| [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 | 2026-04-28 |  |
+| [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Zainab DiStasio](https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d), [Joseph Pincus](https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 | 2026-04-28 |  |
 | [Here With You](https://open.spotify.com/track/6tS0zfxJBZcHrgKpI9haWa) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [Here With You](https://open.spotify.com/album/2pH84ArPiWnEspgkiBsTN6) | 3:58 | 2024-10-11 | 2024-11-30 |
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-19 | 2022-10-15 |
 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 | 2022-08-24 | 2023-05-31 |
@@ -374,6 +374,7 @@
 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 | 2025-11-07 |
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 | 2025-09-18 |
 | [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 | 2025-09-08 |  |
+| [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 | 2026-10-07 |  |
 | [Mr Rain](https://open.spotify.com/track/2YuezDnHILhFMwwvZoWv0m) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Mr Rain](https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg) | 3:44 | 2025-03-26 | 2025-04-01 |
 | [Mudhole](https://open.spotify.com/track/6measgcwVZxbpSkySsQM93) | [Captain Murphy](https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX) | [Mudhole](https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x) | 2:33 | 2026-06-03 |  |
 | [munerah](https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:42 | 2023-03-24 | 2023-07-29 |

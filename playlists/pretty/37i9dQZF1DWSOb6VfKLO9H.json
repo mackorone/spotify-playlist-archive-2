@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111596,
+  "num_followers": 111617,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+        "name": "Overal (feat. DJ Youss-F)",
+        "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
       "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
         {
           "name": "Boef",
           "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+          "name": "DJ Youss-F",
+          "url": "https://open.spotify.com/artist/5DP8uQLYvY07JGJvtVklwV"
         }
       ],
-      "duration_ms": 250700,
-      "name": "Slapend Rijk",
-      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
+      "duration_ms": 182970,
+      "name": "Overal (feat. DJ Youss-F)",
+      "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -327,26 +331,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Overal (feat. DJ Youss-F)",
-        "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
       },
       "artists": [
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        },
         {
           "name": "Boef",
           "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "DJ Youss-F",
-          "url": "https://open.spotify.com/artist/5DP8uQLYvY07JGJvtVklwV"
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         }
       ],
-      "duration_ms": 182970,
-      "name": "Overal (feat. DJ Youss-F)",
-      "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
+      "duration_ms": 250700,
+      "name": "Slapend Rijk",
+      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Ondernemer",
         "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 173400,
       "name": "Ondernemer",
       "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/6H55FrOOybLadaCeXnBGSn"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "My B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 154077,
       "name": "My B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

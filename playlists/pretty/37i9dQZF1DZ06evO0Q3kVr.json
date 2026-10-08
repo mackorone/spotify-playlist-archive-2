@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6842,
+  "num_followers": 6843,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAB82dnBnGxjpjb7nwFx3Ppt",
+  "snapshot_id": "asLogAAAAABuphPqDET+xkOAo4HJeB5A",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
+      "duration_ms": 390240,
+      "name": "Exceso de Drogas - En Vivo",
+      "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 390240,
-      "name": "Exceso de Drogas - En Vivo",
-      "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
+      "duration_ms": 235293,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Guerrillero",
-      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
+      "duration_ms": 312633,
+      "name": "Una Leyenda Viviente",
+      "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 312633,
-      "name": "Una Leyenda Viviente",
-      "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
       "duration_ms": 236193,
       "name": "Pandillero, Pt. 1",
       "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reyes De La Noche",
+        "url": "https://open.spotify.com/album/4hGvyK2FVhx4xo8zzVoabc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Reyes De La Noche",
+      "url": "https://open.spotify.com/track/0IK9DXfp9pc3ZeyDpHzAHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Redada",
+      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
     },
     {
       "added_at": null,
@@ -647,70 +679,6 @@
       "duration_ms": 432960,
       "name": "Jes\u00fas de Nazaret",
       "url": "https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Redada",
-      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reyes De La Noche",
-        "url": "https://open.spotify.com/album/4hGvyK2FVhx4xo8zzVoabc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Reyes De La Noche",
-      "url": "https://open.spotify.com/track/0IK9DXfp9pc3ZeyDpHzAHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Mi Amigo Manuel",
-      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Rateros Con Placas",
-      "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
     },
     {
       "added_at": null,
@@ -756,9 +724,25 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Genoma Humano",
-      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
+      "duration_ms": 217426,
+      "name": "Mi Amigo Manuel",
+      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Rateros Con Placas",
+      "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 255373,
       "name": "La Rola De Jhony",
       "url": "https://open.spotify.com/track/497VfiYZ0o95KXOAAC2fgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Genoma Humano",
+      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,997 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,007 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Just One Of Those Things](https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stephane Grappelli](https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z) | [Limitless Jazz, Vol\. 31](https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur) | 2:54 |
 | 50 | [Swingtime in Springtime](https://open.spotify.com/track/2agAxheoBhskd2Od2No85G) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Souvenirs de Django Reinhardt \(Jazz Connoisseur\)](https://open.spotify.com/album/3gG6ulFkKUeWw39WEazp4F) | 3:07 |
 
-Snapshot ID: `asGXAAAAAAB+CKFuWE59z/eFLJZWIWAn`
+Snapshot ID: `asLogAAAAAAE5knC3BFxCdFQ07sDdlse`

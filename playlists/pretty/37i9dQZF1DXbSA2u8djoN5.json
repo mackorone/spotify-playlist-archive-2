@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Alduts Sherdley",
-  "num_followers": 23717,
+  "num_followers": 23716,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,18 @@
     {
       "added_at": "2026-10-01 21:00:26",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
+        "name": "SCRISOARE DE CARTIER",
+        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
       },
       "artists": [
         {
-          "name": "MADATORRICELLI",
-          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
-        },
-        {
-          "name": "Maria Brasil",
-          "url": "https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN"
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
         }
       ],
-      "duration_ms": 157021,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
+      "duration_ms": 101015,
+      "name": "SCRISOARE DE CARTIER",
+      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
     },
     {
       "added_at": "2026-10-01 21:00:26",
@@ -331,18 +327,22 @@
     {
       "added_at": "2026-10-01 21:00:26",
       "album": {
-        "name": "SCRISOARE DE CARTIER",
-        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
       },
       "artists": [
         {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Maria Brasil",
+          "url": "https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN"
         }
       ],
-      "duration_ms": 101015,
-      "name": "SCRISOARE DE CARTIER",
-      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
+      "duration_ms": 157021,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
     },
     {
       "added_at": "2026-10-01 21:00:26",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-10-01 21:00:26",
       "album": {
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+    },
+    {
+      "added_at": "2026-10-01 21:00:26",
+      "album": {
         "name": "Ofiter la pamant",
         "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 186598,
       "name": "Auzeam, Gheorghe",
       "url": "https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x"
-    },
-    {
-      "added_at": "2026-10-01 21:00:26",
-      "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
-      },
-      "artists": [
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        },
-        {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
     },
     {
       "added_at": "2026-10-01 21:00:26",

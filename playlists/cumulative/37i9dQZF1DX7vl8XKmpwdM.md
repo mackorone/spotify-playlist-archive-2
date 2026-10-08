@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : OM Chapter 1
+> Dance Machi Dance<br/>Cover : Jailer 2
 
 328 songs - 19 hr 2 min
 

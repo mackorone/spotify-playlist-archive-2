@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435263,
+  "num_followers": 1435279,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABCLX8tlJcjo2Fz1QJynnAP",
+  "snapshot_id": "asLogAAAAAD3Rz0FmrKTAtVt6TcCATov",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
       "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
+      "duration_ms": 213026,
+      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
+      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
-      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+      "duration_ms": 263520,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
     },
     {
       "added_at": null,

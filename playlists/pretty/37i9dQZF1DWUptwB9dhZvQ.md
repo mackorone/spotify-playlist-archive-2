@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,966 likes - 75 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,988 likes - 75 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 21 | [Billa 2 Theme](https://open.spotify.com/track/2DsuS52SpgSbTwncBFwbr8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 1:55 |
 | 22 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |
 | 23 | [Title Teaser \(From "Inji Vellam"\)](https://open.spotify.com/track/4r4XoaEHSFomf0ph2vZa73) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Title Teaser \(From "Inji Vellam"\)](https://open.spotify.com/album/6VF7vrBrq7exXFJqu9t5M5) | 0:38 |
-| 24 | [Parotta Chukka](https://open.spotify.com/track/38i6E7HvnsV0akKl3ZwFh4) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 1:17 |
+| 24 | [Sambavam](https://open.spotify.com/track/3ZOOxCQmbNHsE2j2e8jMQO) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 4:28 |
 | 25 | [Face Off \- Theme](https://open.spotify.com/track/1WP7XtiXrrj9mrk0s4pGxe) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Maria Roe Vincent](https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC) | [Iru Mugan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uUbjHmv6CglcQkRnFyBsz) | 2:14 |
 | 26 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 |
 | 27 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 31 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 |
 | 32 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |
 | 33 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 |
-| 34 | [Sambavam](https://open.spotify.com/track/3ZOOxCQmbNHsE2j2e8jMQO) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 4:28 |
+| 34 | [Parotta Chukka](https://open.spotify.com/track/38i6E7HvnsV0akKl3ZwFh4) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 1:17 |
 | 35 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 |
 | 36 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 |
 | 37 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5) | 1:13 |

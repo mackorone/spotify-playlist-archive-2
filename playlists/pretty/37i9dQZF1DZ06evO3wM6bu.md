@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,029 likes - 48 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,065 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 17 | [Soledad](https://open.spotify.com/track/1vYZywcjdbPUnsEP43it0q) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Bernard Löhr](https://open.spotify.com/artist/1JAph55NAWjqQMLqYZG5eZ) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:57 |
 | 18 | [Seasons in the Sun](https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 4:08 |
 | 19 | [Evergreen](https://open.spotify.com/track/5gvUYDgFENYTHoNlLhNCqc) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:02 |
-| 20 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 20 | [All or Nothing](https://open.spotify.com/track/4IQjCesN2jGNEGY0TViB9E) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:56 |
 | 21 | [What Makes a Man](https://open.spotify.com/track/3W2QKq6ks7QInnM9j4pOBt) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Steve Mac](https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:50 |
 | 22 | [More than Words](https://open.spotify.com/track/4DdXHK3z3vb7kPNIisCp3K) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:54 |
 | 23 | [I Wanna Grow Old with You](https://open.spotify.com/track/1CNj54KmvgzHzDy7QGzrRt) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:07 |
-| 24 | [All or Nothing](https://open.spotify.com/track/4IQjCesN2jGNEGY0TViB9E) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:56 |
-| 25 | [What About Now](https://open.spotify.com/track/2pSUpHpEOWgy0YJZO0tP5D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:10 |
-| 26 | [Obvious](https://open.spotify.com/track/13S85ASCmpJMdwM9rgaRUa) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:30 |
+| 24 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 25 | [Obvious](https://open.spotify.com/track/13S85ASCmpJMdwM9rgaRUa) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:30 |
+| 26 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 |
 | 27 | [Bop Bop Baby](https://open.spotify.com/track/7dHldWPBFycgIl14iuItAi) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:21 |
-| 28 | [Amazing](https://open.spotify.com/track/0yehfLw05bDDKHS4Tdl01G) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 2:48 |
-| 29 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 |
+| 28 | [What About Now](https://open.spotify.com/track/2pSUpHpEOWgy0YJZO0tP5D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:10 |
+| 29 | [Amazing](https://open.spotify.com/track/0yehfLw05bDDKHS4Tdl01G) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 2:48 |
 | 30 | [Unbreakable \- Single Remix](https://open.spotify.com/track/0r8f1b392aTgZa8KXINlkw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:33 |
 | 31 | [The Rose](https://open.spotify.com/track/1kAC8QX4meGZhEbtXtqF1o) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:38 |
 | 32 | [Hello My Love](https://open.spotify.com/track/4EtIza2cKMmR2XP7idebXG) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Hello My Love](https://open.spotify.com/album/319h1Lrxw9Xmx4TDoPG2Hk) | 3:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 47 | [The Dance](https://open.spotify.com/track/3dVTwiTpjWCdtlq9tcsf91) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:58 |
 | 48 | [Leaving](https://open.spotify.com/track/79totVEHvQwTDdgXCXLUMw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
 
-Snapshot ID: `asGXAAAAAADSZYPVpjaWziH6z9OFkZoJ`
+Snapshot ID: `asLogAAAAABcGkvND4DG8C6hg5URgxUz`

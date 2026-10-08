@@ -1,6 +1,6 @@
 {
-  "description": "With UrvTek, Learke, sixwing and more",
-  "num_followers": 700,
+  "description": "With UrvTek, sixwing, STYXVII and more",
+  "num_followers": 698,
   "original_name": "Kittydog Radio",
   "owner": {
     "name": "Spotify",
@@ -823,38 +823,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dumbass of the Century",
-        "url": "https://open.spotify.com/album/2utuabIBmucnFPVawLqj67"
-      },
-      "artists": [
-        {
-          "name": "Spott",
-          "url": "https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "Dumbass of the Century",
-      "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/5f3L1abNkfjlFBw3zv8ncu"
+        "name": "I'm Your Baby",
+        "url": "https://open.spotify.com/album/7fZ48NMjXmSMRC12cPBkr8"
       },
       "artists": [
         {
           "name": "Daxbak",
           "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
-        },
-        {
-          "name": "\u2665 GOJII \u2665",
-          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA"
+      "duration_ms": 139591,
+      "name": "I'm Your Baby",
+      "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Need Coffee (Remix)",
+        "url": "https://open.spotify.com/album/274hzi9o9McMjY6x97RZw0"
+      },
+      "artists": [
+        {
+          "name": "WoopDoo",
+          "url": "https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO"
+        },
+        {
+          "name": "Yuugen Vinny",
+          "url": "https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE"
+        },
+        {
+          "name": "K.C.",
+          "url": "https://open.spotify.com/artist/5TsA4C4tFtjDx096u6iJEJ"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "I Need Coffee - Remix",
+      "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
     }
   ],
   "unique_name": "Kittydog Radio",

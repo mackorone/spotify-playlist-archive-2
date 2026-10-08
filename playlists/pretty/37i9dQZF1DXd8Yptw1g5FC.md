@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eda Baba, Cem Adrian ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,253 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,229 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

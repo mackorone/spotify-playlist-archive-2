@@ -4,7 +4,7 @@
 
 > insecure and pretty, it's everyone's problem\. cover: daine <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-4,019 songs - 9 day 4 hr 25 min
+4,020 songs - 9 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1258,6 +1258,7 @@
 | [For You](https://open.spotify.com/track/2B2jI2PdBMhUkG17F0lor2) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [For You](https://open.spotify.com/album/4c2GXEVeTy83c1Bd2xT92y) | 2:18 | 2021-12-01 | 2022-01-08 |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-08-05 | 2021-11-13 |
 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 | 2022-12-14 | 2023-01-21 |
+| [Forever](https://open.spotify.com/track/38C5EMmXonGMK1M9z5PxeP) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 3:48 | 2026-10-07 |  |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-04-11 | 2025-08-02 |
 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 | 2025-02-07 | 2025-10-25 |
 | [forever&more](https://open.spotify.com/track/0UMFm4ndFr3PH5VsVYnCNG) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [forever&more](https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3) | 2:55 | 2021-07-23 | 2022-01-08 |

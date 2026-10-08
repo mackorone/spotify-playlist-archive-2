@@ -4,7 +4,7 @@
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 49 min
+38 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [good girl](https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:01 | 2026-06-28 |  |
 | [heaven's in your hands](https://open.spotify.com/track/5VDi2Kj3krfXYqhliDXhEG) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:57 | 2026-06-28 | 2026-07-26 |
 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-02-22 | 2026-07-04 |
+| [hopeless romantic](https://open.spotify.com/track/7iySN21EfintFvXtZu6pXr) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:03 | 2026-10-08 |  |
 | [idea of love \- A COLORS SHOW](https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [idea of love \- A COLORS SHOW](https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es) | 2:34 | 2026-05-14 | 2026-07-14 |
 | [lord i've tried](https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [lord i've tried](https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa) | 1:46 | 2025-07-23 |  |
 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 | 2025-07-23 |  |

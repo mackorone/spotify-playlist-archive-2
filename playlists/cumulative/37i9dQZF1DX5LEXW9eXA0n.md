@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Parc Jae Jung \(박재정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: KIM JAE HWAN\(김재환\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,802 songs - 4 day 21 hr 2 min
+1,803 songs - 4 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [bye bye i finally disappear from your life](https://open.spotify.com/track/7yDkk7GZ9GemJcAG0JD0G9) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [bye bye i finally disappear from your life](https://open.spotify.com/album/32vU9jUYjAYzyESFDDrJNs) | 3:27 | 2022-01-27 | 2022-04-21 |
 | [Bye\. And bye](https://open.spotify.com/track/3N0dVu8FhVgLuh1JhgjQNh) | [Kim Min Wool](https://open.spotify.com/artist/1tr7Tbjy9BYFpSG9bbyhrt) | [Bye\. And bye](https://open.spotify.com/album/28FF6p1yVvOhBtC12Z4RAH) | 3:11 | 2023-10-20 | 2023-11-16 |
 | [BYE1393](https://open.spotify.com/track/54ocxngRcYnxnshEwum77S) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [BYE1393](https://open.spotify.com/album/4iUKzqrwRwN40hzBreEbzI) | 2:30 | 2023-09-12 | 2023-10-17 |
+| [Call It Love](https://open.spotify.com/track/32LxtuhPSXshSFIsah8SWj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Love, From Here](https://open.spotify.com/album/2N8gZfhsrplpkaE6GGmY0R) | 3:52 | 2026-10-08 |  |
 | [Camellia](https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [HYUK](https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG) | [Camellia](https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8) | 3:33 | 2021-12-20 | 2022-06-29 |
 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 | 2021-12-20 | 2022-07-05 |
 | [CAN WE LOVE AGAIN](https://open.spotify.com/track/1qU5ylij5Idis73iuhrVjU) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS), [Sunye](https://open.spotify.com/artist/5CPE9ISoFYQgT4PMGSV7yI) | [CAN WE LOVE AGAIN](https://open.spotify.com/album/2ULZg02sHgYHjwVTNihsmL) | 4:39 | 2022-07-07 | 2022-08-19 |
@@ -396,7 +397,7 @@
 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-25 | 2023-01-21 |
 | [Evergreen](https://open.spotify.com/track/3rBmDJ7EQrVS44X9zbG2Ga) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [Evergreen \(2024\)](https://open.spotify.com/album/63z8PBix69Ewc9pDfW4szY) | 3:08 | 2024-01-05 | 2024-06-05 |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2021-12-20 |  |
-| [Every moment](https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0G1BMH6LPxLNeBBf55rsb1) | 3:14 | 2026-03-24 |  |
+| [Every moment](https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0G1BMH6LPxLNeBBf55rsb1) | 3:14 | 2026-03-24 | 2026-10-08 |
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2024-06-04 |  |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2022-01-17 | 2022-06-25 |
 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 | 2022-02-17 | 2022-04-19 |
@@ -1146,7 +1147,7 @@
 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 | 2024-07-12 |
 | [Please Go Away](https://open.spotify.com/track/66qBuwGkXeHEIVTinJQEpN) | [Son Jinwook](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz) | [Please Go Away](https://open.spotify.com/album/2pBGI6CWSb37liKMELxWCF) | 3:43 | 2024-11-05 | 2025-04-16 |
 | [Please look at me](https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Three Siblings Bravely OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/6YXZmaRxST480CCVVlrPPz) | 3:33 | 2023-03-27 | 2023-07-18 |
-| [Please Love Her\(Please Love Him\)](https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Love Her\(Please Love Him\)](https://open.spotify.com/album/1aamZu86MmmH49dIsrZPyu) | 4:00 | 2026-03-16 |  |
+| [Please Love Her\(Please Love Him\)](https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Love Her\(Please Love Him\)](https://open.spotify.com/album/1aamZu86MmmH49dIsrZPyu) | 4:00 | 2026-03-16 | 2026-10-08 |
 | [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 | 2024-10-31 | 2025-06-03 |
 | [Please take on me](https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0) | [BongGu \(GB9\)](https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv) | [Please take on me](https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh) | 4:24 | 2022-12-16 | 2023-01-21 |
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 | 2024-04-03 |

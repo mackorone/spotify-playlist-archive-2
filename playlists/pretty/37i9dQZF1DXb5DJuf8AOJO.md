@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Celebrating 35 years of praise and worship with Hangad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,641 likes - 35 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,648 likes - 35 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

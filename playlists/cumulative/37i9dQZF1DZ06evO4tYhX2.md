@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-131 songs - 11 hr 45 min
+132 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,11 +69,12 @@
 | [La Bendición \(versión Miel San Marcos\).](https://open.spotify.com/track/4NHUmpU8K8dGLqG5qItgfR) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 5:26 | 2022-09-14 | 2024-03-23 |
 | [Levántate Guate](https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Levántate Guate](https://open.spotify.com/album/2H05XbhqPl4AKrOz8RoUYS) | 4:11 | 2022-09-21 | 2022-10-12 |
 | [Levántate Señor](https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 5:05 | 2022-09-14 |  |
-| [Libre \(En Vivo\)](https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:35 | 2022-09-14 |  |
+| [Libre \(En Vivo\)](https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:35 | 2022-09-14 | 2026-10-08 |
 | [Llegó El Tiempo](https://open.spotify.com/track/5xOdXiAQl8b9OAedNfeI8o) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 2:54 | 2022-11-18 |  |
 | [Los Momentos](https://open.spotify.com/track/0uiIr4j8np66FGibPwLmVU) | [Zulmy Mejia](https://open.spotify.com/artist/5VTAZuaQJTNnsT3IozleG9), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Los Momentos](https://open.spotify.com/album/47lwNt04IjKhtt3tkca0jW) | 5:11 | 2022-09-14 | 2022-11-19 |
 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 | 2022-09-14 |  |
 | [Maravilloso \- Guatemala](https://open.spotify.com/track/4XOP9IwgVU0VsivMNnT5WA) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Miel San Marcos 25 Años](https://open.spotify.com/album/2s6fgKcVw6MOQIiR0o3q2k) | 5:11 | 2026-10-02 |  |
+| [Mas Los Justos Se Alegraran](https://open.spotify.com/track/5PGQyRdZwNAdDhcwrezgh3) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Exaltate Señor](https://open.spotify.com/album/1SskPYlAWgrgUrZn0sNdnz) | 5:34 | 2026-10-08 |  |
 | [Me Acerco](https://open.spotify.com/track/7ebaBpHIYPxQ9LeyroWnvc) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Samy Morales](https://open.spotify.com/artist/2Tvd2t7YlSDLwxVbqiH9C5) | [Ambientes de Adoración](https://open.spotify.com/album/1DzGUG8ErfkYHbo4fwcele) | 5:17 | 2024-07-06 | 2025-08-19 |
 | [Me Basta Tu Palabra](https://open.spotify.com/track/057pumBKYToozI7AF5bNwP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Me Basta Tu Palabra](https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z) | 5:57 | 2022-09-14 | 2024-08-11 |
 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 | 2023-06-07 | 2024-09-15 |

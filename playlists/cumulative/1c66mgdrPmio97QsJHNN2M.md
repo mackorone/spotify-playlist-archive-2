@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,000 songs - 6 day 13 hr 55 min
+3,004 songs - 6 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [bare minimum](https://open.spotify.com/track/63XU0rYiu5pdCQSNrfFusz) | [Dsyfr](https://open.spotify.com/artist/7ygTQb4cKrL9q64vHvGMMW) | [circa](https://open.spotify.com/album/6pZMmDmc2wRNFeBVBWHrTi) | 2:48 | 2026-04-20 | 2026-05-22 |
 | [Barnacle on your hull](https://open.spotify.com/track/2b20KyRNkGOrazeQtC2cus) | [Bumblebird](https://open.spotify.com/artist/4lVB3K4TyKgC359oQUasTv) | [Barnacle on your hull](https://open.spotify.com/album/78Tjs58x5LPjZ5OmYGns5R) | 3:30 | 2026-07-31 | 2026-09-01 |
 | [Baryone](https://open.spotify.com/track/0alxcYdVfPtZwa9tgEPpWh) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 4:00 | 2026-01-23 |  |
+| [Basquiat's Crown](https://open.spotify.com/track/1iJILtpiM8fM3MkOtIeOmJ) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Basquiat's Crown](https://open.spotify.com/album/4NDM3WS0NHHBqk5kVvwxED) | 3:02 | 2026-10-07 |  |
 | [BATSHIT](https://open.spotify.com/track/2Pyoln6GuvNfH3BBSrN8dr) | [Shooby Alexander](https://open.spotify.com/artist/2OJPVD3CO35MymnTq8bZkS) | [BATSHIT](https://open.spotify.com/album/7CDZtPmO36RomMVAa32U4D) | 2:39 | 2026-04-16 | 2026-05-18 |
 | [Battery Song](https://open.spotify.com/track/2sBCpC4736bO3ppGhMwLAY) | [Alice Flynn](https://open.spotify.com/artist/5OZdQZGzTtDgWikHkjbkPe) | [Battery Song](https://open.spotify.com/album/5TxBGztAdAPftwgfvTexTo) | 3:15 | 2026-06-02 | 2026-07-05 |
 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-01-16 | 2026-02-17 |
@@ -1178,6 +1179,7 @@
 | [I Don't Know](https://open.spotify.com/track/6tP6OG9FDD9WgAfNLttPoA) | [ARIA](https://open.spotify.com/artist/6RB7SGb8IwhFmtyb7XTwmt) | [I Don't Know](https://open.spotify.com/album/1VFlfFdzrolaD5PamsgJWD) | 2:34 | 2026-08-16 | 2026-09-17 |
 | [I Don't Know How To Rest](https://open.spotify.com/track/5pbwM03L3giFMzdIS4fYkW) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [I Don't Know How To Rest](https://open.spotify.com/album/7gGogvXhz8DqIfNfm23rnw) | 3:29 | 2026-07-11 | 2026-08-12 |
 | [I Don't Know What To Do \(Doo Do Doo Doo Dooo\)](https://open.spotify.com/track/4zxDpIp50yOEwffCeLaono) | [E.L.Castro](https://open.spotify.com/artist/1KpTZTzZjUumwURHN652lH) | [I Don't Know What To Do \(Doo Do Doo Doo Dooo\)](https://open.spotify.com/album/6XhjGWmguPCFU0brbkXtuE) | 3:26 | 2026-09-14 |  |
+| [I Don't Mind \(I Fade Away\)](https://open.spotify.com/track/74XXhqsw7q2Kg9OJ3caTZS) | [Black & White, Digital](https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV) | [I Don't Mind \(I Fade Away\)](https://open.spotify.com/album/4u8KmbORyoBeLN3LQo9mtr) | 4:19 | 2026-10-07 |  |
 | [I don't wanna be myself anymore](https://open.spotify.com/track/6Tp1byPi5vMGZVrju4WJq1) | [Oblivyus](https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz), [WHCRs?](https://open.spotify.com/artist/6TsvHKr8UYok5iyTyVRkGF) | [I don't wanna be myself anymore](https://open.spotify.com/album/2s0WK9elJQoPDk5OqmUA4l) | 2:58 | 2025-12-09 | 2026-01-15 |
 | [I dont want the smoke](https://open.spotify.com/track/7d2u7a3rl9I9djNzpB2Cmi) | [Alleyboyz music](https://open.spotify.com/artist/6JAf7voIlEpRJnhM3o41ao) | [I dont want the smoke](https://open.spotify.com/album/6oO9qc7WKxkjHXYGK5WA2J) | 3:01 | 2025-11-03 | 2025-12-07 |
 | [I feel like cello](https://open.spotify.com/track/1ia5kO08ORZMJpByEXIATW) | [Vontiger](https://open.spotify.com/artist/0Hm36zzJ7XBUjqlMoQqc64) | [I feel like](https://open.spotify.com/album/6iF61A7MukN95aNO9PTScm) | 2:13 | 2026-06-16 | 2026-07-17 |
@@ -2393,6 +2395,7 @@
 | [Summer](https://open.spotify.com/track/1c68zNuE2Y3A7OOwOHui01) | [CHARM](https://open.spotify.com/artist/0hFjDfyStYnZssxpXmbeP3) | [GROW UP!](https://open.spotify.com/album/6rpHESrfh9LFGR6HZCEBRQ) | 2:28 | 2025-11-01 | 2025-12-03 |
 | [Summer at Kenora Lake](https://open.spotify.com/track/2WIprn5qGXxIRMB8VeCmbw) | [Ben](https://open.spotify.com/artist/39dW8up61jM0CTbOgZZOA7) | [Reflections](https://open.spotify.com/album/2KQ4ZAOqWQ0p7ZZPJtrxde) | 3:28 | 2026-07-28 | 2026-08-25 |
 | [Summer forever \- Radio Edit](https://open.spotify.com/track/0opVk9GK6XPNjWTVwEJSHA) | [KigBlox](https://open.spotify.com/artist/7BpMTyrt5Puf5Bs4YL2PCi), [Darko B](https://open.spotify.com/artist/7eUAvS5AnaXcd3XDftDP4W) | [Family](https://open.spotify.com/album/1krCHk6qY6MebCjYgjiwh6) | 2:42 | 2026-09-19 |  |
+| [Summer Heat \(Tropical Mix\)](https://open.spotify.com/track/25qYt2k14eZkeWACgbEaT7) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Seasons of the Heart](https://open.spotify.com/album/5odgStwg57XKUhSFhiJtxS) | 3:23 | 2026-10-07 |  |
 | [Summer Love](https://open.spotify.com/track/1fJV5Nh5U34PLpNtJEiPro) | [Harmonic Molecules](https://open.spotify.com/artist/4mIy6xV2sBGlHWKWpHJ07I) | [Summer Love](https://open.spotify.com/album/2NjPQdbsiPFL8SHVE6G6VM) | 2:29 | 2026-04-10 | 2026-05-12 |
 | [Summer never Ends](https://open.spotify.com/track/5FExWIyCbTNMQH20wxCfgG) | [Luma Rica](https://open.spotify.com/artist/1KBJX2NaEvwvrwGHrEe7Zg) | [Summer never Ends](https://open.spotify.com/album/4udzIKDxe95iYkyIsYlinU) | 3:04 | 2026-08-14 | 2026-09-15 |
 | [SUMMR](https://open.spotify.com/track/1530Jw4HeV0lbmCzJdwhDt) | [THE WILL](https://open.spotify.com/artist/7etmXBxkOJrs3IrSYc4y7r) | [SUMMR](https://open.spotify.com/album/1st0mbHQLv9Ag1jPTTRj48) | 3:19 | 2026-08-28 | 2026-09-29 |
@@ -2583,6 +2586,7 @@
 | [There will always be after](https://open.spotify.com/track/5478pnFiz0w1Tki1rNOZDL) | [Dr\. Weeb](https://open.spotify.com/artist/0kL9vr7sptfFqyRd2TdQ2x) | [There will always be after](https://open.spotify.com/album/22oAAGEcHfiX62kkIDfkxC) | 3:07 | 2026-03-03 | 2026-04-04 |
 | [There You Go](https://open.spotify.com/track/7a2gr5FKlv1OIxnZNIKfOD) | [David McKee](https://open.spotify.com/artist/16IsiZY9MAafbYxI1rrAUy) | [There You Go](https://open.spotify.com/album/0mvC9V1SPOLWMTOc417GB0) | 2:56 | 2026-03-04 | 2026-04-05 |
 | [these streets is yours](https://open.spotify.com/track/3smkzGO1HafouKHojAF6y9) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [these streets is yours](https://open.spotify.com/album/4qfSaW2VntxNGOS4wiDSGs) | 2:58 | 2025-11-03 | 2025-12-07 |
+| [These Words](https://open.spotify.com/track/1qTfpNpI25ZcuexlnE3jjX) | [Shay Always](https://open.spotify.com/artist/1RY9v1usXYkfLpnTVuTQkx) | [These Words](https://open.spotify.com/album/39NI8vlys5HcLltNH7TCiL) | 2:59 | 2026-10-07 |  |
 | [Think a Sacred Song](https://open.spotify.com/track/5tM1hHEJ6rwXCHM75MaT6o) | [Keys of the Kingdom](https://open.spotify.com/artist/0UApnbJP6xZtul7Aw6JfLO) | [Think a Sacred Song](https://open.spotify.com/album/46ecN8JMqsrHnxLkJslfo9) | 2:43 | 2025-11-19 | 2025-12-20 |
 | [Think Bout You](https://open.spotify.com/track/1ujsfc8Jw74iywnnwZawRx) | [Dylannnn](https://open.spotify.com/artist/4kP9tkskuHNEM6E4OrQmDO) | [These Songs Are Too Good To Just Sit In The Vault](https://open.spotify.com/album/2miDzxNSsOI98LbxX4dNbf) | 2:18 | 2026-01-16 | 2026-02-17 |
 | [Thinking About You\(Body&Soul\)](https://open.spotify.com/track/01QlLKGkeTJEFN9v3L6EY5) | [Boyylogan](https://open.spotify.com/artist/6yWs1w1MRHOfSBDW2OapWH), [7teen](https://open.spotify.com/artist/3146nnTiVcuOBusEAFfEfT) | [Thinking About You\(Body&Soul\)](https://open.spotify.com/album/0NMy279im49jRWmsRLnWCp) | 2:46 | 2026-04-24 | 2026-05-25 |

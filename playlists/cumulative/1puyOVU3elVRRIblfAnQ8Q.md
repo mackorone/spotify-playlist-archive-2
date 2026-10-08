@@ -4,7 +4,7 @@
 
 > Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
-302 songs - 17 hr 19 min
+303 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Defeatist](https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Defeatist](https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS) | 3:34 | 2024-11-05 | 2025-10-29 |
 | [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 | 2024-11-08 | 2025-10-29 |
 | [Digital Realm](https://open.spotify.com/track/2NxqIXMSwvAPEaZOY3OyRX) | [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:29 | 2024-08-23 | 2024-09-27 |
+| [Dimension](https://open.spotify.com/track/74jUGc8wu6oiBrMqhqDQ3b) | [COSTA](https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX) | [Dimension](https://open.spotify.com/album/33OIvCtt4T2uisA9vkMAtX) | 3:10 | 2026-10-07 |  |
 | [Dimension](https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2) | [SIREN](https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Dimension](https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl) | 3:37 | 2024-11-05 | 2025-10-29 |
 | [DIMENSIONS](https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [DIMENSIONS](https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS) | 2:35 | 2024-05-31 | 2025-10-29 |
 | [Disappear](https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:02 | 2023-12-06 | 2024-01-27 |

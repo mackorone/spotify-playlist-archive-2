@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15605,
+  "num_followers": 15611,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 224526,
       "name": "GONE",
       "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 208573,
       "name": "Why",
       "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -919,26 +919,6 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
-        "name": "The Movie Star",
-        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Transcend (Feat. C JAMM)",
-      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -967,22 +947,22 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
         }
       ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+      "duration_ms": 220266,
+      "name": "Transcend (Feat. C JAMM)",
+      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -1003,6 +983,26 @@
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

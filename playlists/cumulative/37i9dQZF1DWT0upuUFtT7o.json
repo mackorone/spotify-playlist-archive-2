@@ -954,7 +954,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 204794,
       "name": "5 Card Stud",
       "url": "https://open.spotify.com/track/2EgOksyBvi6ttLfOdRTFj4"
@@ -8095,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "Blind Faith",
+        "url": "https://open.spotify.com/album/5GBGd5eTtmGPyz0EBMjazw"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428976,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/0EJg9Q8miSwbrnRCbm3Xy5"
+    },
+    {
+      "album": {
         "name": "AQUA-VISION",
         "url": "https://open.spotify.com/album/6W7047CNWGgWmHHCNe6hh0"
       },
@@ -14034,7 +14052,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 209868,
       "name": "Cowboy Mouth",
       "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
@@ -17979,6 +17997,24 @@
     },
     {
       "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/5FsK1EiLeUtqiokS8bOH7r"
+      },
+      "artists": [
+        {
+          "name": "Nadia Faye",
+          "url": "https://open.spotify.com/artist/2wDLBzbWoqcoSy4f3vGINX"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "drift",
+      "url": "https://open.spotify.com/track/6ekOKSin9D2aIiESNFHfQ0"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2JCfufabmLxc8jj3S4GHmt"
       },
@@ -19649,6 +19685,24 @@
     },
     {
       "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "album": {
         "name": "everything\u2019s different",
         "url": "https://open.spotify.com/album/3jMw72FvU4DjbpbmUGD4vM"
       },
@@ -20558,7 +20612,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 161631,
       "name": "Fate",
       "url": "https://open.spotify.com/track/2DPz3uZQfoMlqFFRGrYPDm"
@@ -23826,7 +23880,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 136066,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/31N3n74RprUGrTPLekOKto"
@@ -28978,6 +29032,24 @@
       "duration_ms": 203560,
       "name": "Hours Off",
       "url": "https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/2OtfN1D5BW0kBMORPBXvtZ"
+      },
+      "artists": [
+        {
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155497,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/1HLqWUTpcuzxBxaTzNPvT9"
     },
     {
       "album": {
@@ -38488,6 +38560,24 @@
     {
       "album": {
         "name": "Love Song",
+        "url": "https://open.spotify.com/album/68IlKZOW8CEdcembmdNuHX"
+      },
+      "artists": [
+        {
+          "name": "Knifeplay",
+          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604934,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7ndSNIaJ4J0TIJE5iuMHRx"
+    },
+    {
+      "album": {
+        "name": "Love Song",
         "url": "https://open.spotify.com/album/4kna4XkRtE41qOnEuI7wqh"
       },
       "artists": [
@@ -44246,7 +44336,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 156847,
       "name": "NO BODY",
       "url": "https://open.spotify.com/track/30UxRlwU27aXa9Q6WvPbBA"
@@ -46216,7 +46306,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 346811,
       "name": "One Hand",
       "url": "https://open.spotify.com/track/6yvR8ujilJDWXmR11K2PCW"
@@ -48572,7 +48662,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 77231,
       "name": "pink",
       "url": "https://open.spotify.com/track/0ipRyDKkHbWUNBtfUP1UzO"
@@ -50170,6 +50260,24 @@
       "duration_ms": 249870,
       "name": "Puncture",
       "url": "https://open.spotify.com/track/0N6l6t4FfbymfCujo8lCZL"
+    },
+    {
+      "album": {
+        "name": "Punish Task",
+        "url": "https://open.spotify.com/album/62dyXN1a2E9WSp5wuGLsf7"
+      },
+      "artists": [
+        {
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226374,
+      "name": "Punish Task",
+      "url": "https://open.spotify.com/track/3TUJkCw8IXrFs0CiRF8CDI"
     },
     {
       "album": {
@@ -59055,6 +59163,24 @@
     },
     {
       "album": {
+        "name": "Step Stool",
+        "url": "https://open.spotify.com/album/6imIuyyF1ANAA1c4pXgey8"
+      },
+      "artists": [
+        {
+          "name": "Wynne Collins",
+          "url": "https://open.spotify.com/artist/6h5b4XGaNg53aqbUj4JBhm"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Step Stool",
+      "url": "https://open.spotify.com/track/0iYRk3FKn46LHmTr5qLjDp"
+    },
+    {
+      "album": {
         "name": "Stereo Mom",
         "url": "https://open.spotify.com/album/21vSOQWGExNHmqnE5jBf2t"
       },
@@ -61322,7 +61448,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 244615,
       "name": "Tails",
       "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
@@ -63114,7 +63240,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 344001,
       "name": "The Land That's Always There",
       "url": "https://open.spotify.com/track/0cry4TyixOiWNCftCOAOlJ"
@@ -66552,6 +66678,24 @@
       "duration_ms": 166789,
       "name": "Two Tabs",
       "url": "https://open.spotify.com/track/1gdp7zQsYMb7EP16cFIQns"
+    },
+    {
+      "album": {
+        "name": "Twomac",
+        "url": "https://open.spotify.com/album/1NZTX9DzSIaamvFbfuEgXj"
+      },
+      "artists": [
+        {
+          "name": "Coco Smith",
+          "url": "https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325750,
+      "name": "Twomac",
+      "url": "https://open.spotify.com/track/0yUzoaaVxYxSFLihsDRYKn"
     },
     {
       "album": {
@@ -71030,6 +71174,24 @@
       "duration_ms": 262295,
       "name": "Wire walks",
       "url": "https://open.spotify.com/track/6nNnim0OaC5gRlPsKow1re"
+    },
+    {
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/38pJimonE8sDfGvMDJYSY3"
+      },
+      "artists": [
+        {
+          "name": "Phantom Handshakes",
+          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Wisdom",
+      "url": "https://open.spotify.com/track/5cMOpZn2A1GOCTT0XqMCFe"
     },
     {
       "album": {

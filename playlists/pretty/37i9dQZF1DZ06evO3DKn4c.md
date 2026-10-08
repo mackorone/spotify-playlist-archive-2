@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,402 likes - 43 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,411 likes - 43 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [Sinto Muito Baby](https://open.spotify.com/track/5dWnzsv1zr2H7howC8wKKV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/1M8Mm44LHgr2I1ETApqAHt) | 5:31 |
 | 43 | [CONTEXTO \- Ao Vivo](https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:05 |
 
-Snapshot ID: `asLogAAAAADo1uaQFU4KKAMOcIkI+AyQ`
+Snapshot ID: `asLogAAAAABQnb2pgJF/7U3WxSpOq6uj`

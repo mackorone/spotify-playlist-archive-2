@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,858 songs - 10 day 23 hr 29 min
+4,861 songs - 10 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Apnea](https://open.spotify.com/track/1sT98Sbal2QFeCGqlwtcYP) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Apnea](https://open.spotify.com/album/5YGNXqexHVhrsW3oj0ZhdK) | 2:57 | 2025-05-27 |  |
 | [Apocalisse Danzante](https://open.spotify.com/track/0z7phOYBmZHU8QHpSsPRLc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 2:42 | 2025-09-17 |  |
 | [Apocalisse Danzante \(another\)](https://open.spotify.com/track/2nSgigvNfDrj27kSCi1cOl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 3:09 | 2025-09-17 |  |
+| [Aquarela](https://open.spotify.com/track/2sTYC3WPLl4QZv5yJQDa3B) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:14 | 2026-10-07 |  |
 | [Aquel lugar](https://open.spotify.com/track/2CrtA1RnvEj9uj1ry4Kb0n) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:18 | 2026-03-15 |  |
 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 | 2025-07-09 |  |
 | [ARABIA](https://open.spotify.com/track/3RwRVlKFtWOlWMnlJM36Ux) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [ARABIA](https://open.spotify.com/album/2TUgbQZoW7JxHXSj4avAWN) | 4:19 | 2025-06-04 |  |
@@ -1469,6 +1470,7 @@
 | [Estar Dónde Tú Estás](https://open.spotify.com/track/4PGamhJVyyFlAB4nUJlb6A) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Estar Dónde Tú Estás](https://open.spotify.com/album/7ETg2N9BGdMBTM9gXzfhR2) | 4:09 | 2026-09-12 |  |
 | [Estate Mediterranea](https://open.spotify.com/track/5L4vDCUWLvMWZRGLy5eksH) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Estate Mediterranea](https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI) | 3:30 | 2025-06-24 |  |
 | [Estate Senza Fine](https://open.spotify.com/track/5PoRCTVy71ZktLKIfELZ57) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:49 | 2025-09-12 |  |
+| [Estranei](https://open.spotify.com/track/1FeKKIwmQ1sS4DPniLLEaT) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Estranei](https://open.spotify.com/album/1skmozP6QLcI0OiMJSv4OZ) | 2:54 | 2026-10-08 |  |
 | [Estranged \- Demo](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged \(Demo\)](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 | 2025-05-20 |  |
 | [Estrella de luna](https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:29 | 2026-03-15 |  |
 | [Eternal Fever](https://open.spotify.com/track/4DPj9E7QNoh0TLj48fCyE1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:02 | 2025-09-16 |  |
@@ -4589,6 +4591,7 @@
 | [Walk Beside You](https://open.spotify.com/track/1ZT32Ebnpzs50chntB4vAy) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Walk Beside You](https://open.spotify.com/album/2XS4qrRVNNkHWIagf0tGax) | 4:46 | 2026-09-29 |  |
 | [Walk in the park](https://open.spotify.com/track/2vk4jSuHrVuvmFjrlz5yJ5) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Walk in the park](https://open.spotify.com/album/24kJnyycwGzWbSBSWAGEPp) | 1:25 | 2025-07-28 |  |
 | [WALK IT OFF](https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:16 | 2025-09-08 |  |
+| [Walking In The Sand](https://open.spotify.com/track/0RREuZAcmnXVMuPQr8I30Z) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [The Seagull Tapes](https://open.spotify.com/album/2cgZrZSHxy7iDq02XQrUjQ) | 2:48 | 2026-10-07 |  |
 | [Walking on Air](https://open.spotify.com/track/77JKb2d4oLkGa6SMe7ihjl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 3:10 | 2025-09-19 |  |
 | [Walking on Air \(another\)](https://open.spotify.com/track/3dpwY9av6G1oWKccraCuY6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 2:46 | 2025-09-19 |  |
 | [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 | 2026-07-28 |  |

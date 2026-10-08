@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 207466,
+  "num_followers": 207480,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -159,7 +159,7 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Let It Be (Remastered)",
+        "name": "Let It Be (Remastered 2009)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 217746,
       "name": "Changes - 2015 Remaster",
       "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Double Fun",
         "url": "https://open.spotify.com/album/3eGG3yU4bnmBK7TfFWa15y"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Pour Un Flirt - Vol.1",
-        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
       },
       "artists": [
         {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Pour un flirt",
-      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -719,6 +703,22 @@
       "duration_ms": 391376,
       "name": "Hotel California - 2013 Remaster",
       "url": "https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Pour Un Flirt - Vol.1",
+        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Pour un flirt",
+      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
     },
     {
       "added_at": "2026-03-19 15:33:21",

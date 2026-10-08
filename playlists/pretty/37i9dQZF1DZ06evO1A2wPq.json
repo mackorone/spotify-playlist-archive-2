@@ -1,13 +1,29 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 23236,
+  "num_followers": 23253,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAA3CzJYJbk9L0g0hQnoT89K",
+  "snapshot_id": "asLogAAAAAAPcaWK1oBYwA43aco9y/fe",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/7iySN21EfintFvXtZu6pXr"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,369 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,368 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 20 | [Como hacías conmigo](https://open.spotify.com/track/5K8WJAQl2xVCfsCzjjpC4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Como hacías conmigo](https://open.spotify.com/album/0NGJN4FzzvpEJsbrsZh4pm) | 4:02 |
 | 21 | [Nostalgia .0017 Tu Vanidad](https://open.spotify.com/track/3o6AV5LvXGR8ts05F8j4NY) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [Nostalgia .0017 Tu Vanidad](https://open.spotify.com/album/5J5i2Lx9hgKVAyt5Sgummx) | 3:23 |
 | 22 | [MATCHA](https://open.spotify.com/track/7xUAYiiL8y0DUb48BxsfZT) | [Naoto](https://open.spotify.com/artist/1kjTSAYGTLrbNOBNMZDqrT), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [MATCHA](https://open.spotify.com/album/0QM8z5wxTzrH0O3hJjbWKg) | 2:15 |
-| 23 | [La Cometí](https://open.spotify.com/track/2S0HpCFr1w6BDlFffrlS6R) | [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [CITRIEM](https://open.spotify.com/artist/7wrlgWGhgaSPekyR3afSsT), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [La Cometí](https://open.spotify.com/album/0gHgPJGsD8kwHMEBPZCjhs) | 2:31 |
+| 23 | [La Cometí](https://open.spotify.com/track/2S0HpCFr1w6BDlFffrlS6R) | [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [CITRIEM](https://open.spotify.com/artist/7wrlgWGhgaSPekyR3afSsT) | [La Cometí](https://open.spotify.com/album/0gHgPJGsD8kwHMEBPZCjhs) | 2:31 |
 | 24 | [Sin Hueso](https://open.spotify.com/track/5sEXraPvJsyRHae9cNfNAW) | [Perro Negro](https://open.spotify.com/artist/2rIeXiq0ji7G9VbW9eaBpN), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Sin Hueso](https://open.spotify.com/album/7JxWTdCQhDZR0NhzH8jyj8) | 3:05 |
 | 25 | [Esa Morena](https://open.spotify.com/track/2He1PdwIAqXhVZFpiQKeY8) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Esa Morena](https://open.spotify.com/album/60a5CHcZAXnsnPFpM8chKZ) | 2:41 |
 | 26 | [Senda Nota](https://open.spotify.com/track/1ZQXJXfPkHqigpuESreXln) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Senda Nota](https://open.spotify.com/album/4Umgz1irZfnIsUPOIECBeJ) | 2:40 |

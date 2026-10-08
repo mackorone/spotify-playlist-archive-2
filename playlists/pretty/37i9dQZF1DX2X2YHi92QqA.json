@@ -1,6 +1,6 @@
 {
   "description": "\u0421\u043f\u043e\u043a\u0456\u0439\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u043e\u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u043d\u043a\u0456\u0432 \u0456 \u0437\u0430\u0442\u0438\u0448\u043d\u0438\u0445 \u0432\u0435\u0447\u043e\u0440\u0456\u0432 \ud83c\udf41",
-  "num_followers": 40074,
+  "num_followers": 40082,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0428\u0443\u043c",
-        "url": "https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH"
-      },
-      "artists": [
-        {
-          "name": "Darie Lu",
-          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
-        }
-      ],
-      "duration_ms": 181168,
-      "name": "\u0428\u0443\u043c",
-      "url": "https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
         "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 183529,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u0428\u0443\u043c",
+        "url": "https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH"
+      },
+      "artists": [
+        {
+          "name": "Darie Lu",
+          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
+        }
+      ],
+      "duration_ms": 181168,
+      "name": "\u0428\u0443\u043c",
+      "url": "https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
+        "name": "\u0412\u043e\u044f\u0436",
+        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
+      },
+      "artists": [
+        {
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
+        }
+      ],
+      "duration_ms": 136943,
+      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
         "name": "\u0424\u0443\u0440\u0456\u044f",
         "url": "https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0412\u043e\u044f\u0436",
-        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
+        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
+        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
       },
       "artists": [
         {
-          "name": "YARIMA",
-          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 136943,
-      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
+      "duration_ms": 112262,
+      "name": "\u041b\u0438\u043d\u0443",
+      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -831,22 +847,6 @@
       "duration_ms": 207000,
       "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435, \u0437\u0432\u0456\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/7IOexzgQGFToaiXIeQibSt"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
-        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
-        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 112262,
-      "name": "\u041b\u0438\u043d\u0443",
-      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0415\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
-        "url": "https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd"
-      },
-      "artists": [
-        {
-          "name": "Artistka Chuprynenko",
-          "url": "https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi"
-        }
-      ],
-      "duration_ms": 258521,
-      "name": "\u0421\u0432\u0456\u0442 \u043f\u043e\u0432\u0435\u043d \u043b\u044e\u0431\u0432\u0456",
-      "url": "https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
         "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 195859,
       "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u0415\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
+        "url": "https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd"
+      },
+      "artists": [
+        {
+          "name": "Artistka Chuprynenko",
+          "url": "https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi"
+        }
+      ],
+      "duration_ms": 258521,
+      "name": "\u0421\u0432\u0456\u0442 \u043f\u043e\u0432\u0435\u043d \u043b\u044e\u0431\u0432\u0456",
+      "url": "https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR"
     },
     {
       "added_at": "2026-09-01 09:50:26",

@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 884016,
+  "num_followers": 884023,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "durmiendo con la luz prendida",
+        "url": "https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "duration_ms": 177629,
+      "name": "Ciudades Gemelas",
+      "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 161142,
       "name": "Ojos Papel",
       "url": "https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "durmiendo con la luz prendida",
-        "url": "https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
-        }
-      ],
-      "duration_ms": 177629,
-      "name": "Ciudades Gemelas",
-      "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
-      },
-      "artists": [
-        {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "(pablo)",
         "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 198351,
       "name": "(pablo)",
       "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "\u00bfD\u00d3NDE COMIENZA TU AMOR?",
-        "url": "https://open.spotify.com/album/1bieD2ow8uJp6Zf1AAJZZo"
-      },
-      "artists": [
-        {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "\u00bfD\u00d3NDE COMIENZA TU AMOR?",
-      "url": "https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "\u00bfD\u00d3NDE COMIENZA TU AMOR?",
+        "url": "https://open.spotify.com/album/1bieD2ow8uJp6Zf1AAJZZo"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "\u00bfD\u00d3NDE COMIENZA TU AMOR?",
+      "url": "https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 214292,
       "name": "jap\u00f3n",
       "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Justrylove (Chill&Go Remix)",
-        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 192105,
-      "name": "Justrylove (Chill&Go Remix)",
-      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Justrylove (Chill&Go Remix)",
+        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 192105,
+      "name": "Justrylove (Chill&Go Remix)",
+      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
     },
     {
       "added_at": "2026-09-18 04:02:12",

@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 11893,
+  "num_followers": 11932,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 206122,
       "name": "Don't Stop the Party (feat. TJR)",
       "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Until Now",
-        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 410096,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Turn This Club Around (Limited Edition)",
         "url": "https://open.spotify.com/album/1MTbILfYUrowFPEBlAetcY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 206537,
       "name": "Party Shaker - Video Edit",
       "url": "https://open.spotify.com/track/6tYYEhNoXlPfjgkMmFpd5k"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 410096,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
     },
     {
       "added_at": "2022-10-14 00:00:00",

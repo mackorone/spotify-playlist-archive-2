@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "ANYONE",
+        "url": "https://open.spotify.com/album/12Eu48iF87fxP1T1Xnm6Gk"
+      },
+      "artists": [
+        {
+          "name": "Dejection",
+          "url": "https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208566,
+      "name": "ANYONE",
+      "url": "https://open.spotify.com/track/55TOVINL2wCho02OH61wy9"
+    },
+    {
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
       },
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 209250,
       "name": "BASS SLAPPIN'",
       "url": "https://open.spotify.com/track/5VKb5VSF3PT3ZTlC9LnKir"
@@ -6574,7 +6592,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 210129,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5PpccBN0V3bYjWUw0rlXHs"
@@ -10792,6 +10810,28 @@
     {
       "album": {
         "name": "Dream On",
+        "url": "https://open.spotify.com/album/6OM4XfvWH66YrPIobPYlpH"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        },
+        {
+          "name": "Max Alexander",
+          "url": "https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/167HFyYEzSOjZTjaPmlRRr"
+    },
+    {
+      "album": {
+        "name": "Dream On",
         "url": "https://open.spotify.com/album/78oEZ5l5cg2lEhvaNtuzrb"
       },
       "artists": [
@@ -11639,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0MJDL62UIHs9OxHimtS1Hk"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/0UnZxfPhkox7pIn7IEzquD"
+    },
+    {
+      "album": {
         "name": "Embrace The Chaos",
         "url": "https://open.spotify.com/album/3qZ6KyQPUDpu03sOz3TQ4s"
       },
@@ -11830,7 +11888,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 174967,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/4iWJMAZpL8JOWgJ7pjUtxY"
@@ -13662,6 +13720,24 @@
       "duration_ms": 199734,
       "name": "FEELS LIKE",
       "url": "https://open.spotify.com/track/1RGeMcZIs1IfL4FOKbQRIF"
+    },
+    {
+      "album": {
+        "name": "Felicit\u00e0",
+        "url": "https://open.spotify.com/album/1dJumwZVSdx3Zd452S7IpQ"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207411,
+      "name": "Felicit\u00e0",
+      "url": "https://open.spotify.com/track/1v0sZErZlrQmO8mMmzkwz0"
     },
     {
       "album": {
@@ -16932,7 +17008,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 187291,
       "name": "Heart Of A Raver",
       "url": "https://open.spotify.com/track/1h5XUoZpduGNnFF40SOPTq"
@@ -17576,7 +17652,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 226645,
       "name": "Higher Lately",
       "url": "https://open.spotify.com/track/4U8OSLIBZS3FtuZiAG5Y6J"
@@ -18674,7 +18750,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 162375,
       "name": "i feel like i'm drowning",
       "url": "https://open.spotify.com/track/1bjudieUQfyqAjtLoGCLpq"
@@ -19402,7 +19478,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 156027,
       "name": "In Control - Kruelty Remix",
       "url": "https://open.spotify.com/track/6oWdz20WckmsLk7ZHfZaMV"
@@ -19706,7 +19782,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 151582,
       "name": "IN YOUR FACE",
       "url": "https://open.spotify.com/track/63NLmXyB6XWvPiJlpUTNR9"
@@ -20724,6 +20800,24 @@
       "duration_ms": 172366,
       "name": "Just Can't Stop",
       "url": "https://open.spotify.com/track/2Yw4ssWnE1tsZaRyWBFunB"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1uDbB7gK6vw2XlRYjYrVms"
+      },
+      "artists": [
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112875,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/6Q40wOVD1CN9th89QbXGOJ"
     },
     {
       "album": {
@@ -21844,6 +21938,24 @@
       "duration_ms": 168812,
       "name": "Ladada (Mes Derniers Mots) - Sound Rush Remix",
       "url": "https://open.spotify.com/track/5ysw24SsAfqTqpdQjOFqmc"
+    },
+    {
+      "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/6VkBY3JSCL82vdglV5mULT"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/0mSuWXKdC11T6NnQX8JEja"
     },
     {
       "album": {
@@ -23992,7 +24104,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 214064,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/3d7KC5jopAvfw71ixv79Oj"
@@ -25616,6 +25728,36 @@
       "duration_ms": 137032,
       "name": "Mind Of A Psycho",
       "url": "https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2"
+    },
+    {
+      "album": {
+        "name": "MINDCONTROLLER 2K26",
+        "url": "https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Ruffneck",
+          "url": "https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167119,
+      "name": "MINDCONTROLLER 2K26",
+      "url": "https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf"
     },
     {
       "album": {
@@ -29127,6 +29269,32 @@
     },
     {
       "album": {
+        "name": "ONE NIGHT",
+        "url": "https://open.spotify.com/album/2Ajy0i8kJ5q8ALeLmSBMyT"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Und3rsound",
+          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "ONE NIGHT",
+      "url": "https://open.spotify.com/track/4nXSjQhExzHWOS6B3DpFwU"
+    },
+    {
+      "album": {
         "name": "Onkruid",
         "url": "https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev"
       },
@@ -30178,6 +30346,28 @@
       "duration_ms": 204022,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/72e5Rxj3y8BGUYg8TPpJpv"
+    },
+    {
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7BGayhAXntLeWKz8UcaYz2"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        },
+        {
+          "name": "Caelum",
+          "url": "https://open.spotify.com/artist/4rurguPt7zC7a60LfcPDUM"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/12RzhjUW9hTXGhsIFzbjYY"
     },
     {
       "album": {
@@ -32579,6 +32769,40 @@
     },
     {
       "album": {
+        "name": "Recover The Archive (Hard Bass 2026 Anthem)",
+        "url": "https://open.spotify.com/album/7yOeocY6jDT3KOvbcqo84F"
+      },
+      "artists": [
+        {
+          "name": "Minus Militia",
+          "url": "https://open.spotify.com/artist/29H7LOSOkrB31ZtoMo2yLJ"
+        },
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Crypsis",
+          "url": "https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Chain Reaction",
+          "url": "https://open.spotify.com/artist/2voeq1SXqaRk45wpKHJhgz"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Recover The Archive (Hard Bass 2026 Anthem)",
+      "url": "https://open.spotify.com/track/2Dok2JW5nG985jLkdK2eft"
+    },
+    {
+      "album": {
         "name": "Red Light District",
         "url": "https://open.spotify.com/album/2eHWfWR0XAe6myGoXabKeK"
       },
@@ -32964,6 +33188,28 @@
       "duration_ms": 193935,
       "name": "Reload",
       "url": "https://open.spotify.com/track/4JtZZirJC8opB7spHe213P"
+    },
+    {
+      "album": {
+        "name": "RELOAD",
+        "url": "https://open.spotify.com/album/1SYEBzeEdAcv2dkVTcijNn"
+      },
+      "artists": [
+        {
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
+        },
+        {
+          "name": "\u00d8RBENYX",
+          "url": "https://open.spotify.com/artist/2XoAZvrwh15BBx8AFrDX45"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "RELOAD",
+      "url": "https://open.spotify.com/track/1lAV8Q42X6iBw87te7wKRj"
     },
     {
       "album": {
@@ -39372,7 +39618,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 242500,
       "name": "The Colour Of The Harder Styles - 2026 Rework",
       "url": "https://open.spotify.com/track/36mG1Kmr56WjoosohfMpXJ"
@@ -43128,7 +43374,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 187124,
       "name": "UNBREAKABLE",
       "url": "https://open.spotify.com/track/4NJNoVaaKqG3hAtOtwGqyO"
@@ -43372,7 +43618,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 138000,
       "name": "Unite Forever",
       "url": "https://open.spotify.com/track/3VD6ARx5Lhbv6LKtw1oen7"
@@ -45072,6 +45318,24 @@
       "duration_ms": 212573,
       "name": "We Dance",
       "url": "https://open.spotify.com/track/2FPIADbl4dLUhitWBXE2RH"
+    },
+    {
+      "album": {
+        "name": "We Desire",
+        "url": "https://open.spotify.com/album/5uOTpsYOHFXpVWwb7wqK8y"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244556,
+      "name": "We Desire",
+      "url": "https://open.spotify.com/track/2kjAzvjvcQPVXfKkxiOLmI"
     },
     {
       "album": {
@@ -47346,6 +47610,24 @@
     {
       "album": {
         "name": "You & I",
+        "url": "https://open.spotify.com/album/7Ex0Qd2zF1eLuDCZy2WPzI"
+      },
+      "artists": [
+        {
+          "name": "Bass Shaker",
+          "url": "https://open.spotify.com/artist/4eiif2MiKPN871opWZp9qU"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179616,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/041vgyiwmqN5W6MgbKAQL7"
+    },
+    {
+      "album": {
+        "name": "You & I",
         "url": "https://open.spotify.com/album/5oNd1IcspxFxq7BZvNeI3A"
       },
       "artists": [
@@ -47356,7 +47638,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 201419,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6ASACRMAQaUEK67ePsvl8v"

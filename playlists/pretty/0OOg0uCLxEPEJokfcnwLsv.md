@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,344 likes - 102 songs - 6 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,364 likes - 104 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 100 | [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 |
 | 101 | [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 |
 | 102 | [Auntie Emma](https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Auntie Emma](https://open.spotify.com/album/50EX9qCftb1U3d1PshCKkQ) | 2:56 |
+| 103 | [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 |
+| 104 | [Los Cuadros](https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1) | [Zarza](https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l) | [Los Cuadros / La Mujer de Blanco: Parte I](https://open.spotify.com/album/210YJMofBY2znygVZXbV3g) | 4:41 |
 
-Snapshot ID: `AAAHD9qrP9EdSlYbLokGEryFhV7hgw27`
+Snapshot ID: `AAAHEVli0NIM6pqJtxATxIERKVi+8eY1`

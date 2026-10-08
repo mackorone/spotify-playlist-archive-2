@@ -1,13 +1,109 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Max Rickun. Artwork by Paola Saliby",
-  "num_followers": 244032,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maisi and the Disco. Artwork by Paola Saliby",
+  "num_followers": 244098,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlSKOrvWc+N1mOecG31/dXHe0fV",
+  "snapshot_id": "AAAAAMOJDMuxGCUZtAuC48Eaa6MwBkp1",
   "tracks": [
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/2LXqQyS3IfDQ08lgsspmP4"
+      },
+      "artists": [
+        {
+          "name": "Maisi and the Disco",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"
+    },
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+    },
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+    },
+    {
+      "added_at": "2026-10-08 03:28:37",
+      "album": {
+        "name": "Ren Faire",
+        "url": "https://open.spotify.com/album/2ZswCnyR6M0tMhykwAigIF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Tomlinson",
+          "url": "https://open.spotify.com/artist/3FAUbWyEFyXUqFSVmoDvC5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ren Faire",
+      "url": "https://open.spotify.com/track/5Kha15DdGVbEECbxCubj2q"
+    },
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "Love Minus",
+        "url": "https://open.spotify.com/album/6VSPQHiByzqCoGufqS0J7H"
+      },
+      "artists": [
+        {
+          "name": "Chase Behar",
+          "url": "https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Love Minus",
+      "url": "https://open.spotify.com/track/6jKFlwTzepUNyJUwyOadqa"
+    },
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/7I5xQyjHarN7HwVUR4pqZ1"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 111759,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY"
+    },
     {
       "added_at": "2026-09-30 04:00:27",
       "album": {
@@ -23,6 +119,22 @@
       "duration_ms": 199094,
       "name": "I'M IN THE BAND",
       "url": "https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63"
+    },
+    {
+      "added_at": "2026-10-08 00:21:45",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/7hVMnvyn0hdkAGSrO6U0du"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 190499,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5wrkrATL6jGw3eUYBTbicS"
     },
     {
       "added_at": "2026-09-30 04:00:27",
@@ -263,22 +375,6 @@
       "duration_ms": 192130,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
-    },
-    {
-      "added_at": "2026-09-16 15:55:28",
-      "album": {
-        "name": "Postcard",
-        "url": "https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179014,
-      "name": "Postcard",
-      "url": "https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66"
     },
     {
       "added_at": "2026-09-09 04:00:32",
@@ -555,22 +651,6 @@
     {
       "added_at": "2026-08-26 04:00:39",
       "album": {
-        "name": "Pop Is My Religion",
-        "url": "https://open.spotify.com/album/0IQtY2bY9Qurc7Va3vpkq0"
-      },
-      "artists": [
-        {
-          "name": "Maisi and the Disco",
-          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Pop Is My Religion",
-      "url": "https://open.spotify.com/track/3szS1JE9PN3p0CHQfwwyDi"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN"
       },
@@ -759,22 +839,6 @@
       "duration_ms": 241600,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "One Life To Give",
-        "url": "https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 165975,
-      "name": "One Life To Give",
-      "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
     },
     {
       "added_at": "2026-08-26 04:00:39",
@@ -1069,22 +1133,6 @@
       "url": "https://open.spotify.com/track/4eKdz79wkQxSlHdah7X13S"
     },
     {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "Eat",
-        "url": "https://open.spotify.com/album/69g6I12DCHSqAFU18CoXrV"
-      },
-      "artists": [
-        {
-          "name": "Hannah-Morgan",
-          "url": "https://open.spotify.com/artist/7CnLDFv2r1kVrF42nTZV51"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Eat",
-      "url": "https://open.spotify.com/track/40kCK0g07iM65DGFaMb6Cv"
-    },
-    {
       "added_at": "2026-07-08 04:00:12",
       "album": {
         "name": "Magic",
@@ -1099,54 +1147,6 @@
       "duration_ms": 213993,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
-    },
-    {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 206434,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
-    },
-    {
-      "added_at": "2026-09-11 19:41:21",
-      "album": {
-        "name": "U-Turn",
-        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 221927,
-      "name": "East Coast Summers",
-      "url": "https://open.spotify.com/track/6WfKXUXkTM96NQ43NgxD7U"
-    },
-    {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
       "added_at": "2026-07-08 04:00:12",

@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1879985,
+  "num_followers": 1879941,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-09-24 22:00:45",
       "album": {
+        "name": "LOVE?",
+        "url": "https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh"
+    },
+    {
+      "added_at": "2026-09-24 22:00:45",
+      "album": {
         "name": "KITSCHKRIEG ZWEI",
         "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
-    },
-    {
-      "added_at": "2026-09-24 22:00:45",
-      "album": {
-        "name": "LOVE?",
-        "url": "https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh"
     },
     {
       "added_at": "2026-09-24 22:00:45",

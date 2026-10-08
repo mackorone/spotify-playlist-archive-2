@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22124,
+  "num_followers": 22126,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -273,20 +273,24 @@
       "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
+      "added_at": "2026-09-25 00:01:24",
       "album": {
-        "name": "Reckless Lover",
-        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
+        "name": "Nikumbuke",
+        "url": "https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 537386,
-      "name": "Reckless Lover",
-      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+      "duration_ms": 245454,
+      "name": "Nikumbuke",
+      "url": "https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -369,24 +373,20 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2026-09-25 00:01:24",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Nikumbuke",
-        "url": "https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF"
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
       },
       "artists": [
         {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 245454,
-      "name": "Nikumbuke",
-      "url": "https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh"
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -409,24 +409,24 @@
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
+      "added_at": "2026-01-30 00:01:25",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+        "name": "God, In all Seasons",
+        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
         },
         {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+      "duration_ms": 237913,
+      "name": "Boku",
+      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
     },
     {
       "added_at": "2025-01-31 00:01:08",
@@ -469,24 +469,24 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
+      "added_at": "2026-07-17 00:01:08",
       "album": {
-        "name": "God, In all Seasons",
-        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
       },
       "artists": [
         {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
         },
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
         }
       ],
-      "duration_ms": 237913,
-      "name": "Boku",
-      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
     },
     {
-      "added_at": "2025-05-09 00:01:37",
-      "album": {
-        "name": "ZA",
-        "url": "https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 161841,
-      "name": "ZA",
-      "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
-    },
-    {
       "added_at": "2026-09-25 00:01:24",
       "album": {
         "name": "MY GOD, YOU ARE GOOD",
@@ -611,6 +595,22 @@
       "duration_ms": 488149,
       "name": "MY GOD, YOU ARE GOOD",
       "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
+    },
+    {
+      "added_at": "2025-05-09 00:01:37",
+      "album": {
+        "name": "ZA",
+        "url": "https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 161841,
+      "name": "ZA",
+      "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
     },
     {
       "added_at": "2026-05-08 00:01:38",
@@ -693,26 +693,6 @@
       "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "Benefit",
-        "url": "https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        },
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 419027,
-      "name": "Benefit",
-      "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
-    },
-    {
       "added_at": "2026-09-25 00:01:24",
       "album": {
         "name": "Already Loved",
@@ -733,20 +713,24 @@
       "url": "https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae"
     },
     {
-      "added_at": "2026-08-07 00:01:10",
+      "added_at": "2025-10-17 00:01:26",
       "album": {
-        "name": "Many",
-        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
+        "name": "Benefit",
+        "url": "https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Many",
-      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
+      "duration_ms": 419027,
+      "name": "Benefit",
+      "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
       "added_at": "2025-12-19 00:01:10",
@@ -763,6 +747,22 @@
       "duration_ms": 507645,
       "name": "\u00d3 D\u00e1ra",
       "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
+    },
+    {
+      "added_at": "2026-08-07 00:01:10",
+      "album": {
+        "name": "Many",
+        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Many",
+      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
     },
     {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
+    },
+    {
       "added_at": "2025-12-05 00:01:10",
       "album": {
         "name": "Upendo Overdose",
@@ -1097,20 +1113,20 @@
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
+      "added_at": "2026-10-02 00:01:17",
       "album": {
-        "name": "how can it be?",
-        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
         }
       ],
-      "duration_ms": 229120,
-      "name": "how can it be?",
-      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1137,26 +1153,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-05-15 00:01:23",
-      "album": {
-        "name": "Ifunanya",
-        "url": "https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs"
-      },
-      "artists": [
-        {
-          "name": "Rhema Onuoha",
-          "url": "https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX"
-        },
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 314013,
-      "name": "Ifunanya",
-      "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
-    },
-    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "My Daddy Loves Me",
@@ -1175,6 +1171,26 @@
       "duration_ms": 336585,
       "name": "My Daddy Loves Me",
       "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
+    },
+    {
+      "added_at": "2026-05-15 00:01:23",
+      "album": {
+        "name": "Ifunanya",
+        "url": "https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs"
+      },
+      "artists": [
+        {
+          "name": "Rhema Onuoha",
+          "url": "https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 314013,
+      "name": "Ifunanya",
+      "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1305,26 +1305,6 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
-      "album": {
-        "name": "I Dey Grateful",
-        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
-      },
-      "artists": [
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 173676,
-      "name": "I Dey Grateful",
-      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -1343,6 +1323,26 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-08-21 00:01:32",
+      "album": {
+        "name": "I Dey Grateful",
+        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
+      },
+      "artists": [
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 173676,
+      "name": "I Dey Grateful",
+      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1385,26 +1385,6 @@
       "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "Subscribed (Live)",
-        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Subscribed - Live",
-      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1423,6 +1403,26 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-05-29 00:01:36",
+      "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1525,28 +1525,24 @@
       "url": "https://open.spotify.com/track/1MkyF53qBdEbueA5Yae1pi"
     },
     {
-      "added_at": "2026-09-04 00:01:03",
+      "added_at": "2026-10-02 00:01:17",
       "album": {
-        "name": "In Jesus Name",
-        "url": "https://open.spotify.com/album/03cgv9Da0IDejNAKiqeS6p"
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
       },
       "artists": [
         {
-          "name": "JOHN GODFREY",
-          "url": "https://open.spotify.com/artist/5ApfHPATrv1gdJ45DaRA9X"
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
         },
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Fearless Community",
-          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
         }
       ],
-      "duration_ms": 421333,
-      "name": "In Jesus Name",
-      "url": "https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr"
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     }
   ],
   "unique_name": "Blessed",

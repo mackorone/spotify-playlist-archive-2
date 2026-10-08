@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: DJ co.kr, h4rdy)",
-  "num_followers": 38145,
+  "num_followers": 38151,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 199135,
       "name": "My Universe - David Guetta Remix",
       "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "White cat",
-        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "White cat",
-      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "Dogma",
-        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
-      },
-      "artists": [
-        {
-          "name": "Kim Ximya",
-          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "T-H-I-R-S-T-Y",
-      "url": "https://open.spotify.com/track/1WvaUzdhKHTH5UYmsQwP75"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 146293,
       "name": "DRIFT",
       "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
+      },
+      "artists": [
+        {
+          "name": "Kim Ximya",
+          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "T-H-I-R-S-T-Y",
+      "url": "https://open.spotify.com/track/1WvaUzdhKHTH5UYmsQwP75"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "everybody dies",
-        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 152079,
-      "name": "everybody dies",
-      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
       "artists": [
         {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
         }
       ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
         }
       ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
@@ -1483,6 +1483,26 @@
       "duration_ms": 216386,
       "name": "Red Flavor - Mar Vista Remix",
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1515,26 +1535,6 @@
       "duration_ms": 245189,
       "name": "Monster - LDN Noise Creeper Bass Remix",
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "Old Fantasy",
-        "url": "https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd"
+        "name": "\ubf55",
+        "url": "https://open.spotify.com/album/1mgIh54hHGhlRkyNsrVW5J"
       },
       "artists": [
         {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+          "name": "250",
+          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
         }
       ],
-      "duration_ms": 234500,
-      "name": "HEX",
-      "url": "https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP"
+      "duration_ms": 240093,
+      "name": "\ubc45\ubc84\uc2a4",
+      "url": "https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1687,42 +1687,18 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "\ubf55",
-        "url": "https://open.spotify.com/album/1mgIh54hHGhlRkyNsrVW5J"
+        "name": "Old Fantasy",
+        "url": "https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd"
       },
       "artists": [
         {
-          "name": "250",
-          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
         }
       ],
-      "duration_ms": 240093,
-      "name": "\ubc45\ubc84\uc2a4",
-      "url": "https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
-        "name": "ScreaM Rookies : The Chase (Remixes)",
-        "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        },
-        {
-          "name": "0to",
-          "url": "https://open.spotify.com/artist/57yVnSGdUdP3doa2DZyZk5"
-        },
-        {
-          "name": "ScreaM Records",
-          "url": "https://open.spotify.com/artist/2COR1KCYlImSGDRM3Fatx7"
-        }
-      ],
-      "duration_ms": 215168,
-      "name": "The Chase - 0to Remix",
-      "url": "https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr"
+      "duration_ms": 234500,
+      "name": "HEX",
+      "url": "https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1771,22 +1747,26 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
-        "name": "MOLLAK",
-        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+        "name": "ScreaM Rookies : The Chase (Remixes)",
+        "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
       },
       "artists": [
         {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         },
         {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+          "name": "0to",
+          "url": "https://open.spotify.com/artist/57yVnSGdUdP3doa2DZyZk5"
+        },
+        {
+          "name": "ScreaM Records",
+          "url": "https://open.spotify.com/artist/2COR1KCYlImSGDRM3Fatx7"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Narak",
-      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
+      "duration_ms": 215168,
+      "name": "The Chase - 0to Remix",
+      "url": "https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1811,6 +1791,26 @@
       "duration_ms": 125629,
       "name": "Good Night Good Morning (GNGM) - minlee Remix",
       "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
+        "name": "MOLLAK",
+        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        },
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Narak",
+      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
       "added_at": "2026-10-02 01:20:49",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-10-02 01:20:49",
       "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
+      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
+    },
+    {
+      "added_at": "2026-10-02 01:20:49",
+      "album": {
         "name": "iScreaM Vol.32 : Impossible Remix",
         "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
-    },
-    {
-      "added_at": "2026-10-02 01:20:49",
-      "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     }
   ],
   "unique_name": "Electronii[K]",

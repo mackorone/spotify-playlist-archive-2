@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,687 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572,018 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 25 | [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 |
 | 26 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 |
 | 27 | [Naal Nachna](https://open.spotify.com/track/2lbdPiHFMRoGEmiugqaoXB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Dhurandhar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6) | 2:35 |
-| 28 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
+| 28 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
 | 29 | [Jackpot](https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:56 |
 | 30 | [SHKINI](https://open.spotify.com/track/0J6YQ9KDwmnwD1sboA8UPZ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [SHKINI](https://open.spotify.com/album/4LSIPWrBTnFfN6dq4g5iKG) | 2:29 |
 | 31 | [Moves](https://open.spotify.com/track/53kcU6lCvTptLec1UXacaq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:40 |

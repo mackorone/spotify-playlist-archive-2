@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 998003,
+  "num_followers": 998105,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "MONTAGEM LADRAO",
         "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 75240,
       "name": "MONTAGEM LADRAO",
       "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -755,22 +755,18 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
       },
       "artists": [
         {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+          "name": "Tevvez",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         }
       ],
-      "duration_ms": 117637,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+      "duration_ms": 189679,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
     }
   ],
   "unique_name": "gymcore",

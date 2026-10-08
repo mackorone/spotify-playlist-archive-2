@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90326,
+  "num_followers": 90320,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Galvanize (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 223618,
-      "name": "Galvanize - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 181363,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Galvanize (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 223618,
+      "name": "Galvanize - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
     },
     {
       "added_at": "2026-10-02 10:12:09",

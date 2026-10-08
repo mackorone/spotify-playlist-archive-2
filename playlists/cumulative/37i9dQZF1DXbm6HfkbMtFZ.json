@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "The Womack Sisters",
+        "url": "https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "If I Let You",
+      "url": "https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM"
+    },
+    {
+      "album": {
         "name": "If It Feels Good (Then It Must Be)",
         "url": "https://open.spotify.com/album/3habIVRUhTf6wzwR4O1dBI"
       },
@@ -6665,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+    },
+    {
+      "album": {
         "name": "Chef (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5wXB3JnWbBotktSeTuy1E2"
       },
@@ -7574,7 +7610,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 278320,
       "name": "No Other Life Without You",
       "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
@@ -7862,7 +7898,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 268179,
       "name": "Off to the Side",
       "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"

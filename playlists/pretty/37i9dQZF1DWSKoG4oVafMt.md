@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,293 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,378 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 6 | [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 |
 | 7 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
 | 8 | [Rabb Wangu \- From "Sikander 2"](https://open.spotify.com/track/16e6iQeH0HPBtRvN2XYZaS) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Rabb Wangu \(From "Sikander 2"\)](https://open.spotify.com/album/2gqs5xuoWjDG3zOOd0sGR1) | 3:15 |
-| 9 | [Waliyan](https://open.spotify.com/track/7mUdTT1OXUwuSJfnljWB2b) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:52 |
+| 9 | [Waliyan](https://open.spotify.com/track/7mUdTT1OXUwuSJfnljWB2b) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:52 |
 | 10 | [Gaddi Pichhe Naa](https://open.spotify.com/track/0AvNUivw5qx7M4aZjN92JP) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Gaddi Pichhe Naa](https://open.spotify.com/album/4h3JX5spPx5XticLCyjsCb) | 2:46 |
 | 11 | [Midnight Call](https://open.spotify.com/track/37Uxo75YZUGjCfV1WnZE4k) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:43 |
 | 12 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |

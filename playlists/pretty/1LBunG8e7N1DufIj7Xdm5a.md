@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,914 songs - 11 day 2 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,917 songs - 11 day 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4922,5 +4922,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4912 | [No quiero estar solo nunca más](https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl) | [Blackstonia](https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR) | [Días Mejores](https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx) | 3:24 |
 | 4913 | [24/7](https://open.spotify.com/track/1uY5WRATMThxmTSpofWjp4) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 3:23 |
 | 4914 | [Only If](https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q) | [GRG T](https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd) | [Only If](https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n) | 1:40 |
+| 4915 | [Walking In The Sand](https://open.spotify.com/track/0RREuZAcmnXVMuPQr8I30Z) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [The Seagull Tapes](https://open.spotify.com/album/2cgZrZSHxy7iDq02XQrUjQ) | 2:48 |
+| 4916 | [Aquarela](https://open.spotify.com/track/2sTYC3WPLl4QZv5yJQDa3B) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [A Short Message To You](https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j) | 2:14 |
+| 4917 | [Estranei](https://open.spotify.com/track/1FeKKIwmQ1sS4DPniLLEaT) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Estranei](https://open.spotify.com/album/1skmozP6QLcI0OiMJSv4OZ) | 2:54 |
 
-Snapshot ID: `AAAKbtOqg1O11dE9anfDHFli7XFT7lTE`
+Snapshot ID: `AAAKcaB9iROkSwsQBYLe8LXsQETW/AmM`

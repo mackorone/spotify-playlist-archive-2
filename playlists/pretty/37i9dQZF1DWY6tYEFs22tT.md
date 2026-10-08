@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Quavo, Drake, Yung Miami, Travis Scott, and Yeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,370 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,363 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BA \(feat\. Future\)](https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 2:29 |
 | 2 | [Quebec](https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 2:10 |
 | 3 | [2008](https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [2008](https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ) | 2:31 |
-| 4 | [Don in my city pt\. 2](https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Jayy V Vondon](https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2) | [Don in my city pt\. 2](https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1) | 3:18 |
+| 4 | [Don in my city pt\. 2](https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS) | [Jayy V Vondon](https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Don in my city pt\. 2](https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1) | 3:18 |
 | 5 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
 | 6 | [All Nighter](https://open.spotify.com/track/3TBJ9VqPThPCzJzLfhz4ou) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Firestarter Vol 2: Everyday, Sometimes…](https://open.spotify.com/album/0rszwh4GagQKMoWRr5e1kX) | 3:47 |
 | 7 | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns) | 3:00 |

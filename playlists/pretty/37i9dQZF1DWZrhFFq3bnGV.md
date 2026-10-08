@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Gerald Situmorang
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,615 likes - 105 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,618 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 93 | [Masuk Angin](https://open.spotify.com/track/73O8kVxE8Ipkd3JWCVEWGe) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Masuk Angin](https://open.spotify.com/album/6VydJRMeBiu8s23XbyboNc) | 3:40 |
 | 94 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 |
 | 95 | [Everyday People](https://open.spotify.com/track/6rmxcDSZza05k1ylSVo3am) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:37 |
-| 96 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 |
+| 96 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 |
 | 97 | [Love In Peace](https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:24 |
 | 98 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 |
 | 99 | [Would You Be Mine?](https://open.spotify.com/track/4nXyj91XfduRt8IXp6xQ6M) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp), [Keita Ogawa](https://open.spotify.com/artist/4JCRE56zJVJMC4vPuSAXdg) | [Would You Be Mine?](https://open.spotify.com/album/6sfAdQBtM7R1MYfVhPtp7g) | 3:47 |

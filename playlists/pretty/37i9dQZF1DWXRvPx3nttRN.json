@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 620322,
+  "num_followers": 620358,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Abbey Road (Remastered)",
+        "name": "Abbey Road (Remastered 2009)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "The Temple EP",
         "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 257923,
-      "name": "Don't You Worry Child - Acoustic Version",
-      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Rescue Me (Acoustic)",
         "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 190960,
       "name": "Under The Sun - Acoustic",
       "url": "https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 257923,
+      "name": "Don't You Worry Child - Acoustic Version",
+      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Hold My Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
     },
     {
       "added_at": "2026-01-26 17:25:39",

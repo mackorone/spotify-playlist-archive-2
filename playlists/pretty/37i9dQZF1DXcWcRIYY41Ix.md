@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Paco Pecado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,540 likes - 106 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,546 likes - 106 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 71 | [La Fiesta](https://open.spotify.com/track/4Js6RNz6i3MNv0GMMmJ23O) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Fiesta](https://open.spotify.com/album/7ssXKtyR44V2NGuzp4sQKa) | 3:12 |
 | 72 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
 | 73 | [Más de lo que te cuento](https://open.spotify.com/track/0dV8DbiYH9USYQ3Je5conM) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Más de lo que te cuento](https://open.spotify.com/album/02j9iBSQgOrL4IG7QVvCoz) | 2:59 |
-| 74 | [Pasará](https://open.spotify.com/track/0CoxCKSMP8mJhcgCSNyQh1) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Pasará](https://open.spotify.com/album/6TSYnZe1YS98rw9FvhqNAi) | 3:23 |
+| 74 | [PASARÁ](https://open.spotify.com/track/0CoxCKSMP8mJhcgCSNyQh1) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [PASARÁ](https://open.spotify.com/album/6TSYnZe1YS98rw9FvhqNAi) | 3:23 |
 | 75 | [Déjate Llevar](https://open.spotify.com/track/2vdam9DcMwXpW9yGm7rdCW) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Déjate Llevar](https://open.spotify.com/album/2z3Ys1gLW7mU4G9SKAesL2) | 3:37 |
 | 76 | [Dueña \- Acústico](https://open.spotify.com/track/1RtMelPZEQQ6kuCzr2IS3t) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo), [Inés de Lis](https://open.spotify.com/artist/30A3yBYfPdIW32J8VNHjHF) | [Dueña \(Acústico\)](https://open.spotify.com/album/6NxX7VcLJYA206wYZwcXvz) | 3:22 |
 | 77 | [Lucha de gigantes \- En Vivo](https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Lucha de gigantes \(En Vivo\)](https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su) | 4:48 |

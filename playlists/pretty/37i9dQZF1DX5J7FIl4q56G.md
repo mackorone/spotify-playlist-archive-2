@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Amon Amarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,609 likes - 208 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,742 likes - 208 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 17 | [Early Graves](https://open.spotify.com/track/4k1DdiZfmlJzbKbJdVPU8z) | [Disfear](https://open.spotify.com/artist/2rYMvTD6SxQHgOXhVUdTRc) | [Early Graves](https://open.spotify.com/album/4uQMCdTVOTWkchNw8u8VIL) | 4:08 |
 | 18 | [Cycle of Misery](https://open.spotify.com/track/32CrKIZUgSy99h0VyPvZgl) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [Cycle of Misery](https://open.spotify.com/album/65lPiyRLLY1yl47lD8vdln) | 5:07 |
 | 19 | [Stormwatcher](https://open.spotify.com/track/13TZd9nP6xdNmouCzvtekC) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV), [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Stormwatcher](https://open.spotify.com/album/4JfhIFE8ZSEKO1x7MLUWwT) | 5:11 |
-| 20 | [The Number](https://open.spotify.com/track/3nUUVjnvaTFpFBh8QC00PQ) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Number](https://open.spotify.com/album/6BAcsrk2G4mBeUl3WFlP71) | 3:42 |
+| 20 | [The Number](https://open.spotify.com/track/3nUUVjnvaTFpFBh8QC00PQ) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Number](https://open.spotify.com/album/6BAcsrk2G4mBeUl3WFlP71) | 3:43 |
 | 21 | [sodium](https://open.spotify.com/track/0t0gNWuHPINBH21NC0OeDQ) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [sodium](https://open.spotify.com/album/0r6X5AlBoueuJwKjf6GVNI) | 3:48 |
 | 22 | [How Much Is The Fish](https://open.spotify.com/track/2b3VCiWJF70axdKoaf7xQx) | [Brymir](https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5) | [How Much Is The Fish](https://open.spotify.com/album/0U5m8SkDNqLe646TwaGj4C) | 3:29 |
 | 23 | [The Shallow Gaze \(feat\. Darius Tehrani\)](https://open.spotify.com/track/4hg9tM0rSY7GROwukZdLgG) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Shallow Gaze](https://open.spotify.com/album/2wDbfirdkiRo83p1MOyAeR) | 3:15 |

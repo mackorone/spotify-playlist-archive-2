@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAB55GfesUuowcX91uA9/WPl",
+  "snapshot_id": "asLogAAAAADMI9VzWYD97u1z1OMZh60T",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Early One Mornin\u2019 Blues (Live)",
         "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 356472,
       "name": "Jail",
       "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Just Like A Dog, Barking Up The Wrong Tree",
+      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
     },
     {
       "added_at": null,
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Just Like A Dog, Barking Up The Wrong Tree",
-      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
+      "duration_ms": 163866,
+      "name": "You Don't Move Me No More",
+      "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 160543,
       "name": "Laugh, Laugh, Laugh",
       "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "You Don't Move Me No More",
-      "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

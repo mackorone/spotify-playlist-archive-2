@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-819 songs - 2 day 0 hr 10 min
+820 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Rani](https://open.spotify.com/track/7lo9dhL7wstxxHh1PVa5mz) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Anu Shasti](https://open.spotify.com/artist/6DL1Cn0wQfPkVAdYNJiTYK), [Pujalakshmi MP](https://open.spotify.com/artist/3RCStFNMFLjEbO74lM4Ubt), [Sivathmikha R](https://open.spotify.com/artist/6fbai4ydYZ4nTsAypxFxFt) | [Rani](https://open.spotify.com/album/3209TfKuIpETw5Z5kwVRL5) | 5:11 | 2024-11-05 | 2024-11-12 |
 | [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 | 2023-01-19 | 2023-02-22 |
 | [Ratha Kothippu](https://open.spotify.com/track/0HFPg4ofuzKy4qjH7rFLbD) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Ratha Kothippu](https://open.spotify.com/album/2Fd2YCT3s2TJc7eK9UeQAz) | 3:43 | 2024-10-03 | 2025-02-14 |
+| [Rathinamo](https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup) | [Rathinamo](https://open.spotify.com/album/0mhWO74xsaV16ZOEVvP4xO) | 3:09 | 2026-10-07 |  |
 | [Rathinamo \- Female Version](https://open.spotify.com/track/4RbY6Mx3h65EogU62VfFeK) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup), [Tanisha Gnanavel](https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt) | [Rathinamo \(Female Version\)](https://open.spotify.com/album/3UueklpFLIfw6EJ0gSQPIW) | 2:57 | 2026-09-24 |  |
 | [Rathiye](https://open.spotify.com/track/1GsXtSpfdgzobBpkacXRk2) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Rithwik](https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW) | [Rathiye](https://open.spotify.com/album/2uSP9uTakwOXUrokSYkT0B) | 3:36 | 2024-11-29 | 2024-12-06 |
 | [Rayil Pogum Idam](https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi) | [Rayil Pogum Idam](https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i) | 3:07 | 2023-11-23 | 2024-06-14 |

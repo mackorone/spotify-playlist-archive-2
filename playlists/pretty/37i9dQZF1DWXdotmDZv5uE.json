@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131204,
+  "num_followers": 131205,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Yin",
-        "url": "https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Conmigo Siempre",
-      "url": "https://open.spotify.com/track/1omuLiHsrZNngTOHr2FF9U"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Globoscopio",
         "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 273266,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Yin",
+        "url": "https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Conmigo Siempre",
+      "url": "https://open.spotify.com/track/1omuLiHsrZNngTOHr2FF9U"
     },
     {
       "added_at": "2026-06-08 22:39:48",

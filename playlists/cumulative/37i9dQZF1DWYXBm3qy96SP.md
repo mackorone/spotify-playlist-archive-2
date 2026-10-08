@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Fat Dog
 
-2,368 songs - 5 day 18 hr 11 min
+2,369 songs - 5 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,6 +958,7 @@
 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 | 2024-01-04 | 2024-01-19 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2023-03-16 | 2023-03-25 |
 | [Hush](https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 3:55 | 2026-06-26 | 2026-09-25 |
+| [Hypoxia](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 5:21 | 2026-10-01 |  |
 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 | 2023-05-04 | 2023-05-12 |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2023-03-16 | 2023-05-18 |
 | [I am the King](https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [I am the King](https://open.spotify.com/album/0MmY7xbuJNiyICbIgJaDrO) | 3:03 | 2024-06-06 | 2024-06-21 |
@@ -1951,7 +1952,7 @@
 | [Survivor](https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6) | 2:11 | 2023-11-30 | 2023-12-08 |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-25 | 2024-02-29 |
 | [Swallow The Bomb](https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Swallow The Bomb](https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4) | 3:19 | 2026-09-17 |  |
-| [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 | 2026-08-20 |  |
+| [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 | 2026-08-20 | 2026-10-08 |
 | [SWEAT](https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [SWEAT](https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7) | 3:33 | 2025-05-22 | 2025-06-13 |
 | [Sweet Devotion](https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Sweet Devotion](https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg) | 3:08 | 2026-08-13 | 2026-08-21 |
 | [Sweet Dreams](https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Sweet Dreams](https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D) | 3:07 | 2026-08-20 |  |

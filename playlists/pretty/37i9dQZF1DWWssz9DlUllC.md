@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 
 > Where afrobeats meets amapiano.<br/>Cover:  Shoday
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,551 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,630 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 | 61 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 |
 | 62 | [Merlinpiano](https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB) | [Merlinpiano](https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8) | 2:28 |
 | 63 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
-| 64 | [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 |
-| 65 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 |
+| 64 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 |
+| 65 | [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 |
 | 66 | [SWAGGA](https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [SWAGGA](https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80) | 2:36 |
 | 67 | [Follow My Lead](https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Follow My Lead](https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z) | 2:20 |
 | 68 | [Laye Mi](https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Laye Mi](https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd) | 3:24 |
-| 69 | [Wuru Manya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 |
-| 70 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
+| 69 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
+| 70 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
 | 71 | [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 |
-| 72 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
-| 73 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
+| 72 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
+| 73 | [Wuru Manya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 |
 | 74 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 |
 | 75 | [For You](https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [For You](https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP) | 2:46 |
 | 76 | [Mr Caesar](https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Big Fearless](https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO) | [Mr Caesar](https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1) | 2:19 |

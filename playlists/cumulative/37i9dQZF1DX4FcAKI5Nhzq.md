@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: CRAVITY\)
+> Future K\-Pop hits! \(Cover: HWANG MIN HYUN\)
 
-1,815 songs - 4 day 0 hr 45 min
+1,816 songs - 4 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,6 +1158,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/1JvRDITxJfdNXCZPm9RcXW) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Open Your Eyes](https://open.spotify.com/album/1Mx5r7RLYkLnhZQN4mCaI7) | 2:59 | 2026-09-21 |  |
 | [ORANGE](https://open.spotify.com/track/3ud65LzKLgdsEzktLvFXgc) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 4:16 | 2020-11-12 | 2021-02-15 |
 | [OST \( Feat.CHANMINA \)](https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [OST](https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W) | 3:01 | 2024-07-18 | 2024-09-10 |
+| [OUR](https://open.spotify.com/track/3jgziAuu4IX3lNJgjPNeIw) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [OUR](https://open.spotify.com/album/4sBR58fDqI23lFOpGWnNxc) | 2:50 | 2026-10-08 |  |
 | [Our Ending](https://open.spotify.com/track/0fu6AUwmng12GwgurC4RUs) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Our Ending](https://open.spotify.com/album/2FgxbLydrFnM1qU0EQzm4S) | 2:34 | 2026-09-30 |  |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans X MY DEMON](https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb) | 3:12 | 2023-11-29 | 2024-02-16 |
 | [Outerspace \(feat\. Loco\)](https://open.spotify.com/track/6FAxtrYysG7kIZlCreBf0q) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Outerspace \(feat\. Loco\)](https://open.spotify.com/album/2G3pMjDpRpkHu7TuQr1nWM) | 3:14 | 2021-05-15 | 2021-07-30 |

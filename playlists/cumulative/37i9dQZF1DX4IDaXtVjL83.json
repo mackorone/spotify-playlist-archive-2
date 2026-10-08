@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Alok, NAYEON of TWICE)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: KickFlip, iann dior)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
@@ -3147,6 +3147,28 @@
     },
     {
       "album": {
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
+    },
+    {
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -4884,7 +4906,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 141793,
       "name": "Stars + Yves",
       "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
@@ -6190,6 +6212,28 @@
       "duration_ms": 184853,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/0kLktoAjZQczngphPbfq52"
+    },
+    {
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141699,
+      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
     },
     {
       "album": {

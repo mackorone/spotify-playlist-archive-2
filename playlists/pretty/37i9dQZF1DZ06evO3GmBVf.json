@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 218990,
+  "num_followers": 219011,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAADsyL4gQAhPM4yeKkt3olNb",
+  "snapshot_id": "asLogAAAAAAn28Qi7e7aPE68rVgBU1IS",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sientelo",
         "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dice Que Me Quiere",
         "url": "https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP"
       },
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Mi Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/6ktov4uuTCeQ5HVVqFAupg"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 288000,
       "name": "LEYENDA",
       "url": "https://open.spotify.com/track/5fO5dDgfVypHTU1P71AJgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Mi Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flaco Pesado (Remix)",
         "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 227631,
       "name": "Flaco Pesado (Remix)",
       "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qui\u00e9n No Llora",
+        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Qui\u00e9n No Llora",
+      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno Pa Lo Malo",
         "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n No Llora",
-        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Qui\u00e9n No Llora",
-      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,575 songs - 3 day 19 hr 40 min
+1,577 songs - 3 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Danza della luna](https://open.spotify.com/track/4gDIwU7JzlqxOdH3nnxRg9) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Lorenzo Rundo](https://open.spotify.com/artist/79coFumyLISx5dFLfeoSVa) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 3:49 | 2023-04-20 | 2025-11-29 |
 | [Dar Koridor](https://open.spotify.com/track/3DiY9hFu1VVY4oAErGfTYE) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Dar Koridor](https://open.spotify.com/album/4x6MQlw8TWrRGsnyzJ8DTC) | 3:12 | 2026-03-19 | 2026-04-22 |
 | [Dardo](https://open.spotify.com/track/3HjSjfpRXsZi7VT8OJZC3N) | [Hivana](https://open.spotify.com/artist/6HSrospVkDB2uQbubfRXcg) | [Dardo](https://open.spotify.com/album/5CE40Vx8eWvSXFk0MMAypH) | 2:31 | 2026-08-22 | 2026-09-17 |
+| [Dark Horse](https://open.spotify.com/track/6inYETIpyGBMwSodPR9z3Y) | [Orange Glow](https://open.spotify.com/artist/7LU23GRAcBWaPfLNg9H63d) | [Dark Horse](https://open.spotify.com/album/37Q6t3wmAoFdz7mmd0sneV) | 3:01 | 2026-10-07 |  |
 | [Day One](https://open.spotify.com/track/3MQ7aLt6WdX4JwWTNkEU1E) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Losing CTRL](https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN) | 3:31 | 2026-03-13 | 2026-04-12 |
 | [Daylight](https://open.spotify.com/track/3JaGKnVSjLcb1vIqd3vM2R) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Türker Dinletir](https://open.spotify.com/artist/3AMFuyddNOacTR1XVAx8b2) | [Daylight](https://open.spotify.com/album/2fSnPDUWF2bYTbiPjHNgUS) | 3:35 | 2026-05-22 | 2026-07-19 |
 | [Days go by \(Lost\)](https://open.spotify.com/track/6moyAEoIcPqI8HPVkVKTcn) | [TeoT](https://open.spotify.com/artist/4IVsxJI83GRiIx0S2qWV6E) | [Days go by \(Lost\)](https://open.spotify.com/album/0lssnlmSTX50erZ6CLv30s) | 3:32 | 2026-06-01 | 2026-07-03 |
@@ -1338,6 +1339,7 @@
 | [The Morning](https://open.spotify.com/track/6AvJQ7MB7BwSr7ZoTkHYf4) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Morning](https://open.spotify.com/album/5wxzMqAHFsxQ4K1h1bWJxW) | 3:05 | 2026-06-01 | 2026-07-03 |
 | [The Mother Queen](https://open.spotify.com/track/7DBHGfn4d81ewfxrR6bnI1) | [C Sid](https://open.spotify.com/artist/1Eus7ZGhBokA7SGOfamkO4) | [The Mother Queen](https://open.spotify.com/album/7vecgHo5Q44U89qealMXgJ) | 2:51 | 2026-05-07 | 2026-06-05 |
 | [The Mountain](https://open.spotify.com/track/3DDetDGP3ZvMJIMfJysKZR) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Giacomix](https://open.spotify.com/artist/13YgeIS5yCZzeyCOCMFRcq) | [The Mountain](https://open.spotify.com/album/4I7613bNReYyDBDHblVRfF) | 2:52 | 2023-11-23 | 2025-11-29 |
+| [The Night King](https://open.spotify.com/track/5B0DwY2VIX18JorYc9K5bq) | [Andora Mercury](https://open.spotify.com/artist/7HrxL4YrxURFDDfTVNhh35) | [The Night King](https://open.spotify.com/album/2IsPWKKBYD1sa1S9Tm54xq) | 5:26 | 2026-10-07 |  |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2026-03-02 | 2026-03-25 |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2026-01-06 | 2026-02-03 |
 | [The Pink Burger Bar \(Part 2\)](https://open.spotify.com/track/7IX0NcCDjMc3zqkNAHkw1O) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [The Good Old Days \(A Rock 'N' Roll Story\)](https://open.spotify.com/album/5cGl6Se6BNFjkuBarUWsOw) | 8:04 | 2026-02-24 | 2026-03-25 |

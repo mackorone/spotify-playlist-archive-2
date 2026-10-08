@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,718 likes - 56 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,757 likes - 56 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 23 | [ドラマツルギー](https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [文化](https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d) | 3:58 |
 | 24 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 25 | [恋する](https://open.spotify.com/track/6m5ODmf7M100cdFuw1OCgP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO](https://open.spotify.com/album/6ineopVBzzqfA3aHovGRPx) | 6:12 |
-| 26 | [気分上々↑↑](https://open.spotify.com/track/7tkfkqKfWtU1GIoV9IY9rQ) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimagic](https://open.spotify.com/album/3ta4Q6tlcEw3PnP3Szxi7l) | 3:49 |
+| 26 | [気分上々↑↑](https://open.spotify.com/track/7tkfkqKfWtU1GIoV9IY9rQ) | [mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimagic](https://open.spotify.com/album/3ta4Q6tlcEw3PnP3Szxi7l) | 3:49 |
 | 27 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 |
 | 28 | [輝きだして走ってく](https://open.spotify.com/track/0I5vZgR5dzOyKrBZNO043W) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ラブ＆ピース！マスターピース！](https://open.spotify.com/album/3BZN3OZTFjJGa0OH0Fo84z) | 4:31 |
 | 29 | [エンジェルベイビー](https://open.spotify.com/track/1chQj8QU3onRnLz9dGuCwk) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [ねえみんな大好きだよ](https://open.spotify.com/album/02oMXyO7O6Xz0yJ3VwOXkX) | 4:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,259 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,300 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 |
 | 50 | [Pretty Fly \(For A White Guy\) \- 8onthebeat Mix](https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [Pretty Fly \(For A White Guy\) \[8onthebeat Mix\]](https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0) | 2:50 |
 
-Snapshot ID: `asGXAAAAAACZXft61RJ89bZLONPLvZmE`
+Snapshot ID: `asLogAAAAAB3qVCSFfkptrERixrBXck3`

@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Aterciopelados y Manuel Medrano en portada. ",
-  "num_followers": 956472,
+  "num_followers": 956473,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-10-02 06:00:08",
       "album": {
-        "name": "Porfiado",
-        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "Enamorado tuyo",
-      "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
-    },
-    {
-      "added_at": "2026-10-02 06:00:08",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2026-10-02 06:00:08",
+      "album": {
+        "name": "Porfiado",
+        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "Enamorado tuyo",
+      "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
     },
     {
       "added_at": "2026-10-02 06:00:08",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-02 06:00:08",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2026-10-02 06:00:08",
-      "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 160786,
       "name": "El Colmo",
       "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+    },
+    {
+      "added_at": "2026-10-02 06:00:08",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2026-10-02 06:00:08",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-10-02 06:00:08",
       "album": {
-        "name": "Te Quiero Tanto",
-        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
-    },
-    {
-      "added_at": "2026-10-02 06:00:08",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2026-10-02 06:00:08",
+      "album": {
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "added_at": "2026-10-02 06:00:08",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-10-02 06:00:08",
       "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "added_at": "2026-10-02 06:00:08",
+      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 185969,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
-    },
-    {
-      "added_at": "2026-10-02 06:00:08",
-      "album": {
-        "name": "Laberinto",
-        "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
-      },
-      "artists": [
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        },
-        {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
     },
     {
       "added_at": "2026-10-02 06:00:08",

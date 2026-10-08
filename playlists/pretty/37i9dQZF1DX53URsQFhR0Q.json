@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 13089,
+  "num_followers": 13099,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 331520,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 244297,
       "name": "Ayeyi",
       "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Mahunu Awurade",
-        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 359366,
-      "name": "Okura Yen Mu",
-      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Mahunu Awurade",
+        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 359366,
+      "name": "Okura Yen Mu",
+      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Yesu Do",
         "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 350328,
       "name": "Yesu Do",
       "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 314148,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 314148,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 378666,
       "name": "Ayeyi Ndowm",
       "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 331520,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
     }
   ],
   "unique_name": "Ghana Gospel Classics",

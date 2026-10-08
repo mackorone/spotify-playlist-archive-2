@@ -4,7 +4,7 @@
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 38 min
+115 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Sophisticated People](https://open.spotify.com/track/0D5wgYnKiroy17K8SxwAOS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 0:49 | 2025-09-26 | 2025-10-08 |
 | [Still Don't Know My Name \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2023-12-18 |  |
 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 | 2026-02-01 | 2026-05-31 |
+| [Studio](https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [You&I](https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8) | 5:10 | 2026-10-08 |  |
 | [TARENTINO](https://open.spotify.com/track/3Z26mHKpT1gqU2gj7eFfsS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [TARENTINO](https://open.spotify.com/album/2hizWLYL5xaA5gTlW17mRg) | 2:23 | 2026-05-20 | 2026-08-07 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-12-18 |  |
 | [The Joy](https://open.spotify.com/track/3pk35boHOZ1GGJTtkDfRyG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 0:38 | 2025-09-21 | 2025-10-18 |
@@ -117,7 +118,7 @@
 | [Welcome To The Kitchen](https://open.spotify.com/track/4z4gjb8B78l03WVnPvcTCN) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:53 | 2024-03-30 | 2024-05-08 |
 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 | 2024-06-24 |  |
 | [When I R.I.P\. \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2023-12-18 |  |
-| [WHEN YOU WALK IN](https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:28 | 2026-05-31 |  |
+| [WHEN YOU WALK IN](https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:28 | 2026-05-31 | 2026-10-08 |
 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 | 2023-12-18 | 2026-01-24 |
 | [Wonder](https://open.spotify.com/track/609YdoBLzKY7XPmgBdEVur) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 0:49 | 2025-09-22 | 2025-10-21 |
 | [WTF Are We Talking For \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:51 | 2023-12-18 |  |

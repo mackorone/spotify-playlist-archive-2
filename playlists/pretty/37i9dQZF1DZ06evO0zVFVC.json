@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 114757,
+  "num_followers": 114768,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAB9Ng2KHCJL7R+wGwv+rG8e",
+  "snapshot_id": "asLogAAAAAA6kTjCt3zTdrvapa+AGmyg",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 248506,
-      "name": "Dream Run",
-      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
+      "duration_ms": 169960,
+      "name": "Old Ghost / New Regrets",
+      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Old Ghost / New Regrets",
-      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
+      "duration_ms": 248506,
+      "name": "Dream Run",
+      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
     },
     {
       "added_at": null,

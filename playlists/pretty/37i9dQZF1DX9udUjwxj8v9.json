@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154392,
+  "num_followers": 154396,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 371720,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 371720,
-      "name": "Vai Passar",
-      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
     },
     {
       "added_at": "2025-07-11 03:00:07",

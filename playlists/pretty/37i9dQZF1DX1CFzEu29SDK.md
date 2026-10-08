@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,049 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,054 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 37 | [Hypnotized](https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Hypnotized](https://open.spotify.com/album/6Ohvh7RHzKlIPAdP4mCnk4) | 2:53 |
 | 38 | [Goodies](https://open.spotify.com/track/5TcsyxRBkIjgmaoSW9oaZL) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Goodies](https://open.spotify.com/album/4y9b6DMmobsAxtUvMO7xcT) | 3:13 |
 | 39 | [High](https://open.spotify.com/track/3IzSO4wN8JlC0HxulQUhmM) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Lost In Music](https://open.spotify.com/album/51da1nUSWtm7kA6JZuu6lT) | 3:27 |
-| 40 | [Feels So Good](https://open.spotify.com/track/3ZvuFT8oS8BmqjZItKp3eL) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/6YNZCaWoEmuYwUPY9Llw3W) | 3:25 |
+| 40 | [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 |
 | 41 | [Meditate](https://open.spotify.com/track/1yDN2njLd5Zw8dDbKAjNmJ) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Meditate](https://open.spotify.com/album/4xkTdct1zQ7qiLiRzQGM9H) | 4:40 |
 | 42 | [And 1](https://open.spotify.com/track/6ZULC5YOF7yG1d5cwzIsZH) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/7DrvIL7jOIquTMgzqHWs7e) | 3:31 |
 | 43 | [Blessings \- Max Styler Remix](https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Blessings \(Max Styler Remix\)](https://open.spotify.com/album/0b2lrcEdueqWOAzyeAKScs) | 4:03 |

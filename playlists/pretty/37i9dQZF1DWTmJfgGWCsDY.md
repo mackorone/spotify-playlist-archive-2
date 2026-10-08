@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,064 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,079 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 8 | [Hujanizidi \(feat\. D Voice\)](https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 4:18 |
 | 9 | [Mama Yangu](https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [D Voice](https://open.spotify.com/artist/49mdQ4LqDjjUPSJ3p5Kc6G), [Mzee Wa Bwax](https://open.spotify.com/artist/3foxaOijucHOO507Jr6ZKO) | [Mama Yangu](https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV) | 3:47 |
 | 10 | [Asumani](https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 4:26 |
-| 11 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 |
+| 11 | [Ma Mkali](https://open.spotify.com/track/65a0cI6yNHO7MvH5atTJFF) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Ma Mkali](https://open.spotify.com/album/6rr9uYBdz4SQhOLswkYAf8) | 2:53 |
 | 12 | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa) | 3:45 |
 | 13 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 |
-| 14 | [Ma Mkali](https://open.spotify.com/track/65a0cI6yNHO7MvH5atTJFF) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Ma Mkali](https://open.spotify.com/album/6rr9uYBdz4SQhOLswkYAf8) | 2:53 |
+| 14 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 |
 | 15 | [Kumaanisha](https://open.spotify.com/track/0IUs3wdZqecx0kbMYalDGN) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Miso Misondo](https://open.spotify.com/artist/0MySoFNgP3EPr2tpsJt1TB) | [Kumaanisha](https://open.spotify.com/album/02ZhLZurEes9v5vagfGyJf) | 3:34 |
 | 16 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
 | 17 | [Nitafanyaje](https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitafanyaje](https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK) | 4:43 |

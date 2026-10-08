@@ -1,6 +1,6 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6686,
+  "num_followers": 6684,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bargain Store",
-        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "The Bargain Store",
-      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 199872,
+      "name": "But You Know I Love You",
+      "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 199872,
-      "name": "But You Know I Love You",
-      "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwoods Barbie",
-        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Backwoods Barbie",
-      "url": "https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/3NtCIBBz5pEAVGeHL4h5mS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backwoods Barbie",
+        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Backwoods Barbie",
+      "url": "https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj"
     },
     {
       "added_at": null,

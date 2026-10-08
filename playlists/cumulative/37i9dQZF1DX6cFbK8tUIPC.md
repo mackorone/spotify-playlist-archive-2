@@ -4,10 +4,11 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-412 songs - 1 day 2 hr 5 min
+413 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym) | 2:55 | 2026-09-17 |  |
 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 | 2021-12-03 |  |
 | [4th of july](https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [4th of july](https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W) | 2:58 | 2026-09-17 |  |
 | [501](https://open.spotify.com/track/5Tp6cM02TFg9K1aLKjbeQO) | [Mehalah Ray](https://open.spotify.com/artist/2FyrB3pGnBmM38dqsu4qXK) | [501](https://open.spotify.com/album/02SQmWh56gUEjYFWJjrzhO) | 3:14 | 2021-12-03 | 2022-08-27 |
@@ -282,7 +283,7 @@
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-08-18 |  |
 | [Please Be Rude](https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz) | 3:00 | 2024-08-18 | 2024-12-03 |
 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 | 2022-10-13 | 2024-10-04 |
-| [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-28 |  |
+| [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-28 | 2026-10-08 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 |  |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-23 |  |
 | [racetrack](https://open.spotify.com/track/48yA757PIMqJsXhP1snqso) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/0RuT3dmCkAsXkurFEXAjfV) | 4:12 | 2021-12-03 | 2022-07-29 |

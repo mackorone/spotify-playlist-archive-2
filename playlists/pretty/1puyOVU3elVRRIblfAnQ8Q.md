@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,377 likes - 27 songs - 1 hr 31 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,379 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 25 | [LOUDER](https://open.spotify.com/track/4A4wA0F85XSq1UKGv1LVUf) | [MARAH](https://open.spotify.com/artist/0OXsxd2Fe85OZ36uZ6xTrX), [Ugly Lungs](https://open.spotify.com/artist/1BiUgJVxbBtF78mCtRotnR) | [LULA](https://open.spotify.com/album/1CoTWgIvn7X3rnejHpVAlm) | 2:42 |
 | 26 | [Fly Around The World](https://open.spotify.com/track/2cixPuobPuptDpMAJE4OmD) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03) | [Return to the Return \(of the Spectrum of Intergalactic Happiness\)](https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz) | 3:35 |
 | 27 | [Get Dark](https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [14ZERO V2](https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw) | 4:12 |
+| 28 | [Dimension](https://open.spotify.com/track/74jUGc8wu6oiBrMqhqDQ3b) | [COSTA](https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX) | [Dimension](https://open.spotify.com/album/33OIvCtt4T2uisA9vkMAtX) | 3:10 |
 
-Snapshot ID: `AAAXoozLdeEl1tYZ0nTi9vVjzxJljkAa`
+Snapshot ID: `AAAXo0nMrFWIRGVBLvdhNLLzjPPf6Qp6`

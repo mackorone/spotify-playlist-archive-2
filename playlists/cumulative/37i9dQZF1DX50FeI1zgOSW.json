@@ -7055,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "Kannaale",
+        "url": "https://open.spotify.com/album/5tvDQgdVjbw20ggs9ZGvl5"
+      },
+      "artists": [
+        {
+          "name": "Harsh",
+          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200943,
+      "name": "Kannaale",
+      "url": "https://open.spotify.com/track/4n9zZCRGvyOoosqQ44DdWw"
+    },
+    {
+      "album": {
         "name": "Kannaamoochi",
         "url": "https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s"
       },

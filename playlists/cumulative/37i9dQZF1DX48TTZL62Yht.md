@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Quavo & Takeoff 🕊
 
-913 songs - 1 day 23 hr 49 min
+914 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2022-01-07 | 2023-04-28 |
 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 | 2025-01-31 | 2025-03-27 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-04-12 |  |
+| [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 | 2026-10-07 |  |
 | [AHHH HA](https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:06 | 2022-04-29 | 2022-07-29 |
 | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/track/5kOtqz124oPZywUW8y6Y8e) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/album/0gsfeIGILTNaz9JRH87yhf) | 2:13 | 2022-04-29 | 2022-04-30 |
 | [Air Ali](https://open.spotify.com/track/6qNPcUFKv6BkPPxnpyPSXT) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [Air Ali](https://open.spotify.com/album/6EITDgzMZrxsxkIatQZPVp) | 2:59 | 2022-04-08 | 2022-04-15 |
@@ -53,7 +54,7 @@
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-08-17 | 2024-01-05 |
 | [Another One](https://open.spotify.com/track/61yVuIg22sGsM7OOVtYbGM) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [Another One](https://open.spotify.com/album/2mPZ3yFGZonlwtkxEVCNaC) | 3:07 | 2022-04-01 | 2022-04-17 |
 | [Anti\-Hero \(feat\. Lil Tecca\)](https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 3:12 | 2022-04-22 | 2022-06-14 |
-| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-06-11 |  |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-06-11 | 2026-10-08 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-07-12 | 2026-08-15 |
 | [Anything Can Happen \(feat\. Meek Mill\)](https://open.spotify.com/track/04VO6VICgMJgTe2dLxFBoW) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Anything Can Happen \(feat\. Meek Mill\)](https://open.spotify.com/album/5DToNHmi1v9YZacvKqg7aG) | 3:06 | 2022-04-01 | 2022-05-05 |
 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 | 2022-01-07 | 2022-07-24 |

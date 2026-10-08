@@ -4668,7 +4668,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
@@ -20414,7 +20414,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
@@ -25524,7 +25524,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -30004,7 +30004,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 196200,
       "name": "Poludyavash",
       "url": "https://open.spotify.com/track/0L3m1FUTqFKEDQg0N2Io3d"
@@ -34958,7 +34958,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 255082,
       "name": "SPIDERMAN",
       "url": "https://open.spotify.com/track/5rMcccz09zBOPrG0g36WgI"
@@ -37210,7 +37210,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 223640,
       "name": "TARIKATA",
       "url": "https://open.spotify.com/track/1OeTR8wDWJdWX5l1g8lHb9"
@@ -44248,7 +44248,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 158439,
       "name": "\u0411\u0435\u0437 \u0442\u0435\u0431",
       "url": "https://open.spotify.com/track/4cLi9bZRMvDITlmKdo6D2l"
@@ -45062,7 +45062,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -46332,6 +46332,32 @@
       "duration_ms": 220018,
       "name": "\u0417\u0430\u043c\u0438\u043d\u0430\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/47D0tkBUI35kexoT7wDt5u"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u043f\u0430\u043b\u0438",
+        "url": "https://open.spotify.com/album/57D0JJaFINKs47PGw02IHs"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Anelia",
+          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191611,
+      "name": "\u0417\u0430\u043f\u0430\u043b\u0438",
+      "url": "https://open.spotify.com/track/4xotaRvF1RlAD9AETAOhmg"
     },
     {
       "album": {
@@ -48002,7 +48028,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -50712,7 +50738,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 224084,
       "name": "\u0421\u0430\u043a\u043e\u0432\u0435",
       "url": "https://open.spotify.com/track/1hDHWk74RPmGwgkWEHiFjU"
@@ -51600,6 +51626,32 @@
       "duration_ms": 214222,
       "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/5btaxbk6nG46VQTyLpBxTu"
+    },
+    {
+      "album": {
+        "name": "MOM4ETO & B.N.R. CLASSICS",
+        "url": "https://open.spotify.com/album/3qDz35fUYM9HFgXpqCj8tD"
+      },
+      "artists": [
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        },
+        {
+          "name": "Bandata Na Ruba",
+          "url": "https://open.spotify.com/artist/12fCNCkYtNfyBZ3zjFGri8"
+        },
+        {
+          "name": "Kapo Verde",
+          "url": "https://open.spotify.com/artist/0m41FRX6OXfMpFt21K0i2q"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245446,
+      "name": "\u0422\u0440\u0430\u043f\u0430 \u043c\u0438",
+      "url": "https://open.spotify.com/track/6MQxGNer5C2FhS7tUwYEWQ"
     },
     {
       "album": {

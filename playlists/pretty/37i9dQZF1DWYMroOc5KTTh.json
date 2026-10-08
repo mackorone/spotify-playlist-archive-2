@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 768995,
+  "num_followers": 769055,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
+        "name": "Want You In My Soul (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Want You In My Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
-        "name": "Want You In My Soul (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Want You In My Soul - Radio Edit",
-      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "You Don't Want To Think About It",
-        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "You Don't Want To Think About It",
-      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
+        "name": "You Don't Want To Think About It",
+        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "You Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -859,22 +859,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2"
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
       },
       "artists": [
         {
-          "name": "All Saints",
-          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
         }
       ],
-      "duration_ms": 239542,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
+      "duration_ms": 179962,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
     },
     {
       "added_at": "2026-10-02 00:00:02",

@@ -4,7 +4,7 @@
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-51 songs - 1 hr 59 min
+52 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [Fizzdrop](https://open.spotify.com/track/14l5zv6ljXUgG3bfYmCljP) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Fizzdrop](https://open.spotify.com/album/03mzD1HsaCjfPvZQcu2awn) | 2:17 | 2026-05-27 |  |
 | [Geometry](https://open.spotify.com/track/3iB3wVJbMV3GjJa3SghSR3) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Geometry](https://open.spotify.com/album/7mAEFzO9Wf3BwMpWkA4OJ4) | 2:16 | 2026-05-27 |  |
 | [Habits](https://open.spotify.com/track/2GBOlsQRQynDzeuTNWCvVF) | [Noah Lawson](https://open.spotify.com/artist/0GGKMt9COJEt10CUAzW3Xj) | [Habits](https://open.spotify.com/album/0Tx9gtyKaRUd87FTajvuLp) | 2:46 | 2026-05-27 |  |
+| [Holding Summer](https://open.spotify.com/track/5ZUx78hm9XN1v70L8dCmyS) | [Cosmaze](https://open.spotify.com/artist/2YDkCihFfpTg9FrAwuPlKP) | [Holding Summer](https://open.spotify.com/album/3OYy4GjhWYBnSYV6AQm3Mz) | 2:16 | 2026-10-07 |  |
 | [Indigo](https://open.spotify.com/track/0yc5pVgdI8yCbPuroxp911) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [Indigo](https://open.spotify.com/album/3ZniDstsBIyfYxhWE9R9UE) | 2:08 | 2026-05-27 |  |
 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 | 2026-05-27 |  |
 | [Living Room](https://open.spotify.com/track/3vGS0sfnp8S1SrGXqszidm) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Living Room](https://open.spotify.com/album/08he1bk5NzCxEe1Bk9lMqK) | 2:44 | 2026-05-27 |  |
 | [Lobelia](https://open.spotify.com/track/2pO4Kb4HPX7vQnQUAvHG86) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Lobelia](https://open.spotify.com/album/6I08BBhVDuciHjiJa9vxiH) | 3:12 | 2026-05-27 |  |
-| [lovely morning](https://open.spotify.com/track/3mODe8MBd0StYKdkUs5npa) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [lovely morning](https://open.spotify.com/album/1dUu68GRChtxkVxEIdbWvW) | 1:43 | 2026-05-27 |  |
+| [lovely morning](https://open.spotify.com/track/3mODe8MBd0StYKdkUs5npa) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [lovely morning](https://open.spotify.com/album/1dUu68GRChtxkVxEIdbWvW) | 1:43 | 2026-05-27 | 2026-10-08 |
 | [lovers](https://open.spotify.com/track/4JBrmVKqJHhbs4CvQFbPkC) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo) | [lovers](https://open.spotify.com/album/00k0V70BU84faZOhqZNcPt) | 2:19 | 2026-05-27 |  |
 | [Low Sun, Slow Notes](https://open.spotify.com/track/5noXj5J7G4vQnssZ7UPpHf) | [Theo Solin](https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly) | [Low Sun, Slow Notes](https://open.spotify.com/album/7dfqjYLmBSiBKjNxf0WmvE) | 2:59 | 2026-05-27 |  |
 | [melbourne st.](https://open.spotify.com/track/10qRBYJMNMDlnZU3cBQOEz) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [melbourne st.](https://open.spotify.com/album/2Nl9XRaQ2eUXcd2Amr4BOZ) | 2:24 | 2026-05-27 |  |

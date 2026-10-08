@@ -7448,7 +7448,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 185000,
       "name": "Song of the Forest",
       "url": "https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz"
@@ -8356,6 +8356,24 @@
       "duration_ms": 151666,
       "name": "To Walk Alone",
       "url": "https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl"
+    },
+    {
+      "album": {
+        "name": "Topaz Nature",
+        "url": "https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be"
+      },
+      "artists": [
+        {
+          "name": "Sheila Dawn",
+          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Topaz Nature",
+      "url": "https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK"
     },
     {
       "album": {

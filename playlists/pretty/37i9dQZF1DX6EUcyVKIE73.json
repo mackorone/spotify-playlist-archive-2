@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92467,
+  "num_followers": 92472,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -515,42 +515,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
-      },
-      "artists": [
-        {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        }
-      ],
-      "duration_ms": 449320,
-      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Music of the Pastoral, Vol. 1",
         "url": "https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ"
       },
@@ -571,6 +535,42 @@
       "duration_ms": 729660,
       "name": "Raga Mishra Manjh Khamaj: Chhitak Junaiya (Pasar Ke Geet: Laoni Taal)",
       "url": "https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
+      },
+      "artists": [
+        {
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        }
+      ],
+      "duration_ms": 449320,
+      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
     },
     {
       "added_at": "2026-07-29 09:24:36",

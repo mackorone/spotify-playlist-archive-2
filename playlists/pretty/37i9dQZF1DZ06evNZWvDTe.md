@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,197 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,203 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 |
 | 50 | [Sika](https://open.spotify.com/track/08k1vfVq9tiN1fRUMWGnS7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sika](https://open.spotify.com/album/6w3cZP8pDu7R5wQjgsqeXj) | 4:42 |
 
-Snapshot ID: `asGXAAAAAAAwq5U7vg0fOfZZPeiJ7ucb`
+Snapshot ID: `asLogAAAAAANZPymNGhw+22qyP1jsHHF`

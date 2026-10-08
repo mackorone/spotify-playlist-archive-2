@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 138000,
       "name": "A1 GO",
       "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
@@ -8275,6 +8275,28 @@
     },
     {
       "album": {
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/6D1GOWHUaPAJpbRuHnGiH9"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/22roUAQiFGI1Gug73QMHzl"
+    },
+    {
+      "album": {
         "name": "Killer - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv"
       },
@@ -12518,7 +12540,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 299428,
       "name": "ROOTS - Spotify Singles",
       "url": "https://open.spotify.com/track/00XLDzc8k0TQ8ge8m1PWrX"

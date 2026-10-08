@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40390,
+  "num_followers": 40392,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAAwvy15ajKhF0xKUEXkkPGo",
+  "snapshot_id": "asLogAAAAAAU+Y7zFyHGdkrt/HACa6tk",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder: Book III",
-        "url": "https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 120765,
-      "name": "Sugarcoat",
-      "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 290115,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder: Book III",
+        "url": "https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 120765,
+      "name": "Sugarcoat",
+      "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 304560,
       "name": "Runnin (From \"Creed II\" Soundtrack) (feat. A$AP Rocky & Jacob Banks)",
       "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II (Score & Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm A Dream",
         "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 94250,
       "name": "Little Me",
       "url": "https://open.spotify.com/track/2BMFAD4WXacofHYUrRwSUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+      "duration_ms": 160590,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder: Book I",
-        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 160590,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,
@@ -864,25 +864,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 76840,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+      "duration_ms": 270922,
+      "name": "Easy Ain't Home",
+      "url": "https://open.spotify.com/track/2aRkTVqf51JT2al8uWLo5h"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 230120,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/6i9Y0BUxejRaa1oiQK6cqf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     }
   ],
   "unique_name": "This Is Jacob Banks",

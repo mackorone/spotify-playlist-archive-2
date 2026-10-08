@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-327 songs - 20 hr 29 min
+333 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Alone](https://open.spotify.com/track/0k1C7p9IVaMMvrp4pAJ0f3) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [All Alone](https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC) | 3:46 | 2025-10-29 | 2025-12-28 |
 | [Almas Crueles](https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo) | [MARSEYA](https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg) | [Almas Crueles](https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE) | 5:24 | 2026-03-20 | 2026-05-19 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
+| [Always On](https://open.spotify.com/track/0lCf9xdDEjxDj8nGSFPI5C) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Always On](https://open.spotify.com/album/3RnUYqUywR0C0wgTo4Nt6T) | 2:56 | 2026-10-07 |  |
 | [An Hour On Delay](https://open.spotify.com/track/3GC3JnqOwc5uV0A6s42o66) | [Black Kanyon](https://open.spotify.com/artist/54UZzpSfWxcX54oMl2lBzV) | [Two Hours On Delay](https://open.spotify.com/album/31AcmtoYuJ6TbsOPgA97ql) | 3:30 | 2026-06-06 | 2026-08-08 |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-06-16 | 2026-08-08 |
 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 | 2026-06-29 | 2026-08-08 |
@@ -109,6 +110,7 @@
 | [Espérame](https://open.spotify.com/track/02MC4VLfrsNdMcS4gwjph1) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Espérame](https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA) | 3:26 | 2025-10-11 | 2026-03-21 |
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 | 2025-12-28 |
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
+| [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 | 2026-10-07 |  |
 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 | 2026-05-19 |
 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
 | [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 | 2026-09-10 |  |
@@ -162,6 +164,7 @@
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-06 | 2025-12-28 |
 | [Ikaros](https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Ikaros](https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2) | 4:21 | 2026-07-06 | 2026-08-08 |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
+| [Inside](https://open.spotify.com/track/2OfhgQDlDez0yPOQZEc60G) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Inside](https://open.spotify.com/album/3CAp4acIzCXeGfpmQ8zqUo) | 5:02 | 2026-10-07 |  |
 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-05-27 |  |
 | [It's Hard To Break Me](https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:11 | 2025-09-30 | 2026-03-21 |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-12 |  |
@@ -201,6 +204,7 @@
 | [Money Makes Money](https://open.spotify.com/track/7262GNW8eQtESLlmOY5dy8) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:36 | 2026-01-06 | 2026-02-02 |
 | [Money Tied The Knot](https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 2:24 | 2026-03-19 | 2026-05-19 |
 | [Monkfish](https://open.spotify.com/track/4BvBGq0OroqEMATekQq2EW) | [Salad Days.](https://open.spotify.com/artist/1ogzEwTOLBa4ryvx0xgbP1) | [Monkfish](https://open.spotify.com/album/3l2BZD1mTenRPY5wkJRblP) | 4:01 | 2026-01-15 | 2026-02-23 |
+| [Montón de Estrellas](https://open.spotify.com/track/4vaSK9RbyvcBQEyDtVisBA) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr), [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Bailando Con El Dolor](https://open.spotify.com/album/2M2iwFTPg0rk0gdzYf57uK) | 3:06 | 2026-10-07 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-12-23 | 2026-01-21 |
 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 | 2026-01-21 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-10-02 |  |
@@ -255,6 +259,7 @@
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 | 2026-08-08 |
 | [Revenge](https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Revenge](https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu) | 4:59 | 2026-01-17 |  |
 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-08-22 | 2026-09-25 |
+| [Right Decision \- Remastered](https://open.spotify.com/track/3UGPBZMouJqeuPoRNNyVNz) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Right Decision \(Remastered\)](https://open.spotify.com/album/5Q5EZatUiY8iMKRVYgcJ60) | 4:28 | 2026-10-07 |  |
 | [Rise](https://open.spotify.com/track/7mYCsCoJSehy39yICnduge) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Rise](https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf) | 4:22 | 2026-09-27 |  |
 | [Rooftops](https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Rooftops](https://open.spotify.com/album/2300qonTPP24PHDOv62WqB) | 3:25 | 2026-01-22 | 2026-02-23 |
 | [Royal Kush](https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush](https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr) | 3:37 | 2026-04-06 |  |
@@ -286,6 +291,7 @@
 | [Sunday Lazy Afternoon](https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t) | [Johnny & The G\-Men](https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6) | [Sunday Lazy Afternoon](https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB) | 4:52 | 2025-12-25 | 2026-01-21 |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2026-07-01 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 | 2025-12-28 |
+| [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 | 2026-10-07 |  |
 | [take me to the other side](https://open.spotify.com/track/7DVCnily4QAjO3jaaD6eGd) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [take me to the other side](https://open.spotify.com/album/44gz5UtRohvze3YuLSX224) | 4:13 | 2026-02-07 | 2026-05-17 |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |
 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 | 2026-05-07 | 2026-06-14 |

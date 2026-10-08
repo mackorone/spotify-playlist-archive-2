@@ -814,7 +814,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 299206,
       "name": "Jare Jare",
       "url": "https://open.spotify.com/track/4xZ8dDLwc8H3K5ZAJrRyR7"
@@ -896,6 +896,32 @@
       "duration_ms": 261012,
       "name": "Kanula Chatu Meghama",
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
+    },
+    {
+      "album": {
+        "name": "Don\u2019T Trouble The Trouble (Telugu)",
+        "url": "https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej"
+      },
+      "artists": [
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237951,
+      "name": "Laali Laali",
+      "url": "https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk"
     },
     {
       "album": {

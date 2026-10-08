@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
-  "num_followers": 100551,
+  "num_followers": 100630,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-02 07:57:15",
       "album": {
-        "name": "Salama",
-        "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
-      },
-      "artists": [
-        {
-          "name": "FirstKlaz",
-          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
-        }
-      ],
-      "duration_ms": 281025,
-      "name": "Salama",
-      "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
-    },
-    {
-      "added_at": "2026-10-02 07:57:15",
-      "album": {
         "name": "TOO HOT",
         "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 144000,
       "name": "TOO HOT",
       "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
+    },
+    {
+      "added_at": "2026-10-02 07:57:15",
+      "album": {
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "duration_ms": 281025,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
     },
     {
       "added_at": "2026-10-02 07:57:15",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-10-02 07:57:15",
       "album": {
-        "name": "The Wellness Package",
-        "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 197522,
-      "name": "Wuru Manya",
-      "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
-    },
-    {
-      "added_at": "2026-10-02 07:57:15",
-      "album": {
         "name": "Fire in your Eyes",
         "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
       },
@@ -1371,22 +1351,6 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-10-02 07:57:15",
-      "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
     },
     {
       "added_at": "2026-10-02 07:57:15",
@@ -1415,6 +1379,22 @@
     {
       "added_at": "2026-10-02 07:57:15",
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
+    },
+    {
+      "added_at": "2026-10-02 07:57:15",
+      "album": {
         "name": "God is working",
         "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 134000,
       "name": "God is working",
       "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+    },
+    {
+      "added_at": "2026-10-02 07:57:15",
+      "album": {
+        "name": "The Wellness Package",
+        "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 197522,
+      "name": "Wuru Manya",
+      "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {
       "added_at": "2026-10-02 07:57:15",

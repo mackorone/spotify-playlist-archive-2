@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 126735,
+  "num_followers": 126754,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAD2/5qZw+PdQrdCy1vdFWhT",
+  "snapshot_id": "asLogAAAAAAUmQNRhqrNC+/Tin0YMavK",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 185320,
+      "duration_ms": 255373,
       "name": "Por \u00daltima Vez",
-      "url": "https://open.spotify.com/track/5PcxSiAkPMddMVLy2XdvAT"
+      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amar o Morir",
-        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Brindo por ti",
-      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+      "duration_ms": 226760,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+        "name": "Amar o Morir",
+        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+      "duration_ms": 252266,
+      "name": "Brindo por ti",
+      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226466,
       "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,

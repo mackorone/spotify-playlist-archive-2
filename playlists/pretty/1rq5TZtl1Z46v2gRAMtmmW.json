@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32023,
+  "num_followers": 32025,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAASMtFXlJPzm9MFB755ngEzYvZ6eaUq",
+  "snapshot_id": "AAASMzRng/0xg4uHBXNpC6kFKMvThlF9",
   "tracks": [
     {
       "added_at": "2026-09-25 11:32:39",
@@ -1278,6 +1278,14 @@
         {
           "name": "ZAINAB",
           "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        },
+        {
+          "name": "Zainab DiStasio",
+          "url": "https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d"
+        },
+        {
+          "name": "Joseph Pincus",
+          "url": "https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3"
         }
       ],
       "duration_ms": 185266,
@@ -1771,6 +1779,26 @@
       "duration_ms": 223461,
       "name": "Houston",
       "url": "https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i"
+    },
+    {
+      "added_at": "2026-10-07 21:13:56",
+      "album": {
+        "name": "Moving at Light Speed",
+        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        }
+      ],
+      "duration_ms": 107402,
+      "name": "Moving at Light Speed",
+      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

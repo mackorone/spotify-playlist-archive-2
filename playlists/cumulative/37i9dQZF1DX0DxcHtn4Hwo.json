@@ -10868,6 +10868,10 @@
       },
       "artists": [
         {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
           "name": "John B. Lund",
           "url": "https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW"
         }
@@ -10876,7 +10880,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 94000,
-      "name": "London Bridge (Piano Version)",
+      "name": "London Bridge Is Falling Down (Piano Version)",
       "url": "https://open.spotify.com/track/53OUBSsdeNaLWBlJgsCmCf"
     },
     {

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,314 songs - 3 day 0 hr 47 min
+1,316 songs - 3 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Back 2 The Rave](https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Back 2 The Rave](https://open.spotify.com/album/3Uf3ZTYmR2zZaf4pYCxnwi) | 3:59 | 2025-03-14 | 2025-06-13 |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [Back To The Stars](https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Back To The Stars](https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF) | 3:42 | 2025-12-18 | 2026-04-08 |
+| [Back To You](https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Back To You](https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02) | 2:54 | 2026-10-07 |  |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Backseat Lovers](https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Melodramatic](https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7) | 2:52 | 2023-06-28 | 2023-09-26 |
 | [Bad For Me](https://open.spotify.com/track/72GaBNHL9g2LesqytanNbC) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Bad For Me](https://open.spotify.com/album/0sElqM1Zj7aQ2nvhI5MkVF) | 2:48 | 2026-08-06 |  |
@@ -385,6 +386,7 @@
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
 | [FADEAWAY](https://open.spotify.com/track/7uL3j02IAUGhqcBZdkpXJt) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [FADEAWAY](https://open.spotify.com/album/3EQJvXNmXb3CVFgOBbnOB6) | 3:17 | 2026-07-15 |  |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
+| [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 | 2026-10-07 |  |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Fall Apart](https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Fall Apart](https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt) | 3:07 | 2026-01-22 | 2026-05-13 |

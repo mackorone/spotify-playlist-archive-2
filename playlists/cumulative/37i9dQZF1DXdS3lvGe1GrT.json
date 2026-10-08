@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Cicada",
+  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 194519,
       "name": "Backroads",
       "url": "https://open.spotify.com/track/7hThw8u62Hy5LLIGSyHyAe"
@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Lightspheres on Their Way",
+        "url": "https://open.spotify.com/album/4raaYds0i8Z9Ai0njZ9Dwf"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Bindlestiff",
+      "url": "https://open.spotify.com/track/5ISZ5PHuaHMbRTLdwden0M"
+    },
+    {
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/1PNNzPuio6ikBfR8HdvxYk"
       },
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 170099,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/3MAaZKo0cUzoIfruSltt9l"
@@ -4882,6 +4900,24 @@
       "duration_ms": 309360,
       "name": "Born",
       "url": "https://open.spotify.com/track/7HSc82EnQsKm6xM654eQri"
+    },
+    {
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
     },
     {
       "album": {
@@ -7406,7 +7442,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 189869,
       "name": "coreshadow",
       "url": "https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb"
@@ -7478,7 +7514,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 218366,
       "name": "Counting",
       "url": "https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM"
@@ -7680,7 +7716,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 227933,
       "name": "Cowboy Songs",
       "url": "https://open.spotify.com/track/0CH2FvRGL75Yqz9kXh574B"
@@ -7774,6 +7810,24 @@
       "duration_ms": 185714,
       "name": "CRM",
       "url": "https://open.spotify.com/track/6oWCVrmFhHy8OGc954jvjW"
+    },
+    {
+      "album": {
+        "name": "False Start",
+        "url": "https://open.spotify.com/album/33nc9qwpGnza77qfzq3Ky3"
+      },
+      "artists": [
+        {
+          "name": "tickertape",
+          "url": "https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263389,
+      "name": "Crocodile Song",
+      "url": "https://open.spotify.com/track/0RIh565Ij5Q81E6fLsmGiL"
     },
     {
       "album": {
@@ -9064,7 +9118,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 218559,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/7x59f5TXOxDm5Kn1FUJdJ5"
@@ -9756,6 +9810,24 @@
       "duration_ms": 200060,
       "name": "dog with a bone",
       "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
+    },
+    {
+      "album": {
+        "name": "Dogfight",
+        "url": "https://open.spotify.com/album/4v3ZGVMzEuJOdFxfC2A6eO"
+      },
+      "artists": [
+        {
+          "name": "Sterling Gavinski",
+          "url": "https://open.spotify.com/artist/17Ruw3s2qX8baiOxvui0Wj"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Dogfight",
+      "url": "https://open.spotify.com/track/3trZ0KrWIYczSbiIIUV6ge"
     },
     {
       "album": {
@@ -11370,6 +11442,24 @@
       "duration_ms": 171878,
       "name": "Everything I See",
       "url": "https://open.spotify.com/track/2gZRFg25uIVHRzgGt2M3CG"
+    },
+    {
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
     },
     {
       "album": {
@@ -15054,7 +15144,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 227774,
       "name": "Grow",
       "url": "https://open.spotify.com/track/7uPfQr3GC5BjXI3crF2YKB"
@@ -18224,7 +18314,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 230026,
       "name": "i've never been in love",
       "url": "https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y"
@@ -19436,7 +19526,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 235788,
       "name": "iwtfy",
       "url": "https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH"
@@ -19840,7 +19930,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 216026,
       "name": "Johnny Workman",
       "url": "https://open.spotify.com/track/7MAFfhdDQMSyb0wvA6eVhS"
@@ -21342,7 +21432,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 273840,
       "name": "Levers and Pulleys",
       "url": "https://open.spotify.com/track/4Lb8OAcJUZgJLj9rWh9zDs"
@@ -22676,7 +22766,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 126771,
       "name": "Luvbomb",
       "url": "https://open.spotify.com/track/5A0rbbC8fosaRl9hGBPDXb"
@@ -23758,7 +23848,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 143420,
       "name": "Microphone",
       "url": "https://open.spotify.com/track/6dxVW32LFhEiEAfqlDAPwD"
@@ -25073,6 +25163,28 @@
     },
     {
       "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/5fa1otJjfYvzP9zexN59Pt"
+      },
+      "artists": [
+        {
+          "name": "Caylan Hays",
+          "url": "https://open.spotify.com/artist/2jCGUSXTvCi26FKOg6c2Wr"
+        },
+        {
+          "name": "Liam Bauman",
+          "url": "https://open.spotify.com/artist/5GBhnp1l6ExGPwOQvrBbji"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273739,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/7s21E1OYlDi8nWxwYIMIpE"
+    },
+    {
+      "album": {
         "name": "Never Arriving",
         "url": "https://open.spotify.com/album/6V2hebqLjjuC88E4o7Zzef"
       },
@@ -26332,7 +26444,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 263577,
       "name": "Ocean Mother",
       "url": "https://open.spotify.com/track/6qwOdEszCVGF0sGNXXUfYw"
@@ -30201,6 +30313,24 @@
     },
     {
       "album": {
+        "name": "Sagittariat",
+        "url": "https://open.spotify.com/album/2HUtrf57btHtuhNoEfSvw5"
+      },
+      "artists": [
+        {
+          "name": "Foot Ox",
+          "url": "https://open.spotify.com/artist/4atG4dpAmj30iXyKHeEPVY"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Sagittariat",
+      "url": "https://open.spotify.com/track/465uoncwgyuj4N4XjoYrqd"
+    },
+    {
+      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
       },
@@ -30932,7 +31062,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 218181,
       "name": "Sheets to the Wind",
       "url": "https://open.spotify.com/track/0GfqEfxhVOvAZ0UwUpCjts"
@@ -30950,7 +31080,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 209493,
       "name": "Shelley",
       "url": "https://open.spotify.com/track/29ZNtU2ywgOYrUR6VFDzhs"
@@ -31520,6 +31650,24 @@
       "duration_ms": 191970,
       "name": "Skips & Rings",
       "url": "https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04"
+    },
+    {
+      "album": {
+        "name": "Sleep through it",
+        "url": "https://open.spotify.com/album/4NqWrqYzg0WNhsynYewMOj"
+      },
+      "artists": [
+        {
+          "name": "Lara",
+          "url": "https://open.spotify.com/artist/5Vj1lyFUjKd3xpF7BaCWmq"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Sleep through it",
+      "url": "https://open.spotify.com/track/5TlnSPRu6n0sFJj1B2S4ru"
     },
     {
       "album": {
@@ -32800,6 +32948,24 @@
       "duration_ms": 223540,
       "name": "Stay Here Forever",
       "url": "https://open.spotify.com/track/5Ef4WgvlJcoxhLIuwWo3KA"
+    },
+    {
+      "album": {
+        "name": "tiarn",
+        "url": "https://open.spotify.com/album/2Kt7Izz50rQVGCxalT4NQT"
+      },
+      "artists": [
+        {
+          "name": "Hana Stretton",
+          "url": "https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89429,
+      "name": "Stay Involved",
+      "url": "https://open.spotify.com/track/7uC5QG5bYdvFVGu2zdwT4R"
     },
     {
       "album": {
@@ -34518,7 +34684,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 244986,
       "name": "The Afterglow",
       "url": "https://open.spotify.com/track/7x9pmiucNJujRXZgN5MrjE"
@@ -35062,7 +35228,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 200730,
       "name": "The Ground Here",
       "url": "https://open.spotify.com/track/418czu4odsJIt9JabJYg2u"
@@ -35134,7 +35300,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 165084,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
@@ -40176,7 +40342,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 144356,
       "name": "You're Never Alone",
       "url": "https://open.spotify.com/track/3r2mLZ18tU8WH6XF7bUOqZ"

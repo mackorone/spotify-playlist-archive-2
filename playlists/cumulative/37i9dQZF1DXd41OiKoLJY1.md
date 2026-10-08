@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: LYLEE\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: The Sun\. Artwork: Isu Kim.
 
-4,162 songs - 10 day 3 hr 6 min
+4,164 songs - 10 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-08 | 2023-06-30 |
 | [Did You Really](https://open.spotify.com/track/70TGtsBvrVzWHzPHyuazaW) | [Raf Bernardino](https://open.spotify.com/artist/2PRqNiB7ZjbclKTtRN5WdX) | [Did You Really](https://open.spotify.com/album/5tlcHaL7f2lYJBC4UAEJKy) | 3:45 | 2024-09-19 | 2024-10-18 |
 | [Didya \(Dito\)](https://open.spotify.com/track/7J01KSeyaeW69UkI8Y3YFR) | [BADJII](https://open.spotify.com/artist/1KwB8pLfMb8x9rT8KWPUvu) | [Didya \(Dito\)](https://open.spotify.com/album/5uNxhtkdjG6kDJat74lpA3) | 4:25 | 2022-01-13 | 2022-02-11 |
+| [Die with You](https://open.spotify.com/track/4kVD5XwZ9TNP0igyepqPyH) | [Eli Elijah](https://open.spotify.com/artist/2TPQLTVapuGIMQGjDDqhsi) | [Die with You](https://open.spotify.com/album/4ccTSQqx1yDC1r0FxpLqhF) | 3:58 | 2026-10-07 |  |
 | [Different](https://open.spotify.com/track/6Lizpj9QAsYkpizA4Hf6jw) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Different](https://open.spotify.com/album/6ja6nEQaZTnmrgnolNlXft) | 2:28 | 2023-07-27 | 2023-08-18 |
 | [Diffy](https://open.spotify.com/track/2yN71OkXDJMWwdqQ7CDYRl) | [D'Michael](https://open.spotify.com/artist/2311Z1dFsIfzCmlEXjXp0N), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Diffy](https://open.spotify.com/album/6P9OH3jqeox2ZieHYuhdBo) | 2:21 | 2023-07-27 | 2023-08-18 |
 | [Digital](https://open.spotify.com/track/1j1hWGXRx3FFdpa5NU8Ili) | [brei](https://open.spotify.com/artist/4wbdkRQc3d2yVkT68rMrOi) | [Digital](https://open.spotify.com/album/15BB3augVjOXwDuLNWHRFg) | 4:17 | 2025-09-11 | 2025-11-28 |
@@ -1277,7 +1278,7 @@
 | [Gimme That Girl](https://open.spotify.com/track/6iiS7SxCjmpWyPydO6hhlf) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc), [BJ Prowel](https://open.spotify.com/artist/4ReuIF15hD7MOW7C0qTd5u), [Creisler](https://open.spotify.com/artist/1DfGLrGIKc09qhgSEpzO50) | [Gimme That Girl](https://open.spotify.com/album/6QzDlKQsrNGkdlVc3Naale) | 3:41 | 2023-04-13 | 2023-04-28 |
 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/5VkdLZawWpc0WVL4ZMvKey) | [JARREN](https://open.spotify.com/artist/62RjmAwo3r78qWk5UQqiu3) | [JARREN](https://open.spotify.com/album/6zha0pCeKbyBmzYxxinunn) | 2:17 | 2025-02-06 | 2026-01-15 |
 | [Gin Bilog](https://open.spotify.com/track/3eBj9Hw9YeqvIuZj5tuk0Z) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [DZBY](https://open.spotify.com/artist/1UoRP4CodWnCjUP2nRBv1o) | [Gin Bilog](https://open.spotify.com/album/29Y2jsfCsRsrNNeazsBclq) | 4:39 | 2023-05-25 | 2023-06-16 |
-| [Gina G.](https://open.spotify.com/track/3zRX2m3wwGbaRGayqB5lcA) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Gina G.](https://open.spotify.com/album/10xv43vh5q2BdnXFgWeHvi) | 3:01 | 2026-08-05 |  |
+| [Gina G.](https://open.spotify.com/track/3zRX2m3wwGbaRGayqB5lcA) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Gina G.](https://open.spotify.com/album/10xv43vh5q2BdnXFgWeHvi) | 3:01 | 2026-08-05 | 2026-10-08 |
 | [girl so cool](https://open.spotify.com/track/0tdTwjUpVFbnOAxw6saoiF) | [dree](https://open.spotify.com/artist/5ikU74erwupGYJpTmzIVoD) | [girl so cool](https://open.spotify.com/album/3sOkKw598yUeE3XJAFqNJ7) | 3:25 | 2026-02-05 | 2026-05-07 |
 | [Girl, I'm Your Man](https://open.spotify.com/track/1QoTycQffxFjlkThZj3zKq) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Girl, I'm Your Man](https://open.spotify.com/album/6LrBTMdBW2TiJFbpnkLpVM) | 4:34 | 2026-08-26 |  |
 | [Gising](https://open.spotify.com/track/0f7KIN5qqHLCxTUqiwN9o5) | [Forgetting69](https://open.spotify.com/artist/5gLsbZl6mxu1L7fMlpcXGp) | [Gising](https://open.spotify.com/album/1D49LSwByTNMOGWhLwINNr) | 3:48 | 2023-08-31 | 2023-09-22 |
@@ -2731,6 +2732,7 @@
 | [Paano](https://open.spotify.com/track/0szvNe3QoTyoo3eBLdX5nQ) | [Denice Lao](https://open.spotify.com/artist/4AGSTj6y1dBffc3IvEgBn5) | [Paano](https://open.spotify.com/album/4OVLpcCftcU09g0zjXRpvF) | 4:29 | 2023-11-16 | 2024-02-02 |
 | [Paano](https://open.spotify.com/track/6vLA054iEv9AX3y74Q79pz) | [Ian Usares](https://open.spotify.com/artist/5c6VdkiabMZTVgold3C9p9) | [Paano](https://open.spotify.com/album/69j5FAZIuU65phMtaJGAbj) | 3:45 | 2023-06-15 | 2023-06-30 |
 | [PAANO BA](https://open.spotify.com/track/6FwFse7eZAhs0NwXUBYGVm) | [BORGE](https://open.spotify.com/artist/3f73gp4dyzIjbZnsT81wzR) | [PAANO BA](https://open.spotify.com/album/0X0LBCrS9HoHMUBpdOuTLg) | 3:28 | 2025-07-24 | 2025-09-26 |
+| [Paano Ba?](https://open.spotify.com/track/0fMnCh7MOclcX3r2OeUPtD) | [The Sun](https://open.spotify.com/artist/7yTITctgiG4v8zy91s3fRZ) | [Paano Ba?](https://open.spotify.com/album/4MHu576vgfiM0A379s4yFL) | 3:13 | 2026-10-07 |  |
 | [Paano ba?](https://open.spotify.com/track/7xQffeWTgPAEqVjgiVL7d8) | [UNO](https://open.spotify.com/artist/0ZidGKZEuWMKpVIlCAJOlt) | [Paano ba?](https://open.spotify.com/album/3MEylAuVRbYpNdTYlzBW6Y) | 3:11 | 2025-02-27 | 2025-04-11 |
 | [PAANO KA?](https://open.spotify.com/track/4729SPZQbxIc01BDfcOyRg) | [grd mln](https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY) | [PUSHCART BOY](https://open.spotify.com/album/6yLZvviPvfL0ePrSZvYUHu) | 3:23 | 2022-09-08 | 2022-11-25 |
 | [Paano Kung Tayo](https://open.spotify.com/track/4yrp8vSHmChRvafuMtYF5e) | [Claudine Co](https://open.spotify.com/artist/1l1AvE8QoyqoyVrdX6vqR0) | [Paano Kung Tayo](https://open.spotify.com/album/0x2j2cGHFNbXUBGBgqAkPp) | 3:40 | 2024-04-25 | 2024-06-07 |
@@ -3033,7 +3035,7 @@
 | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/track/5C0qiTrshrTIX39Mghx0qP) | [Jeff Cifra](https://open.spotify.com/artist/1rDZsKJMNkRas9AZRQqwws) | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/album/4z7xaGq9T4CcKOFYLpENsH) | 4:14 | 2023-01-26 | 2023-02-17 |
 | [Pwede Naman](https://open.spotify.com/track/22NC5BjfwYYMYoAZcxI16l) | [Fiore](https://open.spotify.com/artist/7pI1QdQKO1uKurPMk8zQe7) | [Pwede Naman](https://open.spotify.com/album/5GE92BTg1HgmbsMeA2e6tb) | 3:36 | 2025-11-13 | 2026-02-06 |
 | [pwede pa ba](https://open.spotify.com/track/4auLi87KJ6J1eeIhkfCxOu) | [EC Orduna](https://open.spotify.com/artist/62ycja55uV9zKY8mw6cdWa) | [pwede pa ba](https://open.spotify.com/album/6BYmCAhbZZRiU3lYVfLJ2d) | 2:47 | 2024-02-08 | 2024-03-01 |
-| [PWEDE PA BA?](https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [PWEDE PA BA?](https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB) | 2:50 | 2026-08-12 |  |
+| [PWEDE PA BA?](https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [PWEDE PA BA?](https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB) | 2:50 | 2026-08-12 | 2026-10-08 |
 | [Pyromaniacs](https://open.spotify.com/track/2FRPY3sJbCBIabCqnL5NI7) | [Lindenwood](https://open.spotify.com/artist/4oi2jc0SiVtglXRbQ0qpI0) | [Pyromaniacs](https://open.spotify.com/album/78ZSYak6eEYWv8vgHAYeDb) | 2:31 | 2024-04-11 | 2024-06-01 |
 | [Quarter Life Crisis](https://open.spotify.com/track/4RRPegT5rufbPgN9WAEmoW) | [poetryonherskin](https://open.spotify.com/artist/65ja300pzBSGnFOBYqZ8Kn) | [split](https://open.spotify.com/album/6Zp74ItJkPHgoQ8ZPxCi8j) | 3:49 | 2024-06-20 | 2024-07-27 |
 | [QUESO](https://open.spotify.com/track/4qovOIUS7O58btWHWVSf3B) | [LYLEE](https://open.spotify.com/artist/0EoK6JrIwUebv1Ia79zrc5) | [QUESO](https://open.spotify.com/album/3V2Q7No5yxDJWxNubCOECj) | 4:20 | 2026-09-30 |  |

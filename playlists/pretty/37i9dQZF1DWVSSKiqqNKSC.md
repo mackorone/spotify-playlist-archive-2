@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,917 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,942 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 33 | [1999 \(feat\. Alexander Delgado \(Gente D' Zona\) & Serguei Yera Madera\)](https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [Alexander Delgado \(Gente D' Zona\)](https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh), [Serguei Yera Madera](https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM) | [La Salsa Tiene mi Son](https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH) | 4:45 |
 | 34 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
 | 35 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
-| 36 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
-| 37 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
+| 36 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
+| 37 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
 | 38 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 39 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
 | 40 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 44 | [Eso Que Anda \- Remasterizado](https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 5:13 |
 | 45 | [Nube Pasajera](https://open.spotify.com/track/1vqojH8o4mxfyP2qJF0vyb) | [Michel Maza](https://open.spotify.com/artist/010Zn5OLvL9eKVBBxP4bur) | [Que Hablen, Los Habladores...](https://open.spotify.com/album/68wjw2t8xtDo0ttFCYRHtD) | 6:53 |
 | 46 | [Olvida Que Te Olvide](https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Olvida Que Te Olvide](https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng) | 3:46 |
-| 47 | [La borrachera](https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Pupy y Los que Son Son Best Of](https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi) | 5:41 |
+| 47 | [Disco Azúcar](https://open.spotify.com/track/7uQOfh1O1a6IA8g4VWFrd8) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Grandes Exitos, Juan Formell Y Los Van Van](https://open.spotify.com/album/4AWlWv6nqxy33XFDBv0aUo) | 5:24 |
 | 48 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
 
 Snapshot ID: `AAAAABBUW4pVXxk5FmwgU+n5BCoK4WDd`

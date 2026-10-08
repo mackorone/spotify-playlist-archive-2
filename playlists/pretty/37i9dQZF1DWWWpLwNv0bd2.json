@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Meesaya Murukku 2",
-  "num_followers": 221928,
+  "num_followers": 222044,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8cUlovv8y4UzMmjVXSj0ZjIJhz",
+  "snapshot_id": "AAAAAJknDcjtqWamQf7gAONXtN3dQZEr",
   "tracks": [
     {
       "added_at": "2026-09-22 06:51:31",
@@ -99,6 +99,26 @@
       "duration_ms": 262577,
       "name": "Vaama Vaama",
       "url": "https://open.spotify.com/track/4udWFyZi8TIPmMSYhgfC8E"
+    },
+    {
+      "added_at": "2026-10-07 09:56:45",
+      "album": {
+        "name": "Rathinamo (Female Version)",
+        "url": "https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        },
+        {
+          "name": "Tanisha Gnanavel",
+          "url": "https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt"
+        }
+      ],
+      "duration_ms": 177390,
+      "name": "Rathinamo - Female Version",
+      "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
     },
     {
       "added_at": "2026-10-01 11:48:50",
@@ -279,6 +299,26 @@
       "duration_ms": 258993,
       "name": "Ekavali (From \"Renigunta 2\")",
       "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
+    },
+    {
+      "added_at": "2026-10-07 10:03:27",
+      "album": {
+        "name": "Annakiliye",
+        "url": "https://open.spotify.com/album/2KUCNoMvgUav6TtVv60Ab3"
+      },
+      "artists": [
+        {
+          "name": "Smith Asher",
+          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
+        },
+        {
+          "name": "Dheekshitha",
+          "url": "https://open.spotify.com/artist/1Tqpyk1z4meRlq8xJPj4db"
+        }
+      ],
+      "duration_ms": 238395,
+      "name": "Annakiliye",
+      "url": "https://open.spotify.com/track/6z5rgilnfViBiGBqHAPxN9"
     },
     {
       "added_at": "2026-09-28 11:06:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 부활남: 더 레드\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,875 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,849 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 104 | [Say You Love Me](https://open.spotify.com/track/4cGVoziBUY3QM3386qNwE2) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/61k2pEHKJkWbPukgCjrm6P) | 4:12 |
 | 105 | [Summer End](https://open.spotify.com/track/2knq4yj5NlKk76UF9px8ih) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Summer End \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/2WyblLuFfoHwGxFIBnSo0O) | 3:09 |
 
-Snapshot ID: `AAAAAG9I4L3F1aD9/j8UrD4EtqbX1Tg3`
+Snapshot ID: `AAAAABjSJ5bVXrB3TM2rJVhu5qBZFIbo`

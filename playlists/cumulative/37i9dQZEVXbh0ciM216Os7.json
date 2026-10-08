@@ -64039,6 +64039,24 @@
     },
     {
       "album": {
+        "name": "Classroom Metal, Vol. 1",
+        "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56478,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/61UPgMzGQiSg8y97tZIKft"
+    },
+    {
+      "album": {
         "name": "The Messy EP",
         "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
       },
@@ -67912,7 +67930,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 45714,
       "name": "Study",
       "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
@@ -75118,7 +75136,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 287040,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Baalti Remix",
       "url": "https://open.spotify.com/track/2dwWAQPebIqAwPjjAO1gVi"
@@ -75152,7 +75170,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Frost Children Remix",
       "url": "https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w"

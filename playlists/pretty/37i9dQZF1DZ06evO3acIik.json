@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65991,
+  "num_followers": 66000,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABbZEUdqhn2WpX3jlM5s4eV",
+  "snapshot_id": "asLogAAAAAD+3ogt02Fxop7EdnRkpXaW",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i saw you in my dream",
-        "url": "https://open.spotify.com/album/6NYNn2Dyg46rALLiq2LNDL"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "i saw you in my dream (acoustic)",
-      "url": "https://open.spotify.com/track/3ac1wxBmJP1uspJSYgTrD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+        "name": "i saw you in my dream",
+        "url": "https://open.spotify.com/album/6NYNn2Dyg46rALLiq2LNDL"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
+      "duration_ms": 204800,
+      "name": "i saw you in my dream (acoustic)",
+      "url": "https://open.spotify.com/track/3ac1wxBmJP1uspJSYgTrD6"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 303355,
       "name": "Stay (With Me).",
       "url": "https://open.spotify.com/track/02ophTv5wMWDp0xgil59Dt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As We Walk into Forever",
         "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 151500,
       "name": "Hold",
       "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
     },
     {
       "added_at": null,
@@ -811,22 +815,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
       "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEST",
+        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 188050,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/3ej0eVZ6orLdaYTk5MckFc"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 200062,
       "name": "Stay Patient.",
       "url": "https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7"
     }
   ],
   "unique_name": "This Is Montell Fish",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Where will your dreams take you? Listen to the music from Sing and Sing 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,990 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,049 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 33 | [My Way \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/0vbAosWswEidRk9OIgcje4) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 4:16 |
 | 34 | [Sing 2 Audition Medley](https://open.spotify.com/track/63hsC2SThBPalMWwShDq2Q) | [Sing 2 Cast](https://open.spotify.com/artist/3UX8alMeNzw4otaIf0tOcc) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 1:47 |
 | 35 | [OH.MY.GOSH \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/7G2ngpelFIxPCsEodpA8uP) | [Bunnies](https://open.spotify.com/artist/4ayPzUcc5o5R0kpzcofJHV) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:11 |
-| 36 | [Carry That Weight \- Remastered 2009](https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:36 |
+| 36 | [Carry That Weight \- Remastered 2009](https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered 2009\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:36 |
 | 37 | [Soy Yo \- Sing 2 Mix](https://open.spotify.com/track/2PKhtb0xCcYnFz1h8ii1wF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:57 |
 | 38 | [Don't You Worry 'Bout A Thing \- Acoustic Version / From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/01rzqgRE3bImDHZFwSBakq) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 3:17 |
 | 39 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:39 |

@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/7iySN21EfintFvXtZu6pXr"
+    },
+    {
+      "album": {
         "name": "idea of love - A COLORS SHOW",
         "url": "https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es"
       },

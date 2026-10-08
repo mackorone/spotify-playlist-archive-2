@@ -4,7 +4,7 @@
 
 > 
 
-175 songs - 14 hr 13 min
+176 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Lost In Bliss](https://open.spotify.com/track/4ebKHrtRfaY71EKJuplo4V) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Lost In Bliss](https://open.spotify.com/album/0F17CLPTmc1rqhqrmipryG) | 5:28 | 2026-08-25 |  |
 | [Louder](https://open.spotify.com/track/4l5uGeQiq6UVieBcYGqgLh) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Nextlevelism](https://open.spotify.com/album/7xw0eXR8M2U0Y9CZazhXmZ) | 3:28 | 2018-10-22 |  |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-07-20 |  |
+| [Love It](https://open.spotify.com/track/3zbkAAldw4iljC3ABcgRqu) | [Flour](https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510) | [Love It](https://open.spotify.com/album/67tMzISHOOlSJOn9HWRLI0) | 5:28 | 2026-10-07 |  |
 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 | 2018-07-02 |  |
 | [Meet Me In The Club](https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Meet Me In The Club](https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP) | 4:30 | 2023-10-16 |  |
 | [MEIN LAND](https://open.spotify.com/track/4n8eifgI2LnFDDYlDBwg45) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [RARITÄTEN \(1994 \- 2012\)](https://open.spotify.com/album/6ZYdMzF6O2P3ZQwcKzEnDv) | 3:52 | 2018-06-22 |  |

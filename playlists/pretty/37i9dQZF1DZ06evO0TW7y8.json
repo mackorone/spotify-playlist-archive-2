@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 327270,
+  "num_followers": 327280,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAADggaxGnE5hZjjrt0iazjxs",
+  "snapshot_id": "asLogAAAAAAXrtB/9f3lHgfOSLX13n07",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come With Me (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
       "artists": [
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 214886,
-      "name": "Come With Me (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+      "duration_ms": 226906,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+        "name": "Come With Me (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
       "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 226906,
-      "name": "Teenage Fantasy",
-      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+      "duration_ms": 214886,
+      "name": "Come With Me (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
     },
     {
       "added_at": null,

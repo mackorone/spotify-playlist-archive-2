@@ -5657,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/37Q6t3wmAoFdz7mmd0sneV"
+      },
+      "artists": [
+        {
+          "name": "Orange Glow",
+          "url": "https://open.spotify.com/artist/7LU23GRAcBWaPfLNg9H63d"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181170,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/6inYETIpyGBMwSodPR9z3Y"
+    },
+    {
+      "album": {
         "name": "Losing CTRL",
         "url": "https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN"
       },
@@ -25286,6 +25304,24 @@
       "duration_ms": 172013,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/3DDetDGP3ZvMJIMfJysKZR"
+    },
+    {
+      "album": {
+        "name": "The Night King",
+        "url": "https://open.spotify.com/album/2IsPWKKBYD1sa1S9Tm54xq"
+      },
+      "artists": [
+        {
+          "name": "Andora Mercury",
+          "url": "https://open.spotify.com/artist/7HrxL4YrxURFDDfTVNhh35"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326879,
+      "name": "The Night King",
+      "url": "https://open.spotify.com/track/5B0DwY2VIX18JorYc9K5bq"
     },
     {
       "album": {

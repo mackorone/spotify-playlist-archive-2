@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 87263,
+  "num_followers": 87285,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
+        "name": "Embodiment",
+        "url": "https://open.spotify.com/album/6EFYYY9KyfL1mT2B4FLUH9"
+      },
+      "artists": [
+        {
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Embodiment",
+      "url": "https://open.spotify.com/track/0T3CD9tENqVWOHAIkgC1eC"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
         "name": "Infinite Light",
         "url": "https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Embodiment",
-        "url": "https://open.spotify.com/album/6EFYYY9KyfL1mT2B4FLUH9"
-      },
-      "artists": [
-        {
-          "name": "La Luce",
-          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Embodiment",
-      "url": "https://open.spotify.com/track/0T3CD9tENqVWOHAIkgC1eC"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
-        "name": "Uprising Gamma 146hz",
-        "url": "https://open.spotify.com/album/5sfopZ98oDYt19FW8tuk5m"
-      },
-      "artists": [
-        {
-          "name": "Karl Schintz",
-          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "Uprising Gamma 146hz",
-      "url": "https://open.spotify.com/track/40lux2m9G8S9TchpAJeEa8"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Zense",
         "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 155643,
       "name": "Oshier - 963Hz",
       "url": "https://open.spotify.com/track/2jI9ubWWveL2f6ldWfVNgY"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Uprising Gamma 146hz",
+        "url": "https://open.spotify.com/album/5sfopZ98oDYt19FW8tuk5m"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Uprising Gamma 146hz",
+      "url": "https://open.spotify.com/track/40lux2m9G8S9TchpAJeEa8"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/1xJBxHTXy1WKXx7cAaRYK0"
-      },
-      "artists": [
-        {
-          "name": "Healing Wind",
-          "url": "https://open.spotify.com/artist/3tEA9FD13CnUsicwThXa7P"
-        }
-      ],
-      "duration_ms": 210164,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/3WEi8ia9hiFQRVzHQKZpE8"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Solstice Dream",
         "url": "https://open.spotify.com/album/1WbCocCFyKtZxuvIoDQ0Eb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 141849,
       "name": "Solstice Dream",
       "url": "https://open.spotify.com/track/7bguEqG2PkCMUPT6fiIQaG"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/1xJBxHTXy1WKXx7cAaRYK0"
+      },
+      "artists": [
+        {
+          "name": "Healing Wind",
+          "url": "https://open.spotify.com/artist/3tEA9FD13CnUsicwThXa7P"
+        }
+      ],
+      "duration_ms": 210164,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3WEi8ia9hiFQRVzHQKZpE8"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
-      },
-      "artists": [
-        {
-          "name": "Evanesce",
-          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Crystal Cavern",
         "url": "https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209117,
       "name": "Crystal Cavern",
       "url": "https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Mountain View",
-        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 152974,
-      "name": "Mountain View",
-      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Mana Ko\u015ba / Warmth of Consciousness",
         "url": "https://open.spotify.com/album/67ICVsuCVaBiWAJllm9wKC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 191603,
       "name": "Mana Ko\u015ba / Warmth of Consciousness",
       "url": "https://open.spotify.com/track/2Nz51JAYGiRDCZAFwzFsHG"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Mountain View",
+        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 152974,
+      "name": "Mountain View",
+      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN"
-      },
-      "artists": [
-        {
-          "name": "Aysun",
-          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Lumen",
         "url": "https://open.spotify.com/album/025PjPtslp6pG3gm40PJ8n"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
         "name": "Dreams of Another",
         "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Evening Waves",
-        "url": "https://open.spotify.com/album/2NqrAVFASSLXpLTuftQOBq"
+        "name": "Mossfjord",
+        "url": "https://open.spotify.com/album/17uT4BOGbuqwLoxk2sa7wK"
       },
       "artists": [
         {
-          "name": "So Lis",
-          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+          "name": "Willow Woodgrove",
+          "url": "https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP"
         }
       ],
-      "duration_ms": 154749,
-      "name": "Evening Waves",
-      "url": "https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB"
+      "duration_ms": 166585,
+      "name": "Mossfjord",
+      "url": "https://open.spotify.com/track/7kHB8ysT1yvcReTuXDwUB9"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1099,6 +1099,38 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
+        "name": "Soft Descent",
+        "url": "https://open.spotify.com/album/3tpNAMFr8m2KyYGVbgrmhu"
+      },
+      "artists": [
+        {
+          "name": "Daly Lowe",
+          "url": "https://open.spotify.com/artist/1DERRyxDextHQUIp33LiOQ"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Soft Descent",
+      "url": "https://open.spotify.com/track/11DYJMOrKnJbsWu8vJBXKL"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Evening Waves",
+        "url": "https://open.spotify.com/album/2NqrAVFASSLXpLTuftQOBq"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "duration_ms": 154749,
+      "name": "Evening Waves",
+      "url": "https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
         "name": "the city that ever sleeps",
         "url": "https://open.spotify.com/album/7deZQgdxXYZzvukmaOTZJ8"
       },
@@ -1111,22 +1143,6 @@
       "duration_ms": 160501,
       "name": "tribeca",
       "url": "https://open.spotify.com/track/0Cax0UsNfZkWVEPImLDA5H"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
-        "name": "Mossfjord",
-        "url": "https://open.spotify.com/album/17uT4BOGbuqwLoxk2sa7wK"
-      },
-      "artists": [
-        {
-          "name": "Willow Woodgrove",
-          "url": "https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP"
-        }
-      ],
-      "duration_ms": 166585,
-      "name": "Mossfjord",
-      "url": "https://open.spotify.com/track/7kHB8ysT1yvcReTuXDwUB9"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Soft Descent",
-        "url": "https://open.spotify.com/album/3tpNAMFr8m2KyYGVbgrmhu"
-      },
-      "artists": [
-        {
-          "name": "Daly Lowe",
-          "url": "https://open.spotify.com/artist/1DERRyxDextHQUIp33LiOQ"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Soft Descent",
-      "url": "https://open.spotify.com/track/11DYJMOrKnJbsWu8vJBXKL"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Peace And Beyond",
         "url": "https://open.spotify.com/album/6v0tEoJo9GnyCFSGnYfIUO"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 147075,
       "name": "Peace And Beyond",
       "url": "https://open.spotify.com/track/6Z2fpdCyqrnxXp1ODi6vL8"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Low Tide Dream",
+        "url": "https://open.spotify.com/album/5J6h61tPtvUJC8038BXk4R"
+      },
+      "artists": [
+        {
+          "name": "cairn",
+          "url": "https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Low Tide Dream",
+      "url": "https://open.spotify.com/track/22N63RKO6y2rUFOZchTXGM"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Low Tide Dream",
-        "url": "https://open.spotify.com/album/5J6h61tPtvUJC8038BXk4R"
-      },
-      "artists": [
-        {
-          "name": "cairn",
-          "url": "https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Low Tide Dream",
-      "url": "https://open.spotify.com/track/22N63RKO6y2rUFOZchTXGM"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Spiritual Oasis",
         "url": "https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 148500,
       "name": "Interconnectedness",
       "url": "https://open.spotify.com/track/5d7M78Bl9ni80Ig44x38w5"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Floating Through",
+        "url": "https://open.spotify.com/album/6wYl5KCYKtR2VNfqfIHW6Y"
+      },
+      "artists": [
+        {
+          "name": "Xoi Xoi",
+          "url": "https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl"
+        }
+      ],
+      "duration_ms": 127619,
+      "name": "Floating Through",
+      "url": "https://open.spotify.com/track/0BEuZ8qOhCaaB032iFLlAl"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Hypnosos",
-        "url": "https://open.spotify.com/album/4IseWIkmG85uQWjNfZqp70"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 138065,
-      "name": "Hypnosos",
-      "url": "https://open.spotify.com/track/0cspm6EoD1heGcgYekKBRs"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/63mFaMYI2MjMn08yo21sDo"
       },
@@ -1371,6 +1371,38 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
+        "name": "Subtle Elation",
+        "url": "https://open.spotify.com/album/1ZidxawJhWVanlxmPSX14D"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Subtle Elation",
+      "url": "https://open.spotify.com/track/1AZts1XYKBl2czdqzk8bgk"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Hypnosos",
+        "url": "https://open.spotify.com/album/4IseWIkmG85uQWjNfZqp70"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 138065,
+      "name": "Hypnosos",
+      "url": "https://open.spotify.com/track/0cspm6EoD1heGcgYekKBRs"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
         "name": "Soft Glow (432Hz)",
         "url": "https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0"
       },
@@ -1387,18 +1419,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Floating Through",
-        "url": "https://open.spotify.com/album/6wYl5KCYKtR2VNfqfIHW6Y"
+        "name": "Technetium",
+        "url": "https://open.spotify.com/album/1SId4iArgWNI0ALzHxuCo9"
       },
       "artists": [
         {
-          "name": "Xoi Xoi",
-          "url": "https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl"
+          "name": "Hudba Lyrika",
+          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
         }
       ],
-      "duration_ms": 127619,
-      "name": "Floating Through",
-      "url": "https://open.spotify.com/track/0BEuZ8qOhCaaB032iFLlAl"
+      "duration_ms": 155056,
+      "name": "Technetium",
+      "url": "https://open.spotify.com/track/5PkD63dtA3QCUl8OGTraij"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1419,18 +1451,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Subtle Elation",
-        "url": "https://open.spotify.com/album/1ZidxawJhWVanlxmPSX14D"
+        "name": "Spiritual Connection",
+        "url": "https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve"
       },
       "artists": [
         {
-          "name": "Now & Anatma",
-          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+          "name": "Lynx XII",
+          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Subtle Elation",
-      "url": "https://open.spotify.com/track/1AZts1XYKBl2czdqzk8bgk"
+      "duration_ms": 198000,
+      "name": "Spiritual Connection",
+      "url": "https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Spiritual Connection",
-        "url": "https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve"
-      },
-      "artists": [
-        {
-          "name": "Lynx XII",
-          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Spiritual Connection",
-      "url": "https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Airy",
         "url": "https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Technetium",
-        "url": "https://open.spotify.com/album/1SId4iArgWNI0ALzHxuCo9"
+        "name": "Shistar",
+        "url": "https://open.spotify.com/album/7jyS7P1FVh0OrUX8jchJpJ"
       },
       "artists": [
         {
-          "name": "Hudba Lyrika",
-          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
+          "name": "Mzarta Brokin",
+          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
         }
       ],
-      "duration_ms": 155056,
-      "name": "Technetium",
-      "url": "https://open.spotify.com/track/5PkD63dtA3QCUl8OGTraij"
+      "duration_ms": 126037,
+      "name": "Shistar",
+      "url": "https://open.spotify.com/track/4NQOccvHtfqfm12qvL59Z2"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Shistar",
-        "url": "https://open.spotify.com/album/7jyS7P1FVh0OrUX8jchJpJ"
+        "name": "Spatial",
+        "url": "https://open.spotify.com/album/5A7i6u2mU0k3uvWcrNi7pZ"
       },
       "artists": [
         {
-          "name": "Mzarta Brokin",
-          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
         }
       ],
-      "duration_ms": 126037,
-      "name": "Shistar",
-      "url": "https://open.spotify.com/track/4NQOccvHtfqfm12qvL59Z2"
+      "duration_ms": 154640,
+      "name": "Spatial",
+      "url": "https://open.spotify.com/track/2KYErsAVxGCdxCjRdZIoY0"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Spatial",
-        "url": "https://open.spotify.com/album/5A7i6u2mU0k3uvWcrNi7pZ"
-      },
-      "artists": [
-        {
-          "name": "La Luce",
-          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "Spatial",
-      "url": "https://open.spotify.com/track/2KYErsAVxGCdxCjRdZIoY0"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Issa",
         "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
       },
@@ -1591,38 +1591,6 @@
       "duration_ms": 172000,
       "name": "ISSA",
       "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
-      },
-      "artists": [
-        {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
-        }
-      ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
-        "name": "Attendance",
-        "url": "https://open.spotify.com/album/41L0U3KAnDNpyY05tHZfrF"
-      },
-      "artists": [
-        {
-          "name": "Flouriiche",
-          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
-        }
-      ],
-      "duration_ms": 162633,
-      "name": "Attendance",
-      "url": "https://open.spotify.com/track/2Jv00VJQHQNlW6pWfYamja"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1659,18 +1627,50 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
+        "name": "Attendance",
+        "url": "https://open.spotify.com/album/41L0U3KAnDNpyY05tHZfrF"
       },
       "artists": [
         {
-          "name": "Alfa Cognitive",
-          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+          "name": "Flouriiche",
+          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
+      "duration_ms": 162633,
+      "name": "Attendance",
+      "url": "https://open.spotify.com/track/2Jv00VJQHQNlW6pWfYamja"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Poise",
+        "url": "https://open.spotify.com/album/21qM9vHe0nFzHpsi1erigc"
+      },
+      "artists": [
+        {
+          "name": "Solitudes",
+          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+        }
+      ],
+      "duration_ms": 160540,
+      "name": "Poise",
+      "url": "https://open.spotify.com/track/7mIVnf8ZqCCmfuVvoMszu1"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1691,18 +1691,34 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Poise",
-        "url": "https://open.spotify.com/album/21qM9vHe0nFzHpsi1erigc"
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
       },
       "artists": [
         {
-          "name": "Solitudes",
-          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
         }
       ],
-      "duration_ms": 160540,
-      "name": "Poise",
-      "url": "https://open.spotify.com/track/7mIVnf8ZqCCmfuVvoMszu1"
+      "duration_ms": 183000,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Consonancy",
+        "url": "https://open.spotify.com/album/66W7ed7C8ygwGiBs9kU6tu"
+      },
+      "artists": [
+        {
+          "name": "Fields Of Glory",
+          "url": "https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Consonancy",
+      "url": "https://open.spotify.com/track/0NxKFdWkGJMMP6sBID6Y4c"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1751,22 +1767,6 @@
       "duration_ms": 191484,
       "name": "Sleeping Moons",
       "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
-        "name": "Consonancy",
-        "url": "https://open.spotify.com/album/66W7ed7C8ygwGiBs9kU6tu"
-      },
-      "artists": [
-        {
-          "name": "Fields Of Glory",
-          "url": "https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Consonancy",
-      "url": "https://open.spotify.com/track/0NxKFdWkGJMMP6sBID6Y4c"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Close Together",
-        "url": "https://open.spotify.com/album/3teExejHX9gxm46crmLZam"
-      },
-      "artists": [
-        {
-          "name": "Claudio Manioli",
-          "url": "https://open.spotify.com/artist/1gbOMArWIQTrXSFFD23ltq"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Close Together",
-      "url": "https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Insights",
         "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 165325,
       "name": "Forgettable",
       "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Close Together",
+        "url": "https://open.spotify.com/album/3teExejHX9gxm46crmLZam"
+      },
+      "artists": [
+        {
+          "name": "Claudio Manioli",
+          "url": "https://open.spotify.com/artist/1gbOMArWIQTrXSFFD23ltq"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Close Together",
+      "url": "https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H"
     },
     {
       "added_at": "2026-09-14 14:26:28",

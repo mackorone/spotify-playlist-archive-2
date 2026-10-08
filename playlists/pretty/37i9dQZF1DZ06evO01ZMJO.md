@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,626 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,640 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 | 50 | [KUTMUZIEK](https://open.spotify.com/track/12hnvrted7ORllAafrUiao) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [KUTMUZIEK](https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o) | 2:30 |
 
-Snapshot ID: `asGXAAAAAADmQ/hKAPb4KgSwAj41hsH7`
+Snapshot ID: `asLogAAAAADH2Vh3VF2WZR8PqH+DMsqe`

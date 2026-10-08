@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Parc Jae Jung (\ubc15\uc7ac\uc815)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: KIM JAE HWAN(\uae40\uc7ac\ud658)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -4195,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Love, From Here",
+        "url": "https://open.spotify.com/album/2N8gZfhsrplpkaE6GGmY0R"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/32LxtuhPSXshSFIsah8SWj"
+    },
+    {
+      "album": {
         "name": "Camellia",
         "url": "https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8"
       },
@@ -7180,7 +7198,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 194000,
       "name": "Every moment",
       "url": "https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB"
@@ -21044,7 +21062,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 240000,
       "name": "Please Love Her(Please Love Him)",
       "url": "https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd"

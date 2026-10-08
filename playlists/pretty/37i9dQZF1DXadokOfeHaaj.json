@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 44030,
+  "num_followers": 44032,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "On Your Mind (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "On Your Mind (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 192195,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "On Your Mind (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "On Your Mind (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Noise Keeper",
         "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 222292,
       "name": "Noise Keeper",
       "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Till It's Over",
-        "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
-      },
-      "artists": [
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "Till It's Over",
-      "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "pull u right thru",
         "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 217864,
       "name": "pull u right thru",
       "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
+        "name": "Till It's Over",
+        "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
+      },
+      "artists": [
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "Till It's Over",
+      "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Elation",
         "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
       },
@@ -1059,18 +1075,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "When The Rain Begins To Fall",
-        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
         }
       ],
-      "duration_ms": 214016,
-      "name": "When The Rain Begins To Fall",
-      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "added_at": "2026-10-02 10:25:11",
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Confirmation!",
-        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "FAUZIA",
-          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
-        }
-      ],
-      "duration_ms": 164611,
-      "name": "2Love (feat. FAUZIA)",
-      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "mangetout (The Dare remix)",
         "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 133761,
+      "name": "Tell Your Friends You Love Them",
+      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
+    },
+    {
+      "added_at": "2026-10-02 10:25:11",
+      "album": {
         "name": "Lockup",
         "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
       },
@@ -1247,26 +1263,6 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "It's So Nice (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "added_at": "2026-10-02 10:25:11",
-      "album": {
         "name": "Sd-3",
         "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
       },
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2026-10-02 10:25:11",
       "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "added_at": "2026-10-02 10:25:11",

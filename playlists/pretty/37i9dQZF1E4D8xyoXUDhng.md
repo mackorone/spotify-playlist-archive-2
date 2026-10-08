@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Mikael Karlsson, Daryl Coley and more
+> With Kelontae Gavin, Isaac Cates, Mikael Karlsson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 437 likes - 50 songs - 4 hr 49 min
 

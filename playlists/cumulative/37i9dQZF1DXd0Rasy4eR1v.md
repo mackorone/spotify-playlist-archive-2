@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: MALIK.
 
-1,374 songs - 3 day 1 hr 32 min
+1,375 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,7 @@
 | [Iraaday \(From "Nayab"\)](https://open.spotify.com/track/5lUvxaZYaWIZieFN1gDAoA) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Kenneyz Productions](https://open.spotify.com/artist/6UuEdAL1tuy9CEXSO60WYc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Iraaday \(From "Nayab"\)](https://open.spotify.com/album/3N1adFFJS9DYiHKutxXtOV) | 2:11 | 2024-01-12 | 2024-05-10 |
 | [Iraday](https://open.spotify.com/track/3Bo9ExlN6KqCndnaLZiC98) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc) | [Iraday](https://open.spotify.com/album/0MkDaRb3dwHAbh4pJeq7IO) | 3:34 | 2023-01-10 | 2023-05-06 |
 | [iraday aur](https://open.spotify.com/track/54jMaNtQiVoeumLJxUL4zf) | [Mujtuba Pervez](https://open.spotify.com/artist/03we4OCmKdHttDNkzJyHX4) | [iraday aur](https://open.spotify.com/album/5B9vlKmlID8bPQm42BIckS) | 3:21 | 2022-08-27 | 2022-09-24 |
-| [IRIDESCENCE](https://open.spotify.com/track/5rrDXEGEQiqBus9lBvUdaM) | [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [IRIDESCENCE](https://open.spotify.com/album/6KXG4wZ2kX5tvHPrggOVTG) | 3:30 | 2026-09-08 |  |
+| [IRIDESCENCE](https://open.spotify.com/track/5rrDXEGEQiqBus9lBvUdaM) | [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [IRIDESCENCE](https://open.spotify.com/album/6KXG4wZ2kX5tvHPrggOVTG) | 3:30 | 2026-09-08 | 2026-10-08 |
 | [Ishaq Dariya](https://open.spotify.com/track/35K5S2L2A4CPT4kn8iVCWx) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Ishaq Dariya](https://open.spotify.com/album/0STzN92xfNnz3Sn3ZjQFMJ) | 7:21 | 2024-08-05 | 2024-08-13 |
 | [Isharey](https://open.spotify.com/track/4vesRDC89hU1W0xWLm6R2R) | [Sultan Baloch](https://open.spotify.com/artist/3mjCkfVH1cLVVzGXdZTfTa), [Qazzi](https://open.spotify.com/artist/6gs3BP1rQHvg8lCOsrYGAk) | [Isharey](https://open.spotify.com/album/3Sb04IiQiaPPgEUT8zAWH0) | 3:22 | 2025-06-29 | 2025-11-01 |
 | [Ishi Bahanay \- Acoustic](https://open.spotify.com/track/6ZkyYxtkP8NrVNxRic1nZQ) | [Khizer Ali](https://open.spotify.com/artist/6HiwqWyjec6KH8U1sNNDzx) | [Ishi Bahanay \(Acoustic\)](https://open.spotify.com/album/7efS7ZyuCGhfllfulMzoDv) | 1:50 | 2023-10-30 | 2023-11-18 |
@@ -762,6 +762,7 @@
 | [Main Na Rahoon](https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 3:42 | 2024-11-07 | 2024-12-05 |
 | [Main Tera Hoya](https://open.spotify.com/track/6Hq340E9ZBg3T28e7eAHar) | [Parwan Khan](https://open.spotify.com/artist/21bpeYVt41rBnl5VJpj3oy) | [Main Tera Hoya](https://open.spotify.com/album/6Mdje5aHaToyfoTxKJTkTD) | 3:57 | 2026-07-31 |  |
 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 | 2026-04-17 |  |
+| [Majaal](https://open.spotify.com/track/2meVP0hoJj3mJnP6OsXvS9) | [Tehseen](https://open.spotify.com/artist/6zDkKkevCSbvdZhIOsRPY6) | [Majaal](https://open.spotify.com/album/75IHpaUp4UqsMSqnTndStc) | 2:07 | 2026-10-07 |  |
 | [Majboor](https://open.spotify.com/track/1yEq3XqyXGJVejyhzEHZSM) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Majboor](https://open.spotify.com/album/4Xf5ocDXvBffRbDCpyKo5K) | 4:08 | 2023-11-02 | 2023-12-09 |
 | [Majboor](https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS), [Zoha Waseem](https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8) | [Majboor](https://open.spotify.com/album/15AHQmI89vZpF6a5o8i3J7) | 2:25 | 2025-09-24 | 2025-11-06 |
 | [Malaal](https://open.spotify.com/track/41VUP9ojHgHpPyMZYDHwc4) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Malaal](https://open.spotify.com/album/08lEVnWmGXZI7HDxvaQ3JE) | 4:03 | 2022-11-30 | 2023-01-11 |

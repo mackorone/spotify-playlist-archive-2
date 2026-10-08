@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > babygirl in control, I feel like Nicole..
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,234 likes - 71 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,218 likes - 71 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

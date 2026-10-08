@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-786 songs - 2 day 1 hr 0 min
+789 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Goblin Knight](https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Goblin Knight](https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK) | 2:53 | 2025-12-29 | 2026-03-18 |
 | [God Complex](https://open.spotify.com/track/3UqHMMTSHWpK6iU5mg8Fcw) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [God Complex](https://open.spotify.com/album/3sIzIHJ3kDTIEjcTBbzwAc) | 2:09 | 2026-07-25 |  |
 | [Gods of Karma](https://open.spotify.com/track/6xYVg6FqtKUuRO7BFUfmUQ) | [Nathan J Lark](https://open.spotify.com/artist/5gTZaw7bOLKdFyGQsjHMcG) | [Gods of Karma](https://open.spotify.com/album/5UF7fKwX15lsBuzRF1h4hb) | 5:29 | 2026-05-05 | 2026-05-26 |
+| [Gods Of Nothing](https://open.spotify.com/track/2Yv9CxExpB1ShTHJunFUR2) | [LITIUM](https://open.spotify.com/artist/6uRMtCzWDnM9a0hPsfdFAL) | [Gods Of Nothing](https://open.spotify.com/album/23e77QDUNdAZa1nnrrGeHQ) | 4:10 | 2026-10-07 |  |
 | [Goes like this](https://open.spotify.com/track/75u3OSWmlthee7G1k149hA) | [FH Baloo](https://open.spotify.com/artist/7rkZjZIX74Z5uG5ayplthd) | [Goes like this](https://open.spotify.com/album/2fRbbTLonnCV19IAYyjqmX) | 5:14 | 2025-09-02 | 2026-07-12 |
 | [Golden Tomorrow](https://open.spotify.com/track/4z0PFotNn3qfzy8UQjABQd) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Divine Happiness](https://open.spotify.com/album/0Bb2w1dW3P2ds374ghyUug) | 3:24 | 2026-07-19 | 2026-08-10 |
 | [Good ain't easy](https://open.spotify.com/track/7ic4oLf0a1zRr4dRPdLltR) | [Billy Witch](https://open.spotify.com/artist/2ZWJj4PwlFSk50k0Oca1Bw) | [Good ain't easy](https://open.spotify.com/album/0anYwqjjH7DryavMxjKjv0) | 3:19 | 2025-11-10 | 2025-12-17 |
@@ -463,6 +464,7 @@
 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 | 2025-11-30 | 2025-12-17 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2026-01-13 | 2026-03-18 |
 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 | 2026-06-01 | 2026-07-12 |
+| [No Dreams In Your Eyes](https://open.spotify.com/track/6RKwl6hSnS6jawPDnDNwtZ) | [Merlin Swann](https://open.spotify.com/artist/6SnhBPrv5OriKL1Ywet26r) | [Just Two Kids](https://open.spotify.com/album/03uNZiuseMMIt1EsUel7Fx) | 3:34 | 2026-10-07 |  |
 | [No Durará Mañana](https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE) | [Almur](https://open.spotify.com/artist/74i8Ww4vUGlxxRlaMzkqQV) | [No Durará Mañana](https://open.spotify.com/album/0wr5e08FOEp85lFyIRBW0B) | 3:44 | 2026-03-05 | 2026-03-18 |
 | [No es pecado](https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 4:38 | 2026-06-23 | 2026-07-12 |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-16 | 2026-03-18 |
@@ -605,6 +607,7 @@
 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 | 2026-04-27 | 2026-05-26 |
 | [She's the girl](https://open.spotify.com/track/45N1BAybnbjmr7GqLsWpGB) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Tell me what it's for](https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U) | 3:38 | 2025-12-16 | 2026-04-21 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2025-12-04 | 2025-12-17 |
+| [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 | 2026-10-07 |  |
 | [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 | 2026-07-06 | 2026-08-01 |
 | [Sideways Thru Time](https://open.spotify.com/track/69frz2HsGAuNaF2XX2FKsp) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0) | 3:02 | 2026-08-29 |  |
 | [Silk](https://open.spotify.com/track/2VqLPBZXPZRdC28oPsXWBH) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Silk](https://open.spotify.com/album/0vec6giGjk5XCpsGt8qGpB) | 5:05 | 2026-08-20 |  |

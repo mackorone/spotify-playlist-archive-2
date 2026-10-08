@@ -8557,6 +8557,32 @@
     },
     {
       "album": {
+        "name": "goldenblue",
+        "url": "https://open.spotify.com/album/3roZGOwy1KRvlYHMTRbYPY"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Yog*",
+          "url": "https://open.spotify.com/artist/4Yu1jfEQO3TLm9sT1JapUw"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "goldenblue",
+      "url": "https://open.spotify.com/track/2jEy7XevXcVgGU9gryANXt"
+    },
+    {
+      "album": {
         "name": "THE FIRST",
         "url": "https://open.spotify.com/album/2yFC6Ky43UapNQBllMAFZ5"
       },

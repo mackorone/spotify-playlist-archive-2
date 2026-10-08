@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: El Putra Sarira
+> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Zhafari
 
-5,606 songs - 14 day 7 hr 3 min
+5,611 songs - 14 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Before You Leave](https://open.spotify.com/track/2soBhmanJ45EkQzMaY22oX) | [Many West](https://open.spotify.com/artist/4FAxw4PFuDO2L43XChU4Lu) | [Before You Leave](https://open.spotify.com/album/0AJhyAf8f3TjOwWDbzNNeN) | 4:01 | 2023-07-27 | 2023-08-12 |
 | [Begini Saja](https://open.spotify.com/track/4SbxMAeTKT0GWhDIY77jg4) | [Rahadian](https://open.spotify.com/artist/0pDFIGiX9s1PEjl61cmRsR) | [Begini Saja](https://open.spotify.com/album/5p7JqVQQo2CRVjnLfkQxeh) | 4:23 | 2022-01-27 | 2022-02-11 |
 | [Beginning](https://open.spotify.com/track/40WCr4nZTuQV5xVljd21GG) | [Reynald R](https://open.spotify.com/artist/2mrnMdb9S0CxPzcfKcXkTa) | [Beginning](https://open.spotify.com/album/6Iu32m4LaDiFi7Dn8XYHvO) | 3:25 | 2024-02-15 | 2024-03-08 |
+| [Begitu Mudah](https://open.spotify.com/track/4oszHDsjoICTSSWUM4tmmP) | [Naomi Aaira](https://open.spotify.com/artist/17gzlSHoF4D5tRvxgqCTkd) | [Begitu Mudah](https://open.spotify.com/album/2NB2LYo88s1uEDTA6N9hak) | 3:45 | 2026-10-07 |  |
 | [Begitu Saja](https://open.spotify.com/track/6svzJnZQ1O1ciMbFewdkzi) | [Kamar Biru](https://open.spotify.com/artist/52nZj6Lipxai0eFic9yv74) | [Begitu Saja](https://open.spotify.com/album/5ehqnzJ1OuKbC0nTJStjWn) | 3:10 | 2022-07-28 | 2022-08-12 |
 | [Begitulah Hidup \(Tentang Angka\)](https://open.spotify.com/track/0gi1qpnBmrjeGW6MVZK72U) | [Penky Adam](https://open.spotify.com/artist/42TWgEtVzIeKjg7S4mUNXQ) | [Begitulah Hidup \(Tentang Angka\)](https://open.spotify.com/album/7unekTqVRdLAH98gnSZCSq) | 3:57 | 2024-02-22 | 2024-03-29 |
 | [Behind The Phone](https://open.spotify.com/track/4i9VES5PA7FMtfYbLASkIA) | [Darren Qibata](https://open.spotify.com/artist/3ElFUU0uHHSAaWYVLaFvkV), [Romo Ghetto](https://open.spotify.com/artist/08MmS2NcdjOeaCCZe5Sluj) | [Behind The Phone](https://open.spotify.com/album/09zxL4qHGVhZKrTezoyoSl) | 2:31 | 2025-05-15 | 2025-06-06 |
@@ -1872,6 +1873,7 @@
 | [HEALING](https://open.spotify.com/track/21HyRSI1QHYIPkxWWqQAxG) | [MIRO](https://open.spotify.com/artist/6sV7aktTOOdO9fWAlwAlx8) | [HEALING](https://open.spotify.com/album/7d0QWFDtUjMFZW8RxNlHfR) | 3:30 | 2022-02-24 | 2022-03-11 |
 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-05 | 2023-10-27 |
 | [Heals](https://open.spotify.com/track/5npkfypTIG1Qht2mMFJIeg) | [Girl and Her Bad Mood](https://open.spotify.com/artist/6OrXXlULRd9rXVeFIzLbFr) | [Heals](https://open.spotify.com/album/1g79ovkZBPuIBm0mWrgqHv) | 4:14 | 2023-09-19 | 2023-10-06 |
+| [hear u smile](https://open.spotify.com/track/6YhFcfRHPJYwswrGytIRhJ) | [Adrieldriel](https://open.spotify.com/artist/1GWeoyTBr9Po8hviQvF68q) | [hear u smile](https://open.spotify.com/album/7e52zYugWOAdXyAdaPzI6M) | 2:07 | 2026-10-07 |  |
 | [Heart](https://open.spotify.com/track/0whopGrUiGyu4x0Xdv1SKG) | [Cella Eve](https://open.spotify.com/artist/1B9ph8JJgqcDtTsTKcjJvV) | [Heart](https://open.spotify.com/album/6zDg5BoGqcsd8vAqYJ5Xou) | 3:14 | 2025-12-04 | 2026-01-15 |
 | [Heart Bleed](https://open.spotify.com/track/3J6JkJQdOvVioamEgU6s0Q) | [ClutterHush](https://open.spotify.com/artist/5XHAswsjTMwbCmO4tDMRgB) | [Heart Bleed](https://open.spotify.com/album/1fP7Ju4pfjftOLC7qRoTU1) | 3:52 | 2025-12-19 | 2026-01-24 |
 | [Heart Of Ours](https://open.spotify.com/track/5eGdTjxMaJpbsh1MumZaMG) | [Radinal](https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg) | [Heart Of Ours](https://open.spotify.com/album/5MheIdiAYy7wB9NH9zK9x9) | 3:38 | 2023-08-24 | 2023-09-08 |
@@ -1954,6 +1956,7 @@
 | [Him](https://open.spotify.com/track/1mcKYAFrhpQH1033swmPxj) | [After Hours](https://open.spotify.com/artist/3AyyWXzeEBIaGVEEfC530D) | [Stardust Diary](https://open.spotify.com/album/2wFPO8TxI744maW6LAUwDQ) | 4:06 | 2025-10-09 | 2025-11-21 |
 | [Hingar Bingar](https://open.spotify.com/track/0OlGe3GbKERM81uSRHlQpe) | [Reaksi](https://open.spotify.com/artist/0b0aCmBDVr0uEaisB6wLYm) | [Hingar Bingar](https://open.spotify.com/album/5lyv2iVVt4tjWALiCPuDAR) | 3:42 | 2023-11-23 | 2023-12-15 |
 | [Hingga Akhir Nafasku](https://open.spotify.com/track/19lRJ9O1o0fg2PNCXyckj8) | [Thito Tangguh](https://open.spotify.com/artist/6Lox8gUBTHAYfnLi3YptwI) | [Hingga Akhir Nafasku](https://open.spotify.com/album/3ONjr8NyAVbzIj6PHLCdav) | 4:07 | 2025-02-13 | 2025-03-14 |
+| [Hingga Kau Kembali](https://open.spotify.com/track/6DWr8S7NFcFscSPBVuTaOe) | [Zhafari](https://open.spotify.com/artist/2WvPW7pgWJj6BQqBpGTKDd) | [Sisa Malam](https://open.spotify.com/album/2cSlezbpkB9UijwoqfPTHi) | 3:35 | 2026-10-07 |  |
 | [Hingga Kembali](https://open.spotify.com/track/7JBNTC9kBgroByRNGcyRyg) | [Raga Pratama](https://open.spotify.com/artist/4IO41wEEEgNycxM3OVrzgN) | [Hingga Kembali](https://open.spotify.com/album/2dVfYAgerf9Au8che8iv3G) | 3:31 | 2025-07-17 | 2025-08-15 |
 | [Hingga Memutih Rambutku](https://open.spotify.com/track/34dqLgrbU5JBVSiE7OFplt) | [Aldiv](https://open.spotify.com/artist/62XKJe7EGUBQCxHJZBVKei) | [Hingga Memutih Rambutku](https://open.spotify.com/album/1De2HeoraP1zrnTPA0wzyE) | 3:50 | 2023-07-06 | 2023-07-21 |
 | [Hiperbola Asmara](https://open.spotify.com/track/5a2KHg9aTcTG9eTRoC2ILc) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Hiperbola Asmara](https://open.spotify.com/album/6aL90sYuv7AVPYzBLB8lpx) | 4:01 | 2023-09-07 | 2023-09-23 |
@@ -1995,6 +1998,7 @@
 | [House](https://open.spotify.com/track/2L0MS9RoPBPBtTnGRmTJu3) | [Danesa](https://open.spotify.com/artist/6emsRt53pGSZ5VeQLMTdgz) | [House](https://open.spotify.com/album/0nH8BclyLooTQUwsFFD2yj) | 2:44 | 2026-07-09 |  |
 | [House of Vultures](https://open.spotify.com/track/10P7s24YBW00UcVh4sCIds) | [SIEMENTS](https://open.spotify.com/artist/3qT6DWTsTdPffL7JMMcRZV) | [House of Vultures](https://open.spotify.com/album/2c8GdSNqne11agbcmACQoZ) | 4:30 | 2025-11-28 | 2026-01-24 |
 | [how can i live without you???](https://open.spotify.com/track/2eXMbcT3SnTkHI4AcZ1Ijy) | [remi the duo](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm) | [how can i live without you???](https://open.spotify.com/album/3yfAj78Thake4uurZ30E7N) | 3:29 | 2025-09-12 | 2025-10-10 |
+| [How Can I?](https://open.spotify.com/track/6vJSKHtPrJd5OaGjkNZ2ZV) | [Allan Sinapati](https://open.spotify.com/artist/0ujr7559iEjf2gtVryboHu) | [How Can I?](https://open.spotify.com/album/62h3JH6S3hP88HaOfI6XAL) | 4:02 | 2026-10-07 |  |
 | [How Could We](https://open.spotify.com/track/6DzlhYGOYRVEiN9bmUC1nC) | [Jasmine Risach](https://open.spotify.com/artist/2BNcSe8pI5AHKmYV6D1JIj) | [Show Me the Way Out](https://open.spotify.com/album/7dpEYmIzGdJkrbvvX7FT0V) | 2:56 | 2023-03-02 | 2023-03-18 |
 | [how did we get here](https://open.spotify.com/track/7cHebaE0CiKFwA6EPUw8HM) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [how did we get here](https://open.spotify.com/album/533Ekh0RcB0rMyxoghetxm) | 3:55 | 2025-11-28 | 2026-02-07 |
 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 | 2023-11-24 | 2023-12-15 |
@@ -2383,6 +2387,7 @@
 | [Jelajah](https://open.spotify.com/track/0j8qO9KePC3HwqqPvw92fm) | [Helanuansa](https://open.spotify.com/artist/48V6AtG1HtV6CNNwGey18A), [Syifa Mashita](https://open.spotify.com/artist/1pxysVMBubGfPkdRaxq7um) | [Jelajah](https://open.spotify.com/album/524ro0WrN5HQ6sia4WrsDP) | 3:51 | 2023-08-17 | 2023-09-01 |
 | [Jelita](https://open.spotify.com/track/5ypEHS0QT7YnUbfsE1ZLH3) | [Abe Lubis](https://open.spotify.com/artist/1qCmZbGisqPoeIEjFG8WeF) | [Jelita](https://open.spotify.com/album/0OmP8RjGFLxYLwPcegqvyU) | 4:48 | 2024-02-08 | 2024-02-23 |
 | [Jelita](https://open.spotify.com/track/4QRuUOR4Ojn4onP0PkOVKZ) | [Boesantara](https://open.spotify.com/artist/51oxQkXXjm2LCoigbFydkH) | [Jelita](https://open.spotify.com/album/5KEZQmZHJuN4A03aVAxkTQ) | 4:25 | 2024-09-06 | 2024-09-27 |
+| [Jelita](https://open.spotify.com/track/1635KusQH2SMDAmxZZHosz) | [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [Jelita](https://open.spotify.com/album/5XlgVIE3gCdd3zic1r1y74) | 3:22 | 2026-10-07 |  |
 | [JEMBATAN JIWA](https://open.spotify.com/track/5JXrRNaT3wsAJii3HECL4b) | [SIRA](https://open.spotify.com/artist/41XAhH4XDopLiD7wA6mrJT) | [JEMBATAN JIWA](https://open.spotify.com/album/5St69Pu2yPHArwR3ClHYvV) | 3:29 | 2025-08-01 | 2025-09-05 |
 | [Jendela Jiwa](https://open.spotify.com/track/4g4PmIvNkAcZYAaD785zLB) | [Penikmat Soto](https://open.spotify.com/artist/1dVhhCe5DGDavrsiSsxh0a), [MR\. WILD](https://open.spotify.com/artist/4eZTVAAADW5Zdjl51gOC4H), [Pandu Cristoper](https://open.spotify.com/artist/2jzxpQURxsEZGCIBEu1iXd) | [Jendela Jiwa](https://open.spotify.com/album/12iMkgk2PS51XLVNUOw7Fz) | 3:07 | 2022-11-24 | 2022-12-01 |
 | [Jendela Kereta](https://open.spotify.com/track/4LOc1VxhMQL93Ywws0AQrN) | [Ichal Key](https://open.spotify.com/artist/5IRp12GzKH645d1n28dm6l) | [Jendela Kereta](https://open.spotify.com/album/4iBYnncekOts1gBwEnXFS5) | 3:25 | 2022-02-10 | 2022-02-25 |

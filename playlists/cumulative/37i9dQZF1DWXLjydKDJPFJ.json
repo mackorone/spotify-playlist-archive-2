@@ -2979,24 +2979,6 @@
     },
     {
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4VrZ86lDksP5gbJq0SJEg7"
-      },
-      "artists": [
-        {
-          "name": "Lagrimita Y Costel",
-          "url": "https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205000,
-      "name": "En MI Pancita",
-      "url": "https://open.spotify.com/track/2jF8f1JPAs4rIj5BpE5PJP"
-    },
-    {
-      "album": {
         "name": "Juntos Por Siempre",
         "url": "https://open.spotify.com/album/6tuXx4Fz56zPmi4GDSNNh0"
       },
@@ -3012,6 +2994,28 @@
       "duration_ms": 205640,
       "name": "En MI Pancita",
       "url": "https://open.spotify.com/track/1Ya1UL2b1s4GOHzzfyE5fv"
+    },
+    {
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4VrZ86lDksP5gbJq0SJEg7"
+      },
+      "artists": [
+        {
+          "name": "Lagrimita Y Costel",
+          "url": "https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7"
+        },
+        {
+          "name": "Costel",
+          "url": "https://open.spotify.com/artist/44FlfyVfCVQHykZe3fwcBo"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "En MI Pancita",
+      "url": "https://open.spotify.com/track/2jF8f1JPAs4rIj5BpE5PJP"
     },
     {
       "album": {

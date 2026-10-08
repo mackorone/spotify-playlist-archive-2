@@ -1,12 +1,12 @@
 {
   "description": "This is Ho - Kago Tea Time. The essential tracks, all in one playlist.",
-  "num_followers": 20758,
+  "num_followers": 20760,
   "original_name": "This Is Ho - Kago Tea Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAAQ2p431CqwXlPhzBxuFmBy",
+  "snapshot_id": "asLogAAAAADIOgdKdtUsUS0lKaUeYTBC",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing! (Standard Edition)",
-        "url": "https://open.spotify.com/album/5bCinByDAyOCePVoccduYa"
+        "name": "\u653e\u8ab2\u5f8c\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Singing!",
-      "url": "https://open.spotify.com/track/5ftfX6pKdedXPrbLXYPl0B"
+      "duration_ms": 263920,
+      "name": "\u308f\u305f\u3057\u306e\u604b\u306f\u30db\u30c3\u30c1\u30ad\u30b9",
+      "url": "https://open.spotify.com/track/1VfdlwdOHsYkPIG2hGzYPA"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u653e\u8ab2\u5f8c\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7"
+        "name": "Singing! (Standard Edition)",
+        "url": "https://open.spotify.com/album/5bCinByDAyOCePVoccduYa"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
         }
       ],
-      "duration_ms": 263920,
-      "name": "\u308f\u305f\u3057\u306e\u604b\u306f\u30db\u30c3\u30c1\u30ad\u30b9",
-      "url": "https://open.spotify.com/track/1VfdlwdOHsYkPIG2hGzYPA"
+      "duration_ms": 234560,
+      "name": "Singing!",
+      "url": "https://open.spotify.com/track/5ftfX6pKdedXPrbLXYPl0B"
     },
     {
       "added_at": null,

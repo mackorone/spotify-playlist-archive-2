@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Max Rickun. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maisi and the Disco. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -21322,7 +21322,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 221927,
       "name": "East Coast Summers",
       "url": "https://open.spotify.com/track/6WfKXUXkTM96NQ43NgxD7U"
@@ -21398,7 +21398,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 131066,
       "name": "Eat",
       "url": "https://open.spotify.com/track/40kCK0g07iM65DGFaMb6Cv"
@@ -23894,6 +23894,24 @@
       "duration_ms": 163281,
       "name": "famous",
       "url": "https://open.spotify.com/track/4wbAP2B2iN9cXV9coxtY9g"
+    },
+    {
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/7hVMnvyn0hdkAGSrO6U0du"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190499,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5wrkrATL6jGw3eUYBTbicS"
     },
     {
       "album": {
@@ -28696,7 +28714,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 206434,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
@@ -45967,6 +45985,24 @@
     },
     {
       "album": {
+        "name": "Love Minus",
+        "url": "https://open.spotify.com/album/6VSPQHiByzqCoGufqS0J7H"
+      },
+      "artists": [
+        {
+          "name": "Chase Behar",
+          "url": "https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180530,
+      "name": "Love Minus",
+      "url": "https://open.spotify.com/track/6jKFlwTzepUNyJUwyOadqa"
+    },
+    {
+      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/2KtK1Topqqu9kvyZuJilNK"
       },
@@ -47054,6 +47090,24 @@
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/2LXqQyS3IfDQ08lgsspmP4"
+      },
+      "artists": [
+        {
+          "name": "Maisi and the Disco",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"
     },
     {
       "album": {
@@ -54776,7 +54830,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 165975,
       "name": "One Life To Give",
       "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
@@ -57476,7 +57530,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 167920,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
@@ -58492,7 +58546,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 133846,
       "name": "Pop Is My Religion",
       "url": "https://open.spotify.com/track/3szS1JE9PN3p0CHQfwwyDi"
@@ -58618,7 +58672,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 179014,
       "name": "Postcard",
       "url": "https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66"
@@ -61254,6 +61308,24 @@
       "duration_ms": 205050,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO"
+    },
+    {
+      "album": {
+        "name": "Ren Faire",
+        "url": "https://open.spotify.com/album/2ZswCnyR6M0tMhykwAigIF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Tomlinson",
+          "url": "https://open.spotify.com/artist/3FAUbWyEFyXUqFSVmoDvC5"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ren Faire",
+      "url": "https://open.spotify.com/track/5Kha15DdGVbEECbxCubj2q"
     },
     {
       "album": {
@@ -71671,6 +71743,24 @@
     },
     {
       "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/0jk6DSgEu9Gu7AOyzrIESu"
       },
@@ -78993,6 +79083,24 @@
     },
     {
       "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+    },
+    {
+      "album": {
         "name": "consume & grow",
         "url": "https://open.spotify.com/album/1iGncVNljTW2b51sNlXNPv"
       },
@@ -84012,6 +84120,24 @@
       "duration_ms": 161512,
       "name": "You Don't Decide",
       "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/7I5xQyjHarN7HwVUR4pqZ1"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111759,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY"
     },
     {
       "album": {

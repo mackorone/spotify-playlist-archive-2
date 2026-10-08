@@ -4629,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "A Short Message To You",
+        "url": "https://open.spotify.com/album/1eLX1dezUn6SmU0MUUYG5j"
+      },
+      "artists": [
+        {
+          "name": "Corrupt P1cture",
+          "url": "https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134145,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/2sTYC3WPLl4QZv5yJQDa3B"
+    },
+    {
+      "album": {
         "name": "Esfera",
         "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
       },
@@ -26728,6 +26746,24 @@
       "duration_ms": 109079,
       "name": "Estate Senza Fine",
       "url": "https://open.spotify.com/track/5PoRCTVy71ZktLKIfELZ57"
+    },
+    {
+      "album": {
+        "name": "Estranei",
+        "url": "https://open.spotify.com/album/1skmozP6QLcI0OiMJSv4OZ"
+      },
+      "artists": [
+        {
+          "name": "Maledetto",
+          "url": "https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Estranei",
+      "url": "https://open.spotify.com/track/1FeKKIwmQ1sS4DPniLLEaT"
     },
     {
       "album": {
@@ -83888,6 +83924,24 @@
       "duration_ms": 136000,
       "name": "WALK IT OFF",
       "url": "https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV"
+    },
+    {
+      "album": {
+        "name": "The Seagull Tapes",
+        "url": "https://open.spotify.com/album/2cgZrZSHxy7iDq02XQrUjQ"
+      },
+      "artists": [
+        {
+          "name": "Scampi Chips Dip & Campari",
+          "url": "https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168144,
+      "name": "Walking In The Sand",
+      "url": "https://open.spotify.com/track/0RREuZAcmnXVMuPQr8I30Z"
     },
     {
       "album": {

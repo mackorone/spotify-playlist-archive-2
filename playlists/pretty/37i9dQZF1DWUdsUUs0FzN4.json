@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
-  "num_followers": 24768,
+  "num_followers": 24774,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "BODY TYPE",
-        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "BODY TYPE",
-      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "T\u00da ET MOI",
         "url": "https://open.spotify.com/album/5xaBP97FJpj4caWwxoxBVF"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 179429,
       "name": "SUE\u00d1O MOJADITO",
       "url": "https://open.spotify.com/track/34twflk27SivuwoCSGSiGP"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "BODY TYPE",
+        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "BODY TYPE",
+      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "ITALO MIXTAPE VOL. 3",
+        "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Vestre",
+          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "duration_ms": 167462,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "RULETEO",
         "url": "https://open.spotify.com/album/5XXD422rYEMorwZuOH16hv"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 216666,
       "name": "RULETEO",
       "url": "https://open.spotify.com/track/3nye2qe6Ymz6M4iiFlHYp1"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "ITALO MIXTAPE VOL. 3",
-        "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Vestre",
-          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
-        },
-        {
-          "name": "Slow Jamz",
-          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
-        }
-      ],
-      "duration_ms": 167462,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Pichersita",
-        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
+        "name": "Mirando La Luna",
+        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 138932,
-      "name": "Pichersita",
-      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
+      "duration_ms": 211200,
+      "name": "Mirando La Luna",
+      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Mirando La Luna",
-        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
+        "name": "Pichersita",
+        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
       },
       "artists": [
         {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Mirando La Luna",
-      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
+      "duration_ms": 138932,
+      "name": "Pichersita",
+      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
     },
     {
       "added_at": "2026-09-11 06:00:13",

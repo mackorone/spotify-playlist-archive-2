@@ -1,6 +1,6 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1628242,
+  "num_followers": 1628257,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
+        "name": "los mejores a\u00f1os (notas de diario)",
+        "url": "https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/1GFGKmCrG2LjXZCah0i8mG"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 170081,
       "name": "Saberte Querer",
       "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
-        "name": "los mejores a\u00f1os (notas de diario)",
-        "url": "https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/1GFGKmCrG2LjXZCah0i8mG"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Viernes 13 V (Me repito a diario)",
-        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+        "name": "Tuvimos Futuro",
+        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Viernes 13 V - Me repito a diario",
-      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
+      "duration_ms": 211030,
+      "name": "Tuvimos Futuro",
+      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Tuvimos Futuro",
-        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
+        "name": "Viernes 13 V (Me repito a diario)",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 211030,
-      "name": "Tuvimos Futuro",
-      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+      "duration_ms": 220235,
+      "name": "Viernes 13 V - Me repito a diario",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "added_at": "2026-05-29 19:51:10",

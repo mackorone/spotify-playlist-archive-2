@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Contigo \- En Vivo](https://open.spotify.com/track/69ZXaG6EO87Ay88YLruMXs) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 6:37 |
 | 50 | [Brillando en la Obscuridad](https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:47 |
 
-Snapshot ID: `asGXAAAAAADOkue49Zp9Ddjiy2hi4BBO`
+Snapshot ID: `asLogAAAAABQNP1aeX0HG9W2s2lThLQk`

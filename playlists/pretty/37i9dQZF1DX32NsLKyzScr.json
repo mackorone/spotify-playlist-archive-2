@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2586635,
+  "num_followers": 2586746,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "Happiness Is So Sad",
-        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 232835,
-      "name": "Happiness Is So Sad",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 286406,
+      "name": "This Dream Of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
         "name": "World Away",
         "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
         }
       ],
-      "duration_ms": 286406,
-      "name": "This Dream Of You",
-      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -735,26 +755,6 @@
       "duration_ms": 215433,
       "name": "Beautiful (with Joji)",
       "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -783,8 +783,8 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "Beautiful Places",
-        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
       },
       "artists": [
         {
@@ -792,13 +792,17 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Beautiful Places",
-      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -819,6 +823,22 @@
       "duration_ms": 192209,
       "name": "Come To Life",
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -847,6 +867,42 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
         "name": "Whatever Turns You On (ft. Bonn)",
         "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
       },
@@ -867,58 +923,30 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "Hard To be Around",
-        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
         },
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         },
         {
-          "name": "Cleopard2000",
-          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Hard To be Around",
-      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
         }
       ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -963,34 +991,6 @@
       "duration_ms": 204462,
       "name": "Other Dimension",
       "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
-      },
-      "artists": [
-        {
-          "name": "HAL\u014c",
-          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        }
-      ],
-      "duration_ms": 214696,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
         "name": "Beauty In Us",
         "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
       },
@@ -1179,18 +1159,22 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
         }
       ],
-      "duration_ms": 257571,
-      "name": "drift away",
-      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 220444,
       "name": "sound di alarm",
       "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
         "name": "Love Parade",
         "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 206308,
       "name": "Love Parade",
       "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -1911,8 +1911,8 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "The Realm",
-        "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
       },
       "artists": [
         {
@@ -1920,13 +1920,17 @@
           "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         },
         {
-          "name": "KASIA",
-          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
         }
       ],
-      "duration_ms": 184615,
-      "name": "The Realm",
-      "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
+      "duration_ms": 213953,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -2003,8 +2007,8 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
       },
       "artists": [
         {
@@ -2012,41 +2016,13 @@
           "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         },
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
         }
       ],
-      "duration_ms": 213953,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        },
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
+      "duration_ms": 184615,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -2071,6 +2047,30 @@
       "duration_ms": 211535,
       "name": "High On A Feeling",
       "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
     },
     {
       "added_at": "2026-10-02 04:00:48",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2026-10-02 04:00:48",
       "album": {
+        "name": "What U Like EP",
+        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
+    },
+    {
+      "added_at": "2026-10-02 04:00:48",
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/6cDptxdkyy1agz2vOXuyiZ"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
-    },
-    {
-      "added_at": "2026-10-02 04:00:48",
-      "album": {
-        "name": "What U Like EP",
-        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
-      },
-      "artists": [
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     },
     {
       "added_at": "2026-10-02 04:00:48",

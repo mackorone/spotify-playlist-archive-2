@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Chaca Trisha. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: JustJaewin. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -15789,6 +15789,24 @@
     },
     {
       "album": {
+        "name": "Never Thought I Could",
+        "url": "https://open.spotify.com/album/44m0uLathNxu5k87k3naX8"
+      },
+      "artists": [
+        {
+          "name": "Shahera Sam",
+          "url": "https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177948,
+      "name": "Never Thought I Could",
+      "url": "https://open.spotify.com/track/4bB6nrZXSvS0PORlURPiGH"
+    },
+    {
+      "album": {
         "name": "NEW BOOM BAP",
         "url": "https://open.spotify.com/album/2RsHIHYY0WncSLIrYpItFY"
       },
@@ -18991,6 +19009,28 @@
     },
     {
       "album": {
+        "name": "Receipts?",
+        "url": "https://open.spotify.com/album/4Z0KyU6KdMCH6SA28G4xX9"
+      },
+      "artists": [
+        {
+          "name": "Kindaraf",
+          "url": "https://open.spotify.com/artist/00AeWzHnUGrDjjWxUjGM1f"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/5FNf7eoM7s9TAHjteZBdaa"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207846,
+      "name": "Receipts?",
+      "url": "https://open.spotify.com/track/7l8oSUqHHVtsZielKgHyhd"
+    },
+    {
+      "album": {
         "name": "Eternal Atrophy",
         "url": "https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n"
       },
@@ -19270,6 +19310,24 @@
       "duration_ms": 178285,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb"
+    },
+    {
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/0P3C3In3KOkZ67MOA1dbpg"
+      },
+      "artists": [
+        {
+          "name": "JustJaewin",
+          "url": "https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139948,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/5TkuURfvQwtXhwIdBUvFfM"
     },
     {
       "album": {

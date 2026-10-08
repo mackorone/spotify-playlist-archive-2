@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Caroline Rose",
-  "num_followers": 186735,
+  "num_followers": 186743,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "added_at": "2026-09-30 04:01:06",
+      "album": {
         "name": "GIRL$",
         "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 132999,
       "name": "GIRL$",
       "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
-    },
-    {
-      "added_at": "2026-09-30 04:01:06",
-      "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2026-09-30 04:01:06",

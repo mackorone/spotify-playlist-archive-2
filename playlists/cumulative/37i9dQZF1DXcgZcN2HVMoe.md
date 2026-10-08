@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-796 songs - 1 day 23 hr 42 min
+797 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-07-22 | 2024-04-19 |
 | [Hold My Hand](https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU) | 3:15 | 2026-03-13 |  |
 | [Hold On](https://open.spotify.com/track/6FZlUjVbVWocdZG2mJNMlU) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Hold On](https://open.spotify.com/album/6RBUF9yCmucqHM5lIOaBVs) | 5:05 | 2021-12-17 | 2022-07-29 |
-| [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-17 |  |
+| [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-17 | 2026-10-08 |
 | [Hold On To Happiness \- Acoustic](https://open.spotify.com/track/38xpylBakIgVq2k4RG8Szr) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:51 | 2021-12-17 | 2022-04-19 |
 | [Hold Space \- Live Acoustic](https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd), [Casey Kalmenson](https://open.spotify.com/artist/0k6NsmbguZ8OgZkJlgW1b8) | [Hold Space \(Live Acoustic\)](https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5) | 3:13 | 2021-12-17 |  |
 | [Hollow](https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Hollow](https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO) | 3:03 | 2021-12-17 | 2022-04-30 |
@@ -521,6 +521,7 @@
 | [Outnumbered \- Lost In The Soft Light Sessions](https://open.spotify.com/track/0PNBWJ5hbQOySIvL6nfO3y) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lost In The Soft Light EP](https://open.spotify.com/album/3zxetYuCAzGTYQZSliLRqy) | 4:02 | 2022-01-24 | 2022-04-14 |
 | [Over My Head](https://open.spotify.com/track/7EUIkBjxiS0qCjOeedXTEl) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [Over My Head](https://open.spotify.com/album/3r2M3oiXHjz2Z0lLfU5Kyr) | 4:40 | 2021-12-17 | 2022-04-27 |
 | [Over You](https://open.spotify.com/track/73sP0b1YZ74voCWVWbbueL) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Over You](https://open.spotify.com/album/6Gy9u1jVgnQWjW0bCJKnWD) | 3:00 | 2022-01-24 | 2022-04-18 |
+| [Pale Blue Eyes](https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Pale Blue Eyes](https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk) | 3:33 | 2026-10-07 |  |
 | [Palm Trees](https://open.spotify.com/track/0TyTbWW4xMI6M1Q5HXs3Fj) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Palm Trees](https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp) | 2:47 | 2022-01-24 | 2022-04-18 |
 | [Paper Doll](https://open.spotify.com/track/5FDh0G5oQ2UD9JxWiDCT1x) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:19 | 2022-01-24 |  |
 | [Paper Plane Pilot](https://open.spotify.com/track/3OaodoVbCEKtbRFenmAc7F) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Paper Plane Pilot](https://open.spotify.com/album/1mofzYx5GO7IRaGZVCs7O0) | 3:19 | 2022-01-24 | 2022-04-20 |

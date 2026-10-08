@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240514,
+  "num_followers": 240542,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "I Gotta Song",
+        "url": "https://open.spotify.com/album/13W77W2HeajGg74mTmsobT"
+      },
+      "artists": [
+        {
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk"
+        }
+      ],
+      "duration_ms": 287993,
+      "name": "I Gotta Song",
+      "url": "https://open.spotify.com/track/2WzTahJr3Pbkw4ZkIbyBzU"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Nothing Can Separate Us",
         "url": "https://open.spotify.com/album/5cWHi1MR4DWBFiM1rgrwSz"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 198460,
       "name": "Nothing Can Separate Us",
       "url": "https://open.spotify.com/track/5XgJNkeYDX999GC2S5flBY"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "I Gotta Song",
-        "url": "https://open.spotify.com/album/13W77W2HeajGg74mTmsobT"
-      },
-      "artists": [
-        {
-          "name": "James Wilson",
-          "url": "https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk"
-        }
-      ],
-      "duration_ms": 287993,
-      "name": "I Gotta Song",
-      "url": "https://open.spotify.com/track/2WzTahJr3Pbkw4ZkIbyBzU"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "KALLAH",
-        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
-      },
-      "artists": [
-        {
-          "name": "Camila Sof\u00eda",
-          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
-        }
-      ],
-      "duration_ms": 186517,
-      "name": "KALLAH",
-      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Who You Say I Am (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203772,
       "name": "Who You Say I Am - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "KALLAH",
+        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
+      },
+      "artists": [
+        {
+          "name": "Camila Sof\u00eda",
+          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
+        }
+      ],
+      "duration_ms": 186517,
+      "name": "KALLAH",
+      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Amen (The Finesse Remix)",
+        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Amen - The Finesse Remix",
+      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 130153,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Amen (The Finesse Remix)",
-        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Amen - The Finesse Remix",
-      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "For the Beauty of the Earth",
+        "url": "https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz"
+      },
+      "artists": [
+        {
+          "name": "Alabaster Co.",
+          "url": "https://open.spotify.com/artist/4g0d1qT8tKu3VcjBHr3FQ2"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 332991,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/0qi5pBHXka7TjyURP6gQMf"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 227789,
       "name": "Back to the Street - L-Side Remix",
       "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "For the Beauty of the Earth",
-        "url": "https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz"
-      },
-      "artists": [
-        {
-          "name": "Alabaster Co.",
-          "url": "https://open.spotify.com/artist/4g0d1qT8tKu3VcjBHr3FQ2"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 332991,
-      "name": "For the Beauty of the Earth",
-      "url": "https://open.spotify.com/track/0qi5pBHXka7TjyURP6gQMf"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Manna (Vitor Maia Remix)",
+        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+      },
+      "artists": [
+        {
+          "name": "URBAN YOUTH WORSHIP",
+          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Manna - Vitor Maia Remix",
+      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Manna (Vitor Maia Remix)",
-        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
-      },
-      "artists": [
-        {
-          "name": "URBAN YOUTH WORSHIP",
-          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Manna - Vitor Maia Remix",
-      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
     },
     {
       "added_at": "2026-08-18 23:12:48",

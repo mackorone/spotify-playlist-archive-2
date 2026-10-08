@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aksomaniac
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,817 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,871 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 |
 | 75 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 |
 
-Snapshot ID: `AAAAAM7/3+S+v4rS7Zhj+KwG+ztSkmgT`
+Snapshot ID: `AAAAAHtD2wfGeZGdDlgHrKncx45hm5bd`

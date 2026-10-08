@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 48153,
+  "num_followers": 48170,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-10-02 08:02:42",
       "album": {
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
+    },
+    {
+      "added_at": "2026-10-02 08:02:42",
+      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
-    },
-    {
-      "added_at": "2026-10-02 08:02:42",
-      "album": {
-        "name": "RnBling",
-        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
     },
     {
       "added_at": "2026-10-02 08:02:42",

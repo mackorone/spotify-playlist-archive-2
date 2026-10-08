@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23508,
+  "num_followers": 23511,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-10-02 21:12:18",
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "added_at": "2026-10-02 21:12:18",
+      "album": {
         "name": "Ela Erra",
         "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 93714,
       "name": "Ela Erra",
       "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
-    },
-    {
-      "added_at": "2026-10-02 21:12:18",
-      "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-10-02 21:12:18",

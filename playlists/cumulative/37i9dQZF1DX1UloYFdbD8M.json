@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Airdrop",
+        "url": "https://open.spotify.com/album/4U58qPvJD52ielOEcWzRi2"
+      },
+      "artists": [
+        {
+          "name": "Rish NK",
+          "url": "https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5"
+        },
+        {
+          "name": "Arcado",
+          "url": "https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182526,
+      "name": "Airdrop",
+      "url": "https://open.spotify.com/track/6HNtSPxwnkr10fwNuS4CEE"
+    },
+    {
+      "album": {
         "name": "AJABI",
         "url": "https://open.spotify.com/album/6T669wXMV8GSOfA0MxwdOy"
       },

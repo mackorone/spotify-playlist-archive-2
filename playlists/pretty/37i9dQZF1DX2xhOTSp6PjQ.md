@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Skhanga
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,833 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,921 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 99 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 100 | [Fusegi Ngempela Manje!](https://open.spotify.com/track/5uCxT0vTqqJSgjUgZCBSmJ) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 10:19 |
 
-Snapshot ID: `AAAAAI3TjrI4uff5bSBYzsCqicM2VCbx`
+Snapshot ID: `AAAAADFoSCAbXeOcmio8cL1L8ahvwMVf`

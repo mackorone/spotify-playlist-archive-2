@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Love It",
+        "url": "https://open.spotify.com/album/67tMzISHOOlSJOn9HWRLI0"
+      },
+      "artists": [
+        {
+          "name": "Flour",
+          "url": "https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328040,
+      "name": "Love It",
+      "url": "https://open.spotify.com/track/3zbkAAldw4iljC3ABcgRqu"
+    },
+    {
+      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7"
       },

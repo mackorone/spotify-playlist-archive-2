@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 117 songs - 6 hr 48 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 119 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 115 | [Burn My Wings](https://open.spotify.com/track/1wPrpXvmVXxj1OAvdC1EDq) | [Waller](https://open.spotify.com/artist/1rluEP2Hevekk48lnfkeUQ) | [Burn My Wings](https://open.spotify.com/album/55tS8Ifltjkf0akKVERM7p) | 2:53 |
 | 116 | [Shina\-Skyl](https://open.spotify.com/track/0zItUrNLnAO1VvbJNKu1Mi) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Shina\-Skyl](https://open.spotify.com/album/0LnbhBCqAUfOGwmomwVPMo) | 3:00 |
 | 117 | [Hotel Room Window View](https://open.spotify.com/track/62fgAsI4vrhbSnXs10h1v1) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [Hotel Room Window View](https://open.spotify.com/album/1UqBpV5SOhhb88kA3n7IVI) | 4:32 |
+| 118 | [The Night King](https://open.spotify.com/track/5B0DwY2VIX18JorYc9K5bq) | [Andora Mercury](https://open.spotify.com/artist/7HrxL4YrxURFDDfTVNhh35) | [The Night King](https://open.spotify.com/album/2IsPWKKBYD1sa1S9Tm54xq) | 5:26 |
+| 119 | [Dark Horse](https://open.spotify.com/track/6inYETIpyGBMwSodPR9z3Y) | [Orange Glow](https://open.spotify.com/artist/7LU23GRAcBWaPfLNg9H63d) | [Dark Horse](https://open.spotify.com/album/37Q6t3wmAoFdz7mmd0sneV) | 3:01 |
 
-Snapshot ID: `AAAYkCDegMUa6rYBpPoSifA0T7NdUEoB`
+Snapshot ID: `AAAYlcNoY9ihW9HVSsHoHo/KIqVZSeT5`

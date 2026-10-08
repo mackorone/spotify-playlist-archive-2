@@ -1,44 +1,44 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Dogs on Shady Lane",
-  "num_followers": 259643,
+  "num_followers": 259737,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfDuHd4Qr5Lr9pV2jwxYhWyBrkU",
+  "snapshot_id": "AAAAAF87o2Dtfh7ltavgVI2TZ6hv1r7G",
   "tracks": [
     {
-      "added_at": "2026-09-30 13:53:53",
+      "added_at": "2026-10-07 15:10:23",
       "album": {
-        "name": "Knots",
-        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/2OtfN1D5BW0kBMORPBXvtZ"
       },
       "artists": [
         {
-          "name": "Dogs on Shady Lane",
-          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
         }
       ],
-      "duration_ms": 217738,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+      "duration_ms": 155497,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/1HLqWUTpcuzxBxaTzNPvT9"
     },
     {
-      "added_at": "2026-09-30 13:53:53",
+      "added_at": "2026-10-07 15:10:23",
       "album": {
-        "name": "White wine vinegar",
-        "url": "https://open.spotify.com/album/04GZYH0AEwbqalTF6ORakd"
+        "name": "Punish Task",
+        "url": "https://open.spotify.com/album/62dyXN1a2E9WSp5wuGLsf7"
       },
       "artists": [
         {
-          "name": "Pollyfromthedirt",
-          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs"
         }
       ],
-      "duration_ms": 205714,
-      "name": "White wine vinegar",
-      "url": "https://open.spotify.com/track/4vcjGe78P87Njlu1nh2ekY"
+      "duration_ms": 226374,
+      "name": "Punish Task",
+      "url": "https://open.spotify.com/track/3TUJkCw8IXrFs0CiRF8CDI"
     },
     {
       "added_at": "2026-09-30 13:53:53",
@@ -73,6 +73,38 @@
       "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
     },
     {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Blind Faith",
+        "url": "https://open.spotify.com/album/5GBGd5eTtmGPyz0EBMjazw"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 428976,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/0EJg9Q8miSwbrnRCbm3Xy5"
+    },
+    {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Twomac",
+        "url": "https://open.spotify.com/album/1NZTX9DzSIaamvFbfuEgXj"
+      },
+      "artists": [
+        {
+          "name": "Coco Smith",
+          "url": "https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E"
+        }
+      ],
+      "duration_ms": 325750,
+      "name": "Twomac",
+      "url": "https://open.spotify.com/track/0yUzoaaVxYxSFLihsDRYKn"
+    },
+    {
       "added_at": "2026-09-23 04:00:21",
       "album": {
         "name": "Better Than Mine",
@@ -93,6 +125,54 @@
       "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
     },
     {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/38pJimonE8sDfGvMDJYSY3"
+      },
+      "artists": [
+        {
+          "name": "Phantom Handshakes",
+          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Wisdom",
+      "url": "https://open.spotify.com/track/5cMOpZn2A1GOCTT0XqMCFe"
+    },
+    {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "added_at": "2026-09-30 13:53:53",
+      "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 217738,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+    },
+    {
       "added_at": "2026-09-30 13:53:53",
       "album": {
         "name": "Black bear",
@@ -107,6 +187,54 @@
       "duration_ms": 156413,
       "name": "Black bear",
       "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/5FsK1EiLeUtqiokS8bOH7r"
+      },
+      "artists": [
+        {
+          "name": "Nadia Faye",
+          "url": "https://open.spotify.com/artist/2wDLBzbWoqcoSy4f3vGINX"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "drift",
+      "url": "https://open.spotify.com/track/6ekOKSin9D2aIiESNFHfQ0"
+    },
+    {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/68IlKZOW8CEdcembmdNuHX"
+      },
+      "artists": [
+        {
+          "name": "Knifeplay",
+          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
+        }
+      ],
+      "duration_ms": 604934,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7ndSNIaJ4J0TIJE5iuMHRx"
+    },
+    {
+      "added_at": "2026-09-30 13:53:53",
+      "album": {
+        "name": "White wine vinegar",
+        "url": "https://open.spotify.com/album/04GZYH0AEwbqalTF6ORakd"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "White wine vinegar",
+      "url": "https://open.spotify.com/track/4vcjGe78P87Njlu1nh2ekY"
     },
     {
       "added_at": "2026-09-23 04:00:21",
@@ -223,6 +351,22 @@
       "duration_ms": 225064,
       "name": "My Life's All Right",
       "url": "https://open.spotify.com/track/54gCB10Rd8IMqqNJMIz4rd"
+    },
+    {
+      "added_at": "2026-10-07 15:10:23",
+      "album": {
+        "name": "Step Stool",
+        "url": "https://open.spotify.com/album/6imIuyyF1ANAA1c4pXgey8"
+      },
+      "artists": [
+        {
+          "name": "Wynne Collins",
+          "url": "https://open.spotify.com/artist/6h5b4XGaNg53aqbUj4JBhm"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Step Stool",
+      "url": "https://open.spotify.com/track/0iYRk3FKn46LHmTr5qLjDp"
     },
     {
       "added_at": "2026-09-30 13:53:53",
@@ -923,102 +1067,6 @@
     {
       "added_at": "2026-09-03 22:35:47",
       "album": {
-        "name": "Cowboy Mouth",
-        "url": "https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 209868,
-      "name": "Cowboy Mouth",
-      "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "sleepy3weepy",
-        "url": "https://open.spotify.com/album/58dnl3bIU3lVfJCefWlle6"
-      },
-      "artists": [
-        {
-          "name": "Swords2",
-          "url": "https://open.spotify.com/artist/6r3hk2gxKo56hw8sFpeUKA"
-        }
-      ],
-      "duration_ms": 77231,
-      "name": "pink",
-      "url": "https://open.spotify.com/track/0ipRyDKkHbWUNBtfUP1UzO"
-    },
-    {
-      "added_at": "2026-08-26 14:02:15",
-      "album": {
-        "name": "NO BODY",
-        "url": "https://open.spotify.com/album/6vs1EbTgZTd7SRvs1Bh5Ja"
-      },
-      "artists": [
-        {
-          "name": "O Slow",
-          "url": "https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA"
-        }
-      ],
-      "duration_ms": 156847,
-      "name": "NO BODY",
-      "url": "https://open.spotify.com/track/30UxRlwU27aXa9Q6WvPbBA"
-    },
-    {
-      "added_at": "2026-09-03 22:35:47",
-      "album": {
-        "name": "The Secret To Good Living",
-        "url": "https://open.spotify.com/album/1KJdhFNC3EJC2gqXF7yOTg"
-      },
-      "artists": [
-        {
-          "name": "Hiding Places",
-          "url": "https://open.spotify.com/artist/2BljwD6LPxBQow3klxFIIJ"
-        }
-      ],
-      "duration_ms": 346811,
-      "name": "One Hand",
-      "url": "https://open.spotify.com/track/6yvR8ujilJDWXmR11K2PCW"
-    },
-    {
-      "added_at": "2026-09-09 04:00:30",
-      "album": {
-        "name": "5 Card Stud",
-        "url": "https://open.spotify.com/album/1GcQ6AksheXj3skjdGFEor"
-      },
-      "artists": [
-        {
-          "name": "GracieHorse",
-          "url": "https://open.spotify.com/artist/1IskCzpFUBf8I0yFWkWWxO"
-        }
-      ],
-      "duration_ms": 204794,
-      "name": "5 Card Stud",
-      "url": "https://open.spotify.com/track/2EgOksyBvi6ttLfOdRTFj4"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "Tails",
-        "url": "https://open.spotify.com/album/0uihj4MTBA9uH6QtWaorS0"
-      },
-      "artists": [
-        {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
-        }
-      ],
-      "duration_ms": 244615,
-      "name": "Tails",
-      "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
-    },
-    {
-      "added_at": "2026-09-03 22:35:47",
-      "album": {
         "name": "Don't touch me you're my hero",
         "url": "https://open.spotify.com/album/727sTUgHuZFFRavAn2M32h"
       },
@@ -1065,38 +1113,6 @@
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "Without a Trace",
-        "url": "https://open.spotify.com/album/4J2oAGZpdMbBnBBbtyAL2o"
-      },
-      "artists": [
-        {
-          "name": "16 Underground",
-          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/2DPz3uZQfoMlqFFRGrYPDm"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "Getting Older",
-        "url": "https://open.spotify.com/album/1DFGGjMw4cY5PbKM73qU93"
-      },
-      "artists": [
-        {
-          "name": "Graham Hunt",
-          "url": "https://open.spotify.com/artist/3cdxdVJIA1FE4oMT85haWb"
-        }
-      ],
-      "duration_ms": 136066,
-      "name": "Getting Older",
-      "url": "https://open.spotify.com/track/31N3n74RprUGrTPLekOKto"
-    },
-    {
       "added_at": "2026-09-17 16:54:59",
       "album": {
         "name": "Standing On The Corner \u201cII\"",
@@ -1119,22 +1135,6 @@
       "duration_ms": 345973,
       "name": "Man may not last",
       "url": "https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl"
-    },
-    {
-      "added_at": "2026-08-26 14:02:15",
-      "album": {
-        "name": "Bones Forever",
-        "url": "https://open.spotify.com/album/3C2Eo4tSee1Ep9s3JSOrlD"
-      },
-      "artists": [
-        {
-          "name": "Bones Forever",
-          "url": "https://open.spotify.com/artist/16eWMKOPHbBrZBqtG8pZiU"
-        }
-      ],
-      "duration_ms": 344001,
-      "name": "The Land That's Always There",
-      "url": "https://open.spotify.com/track/0cry4TyixOiWNCftCOAOlJ"
     },
     {
       "added_at": "2026-08-19 04:00:34",

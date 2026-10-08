@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "NORMAL END",
+        "url": "https://open.spotify.com/album/3SHlC8bviDBswZgJ2Z4wQC"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\u30ce\u30fc\u30de\u30eb\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1kIp1OpCvZZkjjlsMcTclG"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce\u30fb\u30ad\u30f3\u30bf\u30ed\u30ad\u30e3\u30f3\u30c7\u30a3",
         "url": "https://open.spotify.com/album/4Ef22Oayl9RrppN43UDRr8"
       },

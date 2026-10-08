@@ -1,29 +1,13 @@
 {
   "description": "BLANCO in cover della playlist con tutte le hit \ud83d\udd25",
-  "num_followers": 1708749,
+  "num_followers": 1708709,
   "original_name": "Hot Hits Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCU0sVUnRQoAN76N+jf+/f+PICr",
+  "snapshot_id": "AAAAAObfQjRpQz5KiWI23qEswxaNGuiP",
   "tracks": [
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "Lontano",
-        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "Lontano",
-      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
-    },
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 175124,
       "name": "SOTTOGONNA",
       "url": "https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -79,26 +79,6 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
         "name": "L'AMORE",
         "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
       },
@@ -111,6 +91,58 @@
       "duration_ms": 213749,
       "name": "QUANTO FORTE TI PENSAVO",
       "url": "https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "CASINI",
+        "url": "https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CASINI",
+      "url": "https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CANZONE D'AMORE",
+      "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "Sorry Scusa Lo Siento",
+        "url": "https://open.spotify.com/album/6fsms67vLncXwehxDegR5I"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 200134,
+      "name": "Sorry Scusa Lo Siento",
+      "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -135,18 +167,22 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 180000,
-      "name": "CANZONE D'AMORE",
-      "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -171,6 +207,26 @@
       "duration_ms": 179189,
       "name": "LA TESTA GIRA",
       "url": "https://open.spotify.com/track/5k5scIRaBAJStJF1xWCqgc"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "duration_ms": 201006,
+      "name": "Ne vale la pena feat. Sayf",
+      "url": "https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -215,18 +271,18 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "Sorry Scusa Lo Siento",
-        "url": "https://open.spotify.com/album/6fsms67vLncXwehxDegR5I"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 200134,
-      "name": "Sorry Scusa Lo Siento",
-      "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -371,6 +427,58 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "R3versal",
+          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
         "name": "ROMANTICA",
         "url": "https://open.spotify.com/album/10y0yFd5imPOaVmDIQ2lP1"
       },
@@ -383,30 +491,6 @@
       "duration_ms": 193226,
       "name": "ROMANTICA",
       "url": "https://open.spotify.com/track/3jG1o72wNvvjQn2kDoNsIu"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "AL MIO PAESE",
-        "url": "https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK"
-      },
-      "artists": [
-        {
-          "name": "Serena Brancale",
-          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
-        },
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        },
-        {
-          "name": "DELIA",
-          "url": "https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS"
-        }
-      ],
-      "duration_ms": 197591,
-      "name": "AL MIO PAESE",
-      "url": "https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -427,58 +511,6 @@
       "duration_ms": 190588,
       "name": "Bad Bad Bad",
       "url": "https://open.spotify.com/track/1WitbPTd3SjoUJOWobxzVF"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "Una bara per due",
-        "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Una bara per due",
-      "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "Miria",
-        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
-      },
-      "artists": [
-        {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
-        },
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        }
-      ],
-      "duration_ms": 201006,
-      "name": "Ne vale la pena feat. Sayf",
-      "url": "https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -591,38 +623,18 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "CASINI",
-        "url": "https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN"
+        "name": "Una bara per due",
+        "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 188000,
-      "name": "CASINI",
-      "url": "https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "Hustle Mixtape Vol. 2",
-        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 207230,
-      "name": "Ogni Male",
-      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
+      "duration_ms": 286528,
+      "name": "Una bara per due",
+      "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
     },
     {
       "added_at": "2026-10-05 07:56:14",
@@ -639,6 +651,22 @@
       "duration_ms": 185229,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "Ogni Male",
+      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -679,58 +707,6 @@
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        },
-        {
-          "name": "R3versal",
-          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
-        },
-        {
-          "name": "G.Mineiro",
-          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 225834,
-      "name": "BbY WOW",
-      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -807,26 +783,6 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "Miria",
-        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
-      },
-      "artists": [
-        {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
-        },
-        {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        }
-      ],
-      "duration_ms": 121943,
-      "name": "Sipario feat. Promessa",
-      "url": "https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
         "name": "Che fastidio!",
         "url": "https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u"
       },
@@ -839,42 +795,6 @@
       "duration_ms": 194307,
       "name": "Che fastidio!",
       "url": "https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/7amDPWNunB9RQnHSiMIhxm"
-      },
-      "artists": [
-        {
-          "name": "Dipinto",
-          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
-        },
-        {
-          "name": "Fresh Beatz",
-          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM"
-    },
-    {
-      "added_at": "2026-10-01 22:02:59",
-      "album": {
-        "name": "MA IO SONO FUOCO",
-        "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Esibizionista",
-      "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
     },
     {
       "added_at": "2026-10-01 22:02:59",
@@ -899,6 +819,62 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 165922,
+      "name": "DAVVERODAVVERO",
+      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "AL MIO PAESE",
+        "url": "https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK"
+      },
+      "artists": [
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        },
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        },
+        {
+          "name": "DELIA",
+          "url": "https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS"
+        }
+      ],
+      "duration_ms": 197591,
+      "name": "AL MIO PAESE",
+      "url": "https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "MA IO SONO FUOCO",
+        "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Esibizionista",
+      "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
         "name": "Stupida sfortuna",
         "url": "https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG"
       },
@@ -915,18 +891,42 @@
     {
       "added_at": "2026-10-01 22:02:59",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
         }
       ],
-      "duration_ms": 165922,
-      "name": "DAVVERODAVVERO",
-      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
+      "duration_ms": 121943,
+      "name": "Sipario feat. Promessa",
+      "url": "https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv"
+    },
+    {
+      "added_at": "2026-10-01 22:02:59",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/7amDPWNunB9RQnHSiMIhxm"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Fresh Beatz",
+          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM"
     }
   ],
   "unique_name": "Hot Hits Italia",

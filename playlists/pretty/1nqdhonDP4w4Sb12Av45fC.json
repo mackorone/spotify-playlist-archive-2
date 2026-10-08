@@ -1,6 +1,6 @@
 {
   "description": "Long live the 90s! Re-live the chart-toppers, classic anthems and forgotten throwback favourites.",
-  "num_followers": 35084,
+  "num_followers": 35086,
   "original_name": "90s Smash Hits",
   "owner": {
     "name": "Smash Hits",
@@ -898,6 +898,10 @@
         {
           "name": "Grace",
           "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         }
       ],
       "duration_ms": 261733,

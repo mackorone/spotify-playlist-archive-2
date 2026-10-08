@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,476 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,492 likes - 33 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,6 +40,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 30 | [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 |
 | 31 | [やんちゃ道](https://open.spotify.com/track/4wje1xPBzeNSFiT3InlUbm) | [Jero](https://open.spotify.com/artist/3chLNFSDZkd5g9Fo43dxgJ) | [JERO BEST](https://open.spotify.com/album/2dU9gNNhhIXAtdCVUlGQFT) | 4:54 |
 | 32 | [Cry Baby](https://open.spotify.com/track/4wBRnMhL0N3wQQA37HdEza) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [Round About](https://open.spotify.com/album/6wOuP7POMHeiufkKd5O6SV) | 5:15 |
-| 33 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
+| 33 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
 Snapshot ID: `AAAAAFWT4RxdMa8OFVj4y6XhpA8RbN/h`

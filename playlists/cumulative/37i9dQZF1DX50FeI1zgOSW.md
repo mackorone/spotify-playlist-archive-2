@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-884 songs - 2 day 1 hr 51 min
+885 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Kanmaniye](https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kanmaniye](https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp) | 1:56 | 2024-04-18 | 2024-05-14 |
 | [Kanmoodiye](https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix) | [Kanmoodiye](https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb) | 2:40 | 2023-05-08 | 2023-07-25 |
 | [Kannaadi Boogambam](https://open.spotify.com/track/0HnKrdG93aeemec5ctWYPJ) | [Umashankar Kannaiyan](https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Shashank](https://open.spotify.com/artist/0oabT3DBQYwKSwfche8F4b) | [Kannaadi Boogambam](https://open.spotify.com/album/5v3h2u30TxNKcuWXlkGkK3) | 3:20 | 2024-11-21 | 2024-12-06 |
+| [Kannaale](https://open.spotify.com/track/4n9zZCRGvyOoosqQ44DdWw) | [Harsh](https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP) | [Kannaale](https://open.spotify.com/album/5tvDQgdVjbw20ggs9ZGvl5) | 3:20 | 2026-10-07 |  |
 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-03-21 | 2023-07-25 |
 | [Kannaattiye](https://open.spotify.com/track/4avs3tmaqjboKR4QiEF02Y) | [Adam Smith](https://open.spotify.com/artist/2NryD6eIY2tbzkvYocjDsk), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Kannaattiye](https://open.spotify.com/album/5endLjI2CdrxUgVJrFqedm) | 4:37 | 2024-10-12 | 2025-02-14 |
 | [Kannadi Kaadhal](https://open.spotify.com/track/0QQFLawqnCCkakWlVjoNH2) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Kannadi Kaadhal](https://open.spotify.com/album/68W8QRoknzyEaCa29pChdZ) | 1:17 | 2024-02-01 | 2024-04-05 |

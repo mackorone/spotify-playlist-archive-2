@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-281 songs - 13 hr 48 min
+282 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Feel Your Love \- Dimitri Vegas Vinyl Only Remix](https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Feel Your Love \(Dimitri Vegas Vinyl Only Remix\)](https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv) | 2:18 | 2026-01-10 | 2026-04-09 |
 | [Feliz Navidad](https://open.spotify.com/track/5UBhnqAMZ6QCjPmGLQTWev) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Hardstyle Christmas 2025](https://open.spotify.com/album/7GFb2eKOMPAgUPL6s2YAmz) | 2:13 | 2025-12-15 | 2025-12-27 |
 | [Ferrari](https://open.spotify.com/track/57DABWKwZDGqx7KrDafvqq) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Ferrari](https://open.spotify.com/album/3tFbOsLArvDC4rStTFSoQ3) | 2:10 | 2023-06-01 | 2023-08-11 |
-| [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 | 2023-09-07 |  |
+| [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 | 2023-09-07 | 2026-10-08 |
 | [Fire to the Rain \- Hardstyle Remix](https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire to the Rain Hardstyle](https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8) | 2:30 | 2023-02-09 |  |
 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 | 2025-02-17 | 2026-06-30 |
 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 | 2022-12-05 |  |
@@ -160,6 +160,7 @@
 | [Krach Nation Army](https://open.spotify.com/track/13vICiI5KLAZGYfXIafTjf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Krach Nation Army](https://open.spotify.com/album/3gylurW1PvAlUDvfi6uUpE) | 2:08 | 2026-03-06 | 2026-05-01 |
 | [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 | 2022-12-05 | 2025-10-26 |
 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 | 2022-12-05 | 2022-12-29 |
+| [LADY](https://open.spotify.com/track/0mSuWXKdC11T6NnQX8JEja) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [LADY](https://open.spotify.com/album/6VkBY3JSCL82vdglV5mULT) | 2:50 | 2026-10-07 |  |
 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 | 2022-12-05 |  |
 | [Last Christmas](https://open.spotify.com/track/0i1qowFhYd1AzCPAvvEJZg) | [Hardstyle Christmas](https://open.spotify.com/artist/044aEkYdxFaUyQ6mILTGkl), [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Hardstyle Christmas 2025](https://open.spotify.com/album/7GFb2eKOMPAgUPL6s2YAmz) | 1:54 | 2025-12-15 | 2025-12-27 |
 | [Lay All Your Love On Me \- Mark With a K Remix](https://open.spotify.com/track/7md19FFg980V8uIZKjOCYC) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ) | [Lay All Your Love On Me \(Mark With a K Remix\)](https://open.spotify.com/album/7BXRood90YagFjwCg8T0ld) | 3:22 | 2026-06-29 |  |

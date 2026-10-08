@@ -1,6 +1,6 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6148,
+  "num_followers": 6154,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        },
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Crisis Evasion",
+      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'02",
         "url": "https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO"
       },
@@ -151,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
       "artists": [
-        {
-          "name": "Maz B",
-          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
-        },
         {
           "name": "Avenoir",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Crisis Evasion",
-      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA"
     },
     {
       "added_at": null,
@@ -183,22 +199,6 @@
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": null,
@@ -268,7 +268,7 @@
       "added_at": null,
       "album": {
         "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
       "artists": [
         {
@@ -276,9 +276,41 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO DO U LUV",
+        "url": "https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "WHO DO U LUV",
+      "url": "https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "TRACK 02 (Dangerous Lover)",
+      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
     },
     {
       "added_at": null,
@@ -303,40 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "TRACK 02 (Dangerous Lover)",
-      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHO DO U LUV",
-        "url": "https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "WHO DO U LUV",
-      "url": "https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
     },
     {
       "added_at": null,

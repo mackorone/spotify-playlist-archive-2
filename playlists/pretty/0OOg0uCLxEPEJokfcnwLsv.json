@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1344,
+  "num_followers": 1364,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHD9qrP9EdSlYbLokGEryFhV7hgw27",
+  "snapshot_id": "AAAHEVli0NIM6pqJtxATxIERKVi+8eY1",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1651,6 +1651,42 @@
       "duration_ms": 176450,
       "name": "Auntie Emma",
       "url": "https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm"
+    },
+    {
+      "added_at": "2026-10-07 14:07:41",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz"
+    },
+    {
+      "added_at": "2026-10-07 19:41:43",
+      "album": {
+        "name": "Los Cuadros / La Mujer de Blanco: Parte I",
+        "url": "https://open.spotify.com/album/210YJMofBY2znygVZXbV3g"
+      },
+      "artists": [
+        {
+          "name": "Zarza",
+          "url": "https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l"
+        }
+      ],
+      "duration_ms": 281660,
+      "name": "Los Cuadros",
+      "url": "https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1"
     }
   ],
   "unique_name": "Unsigned Rock",

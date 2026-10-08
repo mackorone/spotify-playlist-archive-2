@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Martin Garrix
 
-830 songs - 1 day 18 hr 56 min
+831 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 | 2025-11-20 | 2026-04-23 |
 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 | 2025-01-16 | 2025-02-07 |
 | [By Your Side](https://open.spotify.com/track/3oNHymuVsEJvJZr00WAQDn) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA) | [By Your Side](https://open.spotify.com/album/5EOKEVWffUPRadvNX8omaL) | 3:42 | 2026-01-15 | 2026-01-23 |
+| [Bye Bye Inhibitions](https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Bye Bye Inhibitions](https://open.spotify.com/album/39DwtUa6MsygEQAFlyExSq) | 2:26 | 2026-10-05 |  |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-03-30 | 2023-05-21 |
 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2023-07-20 | 2023-08-23 |
 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2023-10-26 | 2023-12-21 |
@@ -520,7 +521,7 @@
 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-16 |  |
 | [MYSTERY OF RAW](https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [MYSTERY OF RAW](https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw) | 3:48 | 2026-08-14 |  |
 | [Nasty](https://open.spotify.com/track/1sKLFVc86oelMYuXvZ4LBg) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Nasty](https://open.spotify.com/album/06npIIgUg1GgZSK7DkKz6U) | 2:54 | 2025-11-13 | 2026-01-15 |
-| [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 | 2026-02-05 |  |
+| [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 | 2026-02-05 | 2026-10-08 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-01-29 | 2024-05-19 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-22 | 2025-07-04 |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-05 |  |

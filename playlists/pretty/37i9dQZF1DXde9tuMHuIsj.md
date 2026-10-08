@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,503 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,519 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 4 | [Kobe Brray](https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Kobe Brray](https://open.spotify.com/album/2lvkKE5JBo1gYjoc8cFPgu) | 2:38 |
 | 5 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 | 6 | [HVRACAN](https://open.spotify.com/track/6oEYzZvJ3pSD1shRCjqB2Z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [HVRACAN](https://open.spotify.com/album/6T4dIY0EFEUfOXiuL7ZpNh) | 3:05 |
-| 7 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
+| 7 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 8 | [Mas Bonito](https://open.spotify.com/track/2aoHBiCCpsO54BPFmd2drO) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Mas Bonito](https://open.spotify.com/album/3IMcYQMVQbWKPAV7OpRVSN) | 3:11 |
 | 9 | [TUKI TUKI](https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 3:11 |
 | 10 | [Bilingüe](https://open.spotify.com/track/4q2NvHIzfkndvIfRo5yGwy) | [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA), [Chal 777](https://open.spotify.com/artist/3mK7sIlefqaAHtpWNiCqyJ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Bilingüe](https://open.spotify.com/album/4FzXXDKnRpJpQA4AZUlrFS) | 4:03 |

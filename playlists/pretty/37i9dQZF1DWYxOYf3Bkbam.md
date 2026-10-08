@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,938 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,950 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 53 | [Enganchados: Al Otro de la Tablada / Crece el Río / El Tapecito](https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6) | [Los Dioses del Chamamé](https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN) | [Con Alma y Corazón](https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ) | 5:39 |
 | 54 | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/track/1YFE6jB75WN6j4HaeaGKzg) | [Tomas Zacarias](https://open.spotify.com/artist/38VdqF7nUdzpGEXQ0Hoxr4) | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/album/4tOknS5e4Kbgt6KY7mLm46) | 4:00 |
 | 55 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
-| 56 | [Para Volver a Soñar](https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa) | [Herencia Chamamecera](https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym), [Ricardo Gómez](https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb) | [Segundo Contacto](https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H) | 3:14 |
-| 57 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
+| 56 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
+| 57 | [Para Volver a Soñar](https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa) | [Herencia Chamamecera](https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym), [Ricardo Gómez](https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb) | [Segundo Contacto](https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H) | 3:14 |
 | 58 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 |
 | 59 | [Las Penas del Provinciano](https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:06 |
 | 60 | [Ah Mi Corrientes Porá](https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Domingo Rodriguez](https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:22 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 86 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 87 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
 | 88 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
-| 89 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
-| 90 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 89 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 90 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 
 Snapshot ID: `AAAAAJSAV0t5j7N3eCXczVi7KVJnOQVt`

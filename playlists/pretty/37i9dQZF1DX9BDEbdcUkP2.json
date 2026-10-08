@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 261590,
+  "num_followers": 261596,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -59,7 +59,7 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Abbey Road (Remastered)",
+        "name": "Abbey Road (Remastered 2009)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
@@ -195,7 +195,7 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Please Please Me (Remastered)",
+        "name": "Please Please Me (Remastered 2009)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
@@ -387,7 +387,7 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Help! (Remastered)",
+        "name": "Help! (Remastered 2009)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
       "artists": [
@@ -467,7 +467,7 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Let It Be (Remastered)",
+        "name": "Let It Be (Remastered 2009)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "(You're The) Devil in Disguise",
+      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
+    },
+    {
+      "added_at": "2025-04-15 15:37:47",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2025-04-15 15:37:47",
-      "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "(You're The) Devil in Disguise",
-      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
     },
     {
       "added_at": "2025-04-15 15:37:47",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-04-15 15:37:47",
       "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
-    },
-    {
-      "added_at": "2025-04-15 15:37:47",
-      "album": {
         "name": "The Complete Johnny Kidd Vol 1 & 2",
         "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 141960,
       "name": "Shakin' All Over",
       "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
+    },
+    {
+      "added_at": "2025-04-15 15:37:47",
+      "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2025-04-15 15:37:47",

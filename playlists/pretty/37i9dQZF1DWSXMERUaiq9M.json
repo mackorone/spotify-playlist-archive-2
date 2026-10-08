@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 451894,
+  "num_followers": 452419,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
+        "name": "That Acid",
+        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "That Acid",
+      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -535,34 +551,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "That Acid",
-        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+        "name": "Stay (Ely Oaks Version)",
+        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "That Acid",
-      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
-        "name": "Rave Never Ends",
-        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
-      },
-      "artists": [
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
         {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
         }
       ],
-      "duration_ms": 207870,
-      "name": "Rave Never Ends",
-      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
+      "duration_ms": 159246,
+      "name": "Stay - Ely Oaks Version",
+      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -599,22 +603,18 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "Stay (Ely Oaks Version)",
-        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
+        "name": "Rave Never Ends",
+        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
         }
       ],
-      "duration_ms": 159246,
-      "name": "Stay - Ely Oaks Version",
-      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+      "duration_ms": 207870,
+      "name": "Rave Never Ends",
+      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 216778,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
         "name": "Walk (feat. Kwabs)",
         "url": "https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 139562,
       "name": "Walk (feat. Kwabs)",
       "url": "https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 216778,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1115,26 +1115,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "Fine Day Anthem",
-        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         },
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 193690,
-      "name": "Fine Day Anthem",
-      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1159,22 +1155,26 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
-      },
-      "artists": [
-        {
-          "name": "Sacha Harland",
-          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
-        }
-      ],
-      "duration_ms": 144081,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "300G",
-        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
-      },
-      "artists": [
-        {
-          "name": "KOBOSIL",
-          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
-        },
-        {
-          "name": "Bekkaa",
-          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "300G",
-      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
+        "name": "300G",
+        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
+      },
+      "artists": [
+        {
+          "name": "KOBOSIL",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "300G",
+      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
       },
@@ -1463,22 +1443,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         },
         {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 226064,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1495,6 +1475,26 @@
       "duration_ms": 193500,
       "name": "GIRLBOSS",
       "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "added_at": "2026-10-02 09:02:36",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-10-02 09:02:36",
       "album": {
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
+    },
+    {
+      "added_at": "2026-10-02 09:02:36",
+      "album": {
         "name": "Unterwelt",
         "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 178441,
       "name": "Work Edit",
       "url": "https://open.spotify.com/track/19Q8IagLnLOptfzZY6es9s"
-    },
-    {
-      "added_at": "2026-10-02 09:02:36",
-      "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2026-10-02 09:02:36",

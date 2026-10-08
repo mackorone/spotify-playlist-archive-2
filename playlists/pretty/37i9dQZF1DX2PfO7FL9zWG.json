@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 80397,
+  "num_followers": 80407,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 250600,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2026-05-21 22:20:11",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 228690,
-      "name": "Alco",
-      "url": "https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 228690,
+      "name": "Alco",
+      "url": "https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0"
     },
     {
-      "added_at": "2026-05-21 22:20:11",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 214825,
-      "name": "Define You",
-      "url": "https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md"
-    },
-    {
       "added_at": "2025-02-14 17:00:13",
       "album": {
         "name": "Ensemble",
@@ -1619,6 +1603,22 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
+    },
+    {
+      "added_at": "2026-05-21 22:20:11",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 214825,
+      "name": "Define You",
+      "url": "https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df"
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Dead Of Night",
-      "url": "https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6"
+      "duration_ms": 174586,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
     }
   ],
   "unique_name": "Folk Favourites",

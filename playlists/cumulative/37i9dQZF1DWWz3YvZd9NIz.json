@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 236800,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk"
@@ -3378,6 +3378,24 @@
       "duration_ms": 203802,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv"
+    },
+    {
+      "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/6VkBY3JSCL82vdglV5mULT"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/0mSuWXKdC11T6NnQX8JEja"
     },
     {
       "album": {

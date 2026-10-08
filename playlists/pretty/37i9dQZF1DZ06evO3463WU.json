@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161304,
+  "num_followers": 161321,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAD1fWC89npzP+k4ETD06vzE",
+  "snapshot_id": "asLogAAAAABpIfHuJ0S1BcNbs/l3iRqN",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superlameando",
         "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 227240,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/19nz2CtctKQRKpOdPHbjzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -723,6 +739,22 @@
       "duration_ms": 156920,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
     },
     {
       "added_at": null,
@@ -759,38 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "De Frente Al Mar",
-      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pap\u00e1 Soltero",
-        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Amor Que Mata",
-      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
     },
     {
       "added_at": null,

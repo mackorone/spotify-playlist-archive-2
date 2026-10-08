@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-616 songs - 1 day 16 hr 27 min
+617 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 | 2025-04-10 | 2025-09-12 |
 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 | 2026-04-23 |  |
 | [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 | 2026-01-23 | 2026-05-17 |
-| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-06-19 |  |
+| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-06-19 | 2026-10-08 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-05-22 | 2026-08-14 |
 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 | 2024-05-10 | 2024-11-05 |
 | [Rainbow Road](https://open.spotify.com/track/3MJXbFkCPJhu0i7tsiOXJa) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Rainbow Road](https://open.spotify.com/album/2qO9xeTX6Saig34VZtdg3g) | 5:27 | 2021-12-03 | 2022-04-20 |
@@ -542,6 +542,7 @@
 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-03-01 | 2024-05-07 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-04-06 | 2023-11-17 |
 | [Take Me Away From Here](https://open.spotify.com/track/7A2xdaJZEPUS9UqX6vfrz8) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Take Me Away From Here](https://open.spotify.com/album/0bskVWz7FwLj0aO0QYTsCQ) | 5:43 | 2022-04-06 | 2022-04-17 |
+| [Take Our Time](https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Take Our Time](https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP) | 2:59 | 2026-10-02 |  |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-04-23 |  |
 | [Tell Me Something Good](https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5) | 4:09 | 2022-04-15 | 2022-04-20 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-07-20 | 2023-10-06 |

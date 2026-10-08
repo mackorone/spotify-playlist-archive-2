@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 615 songs - 1 day 13 hr 17 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 616 songs - 1 day 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -623,5 +623,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 613 | [Somente Nós](https://open.spotify.com/track/3f1fI7LddAaiR1fpPvHqz2) | [Ricardo Meirelles](https://open.spotify.com/artist/0OthpXRGUAXaehO7u2IWOs) | [Somente Nós](https://open.spotify.com/album/43aprloy5dUhjUOLCJZars) | 2:32 |
 | 614 | [Wild Side](https://open.spotify.com/track/2IX9CFrzyidHU7lfWgaaKu) | [James A Davis](https://open.spotify.com/artist/2jtU4md0ZpRPWY4FMXCc3i), [Lenox Sterling](https://open.spotify.com/artist/1oBsWghz3IZnF8aU138aLx) | [No Limit](https://open.spotify.com/album/4eq1reuHF7j7ZsSN8Qs1Rz) | 4:07 |
 | 615 | [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 |
+| 616 | [Como Yo No Hay 2](https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn), [Yaiza San Martín](https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE) | [Como Yo No Hay 2](https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr) | 3:52 |
 
-Snapshot ID: `AAAC/fpaLLXUyM5DZyeTtSVCYCgFhX12`
+Snapshot ID: `AAAC/od6hZ9r9ICTHdWcGdDDkltrogDV`

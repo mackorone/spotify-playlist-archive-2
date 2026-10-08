@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,998 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,006 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Ponchielli: La Gioconda, Op\. 9, Act 4: "Suicidio!" \(Gioconda\)](https://open.spotify.com/track/4h7KFEuWw6vct0TllV36OV) | [Amilcare Ponchielli](https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Antonino Votto](https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [Ponchielli: La Gioconda, Op\. 9](https://open.spotify.com/album/2ybC8FeFGHFaK8l0oL20sf) | 4:12 |
 | 50 | [Rossini: Il barbiere di Siviglia, Act 1: "Una voce poco fa" \(Rosina\)](https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Alceo Galliera](https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 6:24 |
 
-Snapshot ID: `asGXAAAAAABoyD9T1HaasfJIEH9jJge8`
+Snapshot ID: `asLogAAAAAAHuX57G4zDv3yqMFRAOhZ6`

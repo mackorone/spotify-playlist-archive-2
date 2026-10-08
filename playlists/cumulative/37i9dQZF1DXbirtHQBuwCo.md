@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover:  jeebanoff\)
+> Trendy & Chill Korean R&B music\. \(Cover:  ONEW, ZICO\)
 
-940 songs - 2 day 1 hr 32 min
+941 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [LOVE AGAIN \(Feat\. Leellamarz, HOON\)](https://open.spotify.com/track/2NyYklpPwyGIIyklakqk9X) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [HOON](https://open.spotify.com/artist/1VTv19vFoeiKs28gOzntpL) | [LOVE AGAIN](https://open.spotify.com/album/26OpMHQv2ntd7B8GaR8gdV) | 3:05 | 2025-03-13 | 2025-04-03 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-29 |  |
 | [Love Eventually](https://open.spotify.com/track/15CJ0oqfcOeF0ySnqpW05E) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Love Eventually](https://open.spotify.com/album/3I3z1EN6WoUO8TT2fJrdmg) | 3:37 | 2023-07-07 | 2023-07-15 |
-| [Love game](https://open.spotify.com/track/0qjjy799gEJdFKNvILwZRq) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Talking Book 2](https://open.spotify.com/album/77ud4wz2LUtWAQtr732DIo) | 3:02 | 2026-09-22 |  |
+| [Love game](https://open.spotify.com/track/0qjjy799gEJdFKNvILwZRq) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Talking Book 2](https://open.spotify.com/album/77ud4wz2LUtWAQtr732DIo) | 3:02 | 2026-09-22 | 2026-10-08 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 | 2023-09-01 |
 | [Love Like That](https://open.spotify.com/track/3sR1RNcVEDJKUfS8rX20Lx) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/2Hj1CHpYxGpj4by92fu9iz) | 3:34 | 2022-04-22 | 2022-05-01 |
@@ -828,6 +828,7 @@
 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 | 2023-07-17 |  |
 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 | 2022-04-19 | 2022-07-28 |
 | [Thunders \(feat\. The Beach Voice\)](https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6), [The Beach Voice](https://open.spotify.com/artist/21YPOJui47iYLDL7WyYuWh) | [Thunders](https://open.spotify.com/album/46X48Jx8fmhMKMVJHEnn9z) | 3:32 | 2022-04-21 | 2022-07-17 |
+| [Tic Tac Toe](https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Tic Tac Toe](https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz) | 2:37 | 2026-10-08 |  |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 | 2022-07-24 |
 | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-04 | 2025-08-04 |
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-13 | 2023-02-25 |

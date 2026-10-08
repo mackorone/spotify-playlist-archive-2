@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
+      "album": {
         "name": "El Valle Encantado",
         "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
       },
@@ -2782,6 +2800,14 @@
         {
           "name": "ZAINAB",
           "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        },
+        {
+          "name": "Zainab DiStasio",
+          "url": "https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d"
+        },
+        {
+          "name": "Joseph Pincus",
+          "url": "https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3"
         }
       ],
       "date_added": "2026-09-10",
@@ -4124,7 +4150,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 160160,
       "name": "More Love",
       "url": "https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL"

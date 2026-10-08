@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,347 likes - 121 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,369 likes - 121 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 | 21 | [Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \- Excerpt](https://open.spotify.com/track/49cQcHJqOsyBRSwxLTWoP5) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Khachaturian: Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \[Excerpt\]](https://open.spotify.com/album/1Zlga8aRnOCFzmtvUuYeff) | 1:47 |
 | 22 | [Morgen, Op\. 27 No\. 4 \(Arr\. Reger for Piano\)](https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 3:52 |
 | 23 | [Ständchen, S\. 560 \(Trans\. from Schwanengesang No\. 4, D\. 957\)](https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 7:22 |
-| 24 | [Dreaming, Op\. 15: No\. 3](https://open.spotify.com/track/0Xn6e5ktbNOERfNbtjzXtx) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Eline Marlene](https://open.spotify.com/artist/0er5UNTeA9WvHTujSLfvBC) | [Beach: Dreaming](https://open.spotify.com/album/0Rdg6jecKKwrUAoAns7M3l) | 6:12 |
+| 24 | [4 Sketches, Op\. 15: No\. 3, Dreaming](https://open.spotify.com/track/0Xn6e5ktbNOERfNbtjzXtx) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Eline Marlene](https://open.spotify.com/artist/0er5UNTeA9WvHTujSLfvBC) | [Beach: Dreaming](https://open.spotify.com/album/0Rdg6jecKKwrUAoAns7M3l) | 6:12 |
 | 25 | [Pièces Lyriques, Op\. 47 No\. 3: Mélodie](https://open.spotify.com/track/6G6tIDO3rB8FktjkM70GGd) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Grieg: Concerto Pour Piano & Pièces Lyriques](https://open.spotify.com/album/63Vpar9SVMT2bnkS7sSXsN) | 4:16 |
 | 26 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 27 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "#M\u00daSICA",
+        "url": "https://open.spotify.com/album/5iwdJcYOPNuLqrDooaVjT0"
+      },
+      "artists": [
+        {
+          "name": "Idea Blanco",
+          "url": "https://open.spotify.com/artist/2Po6ad6yuJHVPjd40q4ipt"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225367,
+      "name": "#M\u00daSICA",
+      "url": "https://open.spotify.com/track/4fiEaNdfAdT6SLcfGckzVy"
+    },
+    {
+      "album": {
         "name": "10 minutos",
         "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
       },

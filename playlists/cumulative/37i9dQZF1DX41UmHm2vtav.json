@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
@@ -5268,6 +5268,28 @@
       "duration_ms": 215104,
       "name": "Tempos Modernos",
       "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
+    },
+    {
+      "album": {
+        "name": "The Fade Out Line",
+        "url": "https://open.spotify.com/album/6dTh4fu7cOIDlr5WDlIX25"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "ETTA",
+          "url": "https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "The Fade Out Line",
+      "url": "https://open.spotify.com/track/4gBg3Pun3ti9ANNePBX7XB"
     },
     {
       "album": {

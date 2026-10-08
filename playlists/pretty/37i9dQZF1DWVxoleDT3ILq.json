@@ -1,6 +1,6 @@
 {
   "description": "Estoy Bien en portada.",
-  "num_followers": 113852,
+  "num_followers": 113863,
   "original_name": "alt/chile",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,30 @@
       "duration_ms": 172586,
       "name": "roger",
       "url": "https://open.spotify.com/track/4rUJUCW9QdNVijNY1ifzop"
+    },
+    {
+      "added_at": "2026-10-02 03:00:20",
+      "album": {
+        "name": "#M\u00daSICA",
+        "url": "https://open.spotify.com/album/5iwdJcYOPNuLqrDooaVjT0"
+      },
+      "artists": [
+        {
+          "name": "Idea Blanco",
+          "url": "https://open.spotify.com/artist/2Po6ad6yuJHVPjd40q4ipt"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 225367,
+      "name": "#M\u00daSICA",
+      "url": "https://open.spotify.com/track/4fiEaNdfAdT6SLcfGckzVy"
     }
   ],
   "unique_name": "alt/chile",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Chaca Trisha\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: JustJaewin\. Artwork: Isu Kim.
 
-1,526 songs - 3 day 11 hr 43 min
+1,529 songs - 3 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Nervous](https://open.spotify.com/track/0EWw0f8uvX4kfOtIEQsyRH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Nervous](https://open.spotify.com/album/6KPNk9pGhIQPzJFxhqGUAt) | 3:39 | 2023-01-12 | 2023-06-16 |
 | [NEVER](https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [NEVER](https://open.spotify.com/album/3CQ13wZmKgdNIHe4aS0qm5) | 3:14 | 2022-03-10 | 2022-06-17 |
 | [Never Ever Die](https://open.spotify.com/track/7FvUZuR57aPDQ9Aczu2b1A) | [Jemerine Chan](https://open.spotify.com/artist/0KCmbIfMchkbS92OvDH5HL) | [Never Ever Die](https://open.spotify.com/album/42QdF6ND8V5sJeENxZo8bN) | 2:28 | 2025-06-26 | 2025-08-16 |
+| [Never Thought I Could](https://open.spotify.com/track/4bB6nrZXSvS0PORlURPiGH) | [Shahera Sam](https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN) | [Never Thought I Could](https://open.spotify.com/album/44m0uLathNxu5k87k3naX8) | 2:57 | 2026-10-07 |  |
 | [NEW BOOM BAP](https://open.spotify.com/track/4t91Tm4XHy0ZI27AwkfT7Q) | [CZALM](https://open.spotify.com/artist/3jlcCk5J1KEvF3zrCMAFyp) | [NEW BOOM BAP](https://open.spotify.com/album/2RsHIHYY0WncSLIrYpItFY) | 2:18 | 2022-07-07 | 2022-09-16 |
 | [new chapter](https://open.spotify.com/track/4Nv2HNeL5GHAVZM1XxbOp1) | [WHULFUDS](https://open.spotify.com/artist/16Bvj1t96lTUvShONrnKf8), [MVVNBOI](https://open.spotify.com/artist/6pt7AYLUw1gDFycxHK12m2) | [new chapter](https://open.spotify.com/album/3ZytU9sWsV4UxMkwr8GZIO) | 3:57 | 2025-08-15 | 2025-09-27 |
 | [New Found Love](https://open.spotify.com/track/2R5H9jpAb91JvSeYwl6xOy) | [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [New Found Love](https://open.spotify.com/album/0feDnuXGz6aLW4GIvIIRzN) | 2:49 | 2024-07-04 | 2024-11-22 |
@@ -1003,6 +1004,7 @@
 | [READY](https://open.spotify.com/track/1A0L1XqEFSU4FIvt1NkAMF) | [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [READY](https://open.spotify.com/album/2p7f3Q22QJUfl2q5AxQrFh) | 3:11 | 2025-08-15 | 2025-09-27 |
 | [Ready to Breathe](https://open.spotify.com/track/6aafpnwXqPrl7tLyu1d9jG) | [Rahul Advani](https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb) | [Ready to Breathe](https://open.spotify.com/album/2yWlVmAyQ6E57G1mRArgKC) | 4:03 | 2022-09-09 | 2022-09-23 |
 | [Reality](https://open.spotify.com/track/0UhZ4v08EQC0HrlSvGYqdf) | [Lyla Ng](https://open.spotify.com/artist/7wOQgkxfPi0YPCKzco63CC) | [Reality](https://open.spotify.com/album/1cDAZbK5pPRzRIbDoXGVtA) | 3:26 | 2026-01-30 | 2026-03-21 |
+| [Receipts?](https://open.spotify.com/track/7l8oSUqHHVtsZielKgHyhd) | [Kindaraf](https://open.spotify.com/artist/00AeWzHnUGrDjjWxUjGM1f), [Godmode](https://open.spotify.com/artist/5FNf7eoM7s9TAHjteZBdaa) | [Receipts?](https://open.spotify.com/album/4Z0KyU6KdMCH6SA28G4xX9) | 3:27 | 2026-10-07 |  |
 | [Reckless](https://open.spotify.com/track/60l7qW1hphyq0Aj7yvNpOl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Eternal Atrophy](https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n) | 3:37 | 2022-06-30 | 2022-09-23 |
 | [Reflection](https://open.spotify.com/track/7hYedQb2k1WeBFyF3QfGq2) | [BAERIN](https://open.spotify.com/artist/0VUJyHvQsIhC4iG7NPvzuy) | [Reflection](https://open.spotify.com/album/78CsOci0zcAImIcOgTI8N2) | 2:43 | 2025-04-25 | 2025-06-27 |
 | [Regai \- From "MIRUGASIRISHAM"](https://open.spotify.com/track/2u78aVRoz1K0qh8SrPumRN) | [Sai Suthan](https://open.spotify.com/artist/1JRm4XskHKDRKvKbbTrIhM) | [Regai \(From "MIRUGASIRISHAM"\)](https://open.spotify.com/album/0kaSOiUGTBb61OH6X6Z2yK) | 5:21 | 2025-06-12 | 2025-08-01 |
@@ -1018,6 +1020,7 @@
 | [RIDE OR DIE](https://open.spotify.com/track/4pTWRoH40R7TF41QLBTBYp) | [Gridlockd](https://open.spotify.com/artist/1HeXMzBedhYbQQhQ4Lc0bA), [Dani Twice](https://open.spotify.com/artist/7vvpWmy88nGlz6qtJpvB0e) | [RIDE OR DIE](https://open.spotify.com/album/3EcHByp8WNo2ulXJWWnMGC) | 3:11 | 2023-11-02 | 2024-08-16 |
 | [ride or die \- Punk Version](https://open.spotify.com/track/0B44Xmh102iDiri93Y9Ymx) | [Emellyn Hasrin](https://open.spotify.com/artist/78ushdjOVNNN857JZ1jmOQ) | [ride or die \(Punk Version\)](https://open.spotify.com/album/3OGpsPma8sHHUzreXbb4DC) | 2:13 | 2022-09-22 | 2023-03-18 |
 | [Ride with Me](https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb) | [Maqyl](https://open.spotify.com/artist/1TsQNoSAfBuzmgHN0475Sw), [Kalyan Rath](https://open.spotify.com/artist/1bdzqJILHZDRI49lqMS5mc) | [Ride with Me](https://open.spotify.com/album/05s3PEx8pGlodj3gvSgm2y) | 2:58 | 2022-01-13 | 2022-06-17 |
+| [Ring Ring](https://open.spotify.com/track/5TkuURfvQwtXhwIdBUvFfM) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [Ring Ring](https://open.spotify.com/album/0P3C3In3KOkZ67MOA1dbpg) | 2:19 | 2026-10-07 |  |
 | [Ringan Ringan Saja](https://open.spotify.com/track/146AXYpjFBcc8mb0bbAi8a) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Ringan Ringan Saja](https://open.spotify.com/album/2s8k1NoKdlWRoO4Yu8wBl9) | 2:38 | 2025-12-03 | 2026-01-15 |
 | [Rise Up](https://open.spotify.com/track/2dHHiS7eKd6hSxhe4HVaf1) | [Nic Chen](https://open.spotify.com/artist/3eFoZdba7U7xbYlq780i8C) | [Rise Up](https://open.spotify.com/album/5zxw4GVFr7l5ykea8xYOzf) | 3:03 | 2023-11-23 | 2024-02-16 |
 | [Risk](https://open.spotify.com/track/1ArkvTd5yIuhf9rPTUEvJM) | [JOELLE](https://open.spotify.com/artist/5EH7ThHDmDhzspg5uKfqfg) | [Risk](https://open.spotify.com/album/1xADq4lUWZsyRWoeJnctuP) | 2:27 | 2025-08-29 | 2025-10-17 |

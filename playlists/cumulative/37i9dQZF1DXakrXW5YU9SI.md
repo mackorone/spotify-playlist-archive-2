@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,124 songs - 2 day 14 hr 54 min
+1,125 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [krab](https://open.spotify.com/track/1xLA1bJCwPLTIZc3I43GgC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [krab](https://open.spotify.com/album/1SRdjKOVnxbBetGvyU6X6F) | 3:48 | 2024-10-07 | 2024-10-15 |
 | [Krok Stąd](https://open.spotify.com/track/0XPK8vCdJSUjrmMBXrJWWp) | [Jagoda Kret](https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3) | [Krok Stąd](https://open.spotify.com/album/5ombVxTHNtHARJDqlbFKd9) | 3:55 | 2025-01-10 | 2025-01-18 |
 | [Król Ciszy](https://open.spotify.com/track/3KAAr5JeOjMrB6ZtJPv3xA) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Król Ciszy](https://open.spotify.com/album/7DumU0N9nDUcJM0aojoLyG) | 3:07 | 2025-07-18 | 2025-09-27 |
-| [Kręci się ziemia](https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Kręci się ziemia](https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b) | 2:32 | 2026-09-25 |  |
+| [Kręci się ziemia](https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Kręci się ziemia](https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b) | 2:32 | 2026-09-25 | 2026-10-08 |
 | [kto jak nie my](https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [kto jak nie my](https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0) | 2:35 | 2026-03-27 | 2026-04-11 |
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-03 | 2024-08-21 |
 | [Kuma \(that's ok\)](https://open.spotify.com/track/18kHoX5HWkpYddNtgkdKFR) | [izdeb](https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e) | [Kuma \(that's ok\)](https://open.spotify.com/album/71Oib4VBOAE5UsGcE1qY6P) | 2:51 | 2024-11-21 | 2024-11-23 |
@@ -758,6 +758,7 @@
 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-12 | 2026-03-14 |
 | [Promise?](https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 | 2026-07-17 | 2026-09-11 |
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-04-30 | 2026-06-10 |
+| [propane](https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2) | [kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [propane](https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9) | 3:44 | 2026-10-02 |  |
 | [Prywatna wyspa](https://open.spotify.com/track/3ZlvrQL6AJetHiOmLUjS5X) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH) | [Prywatna wyspa](https://open.spotify.com/album/589yWr3ogBNa6KPVhNMUZF) | 2:22 | 2025-07-10 | 2025-08-11 |
 | [przed czym uciekasz?](https://open.spotify.com/track/6RSDTIt7XLuCX0BhntMm82) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [przed czym uciekasz?](https://open.spotify.com/album/7FpfaixvX0BznPv9OkOjF7) | 2:24 | 2025-12-05 | 2025-12-13 |
 | [Przed siebie](https://open.spotify.com/track/5YeQDD9RYGJlZFJz3mDFmo) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Otuchy](https://open.spotify.com/album/6WF8SMvtdP8fPzZuZzcnvM) | 3:09 | 2026-09-18 | 2026-10-05 |

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-527 songs - 1 day 0 hr 53 min
+528 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 | 2026-04-04 |
-| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 |  |
+| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 | 2026-10-08 |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2025-03-02 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 | 2025-02-13 |
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 | 2026-06-27 |
@@ -471,6 +471,7 @@
 | [Tibetan Bowl Peace](https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 4:06 | 2023-04-28 | 2025-05-22 |
 | [tinySketch \#78](https://open.spotify.com/track/3mfka5FNYAkcZGYPfAslL6) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [tinySketch \#78](https://open.spotify.com/album/1EWlyPTXYpL8RkynJt0IKG) | 3:09 | 2026-07-03 |  |
 | [To Walk Alone](https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [To Walk Alone](https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07) | 2:31 | 2026-08-19 |  |
+| [Topaz Nature](https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Topaz Nature](https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be) | 3:00 | 2026-09-21 |  |
 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 | 2026-01-08 | 2026-04-04 |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Tranquility](https://open.spotify.com/track/3qoGayotW8LH4rmjuYiB9r) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Tranquility](https://open.spotify.com/album/58nrqDQObWPfNLTcBSJw9H) | 2:23 | 2026-08-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,350 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [You Got To Go Down](https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:18 |
 | 50 | [You Got To Move](https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:19 |
 
-Snapshot ID: `asGXAAAAAABmX1r+0yWJ1MMHIuLDKIIz`
+Snapshot ID: `asLogAAAAAAPMPhMIlskuQT6a0TZjZMK`

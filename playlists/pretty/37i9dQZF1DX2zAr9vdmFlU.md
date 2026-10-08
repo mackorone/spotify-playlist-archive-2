@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,040 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,057 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 70 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |
 | 71 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 |
 | 72 | [Los Palos](https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Los Palos](https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY) | 3:19 |
-| 73 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
-| 74 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 |
+| 73 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 |
+| 74 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 75 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 |
 | 76 | [Happy ending](https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Refresco, Vol.1: Cheo Goes Latin](https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf) | 3:44 |
 | 77 | [Me Das](https://open.spotify.com/track/6zBkexycHADArkud3zGT6x) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Me Das](https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG) | 3:02 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 92 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 |
 | 93 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
 | 94 | [Ya Llego \(Captain Planet Remix\)](https://open.spotify.com/track/3ofJQlyeMIigLD3hSJUyME) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 4:04 |
-| 95 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
-| 96 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
+| 95 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
+| 96 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
 | 97 | [Tiene Sabor](https://open.spotify.com/track/6W9h0BezjB0P5Zcf2FWMPu) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/1fZmMKEOWePGgosLE7npHx) | 3:17 |
 | 98 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 |
 | 99 | [Perdoa](https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Nova Bis \- Paulinho da Viola](https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa) | 3:58 |

@@ -1,6 +1,6 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16302,
+  "num_followers": 16303,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        },
-        {
-          "name": "Maunatrack",
-          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
-        }
-      ],
-      "duration_ms": 194702,
-      "name": "Irrefre\u00e1vel",
-      "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Horas",
         "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 164000,
       "name": "4 Horas",
       "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "duration_ms": 194702,
+      "name": "Irrefre\u00e1vel",
+      "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
     },
     {
       "added_at": null,
@@ -839,34 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set da Menorzinha 1.0",
-        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
-      },
-      "artists": [
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 324986,
-      "name": "Set da Menorzinha 1.0",
-      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -891,6 +863,34 @@
       "duration_ms": 161642,
       "name": "Fofoca",
       "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+      },
+      "artists": [
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
       "added_at": null,
@@ -943,34 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Jogo",
-      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -995,6 +967,34 @@
       "duration_ms": 172941,
       "name": "Ainda Sinto Muito",
       "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Jogo",
+      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
     },
     {
       "added_at": null,
@@ -1127,6 +1127,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sucessagem",
+        "url": "https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F"
+      },
+      "artists": [
+        {
+          "name": "Mulambo",
+          "url": "https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu"
+        },
+        {
+          "name": "ykymani",
+          "url": "https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Sucessagem",
+      "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sucessagem",
-        "url": "https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F"
-      },
-      "artists": [
-        {
-          "name": "Mulambo",
-          "url": "https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu"
-        },
-        {
-          "name": "ykymani",
-          "url": "https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Sucessagem",
-      "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
     },
     {
       "added_at": null,

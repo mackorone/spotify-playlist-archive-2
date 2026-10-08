@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,505 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,510 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Jhoomelo \(feat\. Hansa Devi\) \- Maati S1](https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Deepak Ramola](https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4), [Hansa Devi](https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9) | [Jhoomelo \(feat\. Hansa Devi\) \[Maati S1\]](https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn) | 4:19 |
 | 50 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 |
 
-Snapshot ID: `AAAAANdroQe2RLMOaPNWLTylre3ZDXFF`
+Snapshot ID: `AAAAACGgRkQOGrUVGc+SpDJCRu510wCv`

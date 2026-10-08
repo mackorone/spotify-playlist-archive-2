@@ -1,12 +1,12 @@
 {
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3465,
+  "num_followers": 3467,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAArMdToOcYdsZbEuFiRbx2i",
+  "snapshot_id": "asLogAAAAACy/iEwUXXz7qBZF+XZf7Rd",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 482146,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broadway Boogie-Woogie",
-        "url": "https://open.spotify.com/album/3WuJlf4nyLNpeVV0qcKDyo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Broadway Boogie-Woogie",
-      "url": "https://open.spotify.com/track/5CSlxDnahWLG5Qv9UGQbrV"
     },
     {
       "added_at": null,
@@ -115,6 +99,22 @@
       "duration_ms": 559466,
       "name": "Amsterdam Blue",
       "url": "https://open.spotify.com/track/718TYrpVu69StJUaZZs3j3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadway Boogie-Woogie",
+        "url": "https://open.spotify.com/album/3WuJlf4nyLNpeVV0qcKDyo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Broadway Boogie-Woogie",
+      "url": "https://open.spotify.com/track/5CSlxDnahWLG5Qv9UGQbrV"
     },
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 120426,
-      "name": "Empire I",
-      "url": "https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
         "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
       },
@@ -231,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listening To Pictures (Pentimento Volume One)",
-        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
       },
       "artists": [
         {
@@ -240,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 369013,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu"
+      "duration_ms": 120426,
+      "name": "Empire I",
+      "url": "https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu"
     },
     {
       "added_at": null,
@@ -263,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
       },
       "artists": [
         {
@@ -272,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Moons Of Titan",
-      "url": "https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO"
+      "duration_ms": 369013,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu"
     },
     {
       "added_at": null,
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listening To Pictures (Pentimento Volume One)",
-        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
       },
       "artists": [
         {
@@ -324,9 +308,25 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Slipstream",
-      "url": "https://open.spotify.com/track/2RxYle9Er6QGqrrzzwYDfi"
+      "duration_ms": 258653,
+      "name": "Moons Of Titan",
+      "url": "https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Is Invisible (Pentimento Volume Three)",
+        "url": "https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 978386,
+      "name": "Electric Forest",
+      "url": "https://open.spotify.com/track/0bn7sBltD07tzaTqItXuyy"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Is Invisible (Pentimento Volume Three)",
-        "url": "https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8"
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 978386,
-      "name": "Electric Forest",
-      "url": "https://open.spotify.com/track/0bn7sBltD07tzaTqItXuyy"
+      "duration_ms": 174773,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/2RxYle9Er6QGqrrzzwYDfi"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 1314912,
+      "name": "Vernal Equinox",
+      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siwan",
         "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 403186,
       "name": "Itimad",
       "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 1314912,
-      "name": "Vernal Equinox",
-      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
     },
     {
       "added_at": null,

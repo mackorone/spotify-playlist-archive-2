@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,424 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,426 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 55 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
 | 56 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
 | 57 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
-| 58 | [What Do the Lonely Do at Christmas?](https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy) | [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC), [GET TUFF](https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy) | [A Very Skatune Christmas](https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0) | 3:20 |
-| 59 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
+| 58 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
+| 59 | [What Do the Lonely Do at Christmas?](https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy) | [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC), [GET TUFF](https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy) | [A Very Skatune Christmas](https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0) | 3:20 |
 | 60 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
-| 61 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 |
-| 62 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
+| 61 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
+| 62 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 |
 | 63 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
 | 64 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 |
 | 65 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 |

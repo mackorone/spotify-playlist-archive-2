@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 579 likes - 76 songs - 4 hr 50 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 590 likes - 82 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,11 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 74 | [Rise](https://open.spotify.com/track/7mYCsCoJSehy39yICnduge) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Rise](https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf) | 4:22 |
 | 75 | [My Last Song](https://open.spotify.com/track/1vA3Eckd0hUPGctLZsLSis) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [If Beethoven Was a Punk](https://open.spotify.com/album/1MZl3M08invYemenKtPv7T) | 3:23 |
 | 76 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
+| 77 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
+| 78 | [Inside](https://open.spotify.com/track/2OfhgQDlDez0yPOQZEc60G) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Inside](https://open.spotify.com/album/3CAp4acIzCXeGfpmQ8zqUo) | 5:02 |
+| 79 | [Montón de Estrellas](https://open.spotify.com/track/4vaSK9RbyvcBQEyDtVisBA) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr), [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Bailando Con El Dolor](https://open.spotify.com/album/2M2iwFTPg0rk0gdzYf57uK) | 3:06 |
+| 80 | [Always On](https://open.spotify.com/track/0lCf9xdDEjxDj8nGSFPI5C) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Always On](https://open.spotify.com/album/3RnUYqUywR0C0wgTo4Nt6T) | 2:56 |
+| 81 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
+| 82 | [Right Decision \- Remastered](https://open.spotify.com/track/3UGPBZMouJqeuPoRNNyVNz) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Right Decision \(Remastered\)](https://open.spotify.com/album/5Q5EZatUiY8iMKRVYgcJ60) | 4:28 |
 
-Snapshot ID: `AAACPzIg2OX3iYE1mAyjutlPBT3njPx/`
+Snapshot ID: `AAACRdkZDwMmtbHg+PdOcgq8yPlCLGsb`

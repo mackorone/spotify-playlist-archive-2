@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian
 
-613 songs - 1 day 7 hr 53 min
+614 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 | 2023-12-08 | 2024-05-11 |
 | [La Despedida](https://open.spotify.com/track/5fYkgGMrYss0OYJQWki4jn) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [La Despedida](https://open.spotify.com/album/1gkyF5oXDdgY5UNfyY8yNl) | 3:14 | 2023-03-24 | 2023-05-13 |
 | [La Fría](https://open.spotify.com/track/2EXTGv7D8f5EuVrErTxakD) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy) | [La Fría](https://open.spotify.com/album/0udcpZ0Je3sea6o9Jd66zX) | 2:37 | 2025-09-26 | 2025-11-15 |
+| [La Fábula](https://open.spotify.com/track/6AJpmsldHFaBUkjKV0DX9j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [La Fábula](https://open.spotify.com/album/49zomDfCjLkMlgvVXEzswY) | 2:41 | 2026-10-07 |  |
 | [La Gente Cambia](https://open.spotify.com/track/6j7DWRBNyPSTCVSWxU0i6H) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [La Gente Cambia](https://open.spotify.com/album/6uLzNTjUZ17b0xH787wmj2) | 2:32 | 2026-03-20 | 2026-03-27 |
 | [La Hora del Té](https://open.spotify.com/track/4JWoLPZvAZ691O7GDXLqNM) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [La Hora del Té](https://open.spotify.com/album/5fYVHDiupfzLfn2NnCDFJj) | 2:54 | 2023-07-21 | 2023-08-05 |
 | [La Noche Que No Había Uber](https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [La Noche Que No Había Uber](https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi) | 2:43 | 2025-10-17 | 2026-01-17 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,775 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,785 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 | 2 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
 | 3 | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 |
-| 4 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
+| 4 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 5 | [GAMINA](https://open.spotify.com/track/5E6Mn8HCO1izFhRm2PFxNq) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 2:26 |
 | 6 | [Dichavate](https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Dichavate](https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF) | 4:06 |
 | 7 | [50 MIL PIEX](https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 4:04 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 32 | [QUÉ LÍO](https://open.spotify.com/track/2lqlHNnVrKT3Pqolktx1nK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 2:12 |
 | 33 | [4 Life](https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [4 Life](https://open.spotify.com/album/39PEyxBEGMFlGdGIgCrCn9) | 2:47 |
 | 34 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
-| 35 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 35 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 36 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 | 37 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 |
 | 38 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/0sLYR3myPmuIKRzDdeQta0) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [UNA BABY EN SANTIAGO](https://open.spotify.com/album/2GXdbhlSMDcnJwIepOYp6C) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 |
 | 50 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 
-Snapshot ID: `Mlh5OAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlnPaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,10 +4,11 @@
 
 > Estoy Bien en portada.
 
-614 songs - 1 day 12 hr 57 min
+615 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#MÚSICA](https://open.spotify.com/track/4fiEaNdfAdT6SLcfGckzVy) | [Idea Blanco](https://open.spotify.com/artist/2Po6ad6yuJHVPjd40q4ipt), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [\#MÚSICA](https://open.spotify.com/album/5iwdJcYOPNuLqrDooaVjT0) | 3:45 | 2026-10-02 |  |
 | [10 minutos](https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [10 minutos](https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI) | 3:22 | 2024-08-23 | 2026-07-25 |
 | [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 | 2023-01-28 |
 | [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 | 2024-08-16 | 2026-07-25 |

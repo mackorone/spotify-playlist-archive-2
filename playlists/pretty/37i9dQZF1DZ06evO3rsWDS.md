@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,101 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,102 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/3EVfXwnHa1FwjfINtwKIE7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México](https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg) | 3:11 |
 | 50 | [SOMOS](https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:41 |
 
-Snapshot ID: `asGXAAAAAAComt+fa5JVj83+kIUUbccW`
+Snapshot ID: `asLogAAAAABMbjx72rzYc2wFiZoYLwcb`

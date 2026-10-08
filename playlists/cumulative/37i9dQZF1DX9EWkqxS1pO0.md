@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Betül Çiçekyurt
 
-445 songs - 22 hr 46 min
+446 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Bırak Yağsın Üstümüze](https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Bırak Yağsın Üstümüze](https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu) | 3:20 | 2025-09-25 |  |
 | [Bıraktım Kendimi](https://open.spotify.com/track/7korBCTdbsKmVODaL0HZbe) | [Büşra Targan](https://open.spotify.com/artist/3B7KIZNV69En8cYOMQhGHg) | [Bıraktım Kendimi](https://open.spotify.com/album/13ej0ETDvXuyZb9yXGB18Y) | 3:02 | 2025-09-25 | 2025-11-07 |
 | [Bıraktığın Gibi](https://open.spotify.com/track/6xbGuKshqxhGvECYXF2hD9) | [Ege Sel](https://open.spotify.com/artist/3ppamONbm5lz6Ho7wSWzVy) | [Bıraktığın Gibi](https://open.spotify.com/album/5SmRlGzV4wXUFrVcEoyfFJ) | 2:33 | 2025-01-23 | 2025-02-08 |
+| [Canavar](https://open.spotify.com/track/4Gg49dc8s9lheUrHKo4Hsh) | [Tesadüfen Karşılaştık](https://open.spotify.com/artist/1Fm0unHNngf7VWVc0yR0H6) | [Canavar](https://open.spotify.com/album/2uRcOyoy4z52aIfA3tz8IG) | 3:49 | 2026-10-06 |  |
 | [Cehennem](https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Cehennem](https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1) | 2:25 | 2024-06-20 | 2024-08-09 |
 | [Cehennemin 7\. Katı](https://open.spotify.com/track/0qY5UficufBBTbaz4ws4mU) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Cehennemin 7\. Katı](https://open.spotify.com/album/3lKnbBidabZqQawdK1cG4Y) | 3:08 | 2025-09-12 | 2025-10-15 |
 | [Ciğerime](https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [Ciğerime](https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu) | 3:32 | 2024-12-19 |  |
@@ -384,7 +385,7 @@
 | [Yangında Dans](https://open.spotify.com/track/6Q5CVbn9c6oTWk9ISOaq9u) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Yangında Dans](https://open.spotify.com/album/1lF1JvqUKYbM01InpFZDBh) | 3:30 | 2025-07-24 | 2025-12-19 |
 | [YANILSAMA](https://open.spotify.com/track/4wTSdizMPYWi8uWGm66ypW) | [zeynep](https://open.spotify.com/artist/4R3Ybs40poIDUIiQGbEkHe) | [YANILSAMA](https://open.spotify.com/album/3RM5nHzbK75y6kkjsdCKlw) | 2:19 | 2026-01-08 | 2026-03-09 |
 | [Yanlış Yalnız](https://open.spotify.com/track/7vLJSDZTOsohSEn3F6lcBr) | [İnsanlık Hali](https://open.spotify.com/artist/0fn5WFRFyd4iHglCrNPqyo) | [Yanlış Yalnız](https://open.spotify.com/album/2SswNMeI21i4t2UDAy1t85) | 2:59 | 2026-05-08 | 2026-06-19 |
-| [Yansın Kalp](https://open.spotify.com/track/4BL5xBaYEfWI9EkL04TPsC) | [Duygu Yıldırım](https://open.spotify.com/artist/2c9qEftm02GFH2iUk60AqY) | [Yansın Kalp](https://open.spotify.com/album/7ItKbdVCW5l0gi6VnpjBqF) | 2:12 | 2026-09-15 |  |
+| [Yansın Kalp](https://open.spotify.com/track/4BL5xBaYEfWI9EkL04TPsC) | [Duygu Yıldırım](https://open.spotify.com/artist/2c9qEftm02GFH2iUk60AqY) | [Yansın Kalp](https://open.spotify.com/album/7ItKbdVCW5l0gi6VnpjBqF) | 2:12 | 2026-09-15 | 2026-10-08 |
 | [Yanımda Kal](https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU) | [Reva](https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg) | [Yanımda Kal](https://open.spotify.com/album/0ddX2lBevpgtszev4sCEZP) | 2:18 | 2026-09-22 |  |
 | [Yanımda Ol](https://open.spotify.com/track/5Ycw6Hh1IKdEyumGBVS5Y9) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71), [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [Yanımda Ol](https://open.spotify.com/album/6TSwhuFNoVRe0LyqFLG24K) | 2:38 | 2025-04-18 | 2025-05-16 |
 | [Yanına Kalacak](https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Yanına Kalacak](https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU) | 2:22 | 2024-06-20 | 2024-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,393 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,395 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 55 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
 | 56 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
-| 57 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
-| 58 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 |
-| 59 | [Taladrarr](https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4) | [Baby Flexxx](https://open.spotify.com/artist/5Lpooe77iQDMZpSeJkMbIK), [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Taladrarr](https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp) | 2:29 |
+| 57 | [Taladrarr](https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4) | [Baby Flexxx](https://open.spotify.com/artist/5Lpooe77iQDMZpSeJkMbIK), [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Taladrarr](https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp) | 2:29 |
+| 58 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
+| 59 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 |
 | 60 | [Bandi2 \(feat\. Blow Music\)](https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ) | [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Blow Music](https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW) | [Bandi2 \(feat\. Blow Music\)](https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq) | 2:28 |
 
 Snapshot ID: `AAAAAEKWCwVME6rvPwGRb3NOqak/HBtO`

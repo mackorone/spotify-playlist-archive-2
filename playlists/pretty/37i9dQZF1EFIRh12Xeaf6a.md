@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,429 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,432 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 74 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
 | 75 | [Here I Am \(Singing My Way Home\)](https://open.spotify.com/track/6wLJiRkrSbqPzbNnrKSYNX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 5:14 |
 | 76 | [Locomotion](https://open.spotify.com/track/4qU3rCua1Reim2oWrpJ0dX) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Whole Again](https://open.spotify.com/album/4VuJFEPS26mYOzANVdLeV2) | 3:32 |
-| 77 | [Hung On You](https://open.spotify.com/track/4HHI8Bjcxt6gsRpgAp9B7w) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Back To Back](https://open.spotify.com/album/0EDQbxkH9D3X5EFl1o18Yc) | 3:24 |
-| 78 | [At the Club \- Single Version](https://open.spotify.com/track/2O5tP6uuOZBhVwDeO4T6Hk) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [I'll Take You Where the Music's Playing](https://open.spotify.com/album/6e1doqX3DiZ9FKO4R1Yj2O) | 2:59 |
+| 77 | [At the Club \- Single Version](https://open.spotify.com/track/2O5tP6uuOZBhVwDeO4T6Hk) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [I'll Take You Where the Music's Playing](https://open.spotify.com/album/6e1doqX3DiZ9FKO4R1Yj2O) | 2:59 |
+| 78 | [Hung On You](https://open.spotify.com/track/4HHI8Bjcxt6gsRpgAp9B7w) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Back To Back](https://open.spotify.com/album/0EDQbxkH9D3X5EFl1o18Yc) | 3:24 |
 | 79 | [Sweet Young Thing](https://open.spotify.com/track/7iJuF15LRMXEKbgjuZKTjx) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees](https://open.spotify.com/album/5mJ9kXbLf0oleEBefPcD3n) | 1:56 |
 | 80 | [Goodbye Don't Mean I'm Gone](https://open.spotify.com/track/2R0RZiBr3JzEJR703AkcZh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:33 |
 | 81 | [Is This What I Get For Loving You?](https://open.spotify.com/track/2F4ix8buVKDFhVH4yjOg2s) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 3:21 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 196 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
 | 197 | [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 |
 | 198 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
-| 199 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
-| 200 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
+| 199 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
+| 200 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
 | 201 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
 | 202 | [Wasn't It You](https://open.spotify.com/track/10Kc9dCFGsDpJtD6AXh2GM) | [The Action](https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36) | [Keep On Holding On](https://open.spotify.com/album/4YseHyxnLXpZ0W2MKB8yM0) | 2:52 |
 | 203 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AceQGgAAAAACxVPIy+EInn/DC06nKVdo`
+Snapshot ID: `AceV9gAAAABOYjH1B7q1+72wUoXLqJ7K`

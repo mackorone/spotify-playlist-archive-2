@@ -2,38 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 ### [EQUAL Chile](https://open.spotify.com/playlist/37i9dQZF1DXaXeq4HFmqQR)
 
-> Mujeres a todo volumen x  J18 💚
+> Curada por María José Quintanilla, embajadora EQUAL Chile\. Mujeres a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,125 likes - 27 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,123 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [oda al canto](https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [Donttt](https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:58 |
-| 2 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 |
-| 3 | [He Tenido Conflicto Con El Mar..](https://open.spotify.com/track/3c0CdGtC4VSlBLTJ54A1Ze) | [necesito el valor tanto como necesito el miedo](https://open.spotify.com/artist/2sq3mDhdlUbt8n7V40osrd) | [Schoenstatt](https://open.spotify.com/album/0TjEfJZwFNy64zWStOBINx) | 1:53 |
-| 4 | [Volver a los 17](https://open.spotify.com/track/5bf9o4Nok6R91nwKhG1moz) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las Últimas Composiciones](https://open.spotify.com/album/66c0DCAn6T4o0PT1DEakoK) | 4:09 |
-| 5 | [CAMILA](https://open.spotify.com/track/7b363q89iDxFIEH8XbpKGL) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [CAMILA](https://open.spotify.com/album/1580M9zUjcy8jruoGde1Gx) | 2:54 |
-| 6 | [<3](https://open.spotify.com/track/6rMroNvs2NTtXix4PgII87) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/1KIpRUGGdnCRaABSy1dbUr) | 2:22 |
-| 7 | [Un Audífono Tú, Un Audífono Yo](https://open.spotify.com/track/33BKenEc2lkctirgnT9Rhc) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mena](https://open.spotify.com/album/5sJ8qbvnUMa3I4yTOmCeBj) | 3:12 |
-| 8 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
-| 9 | [el pasar](https://open.spotify.com/track/0KQVwj5JL3t4y6STEARnJ2) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [el pasar](https://open.spotify.com/album/1e5qE5UucOgt7Ym3qWldn8) | 2:58 |
-| 10 | [Humedad](https://open.spotify.com/track/0by4X58spq3FoNEfIjhDkD) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [Corte en Trámite](https://open.spotify.com/album/1Dh9xg4U37M4Z4heZEe7PL) | 4:15 |
-| 11 | [Laurel](https://open.spotify.com/track/0uKipWqh5ojbqx4Llf8Q51) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/4IyFwWA1sh3ZtU0LmJQhzi) | 5:13 |
-| 12 | [100mts](https://open.spotify.com/track/3W599WmEMP943DOZSUltAB) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [tanquemante](https://open.spotify.com/album/4eHbFAQqWkCAOWKUr64pu3) | 4:16 |
-| 13 | [Como Siempre Soñé](https://open.spotify.com/track/7jpkzHRHTAXpEL0jx5w4RY) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Esquemas Juveniles](https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF) | 4:50 |
-| 14 | [miradas](https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:30 |
-| 15 | [Quiero Verte Más](https://open.spotify.com/track/0i6XgWT1d0D6za4d8dsvtj) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Buen Soldado](https://open.spotify.com/album/64gFw7bo3jJkkN8lUOhw9z) | 4:11 |
-| 16 | [DESPERTAR](https://open.spotify.com/track/1cyrbBffNcEgV0hqSOFMRg) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/2DP3sIyBRUSgzTncX0DHEa) | 2:54 |
-| 17 | [no estoy in love with you !](https://open.spotify.com/track/6g2s4DWc8NF8nuu2mJGK0P) | [SOF](https://open.spotify.com/artist/1kG7OMDeN23qY6oZ2OaT0q) | [Y/N](https://open.spotify.com/album/79xIwAh6BTw30p4KrVNfeD) | 2:45 |
-| 18 | [Ms bunni](https://open.spotify.com/track/09Bn5wsUqXrqj7Pniynf4f) | [fufibunni](https://open.spotify.com/artist/7xh1sdWEN8LTwNcyLOXOpt) | [Ms bunni](https://open.spotify.com/album/3CMP5oSvYwyscgHoWU1jXf) | 2:07 |
-| 19 | [La vida sin ti](https://open.spotify.com/track/59ptQCrVeLHJxCd0tBLkx9) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [El Blog de la Feña](https://open.spotify.com/album/1jEdZC6xKS6PSmhOhsDYJQ) | 3:10 |
-| 20 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
-| 21 | [ALGO CELESTIAL](https://open.spotify.com/track/2OQDmkg5gUH9naAtKN6bLC) | [NIEBLA NIEBLA](https://open.spotify.com/artist/7ahBEm29YzveuTOPz6jS06) | [cuando te sueño ੈ♡˳\*☾](https://open.spotify.com/album/1HaSQIpqCZ81LrlclKyVvb) | 4:09 |
-| 22 | [Pide un deseo ✩](https://open.spotify.com/track/5EZpbJEX1oR9Pw9BtiuYUm) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [★ Vía Lo Orozco ★](https://open.spotify.com/album/47KX5jJMeO0vaFamzQIEjN) | 4:15 |
-| 23 | [espacios.cl](https://open.spotify.com/track/0ZFY4m6n9l6RhhVTTU9nQH) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [emmi](https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC) | [DRÖMHUS](https://open.spotify.com/album/2ff415O6ZAhXQvZtlQhN1g) | 2:48 |
-| 24 | [Voy a hacer las cosas lento](https://open.spotify.com/track/3XjKuCi6B26tq90Q1fmWB3) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/0qsLOJtyint9dpzrzfZBEA) | 3:28 |
-| 25 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
-| 26 | [ahora o en otro lugar](https://open.spotify.com/track/5LkYmOqLEYXG6McitKu2P6) | [kane](https://open.spotify.com/artist/51fS6jVtzFuPRjDTh3EYou), [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb) | [ahora o en otro lugar](https://open.spotify.com/album/35gLV2GwVkbZLdr4syUbQu) | 3:27 |
-| 27 | [Cámara Lenta](https://open.spotify.com/track/4U81c3umCx8ZkvLqmU4Wtw) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Esquemas Juveniles](https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF) | 5:26 |
+| 1 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
+| 2 | [Mazúrquica modérnica](https://open.spotify.com/track/6u9cR33DktNGWlTnupd7qp) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [L'art de Violeta Parra \- Un rio de sangre \(REMASTERED 2024\)](https://open.spotify.com/album/5iXb5ckKiNW36F6jrjg5Fv) | 2:17 |
+| 3 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
+| 4 | [Buen Soldado](https://open.spotify.com/track/4OIsuylBMB5jRrxSTNBEM0) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Buen Soldado](https://open.spotify.com/album/64gFw7bo3jJkkN8lUOhw9z) | 3:40 |
+| 5 | [Pure De Papas](https://open.spotify.com/track/6ZycYCq5SAnZIgTMW5S0i4) | [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [La Incomparable](https://open.spotify.com/album/2N2w7XvVhRqJu8FdngmqWI) | 2:16 |
+| 6 | [FUE DIFICIL](https://open.spotify.com/track/2aE0HrYHGbyXpgOnMY03Id) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/0sdLIL3OnkBlM48PzdSSGW) | 3:44 |
+| 7 | [Fé](https://open.spotify.com/track/0o0DyTpVblyB3KXKVOJtLu) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 4:46 |
+| 8 | [Millones](https://open.spotify.com/track/7lNhejBnuQRbekkejvhMsH) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0dHU4sN4PDuGOYMuWKU1kw) | 3:42 |
+| 9 | [Mío](https://open.spotify.com/track/7kEjUGRbtBDDxasgq6coRN) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dos](https://open.spotify.com/album/46uZCKwuDk9FY6urFLAVxS) | 3:31 |
+| 10 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 |
+| 11 | [Darte Luz](https://open.spotify.com/track/1YYHvUHl1gEzJOfpXkNEqw) | [Francesca Ancarola](https://open.spotify.com/artist/6clzHoQL1WN2thmMeOalxc) | [Pasaje de Ida y Vuelta](https://open.spotify.com/album/4m8OCfOrBZvk3aOMgJgls8) | 3:38 |
+| 12 | [Déjalo](https://open.spotify.com/track/3ZR0ip6TZojZEZrG6T5Bay) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Déjalo](https://open.spotify.com/album/3oW5v4mz6pp4b8WHe8b4zr) | 3:18 |
+| 13 | [Ajeno](https://open.spotify.com/track/73YRzdD98e5ISIeKy9aFzM) | [Palmenia Pizarro](https://open.spotify.com/artist/6nlTg71qrWHgLpmvJvcSso) | [Ajeno](https://open.spotify.com/album/3XIJW01SIAzGQ8UkUzN5tD) | 3:00 |
+| 14 | [Hoy](https://open.spotify.com/track/2iQIOLSvsHexkMWe8lc9ln) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Hoy](https://open.spotify.com/album/7rkNCBdrCX1UdrEVEzUQmI) | 4:17 |
+| 15 | [El Albertío](https://open.spotify.com/track/4Whd5DRt7MPytQoaOVBa3D) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:52 |
+| 16 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 |
+| 17 | [Agua Segura](https://open.spotify.com/track/370og6FUM8StmfUu0HlNHg) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Agua Segura](https://open.spotify.com/album/5ib8uflEioRN1AbZS9kWvT) | 3:40 |
+| 18 | [Te Traigo Flores](https://open.spotify.com/track/7BXxNdkUkmXcPnBlq252bs) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/0hcEnppUcbsvBKIKNMCKde) | 3:51 |
+| 19 | [Vengo De Pobla](https://open.spotify.com/track/4TTbMxEowPmracwacGVPjb) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Vengo De Pobla](https://open.spotify.com/album/0dtHuC1DQY7QcysAyTuevg) | 3:08 |
+| 20 | [Ni Toda la Tierra Entera](https://open.spotify.com/track/6bZZ4RrTbJDyxfKByjHf2A) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Como una Historia](https://open.spotify.com/album/2es4JIYDfEzjFYTRPDy8yM) | 3:25 |
+| 21 | [Futuro](https://open.spotify.com/track/2ZeHnQN2Mcl2I5hEM3EcX0) | [Claudia Acuna](https://open.spotify.com/artist/48gcFrdOekqkGyMxJTWWJ9) | [Turning Pages](https://open.spotify.com/album/5UTiu9PKAh7O47UhBotYpM) | 3:56 |
+| 22 | [Inmarchitable.](https://open.spotify.com/track/2Jz45D2RSAp3fWrIjJca4R) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Inmarchitable](https://open.spotify.com/album/441qKAGzYd3HnVCgFG7MFH) | 5:45 |
+| 23 | [No Voy a Llorar](https://open.spotify.com/track/1cgofeXF0zVlQtP4um0sC8) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Paula Rivas](https://open.spotify.com/album/6MbuSpabmq6RRs0WdLNcnR) | 4:17 |
+| 24 | [Aunque Se](https://open.spotify.com/track/7HQKdftOupOZb6xsxIWKnG) | [Luz Eliana](https://open.spotify.com/artist/6oDRZXbFciNI9WCdvtydPl) | [Aquel Beso](https://open.spotify.com/album/2JXhlp4WVUnYWVTsBuG9Dl) | 2:06 |
+| 25 | [La Maleta](https://open.spotify.com/track/4VGCUr5HMgofSYxIDpFByq) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [La Maleta](https://open.spotify.com/album/1OtPQtIb03iPEON0DA7psY) | 3:12 |
 
-Snapshot ID: `AAAAAEHDW9Q6xYE0LnS8FWscsRbKUokT`
+Snapshot ID: `AAAAAByX46rnOIH3YxD0AJ/QdTNgkBoR`

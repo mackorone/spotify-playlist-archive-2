@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-334 songs - 19 hr 56 min
+336 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2025-07-03 | 2025-11-21 |
 | [Anything He Was](https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Anything He Was](https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV) | 3:59 | 2026-07-07 |  |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-06-27 | 2025-12-12 |
-| [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 |  |
+| [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 | 2026-10-08 |
 | [At The Doorstep](https://open.spotify.com/track/3evxjPveHGuE03icXo1iQu) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Robin Wander Smit](https://open.spotify.com/artist/64xvDazGTL9SE8nc7BVWJp) | [At The Doorstep](https://open.spotify.com/album/6OQOHKIJt0CZ7KB90i3or7) | 3:15 | 2024-06-27 | 2024-10-04 |
 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 | 2025-01-23 | 2025-02-24 |
 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-07-03 |  |
@@ -177,6 +177,7 @@
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-07 |  |
 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-03-30 | 2026-07-18 |
 | [Miffed It](https://open.spotify.com/track/4wmnvRtZ4BNmXQ4sRrUbpg) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 4:06 | 2026-07-07 |  |
+| [milk song](https://open.spotify.com/track/41NkKY7XckknHuM9MznKlL) | [FEMI](https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw) | [milk song](https://open.spotify.com/album/031A1YrvCP52bjYgQR5oJD) | 3:30 | 2026-10-07 |  |
 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-23 |  |
 | [Mine](https://open.spotify.com/track/3UQhGFxNjCN2DjnEzYXfRi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:08 | 2025-07-03 | 2025-09-20 |
 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 | 2025-09-19 |  |
@@ -280,7 +281,7 @@
 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 | 2025-09-19 | 2025-10-24 |
 | [Superhero](https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [Superhero](https://open.spotify.com/album/6zt3YRyXOr4TDbJksVnfuX) | 2:09 | 2024-09-19 | 2025-01-24 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2025-07-03 | 2026-07-08 |
-| [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 | 2026-09-07 |  |
+| [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 | 2026-09-07 | 2026-10-08 |
 | [take my life \(back\)](https://open.spotify.com/track/5N4flJry5KjhlZ9REjMbqI) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [read me \- EP](https://open.spotify.com/album/3bxSpuh0ZJmq3llomSI75l) | 3:40 | 2025-07-03 | 2025-09-20 |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-11-11 | 2025-01-24 |
 | [Teeth](https://open.spotify.com/track/1Nhz0pS00D2bnlNLt0WIBd) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 1:39 | 2024-06-27 | 2025-01-30 |
@@ -292,6 +293,7 @@
 | [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 | 2025-08-14 | 2025-10-08 |
 | [The Gallery](https://open.spotify.com/track/3HLo1lNhX00b4DH2yRmGYE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:12 | 2025-07-03 | 2025-09-20 |
 | [The Giant](https://open.spotify.com/track/5Jl6UX6DzT1nf5EiuPdfuk) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [The Giant](https://open.spotify.com/album/60JyYSkfOJB9JlcUl5HNs2) | 8:12 | 2024-08-30 | 2025-01-24 |
+| [The Kid](https://open.spotify.com/track/6nuaqxG949UzL6pLZLVCb8) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [The Kid](https://open.spotify.com/album/7gEfwwmCPea9IDGTGCQixd) | 3:37 | 2026-10-07 |  |
 | [The Next Time We Meet](https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [The Next Time We Meet](https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA) | 3:03 | 2026-09-07 |  |
 | [The Puppet](https://open.spotify.com/track/7naZ7ZEhzqvBjvte3J15aw) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [The Puppet](https://open.spotify.com/album/5iTusNNEq8cTdJeWktMfdO) | 2:42 | 2025-07-03 | 2025-09-20 |
 | [The Resolution](https://open.spotify.com/track/1DcL3uJnX1Z2GjWLfiRXe4) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Down At The Root \(Pt\. 1\)](https://open.spotify.com/album/64PvjBHV394qu0x7dVegPV) | 3:52 | 2025-07-03 | 2025-09-20 |

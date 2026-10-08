@@ -1,13 +1,69 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Vardaan Malhotra",
-  "num_followers": 64489,
+  "description": "The best new music by independent artists and labels in India. Cover - Salt Rock",
+  "num_followers": 64541,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVWhvSvQ/ZQZ+vwID7LAYd26aM8",
+  "snapshot_id": "AAAAAFnskO3O8kw9+6GnEQGlHC9AAOvm",
   "tracks": [
+    {
+      "added_at": "2026-10-07 07:30:13",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5c5hZoBRXuYBp3zreTcLI7"
+      },
+      "artists": [
+        {
+          "name": "Salt Rock",
+          "url": "https://open.spotify.com/artist/5OFNDcRKJBVBzPh0oBZ9e5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5DquTD7gvAbHdoDJqxdvmz"
+    },
+    {
+      "added_at": "2026-10-07 07:30:13",
+      "album": {
+        "name": "Mohana and friends",
+        "url": "https://open.spotify.com/album/0SqBkiD7XClBmGPsdlFKkx"
+      },
+      "artists": [
+        {
+          "name": "Saroj Kashyap",
+          "url": "https://open.spotify.com/artist/2B9uyvPOGRnNfmprPhMADk"
+        },
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        },
+        {
+          "name": "Ritwik Bhattacharya",
+          "url": "https://open.spotify.com/artist/1ylULPt2Jzmn3J7QwWiZdl"
+        }
+      ],
+      "duration_ms": 225137,
+      "name": "Mohana",
+      "url": "https://open.spotify.com/track/2jDohE9NFVMoga8U8M8ksG"
+    },
+    {
+      "added_at": "2026-10-07 07:30:13",
+      "album": {
+        "name": "Raar",
+        "url": "https://open.spotify.com/album/4ht0xhqt6GQ0gRRDq4Safe"
+      },
+      "artists": [
+        {
+          "name": "Shubham Bharti",
+          "url": "https://open.spotify.com/artist/6Eg7ybH9CngAoprNXJCi4s"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Raar",
+      "url": "https://open.spotify.com/track/24Z79XO9HIWGpr5vFEsCtT"
+    },
     {
       "added_at": "2026-09-30 07:30:00",
       "album": {
@@ -25,20 +81,20 @@
       "url": "https://open.spotify.com/track/1Z2Pbh8juZxAZvk55M0wkr"
     },
     {
-      "added_at": "2026-09-30 07:30:00",
+      "added_at": "2026-09-16 07:30:21",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1ovrqBV0ZyHfhFAmC2aIat"
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
       },
       "artists": [
         {
-          "name": "The DANGERMEN",
-          "url": "https://open.spotify.com/artist/3r265DJWlrPiBBesljZ1Be"
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
         }
       ],
-      "duration_ms": 258351,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L"
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
     },
     {
       "added_at": "2026-09-16 07:30:21",
@@ -57,20 +113,20 @@
       "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
     },
     {
-      "added_at": "2026-09-16 07:30:21",
+      "added_at": "2026-09-30 07:30:00",
       "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1ovrqBV0ZyHfhFAmC2aIat"
       },
       "artists": [
         {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+          "name": "The DANGERMEN",
+          "url": "https://open.spotify.com/artist/3r265DJWlrPiBBesljZ1Be"
         }
       ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+      "duration_ms": 258351,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L"
     },
     {
       "added_at": "2026-09-16 07:30:21",
@@ -831,30 +887,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Ittefaq",
-        "url": "https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW"
-      },
-      "artists": [
-        {
-          "name": "Deepika Seth",
-          "url": "https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv"
-        },
-        {
-          "name": "Sagar Verma",
-          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
-        },
-        {
-          "name": "Rohan Upadeo",
-          "url": "https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Ittefaq",
-      "url": "https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Jaaniya",
         "url": "https://open.spotify.com/album/583lHoY81PCHU6Ma83WZ8k"
       },
@@ -871,26 +903,6 @@
       "duration_ms": 177777,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Tum Mere Hona",
-        "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
-      },
-      "artists": [
-        {
-          "name": "Yashashree Venkatesh",
-          "url": "https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu"
-        },
-        {
-          "name": "ANKUSH",
-          "url": "https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Tum Mere Hona",
-      "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -931,22 +943,6 @@
       "duration_ms": 196000,
       "name": "Tu Na Aayi",
       "url": "https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i"
-      },
-      "artists": [
-        {
-          "name": "Shreya Karmakar",
-          "url": "https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F"
-        }
-      ],
-      "duration_ms": 199884,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9"
     }
   ],
   "unique_name": "Fresh Finds India",

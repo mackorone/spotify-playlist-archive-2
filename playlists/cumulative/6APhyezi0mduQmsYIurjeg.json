@@ -1667,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Como Yo No Hay 2",
+        "url": "https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr"
+      },
+      "artists": [
+        {
+          "name": "Mil Disparos",
+          "url": "https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn"
+        },
+        {
+          "name": "Yaiza San Mart\u00edn",
+          "url": "https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232875,
+      "name": "Como Yo No Hay 2",
+      "url": "https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/5vh7YAjh8BErPIaw6kgkaf"
       },

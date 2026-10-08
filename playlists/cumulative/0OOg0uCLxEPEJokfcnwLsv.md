@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-675 songs - 1 day 17 hr 33 min
+677 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Broken Mirrors](https://open.spotify.com/track/7EutEoJcHg6Rapoc9BIPde) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Broken Mirrors](https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs) | 4:25 | 2026-01-17 | 2026-02-18 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-18 | 2026-01-21 |
 | [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 | 2026-06-09 | 2026-08-08 |
+| [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 | 2026-10-07 |  |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2025-12-13 | 2026-01-05 |
 | [Bullet](https://open.spotify.com/track/2C7E2SbFqS2GbExpD2hopJ) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [REV\-L\-REE](https://open.spotify.com/album/505KlJdJOgnwFvqcRlhYPc) | 5:06 | 2025-10-31 | 2025-11-22 |
 | [Burning both ends](https://open.spotify.com/track/7GUvC4o0t1aXFUZgAJXILD) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Burning both ends](https://open.spotify.com/album/0kHw2k5Cs1PZZXqqeFypBg) | 3:00 | 2026-03-28 | 2026-04-20 |
@@ -338,6 +339,7 @@
 | [Loophole](https://open.spotify.com/track/7bGqHpMXZK7EO2193SDGiz) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Loophole](https://open.spotify.com/album/4Gd7KgDAfgJ7tU9PirJXfU) | 4:13 | 2026-05-14 | 2026-08-08 |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2026-02-04 | 2026-02-23 |
+| [Los Cuadros](https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1) | [Zarza](https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l) | [Los Cuadros / La Mujer de Blanco: Parte I](https://open.spotify.com/album/210YJMofBY2znygVZXbV3g) | 4:41 | 2026-10-07 |  |
 | [Losing You](https://open.spotify.com/track/45fRaHQs6hOtqtnMjmXdA8) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Losing You](https://open.spotify.com/album/6PEwi2VdrTDb4DVYSo6pom) | 4:19 | 2026-08-18 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2026-08-29 |  |
 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 | 2026-09-16 |  |

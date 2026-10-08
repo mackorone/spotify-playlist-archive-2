@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Pilani Bubu
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,729 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,732 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 9 | [tropic of capricorn](https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 8:35 |
 | 10 | [Another One for Bra Zim \- Radio Edit](https://open.spotify.com/track/4PrDd4wOBaUYGBMD6N7IFi) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Another One for Bra Zim \(Radio Edit\)](https://open.spotify.com/album/5y9ZUDjEnAJNwgRaMR9pNY) | 4:51 |
 | 11 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
-| 12 | [Days Begin To Sing](https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [Days Begin To Sing](https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH) | 4:44 |
-| 13 | [Mama](https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Mama](https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN) | 4:20 |
+| 12 | [Mama](https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Mama](https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN) | 4:20 |
+| 13 | [Days Begin To Sing](https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [Days Begin To Sing](https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH) | 4:44 |
 | 14 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 |
 | 15 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
 | 16 | [Nguwe](https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Nguwe](https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ) | 5:09 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 23 | [Third World Child](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 |
 | 24 | [Family Gathering](https://open.spotify.com/track/7lxprar02ISIdUnNr4WeaT) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Family Gathering](https://open.spotify.com/album/7udmP1WAhbaQVLSw3nuvYD) | 4:56 |
 | 25 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 |
-| 26 | [Monate Ofedile](https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Invitation 2](https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5) | 4:18 |
-| 27 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
+| 26 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
+| 27 | [Monate Ofedile](https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Invitation 2](https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5) | 4:18 |
 | 28 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 |
 | 29 | [Indlela](https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Indlela](https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX) | 4:09 |
 | 30 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 56 | [Chant Song: Bakoena Ba Nkopane](https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Qalo](https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep) | 4:20 |
 | 57 | [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 |
 | 58 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
-| 59 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
-| 60 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
+| 59 | [Homecoming \(Part 1\) \- Revisited](https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Homecoming \(Part 1\) \[Revisited\]](https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT) | 6:11 |
+| 60 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
 
 Snapshot ID: `AAAAAFWlCjD6CDVgvJCP9KWe+cnNyQoM`

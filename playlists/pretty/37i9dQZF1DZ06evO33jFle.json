@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 558491,
+  "num_followers": 558562,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAB0OXLdQLkKBtF2G1XoLCf+",
+  "snapshot_id": "asLogAAAAAC5eGR9BfehaEyhuosZ0m/I",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
-        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 167386,
-      "name": "La Mentada Contestada",
-      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
+      "duration_ms": 209906,
+      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas Desde Hollywood (En Vivo)",
-        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
+      "duration_ms": 167386,
+      "name": "La Mentada Contestada",
+      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
     },
     {
       "added_at": null,

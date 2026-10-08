@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 
 > y mi sentimiento no lo cambiaré jamás, aunque sufra este tormento 🥺😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,574 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,640 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 2 | [Ella Se Olvido De Mí](https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Nunca Te Olvidaré](https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88) | 3:25 |
 | 3 | [Cumbia de los Pobres](https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 3:19 |
 | 4 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
-| 5 | [En MI Pancita](https://open.spotify.com/track/2jF8f1JPAs4rIj5BpE5PJP) | [Lagrimita Y Costel](https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7) | [Exitos](https://open.spotify.com/album/4VrZ86lDksP5gbJq0SJEg7) | 3:25 |
+| 5 | [En MI Pancita](https://open.spotify.com/track/2jF8f1JPAs4rIj5BpE5PJP) | [Lagrimita Y Costel](https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7), [Costel](https://open.spotify.com/artist/44FlfyVfCVQHykZe3fwcBo) | [Exitos](https://open.spotify.com/album/4VrZ86lDksP5gbJq0SJEg7) | 3:25 |
 | 6 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 7 | [Cuando Dos Almas](https://open.spotify.com/track/5GdtZl7qkwkZBLrZGebhLu) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [15 Exitos, Vol\. I](https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr) | 2:49 |
 | 8 | [Romance Glorioso](https://open.spotify.com/track/3lrhWADf9WixCep8pn0pzs) | [Alegria de Corazon](https://open.spotify.com/artist/3Z9VeisaRCuIedcG0QIyds) | [16 Exitos de Oro Puro](https://open.spotify.com/album/3oefr9jGrSRhXO4MoMdygq) | 3:00 |

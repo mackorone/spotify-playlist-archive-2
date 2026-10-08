@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, Learke, sixwing and more
+> With UrvTek, sixwing, STYXVII and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 698 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 46 | [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 |
 | 47 | [Crawling Thru Me \(Breathing\)](https://open.spotify.com/track/02Dx4qkCBWdhLePwAIU2mh) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [Songs I Probably Won't Get Sued For](https://open.spotify.com/album/6wvuLBJKItBHZwrC41hjOv) | 2:45 |
 | 48 | [Shit Yourself Violently](https://open.spotify.com/track/3KRIxu4nidUqvh5uCnOPLg) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [Sparkle Signal](https://open.spotify.com/album/3dyEzOmrM1UortWaIMorky) | 2:24 |
-| 49 | [Dumbass of the Century](https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:48 |
-| 50 | [Bite](https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv), [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [Bite](https://open.spotify.com/album/5f3L1abNkfjlFBw3zv8ncu) | 4:25 |
+| 49 | [I'm Your Baby](https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [I'm Your Baby](https://open.spotify.com/album/7fZ48NMjXmSMRC12cPBkr8) | 2:19 |
+| 50 | [I Need Coffee \- Remix](https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [Yuugen Vinny](https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE), [K.C.](https://open.spotify.com/artist/5TsA4C4tFtjDx096u6iJEJ) | [I Need Coffee \(Remix\)](https://open.spotify.com/album/274hzi9o9McMjY6x97RZw0) | 3:21 |
 
 Snapshot ID: `AAAAAGAFSCfv+rbbqlUBElghN5tJiaff`

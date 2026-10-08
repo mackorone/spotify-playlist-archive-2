@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,023 likes - 96 songs - 5 hr 52 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,025 likes - 97 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 68 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
 | 69 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
 | 70 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
-| 71 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
+| 71 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Zainab DiStasio](https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d), [Joseph Pincus](https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
 | 72 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 73 | [Conspiracy](https://open.spotify.com/track/3nDoAQ4zaic4rCvTLnNISO) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Conspiracy](https://open.spotify.com/album/7KgPv3FOzJlFGXk4tBrehJ) | 3:45 |
 | 74 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 94 | [Noise Keeper](https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [D Stone](https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9) | [Noise Keeper](https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW) | 3:42 |
 | 95 | [Dekki](https://open.spotify.com/track/7Egzpr24Fz9yiiwv6JOL7U) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV), [Maryama Cham](https://open.spotify.com/artist/1IgQXOB6xo098UpJplr6Lk), [Barhama](https://open.spotify.com/artist/0jTXrnQV2eR82q1EBCUwVJ), [Magatte Fall](https://open.spotify.com/artist/2TeuVsoJ6KllKdijMrqMm0) | [Dekki](https://open.spotify.com/album/3v3oKw1oLWonpsJ3obeaDT) | 4:28 |
 | 96 | [Houston](https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Houston](https://open.spotify.com/album/3T1BwJ9nC5UVAPXBhDtr2Q) | 3:43 |
+| 97 | [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 |
 
-Snapshot ID: `AAASMtFXlJPzm9MFB755ngEzYvZ6eaUq`
+Snapshot ID: `AAASMzRng/0xg4uHBXNpC6kFKMvThlF9`

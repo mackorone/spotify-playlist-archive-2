@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,910 likes - 295 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,036 likes - 295 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunny Skies](https://open.spotify.com/track/305dQSVH5RzzhVvCaVBqzJ) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [Sunny Skies](https://open.spotify.com/album/2XDb7gSjzmDoVggIGPaTbp) | 1:58 |
-| 2 | [London Bridge \(Piano Version\)](https://open.spotify.com/track/53OUBSsdeNaLWBlJgsCmCf) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [London Bridge](https://open.spotify.com/album/28rxlSckkCchLIKKBdBe2i) | 1:34 |
+| 2 | [London Bridge Is Falling Down \(Piano Version\)](https://open.spotify.com/track/53OUBSsdeNaLWBlJgsCmCf) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [London Bridge](https://open.spotify.com/album/28rxlSckkCchLIKKBdBe2i) | 1:34 |
 | 3 | [Baa Baa Black Sheep](https://open.spotify.com/track/33EWQ3PCX0dLK2jd0hlLcn) | [Tiny Hush](https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF) | [Baa Baa Black Sheep](https://open.spotify.com/album/5X5mV9AfkmTAA3HEy1zXvW) | 1:23 |
 | 4 | [My champion](https://open.spotify.com/track/0QmdWEgdxIT4fQyGbekOFY) | [Theo Lark](https://open.spotify.com/artist/0FfigyIHj5WhKXjDJxugWm) | [My champion](https://open.spotify.com/album/3ximrieoUEK2qvghFGNp5v) | 1:39 |
 | 5 | [Sleepy Paws](https://open.spotify.com/track/0BfCa01KAj9rSC4khCI4En) | [Archie Baldus](https://open.spotify.com/artist/2pCCPAG5DSGtXygR6emHDB) | [Sleepy Paws](https://open.spotify.com/album/3ouMMy0h5ckGcltMHi3NJV) | 1:54 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 85047,
+  "num_followers": 85106,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/7KQxlImedLJ7PUkh5iJDhx3Tz",
+  "snapshot_id": "AAAAAInklvUjdAyb7TynWwPgPT01dqth",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -215,6 +215,22 @@
       "duration_ms": 257659,
       "name": "Yenge Povadhu",
       "url": "https://open.spotify.com/track/4RNEGz8jiPA7i2VB42ul74"
+    },
+    {
+      "added_at": "2026-10-07 09:58:11",
+      "album": {
+        "name": "Rathinamo",
+        "url": "https://open.spotify.com/album/0mhWO74xsaV16ZOEVvP4xO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Rathinamo",
+      "url": "https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2"
     },
     {
       "added_at": "2026-09-18 10:19:28",

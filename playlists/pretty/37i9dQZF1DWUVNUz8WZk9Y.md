@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon the movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,730 likes - 41 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,758 likes - 41 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 33 | [パオパオダンス](https://open.spotify.com/track/2liVyrBKYjEt0jUXXLZrnY) | [Mao](https://open.spotify.com/artist/3FqWvozs0flehtWPsXuNdo), [ひばり児童合唱団](https://open.spotify.com/artist/2uTsoHGIkGX1Yz0VKOSD4l) | [映画ドラえもん のび太の南極カチコチ大冒険「パオパオダンス」](https://open.spotify.com/album/0w5MMmPIDAFdpEdDmOaAQ9) | 2:39 |
 | 34 | [YUME日和](https://open.spotify.com/track/78tE9IdvgaY0GA99p4qXy8) | [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [Delicious!〜The Best of Hitomi Shimatani〜](https://open.spotify.com/album/6jNMaxEg9Da0jUmv8jwmv6) | 4:03 |
 | 35 | [天までとどけ](https://open.spotify.com/track/6nPZ1aDIYfObOtdOaoEaOC) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 5:21 |
-| 36 | [かけがえのない詩](https://open.spotify.com/track/4PpHDUHL6HYPIahZDCX2Q7) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [TheBest Selection of ASIA](https://open.spotify.com/album/4Ebv1ivlrjcYyUsG1Qt2d2) | 5:09 |
+| 36 | [かけがえのない詩](https://open.spotify.com/track/4PpHDUHL6HYPIahZDCX2Q7) | [mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [TheBest Selection of ASIA](https://open.spotify.com/album/4Ebv1ivlrjcYyUsG1Qt2d2) | 5:09 |
 | 37 | [手をつなごう](https://open.spotify.com/track/1QoCVPSbayKifYbYIVDMV6) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Sing to the Sky](https://open.spotify.com/album/4dnXPRhXmwucQfyA2Qhlha) | 4:49 |
 | 38 | [帰る場所](https://open.spotify.com/track/5NkRMqbLWkWemyjsRpxVlg) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [BALLAD](https://open.spotify.com/album/0J4VLq05izAr156iadxgLc) | 3:58 |
 | 39 | [大切にするよ](https://open.spotify.com/track/4UF3JsmwjkCzuaP3zCribq) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [KO SHIBASAKI ALL TIME BEST 詩](https://open.spotify.com/album/3iBSAO7iI16Jw8vwIDTkXX) | 4:58 |

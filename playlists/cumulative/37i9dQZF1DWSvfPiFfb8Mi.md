@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-477 songs - 1 day 6 hr 36 min
+478 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Domino](https://open.spotify.com/track/4VaMlcKj3wWdFhOeyYCDgM) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Domino](https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK) | 4:31 | 2021-07-24 | 2023-05-20 |
 | [Don't Think Too Much \(feat\. Felly\)](https://open.spotify.com/track/5yPUak5idXlkZ03cClIdFi) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Don't Think Too Much \(feat\. Felly\)](https://open.spotify.com/album/0fI1qAnhXBJkQkKoUO3OmZ) | 3:34 | 2023-11-03 | 2026-07-18 |
 | [Don't Wanna Leave You](https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Don't Wanna Leave You](https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT) | 3:51 | 2025-02-21 | 2025-05-15 |
+| [Doo Wop A Doo \- Extended Mix](https://open.spotify.com/track/7ioWXXNAv04z5RHQlLj5QT) | [From Disco 2 Disco](https://open.spotify.com/artist/19gYvEofnEr2VogbvoaZHT) | [Doo Wop A Doo \(Extended Mix\)](https://open.spotify.com/album/4cpY7aMKLFBuzOTEhWkbjt) | 5:00 | 2026-10-02 |  |
 | [Dunston \(Bellaire Remix\)](https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Dunston \(Bellaire Remix\)](https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI) | 3:33 | 2023-08-04 | 2024-06-15 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2023-05-19 | 2026-05-16 |
 | [Easy To Love](https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Easy To Love](https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV) | 4:00 | 2025-03-28 |  |
@@ -391,7 +392,7 @@
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Stand Up](https://open.spotify.com/album/0RYjPzxyHrBPebqHtUbtIY) | 2:26 | 2024-03-22 | 2024-04-19 |
-| [Stick Together](https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Stick Together](https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX) | 1:50 | 2024-04-12 |  |
+| [Stick Together](https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Stick Together](https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX) | 1:50 | 2024-04-12 | 2026-10-08 |
 | [Stop The World](https://open.spotify.com/track/7hXWENKVs2XOlIdzgCMws7) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Stop The World](https://open.spotify.com/album/4Nd0jx1QuMiTgJgdJZBohf) | 3:32 | 2024-09-20 | 2025-02-17 |
 | [Street Player \- Dimitri From Paris Super Disco Blend, Pt\. I & II](https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4) | [Leonid & Friends](https://open.spotify.com/artist/238tF244RAl3ApUAr23NVc), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Street Player \(Dimitri From Paris Remixes\)](https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V) | 10:06 | 2023-05-19 | 2025-03-29 |
 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 | 2021-07-24 | 2023-05-20 |

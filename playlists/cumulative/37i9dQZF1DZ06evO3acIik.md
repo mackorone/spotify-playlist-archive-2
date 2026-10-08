@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-173 songs - 8 hr 41 min
+174 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bathroom](https://open.spotify.com/track/2CPPd0ke6cp59v079vDcUi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:28 | 2026-05-16 |  |
 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 | 2022-10-30 | 2026-05-16 |
 | [Beautiful Love](https://open.spotify.com/track/6mT8nJsctIeHQCo6zgtpdW) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:45 | 2022-09-14 | 2022-10-31 |
+| [Belong](https://open.spotify.com/track/3ej0eVZ6orLdaYTk5MckFc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:08 | 2026-10-08 |  |
 | [Better Off](https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 1:50 | 2024-09-01 | 2026-05-16 |
 | [Better Off](https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 1:50 | 2026-05-16 |  |
 | [Blame](https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:06 | 2022-10-30 | 2024-07-24 |
@@ -169,7 +170,7 @@
 | [What’s It Take to Be a Star?](https://open.spotify.com/track/3dH64MK2MPbar7Zbn1yMtF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:48 | 2024-10-25 | 2025-06-05 |
 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 | 2024-06-02 | 2026-05-17 |
 | [Who Did You Touch?](https://open.spotify.com/track/6CTctWuXG9ZyGkV6ZcgIB2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/3L1ds7cxGur2ccGMrnhPJD) | 3:28 | 2026-05-17 |  |
-| [Wings](https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj) | 2:48 | 2026-05-16 |  |
+| [Wings](https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj) | 2:48 | 2026-05-16 | 2026-10-08 |
 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 | 2022-09-14 | 2026-05-16 |
 | [Wisdomless Boy](https://open.spotify.com/track/1LATTtzqNO4o9MDxEbl2nC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 3:19 | 2022-09-14 | 2022-10-13 |
 | [Wonderful God](https://open.spotify.com/track/52aMpFt6JO2JdQXVgXqlYp) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/3oL22RU5HyMueIZAE9UAIc) | 3:47 | 2025-08-09 | 2026-05-16 |

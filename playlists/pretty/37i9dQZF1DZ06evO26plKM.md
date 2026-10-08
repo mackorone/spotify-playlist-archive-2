@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,885 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,886 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 49 | [Leave A Light \(Funkhaus Version\)](https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:18 |
 | 50 | [The Answer Is Yes](https://open.spotify.com/track/5q27RB8LAAH6iNmmXdqczc) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [The Answer Is Yes](https://open.spotify.com/album/6SmEezXLAEnn0ukYjcrdXZ) | 5:07 |
 
-Snapshot ID: `asGXAAAAAACCfR8KrDThF9KZLF+TxxQp`
+Snapshot ID: `asLogAAAAAB9gZhLDf6RiT+xmX2wcdol`

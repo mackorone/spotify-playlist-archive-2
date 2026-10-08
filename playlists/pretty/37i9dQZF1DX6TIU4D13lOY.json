@@ -1,6 +1,6 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 319244,
+  "num_followers": 319287,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Flowing Rivers",
-        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "I Just Want To Be Your Everything",
-      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Flowing Rivers",
+        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "I Just Want To Be Your Everything",
+      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 307466,
-      "name": "Imaginary Lover",
-      "url": "https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Sammy Johns",
         "url": "https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 179000,
       "name": "Chevy Van",
       "url": "https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 307466,
+      "name": "Imaginary Lover",
+      "url": "https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E"
     },
     {
       "added_at": "2022-06-29 18:01:05",

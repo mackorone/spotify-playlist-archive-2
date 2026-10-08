@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60420,
+  "num_followers": 60471,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAACbxhfPJQEFtOAsJstYyCFu",
+  "snapshot_id": "asLogAAAAADkk02r6oLzG8yPen+OHCfx",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 229264,
-      "name": "Anybody's fool",
-      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/33yH7BV5njyZ9B0iwSgjwC"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/33yH7BV5njyZ9B0iwSgjwC"
+      "duration_ms": 229264,
+      "name": "Anybody's fool",
+      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
     },
     {
       "added_at": null,

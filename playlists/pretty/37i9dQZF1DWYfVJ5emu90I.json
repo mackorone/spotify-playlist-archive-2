@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26805,
+  "num_followers": 26814,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Sightseeing",
+        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "Sightseeing",
+      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "Get Litty?",
         "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "Sightseeing",
-        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
-      },
-      "artists": [
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "Sightseeing",
-      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
     },
     {
       "added_at": "2026-08-19 00:34:26",

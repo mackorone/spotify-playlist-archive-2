@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Mikael Karlsson, Daryl Coley and more
+> With Kelontae Gavin, Isaac Cates, Mikael Karlsson and more
 
 2,032 songs - 6 day 13 hr 33 min
 

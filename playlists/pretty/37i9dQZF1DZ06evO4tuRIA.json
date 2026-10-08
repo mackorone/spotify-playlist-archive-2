@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 108189,
+  "num_followers": 108209,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABY8qCwwIUC7lovRB2wWL64",
+  "snapshot_id": "asLogAAAAADxWCnzmUtlNpUZaLDIxPTU",
   "tracks": [
     {
       "added_at": null,
@@ -655,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 190043,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 172800,
       "name": "Bravo 57",
       "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100% Corridos Verdes",
-        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "El Sapo",
-      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
     },
     {
       "added_at": null,

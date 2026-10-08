@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Lo más pegado, lo más random, lo más 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,884 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,884 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 2 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 3 | [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 |
 | 4 | [Te Vas](https://open.spotify.com/track/6TGwxVbZHpRNZmMW43SRLS) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Te Vas](https://open.spotify.com/album/2xVWpgjaOYXIBaci6rRaWc) | 3:16 |
-| 5 | [JUANO DSKT \| DJ TAO Sessions \#33](https://open.spotify.com/track/1Duh9NgioM4719EMtrgReJ) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [JUANO DSKT](https://open.spotify.com/artist/5Oid3U6vpAXrJCHhfzJG5W) | [JUANO DSKT \| DJ TAO Sessions \#33](https://open.spotify.com/album/1ohGDiotByBf0TtgROxe0b) | 2:02 |
-| 6 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
-| 7 | [LA DEFINICIÓN DE PERFECCIÓN En Vivo \- Estadio Vélez](https://open.spotify.com/track/0d8FvueMedYUSyFDqHWsmu) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [El Parcerito](https://open.spotify.com/artist/6JrxKB9U3c9TL1F7c3Jamv) | [El Mundo de Fede Vigevani En Vivo \- Estadio Vélez](https://open.spotify.com/album/75HCaJRAcTmMF7DiedCB9U) | 2:59 |
+| 5 | [Canción de las simples cosas \- En Vivo](https://open.spotify.com/track/6RSAPcawZBLpOVozOmF8Ur) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 3:40 |
+| 6 | [JUANO DSKT \| DJ TAO Sessions \#33](https://open.spotify.com/track/1Duh9NgioM4719EMtrgReJ) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [JUANO DSKT](https://open.spotify.com/artist/5Oid3U6vpAXrJCHhfzJG5W) | [JUANO DSKT \| DJ TAO Sessions \#33](https://open.spotify.com/album/1ohGDiotByBf0TtgROxe0b) | 2:02 |
+| 7 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 8 | [Ay Mami \(La Sociedad Del Dinero\) \[Millionaire Trap\]](https://open.spotify.com/track/0sfp8mcGLbHPgoWDskWGyy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Ay Mami \(La Sociedad Del Dinero\) \[Millionaire Trap\]](https://open.spotify.com/album/2P70AnmLAsBpZZWXysxfGt) | 3:46 |
 | 9 | [PERRA](https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48) | [Lezcano Alan](https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz) | [PERRA](https://open.spotify.com/album/3v7GytozWQfABUcQ09OqFB) | 2:03 |
 | 10 | [M U S A E L E V Á](https://open.spotify.com/track/7vPsviPvbWsFd9VuftF5JT) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 49 | [Pa' la Selección](https://open.spotify.com/track/2l0hr2jYYXdkbF393AThLm) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa' la Selección](https://open.spotify.com/album/3eEDJ9kMWQSwpJ0ymHxfk8) | 3:06 |
 | 50 | [Conmigo Te Gustó](https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE) | 1:12 |
 
-Snapshot ID: `AAAAANIiZIcVSOEI+8Ew2HHbHfYsTLzN`
+Snapshot ID: `AAAAAHF7OmCQe14xlYcpHyv6ZDySpkph`

@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:1cMwAkW75xurkmm79aLqnb\">Metrosexual</a>",
-  "num_followers": 42345,
+  "num_followers": 42340,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Inny",
         "url": "https://open.spotify.com/album/4NnGDciJnY0amspOhznLX3"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 204878,
       "name": "Stoj\u0119 (na stacji paliw)",
       "url": "https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Zapomniana Twarz",
-        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
-      },
-      "artists": [
-        {
-          "name": "maja janowska",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Zapomniana Twarz",
-      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Peccatum",
-        "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "Peccatum",
-      "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "Zadzwo\u0144 do mnie",
         "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 136595,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Peccatum",
+        "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "Peccatum",
+      "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -503,22 +503,6 @@
       "duration_ms": 171840,
       "name": "Back To Your Hands",
       "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "obudz\u0119 si\u0119",
-        "url": "https://open.spotify.com/album/1uNHGwRDHRgGRRmksWrI0P"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 196645,
-      "name": "obudz\u0119 si\u0119",
-      "url": "https://open.spotify.com/track/4I7UxH2Ad8XIZvbb0NQVKv"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -559,18 +543,18 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+        "name": "obudz\u0119 si\u0119",
+        "url": "https://open.spotify.com/album/1uNHGwRDHRgGRRmksWrI0P"
       },
       "artists": [
         {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
         }
       ],
-      "duration_ms": 178167,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+      "duration_ms": 196645,
+      "name": "obudz\u0119 si\u0119",
+      "url": "https://open.spotify.com/track/4I7UxH2Ad8XIZvbb0NQVKv"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -591,6 +575,22 @@
       "duration_ms": 187445,
       "name": "Uwaga (Id\u0119 do ciebie)",
       "url": "https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Poczt\u00f3wka z wakacji",
-        "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "Poczt\u00f3wka z wakacji",
-      "url": "https://open.spotify.com/track/6SeSb3T7vLDxCueDJOTHQA"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "R\u00f3\u017ca",
         "url": "https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Poczt\u00f3wka z wakacji",
+        "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Poczt\u00f3wka z wakacji",
+      "url": "https://open.spotify.com/track/6SeSb3T7vLDxCueDJOTHQA"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 168224,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Redflag",
-        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
       },
       "artists": [
         {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Redflag",
-      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Redflag",
+        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Redflag",
+      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Sabota\u017cysta",
         "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 204000,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Drawing a line (Kayax Talent Hunt)",
-        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Salem",
-          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Drawing a line (Kayax Talent Hunt)",
-      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1383,6 +1367,22 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Drawing a line (Kayax Talent Hunt)",
+        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Salem",
+          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Drawing a line (Kayax Talent Hunt)",
+      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
-      },
-      "artists": [
-        {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
-        }
-      ],
-      "duration_ms": 255060,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "warszawa",
         "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Deadfall",
         "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 263614,
       "name": "Deadfall",
       "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "zosta\u0107 czy odej\u015b\u0107",
-        "url": "https://open.spotify.com/album/6srpiYFy6SdH1fLeJBCfGz"
-      },
-      "artists": [
-        {
-          "name": "Maura Margol",
-          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
-        }
-      ],
-      "duration_ms": 159137,
-      "name": "zosta\u0107 czy odej\u015b\u0107",
-      "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "zosta\u0107 czy odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/6srpiYFy6SdH1fLeJBCfGz"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "duration_ms": 159137,
+      "name": "zosta\u0107 czy odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Nice from Poland (DJ BLIK remix)",
         "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 236444,
       "name": "Nice from Poland - DJ BLIK remix",
       "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Sama s\u0142uchaj",
-        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
-      },
-      "artists": [
-        {
-          "name": "Sienia",
-          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Sama s\u0142uchaj",
-      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
+      },
+      "artists": [
+        {
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Lwia Ska\u0142a",
         "url": "https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr"
       },
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Stajla",
+        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Stajla",
+      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "DRAG!",
         "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 135000,
       "name": "DRAG!",
       "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Stajla",
-        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Stajla",
-      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
     }
   ],
   "unique_name": "GLOW Polska",

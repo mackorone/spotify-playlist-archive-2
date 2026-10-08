@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 58453,
+  "num_followers": 58467,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAABx1cffsChCtWYXGLUaQgh8",
+  "snapshot_id": "asLogAAAAACVGquFHWLWKVkAtx2MI1aw",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Luchon",
+        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182363,
+      "name": "La Maestra",
+      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Que Te Marchaste",
         "url": "https://open.spotify.com/album/5F0zK17rXmB48SKu6fUZjW"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 177840,
       "name": "Por Que Te Marchaste",
       "url": "https://open.spotify.com/track/42JF017uIQ0zZ2kvK6yeKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Luchon",
-        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182363,
-      "name": "La Maestra",
-      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 256105,
-      "name": "La Bruta (En Vivo)",
-      "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor A Medias",
         "url": "https://open.spotify.com/album/1hdDY4c4lxlapJMrMRdvkf"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 148000,
       "name": "Amor A Medias",
       "url": "https://open.spotify.com/track/2oAK0mmzAFEBXPxU2873cr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 256105,
+      "name": "La Bruta (En Vivo)",
+      "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Tienes Enamorado",
-        "url": "https://open.spotify.com/album/5TRTcKElL8hp3a2Neaq1KU"
-      },
-      "artists": [
-        {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/4AB3FqTXBxJhJaAvp7jHdF"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 172931,
-      "name": "Me Tienes Enamorado",
-      "url": "https://open.spotify.com/track/2GBh5nyW1OeLxRXtT6Dzko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -767,42 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+        "name": "Me Tienes Enamorado",
+        "url": "https://open.spotify.com/album/5TRTcKElL8hp3a2Neaq1KU"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/4AB3FqTXBxJhJaAvp7jHdF"
         },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
+      "duration_ms": 172931,
+      "name": "Me Tienes Enamorado",
+      "url": "https://open.spotify.com/track/2GBh5nyW1OeLxRXtT6Dzko"
     },
     {
       "added_at": null,
@@ -827,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -855,6 +819,42 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,

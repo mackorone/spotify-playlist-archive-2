@@ -10675,6 +10675,28 @@
     },
     {
       "album": {
+        "name": "STREET KID",
+        "url": "https://open.spotify.com/album/2eflxQ0PrF73qZj4duCrtt"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167903,
+      "name": "STREET KID",
+      "url": "https://open.spotify.com/track/4Ft71Q3vHpd62dBPlmPkv0"
+    },
+    {
+      "album": {
         "name": "Sulaimani Armani",
         "url": "https://open.spotify.com/album/5wk3bzlAhRJo0N8dB9WfW1"
       },

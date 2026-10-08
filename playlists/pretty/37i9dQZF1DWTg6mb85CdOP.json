@@ -1,526 +1,1646 @@
 {
-  "description": "una selecci\u00f3n para que prendas el mech\u00f3n o mueves ese botecito antes y despu\u00e9s de la reta.",
-  "num_followers": 19851,
-  "original_name": "La Cascarita con Viviann Baeza",
+  "description": "ya se arm\u00f3 el desma muertero \ud83e\udddf\u200d\u2642\ufe0f\ud83d\udc79\ud83e\uddcc",
+  "num_followers": 19869,
+  "original_name": "Muerteadas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9XReYetaz1T9YkqOVM8OB54RAP",
+  "snapshot_id": "AAAAAF/VONOuj6nJ4b4Avti5iICgjgSw",
   "tracks": [
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Por Ella (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
+        "name": "Muerteras",
+        "url": "https://open.spotify.com/album/3xUDIO1QvcsWFh22czTkVm"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 228090,
+      "name": "Ombligo Muertero",
+      "url": "https://open.spotify.com/track/7Fzc7PWW5a6xAsicr6r4GZ"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Una No Es Ninguna",
+        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
+      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Edici\u00f3n Especial 22 Aniversario",
+        "url": "https://open.spotify.com/album/5FJ7lHjC4rdclrXkLwtamV"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 172917,
+      "name": "Danza de los Diablos",
+      "url": "https://open.spotify.com/track/5VIdB9FQHEHukxn8bIsT0I"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Ilusi\u00f3n 98",
+        "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Ilusi\u00f3n 98",
+      "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Amores de monta\u00f1a",
+        "url": "https://open.spotify.com/album/2o5QqiDCNGqaq3TUCqUGBn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "duration_ms": 217208,
+      "name": "Amores de monta\u00f1a",
+      "url": "https://open.spotify.com/track/05rLt8OUdyNlDMLOHBhixw"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/3hcLWdaBXLjWKxxbljoQ8N"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 244366,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/6xNHgNeQR0N3nGsIBGW94z"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Mi Gran Amor",
+        "url": "https://open.spotify.com/album/2CXjEnXOZpOyFEHyNTFCid"
+      },
+      "artists": [
+        {
+          "name": "Banda La Joya De Antequera",
+          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
+        }
+      ],
+      "duration_ms": 222527,
+      "name": "La Danza de la Chiva",
+      "url": "https://open.spotify.com/track/1a7SVYugXzffvi5cUPeset"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "La Rana",
+      "url": "https://open.spotify.com/track/3Q4HkwuyW2qLGLRC7hoKu4"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/6gm8KfV04IbBp0cw3rA5BV"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "El Son de la Torre",
+      "url": "https://open.spotify.com/track/6txir5GufUobMuu5K1P7ZL"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Movimiento Carnavalero de la Bucanera",
+        "url": "https://open.spotify.com/album/04vZEOrxyYgD16EW3B5i2B"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "El Gallo Viejo",
+      "url": "https://open.spotify.com/track/14Lk9P3ydsHaWcVUu7Odo6"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Eres Lo M\u00e1s Importante",
+        "url": "https://open.spotify.com/album/3l301bEWcFy8nlytRerrbC"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperial de Huajuapan",
+          "url": "https://open.spotify.com/artist/4QiRRNxwNJy9Qdb4FIUo6O"
+        }
+      ],
+      "duration_ms": 186951,
+      "name": "La Calavera",
+      "url": "https://open.spotify.com/track/6XSE1eekc6qwDUfBroMu15"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/6gm8KfV04IbBp0cw3rA5BV"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 175340,
+      "name": "El Torito",
+      "url": "https://open.spotify.com/track/3DRsdgiHMKlL82TfRjcAeR"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Que Mala Suerte",
+        "url": "https://open.spotify.com/album/0lMkpkfUkkGa4FWiO2rXkc"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperial Huajuapan de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4nMErSBzF2hfnFOJyHp6E0"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Molinos de Viento",
+      "url": "https://open.spotify.com/track/2BuoQBZjRyURbV30s5e8B6"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/2RTQHJ1gmfwqV79Drtq0d8"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "La Rabia",
+      "url": "https://open.spotify.com/track/7iMvBPkrd2W7QrHSrcqY9q"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "A Seguir Bailando Con El Movimiento Carnavalero",
+        "url": "https://open.spotify.com/album/6huPEy4SMj3KbKHSBi5NG9"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Somos Abaje\u00f1os - Versi\u00f3n Muerteada",
+      "url": "https://open.spotify.com/track/5tlF5t8d0dEq0drOAKoG6y"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Puras Carnavaleras, Vol. 2",
+        "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         },
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Salvador Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Chinelo Carnavalero",
+      "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Burro Loco",
+        "url": "https://open.spotify.com/album/1Lt18qlBqYMzPkQK9xEogB"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna De Mexico",
+          "url": "https://open.spotify.com/artist/5f0VYygaracGqonAsbRt14"
+        }
+      ],
+      "duration_ms": 199079,
+      "name": "El Burro Loco",
+      "url": "https://open.spotify.com/track/570EXmH9ADUNVi2CXhCtyY"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Puras Pa'levantar la Polvadera",
+        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "El Son de la Tambora",
+      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Power Oaxaque\u00f1o",
+        "url": "https://open.spotify.com/album/5wP0SfXeuq3hKt81cDCBAU"
+      },
+      "artists": [
+        {
+          "name": "Banda la Macizota de Oaxaca",
+          "url": "https://open.spotify.com/artist/7gkypeaJX0DfDBIJUmL1fH"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "El C\u00f3ndor Pasa",
+      "url": "https://open.spotify.com/track/60E32L7dqgMIxzKUTzt6u5"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Muertero",
+        "url": "https://open.spotify.com/album/1C9alhA7HeikEVW8ILGAmt"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Esos Bajos",
+      "url": "https://open.spotify.com/track/1kHnwfySjiTmwc5aPpwhgK"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Nuevo Ritmo Carnavalero",
+        "url": "https://open.spotify.com/album/6Amv8atpej650365Y2J8x2"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "El Quita Penas",
+      "url": "https://open.spotify.com/track/1sf6Ffn8feU5jWNHbywH41"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "La Destructora",
+        "url": "https://open.spotify.com/album/3xa9MxYYKA1Y2FXEwSuvXg"
+      },
+      "artists": [
+        {
+          "name": "Banda Tornado",
+          "url": "https://open.spotify.com/artist/4th8emyEJbI0uU9dbLRVVT"
+        }
+      ],
+      "duration_ms": 306746,
+      "name": "Son de los Enanos / La Loba / El Son de la Chiclanera",
+      "url": "https://open.spotify.com/track/5BHkIfsEOJCCBvxWAGjtBC"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 176471,
+      "name": "La Charamusca",
+      "url": "https://open.spotify.com/track/7CXpdyuciQZdFNPNy1O3vJ"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Guateque",
+        "url": "https://open.spotify.com/album/4wcH9aFTZCj2kB7eDoXPrj"
+      },
+      "artists": [
+        {
+          "name": "La Imponente Reyna De Gto. De Lalo Tapia",
+          "url": "https://open.spotify.com/artist/6oZUmDhwfavAiG51T6jsFo"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "El Guateque",
+      "url": "https://open.spotify.com/track/68jj5roQ7KgqCAnpWNnsEU"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Despertando en Otra Cama",
+        "url": "https://open.spotify.com/album/6oUZxWfzHKd0ozQ98eHJlR"
+      },
+      "artists": [
+        {
+          "name": "Banda Triguera",
+          "url": "https://open.spotify.com/artist/6oplYwZu7KstmZojn1KoB8"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Danza Coyote",
+      "url": "https://open.spotify.com/track/77TJcXnNzisfGyG9QQvEk0"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Las Marmotas",
+        "url": "https://open.spotify.com/album/5c3PVzC6CWKNIra44jWc9i"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 188879,
+      "name": "Las Marmotas",
+      "url": "https://open.spotify.com/track/0eBOsUxQtl5XxGdMP7Td0d"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "En Vivo (En vivo)",
+        "url": "https://open.spotify.com/album/7re0ATJHhan7KHhNdy4a8V"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "El Muchacho Alegre - En vivo",
+      "url": "https://open.spotify.com/track/63qh4DcwvmVYTcbDHBSRHd"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/5FtfMOPjGBFkMk74Z2Dp6I"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 204225,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/075CiP68W7LvfcPip5ZNq1"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Te Robar\u00e9 una Noche",
+        "url": "https://open.spotify.com/album/21U1REBZXZ0xbwGhvUjb0m"
+      },
+      "artists": [
+        {
+          "name": "Banda La Joya De Antequera",
+          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Los Ticiclos",
+      "url": "https://open.spotify.com/track/2X87JTFrO14BpxO6Br1GPr"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Estabas T\u00fa",
+        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pi\u00f1era",
+          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Carnavalerita",
+      "url": "https://open.spotify.com/track/42V7eMUdvI9i8VVHJGZYK5"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Nuevo Ritmo Carnavalero",
+        "url": "https://open.spotify.com/album/6Amv8atpej650365Y2J8x2"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 182391,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/336F2P6mGBHi36mwELsjzw"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Cintura y Cadera",
+        "url": "https://open.spotify.com/album/73l2BBwMaapE5dAkWVaMx3"
+      },
+      "artists": [
+        {
+          "name": "Prendedora Banda Encinera",
+          "url": "https://open.spotify.com/artist/0UAZBwP9P83cZEI7djutSR"
+        }
+      ],
+      "duration_ms": 203671,
+      "name": "Cintura y Cadera",
+      "url": "https://open.spotify.com/track/0qRSVXpKaxaLP8tWxIGXOi"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Gato y yo",
+        "url": "https://open.spotify.com/album/6cxOT2V3QqLDqb3Zhgui7r"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "El Gato y yo",
+      "url": "https://open.spotify.com/track/6w8lULjSFawxgtag0Xuumw"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Carnavaleando Con los Mu\u00f1ecos",
+        "url": "https://open.spotify.com/album/1IlWi2X9ghjtvrKN2Vtozx"
+      },
+      "artists": [
+        {
+          "name": "Banda Vientos del Sur la Consentida de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/2KcYkDHI9nlxKMSk7JF4d4"
+        }
+      ],
+      "duration_ms": 231833,
+      "name": "Chuntaro Style",
+      "url": "https://open.spotify.com/track/542j75yrfItpfsW3UfpjNH"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Cumbia Torera (Remix)",
+        "url": "https://open.spotify.com/album/4LnYm1f5U9aTbesdWhnhME"
+      },
+      "artists": [
+        {
+          "name": "Banda la candelaria la de oaxaca",
+          "url": "https://open.spotify.com/artist/5hSrzc8j7WQIcTTHCFKqYs"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "Cumbia Torera - Remix",
+      "url": "https://open.spotify.com/track/7sSNR1FqVKunESVbZcsNuF"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Me Vas a Recordar",
+        "url": "https://open.spotify.com/album/5asRoI7tWknRw6NrNrMt3I"
+      },
+      "artists": [
+        {
+          "name": "Banda Alameda",
+          "url": "https://open.spotify.com/artist/3ww01HeFYEjcwI215dVXyc"
+        }
+      ],
+      "duration_ms": 189549,
+      "name": "La Negra Merecumbe",
+      "url": "https://open.spotify.com/track/6vsWGazXVlgHrBGyR3n0gb"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "XX - XXII \"As\u00ed O M\u00e1s Fresas\", Vol. 2",
+        "url": "https://open.spotify.com/album/32bvXPDwcVIElmoeBNn3gv"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 204408,
+      "name": "Pato Asado",
+      "url": "https://open.spotify.com/track/4Y5tAnhiH0UiqRWKKivO83"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Flor de Pi\u00f1a",
+        "url": "https://open.spotify.com/album/2F3eYeslBuldWnFEtSSsae"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 192128,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/3eCF1sVjbvh17QTSv00fys"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/7wNje8mmxGfKSEom6IkrLH"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Jinetes en el Cielo",
+      "url": "https://open.spotify.com/track/4kX33clweUkkNYVEQVHi9w"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "La Pedota",
+        "url": "https://open.spotify.com/album/3ALY6uAcilNZTc4IZSdNOD"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 598339,
+      "name": "Tu Legado",
+      "url": "https://open.spotify.com/track/6SLgGwCg577WxNm2CSZIgd"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Nuevo Ritmo Carnavalero",
+        "url": "https://open.spotify.com/album/6Amv8atpej650365Y2J8x2"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 224554,
+      "name": "El Cumbanchero",
+      "url": "https://open.spotify.com/track/0F6qf56WUqRACC33Lv0JXX"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/6KKlI8jVjqQxFk7ur1RsY7"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 159997,
+      "name": "El Caderazo",
+      "url": "https://open.spotify.com/track/6RWi06VNRf9rspzEPWLldM"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "La Tuba Gedionda",
+        "url": "https://open.spotify.com/album/5N2zlyvSmxypomy7X8dLDZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 134074,
+      "name": "La Tuba Gedionda",
+      "url": "https://open.spotify.com/track/7dqeR3FPX1JH8wwZiEvC6w"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Muertero",
+        "url": "https://open.spotify.com/album/1C9alhA7HeikEVW8ILGAmt"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 300486,
+      "name": "Tumba Tumba/La Danza Del Coyote/la Viejita",
+      "url": "https://open.spotify.com/track/5YQfIbj3nzx8ptpKsO5xdk"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Baila Vanidosa",
+        "url": "https://open.spotify.com/album/2XYESfzS9mzEFmvCPH0K1L"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna De Mexico",
+          "url": "https://open.spotify.com/artist/5f0VYygaracGqonAsbRt14"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Primero De Noviembre",
+      "url": "https://open.spotify.com/track/2hFOf9kvOU5JXtSY7TPkg5"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Circo Carnavalero",
+        "url": "https://open.spotify.com/album/2XCu3shHyohwr6SzQHpON2"
+      },
+      "artists": [
+        {
+          "name": "Banda la Trakatera",
+          "url": "https://open.spotify.com/artist/1UDMH69mWs1wKBfBdqL4UB"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/56zitbdxspp8itb0sZjdkp"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Conga Conguita",
+      "url": "https://open.spotify.com/track/0AgBnsp7cn4wHu2csOpw7l"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Somos Los Aires",
+        "url": "https://open.spotify.com/album/68JWDvjicR3HON5PfQ8H70"
+      },
+      "artists": [
+        {
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 113815,
+      "name": "Los Tiliches",
+      "url": "https://open.spotify.com/track/1U2jTpekjFgnXyiveocesL"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+      },
+      "artists": [
+        {
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 195092,
+      "name": "Macorina",
+      "url": "https://open.spotify.com/track/6JqpW7t8SMmRi3jUwcm3Ql"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "\u00a1La Mera Mera! (10 Aniversario) [La Historia Contin\u00faa]",
+        "url": "https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 345933,
+      "name": "Carnavaleando",
+      "url": "https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Pachanga Muertera",
+        "url": "https://open.spotify.com/album/5OOq7ByTeKontbOXsYkDgo"
+      },
+      "artists": [
+        {
+          "name": "Banda Puro Santa Rosa",
+          "url": "https://open.spotify.com/artist/4JqSPf4HsAhqBvaX2tlBBJ"
         },
         {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
-      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Para Bailar y Gozar A Ritmo De La Banda",
-        "url": "https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq"
-      },
-      "artists": [
-        {
-          "name": "Hechizeros Band",
-          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "El Sonidito",
-      "url": "https://open.spotify.com/track/229HcoVMtqCUU6vY8Yyhnk"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "En Vivo Vol. 3",
-        "url": "https://open.spotify.com/album/25Y0or3IVp6kos5cqsuXTW"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 333309,
-      "name": "Popurr\u00ed P\u00e9gate - Candela - En Vivo",
-      "url": "https://open.spotify.com/track/5Wx3jHxliG7Bu9J7w3ULrX"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-        "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Banda la Trakatera",
+          "url": "https://open.spotify.com/artist/1UDMH69mWs1wKBfBdqL4UB"
         },
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
+      "duration_ms": 293149,
+      "name": "Pachanga Muertera",
+      "url": "https://open.spotify.com/track/0xGGdD10nHxj2tFX4r5yDC"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "En Vivo (En vivo)",
+        "url": "https://open.spotify.com/album/7re0ATJHhan7KHhNdy4a8V"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 381570,
+      "name": "Tiene Espinas el Rosal, I Love Baby - En vivo",
+      "url": "https://open.spotify.com/track/2gaXIjuQ2asmQVgSrXHtpj"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Las m\u00e1s muerteras",
+        "url": "https://open.spotify.com/album/2eLdxqjV2fRKW7FxjtrKkC"
+      },
+      "artists": [
+        {
+          "name": "Los Oaxapen\u00b4S",
+          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
+        }
+      ],
+      "duration_ms": 214674,
+      "name": "Carnavalezco",
+      "url": "https://open.spotify.com/track/5CNjJU98GK1VsN4LC9aLfm"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "LAS M\u00c1S CARNAVALERAS DE LA REYNA",
+        "url": "https://open.spotify.com/album/3XvcxCv5HI47fPrgkiRFfq"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "duration_ms": 171611,
+      "name": "El Apache",
+      "url": "https://open.spotify.com/track/08wLgew2KfSobV8qo29XmB"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Las Cumbias del Recuerdo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fqeiqoQRJlTybe7GRPfHC"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Mambo Fresa",
+      "url": "https://open.spotify.com/track/4gsKPIVpxbw4eknFnFqpgY"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Fantasma de la Opera",
+        "url": "https://open.spotify.com/album/1aL0vbO61COa8uwpZhRQEo"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "El Fantasma de la Opera",
+      "url": "https://open.spotify.com/track/2VIQA86vnHIw4ZChKVwnSb"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Banda Puro Oaxaca",
+        "url": "https://open.spotify.com/album/3uok7YRpwvLLcNCn6cJPrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Puro Oaxaca",
+          "url": "https://open.spotify.com/artist/6ShiCTmnE2L5NF8KPBiewf"
+        }
+      ],
+      "duration_ms": 151902,
+      "name": "Bailando En La Muerteada",
+      "url": "https://open.spotify.com/track/6Qn52y83EwnHFqguVOK3XF"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/3wUbIfeZsjrHUFJ8pOv9kE"
+      },
+      "artists": [
+        {
+          "name": "Banda TM",
+          "url": "https://open.spotify.com/artist/4u0pYkkOwBDNvomJAIuVbv"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/3ulKtKzqVmuGBXXirMkQ96"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Fr\u00edo de Muertos",
+        "url": "https://open.spotify.com/album/3TwdrMqKSsEX4DbeqTGurX"
+      },
+      "artists": [
+        {
+          "name": "Banda la Macizota de Oaxaca",
+          "url": "https://open.spotify.com/artist/7gkypeaJX0DfDBIJUmL1fH"
+        }
+      ],
+      "duration_ms": 385320,
+      "name": "Fr\u00edo de Muertos",
+      "url": "https://open.spotify.com/track/1eS79c9q3NlPuhvNggLT5Y"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Las m\u00e1s muerteras",
+        "url": "https://open.spotify.com/album/2eLdxqjV2fRKW7FxjtrKkC"
+      },
+      "artists": [
+        {
+          "name": "Los Oaxapen\u00b4S",
+          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
+        }
+      ],
+      "duration_ms": 364848,
+      "name": "Popurr\u00ed sentimiento muertero",
+      "url": "https://open.spotify.com/track/1svRIlt1sL0UfakQkYjQ6u"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Arriba la Pedota",
+        "url": "https://open.spotify.com/album/6bwtQpkOtMk1iOvcQs87gM"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Arriba la Pedota",
+      "url": "https://open.spotify.com/track/3tvC5zYqKvyhDjL6neTPOx"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Popurri Majestuoso",
+        "url": "https://open.spotify.com/album/2Q5dpWvnhzpppSqTJjgdMw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Chikos Del Pueblo",
+          "url": "https://open.spotify.com/artist/6sZCGbPuGlOJ5RcFFVH1SL"
+        }
+      ],
+      "duration_ms": 386008,
+      "name": "Popurri Majestuoso",
+      "url": "https://open.spotify.com/track/3VzHdyc3YlFE8vZDzggbXi"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2FPXVAtlonAEzVqxaC7jid"
+      },
+      "artists": [
+        {
+          "name": "Banda La Diabla",
+          "url": "https://open.spotify.com/artist/0gqu87DnTXOK7R8ym7xEOq"
+        }
+      ],
+      "duration_ms": 511586,
+      "name": "Leyendas",
+      "url": "https://open.spotify.com/track/6WYWgNDmZ2vxWXp0KLMMJs"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Popurri Muertero",
+        "url": "https://open.spotify.com/album/1ytulOa1aHDONYPwhPSsG3"
+      },
+      "artists": [
+        {
+          "name": "Banda Reyna de Huajuapan",
+          "url": "https://open.spotify.com/artist/754VflqKbNiONRnf2pmTda"
+        }
+      ],
+      "duration_ms": 284508,
+      "name": "Popurri Muertero",
+      "url": "https://open.spotify.com/track/4Gb5M3mRdEJ6o1PRShy37z"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Coraz\u00f3n Astral",
+        "url": "https://open.spotify.com/album/35hVhW2BAmx77pXkJC17p7"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 189164,
+      "name": "Los Muertos",
+      "url": "https://open.spotify.com/track/1BQo4pNnqGsVVvnp8ZSGzE"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "La Japonesita",
+        "url": "https://open.spotify.com/album/0CmDtB8GyWniOvdMoU8Ykz"
+      },
+      "artists": [
+        {
+          "name": "Banda Vientos del Sur la Consentida de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/2KcYkDHI9nlxKMSk7JF4d4"
         },
         {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+          "name": "Banda Perla Morada",
+          "url": "https://open.spotify.com/artist/2MYmgeYSaeIiHOz8xjeCo6"
         }
       ],
-      "duration_ms": 175532,
-      "name": "La Nena",
-      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+      "duration_ms": 207417,
+      "name": "La Japonesita",
+      "url": "https://open.spotify.com/track/45rRek4qDOgqeLJ1iqkqLq"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/6gm8KfV04IbBp0cw3rA5BV"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
         }
       ],
-      "duration_ms": 219480,
-      "name": "C\u00f3mo Me Duele",
-      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+      "duration_ms": 203250,
+      "name": "Rango",
+      "url": "https://open.spotify.com/track/14MqJ2WwUb4paICqDNxnf2"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "El Noa Noa (En Vivo Desde Bellas Artes)",
-        "url": "https://open.spotify.com/album/0yJrrTtEcyv3E1xR1snBOP"
+        "name": "El Nuevo Ritmo Carnavalero",
+        "url": "https://open.spotify.com/album/6Amv8atpej650365Y2J8x2"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
         }
       ],
-      "duration_ms": 252986,
-      "name": "El Noa Noa - En Vivo Desde Bellas Artes",
-      "url": "https://open.spotify.com/track/5hVj6at5Lj8Ez9ayQyhcLT"
+      "duration_ms": 153270,
+      "name": "Vive la Fiesta",
+      "url": "https://open.spotify.com/track/21gkWaWfC2vRxBqWeHBaCh"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
+        "name": "El Cascabelero",
+        "url": "https://open.spotify.com/album/7I6659MNrbaWM7pkJzZBgc"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "duration_ms": 234123,
+      "name": "El Cascabelero",
+      "url": "https://open.spotify.com/track/2UsI6mFm2N97yDpphcsKgv"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/7wNje8mmxGfKSEom6IkrLH"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 213368,
+      "name": "Carnaval Putleco",
+      "url": "https://open.spotify.com/track/2QwIDN49lurhdnRcEutzKL"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Atracador",
+        "url": "https://open.spotify.com/album/6HG6cX5PUUhgbH9pW99TGX"
+      },
+      "artists": [
+        {
+          "name": "Prendedora Banda Encinera",
+          "url": "https://open.spotify.com/artist/0UAZBwP9P83cZEI7djutSR"
+        }
+      ],
+      "duration_ms": 222683,
+      "name": "El Atracador",
+      "url": "https://open.spotify.com/track/3vHX4ITiUV7L73mNHfYpkV"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Muertero",
+        "url": "https://open.spotify.com/album/1C9alhA7HeikEVW8ILGAmt"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 447551,
+      "name": "El Ranchero Chido/La Brujita/la Burrita",
+      "url": "https://open.spotify.com/track/4KPSJm6rL77vMh9fsV4y3u"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Dios Nunca Muere",
+        "url": "https://open.spotify.com/album/4nMlhbvnCMpaFakPXPrjDB"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 266092,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/4gnGNjlnjG6ImQ50blog3R"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Zombie Monstruoso",
+        "url": "https://open.spotify.com/album/7ftcTdQA4oJyNuP2w2Rx26"
+      },
+      "artists": [
+        {
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Banda La Prestigiada",
+          "url": "https://open.spotify.com/artist/70aiPGHjuruGaiJL2gSINa"
         }
       ],
-      "duration_ms": 266015,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+      "duration_ms": 254226,
+      "name": "Zombie Monstruoso",
+      "url": "https://open.spotify.com/track/05jC1vdPfz79vk9HwXVcJX"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2pok7ov3uVRJ1jtLV7VuCo"
+        "name": "Al A\u00f1o Viejo",
+        "url": "https://open.spotify.com/album/3SenZnzWQQlU4YeFPGPZ1j"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
         }
       ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/071APDZWdRSEpkz66E4XDq"
+      "duration_ms": 243825,
+      "name": "Los Cuches",
+      "url": "https://open.spotify.com/track/3c0Fmek5Efo3mB8OAoqZzs"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "En Vivo Desde CDMX",
-        "url": "https://open.spotify.com/album/1rlj08ZyshfPJXSI1cK3Kv"
+        "name": "Concierto Online (En Vivo)",
+        "url": "https://open.spotify.com/album/6HAAgEt1ug89Vwsi8zsMdw"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "La Picosa Hern\u00e1ndez Banda",
+          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
         }
       ],
-      "duration_ms": 168124,
-      "name": "El Sinaloense - En Vivo",
-      "url": "https://open.spotify.com/track/7Dlnc7ylrbO4swbfHQbQqS"
+      "duration_ms": 622257,
+      "name": "Popurr\u00ed de Chilenas: Las Amarillas / El Barco / La Divina Garza - En Vivo",
+      "url": "https://open.spotify.com/track/7381wc2gJaYWHPBzxkVWhL"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+        "name": "Somos Los Aires",
+        "url": "https://open.spotify.com/album/68JWDvjicR3HON5PfQ8H70"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Los Duendes",
+      "url": "https://open.spotify.com/track/0v96T9zjwT4qrwN0Igg7Lu"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Muertero",
+        "url": "https://open.spotify.com/album/1C9alhA7HeikEVW8ILGAmt"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 360280,
+      "name": "La Pedota/Testarudos/El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/7pI2jMjqiHF5WtGDZphPJZ"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Los Fuegos",
+        "url": "https://open.spotify.com/album/3Oy7bqAJN7ewt1GVKKXVWY"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 242912,
+      "name": "Los Fuegos",
+      "url": "https://open.spotify.com/track/4d9sAhCPvMmOkX72YkjZkz"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Circo Carnavalero",
+        "url": "https://open.spotify.com/album/2XCu3shHyohwr6SzQHpON2"
+      },
+      "artists": [
+        {
+          "name": "Banda la Trakatera",
+          "url": "https://open.spotify.com/artist/1UDMH69mWs1wKBfBdqL4UB"
+        }
+      ],
+      "duration_ms": 236471,
+      "name": "El Payaso",
+      "url": "https://open.spotify.com/track/6snPO18aK3AKNx3XhEXJcI"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Que Siga La Pachanga",
+        "url": "https://open.spotify.com/album/1vwRV8oBSvnDDyRcKbYQLs"
+      },
+      "artists": [
+        {
+          "name": "Banda Puro Santa Rosa",
+          "url": "https://open.spotify.com/artist/4JqSPf4HsAhqBvaX2tlBBJ"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Por Mi M\u00e9xico",
-      "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/1aFnx8gd49EklcjqQvLNrA"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/1KhskNApqcI0XuIbbeERlw"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Yo Quiero Chupar / Solo Exitos",
-        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 215524,
-      "name": "Yo Quiero Chupar",
-      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 193249,
-      "name": "Pu\u00f1o De Tierra - En Vivo",
-      "url": "https://open.spotify.com/track/2Ani3qJhZWvmnVpVTEbJqS"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/1s7a8OLaFyl7KD2MWdXlAs"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Banda la Trakatera",
+          "url": "https://open.spotify.com/artist/1UDMH69mWs1wKBfBdqL4UB"
         },
         {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
         }
       ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/3Yq5LTx3Ka47msH0Ei18fI"
+      "duration_ms": 305812,
+      "name": "Que Siga La Pachanga",
+      "url": "https://open.spotify.com/track/7j3cl0TJaGIYUALltN0SE4"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
-        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
+        "name": "Somos Los Aires",
+        "url": "https://open.spotify.com/album/68JWDvjicR3HON5PfQ8H70"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/2sWBABI42O6dzqQKXk10jo"
+      "duration_ms": 172044,
+      "name": "Espectro",
+      "url": "https://open.spotify.com/track/4pxsCfbKn9FNO8ismIT6Kj"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/0mRmiLA56DuwKyIl8ybSUL"
+        "name": "El Circo Carnavalero Continua",
+        "url": "https://open.spotify.com/album/2Kr3x3zaZLzkZ5gsmAUeyv"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Banda la Trakatera",
+          "url": "https://open.spotify.com/artist/1UDMH69mWs1wKBfBdqL4UB"
         }
       ],
-      "duration_ms": 277000,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3zoYQLfNEvJ7UvQ4em2vsT"
+      "duration_ms": 186597,
+      "name": "El Muertero",
+      "url": "https://open.spotify.com/track/5PA9rujZ2qwgwids8kNkHK"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "M\u00e1s Que Tu Amiga",
-        "url": "https://open.spotify.com/album/4C4uBUqKQpDM8I8Vg84Pca"
+        "name": "El Movimiento Carnavalero de la Bucanera",
+        "url": "https://open.spotify.com/album/04vZEOrxyYgD16EW3B5i2B"
       },
       "artists": [
         {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         }
       ],
-      "duration_ms": 191764,
-      "name": "M\u00e1s Que Tu Amiga",
-      "url": "https://open.spotify.com/track/35QH7O0GC9Ftm3iKAkeLJB"
+      "duration_ms": 192893,
+      "name": "La Muertera",
+      "url": "https://open.spotify.com/track/0Xpd2iKXRHWP4x7woBCnDi"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+        "name": "Carnavalero",
+        "url": "https://open.spotify.com/album/3AzImDsJPIZeR7fJ57KgWc"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+      "duration_ms": 223724,
+      "name": "El Paso del Gigante",
+      "url": "https://open.spotify.com/track/2kaq3Nna6wfAJTQzFPEk5p"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Mexicano yo soy",
-        "url": "https://open.spotify.com/album/7qXAI6pApGQTmF72r7eRgA"
+        "name": "Muerteras",
+        "url": "https://open.spotify.com/album/3xUDIO1QvcsWFh22czTkVm"
       },
       "artists": [
         {
-          "name": "Federico Vega",
-          "url": "https://open.spotify.com/artist/2QKB12FZZKnKVjyIMBBeQ2"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Mexicano yo soy",
-      "url": "https://open.spotify.com/track/1TuuD8DxvjXonJyL1Rly8K"
+      "duration_ms": 292000,
+      "name": "La Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/01mSDU5Ii1sh3P3WNdCbGh"
     },
     {
-      "added_at": "2026-06-18 00:34:32",
+      "added_at": "2026-10-07 16:53:49",
       "album": {
-        "name": "Troubadour (Champion Edition - Espa\u00f1ol Repackage)",
-        "url": "https://open.spotify.com/album/3Tx9vtG13sySDeosnyYvL9"
+        "name": "El Avisp\u00f3n",
+        "url": "https://open.spotify.com/album/5S2DKFN4HP5Y3pS7qoPjZs"
       },
       "artists": [
         {
-          "name": "K'NAAN",
-          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 170062,
+      "name": "El Avisp\u00f3n",
+      "url": "https://open.spotify.com/track/6eLpkJhh61hVvbJ0sGjZQk"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "\u00a1La Mera Mera! (10 Aniversario) [La Historia Contin\u00faa]",
+        "url": "https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "La P\u00e1jara Pinta",
+      "url": "https://open.spotify.com/track/5tLSuIEzbPHrUWczhv54qk"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Movimiento Carnavalero de la Bucanera",
+        "url": "https://open.spotify.com/album/04vZEOrxyYgD16EW3B5i2B"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "La Calandria / El Correcaminos",
+      "url": "https://open.spotify.com/track/0dZ5hWtQiZoWt3mP6cg9ce"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "\u00a1La Mera Mera! (10 Aniversario) [La Historia Contin\u00faa]",
+        "url": "https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "A\u00f1uuuu, Pt. 1",
+      "url": "https://open.spotify.com/track/6frqA0Hr66yDgCnkRFTixx"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Retro",
+        "url": "https://open.spotify.com/album/4c0lN5DkXSadbxz6yR22QJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/3P2IWCIwF6rslPxuEXHQHg"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Testarudos",
+        "url": "https://open.spotify.com/album/4PEQR2ymBFQM52KKrMHo4o"
+      },
+      "artists": [
+        {
+          "name": "Banda Misteriosa",
+          "url": "https://open.spotify.com/artist/7ai2fsJ9zMJdLdyxnQJXA0"
+        }
+      ],
+      "duration_ms": 224161,
+      "name": "Testarudos",
+      "url": "https://open.spotify.com/track/1WcdX8El1ef8n1ZLJhhqKb"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "Kraken",
+        "url": "https://open.spotify.com/album/31VRqX2KYghVfj4hxp8K5i"
+      },
+      "artists": [
+        {
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "duration_ms": 253325,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/09L9pzE5wVrNEbbtQ9Tv0N"
+    },
+    {
+      "added_at": "2026-10-07 16:53:49",
+      "album": {
+        "name": "El Guajolote Muertero Carnavalero",
+        "url": "https://open.spotify.com/album/3UOH2c1lAof173FwrFOr5A"
+      },
+      "artists": [
+        {
+          "name": "Banda Vientos del Sur la Consentida de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/2KcYkDHI9nlxKMSk7JF4d4"
         },
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Banda la Xoxtle\u00f1a",
+          "url": "https://open.spotify.com/artist/4QpB08EmFGPZsiGzaVSILd"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Wavin' Flag - Coca-Cola\u00ae Spanish Celebration Mix",
-      "url": "https://open.spotify.com/track/0l6t6VVX8b0rzetokYAl3L"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 431032,
-      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Vasito en mano",
-        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Vasito en mano",
-      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
-    },
-    {
-      "added_at": "2026-06-18 00:34:32",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
-      },
-      "artists": [
-        {
-          "name": "Gary Glitter",
-          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Rock 'n' Roll (Part 2)",
-      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
+      "duration_ms": 169638,
+      "name": "El Guajolote Muertero Carnavalero",
+      "url": "https://open.spotify.com/track/2dJMPKkb6NGf0L6RLNWMwL"
     }
   ],
-  "unique_name": "La Cascarita con Viviann Baeza",
+  "unique_name": "Muerteadas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTg6mb85CdOP"
 }

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 192027,
+  "num_followers": 192030,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,46 @@
     {
       "added_at": "2026-10-02 21:07:45",
       "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "duration_ms": 163213,
+      "name": "Nem Pensar",
+      "url": "https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq"
+    },
+    {
+      "added_at": "2026-10-02 21:07:45",
+      "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-10-02 21:07:45",
+      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -447,46 +487,6 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
-    },
-    {
-      "added_at": "2026-10-02 21:07:45",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
-    },
-    {
-      "added_at": "2026-10-02 21:07:45",
-      "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 163213,
-      "name": "Nem Pensar",
-      "url": "https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq"
     },
     {
       "added_at": "2026-10-02 21:07:45",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-10-02 21:07:45",
       "album": {
-        "name": "Logo Eu",
-        "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 179389,
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
-    },
-    {
-      "added_at": "2026-10-02 21:07:45",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 134571,
       "name": "Al\u00f4? \u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
+    },
+    {
+      "added_at": "2026-10-02 21:07:45",
+      "album": {
+        "name": "Logo Eu",
+        "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 179389,
+      "name": "Logo Eu",
+      "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
     },
     {
       "added_at": "2026-10-02 21:07:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-02 21:07:45",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
-    },
-    {
-      "added_at": "2026-10-02 21:07:45",
-      "album": {
         "name": "Dubl\u00ea",
         "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 158105,
       "name": "Rude",
       "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
+    },
+    {
+      "added_at": "2026-10-02 21:07:45",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     },
     {
       "added_at": "2026-10-02 21:07:45",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-10-02 21:07:45",
       "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+    },
+    {
+      "added_at": "2026-10-02 21:07:45",
+      "album": {
         "name": "SEM AR//CAOS",
         "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 160000,
       "name": "SEM AR",
       "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
-    },
-    {
-      "added_at": "2026-10-02 21:07:45",
-      "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-10-02 21:07:45",

@@ -635,7 +635,7 @@
     },
     {
       "album": {
-        "name": "\"'Nocturne for an Empty Room: Classical Masterpieces\"",
+        "name": "\"Nocturne for an Empty Room: Classical Masterpieces\"",
         "url": "https://open.spotify.com/album/2Nvp9ToPk2WngfSD6xtACB"
       },
       "artists": [
@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 50666,
       "name": "12 Variations on \"Ah, vous dirai-je Maman\", K. 265: Var. 3",
       "url": "https://open.spotify.com/track/7jELqRQJDdBZkGeM3FKWFa"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 219013,
       "name": "Arrriba en la Cordillera",
       "url": "https://open.spotify.com/track/5MFmzDIygDTiQuikj5T04Q"
@@ -14136,7 +14136,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 89000,
       "name": "Contredanse in C, K.587 \"Der Sieg vom Helden Koburg\"",
       "url": "https://open.spotify.com/track/5rFZCqdugzEaGcvLv5XtEs"
@@ -20730,7 +20730,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 245426,
       "name": "En Lota la Noche es Brava",
       "url": "https://open.spotify.com/track/7qtnvUqCXhnOaI2RdQnJoB"
@@ -27466,7 +27466,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 288531,
       "name": "Guray Rang Ottay Make Up",
       "url": "https://open.spotify.com/track/04itVrovGosaJwNBAiVgJR"
@@ -32278,7 +32278,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 344454,
       "name": "I'm Into Livin'",
       "url": "https://open.spotify.com/track/6XLz9eG94OkudHCfwBvO3j"
@@ -33796,7 +33796,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 160003,
       "name": "Inception/Intro - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/12MIli33DAePXOMcp0y2Lm"
@@ -34811,6 +34811,24 @@
     },
     {
       "album": {
+        "name": "Islands (2026 David Singleton Elemental Mixes)",
+        "url": "https://open.spotify.com/album/3IQzMk4uDdhAYBoULqqcJa"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571648,
+      "name": "Islands - Elemental Mix",
+      "url": "https://open.spotify.com/track/0uvZvS10tBeECjh9klqFdH"
+    },
+    {
+      "album": {
         "name": "Crown of empty space",
         "url": "https://open.spotify.com/album/5N0On1ZUu28G6MoXpkp4g1"
       },
@@ -35018,7 +35036,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 309326,
       "name": "It's Easier",
       "url": "https://open.spotify.com/track/4AeQ2QfxTQBX5iO0MEGoHo"
@@ -37678,7 +37696,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 398016,
       "name": "Ladies Of The Road - Elemental Mix",
       "url": "https://open.spotify.com/track/5a0oCPHgvuWPZKp0OdJOnN"
@@ -55601,6 +55619,24 @@
     },
     {
       "album": {
+        "name": "Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107628,
+      "name": "Resolution/Intro - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/50Vce7AoPvz248CPGOGb3A"
+    },
+    {
+      "album": {
         "name": "Encontrando La Paz Interior: M\u00fasica Para Yoga Zen",
         "url": "https://open.spotify.com/album/4zNlihiHEqo2Cjhlz14D4X"
       },
@@ -57418,6 +57454,24 @@
       "duration_ms": 282257,
       "name": "Sail with the Dead - Orchestral Version",
       "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
+    },
+    {
+      "album": {
+        "name": "Sajna Rawan Wakh Kar Laiyan",
+        "url": "https://open.spotify.com/album/3OiO2THr9hseKGkVON9i5b"
+      },
+      "artists": [
+        {
+          "name": "Azam Ali",
+          "url": "https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374886,
+      "name": "Sajna Rawan Wakh Kar Laiyan",
+      "url": "https://open.spotify.com/track/09TiJux37pb6i0XrZe262l"
     },
     {
       "album": {
@@ -65486,7 +65540,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 690301,
       "name": "Symphonic Synergy Medley - Live at The Symphonic Synergy",
       "url": "https://open.spotify.com/track/6OdDOAiwQx78xRvXNAY2j6"
@@ -67752,7 +67806,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 292403,
       "name": "The Essence of Silence - Live at The Symphonic Synergy",
       "url": "https://open.spotify.com/track/5XE6gW1VWbUvZpjT9pP0bA"

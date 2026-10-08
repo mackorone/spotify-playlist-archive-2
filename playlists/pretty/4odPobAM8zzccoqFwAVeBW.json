@@ -6,8 +6,104 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABOiDCU2YGO+DUmTfu//KGYwoDqHFRX",
+  "snapshot_id": "AABOkpRRCyi03ItTb5Yiu5wKqWnjGDU1",
   "tracks": [
+    {
+      "added_at": "2026-10-07 14:07:25",
+      "album": {
+        "name": "The Chancer",
+        "url": "https://open.spotify.com/album/0YJEyzPHAU994WtRaX8TuO"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        }
+      ],
+      "duration_ms": 268823,
+      "name": "The Chancer",
+      "url": "https://open.spotify.com/track/74M9VwZ7aNDTQiJoEkrYYo"
+    },
+    {
+      "added_at": "2026-10-07 14:07:38",
+      "album": {
+        "name": "Loma Linda",
+        "url": "https://open.spotify.com/album/3lc5fqdCU69Qdd38ekOl0Z"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 154490,
+      "name": "Loma Linda",
+      "url": "https://open.spotify.com/track/7d6L6EpAyGAIdMzz29LXR7"
+    },
+    {
+      "added_at": "2026-10-07 14:06:16",
+      "album": {
+        "name": "Stuck In A Room",
+        "url": "https://open.spotify.com/album/58vlwi4l0BJOtsxdRLUdHi"
+      },
+      "artists": [
+        {
+          "name": "British Birds",
+          "url": "https://open.spotify.com/artist/3qeG4iaWZCauchpE2pgHfx"
+        }
+      ],
+      "duration_ms": 268115,
+      "name": "Stuck In A Room",
+      "url": "https://open.spotify.com/track/4NA9gPoMGS45gXvOeYdnGR"
+    },
+    {
+      "added_at": "2026-10-07 14:06:28",
+      "album": {
+        "name": "Who's In The Eggshell",
+        "url": "https://open.spotify.com/album/3fPXSEC1hmZITHCklAI2kA"
+      },
+      "artists": [
+        {
+          "name": "Mother Church",
+          "url": "https://open.spotify.com/artist/0ZZQNWjQEkwjYJALd5veZ7"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Who's In The Eggshell",
+      "url": "https://open.spotify.com/track/1xy9dR0kErQDmLxvG5IBX4"
+    },
+    {
+      "added_at": "2026-10-07 14:07:06",
+      "album": {
+        "name": "On Our Own",
+        "url": "https://open.spotify.com/album/202XleH5Aq0KjhUA4xzeJC"
+      },
+      "artists": [
+        {
+          "name": "Swansea Sound",
+          "url": "https://open.spotify.com/artist/4a46xFkb4UbninRPwylTa9"
+        }
+      ],
+      "duration_ms": 200234,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/2EShJqfxBghz8v9buF9OM6"
+    },
+    {
+      "added_at": "2026-10-07 14:09:28",
+      "album": {
+        "name": "Better On My Own",
+        "url": "https://open.spotify.com/album/6hJL4m1rsgRzdYUSP63fMX"
+      },
+      "artists": [
+        {
+          "name": "The Ovines",
+          "url": "https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/7m7kcyVUAt2yH1SiJz2iEJ"
+    },
     {
       "added_at": "2026-10-02 08:56:13",
       "album": {
@@ -371,22 +467,6 @@
       "duration_ms": 203011,
       "name": "Knife In My Dreams",
       "url": "https://open.spotify.com/track/7dVPjXqMV4wvisW9hpPkTL"
-    },
-    {
-      "added_at": "2026-10-02 08:54:45",
-      "album": {
-        "name": "Better on My Own",
-        "url": "https://open.spotify.com/album/1ZW9JzVpzM0BHYF48GN4Cm"
-      },
-      "artists": [
-        {
-          "name": "The Ovines",
-          "url": "https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Better on My Own",
-      "url": "https://open.spotify.com/track/2abiujQAovAb3YhZfCwQB1"
     },
     {
       "added_at": "2026-10-02 08:56:28",

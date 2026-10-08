@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37482,
+  "num_followers": 37481,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -283,18 +279,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -339,42 +339,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Autorretrato",
-        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Autorretrato",
-      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lo-Fi el Panadero Con el Pan",
-        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lo-Fi el Panadero Con el Pan",
-      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Lo-Fi el Panadero Con el Pan",
+        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lo-Fi el Panadero Con el Pan",
+      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Autorretrato",
+        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Autorretrato",
+      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
       },
       "artists": [
         {
-          "name": "JOSUE A.S",
-          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
       },
       "artists": [
         {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+          "name": "JOSUE A.S",
+          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
         }
       ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
+      "duration_ms": 184320,
+      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Trompo de Pastor",
         "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
       },
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
       "artists": [
         {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1383,6 +1367,38 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Dusk Jazz Delight",
+        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante",
+          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Dusk Jazz Delight",
+      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
       },
@@ -1399,22 +1415,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
       "artists": [
         {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
-        },
-        {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 197802,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1439,34 +1451,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dusk Jazz Delight",
-        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
-      },
-      "artists": [
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        },
         {
-          "name": "M\u00fasica Relajante",
-          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Dusk Jazz Delight",
-      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 111219,
       "name": "Extra\u00f1os (Strangers)",
       "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
-      },
-      "artists": [
-        {
-          "name": "Chill Blunt",
-          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "2024??",
         "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
       },
@@ -1815,22 +1799,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Pepe's Tacos",
-        "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
       },
       "artists": [
         {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        },
-        {
-          "name": "Suerte Lo-Fi",
-          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+          "name": "Chill Blunt",
+          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Pepe's Tacos",
-      "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+      "duration_ms": 117000,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1851,6 +1831,26 @@
       "duration_ms": 99958,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/0rJobBGRwYAW2Chl3OQZ3u"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Pepe's Tacos",
+        "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Suerte Lo-Fi",
+          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Pepe's Tacos",
+      "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
     }
   ],
   "unique_name": "LoFi mexa",

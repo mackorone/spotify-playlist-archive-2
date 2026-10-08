@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Saint Demarcus",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: studio20",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 270000,
       "name": "& if",
       "url": "https://open.spotify.com/track/3cpLH5EJHd0FmrRDN0VyDZ"
+    },
+    {
+      "album": {
+        "name": "'fine'",
+        "url": "https://open.spotify.com/album/6cboKjcO2IBfLtRTwNVb8R"
+      },
+      "artists": [
+        {
+          "name": "Ben Kidson",
+          "url": "https://open.spotify.com/artist/0byPxKkZ5TBvzQKL6NjqOq"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "'fine'",
+      "url": "https://open.spotify.com/track/47PLOslD1u38AZFzR6FsY6"
     },
     {
       "album": {
@@ -392,7 +410,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 176005,
       "name": "18",
       "url": "https://open.spotify.com/track/0aIlxpfjlAbTqJEFKtaG8B"
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 209658,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4AM4PderK5MCo35OZMvq0t"
@@ -8428,7 +8446,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 158847,
       "name": "brainfreeze",
       "url": "https://open.spotify.com/track/3AqZDPwlZmcr3UWbhya2yT"
@@ -17313,6 +17331,24 @@
     },
     {
       "album": {
+        "name": "DVSL",
+        "url": "https://open.spotify.com/album/2EcknfI3RtEypgnv0GG9d7"
+      },
+      "artists": [
+        {
+          "name": "Vaticanjail",
+          "url": "https://open.spotify.com/artist/7bJiw2Rku2rxQMPCuN8yQW"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213134,
+      "name": "DVSL",
+      "url": "https://open.spotify.com/track/3M45Sa3o1jNhfuxkXjsUzo"
+    },
+    {
+      "album": {
         "name": "dying to see you",
         "url": "https://open.spotify.com/album/6srYwqtC2ZfqwJwf24vqst"
       },
@@ -19720,7 +19756,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 188480,
       "name": "Feel It!",
       "url": "https://open.spotify.com/track/5fcORwPCsbWOuucHazmRjR"
@@ -31820,6 +31856,24 @@
       "duration_ms": 202800,
       "name": "Insane",
       "url": "https://open.spotify.com/track/2jDA0EL7Fzow6MmkbPPCvX"
+    },
+    {
+      "album": {
+        "name": "Eudaimonia",
+        "url": "https://open.spotify.com/album/5NassOY6eCixoqsuAaNn1I"
+      },
+      "artists": [
+        {
+          "name": "seyeke",
+          "url": "https://open.spotify.com/artist/3GHBAw5P3FCVcoveMDzSYH"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "INSANE",
+      "url": "https://open.spotify.com/track/20CzXZL61SNrMPoPyYIAA7"
     },
     {
       "album": {
@@ -46681,6 +46735,24 @@
     },
     {
       "album": {
+        "name": "Penny Drop",
+        "url": "https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9"
+      },
+      "artists": [
+        {
+          "name": "studio20",
+          "url": "https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132419,
+      "name": "Penny Drop",
+      "url": "https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs"
+    },
+    {
+      "album": {
         "name": "pentecost of living",
         "url": "https://open.spotify.com/album/4GqXL87Ny302idXnWQiPyP"
       },
@@ -54251,6 +54323,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/0v31BEPvW4Ir0izqK5LaAX"
+      },
+      "artists": [
+        {
+          "name": "Hotgirl",
+          "url": "https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1vJzefOeSrcqLwSGcy92es"
+    },
+    {
+      "album": {
         "name": "Skirts & Salads",
         "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
       },
@@ -55240,7 +55330,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 192733,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/3VriOUGTvNXr836JTfLlVK"
@@ -56470,7 +56560,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 238195,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
@@ -59802,7 +59892,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 122333,
       "name": "the chair mountain",
       "url": "https://open.spotify.com/track/3kNQCI4aEo7rgslZhNxCWq"
@@ -61664,6 +61754,24 @@
       "duration_ms": 168270,
       "name": "Title",
       "url": "https://open.spotify.com/track/1dsgCQbZkhlNNCMNyKJXta"
+    },
+    {
+      "album": {
+        "name": "TMTMF (tell me to my face)",
+        "url": "https://open.spotify.com/album/2ePKLeUIvixtHzZS8r0V2e"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208433,
+      "name": "TMTMF (tell me to my face)",
+      "url": "https://open.spotify.com/track/1El92tNKm9nkxx2tlK2ooq"
     },
     {
       "album": {
@@ -64490,6 +64598,24 @@
       "duration_ms": 190000,
       "name": "Wages",
       "url": "https://open.spotify.com/track/6PbD6sW8QXzZv4y2tY3YI7"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/6BRqB5vMGEwAtasZYQMkmv"
+      },
+      "artists": [
+        {
+          "name": "BETH",
+          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6l6YJNTpsyRzQ9natD6NWp"
     },
     {
       "album": {

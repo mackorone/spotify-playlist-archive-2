@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Ribikaa",
+  "description": "Discover the future of Punjabi Pop! Cover: Swara",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Aakhri Raat",
+        "url": "https://open.spotify.com/album/1ObyvrO2kqNuGdf5SDtUTI"
+      },
+      "artists": [
+        {
+          "name": "Swara",
+          "url": "https://open.spotify.com/artist/6F7YP2q8NPQzufbQQqm9de"
+        },
+        {
+          "name": "Saurabh Deshpande",
+          "url": "https://open.spotify.com/artist/6YmjcHzk5zlVfiT95OLPM4"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Aakhri Raat",
+      "url": "https://open.spotify.com/track/39DnwwutPLjCjECaZ8zWEz"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5ezBLlR4DRjRc3APXkeKQX"
       },
@@ -532,7 +554,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 164441,
       "name": "AFTERLOVE",
       "url": "https://open.spotify.com/track/4dv0bPXJBIdL0W6oEuQdjm"
@@ -1374,6 +1396,28 @@
       "duration_ms": 208776,
       "name": "BIRHADA",
       "url": "https://open.spotify.com/track/4NZP87PnC5chuiqxwvOTA1"
+    },
+    {
+      "album": {
+        "name": "Black Berry",
+        "url": "https://open.spotify.com/album/4kXR0Xg0IRgf7P3E2iHNfp"
+      },
+      "artists": [
+        {
+          "name": "Waras",
+          "url": "https://open.spotify.com/artist/6JBbWsnxViz8AY8MGJqcIw"
+        },
+        {
+          "name": "The Sam",
+          "url": "https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Black Berry",
+      "url": "https://open.spotify.com/track/5XyWBTmHNcsG8DyHYpUuUu"
     },
     {
       "album": {
@@ -4386,6 +4430,24 @@
       "duration_ms": 214597,
       "name": "Gall Kar",
       "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
+    },
+    {
+      "album": {
+        "name": "Gallan Chup Kitiyaan",
+        "url": "https://open.spotify.com/album/69jGB2cY0OFnStXzBHZRrr"
+      },
+      "artists": [
+        {
+          "name": "Aagaaz",
+          "url": "https://open.spotify.com/artist/6RAPybtf6Dt47PXJ8IrWW7"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Gallan Chup Kitiyaan",
+      "url": "https://open.spotify.com/track/6Lo8kaETh2SXfS9PxF6QAz"
     },
     {
       "album": {
@@ -9940,7 +10002,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 150996,
       "name": "One Sided",
       "url": "https://open.spotify.com/track/0SFvRlXwLQrOoxfg4EbN8u"
@@ -12316,7 +12378,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 157192,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3UeeNQrMCfYeHMsourGRY1"
@@ -13350,7 +13412,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 186000,
       "name": "The Last Wish",
       "url": "https://open.spotify.com/track/7ywaO44UzbwCKyBpHHBXzT"
@@ -14342,6 +14404,28 @@
       "duration_ms": 167368,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2dqcmL7IB1OiV6M7scfUuc"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2ICWygGwBmQhcIWZ0tt87A"
+      },
+      "artists": [
+        {
+          "name": "Raizada .",
+          "url": "https://open.spotify.com/artist/2ttRJRnzuhLaFin3p67Bm0"
+        },
+        {
+          "name": "Honey Ramana",
+          "url": "https://open.spotify.com/artist/3Z8zgzz1XpryKSFCZW3FCO"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/3hKdh56BMDEsjuLYeVvk4D"
     },
     {
       "album": {

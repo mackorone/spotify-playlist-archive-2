@@ -5899,17 +5899,17 @@
     },
     {
       "album": {
-        "name": "Still Standing",
+        "name": "Still Standing (feat. L'Orca)",
         "url": "https://open.spotify.com/album/6GhtuWRRyYyzNfvD44m0Oq"
       },
       "artists": [
         {
-          "name": "Ana Grigalashvili",
-          "url": "https://open.spotify.com/artist/6NnAaYyJvsXrHZZd0r69t3"
-        },
-        {
           "name": "L'orca",
           "url": "https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp"
+        },
+        {
+          "name": "Ana Grigalashvili",
+          "url": "https://open.spotify.com/artist/6NnAaYyJvsXrHZZd0r69t3"
         }
       ],
       "date_added": "2025-08-25",

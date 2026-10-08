@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,508 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,511 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 19 | [Baile Em Chamas](https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [DJ 2L da Rocinha](https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP) | [Baile Em Chamas](https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV) | 2:53 |
 | 20 | [Mel na Sua Cara](https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |
 | 21 | [PERSONAGEM](https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [BIA1B99](https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB) | 2:37 |
-| 22 | [Ela Erra](https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Carlean](https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6), [Matteuzin](https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc) | [Ela Erra](https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy) | 1:33 |
-| 23 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
+| 22 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
+| 23 | [Ela Erra](https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Carlean](https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6), [Matteuzin](https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc) | [Ela Erra](https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy) | 1:33 |
 | 24 | [ZAZA](https://open.spotify.com/track/5yfkS5GXG6JmPeSMElT7gN) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Fawaz](https://open.spotify.com/artist/3qujGsGetnOpwao0wB9N5K), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [ZAZA](https://open.spotify.com/album/6SN1GyJsTfXFhuoaWnj05n) | 2:37 |
 | 25 | [Faz a Vibe](https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BREN9VE](https://open.spotify.com/artist/4IvMXMjqjqNk9z4I9WJKcy) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |
 | 26 | [Meu Jeito De Amar](https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:49 |

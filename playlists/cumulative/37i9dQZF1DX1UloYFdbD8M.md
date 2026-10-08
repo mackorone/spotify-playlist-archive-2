@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-563 songs - 1 day 10 hr 45 min
+564 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aham](https://open.spotify.com/track/2A8tC8QsRMIvhGpwySJ8rK) | [Baheej](https://open.spotify.com/artist/2zTtb5zrOuFRb3YFPcXiC3), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Aham](https://open.spotify.com/album/78ih9eHYQjDjKm3mI6VKn5) | 3:35 | 2024-09-30 | 2025-03-25 |
 | [Aham \- The Atma](https://open.spotify.com/track/0WHOOt77K29SJG4wdgj3sK) | [Rahul Ramachandran](https://open.spotify.com/artist/5ZVqVNfX4878mRzELmU6WB), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [SHXKE](https://open.spotify.com/artist/26d49CuuFuduRprTcShjuz) | [Aham](https://open.spotify.com/album/0AIYu4ehm4dw6rfsufDfgT) | 3:49 | 2025-09-30 | 2026-06-20 |
 | [Ahankaari](https://open.spotify.com/track/18WlJUkmC3BbWjCAJEDWxe) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Ahankaari](https://open.spotify.com/album/4fd62SkoUN7TXMgWRpWk8J) | 2:16 | 2025-07-25 | 2026-06-17 |
+| [Airdrop](https://open.spotify.com/track/6HNtSPxwnkr10fwNuS4CEE) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq) | [Airdrop](https://open.spotify.com/album/4U58qPvJD52ielOEcWzRi2) | 3:02 | 2026-10-07 |  |
 | [AJABI](https://open.spotify.com/track/4lvB9XgpciJw8H6V3E3UQN) | [Abu X\-wrong](https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5), [Fazil AS](https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6) | [AJABI](https://open.spotify.com/album/6T669wXMV8GSOfA0MxwdOy) | 3:00 | 2025-02-06 | 2025-04-05 |
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 | 2024-11-15 |
 | [Akale](https://open.spotify.com/track/3mxOqRat5L0KkUAGYvpyCF) | [Feby Mohan](https://open.spotify.com/artist/5YMOSvuvrDBoJQz4XfwyOE), [Evugin](https://open.spotify.com/artist/33QRiIIZlm5Rwc9qwkX5aI) | [Akale](https://open.spotify.com/album/08p7H5AhHYnCNnARMRgatc) | 3:36 | 2026-08-21 | 2026-09-18 |

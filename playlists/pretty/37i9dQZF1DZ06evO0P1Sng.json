@@ -1,6 +1,6 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8189,
+  "num_followers": 8188,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
@@ -711,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resumo",
-        "url": "https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "BG_Rj",
-          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
-        }
-      ],
-      "duration_ms": 142279,
-      "name": "Resumo",
-      "url": "https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chovendo L\u00e1 Fora",
         "url": "https://open.spotify.com/album/0zKRkvnO06Iw21JarOI7yG"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 376874,
       "name": "Chovendo L\u00e1 Fora",
       "url": "https://open.spotify.com/track/2d9ydRlnayJhduKa0gQfDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resumo",
+        "url": "https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "BG_Rj",
+          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
+        }
+      ],
+      "duration_ms": 142279,
+      "name": "Resumo",
+      "url": "https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek"
     },
     {
       "added_at": null,
@@ -819,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corpo Quente",
-        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Corpo Quente",
-      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afroculture",
         "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 182415,
       "name": "Se Prepara",
       "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corpo Quente",
+        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Corpo Quente",
+      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desce & Sobe",
+        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "VTnoBeat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Desce & Sobe",
+      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eles N\u00e3o Ligam Pra Gente",
         "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
       },
@@ -1071,58 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desce & Sobe",
-        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "VTnoBeat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Desce & Sobe",
-      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agi Igual Homem",
-        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 164204,
-      "name": "Agi Igual Homem",
-      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1155,6 +1127,34 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agi Igual Homem",
+        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Agi Igual Homem",
+      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
     },
     {
       "added_at": null,
@@ -1323,34 +1323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -1379,6 +1351,34 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,

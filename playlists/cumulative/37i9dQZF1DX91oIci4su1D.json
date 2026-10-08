@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 175425,
       "name": "Broken Tides",
       "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
@@ -21950,6 +21950,24 @@
       "duration_ms": 246956,
       "name": "Seasons Will Change",
       "url": "https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1"
+    },
+    {
+      "album": {
+        "name": "Second Tomorrow",
+        "url": "https://open.spotify.com/album/5VY64LUY1AiLsKNOXjilep"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261657,
+      "name": "Second Tomorrow",
+      "url": "https://open.spotify.com/track/0on3Jpax9ol60AcSLmEeBB"
     },
     {
       "album": {

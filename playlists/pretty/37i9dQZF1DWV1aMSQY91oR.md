@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Skip Waiters
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,380 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,391 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 3 | [JFK](https://open.spotify.com/track/4KplIfSakgcRdC6UVw7VwL) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [JFK](https://open.spotify.com/album/5HEDNsrUA45pqSOmKvuBz4) | 2:34 |
 | 4 | [MR\. PIKS \(feat\. SWAVAY\)](https://open.spotify.com/track/6vGQNSVnG0w2tIDszO6z82) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [MR\. PIKS \(feat\. SWAVAY\)](https://open.spotify.com/album/3VdWaxQHmiiH5r5Bb9cQo6) | 2:31 |
 | 5 | [Channel 13](https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 4:24 |
-| 6 | [Don in my city pt\. 2](https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Jayy V Vondon](https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2) | [Don in my city pt\. 2](https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1) | 3:18 |
+| 6 | [Don in my city pt\. 2](https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS) | [Jayy V Vondon](https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Don in my city pt\. 2](https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1) | 3:18 |
 | 7 | [NOBODY](https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [NOBODY](https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7) | 3:04 |
 | 8 | [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 |
 | 9 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |

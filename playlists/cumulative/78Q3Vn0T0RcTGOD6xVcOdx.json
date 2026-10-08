@@ -256,7 +256,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 316919,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/4tHgwenyYDcjvisGSj1M3D"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 283559,
       "name": "Axis",
       "url": "https://open.spotify.com/track/2aatm9BtTuR9C7QKz6DB2V"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 251479,
       "name": "Ayin",
       "url": "https://open.spotify.com/track/0h88Mu9l26fl2lPv7KQELQ"
@@ -474,6 +474,24 @@
       "duration_ms": 180240,
       "name": "A\u00f1o con A\u00f1o",
       "url": "https://open.spotify.com/track/0FiT2i4aiZfejZ64EkGQQU"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "album": {
@@ -600,7 +618,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 255519,
       "name": "Biophonic",
       "url": "https://open.spotify.com/track/0ltNd31vttjnCKR9nlM4I8"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 255000,
       "name": "Bleed in blue",
       "url": "https://open.spotify.com/track/5PKgkkEaPzCPOpJBK4xOgR"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 307559,
       "name": "Boreal Wake",
       "url": "https://open.spotify.com/track/6HbyojRPm982zZS7PMl0N9"
@@ -965,6 +983,46 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "album": {
         "name": "Cuervos en el Final",
         "url": "https://open.spotify.com/album/3EKDwbHDJCqeI6g57hFy00"
       },
@@ -1030,7 +1088,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 228719,
       "name": "Cold Bloom",
       "url": "https://open.spotify.com/track/68HZsZ6IKqhuMdnLbVAXd7"
@@ -1070,7 +1128,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 189680,
       "name": "Con uno Spritz in mano",
       "url": "https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ"
@@ -1146,7 +1204,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 204399,
       "name": "Cracks in the Static",
       "url": "https://open.spotify.com/track/3O9Rl79qolgA2A5dbQ6l48"
@@ -1190,7 +1248,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 299719,
       "name": "Cryptic",
       "url": "https://open.spotify.com/track/4RuZ1AdAm9Tkzy5xrTduZe"
@@ -1551,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Drama Queen",
         "url": "https://open.spotify.com/album/2CaPenNzoZVRHvnloRFAaw"
       },
@@ -1606,7 +1682,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 234839,
       "name": "Driftline",
       "url": "https://open.spotify.com/track/5T1qLuRmcKDXBQxpH5ZiES"
@@ -1830,7 +1906,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 214960,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4qP02z8wlLN5jYMPEmj45R"
@@ -2212,7 +2288,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 377800,
       "name": "Fragmented",
       "url": "https://open.spotify.com/track/5BgfZZdboGVTwoXbWu53we"
@@ -2248,7 +2324,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 97319,
       "name": "Free",
       "url": "https://open.spotify.com/track/6OqjQaWodDidWdfXJSsHqO"
@@ -2685,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -2714,7 +2808,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 263999,
       "name": "I Repeat You Like a Song",
       "url": "https://open.spotify.com/track/0RTgUyrdnY4oiGBQyP3PZL"
@@ -2750,7 +2844,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 161159,
       "name": "Inmune a Tu Veneno",
       "url": "https://open.spotify.com/track/6X2AeXnTQlRbo3Gqpb1j1P"
@@ -2870,7 +2964,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 143599,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/26gBzGHFKzDQs4oYbEXEij"
@@ -2978,7 +3072,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 129079,
       "name": "La Clave que Mueve el Eje",
       "url": "https://open.spotify.com/track/2Av3rDnW8ZZU3q3FIcIeFG"
@@ -3068,7 +3162,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 152519,
       "name": "La Quema del Microchip",
       "url": "https://open.spotify.com/track/1BqaPt8RQwYk9Yq7spCUai"
@@ -3380,7 +3474,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 217484,
       "name": "Luna a Milano",
       "url": "https://open.spotify.com/track/65dYtGwcxkjFNXhu9BdrGc"
@@ -3597,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -3706,7 +3818,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 335000,
       "name": "Mechanical Lovers",
       "url": "https://open.spotify.com/track/7lHz331plqsJ9ANAJylt5v"
@@ -3750,7 +3862,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 361320,
       "name": "Meta Hiss",
       "url": "https://open.spotify.com/track/2ykbtk8e9m5qOBNk1jc89M"
@@ -3869,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/6c0qQFAf3AZaIlfUyVms0M"
       },
@@ -3960,7 +4090,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 281919,
       "name": "Mono",
       "url": "https://open.spotify.com/track/2HtOCOJ3OQJ327NJgjrTLj"
@@ -3990,7 +4120,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 253199,
       "name": "Moode Structure",
       "url": "https://open.spotify.com/track/2ZqgQFl6MzzivFBuk8mCzK"
@@ -4012,6 +4142,24 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/5G345YEhvleYxQLfYUlEFv"
+    },
+    {
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
       "album": {
@@ -4156,7 +4304,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 229000,
       "name": "No Feeling",
       "url": "https://open.spotify.com/track/1HlRmYKA6SkB6ReCeTdDqj"
@@ -4282,7 +4430,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 362880,
       "name": "Noise Pattern",
       "url": "https://open.spotify.com/track/2GcjwMewXdnY0M9mqB4irL"
@@ -4456,7 +4604,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 174159,
       "name": "Onde di Luce",
       "url": "https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL"
@@ -4738,7 +4886,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 398440,
       "name": "Psycho Mi Amor",
       "url": "https://open.spotify.com/track/0iXOH4bdAbpok6olSnmIan"
@@ -5182,7 +5330,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 284319,
       "name": "She Lives",
       "url": "https://open.spotify.com/track/5np3E0V1KlgLBfJiLDGFQv"
@@ -5298,7 +5446,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 183759,
       "name": "Signal",
       "url": "https://open.spotify.com/track/7xYEHymB4dsZEJmKj1whhm"
@@ -5316,7 +5464,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 184639,
       "name": "Silent Walls",
       "url": "https://open.spotify.com/track/64DwAgNn79OTMB8eMGi5oJ"
@@ -5374,6 +5522,24 @@
       "duration_ms": 239999,
       "name": "SION",
       "url": "https://open.spotify.com/track/65jNAQhwNFLgALzsWSRgtO"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "album": {
@@ -5460,7 +5626,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 294840,
       "name": "Somos Argentina",
       "url": "https://open.spotify.com/track/0m8Xw5K1ElsnwYbw9annKa"
@@ -5580,7 +5746,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 202239,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/0M1eAUtJdxrcnQ3YGWyMaD"
@@ -5646,7 +5812,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 252639,
       "name": "Sync Matters",
       "url": "https://open.spotify.com/track/0Ntz8iMXhvpeNVXyACEIvA"
@@ -6204,7 +6370,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 232319,
       "name": "Vapor Girl",
       "url": "https://open.spotify.com/track/0MfaJ4y7ck1zpuweLENxiF"
@@ -6432,7 +6598,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 208359,
       "name": "Voltage - Remix",
       "url": "https://open.spotify.com/track/6tXWPOGIQpvNLaWDmBq6uf"
@@ -6530,10 +6696,28 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 323599,
       "name": "Wet Sequence",
       "url": "https://open.spotify.com/track/4ebispnT2FwPHpCZ4FYESU"
+    },
+    {
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "album": {
@@ -6588,7 +6772,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 143040,
       "name": "Whispers in the static",
       "url": "https://open.spotify.com/track/4RZk8GZLWPmxj9y4woV8IO"
@@ -6624,7 +6808,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

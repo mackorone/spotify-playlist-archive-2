@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 179364,
+  "num_followers": 179398,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tatiana y Johnny",
-        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
-      },
-      "artists": [
-        {
-          "name": "Tatiana y Johnny",
-          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
-        }
-      ],
-      "duration_ms": 223477,
-      "name": "Cuando Estemos Juntos",
-      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 219813,
       "name": "Este Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tatiana y Johnny",
+        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
+      },
+      "artists": [
+        {
+          "name": "Tatiana y Johnny",
+          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
+        }
+      ],
+      "duration_ms": 223477,
+      "name": "Cuando Estemos Juntos",
+      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Antolog\u00eda... Emilio Tuero",
         "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 175480,
       "name": "Quinto patio",
       "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mano A Mano Volumen 1",
-        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Por Que Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 221840,
       "name": "Silueta De Cristal",
       "url": "https://open.spotify.com/track/6Aimve3yqbs53npo902VvE"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mano A Mano Volumen 1",
+        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Por Que Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "17 Super Exitos",
-        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
-      },
-      "artists": [
-        {
-          "name": "Los Bondadosos",
-          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Como Me Gusta Quererte",
-      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 210453,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "17 Super Exitos",
+        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
+      },
+      "artists": [
+        {
+          "name": "Los Bondadosos",
+          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Como Me Gusta Quererte",
+      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
     },
     {
       "added_at": "2024-07-11 01:42:53",

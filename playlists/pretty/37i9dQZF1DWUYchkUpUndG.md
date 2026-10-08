@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Gabriel Eziashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,989 likes - 101 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,015 likes - 101 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 74 | [Christ In Us](https://open.spotify.com/track/01sh5bbcwILUfaNJFQ033N) | [Amiz Gmusic](https://open.spotify.com/artist/0BtjS5X5LOLmFVppWiYQQV) | [Christ In Us](https://open.spotify.com/album/6NXPLX283StTdoJHMUVUrR) | 4:46 |
 | 75 | [Asine Abasi K'Ubok](https://open.spotify.com/track/0au7pyahfKIEe2Nd8fbYA8) | [Pastor Wise Michael](https://open.spotify.com/artist/0N8XWcxOudGb76cxJEvrHX) | [Asine Abasi K'Ubok](https://open.spotify.com/album/2DIQhuHiaQolEsyywlRMxl) | 6:11 |
 | 76 | [We Bless You Lord, You Are Holy](https://open.spotify.com/track/10JOFncFWD4gdB6AhR3iCC) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [We Bless You Lord, You Are Holy](https://open.spotify.com/album/3FVFUd9eqMhaVI48vuXLA8) | 7:28 |
-| 77 | [JE'KAYE LE MO](https://open.spotify.com/track/6Q3yckW5OjEPZyAkjdn8gU) | [Boluwaduro](https://open.spotify.com/artist/5SUSsR3rd0w2TsaWpJSeJS) | [JE'KAYE LE MO](https://open.spotify.com/album/2d8GyILGBOMNj48lXQKDg0) | 6:58 |
+| 77 | [JE'KAYE MO](https://open.spotify.com/track/6Q3yckW5OjEPZyAkjdn8gU) | [Boluwaduro](https://open.spotify.com/artist/5SUSsR3rd0w2TsaWpJSeJS) | [JE'KAYE MO](https://open.spotify.com/album/2d8GyILGBOMNj48lXQKDg0) | 6:58 |
 | 78 | [Ohene \(king\)](https://open.spotify.com/track/5g0Y1aAxaAx6i6UW9mZ4kq) | [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Ohene \(king\)](https://open.spotify.com/album/6tlujHLuqqg1WFGQs62LCk) | 2:56 |
 | 79 | [Chelum](https://open.spotify.com/track/34EVwK7t68aephLkcpHPpw) | [CXB](https://open.spotify.com/artist/20I36sF24lOQyI50K3YiIP), [Zinny D'more](https://open.spotify.com/artist/6Ryr0ua2vnXgl6UHnwSfyX) | [Chelum](https://open.spotify.com/album/1JeihrkO2FqQ2Pj0jsxDTc) | 1:57 |
 | 80 | [Like You](https://open.spotify.com/track/123BpQxZQAhEpWBQNHyXBJ) | [Heavenly Dawap](https://open.spotify.com/artist/7faJDn3syyZvQjkpo111Wg), [HEAVENLY SOULJAHS](https://open.spotify.com/artist/0JjKr3bCki3uBkuk2OxKHm) | [Like You](https://open.spotify.com/album/1aJwxpMY4OOG8dUrucWD8P) | 3:33 |

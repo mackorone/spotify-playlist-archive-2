@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 194823,
+  "num_followers": 194853,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 276008,
-      "name": "Desmond's Empire",
-      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Dr. Buzzard's Original Savannah Band",
-        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Buzzard's Original Savannah Band",
-          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Sunshower",
-      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 276008,
+      "name": "Desmond's Empire",
+      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Dr. Buzzard's Original Savannah Band",
+        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Buzzard's Original Savannah Band",
+          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
     },
     {
       "added_at": "2026-04-03 04:00:50",

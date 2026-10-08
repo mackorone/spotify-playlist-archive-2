@@ -18202,7 +18202,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 144000,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/0ZmDmIqQJhKxZaMlZOsN7a"
@@ -22063,6 +22063,28 @@
     },
     {
       "album": {
+        "name": "Comparison Ford",
+        "url": "https://open.spotify.com/album/2muZiHETBDHd5aGWK85zFU"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        },
+        {
+          "name": "Lucille Two",
+          "url": "https://open.spotify.com/artist/0fHke0FX5RQOe0E5nPpeRI"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146853,
+      "name": "Comparison Ford",
+      "url": "https://open.spotify.com/track/0UAiPuL3xVvMbP9LqBOsNx"
+    },
+    {
+      "album": {
         "name": "COMPASS",
         "url": "https://open.spotify.com/album/3BRzP7sHve2m0oQplp2EwP"
       },
@@ -23700,7 +23722,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 174000,
       "name": "Crimes",
       "url": "https://open.spotify.com/track/3B6hnR1DQoZoL9n8AFLWeJ"
@@ -65106,7 +65128,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 164603,
       "name": "Love Doesn't Want Me",
       "url": "https://open.spotify.com/track/6VS8gDIPUhjiaMVFMx93zJ"
@@ -76068,7 +76090,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 236891,
       "name": "No Soy Gringo - redux",
       "url": "https://open.spotify.com/track/5rgoVtMT28vVFoC2YWR5Ii"
@@ -79910,7 +79932,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 220729,
       "name": "Only Love Me",
       "url": "https://open.spotify.com/track/7J5yxzx5WXoqeu2hVtLMKp"
@@ -84524,7 +84546,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 152039,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/50PYJjXq4OHDPdq6u9MCJ5"
@@ -89037,7 +89059,7 @@
     },
     {
       "album": {
-        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "name": "The Beatles 1967 - 1970 (Remastered 2009)",
         "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
       "artists": [

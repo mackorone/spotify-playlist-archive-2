@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,633 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,638 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Sufficient for Today \(feat\. Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 4:59 |
 | 50 | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL) | 3:22 |
 
-Snapshot ID: `asGXAAAAAAC8ne3nJvCLk2eksVu5749/`
+Snapshot ID: `asLogAAAAACIbJLUHb2s2Fotqj+6vlaF`

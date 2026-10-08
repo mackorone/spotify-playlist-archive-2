@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-687 songs - 1 day 17 hr 11 min
+689 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [If I Ever Was a Child](https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1) | 2:55 | 2023-06-26 | 2024-04-19 |
 | [If I Ever Was a Child](https://open.spotify.com/track/1tZ5ctX3Q1P6QZJ1bR25sd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/2s037WsNDbSTIEb7OJjT0a) | 2:55 | 2022-03-30 | 2022-04-16 |
 | [If I Ever Was a Child](https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL) | 2:55 | 2022-07-26 | 2023-06-24 |
+| [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 | 2026-10-07 |  |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/3cx4K9v7RwDEXX6OGPNLNy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/album/3habIVRUhTf6wzwR4O1dBI) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2022-07-26 | 2022-10-04 |
 | [If Not for You \(2014 Remaster\)](https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:30 | 2023-09-19 | 2024-04-19 |
@@ -362,6 +363,7 @@
 | [Lovin' in My Baby's Eyes](https://open.spotify.com/track/29yCqXXDp6PE6nq59Ke0I8) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 2:39 | 2022-03-30 | 2022-04-21 |
 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 | 2022-03-30 | 2023-09-28 |
 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 | 2023-09-19 | 2024-04-19 |
+| [Lucky Again](https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 3:01 | 2026-10-07 |  |
 | [Lucky Man](https://open.spotify.com/track/2h6yMYLEO78sxiDV2VX8jD) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Chef \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5wXB3JnWbBotktSeTuy1E2) | 3:16 | 2022-03-30 | 2022-04-18 |
 | [Lucy](https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW) | [Yenkee](https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd) | [Lucy](https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz) | 3:46 | 2021-12-16 |  |
 | [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 | 2022-03-30 | 2025-08-26 |
@@ -411,7 +413,7 @@
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-12-16 | 2022-07-28 |
 | [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 | 2022-10-04 |
 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2024-02-23 |  |
-| [No Other Life Without You](https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ) | [Greenflow](https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N) | [Solutions](https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh) | 4:38 | 2025-08-29 |  |
+| [No Other Life Without You](https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ) | [Greenflow](https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N) | [Solutions](https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh) | 4:38 | 2025-08-29 | 2026-10-08 |
 | [Nobody But You](https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Sounds Good](https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD) | 2:14 | 2026-03-02 |  |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2022-03-30 | 2022-04-20 |
 | [Nothing I'd Rather Be \(Than Your Weakness\)](https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [Eccentric Soul: The Forte Label](https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC) | 3:11 | 2022-03-30 | 2022-04-21 |
@@ -425,7 +427,7 @@
 | [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 |  |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-25 | 2023-09-20 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-26 | 2023-07-28 |
-| [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 | 2025-03-11 |  |
+| [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 | 2025-03-11 | 2026-10-08 |
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-16 | 2024-02-14 |
 | [Oh Boredom \(Schmaltz City, USA\)](https://open.spotify.com/track/79084mepy4vAEG416uZxO7) | [Star Parks](https://open.spotify.com/artist/0yRum3Q7Dqnt8kl4MdO7TH) | [The New Sounds of Late Capitalism](https://open.spotify.com/album/1FvsGwOIqTWvoXHo5wleVE) | 3:42 | 2021-12-30 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 118812,
+  "num_followers": 118841,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 167823,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Primetime (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Warhorse",
-        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
       "artists": [
         {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Warhorse",
-      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -439,6 +423,22 @@
       "duration_ms": 224206,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Warhorse",
+        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Warhorse",
+      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 213537,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Plein Soleil",
         "url": "https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 205746,
       "name": "Plein Soleil",
       "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 213537,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Blood Bank (Spotify Singles)",
         "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
       },
       "artists": [
         {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Call It What You Want",
-        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+        "name": "easy rider",
+        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
       },
       "artists": [
         {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
         }
       ],
-      "duration_ms": 170726,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
+      "duration_ms": 234218,
+      "name": "easy rider",
+      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -667,6 +651,22 @@
       "duration_ms": 193820,
       "name": "Vulnerability",
       "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "WONDERMAN",
-        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
-      },
-      "artists": [
-        {
-          "name": "JEDSOUL",
-          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
-        }
-      ],
-      "duration_ms": 244783,
-      "name": "WONDERMAN",
-      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Yeeha",
         "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 239613,
       "name": "Yeeha",
       "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "WONDERMAN",
+        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 244783,
+      "name": "WONDERMAN",
+      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 112984,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Sometimes I rush",
         "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 90867,
       "name": "Sometimes I rush",
       "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 112984,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "MONDAY TO SUNDAY",
-        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
-      },
-      "artists": [
-        {
-          "name": "Mark Lux",
-          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 187614,
-      "name": "MONDAY TO SUNDAY",
-      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "NOBODY",
         "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 184335,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "MONDAY TO SUNDAY",
+        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "2222222222222222 + Climbing",
+        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        },
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 119146,
+      "name": "2222222222222222 + Climbing",
+      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "The Whale",
         "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
       },
@@ -1123,22 +1143,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "2222222222222222 + Climbing",
-        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
       },
       "artists": [
         {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
-        },
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
         }
       ],
-      "duration_ms": 119146,
-      "name": "2222222222222222 + Climbing",
-      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1191,22 +1207,6 @@
       "duration_ms": 200214,
       "name": "February Theory",
       "url": "https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "added_at": "2026-10-01 14:03:25",

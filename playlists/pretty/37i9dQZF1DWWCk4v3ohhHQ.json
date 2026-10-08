@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 227982,
+  "num_followers": 227991,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 195973,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Fourth Of July",
-      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
+      "duration_ms": 238386,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "My Private Nation",
         "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 242200,
       "name": "Calling All Angels",
       "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "What If Nothing",
-        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 261371,
-      "name": "One Foot",
-      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
+      "duration_ms": 257386,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -983,6 +967,22 @@
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "What If Nothing",
+        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 261371,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Work This Body",
-      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 245786,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Work This Body",
+      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Sunsets & Full Moons",
-        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 196110,
-      "name": "The Last Time",
-      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "The Way It Was",
         "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 248960,
       "name": "Forever And Always",
       "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Sunsets & Full Moons",
+        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 196110,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
     },
     {
       "added_at": "2024-07-05 23:46:34",

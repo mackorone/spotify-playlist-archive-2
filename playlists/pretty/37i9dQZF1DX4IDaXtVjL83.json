@@ -1,36 +1,52 @@
 {
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Alok, NAYEON of TWICE)",
-  "num_followers": 506171,
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: KickFlip, iann dior)",
+  "num_followers": 506201,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABh3TphMXuBC22FWEbH57+4RIpKk",
+  "snapshot_id": "AAAAANO0v/9naB0E3s0LPro9d0Akb8Q5",
   "tracks": [
     {
-      "added_at": "2026-10-02 01:03:25",
+      "added_at": "2026-10-08 02:15:27",
       "album": {
-        "name": "Bye Bye Inhibitions",
-        "url": "https://open.spotify.com/album/39DwtUa6MsygEQAFlyExSq"
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
         },
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Bye Bye Inhibitions",
-      "url": "https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX"
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
+    },
+    {
+      "added_at": "2026-10-08 02:15:27",
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 141699,
+      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
     },
     {
       "added_at": "2026-10-02 01:03:25",
@@ -391,6 +407,30 @@
     {
       "added_at": "2026-10-02 01:03:25",
       "album": {
+        "name": "Bye Bye Inhibitions",
+        "url": "https://open.spotify.com/album/39DwtUa6MsygEQAFlyExSq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Bye Bye Inhibitions",
+      "url": "https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX"
+    },
+    {
+      "added_at": "2026-10-02 01:03:25",
+      "album": {
         "name": "Neva Play (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
       },
@@ -411,26 +451,6 @@
     {
       "added_at": "2026-10-02 01:03:25",
       "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
-      "added_at": "2026-10-02 01:03:25",
-      "album": {
         "name": "ExtraL (feat. Doechii)",
         "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
       },
@@ -447,6 +467,26 @@
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
+    {
+      "added_at": "2026-10-02 01:03:25",
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
       "added_at": "2026-10-02 01:03:25",
@@ -515,26 +555,6 @@
     {
       "added_at": "2026-10-02 01:03:25",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "In The Dark (with Stray Kids)",
-      "url": "https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c"
-    },
-    {
-      "added_at": "2026-10-02 01:03:25",
-      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -551,6 +571,26 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2026-10-02 01:03:25",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "In The Dark (with Stray Kids)",
+      "url": "https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c"
     },
     {
       "added_at": "2026-10-02 01:03:25",
@@ -1003,50 +1043,6 @@
       "duration_ms": 135258,
       "name": "i\u2019m like that (feat. Loco)",
       "url": "https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh"
-    },
-    {
-      "added_at": "2026-10-02 01:03:25",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "Stars + Yves",
-      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
-    },
-    {
-      "added_at": "2026-10-02 01:03:25",
-      "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
-      },
-      "artists": [
-        {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
-        },
-        {
-          "name": "TAEHYUN",
-          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
     }
   ],
   "unique_name": "K-Pop X-Overs",

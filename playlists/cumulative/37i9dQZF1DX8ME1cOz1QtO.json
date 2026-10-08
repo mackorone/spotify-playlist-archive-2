@@ -23,6 +23,46 @@
     },
     {
       "album": {
+        "name": "In Another",
+        "url": "https://open.spotify.com/album/2HowHtQcBSeAOkG87Ic5SF"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Takahashi",
+          "url": "https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117813,
+      "name": "A Forgotten Hill",
+      "url": "https://open.spotify.com/track/11WnhWniXzWkExugPjhqOo"
+    },
+    {
+      "album": {
+        "name": "A Light For Dark Moments",
+        "url": "https://open.spotify.com/album/3nTDAQC7R9JiLhuHRwWUUM"
+      },
+      "artists": [
+        {
+          "name": "Tristan de Li\u00e8ge",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        },
+        {
+          "name": "Gregory Allison",
+          "url": "https://open.spotify.com/artist/515QjHdYuJBYXQcVHruoz4"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377080,
+      "name": "A Light For Dark Moments",
+      "url": "https://open.spotify.com/track/36IPEbt8vKZ3KfSorpqByp"
+    },
+    {
+      "album": {
         "name": "Aum",
         "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
@@ -106,7 +146,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 344293,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
@@ -160,7 +200,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 378453,
       "name": "Ancient Stars",
       "url": "https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL"
@@ -254,7 +294,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
@@ -302,7 +342,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 211666,
       "name": "Behind The Waterfall",
       "url": "https://open.spotify.com/track/0RjITt1ROaVZvjJlfp9mTD"
@@ -332,10 +372,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 320493,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
+    },
+    {
+      "album": {
+        "name": "The Juniper Tree",
+        "url": "https://open.spotify.com/album/2cA79Va4fyrRinHaFS3Ynw"
+      },
+      "artists": [
+        {
+          "name": "Midori Hirano",
+          "url": "https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82128,
+      "name": "Bird Sleeping In Water",
+      "url": "https://open.spotify.com/track/113JcpBqDbFfhFssDO8Bu4"
     },
     {
       "album": {
@@ -499,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Walking In The Naked City",
+        "url": "https://open.spotify.com/album/2JWoIkm68CjmXJSl0RaTwh"
+      },
+      "artists": [
+        {
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426563,
+      "name": "Come With Us",
+      "url": "https://open.spotify.com/track/3EbDOF9Gw1QfpgVcqgLK66"
+    },
+    {
+      "album": {
         "name": "Oasis [Remastered]",
         "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
       },
@@ -510,7 +586,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
@@ -528,7 +604,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
@@ -553,6 +629,24 @@
     },
     {
       "album": {
+        "name": "All Gates Open (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7PXmY3nZzpXlu11kH7Mu"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346141,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2EJE94JWvtN8PygeiP5Nyg"
+    },
+    {
+      "album": {
         "name": "New Age Of Earth",
         "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
@@ -564,7 +658,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 349666,
       "name": "Deep Distance",
       "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
@@ -678,7 +772,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 553800,
       "name": "Elysian E",
       "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
@@ -696,7 +790,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 425133,
       "name": "Equinoxe, Pt. 4",
       "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
@@ -721,6 +815,32 @@
     },
     {
       "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/3dfh1q4L1CJyyIC47Sinln"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Melanie Faye",
+          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250327,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3DU0kVyL8d8DgINz9qBxPQ"
+    },
+    {
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -732,7 +852,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
@@ -842,7 +962,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 201186,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
@@ -878,7 +998,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 136506,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/3XWjY5ywwVf134l4CnnxmY"
@@ -896,7 +1016,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 1394160,
       "name": "Garden Of Paradise",
       "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
@@ -958,7 +1078,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 316000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz"
@@ -1030,7 +1150,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 481320,
       "name": "In the Beginning",
       "url": "https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1"
@@ -1120,7 +1240,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 314333,
       "name": "Keys To Imagination",
       "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
@@ -1174,7 +1294,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 354906,
       "name": "La petite fille de la mer - Remastered",
       "url": "https://open.spotify.com/track/3uNFRvQVEIEsQgHdZFw6Dk"
@@ -1322,10 +1442,32 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 1049000,
       "name": "Meditation: I. Pt. I",
       "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+    },
+    {
+      "album": {
+        "name": "A Light For Dark Moments",
+        "url": "https://open.spotify.com/album/3nTDAQC7R9JiLhuHRwWUUM"
+      },
+      "artists": [
+        {
+          "name": "Tristan de Li\u00e8ge",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        },
+        {
+          "name": "Gregory Allison",
+          "url": "https://open.spotify.com/artist/515QjHdYuJBYXQcVHruoz4"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123813,
+      "name": "Meetings In Rain",
+      "url": "https://open.spotify.com/track/7zR2BD88828ZP1ePa3zMLS"
     },
     {
       "album": {
@@ -1358,7 +1500,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 416026,
       "name": "Midnight On Mars",
       "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
@@ -1383,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "REFRACTIONS",
+        "url": "https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493414,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2APyZJAxuQ87Zvogx1Mrsp"
+    },
+    {
+      "album": {
         "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
         "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
       },
@@ -1394,10 +1554,46 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 615693,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
+    },
+    {
+      "album": {
+        "name": "Moving Through Here",
+        "url": "https://open.spotify.com/album/47kIzWvTSUI5rIOyFxXIQ6"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326026,
+      "name": "Morning At the Window - I Was in Heaven",
+      "url": "https://open.spotify.com/track/1jwY8UHHDQfEBtBiFHm7XK"
+    },
+    {
+      "album": {
+        "name": "The Juniper Tree",
+        "url": "https://open.spotify.com/album/2cA79Va4fyrRinHaFS3Ynw"
+      },
+      "artists": [
+        {
+          "name": "Midori Hirano",
+          "url": "https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207968,
+      "name": "Mother's Path",
+      "url": "https://open.spotify.com/track/3dWPFErUJ2GPXIvbPPRBgj"
     },
     {
       "album": {
@@ -1412,7 +1608,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 477322,
       "name": "Movements Of A Visionary - Remastered 2018",
       "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
@@ -1448,7 +1644,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk"
@@ -1470,6 +1666,24 @@
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
+    },
+    {
+      "album": {
+        "name": "Walking In The Naked City",
+        "url": "https://open.spotify.com/album/2JWoIkm68CjmXJSl0RaTwh"
+      },
+      "artists": [
+        {
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509911,
+      "name": "Night Forest",
+      "url": "https://open.spotify.com/track/78ddk2Nghi5nIFbNCn25vz"
     },
     {
       "album": {
@@ -1538,10 +1752,50 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 152426,
       "name": "Offener Himmel II",
       "url": "https://open.spotify.com/track/40rNG0wBj5qXRLQLfAcqRy"
+    },
+    {
+      "album": {
+        "name": "Foundry",
+        "url": "https://open.spotify.com/album/2LSjROSfgkmtXqaGWMZdcb"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        },
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364244,
+      "name": "One Place After Another",
+      "url": "https://open.spotify.com/track/0VZcFTmE4PtergbgWXiUoT"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329634,
+      "name": "Our Own Roof (Paris)",
+      "url": "https://open.spotify.com/track/1QrI5dITzKhw2AZAnWkbdT"
     },
     {
       "album": {
@@ -1574,7 +1828,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 460640,
       "name": "Oxygene, Pt. 1",
       "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
@@ -1610,7 +1864,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 196733,
       "name": "Oxygene, Pt. 3",
       "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
@@ -1729,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Moving Through Here",
+        "url": "https://open.spotify.com/album/47kIzWvTSUI5rIOyFxXIQ6"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373066,
+      "name": "Place Where the Sun Beats",
+      "url": "https://open.spotify.com/track/5GpvWfPizuZiaIFJ0Y3Ntf"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -1787,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "In Another",
+        "url": "https://open.spotify.com/album/2HowHtQcBSeAOkG87Ic5SF"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Takahashi",
+          "url": "https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "Queen West Butterfly",
+      "url": "https://open.spotify.com/track/59ytGOiDJy06Zlt6G7raMq"
+    },
+    {
+      "album": {
         "name": "Quiet Joy / Domestic Peace",
         "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
@@ -1816,7 +2106,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 288000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
@@ -1874,7 +2164,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 1037451,
       "name": "Rubycon - Pt. 1 / Remastered 2018",
       "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
@@ -1957,6 +2247,28 @@
     },
     {
       "album": {
+        "name": "In Another",
+        "url": "https://open.spotify.com/album/2HowHtQcBSeAOkG87Ic5SF"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Takahashi",
+          "url": "https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR"
+        },
+        {
+          "name": "Dorothea Paas",
+          "url": "https://open.spotify.com/artist/43PJplvsEukrxqpOwEGByn"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346240,
+      "name": "Sky, Ocean, and Creatures",
+      "url": "https://open.spotify.com/track/09CutDvnfG8BQ7a2Mnziru"
+    },
+    {
+      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1968,7 +2280,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 394826,
       "name": "Soaring: Crown Chakra",
       "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
@@ -2022,7 +2334,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 199506,
       "name": "Star Children Theme II - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw"
@@ -2084,7 +2396,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 353600,
       "name": "Suite Bergamasque: Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
@@ -2120,7 +2432,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 261906,
       "name": "Sunrise in the Third System",
       "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
@@ -2160,6 +2472,24 @@
       "duration_ms": 659426,
       "name": "The Angels Of Comfort",
       "url": "https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ"
+    },
+    {
+      "album": {
+        "name": "\u6226\u5f8c80\u5e74\u30c9\u30e9\u30de\u300c\u516b\u6708\u306e\u58f0\u3092\u904b\u3076\u7537\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6WVBHI65MScRkiRdZHJM6H"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292341,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/7gMLkMDPpAOX1rfYjqSnjZ"
     },
     {
       "album": {
@@ -2282,10 +2612,32 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 445613,
       "name": "Theme From Antarctica - Remastered",
       "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "album": {
+        "name": "Meeting with a Judas Tree",
+        "url": "https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453755,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/76eMiA3DQhgh6lVEpqhoNK"
     },
     {
       "album": {
@@ -2308,7 +2660,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 717706,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
@@ -2352,7 +2704,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 241906,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/667Fhj3kQOOh5s26ILMyki"
@@ -2424,7 +2776,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 546106,
       "name": "To the Unknown Man",
       "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
@@ -2442,7 +2794,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 1397160,
       "name": "Tubular Bells - Pt. II",
       "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
@@ -2496,7 +2848,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 272346,
       "name": "Wolkenreise - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
@@ -2536,6 +2888,28 @@
       "duration_ms": 382026,
       "name": "Zen Garden of the Soul Part III - IV",
       "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30ec\u30f3\u30fb\u30b0\u30fc\u30eb\u30c9\u30fb\u30ae\u30e3\u30b6\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/06zGReCYtvKJJ2X4KGnpMD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "\u30b3\u30e9\u30fc\u30eb\u300c\u53e4\u304d\u5e74\u306f\u904e\u304e\u53bb\u308a\u306c\u300d BWV614",
+      "url": "https://open.spotify.com/track/07VIhRvfh0Wa92qFonU8PC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ME1cOz1QtO"

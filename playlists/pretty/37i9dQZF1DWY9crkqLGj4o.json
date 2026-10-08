@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 452189,
+  "num_followers": 452210,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 337896,
       "name": "Inexplic\u00e1vel Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "N\u00e3o Tem Como Dar Errado",
+        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 202398,
+      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Derrama o Teu Poder (Ao Vivo)",
         "url": "https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 291375,
       "name": "Derrama o Teu Poder - Ao Vivo",
       "url": "https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "N\u00e3o Tem Como Dar Errado",
-        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 202398,
-      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
     },
     {
       "added_at": "2026-01-30 13:05:09",

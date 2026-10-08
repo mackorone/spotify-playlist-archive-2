@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAANP3ZD0vw1EX7jaBTpyTnMlOMtAp1/",
+  "snapshot_id": "AAANR/3y1mI2g3Zuq2QH8ObK1j+NSdJL",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -8643,7 +8643,7 @@
     {
       "added_at": "2024-12-10 03:31:55",
       "album": {
-        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "name": "The Beatles 1967 - 1970 (Remastered 2009)",
         "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
       "artists": [
@@ -19723,7 +19723,7 @@
     {
       "added_at": "2024-12-16 07:09:02",
       "album": {
-        "name": "Let It Be (Remastered)",
+        "name": "Let It Be (Remastered 2009)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
@@ -26803,34 +26803,6 @@
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
-    },
-    {
-      "added_at": "2025-01-03 01:08:54",
-      "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Hair Salon (with Cozz feat. G Perico & Reason)",
-      "url": "https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE"
     },
     {
       "added_at": "2025-01-03 01:08:54",
@@ -152099,6 +152071,70 @@
       "duration_ms": 258714,
       "name": "Snow halation",
       "url": "https://open.spotify.com/track/1WIT4n4ndYSFOD4XqcRfwa"
+    },
+    {
+      "added_at": "2026-10-07 22:51:44",
+      "album": {
+        "name": "\u03bc's Best Album Best Live! Collection \u2161",
+        "url": "https://open.spotify.com/album/6MUUm6XqshrcnctU8KUgTI"
+      },
+      "artists": [
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 274505,
+      "name": "\u50d5\u3089\u306f\u4eca\u306e\u306a\u304b\u3067",
+      "url": "https://open.spotify.com/track/5ALvDIJw5smrREM5iXmr6G"
+    },
+    {
+      "added_at": "2026-10-07 23:00:01",
+      "album": {
+        "name": "\u03bc's Best Album Best Live! Collection \u2161",
+        "url": "https://open.spotify.com/album/6MUUm6XqshrcnctU8KUgTI"
+      },
+      "artists": [
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 255315,
+      "name": "START:DASH!!",
+      "url": "https://open.spotify.com/track/5ZNHpcARAieeBxUS8v6YqO"
+    },
+    {
+      "added_at": "2026-10-07 23:02:19",
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01 \u03bc's Best Album Best Live! collection",
+        "url": "https://open.spotify.com/album/7psTSuTuWkVqwL1WImELJB"
+      },
+      "artists": [
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 322571,
+      "name": "\u50d5\u3089\u306eLIVE \u541b\u3068\u306eLIFE",
+      "url": "https://open.spotify.com/track/337ulrHx2OU1GuFtJmo2SJ"
+    },
+    {
+      "added_at": "2026-10-07 23:04:00",
+      "album": {
+        "name": "\u03bc's Best Album Best Live! Collection \u2161",
+        "url": "https://open.spotify.com/album/6MUUm6XqshrcnctU8KUgTI"
+      },
+      "artists": [
+        {
+          "name": "\u03bc's",
+          "url": "https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i"
+        }
+      ],
+      "duration_ms": 253567,
+      "name": "\u305d\u308c\u306f\u50d5\u305f\u3061\u306e\u5947\u8de1",
+      "url": "https://open.spotify.com/track/7AknpP2azTBy1i2pdJJIAo"
     }
   ],
   "unique_name": "Purge",

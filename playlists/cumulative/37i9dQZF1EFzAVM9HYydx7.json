@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Killer Love",
+        "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261266,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/3ADt9JgD0ysU3OfpLY4OGk"
+    },
+    {
+      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 219428,
       "name": "Dope Game",
       "url": "https://open.spotify.com/track/3IPD3Ep7ayUQBOjlBmYunn"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Dope Game",
       "url": "https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK"
@@ -5742,7 +5760,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 330769,
       "name": "Schemin Up (feat. Drake and Preme)",
       "url": "https://open.spotify.com/track/6wBpgsERq6XpJfIjWXOrnn"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 330769,
       "name": "Schemin Up (feat. Drake and Preme)",
       "url": "https://open.spotify.com/track/7ya1hJEv0PdtnL1aaEmBY0"
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 253139,
       "name": "SUH ME LUV IT (feat. Jada Kingdom)",
       "url": "https://open.spotify.com/track/0egpJCt6MOKzoWbOyoZSWQ"
@@ -6204,7 +6222,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 253139,
       "name": "SUH ME LUV IT (feat. Jada Kingdom)",
       "url": "https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO"
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3"
@@ -6600,7 +6618,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh"

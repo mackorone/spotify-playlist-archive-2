@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122584,
+  "num_followers": 122581,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVz42JYq0fK/meq3JjjADs5dWyQqs5",
+  "snapshot_id": "AAAV0TRvTVpsh51DW5YJYlQwbg6SKagF",
   "tracks": [
+    {
+      "added_at": "2026-10-07 17:21:58",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD"
+    },
+    {
+      "added_at": "2026-10-07 14:49:20",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N"
+    },
     {
       "added_at": "2026-10-05 14:26:15",
       "album": {

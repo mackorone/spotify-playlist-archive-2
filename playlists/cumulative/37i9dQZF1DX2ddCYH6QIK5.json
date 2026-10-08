@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Marie Hummel",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Tamara Wirth",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3955,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Brauch Dich Nicht",
+        "url": "https://open.spotify.com/album/5rIz3jjk5GPUBvPuuhPYsF"
+      },
+      "artists": [
+        {
+          "name": "VANY",
+          "url": "https://open.spotify.com/artist/438hcLBzFiTYwOffWeBkWj"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Brauch Dich Nicht",
+      "url": "https://open.spotify.com/track/1Um35IfeTi2tQw1TIavJaK"
+    },
+    {
+      "album": {
         "name": "Brave Souls",
         "url": "https://open.spotify.com/album/49SKrUBL0p3KHQg2y47orJ"
       },
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 232781,
       "name": "burn @kennedydamm",
       "url": "https://open.spotify.com/track/63gByuPSHMxT1IeGT5whuN"
@@ -5190,6 +5208,24 @@
       "duration_ms": 169131,
       "name": "closure",
       "url": "https://open.spotify.com/track/4wfbsHukb95LmqXmcKLUtx"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0tBb5esOIO8nQ0j6qGNyn3"
+      },
+      "artists": [
+        {
+          "name": "nae",
+          "url": "https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223511,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF"
     },
     {
       "album": {
@@ -9728,7 +9764,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 148637,
       "name": "FLX",
       "url": "https://open.spotify.com/track/2eo8ZZYFfWimNMGpBh1WZ7"
@@ -13319,6 +13355,24 @@
     },
     {
       "album": {
+        "name": "Esoteric Reality EP",
+        "url": "https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60"
+      },
+      "artists": [
+        {
+          "name": "Tamara Wirth",
+          "url": "https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358356,
+      "name": "I",
+      "url": "https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy"
+    },
+    {
+      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/4HAJI1EAOj8YfvxRweePXg"
       },
@@ -16582,7 +16636,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 187826,
       "name": "Letzte Seite",
       "url": "https://open.spotify.com/track/3cvXcYAkPvbzewxCRYuhoq"
@@ -17994,6 +18048,24 @@
       "duration_ms": 161288,
       "name": "Mehr",
       "url": "https://open.spotify.com/track/4lgi1NMBdcqoIb2DDMdRHk"
+    },
+    {
+      "album": {
+        "name": "Meilenweit",
+        "url": "https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO"
+      },
+      "artists": [
+        {
+          "name": "Kim Lemmi",
+          "url": "https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Meilenweit",
+      "url": "https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS"
     },
     {
       "album": {
@@ -26546,7 +26618,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 162031,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6Iv2qMrP7RjtK9eVf327Bf"
@@ -27557,6 +27629,24 @@
     },
     {
       "album": {
+        "name": "The View",
+        "url": "https://open.spotify.com/album/61vGynuTmeRFjqDeXYuvri"
+      },
+      "artists": [
+        {
+          "name": "Lea Santee",
+          "url": "https://open.spotify.com/artist/4MAk4LWy7v0m8pqA7JMD1k"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192913,
+      "name": "The View",
+      "url": "https://open.spotify.com/track/0ZcQCrHUSl1prtdslxAmZl"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/7mrpT7LGdiABOJ56j35G3y"
       },
@@ -28438,7 +28528,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 221150,
       "name": "Tr\u00e4nen",
       "url": "https://open.spotify.com/track/6hCyX5cdEb7Vu84cNJ79uh"

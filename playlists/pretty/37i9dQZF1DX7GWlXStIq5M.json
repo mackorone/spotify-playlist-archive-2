@@ -1,6 +1,6 @@
 {
   "description": "Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 355747,
+  "num_followers": 355739,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 204002,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "Errado pra mim",
         "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
       },
@@ -243,18 +259,18 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
+        "name": "Que Saudade da Gente",
+        "url": "https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB"
       },
       "artists": [
         {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 204002,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
+      "duration_ms": 143181,
+      "name": "Que Saudade da Gente",
+      "url": "https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -295,22 +311,6 @@
       "duration_ms": 163571,
       "name": "Banho de Sol",
       "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Que Saudade da Gente",
-        "url": "https://open.spotify.com/album/7fLlI3JpU0npRvsGGSCjPB"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 143181,
-      "name": "Que Saudade da Gente",
-      "url": "https://open.spotify.com/track/1xHIG0b8GR7jarPzyfcL7c"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Seda de Casulo",
         "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
       },
@@ -599,22 +619,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
       },
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "GRAZI",
-        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
       },
       "artists": [
         {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
         }
       ],
-      "duration_ms": 171428,
-      "name": "L\u00c1 DE CIMA (1999)",
-      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Cen\u00e1rio a Dois",
         "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
       },
@@ -759,22 +743,18 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -799,6 +779,26 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "COVARDIA",
         "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 161088,
       "name": "COVARDIA",
       "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -979,22 +979,18 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
       "artists": [
         {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 122628,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+      "duration_ms": 122628,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -1047,18 +1047,34 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -1079,22 +1095,6 @@
       "duration_ms": 228000,
       "name": "Mais Que Isso",
       "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "Ressaca da Saudade",
         "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     }
   ],
   "unique_name": "Palco POP",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,234 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,242 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 50 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 51 | [Todos tenemos miedo o envidia](https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM) | [La Fantástica Banda](https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh) | [Gloria Fuertes por la Fantástica Banda](https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS) | 3:50 |
 | 52 | [Las Hienas](https://open.spotify.com/track/0ykXOZVlLC6VZHFBwTHkkz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [El Rey León](https://open.spotify.com/album/4UOhexwPupfdEPxQeysY81) | 4:07 |
-| 53 | [Sea Of Monsters \- Remastered 2009](https://open.spotify.com/track/30u8QyT0kBSYO5RcZmaLl3) | [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Yellow Submarine \(Remastered\)](https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy) | 3:36 |
+| 53 | [Sea Of Monsters \- Remastered 2009](https://open.spotify.com/track/30u8QyT0kBSYO5RcZmaLl3) | [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Yellow Submarine \(Remastered 2009\)](https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy) | 3:36 |
 | 54 | [Preparaos](https://open.spotify.com/track/1Wf2n5lqPWJ8F4KrAFUzNe) | [Jordi Doncos](https://open.spotify.com/artist/4QR1lYssaiEA7EoVdlzZHs) | [El Rey León](https://open.spotify.com/album/4UOhexwPupfdEPxQeysY81) | 3:39 |
 | 55 | [Jack's Obsession](https://open.spotify.com/track/5Yl2MFlben2pLcEUaKrDyJ) | [Cast \- The Nightmare Before Christmas](https://open.spotify.com/artist/1LBMTH4i180mwTLvTW84H3), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 2:46 |
 | 56 | [The Addams Family](https://open.spotify.com/track/3BkFCWaLPDrkf7HWQdSyQe) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest TV Themes](https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB) | 2:19 |

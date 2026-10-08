@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 1016857,
+  "num_followers": 1016937,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Please Please Me (Remastered)",
+        "name": "Please Please Me (Remastered 2009)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
@@ -235,7 +235,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Beatles (Remastered)",
+        "name": "The Beatles (Remastered 2009)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
@@ -331,7 +331,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Help! (Remastered)",
+        "name": "Help! (Remastered 2009)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
       "artists": [
@@ -507,7 +507,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
+        "name": "A Hard Day's Night (Remastered 2009)",
         "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
       "artists": [
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Here Are the Sonics",
-        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Have Love Will Travel",
-      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "River Deep-Mountain High",
         "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 214880,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Here Are the Sonics",
+        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Have Love Will Travel",
+      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1435,7 +1435,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Please Please Me (Remastered)",
+        "name": "Please Please Me (Remastered 2009)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
@@ -1515,7 +1515,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Help! (Remastered)",
+        "name": "Help! (Remastered 2009)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
       "artists": [
@@ -1579,7 +1579,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "name": "The Beatles 1967 - 1970 (Remastered 2009)",
         "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
       "artists": [
@@ -1595,7 +1595,7 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered 2009)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
       "artists": [

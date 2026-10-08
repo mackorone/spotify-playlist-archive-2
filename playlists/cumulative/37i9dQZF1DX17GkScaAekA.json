@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Love and Death",
+        "url": "https://open.spotify.com/album/4o2cK5PwXRoSVANyPuFSOb"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "Liszt: Liebeslied, S. 566a (After Schumann's Widmung, Op. 25 No. 1)",
+      "url": "https://open.spotify.com/track/0cKlu1GLSgOSdJBu6yMMX4"
+    },
+    {
+      "album": {
         "name": "Liszt: Liebestraum",
         "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
       },
@@ -3174,28 +3196,6 @@
       "duration_ms": 220813,
       "name": "Schubert: Sonata in A Minor, D. 821 \"Arpeggione\": II. Adagio",
       "url": "https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI"
-    },
-    {
-      "album": {
-        "name": "Love and Death",
-        "url": "https://open.spotify.com/album/4o2cK5PwXRoSVANyPuFSOb"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Martin James Bartlett",
-          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
-        }
-      ],
-      "date_added": "2021-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237960,
-      "name": "Schumann & Liszt: Widmung, Op. 25 No. 1 (Arr. Liszt, S. 566a)",
-      "url": "https://open.spotify.com/track/0cKlu1GLSgOSdJBu6yMMX4"
     },
     {
       "album": {

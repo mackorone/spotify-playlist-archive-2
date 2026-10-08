@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742 likes - 31 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741 likes - 31 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 30 | [Elegy: Do not tempt me needlessly.](https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5) | [Mikhail Glinka](https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 3:24 |
 | 31 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 
-Snapshot ID: `asGXAAAAAADzt4OEb5Qfx/oY9hmsVWN/`
+Snapshot ID: `asLogAAAAADL8mR00RySxlK9wk85Lefm`

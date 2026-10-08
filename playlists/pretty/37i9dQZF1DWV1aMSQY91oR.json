@@ -1,6 +1,6 @@
 {
   "description": "The latest in hip-hop, refreshed weekly. Cover: Skip Waiters",
-  "num_followers": 23380,
+  "num_followers": 23391,
   "original_name": "New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -108,16 +108,16 @@
       },
       "artists": [
         {
+          "name": "Jayy V Vondon",
+          "url": "https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2"
+        },
+        {
           "name": "French Montana",
           "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "Max B",
           "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
-        },
-        {
-          "name": "Jayy V Vondon",
-          "url": "https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2"
         }
       ],
       "duration_ms": 198504,

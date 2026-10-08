@@ -1,12 +1,12 @@
 {
   "description": "The new & hottest K-Pop is here! (Cover: YENA, NOWIMYOUNG)",
-  "num_followers": 6126664,
+  "num_followers": 6126652,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOspRSq/dnVLdQGMGy08w6zPK9P",
+  "snapshot_id": "AAAAAAH5TNwkRIhqIbgx0Nk8H1EYYMGj",
   "tracks": [
     {
       "added_at": "2026-10-02 09:00:20",
@@ -27,6 +27,22 @@
       "duration_ms": 148000,
       "name": "Dime Girl (Feat. NOWIMYOUNG)",
       "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -93,20 +109,24 @@
       "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
-      "added_at": "2026-10-02 09:00:20",
+      "added_at": "2026-10-08 04:56:41",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/6D1GOWHUaPAJpbRuHnGiH9"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/22roUAQiFGI1Gug73QMHzl"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -779,50 +799,6 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "ROOTS (Respect is the New Cool)",
-        "url": "https://open.spotify.com/album/2psy94g7etmQKnAL1jnHuw"
-      },
-      "artists": [
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Raf Sandou",
-          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Tiger JK",
-          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 299428,
-      "name": "ROOTS - Spotify Singles",
-      "url": "https://open.spotify.com/track/00XLDzc8k0TQ8ge8m1PWrX"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
         "name": "CHAT",
         "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
       },
@@ -851,22 +827,6 @@
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Mixtape : A1 GO",
-        "url": "https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B"
-      },
-      "artists": [
-        {
-          "name": "Keyveatz",
-          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "A1 GO",
-      "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

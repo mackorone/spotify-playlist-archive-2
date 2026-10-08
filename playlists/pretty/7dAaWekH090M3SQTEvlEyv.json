@@ -6,7 +6,7 @@
     "name": "Netmune",
     "url": "https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm"
   },
-  "snapshot_id": "AAAG8bRCGDdMSq56F8vdQ+5qTnr39aZq",
+  "snapshot_id": "AAAG88fpFaCeJy9MiKDA92TGs2m3Immt",
   "tracks": [
     {
       "added_at": "2026-10-07 04:32:46",
@@ -103,6 +103,22 @@
       "duration_ms": 159000,
       "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
+    },
+    {
+      "added_at": "2026-10-07 05:31:57",
+      "album": {
+        "name": "NORMAL END",
+        "url": "https://open.spotify.com/album/3SHlC8bviDBswZgJ2Z4wQC"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u30ce\u30fc\u30de\u30eb\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1kIp1OpCvZZkjjlsMcTclG"
     },
     {
       "added_at": "2026-09-30 04:39:10",

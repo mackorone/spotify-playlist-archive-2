@@ -21983,6 +21983,24 @@
     },
     {
       "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/7yaot6s098Uqr2euMzXMCx"
+      },
+      "artists": [
+        {
+          "name": "Hilcrhyme",
+          "url": "https://open.spotify.com/artist/5sefnd4yMQNYe9fuLi2XYw"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156090,
+      "name": "BEPPINSAN",
+      "url": "https://open.spotify.com/track/44vjfMukuFz2ntnu7NpIlS"
+    },
+    {
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -45620,6 +45638,28 @@
       "duration_ms": 255238,
       "name": "DEMON'S SHOT",
       "url": "https://open.spotify.com/track/6NDdZaUIXJfto2riSCDQcQ"
+    },
+    {
+      "album": {
+        "name": "\u96f6\u5f0fRAPSYSTEM",
+        "url": "https://open.spotify.com/album/60mqOBPcs3IKctr4sUVZhh"
+      },
+      "artists": [
+        {
+          "name": "BHS Svve",
+          "url": "https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2"
+        },
+        {
+          "name": "hirihiri",
+          "url": "https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "deMonwing System",
+      "url": "https://open.spotify.com/track/7spfoAJxqV5AMfntUe6eWi"
     },
     {
       "album": {
@@ -88311,6 +88351,24 @@
     },
     {
       "album": {
+        "name": "Ice King",
+        "url": "https://open.spotify.com/album/51X8vzkfdtjTXwDWKl38qj"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348820,
+      "name": "Ice King",
+      "url": "https://open.spotify.com/track/2P1g2sQsAgh8JHorGfItZt"
+    },
+    {
+      "album": {
         "name": "ICE Natsu feat. Daito Yamamoto",
         "url": "https://open.spotify.com/album/3DNn855DdIZX2MQqNnBjTg"
       },
@@ -107376,6 +107434,28 @@
       "duration_ms": 205186,
       "name": "Loser",
       "url": "https://open.spotify.com/track/54GQKIuGKQ8SDh3qCfFhyU"
+    },
+    {
+      "album": {
+        "name": "losing day",
+        "url": "https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "Tseng Kuo Hung",
+          "url": "https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380549,
+      "name": "losing day",
+      "url": "https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG"
     },
     {
       "album": {
@@ -192203,60 +192283,6 @@
     },
     {
       "album": {
-        "name": "LETTERS",
-        "url": "https://open.spotify.com/album/2C8xqIGlLvybbPAaOWyt12"
-      },
-      "artists": [
-        {
-          "name": "KALMA",
-          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
-        }
-      ],
-      "date_added": "2026-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1EVX9P365fduuuiIrE9xaY"
-    },
-    {
-      "album": {
-        "name": "2026",
-        "url": "https://open.spotify.com/album/7yaot6s098Uqr2euMzXMCx"
-      },
-      "artists": [
-        {
-          "name": "Hilcrhyme",
-          "url": "https://open.spotify.com/artist/5sefnd4yMQNYe9fuLi2XYw"
-        }
-      ],
-      "date_added": "2026-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/44vjfMukuFz2ntnu7NpIlS"
-    },
-    {
-      "album": {
-        "name": "\u96f6\u5f0fRAPSYSTEM",
-        "url": "https://open.spotify.com/album/60mqOBPcs3IKctr4sUVZhh"
-      },
-      "artists": [
-        {
-          "name": "BHS Svve",
-          "url": "https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2"
-        }
-      ],
-      "date_added": "2026-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/7spfoAJxqV5AMfntUe6eWi"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -227528,6 +227554,24 @@
       "duration_ms": 216976,
       "name": "\u3075\u308f\u3075\u308f",
       "url": "https://open.spotify.com/track/6iWvkvd3zdoA5IhK4GiYFP"
+    },
+    {
+      "album": {
+        "name": "LETTERS",
+        "url": "https://open.spotify.com/album/2C8xqIGlLvybbPAaOWyt12"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231525,
+      "name": "\u3075\u308f\u3075\u308f",
+      "url": "https://open.spotify.com/track/1EVX9P365fduuuiIrE9xaY"
     },
     {
       "album": {

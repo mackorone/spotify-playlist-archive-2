@@ -1,13 +1,157 @@
 {
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Dakota Caden, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 127370,
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Dylan Davidson, Artwork: Fan\u00e9lie Muselier\n",
+  "num_followers": 127488,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANgOZXeWxOPpBWKHorfO+RVAY9bY",
+  "snapshot_id": "AAAAAO1kYnN57GcT3QB9iIZ9afPkaJTc",
   "tracks": [
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "The Red and Gold",
+        "url": "https://open.spotify.com/album/24vxr2JxHnJoa6Buy9iAxY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Davidson",
+          "url": "https://open.spotify.com/artist/3djw1Ru8yEyjl22Q4wdEI6"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "The Red And Gold",
+      "url": "https://open.spotify.com/track/2v5lQZGephAULYF4sPL8dB"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/7F73XYgZnhVroBRSSXXNvv"
+      },
+      "artists": [
+        {
+          "name": "Colin Lynch",
+          "url": "https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/1AHe66XorLzh7ljvOZdcT4"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Why in the World",
+        "url": "https://open.spotify.com/album/3egPLAoQ7rlhIEnPhbpcnV"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lenhart",
+          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
+        }
+      ],
+      "duration_ms": 199635,
+      "name": "It's Not Like",
+      "url": "https://open.spotify.com/track/6hcr4jdhyZ57l9RaM0wNuz"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Ride Away",
+        "url": "https://open.spotify.com/album/59SjZ7OIJyUKR8Djv7UGxA"
+      },
+      "artists": [
+        {
+          "name": "Chandler Marie",
+          "url": "https://open.spotify.com/artist/2nbCQ96QN3xuTVWR8uUpAH"
+        }
+      ],
+      "duration_ms": 221967,
+      "name": "Ride Away",
+      "url": "https://open.spotify.com/track/2EEtrdTtAuwL5drOSy7vZq"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/1FJNGLQFtwLrsderhwij2U"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/4NXKbVrmTrID61yJ1KgjuE"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Losing Team",
+        "url": "https://open.spotify.com/album/0XYiW74NizCgxHinFCg8TS"
+      },
+      "artists": [
+        {
+          "name": "Lily Grace",
+          "url": "https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD"
+        }
+      ],
+      "duration_ms": 139809,
+      "name": "Losing Team",
+      "url": "https://open.spotify.com/track/2F8w4qhClbrENsOBtKm3id"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Thin Line",
+        "url": "https://open.spotify.com/album/4TRXTcXaicX12fios8graX"
+      },
+      "artists": [
+        {
+          "name": "Amanda Couture",
+          "url": "https://open.spotify.com/artist/1znhqL77IuHDs2QnVmprU1"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1VDnj7Alaf3tnkSVy9ZyPv"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "More or Less",
+        "url": "https://open.spotify.com/album/5mNs1fkhlOM3yDDVDixvXY"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "More or Less",
+      "url": "https://open.spotify.com/track/6aDotKYmoqzr7IPkLhVec9"
+    },
+    {
+      "added_at": "2026-10-07 21:47:50",
+      "album": {
+        "name": "Always on Mine",
+        "url": "https://open.spotify.com/album/0GWncIGLZXHjWqe5GJkKpi"
+      },
+      "artists": [
+        {
+          "name": "Grayson Ratliff",
+          "url": "https://open.spotify.com/artist/26ZU1kIqEJPPDFaZwc8jCn"
+        }
+      ],
+      "duration_ms": 219082,
+      "name": "Always on Mine",
+      "url": "https://open.spotify.com/track/7HKTqPbAU71vKcPPIdlNvA"
+    },
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
@@ -287,38 +431,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Title Track",
-        "url": "https://open.spotify.com/album/6fAkkyE6Bbu1oXFK2pcgYx"
-      },
-      "artists": [
-        {
-          "name": "AUSTIN G",
-          "url": "https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq"
-        }
-      ],
-      "duration_ms": 160156,
-      "name": "Title Track",
-      "url": "https://open.spotify.com/track/31W9mk30NYSZcuSkYi5Emd"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Easy Come, Easy Go",
-        "url": "https://open.spotify.com/album/42iJ8DxYc0VwpiEp1NTPhY"
-      },
-      "artists": [
-        {
-          "name": "Kyle Gates",
-          "url": "https://open.spotify.com/artist/0Dti6ly8YKOD1fkrq7tXlT"
-        }
-      ],
-      "duration_ms": 184090,
-      "name": "Easy Come, Easy Go",
-      "url": "https://open.spotify.com/track/7vifzeNfxEheTPz3NwZlxv"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/7IyKQfRj6QUZ8iosYPBVxU"
       },
@@ -351,22 +463,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/1cPLDn9QslTRXUGzESeVHX"
-      },
-      "artists": [
-        {
-          "name": "Chloe Wilson",
-          "url": "https://open.spotify.com/artist/0RbbfFfJutsx6hxBgziiIH"
-        }
-      ],
-      "duration_ms": 228039,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/5z1r39HsJBaRUxTnjFYQ2X"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Thank God For The Dogs",
         "url": "https://open.spotify.com/album/0u7WovzTZW7NsthXbtyHCt"
       },
@@ -383,22 +479,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Why in the World",
-        "url": "https://open.spotify.com/album/1QUYv7Og8urzK7jTdq3ACq"
-      },
-      "artists": [
-        {
-          "name": "Maddie Lenhart",
-          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
-        }
-      ],
-      "duration_ms": 222107,
-      "name": "Why in the World",
-      "url": "https://open.spotify.com/track/2Ev27sEl2ecrovVy8JfAiO"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Row by Row",
         "url": "https://open.spotify.com/album/2SQETgsRScrKQYoYx9j96g"
       },
@@ -411,22 +491,6 @@
       "duration_ms": 177127,
       "name": "Row by Row",
       "url": "https://open.spotify.com/track/7zn5XWodNMSio1UxXyskp9"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Some Version of It",
-        "url": "https://open.spotify.com/album/3lghlHFcnFtyq6povbIGNA"
-      },
-      "artists": [
-        {
-          "name": "Erin Kirby",
-          "url": "https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella"
-        }
-      ],
-      "duration_ms": 163550,
-      "name": "Some Version of It",
-      "url": "https://open.spotify.com/track/6iCbLjtyNNw8FOtRInlk5w"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -495,22 +559,6 @@
       "duration_ms": 202066,
       "name": "Ricochets",
       "url": "https://open.spotify.com/track/7sUTw5K1NL7C2rKWwArXV8"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Somebody Should",
-        "url": "https://open.spotify.com/album/4Plx6XdSIHuEylH89b5rgr"
-      },
-      "artists": [
-        {
-          "name": "Lilly Moss",
-          "url": "https://open.spotify.com/artist/5FOKKpkO9t13FKwScZGC18"
-        }
-      ],
-      "duration_ms": 191553,
-      "name": "Somebody Should",
-      "url": "https://open.spotify.com/track/5bORc5boqKm5x3mMwUagTn"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -755,22 +803,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Dust In My Glove Box",
-        "url": "https://open.spotify.com/album/4oFo64F3ppV2zeG3h6ough"
-      },
-      "artists": [
-        {
-          "name": "Evan Burrison",
-          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
-        }
-      ],
-      "duration_ms": 162273,
-      "name": "Dust In My Glove Box",
-      "url": "https://open.spotify.com/track/2aCmFHj0VkHEiwc0Bl14FU"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/7lvtxk8hGwixJfzv8ySuKL"
       },
@@ -783,22 +815,6 @@
       "duration_ms": 184210,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6CeWHsbWiM9yD4Fqg4i7a9"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "His Name Was John",
-        "url": "https://open.spotify.com/album/5ijLuAMSj3QlpLcuEJxCwY"
-      },
-      "artists": [
-        {
-          "name": "Jenna LaMaster",
-          "url": "https://open.spotify.com/artist/1oaLEYuxR9MWqthwI6Qm0E"
-        }
-      ],
-      "duration_ms": 168332,
-      "name": "His Name Was John",
-      "url": "https://open.spotify.com/track/1R117L3vHVFB243szqaVll"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -895,22 +911,6 @@
       "duration_ms": 210653,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/5RnQMeRIzlbdDKUqit3AXC"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Your Town",
-        "url": "https://open.spotify.com/album/34qBVCRBCJ4pKD79qWd2B4"
-      },
-      "artists": [
-        {
-          "name": "Antwane Tyler",
-          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
-        }
-      ],
-      "duration_ms": 174103,
-      "name": "Your Town",
-      "url": "https://open.spotify.com/track/5bXzQYpTI9xkeU1lVUg2g1"
     },
     {
       "added_at": "2026-09-30 04:00:28",

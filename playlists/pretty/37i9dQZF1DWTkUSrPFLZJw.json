@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24395,
+  "num_followers": 24407,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-09-25 10:11:55",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 142950,
-      "name": "STARLIFE",
-      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
-    },
-    {
-      "added_at": "2026-09-25 10:11:55",
-      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2026-09-25 10:11:55",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
     },
     {
       "added_at": "2026-09-25 10:11:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-25 10:11:55",
       "album": {
-        "name": "VOICE OF THE CROWN (African Dancehall)",
-        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "STREET CROWN (African Dancehall)",
-      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
-    },
-    {
-      "added_at": "2026-09-25 10:11:55",
-      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+    },
+    {
+      "added_at": "2026-09-25 10:11:55",
+      "album": {
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2026-09-25 10:11:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-25 10:11:55",
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
-    },
-    {
-      "added_at": "2026-09-25 10:11:55",
-      "album": {
         "name": "Wonda Boy",
         "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-09-25 10:11:55",
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
+    },
+    {
+      "added_at": "2026-09-25 10:11:55",
+      "album": {
         "name": "Catching Glory",
         "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 106997,
       "name": "Catching Glory",
       "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-09-25 10:11:55",
+      "album": {
+        "name": "Down Flat",
+        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "Down Flat",
+      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
     },
     {
       "added_at": "2026-09-25 10:11:55",
@@ -827,22 +843,6 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
-    },
-    {
-      "added_at": "2026-09-25 10:11:55",
-      "album": {
-        "name": "Down Flat",
-        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
-      },
-      "artists": [
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "duration_ms": 172747,
-      "name": "Down Flat",
-      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
     },
     {
       "added_at": "2026-09-25 10:11:55",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-09-25 10:11:55",
       "album": {
+        "name": "We Go",
+        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 173846,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
+    },
+    {
+      "added_at": "2026-09-25 10:11:55",
+      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
-    },
-    {
-      "added_at": "2026-09-25 10:11:55",
-      "album": {
-        "name": "We Go",
-        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 173846,
-      "name": "We Go",
-      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
     },
     {
       "added_at": "2026-09-25 10:11:55",

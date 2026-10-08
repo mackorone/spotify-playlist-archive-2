@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123611,
+  "num_followers": 123609,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-09-10 03:01:32",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
+    },
+    {
+      "added_at": "2026-09-10 03:01:32",
+      "album": {
         "name": "Kiss Me When I",
         "url": "https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 230160,
       "name": "Kiss Me When I",
       "url": "https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq"
-    },
-    {
-      "added_at": "2026-09-10 03:01:32",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 201450,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
     },
     {
       "added_at": "2026-09-10 03:01:32",

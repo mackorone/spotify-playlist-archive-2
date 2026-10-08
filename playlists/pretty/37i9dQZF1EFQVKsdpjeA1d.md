@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQVKsdpjeA1d.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 521 songs - 1 day 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 350 likes - 521 songs - 1 day 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -530,4 +530,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQVKsdpjeA1d.md) - [plain]
 | 520 | [Stella, Dear Sweet Stella](https://open.spotify.com/track/4WqZ65Uud0lrdbEW2c0BBt) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [I'll Keep On Lovin' You](https://open.spotify.com/album/15IIQzChRHbYX1yR0SZJiy) | 2:48 |
 | 521 | [In A Dream](https://open.spotify.com/track/2YP2cri1LN6kNksasLzKmm) | [Linda Guyman](https://open.spotify.com/artist/2fhDJGbe1SfYy5SN2HeGK5) | [Steve Allen Presents: Linda Guymon](https://open.spotify.com/album/0enC3mlsOQG37sKXq5FcyQ) | 2:35 |
 
-Snapshot ID: `AceQLgAAAAAZ9TgRtTL2a/qbZovYYcP6`
+Snapshot ID: `AceV9gAAAAB3tRisG3zSnf6GuVZP/C4P`

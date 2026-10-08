@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
-  "num_followers": 14729,
+  "num_followers": 14732,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "Days Begin To Sing",
         "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 284066,
       "name": "Days Begin To Sing",
       "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Invitation 2",
-        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
-      },
-      "artists": [
-        {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Monate Ofedile",
-      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "Idabi Labantu",
         "url": "https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 305071,
       "name": "Idabi Labantu",
       "url": "https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Invitation 2",
+        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
+      },
+      "artists": [
+        {
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Monate Ofedile",
+      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -1027,6 +1027,34 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Homecoming (Part 1) [Revisited]",
+        "url": "https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        },
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        },
+        {
+          "name": "Sisonke Xonti",
+          "url": "https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "duration_ms": 371396,
+      "name": "Homecoming (Part 1) - Revisited",
+      "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "Doodle Do - Diminished Light",
         "url": "https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie"
       },
@@ -1039,26 +1067,6 @@
       "duration_ms": 244800,
       "name": "Doodle Do - Diminished Light",
       "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
-      },
-      "artists": [
-        {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     }
   ],
   "unique_name": "Jazz NEXT",

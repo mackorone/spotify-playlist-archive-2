@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-884 songs - 3 day 5 hr 29 min
+885 songs - 3 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 | 2025-02-19 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Hollow](https://open.spotify.com/track/6qLHsnwSYXLmN9xipKIcdb) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hollow](https://open.spotify.com/album/25oaJrHjmiejM5ciSinPh4) | 1:36 | 2025-05-30 | 2025-06-06 |
+| [Hollow of Your Hands](https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Hollow of Your Hands](https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK) | 4:37 | 2026-10-02 |  |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-07-16 |
 | [Holy](https://open.spotify.com/track/6RgbAyvyhk8Zn9s3Q1rtLz) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:02 | 2025-05-23 | 2025-06-27 |
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
@@ -584,7 +585,7 @@
 | [Not Over II](https://open.spotify.com/track/0HkPEVlVOWZCMRUGwoHPQe) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Not Over II](https://open.spotify.com/album/4lO7pgCaq2zYNgXNwS4Scz) | 2:47 | 2025-02-14 | 2025-03-07 |
 | [Nothing But The Blood \- Live](https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Nothing But The Blood \(Live\)](https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n) | 7:25 | 2024-07-12 | 2024-08-01 |
 | [Nothing Without Him](https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0) | [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Nothing Without Him](https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR) | 2:56 | 2026-07-17 |  |
-| [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 | 2026-08-28 |  |
+| [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 | 2026-08-28 | 2026-10-08 |
 | [Nyame Banbofo \(God the Protector\)](https://open.spotify.com/track/36rSop2sGVqDg3ueSHb8pI) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyame Banbofo \(God the Protector\)](https://open.spotify.com/album/4bY3fGW7US97ciDNc2gvaA) | 8:10 | 2026-07-31 | 2026-09-07 |
 | [Nyame Ye](https://open.spotify.com/track/1Y60J6EsKRcJ19t46Hnomg) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Nyame Ye](https://open.spotify.com/album/5qL8H0YWP6wLU7NJIqEFci) | 3:45 | 2025-08-22 |  |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 | 2025-06-20 |

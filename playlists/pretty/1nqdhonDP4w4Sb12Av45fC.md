@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nqdhonDP4w4Sb12Av45fC.md) - [plain]
 
 > Long live the 90s! Re\-live the chart\-toppers, classic anthems and forgotten throwback favourites.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 35,084 likes - 80 songs - 5 hr 31 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 35,086 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/1nqdhonDP4w4Sb12Av45fC.md) - [plain]
 | 51 | [Thank U \- Remix](https://open.spotify.com/track/6UOxhB9KJiNCYvuO0GDWBC) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Class of 1998](https://open.spotify.com/album/4dKO2BaFXpoaGQrXaXZPwB) | 4:18 |
 | 52 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
 | 53 | [Ain't No Doubt](https://open.spotify.com/track/5qbrpQ5ac44s48PU1ouUVC) | [Jimmy Nail](https://open.spotify.com/artist/5JmiJ0uN4rutaRsDfBUPHl) | [The Nail File](https://open.spotify.com/album/1SJamO5H1EerRJXXvq18Yi) | 4:07 |
-| 54 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
+| 54 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
 | 55 | [Walking in Memphis](https://open.spotify.com/track/60Pwcnt2y9ML9VP4gwrcxm) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [It's a Man's World](https://open.spotify.com/album/2PnxssdlO80Mt9ipZnu7MF) | 3:55 |
 | 56 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 57 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |

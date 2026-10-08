@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81393,
+  "num_followers": 81395,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Taladrarr",
+        "url": "https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp"
+      },
+      "artists": [
+        {
+          "name": "Baby Flexxx",
+          "url": "https://open.spotify.com/artist/5Lpooe77iQDMZpSeJkMbIK"
+        },
+        {
+          "name": "Prxblxm",
+          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
+        },
+        {
+          "name": "Rplcmnts",
+          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Taladrarr",
+      "url": "https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 125026,
       "name": "TNT",
       "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Taladrarr",
-        "url": "https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp"
-      },
-      "artists": [
-        {
-          "name": "Baby Flexxx",
-          "url": "https://open.spotify.com/artist/5Lpooe77iQDMZpSeJkMbIK"
-        },
-        {
-          "name": "Prxblxm",
-          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
-        },
-        {
-          "name": "Rplcmnts",
-          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Taladrarr",
-      "url": "https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4"
     },
     {
       "added_at": "2025-09-18 23:00:14",

@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
-  "num_followers": 45673,
+  "num_followers": 45687,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Me Xodepses",
-        "url": "https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy"
+        "name": "Exairesi",
+        "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
       },
       "artists": [
         {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Me Xodepses",
-      "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
+      "duration_ms": 275612,
+      "name": "Exairesi",
+      "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -399,6 +395,26 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
+        "name": "Me Xodepses",
+        "url": "https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Me Xodepses",
+      "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
         "name": "Sousouro",
         "url": "https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
-        "name": "Exairesi",
-        "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 275612,
-      "name": "Exairesi",
-      "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
+        "name": "Ola Gia Ola",
+        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 281503,
+      "name": "Ola Gia Ola",
+      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
         "name": "Xorepse",
         "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 146526,
       "name": "Kale... Poios Einai Autos?",
       "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
-        "name": "Ola Gia Ola",
-        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 281503,
-      "name": "Ola Gia Ola",
-      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Kala Na Pernate",
-        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
-      },
-      "artists": [
-        {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Kala Na Pernate",
-      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
-    },
-    {
-      "added_at": "2026-10-01 21:06:01",
-      "album": {
         "name": "Ta Xano",
         "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 182574,
       "name": "Ta Xano",
       "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
+    },
+    {
+      "added_at": "2026-10-01 21:06:01",
+      "album": {
+        "name": "Kala Na Pernate",
+        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Kala Na Pernate",
+      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
     },
     {
       "added_at": "2026-10-01 21:06:01",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-10-01 21:06:01",
       "album": {
-        "name": "Xereis Pollous?",
-        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
+        "name": "De Ginetai",
+        "url": "https://open.spotify.com/album/1zovJXe2QfUD6DjE58zNDm"
       },
       "artists": [
         {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
         }
       ],
-      "duration_ms": 226987,
-      "name": "Xereis Pollous?",
-      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
+      "duration_ms": 202615,
+      "name": "De Ginetai",
+      "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
     }
   ],
   "unique_name": "Laika tou Simera",

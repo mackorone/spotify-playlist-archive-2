@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-240 songs - 11 hr 26 min
+241 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 | 2025-01-16 |
 | [Peace Offering](https://open.spotify.com/track/5EXyYADsvWnFPagkFfpxp2) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Peace Offering](https://open.spotify.com/album/6BDdVemhdR1rhd77GG2Vvm) | 2:31 | 2025-12-03 | 2026-10-06 |
 | [Pebble Waves](https://open.spotify.com/track/2c3QOaSrNwMmdnI4qb4HBl) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Pebble Waves](https://open.spotify.com/album/72Tsnf6lEUiAs5rtsD2GQz) | 3:08 | 2025-12-17 |  |
-| [Placid](https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Placid](https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc) | 3:07 | 2025-04-01 |  |
+| [Placid](https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Placid](https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc) | 3:07 | 2025-04-01 | 2026-10-08 |
 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 |  |
 | [precious](https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [precious](https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4) | 2:16 | 2024-09-04 |  |
 | [Pukaki Passion](https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Pukaki Passion](https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj) | 3:09 | 2023-10-26 |  |
@@ -184,6 +184,7 @@
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-10-23 | 2026-02-28 |
 | [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-10-23 | 2025-11-05 |
 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 | 2023-10-23 | 2025-06-01 |
+| [Ruhi](https://open.spotify.com/track/5BoMNoJ0pySqBqvxrbSRst) | [Veena](https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9) | [Ruhi](https://open.spotify.com/album/56PdPhvY3bUVHvXrx0uGsq) | 2:56 | 2026-10-05 |  |
 | [Sacred River](https://open.spotify.com/track/73HdFwja6Y7FSd3V9YLq6p) | [Anapanasati](https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M) | [Sacred River](https://open.spotify.com/album/2ZphFIGSmqtvEirnq059bb) | 3:05 | 2025-10-02 |  |
 | [saltlakes](https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [saltlakes](https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK) | 2:50 | 2026-02-27 |  |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-23 |  |

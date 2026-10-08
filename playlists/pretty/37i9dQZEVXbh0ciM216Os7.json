@@ -11,18 +11,18 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+        "name": "Classroom Metal, Vol. 1",
+        "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 276706,
-      "name": "The Allfather Awakes",
-      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+      "duration_ms": 56478,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/61UPgMzGQiSg8y97tZIKft"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -39,58 +39,6 @@
       "duration_ms": 230491,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Classroom Metal, Vol. 1",
-        "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 45714,
-      "name": "Study",
-      "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Holding Space",
-        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Adamson",
-          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 803994,
-      "name": "Breath Meditation",
-      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
-        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 205742,
-      "name": "Black Is The Color Of My True Love's Hair",
-      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -123,26 +71,38 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "The Center Eye",
-        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
+        "name": "Holding Space",
+        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
       },
       "artists": [
         {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
         },
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 175254,
-      "name": "The Center Eye",
-      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
+      "duration_ms": 803994,
+      "name": "Breath Meditation",
+      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -191,18 +151,42 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Mr Charm",
-        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
+        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 230359,
-      "name": "Bad Luck Hideaway",
-      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+      "duration_ms": 205742,
+      "name": "Black Is The Color Of My True Love's Hair",
+      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "The Center Eye",
+        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "The Center Eye",
+      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -228,13 +212,29 @@
           "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
         },
         {
-          "name": "Baalti",
-          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Baalti Remix",
-      "url": "https://open.spotify.com/track/2dwWAQPebIqAwPjjAO1gVi"
+      "duration_ms": 282985,
+      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Frost Children Remix",
+      "url": "https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -275,38 +275,18 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+        "name": "Pullin' Out",
+        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         }
       ],
-      "duration_ms": 237250,
-      "name": "So Good (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Hunger of the Beast",
-        "url": "https://open.spotify.com/album/2fUzMIDZnpHGFH8DlzvLSe"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 366683,
-      "name": "Hunger of the Beast",
-      "url": "https://open.spotify.com/track/1l4yG2jjnzg6XpwVKlp0R8"
+      "duration_ms": 115778,
+      "name": "DSL",
+      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -331,34 +311,38 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Pullin' Out",
-        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
+        "name": "Hunger of the Beast",
+        "url": "https://open.spotify.com/album/2fUzMIDZnpHGFH8DlzvLSe"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
         }
       ],
-      "duration_ms": 115778,
-      "name": "DSL",
-      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
+      "duration_ms": 366683,
+      "name": "Hunger of the Beast",
+      "url": "https://open.spotify.com/track/1l4yG2jjnzg6XpwVKlp0R8"
     },
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "What Do I Do If You Don't",
-        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 174470,
-      "name": "What Do I Do If You Don't",
-      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -379,22 +363,6 @@
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Tear It Down",
-        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 263727,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -423,6 +391,22 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
+        "name": "What Do I Do If You Don't",
+        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174470,
+      "name": "What Do I Do If You Don't",
+      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
         "name": "Merriweather 6/30/85 (Live)",
         "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 277933,
       "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
       "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 263727,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -455,6 +455,30 @@
       "duration_ms": 248000,
       "name": "Movements",
       "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Complicated (with Tropidelic & Wax)",
+        "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
+      },
+      "artists": [
+        {
+          "name": "Mouse Powell",
+          "url": "https://open.spotify.com/artist/75kFbUAkohoxDCLjF7IOFn"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Complicated (with Tropidelic & Wax)",
+      "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -495,30 +519,6 @@
       "duration_ms": 249784,
       "name": "Upperhand - from CONTROL Resonant",
       "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
-        "name": "Complicated (with Tropidelic & Wax)",
-        "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
-      },
-      "artists": [
-        {
-          "name": "Mouse Powell",
-          "url": "https://open.spotify.com/artist/75kFbUAkohoxDCLjF7IOFn"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Complicated (with Tropidelic & Wax)",
-      "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
     },
     {
       "added_at": "2026-10-02 04:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "2SIDED (Oscar Farrell Remix)",
-        "url": "https://open.spotify.com/album/79TOuv37PELoILt6hmgk7F"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Oscar Farrell",
-          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
-        }
-      ],
-      "duration_ms": 231884,
-      "name": "2SIDED - Oscar Farrell Remix",
-      "url": "https://open.spotify.com/track/6qo5VaM1M8Gg0FPVtClRi0"
-    },
-    {
-      "added_at": "2026-10-02 04:00:00",
-      "album": {
         "name": "ARD NOW (Deluxe)",
         "url": "https://open.spotify.com/album/2KWJHgAKKt8N3OWoZEbmUS"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 267293,
       "name": "TTW - Kaytranada Remix",
       "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "2SIDED (Oscar Farrell Remix)",
+        "url": "https://open.spotify.com/album/79TOuv37PELoILt6hmgk7F"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 231884,
+      "name": "2SIDED - Oscar Farrell Remix",
+      "url": "https://open.spotify.com/track/6qo5VaM1M8Gg0FPVtClRi0"
     },
     {
       "added_at": "2026-10-02 04:00:00",

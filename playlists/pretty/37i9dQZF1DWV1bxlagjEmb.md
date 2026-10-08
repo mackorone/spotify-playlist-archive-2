@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > folk songs for the weight of it all, featuring music from Anna Shoemaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,286 likes - 122 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,316 likes - 122 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 | 89 | [This Time Around](https://open.spotify.com/track/295AV2PI6PUduX585IekdQ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl) | 3:37 |
 | 90 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 |
 | 91 | [L.A\. Dream](https://open.spotify.com/track/72uctX0CoGN8m4MH430GSu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 3:29 |
-| 92 | [Julia \- Remastered 2009](https://open.spotify.com/track/5FnpXVgDOk2sLT58qM22Of) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:56 |
+| 92 | [Julia \- Remastered 2009](https://open.spotify.com/track/5FnpXVgDOk2sLT58qM22Of) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered 2009\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:56 |
 | 93 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:44 |
 | 94 | [The Day I Drove the Car Around the Block](https://open.spotify.com/track/6x6RvYqS14uGEmiOtenM5n) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [The Day I Drove the Car Around the Block](https://open.spotify.com/album/4bZo54HJmMS2s0UXj7frHs) | 4:14 |
 | 95 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068770,
+  "num_followers": 1068780,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "South Gotta Change",
         "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -535,22 +551,6 @@
       "duration_ms": 303765,
       "name": "Better Than Ever [Feat. Wendy Moten]",
       "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "What About The Children",
-      "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "13 Years",
         "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 279359,
+      "name": "What About The Children",
+      "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
-      },
-      "artists": [
-        {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
-        }
-      ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "What I Wouldn't Do",
         "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
       },
       "artists": [
         {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
-        },
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
         }
       ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -815,6 +795,26 @@
       "duration_ms": 153730,
       "name": "LONG WAY FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 301395,
-      "name": "Upside",
-      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Out of All the Stars",
         "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Turn Me In",
-        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
       "artists": [
         {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 207880,
-      "name": "Turn Me In",
-      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Turn Me In",
+        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Turn Me In",
+      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Let It Die Here",
         "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 223523,
       "name": "Let It Die Here",
       "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1119,34 +1119,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1163,6 +1147,22 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
-      },
-      "artists": [
-        {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
-        }
-      ],
-      "duration_ms": 192877,
-      "name": "A Heathen's Hymn",
-      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
         }
       ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+      "duration_ms": 192877,
+      "name": "A Heathen's Hymn",
+      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1435,6 +1419,22 @@
       "duration_ms": 216838,
       "name": "Oceans Of Emotions - The Circle Session, 2023",
       "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 247720,
       "name": "Tonight Belongs to You",
       "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-09-18 04:01:42",

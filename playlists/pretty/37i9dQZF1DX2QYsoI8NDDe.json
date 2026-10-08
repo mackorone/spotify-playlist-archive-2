@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Ms. Ambar",
-  "num_followers": 575160,
+  "num_followers": 575155,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Sombrero en Alto",
-        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
+        "name": "Y Punto.",
+        "url": "https://open.spotify.com/album/5XEh8XvpBMQpHxwzqExsHQ"
       },
       "artists": [
         {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 161204,
-      "name": "Sombrero en Alto",
-      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
+      "duration_ms": 151500,
+      "name": "Y Punto.",
+      "url": "https://open.spotify.com/track/3e5gBBiB1iwX7PiTePbR2f"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Y Punto.",
-        "url": "https://open.spotify.com/album/5XEh8XvpBMQpHxwzqExsHQ"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Y Punto.",
-      "url": "https://open.spotify.com/track/3e5gBBiB1iwX7PiTePbR2f"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Yo Era Atea",
         "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 149250,
       "name": "Yo Era Atea",
       "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Sombrero en Alto",
+        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
+      },
+      "artists": [
+        {
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+        }
+      ],
+      "duration_ms": 161204,
+      "name": "Sombrero en Alto",
+      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -575,18 +575,22 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+        "name": "Ya Te Amo",
+        "url": "https://open.spotify.com/album/11oV3e0iLoIvmNkV2fvBb1"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
         }
       ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+      "duration_ms": 151053,
+      "name": "Ya Te Amo",
+      "url": "https://open.spotify.com/track/0XP4S5rxT3r9NTFPsSbARo"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -603,6 +607,22 @@
       "duration_ms": 226553,
       "name": "No Vuelvas",
       "url": "https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -627,26 +647,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Ya Te Amo",
-        "url": "https://open.spotify.com/album/11oV3e0iLoIvmNkV2fvBb1"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "Ya Te Amo",
-      "url": "https://open.spotify.com/track/0XP4S5rxT3r9NTFPsSbARo"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Herencias De Mi Madre",
         "url": "https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91"
       },
@@ -659,38 +659,6 @@
       "duration_ms": 155000,
       "name": "Una Noche Me Embriague",
       "url": "https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
-        "name": "China De Los Ojos Negros",
-        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 154835,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -715,6 +683,38 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "China De Los Ojos Negros",
+        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 154835,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
         "name": "Sin Fortuna",
         "url": "https://open.spotify.com/album/6zRpq1pfg1Qrm4TfSzqQVH"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
+        "name": "Vibrando bajo",
+        "url": "https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62"
       },
       "artists": [
         {
-          "name": "Angela",
-          "url": "https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla"
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
+      "duration_ms": 173963,
+      "name": "Vibrando bajo",
+      "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Vibrando bajo",
-        "url": "https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
       },
       "artists": [
         {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+          "name": "Angela",
+          "url": "https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla"
         }
       ],
-      "duration_ms": 173963,
-      "name": "Vibrando bajo",
-      "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"
+      "duration_ms": 171000,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Brillas",
-        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 179302,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 141818,
       "name": "Ya Pa' Qu\u00e9",
       "url": "https://open.spotify.com/track/1qxporaSGKmsCdERqT50YD"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Brillas",
+        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Ecos del Mar",
-        "url": "https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo"
-      },
-      "artists": [
-        {
-          "name": "Paola Meza",
-          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/7Ijnd1FHjQcerU4kmYURjb"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Me Acost\u00e9 Con Otro",
         "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 200928,
       "name": "Me Acost\u00e9 Con Otro",
       "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Ecos del Mar",
+        "url": "https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/7Ijnd1FHjQcerU4kmYURjb"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Mirando desde afuera",
-        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Agley",
-          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "Mirando desde afuera",
-      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Eterna e Inolvidable",
         "url": "https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Regresa La Reina",
         "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Explota",
-        "url": "https://open.spotify.com/album/71XKxvJXVlBOAlSeEPY8ve"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
       },
       "artists": [
         {
-          "name": "Andrea Bayardo",
-          "url": "https://open.spotify.com/artist/7ltZTIPxGZ7TbQDPZvMMDo"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 194261,
-      "name": "Explota",
-      "url": "https://open.spotify.com/track/2KDERTO2wgJzNPMKEeVruP"
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1295,6 +1279,22 @@
       "duration_ms": 187924,
       "name": "No Me Vengas A Decir",
       "url": "https://open.spotify.com/track/1kSBEtTMavEQsJuN9zoLgx"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Explota",
+        "url": "https://open.spotify.com/album/71XKxvJXVlBOAlSeEPY8ve"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bayardo",
+          "url": "https://open.spotify.com/artist/7ltZTIPxGZ7TbQDPZvMMDo"
+        }
+      ],
+      "duration_ms": 194261,
+      "name": "Explota",
+      "url": "https://open.spotify.com/track/2KDERTO2wgJzNPMKEeVruP"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Besitos Al Contado",
-        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Besitos Al Contado",
-      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 224464,
       "name": "Una Palomita - En Vivo",
       "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Besitos Al Contado",
+        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Besitos Al Contado",
+      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Zapatos Que Aprietan",
-        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
-      },
-      "artists": [
-        {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Zapatos Que Aprietan",
-      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
+        "name": "Zapatos Que Aprietan",
+        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
+      },
+      "artists": [
+        {
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Zapatos Que Aprietan",
+      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
         "name": "Si A\u00fan Me Piensas",
         "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 178265,
       "name": "Tragos de amargo licor",
       "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "TQV <3",
+        "url": "https://open.spotify.com/album/1XipzKqExvG9Rohj2VHOPx"
+      },
+      "artists": [
+        {
+          "name": "xel",
+          "url": "https://open.spotify.com/artist/2WQxQy1J84edOBZrpXGyLD"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "TQV <3",
+      "url": "https://open.spotify.com/track/0IlA1apMq3R8lEPcFuU6HA"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1567,22 +1583,6 @@
       "duration_ms": 186203,
       "name": "Completamente Yo",
       "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
-        "name": "TQV <3",
-        "url": "https://open.spotify.com/album/1XipzKqExvG9Rohj2VHOPx"
-      },
-      "artists": [
-        {
-          "name": "xel",
-          "url": "https://open.spotify.com/artist/2WQxQy1J84edOBZrpXGyLD"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "TQV <3",
-      "url": "https://open.spotify.com/track/0IlA1apMq3R8lEPcFuU6HA"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Me Enloqueces",
-        "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
-        },
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        },
-        {
-          "name": "Oscar De La Rosa",
-          "url": "https://open.spotify.com/artist/2e5i16ptrbh2wxZCYU4Pfc"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Me Enloqueces",
-      "url": "https://open.spotify.com/track/4Y8rJousZ5XtxyzJsJrvV2"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Cap\u00edtulo 8 (La Historia Completa)",
         "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
       },
@@ -1727,6 +1703,30 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
+        "name": "Me Enloqueces",
+        "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        },
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Oscar De La Rosa",
+          "url": "https://open.spotify.com/artist/2e5i16ptrbh2wxZCYU4Pfc"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Me Enloqueces",
+      "url": "https://open.spotify.com/track/4Y8rJousZ5XtxyzJsJrvV2"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
         "name": "A Mi Modo, Pt. 2",
         "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
       },
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "Bandera Roja",
-        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 169808,
-      "name": "Bandera Roja",
-      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "De Beso En Cuando",
         "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 156013,
       "name": "De Beso En Cuando",
       "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "Bandera Roja",
+        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 169808,
+      "name": "Bandera Roja",
+      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
     },
     {
       "added_at": "2026-10-03 08:31:05",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-10-03 08:31:05",
       "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
-      },
-      "artists": [
-        {
-          "name": "Perla Valenzuela",
-          "url": "https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH"
-        }
-      ],
-      "duration_ms": 174227,
-      "name": "La Bruta - En Vivo",
-      "url": "https://open.spotify.com/track/163temcvEe9TOytyKIBM0r"
-    },
-    {
-      "added_at": "2026-10-03 08:31:05",
-      "album": {
         "name": "Amor Migajero",
         "url": "https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 176374,
       "name": "Amor Migajero",
       "url": "https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m"
+    },
+    {
+      "added_at": "2026-10-03 08:31:05",
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
+      },
+      "artists": [
+        {
+          "name": "Perla Valenzuela",
+          "url": "https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH"
+        }
+      ],
+      "duration_ms": 174227,
+      "name": "La Bruta - En Vivo",
+      "url": "https://open.spotify.com/track/163temcvEe9TOytyKIBM0r"
     },
     {
       "added_at": "2026-10-03 08:31:05",

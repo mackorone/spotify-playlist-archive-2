@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 262467,
+  "num_followers": 262477,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Pelea De Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Pelea De Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Pal Rancho 100% Chicoteadas",
-        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
-      },
-      "artists": [
-        {
-          "name": "Tamborazo Caliente",
-          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Rumbo A La Canada",
-      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Kraken",
         "url": "https://open.spotify.com/album/31VRqX2KYghVfj4hxp8K5i"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253325,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/09L9pzE5wVrNEbbtQ9Tv0N"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Pal Rancho 100% Chicoteadas",
+        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
+      },
+      "artists": [
+        {
+          "name": "Tamborazo Caliente",
+          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
+        }
+      ],
+      "duration_ms": 211121,
+      "name": "Rumbo A La Canada",
+      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 165146,
       "name": "El Son de los Ocampo",
       "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1383,18 +1383,34 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda La Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz"
         }
       ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+      "duration_ms": 177930,
+      "name": "El Novillo Despuntado",
+      "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "La Amachona - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "El Novillo Despuntado",
-      "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "\u00a1\u00a1La Explosiva!!",
         "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
       "artists": [
         {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
         }
       ],
-      "duration_ms": 180197,
-      "name": "La Amachona - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 119560,
-      "name": "El Gusto",
-      "url": "https://open.spotify.com/track/0g4J2Kw7nnXJqzGhac1tPG"
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
       "artists": [
         {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
         }
       ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+      "duration_ms": 119560,
+      "name": "El Gusto",
+      "url": "https://open.spotify.com/track/0g4J2Kw7nnXJqzGhac1tPG"
     },
     {
       "added_at": "2026-09-25 06:00:25",

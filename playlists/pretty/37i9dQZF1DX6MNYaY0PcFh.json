@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Diffrent",
-  "num_followers": 107972,
+  "num_followers": 107990,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-10-02 09:51:24",
       "album": {
+        "name": "GET ON IT",
+        "url": "https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "GET ON IT",
+      "url": "https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx"
+    },
+    {
+      "added_at": "2026-10-02 09:51:24",
+      "album": {
         "name": "Just The Way You Are (Remixes Part Two)",
         "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 176749,
       "name": "Just The Way You Are - Paige Tomlinson Remix",
       "url": "https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5"
-    },
-    {
-      "added_at": "2026-10-02 09:51:24",
-      "album": {
-        "name": "GET ON IT",
-        "url": "https://open.spotify.com/album/4i5aocSQ5i8ME7kFmAYBe0"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "GET ON IT",
-      "url": "https://open.spotify.com/track/5OQaJTP80UW6G6IpNKueVx"
     },
     {
       "added_at": "2026-10-02 09:51:24",
@@ -967,42 +967,6 @@
     {
       "added_at": "2026-10-02 09:51:24",
       "album": {
-        "name": "Pingers",
-        "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "CASISDEAD",
-          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Pingers",
-      "url": "https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k"
-    },
-    {
-      "added_at": "2026-10-02 09:51:24",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP"
-    },
-    {
-      "added_at": "2026-10-02 09:51:24",
-      "album": {
         "name": "Twizted",
         "url": "https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz"
       },
@@ -1051,22 +1015,38 @@
     {
       "added_at": "2026-10-02 09:51:24",
       "album": {
-        "name": "Closer (Edit)",
-        "url": "https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE"
+        "name": "Pingers",
+        "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
       },
       "artists": [
         {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
         },
         {
-          "name": "ADMNTi",
-          "url": "https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY"
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
         }
       ],
-      "duration_ms": 227827,
-      "name": "Closer - Edit",
-      "url": "https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF"
+      "duration_ms": 193384,
+      "name": "Pingers",
+      "url": "https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k"
+    },
+    {
+      "added_at": "2026-10-02 09:51:24",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP"
     },
     {
       "added_at": "2026-10-02 09:51:24",
@@ -1087,6 +1067,26 @@
       "duration_ms": 198776,
       "name": "Ur Way",
       "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
+    },
+    {
+      "added_at": "2026-10-02 09:51:24",
+      "album": {
+        "name": "Closer (Edit)",
+        "url": "https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "ADMNTi",
+          "url": "https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY"
+        }
+      ],
+      "duration_ms": 227827,
+      "name": "Closer - Edit",
+      "url": "https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF"
     },
     {
       "added_at": "2026-10-02 09:51:24",

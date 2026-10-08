@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Pitty
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,784 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,787 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 4 | [Toque de Recolher na Ilha](https://open.spotify.com/track/07Ahrh695HjqMrpd9E5GWP) | [Dirty Grills](https://open.spotify.com/artist/30egtIk74MaL9AQuJCDaqd) | [Depressão Pós\-Party](https://open.spotify.com/album/4C83jurve5l7xzHwxNIqir) | 2:24 |
 | 5 | [Onde Judas Perdeu As Botas](https://open.spotify.com/track/2FamRGzPgvu97Mg6rXNJW0) | [Drake Nova](https://open.spotify.com/artist/1e9MrfPBDLgHdpJ9CKhwmu), [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [Onde Judas Perdeu As Botas](https://open.spotify.com/album/3VUHmfGvG085ePz4HyOX7g) | 4:17 |
 | 6 | [animal](https://open.spotify.com/track/7zwdYqsgSUSUDcjJ6hWakh) | [Lucia Vulcano](https://open.spotify.com/artist/7s3MHj8zuZNn4hM0WTkW62) | [animal](https://open.spotify.com/album/22ZvKErSTpVEz0G61p3Vai) | 3:53 |
-| 7 | [Peculiar](https://open.spotify.com/track/4LvVY8MsroaMtcCpUSwEz1) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [Peculiar](https://open.spotify.com/album/4DMpwv6p5OZEDFCAmL7lFL) | 4:15 |
+| 7 | [peculiar](https://open.spotify.com/track/4LvVY8MsroaMtcCpUSwEz1) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [peculiar](https://open.spotify.com/album/4DMpwv6p5OZEDFCAmL7lFL) | 4:15 |
 | 8 | [MISSÃO](https://open.spotify.com/track/7LNU3RnIjVkhRVFzuFx0U7) | [Facção Caipira](https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg) | [MISSÃO](https://open.spotify.com/album/0jXBHPwZSZfbFAlfWHI93S) | 3:49 |
 | 9 | [sem tempo \- ao vivo](https://open.spotify.com/track/1RFOYzBmJQtGfaCtAeEpYE) | [swave](https://open.spotify.com/artist/4TuJGaKxI6nYcvWd9hwHsp) | [live session ao vivo de verdade \(mesmo!\)](https://open.spotify.com/album/1dQfbswrZweEHYhlGKMboB) | 3:01 |
 | 10 | [Substância](https://open.spotify.com/track/1fPuVR8FmKqlh7MyiPrVQN) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Substância](https://open.spotify.com/album/1mk8WieUTADJ5hI0tD8miO) | 3:34 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 16 | [Ao meu Amor](https://open.spotify.com/track/0p8DqXNXLlZnqDcKX6yIvB) | [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7), [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Ao meu Amor](https://open.spotify.com/album/1nEnx7CMdS8qrTuC4ibzj4) | 3:43 |
 | 17 | [Amor de Aplicativo \- Ao Vivo na Serra Gaúcha](https://open.spotify.com/track/7FY9bRfnggfO6zmNrhLwt6) | [Vera Loca](https://open.spotify.com/artist/463Hk05MjkBYUyuB00luqt), [Carlinhos Carneiro](https://open.spotify.com/artist/1GdLxGsCiuIbhLh7JwIq7l) | [Amor de Aplicativo \- Ao Vivo na Serra Gaúcha](https://open.spotify.com/album/4MxUt1eAB8nRmglSyi0RIN) | 3:44 |
 | 18 | [Memória](https://open.spotify.com/track/3eggGWEtzpUPKY8sMbbadF) | [Drive](https://open.spotify.com/artist/2nYaKzPM2cPAb3W8CmtwHY) | [ITACA pt1](https://open.spotify.com/album/0ODUcqbraIqvu2iP57qt9P) | 6:14 |
-| 19 | [Um Brinde a Mim](https://open.spotify.com/track/65v2orbTjBvgHvMLLgX0Ef) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [Um Brinde a Mim](https://open.spotify.com/album/5nuzdVXCxgVeFVIK3s2ZPC) | 4:07 |
+| 19 | [um brinde a mim](https://open.spotify.com/track/65v2orbTjBvgHvMLLgX0Ef) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [um brinde a mim](https://open.spotify.com/album/5nuzdVXCxgVeFVIK3s2ZPC) | 4:07 |
 | 20 | [Em Todos Esses Anos Nessa Indústria Vital, Essa É A Primeira Vez Que Isso Me Acontece](https://open.spotify.com/track/4BQzv4LO5JogLlofg92M0y) | [catïça](https://open.spotify.com/artist/1iW65Tu0rLz2xQ90W09I07) | [Em Todos Esses Anos Nessa Indústria Vital, Essa É A Primeira Vez Que Isso Me Acontece](https://open.spotify.com/album/4fGqKeGZU4ih8ni5w8noTn) | 1:45 |
 | 21 | [O Brasil Que Eu Quero](https://open.spotify.com/track/2xtoDLMZ3U8LRCsMkdHwQp) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Rumo a Tokyo](https://open.spotify.com/album/6pY0LGRgjoeKZpnEQ5BPPY) | 3:48 |
 | 22 | [Não Foi Difícil](https://open.spotify.com/track/3n8i4Nz4ItRrWvnfWn0zW5) | [Drake Nova](https://open.spotify.com/artist/1e9MrfPBDLgHdpJ9CKhwmu), [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [Não Foi Difícil](https://open.spotify.com/album/7doms2pf6GlfPb1O8oF09R) | 4:10 |

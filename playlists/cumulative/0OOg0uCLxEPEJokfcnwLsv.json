@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229678,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz"
+    },
+    {
+      "album": {
         "name": "Buio Deluxe",
         "url": "https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx"
       },
@@ -5978,6 +6000,24 @@
       "duration_ms": 251374,
       "name": "LOS BIOLOGOS",
       "url": "https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU"
+    },
+    {
+      "album": {
+        "name": "Los Cuadros / La Mujer de Blanco: Parte I",
+        "url": "https://open.spotify.com/album/210YJMofBY2znygVZXbV3g"
+      },
+      "artists": [
+        {
+          "name": "Zarza",
+          "url": "https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281660,
+      "name": "Los Cuadros",
+      "url": "https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1"
     },
     {
       "album": {

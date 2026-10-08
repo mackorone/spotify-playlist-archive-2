@@ -1,6 +1,6 @@
 {
   "description": "A dreamy, beautiful musical companion to your time for rest and relaxation.",
-  "num_followers": 97944,
+  "num_followers": 97953,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 221103,
       "name": "Old Recliners",
       "url": "https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2026-07-26 19:49:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 264124,
       "name": "Day To Night",
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "added_at": "2026-07-26 19:49:10",

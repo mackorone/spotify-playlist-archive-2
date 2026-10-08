@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,943 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,947 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,12 +136,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 126 | [Me Enamore De Ti](https://open.spotify.com/track/2ny5mfflZhPtorz8lO8RMs) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:07 |
 | 127 | [Hecha Para Mi](https://open.spotify.com/track/1DbtNvGpWDRf2tD68leVQy) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:25 |
 | 128 | [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 |
-| 129 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
+| 129 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 |
 | 130 | [La Quiero A Morir.](https://open.spotify.com/track/49PNURIk7SExp5h7YN3t94) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [La Quiero A Morir](https://open.spotify.com/album/5N1sSgWCGXuvxr29dSOyba) | 5:05 |
 | 131 | [Jenny](https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 4:01 |
 | 132 | [Nadie Como Tú](https://open.spotify.com/track/4xWscZB7u3fzs49cxbw1QP) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Generaciones](https://open.spotify.com/album/4c2uimu7V6ICz4mRNW2ud0) | 4:29 |
 | 133 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 |
-| 134 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 |
+| 134 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
 | 135 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 |
 | 136 | [La Primera Piedra](https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 5:39 |
 | 137 | [No Me Importa, No](https://open.spotify.com/track/3sW9KHmpSIh19ESJO2Qbol) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/4qxrLBXemtIN9pUphKSCfb) | 3:55 |

@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 247266,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/4YVIDt9lhVeZJ9e4E45VCS"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 155038,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/2rQZoKACyXJ9ZC5yxGemkw"
@@ -2268,6 +2268,24 @@
       "duration_ms": 174160,
       "name": "Move Move Move",
       "url": "https://open.spotify.com/track/4R0I4XYV2S0H3x0xTSzTkM"
+    },
+    {
+      "album": {
+        "name": "Sounds of the 60's & 70's - 2",
+        "url": "https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "Move with the Times",
+      "url": "https://open.spotify.com/track/1hrjFllL4H15uq6sUvLZyp"
     },
     {
       "album": {
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 137853,
       "name": "Where the Action Is",
       "url": "https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI"

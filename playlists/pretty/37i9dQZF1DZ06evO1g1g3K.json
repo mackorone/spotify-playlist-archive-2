@@ -1,6 +1,6 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7925,
+  "num_followers": 7929,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP 8",
-        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 207318,
       "name": "Weird (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP 8",
+        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humo en la Trampa 3",
-        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "Get Paid (feat. Durand Bernarr)",
-      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 91994,
       "name": "PIT STOP",
       "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humo en la Trampa 3",
+        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 161929,
+      "name": "Get Paid (feat. Durand Bernarr)",
+      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
     },
     {
       "added_at": null,

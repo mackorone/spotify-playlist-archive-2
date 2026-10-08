@@ -2171,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N"
+    },
+    {
+      "album": {
         "name": "back2u",
         "url": "https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug"
       },
@@ -7812,6 +7834,24 @@
       "duration_ms": 264500,
       "name": "Faded",
       "url": "https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD"
     },
     {
       "album": {

@@ -495,6 +495,30 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "CABELO CARACOL (macarr\u00e3o, camar\u00e3o, caramelo) [ac\u00fastico]",
+        "url": "https://open.spotify.com/album/7vvAhh1tVHe2jMGOZBJIfu"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Davi Horta",
+          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "CABELO CARACOL (macarr\u00e3o, camar\u00e3o, caramelo) - ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dU5mGAGhrg51LG0grx33H"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
       },
@@ -527,22 +551,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Meant to Be (Acoustic)",
         "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
       },
@@ -559,26 +567,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "CABELO CARACOL (macarr\u00e3o, camar\u00e3o, caramelo) [ac\u00fastico]",
-        "url": "https://open.spotify.com/album/7vvAhh1tVHe2jMGOZBJIfu"
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
       },
       "artists": [
         {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
-        {
-          "name": "Davi Horta",
-          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 166000,
-      "name": "CABELO CARACOL (macarr\u00e3o, camar\u00e3o, caramelo) - ac\u00fastico",
-      "url": "https://open.spotify.com/track/0dU5mGAGhrg51LG0grx33H"
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Let Yourself In",
-        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nothing But a Song - Bonus Acoustic Version",
-      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Exist For Love",
         "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 252716,
       "name": "Exist For Love",
       "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Let Yourself In",
+        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nothing But a Song - Bonus Acoustic Version",
+      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1148,22 +1148,6 @@
       "added_at": "2026-08-21 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -1175,6 +1159,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
-        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 207833,
-      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 202482,
       "name": "Stan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 207833,
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "Acusticamente - Volume 2",
+        "url": "https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 153107,
+      "name": "Tente Outra Vez (Acusticamente)",
+      "url": "https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "do raso ao fundo",
         "url": "https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 245681,
       "name": "do raso ao fundo",
       "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Acusticamente - Volume 2",
-        "url": "https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 153107,
-      "name": "Tente Outra Vez (Acusticamente)",
-      "url": "https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti"
     },
     {
       "added_at": "2026-08-21 03:00:30",

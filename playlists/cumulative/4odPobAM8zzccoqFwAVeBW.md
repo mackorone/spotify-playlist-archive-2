@@ -4,7 +4,7 @@
 
 > Check out our latest Cargo digital distributed tracks! Updated weekly
 
-1,105 songs - 3 day 9 hr 54 min
+1,111 songs - 3 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Believers \- Imperial Gardens, Camberwell](https://open.spotify.com/track/2znMwcb3FOloc8xGcVKqCO) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw) | [Implosion](https://open.spotify.com/album/6ZL4pQGMzUQz40KxrUWv8m) | 4:29 | 2025-11-24 | 2026-01-15 |
 | [Best of Luck](https://open.spotify.com/track/32IPRl54xl8nv3SNEMAtr8) | [Sniffany & The Nits](https://open.spotify.com/artist/7ERaPawHEVtydVDH6DuolH) | [Best of Luck](https://open.spotify.com/album/4K0CdSqp5A0GyMa8k1GKhA) | 2:42 | 2026-06-25 | 2026-08-22 |
 | [Best of Luck](https://open.spotify.com/track/7vWNnUtYHpEHHLuffhctgY) | [Sniffany & The Nits](https://open.spotify.com/artist/7ERaPawHEVtydVDH6DuolH) | [Best of Luck](https://open.spotify.com/album/1Hfro4hw5eaTOWgWSpvYo2) | 2:42 | 2026-06-19 | 2026-08-01 |
-| [Better on My Own](https://open.spotify.com/track/2abiujQAovAb3YhZfCwQB1) | [The Ovines](https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n) | [Better on My Own](https://open.spotify.com/album/1ZW9JzVpzM0BHYF48GN4Cm) | 2:51 | 2026-10-02 |  |
+| [Better on My Own](https://open.spotify.com/track/2abiujQAovAb3YhZfCwQB1) | [The Ovines](https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n) | [Better on My Own](https://open.spotify.com/album/1ZW9JzVpzM0BHYF48GN4Cm) | 2:51 | 2026-10-02 | 2026-10-08 |
+| [Better On My Own](https://open.spotify.com/track/7m7kcyVUAt2yH1SiJz2iEJ) | [The Ovines](https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n) | [Better On My Own](https://open.spotify.com/album/6hJL4m1rsgRzdYUSP63fMX) | 2:51 | 2026-10-07 |  |
 | [Better Without You](https://open.spotify.com/track/2kHPr5AxqaUGFDbrDajV49) | [RaRa](https://open.spotify.com/artist/73zt7CRDCGwGkvVpqAZbgn) | [Better Without You](https://open.spotify.com/album/27vbdFgbuJOXhbFTVGXeU3) | 2:48 | 2025-10-16 | 2025-11-08 |
 | [Between the](https://open.spotify.com/track/34lUaOmTfTXvoIynEEI8zT) | [Neon Fog](https://open.spotify.com/artist/36pxVjNShmoD2SOQRgo2rQ) | [Between the](https://open.spotify.com/album/3o9a0BbWvsmaec76ZZIERp) | 2:55 | 2025-10-27 | 2025-11-15 |
 | [Between The Waves](https://open.spotify.com/track/7dqRLaN6rF0OkVLeOrT6yj) | [Home Front](https://open.spotify.com/artist/0CyB1ZUexbBDoyHb15UJrU) | [Watch It Die](https://open.spotify.com/album/1csxnk0oIJmaxAfQzIs23h) | 4:16 | 2025-11-14 | 2025-12-06 |
@@ -564,6 +565,7 @@
 | [Lof](https://open.spotify.com/track/31ezcBEPI3lZRFTXkKfL2a) | [Smote](https://open.spotify.com/artist/343ATWFlCVF1Z3PyDwFEXp) | [Clyppan](https://open.spotify.com/album/4r3TheOP5e4w9cIjVigO6L) | 9:33 | 2025-06-27 | 2025-08-02 |
 | [Logos](https://open.spotify.com/track/2vieKqfzyf6yxhwNF3Rc3f) | [33EMYBW](https://open.spotify.com/artist/0faVPXr9Sui0OWJl2hRDQT) | [Logos](https://open.spotify.com/album/4mTQAvitjJ69rIAUNiYtMQ) | 3:32 | 2026-08-21 | 2026-10-03 |
 | [Loki](https://open.spotify.com/track/1shOoY1Idzgg7eBNAbHES0) | [Lean Low](https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz) | [Loki](https://open.spotify.com/album/67Ba5qmwXSQAcasXPctycF) | 2:46 | 2025-11-14 | 2025-12-05 |
+| [Loma Linda](https://open.spotify.com/track/7d6L6EpAyGAIdMzz29LXR7) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Loma Linda](https://open.spotify.com/album/3lc5fqdCU69Qdd38ekOl0Z) | 2:34 | 2026-10-07 |  |
 | [London Fields](https://open.spotify.com/track/5122sQjAJwRaxnu0EEbbyp) | [Luxury Apartments](https://open.spotify.com/artist/1gviuaKGrudlFwnpsvXqPd) | [London Fields](https://open.spotify.com/album/35OAg2JJrOoprIuXEp9gqo) | 1:17 | 2026-01-15 | 2026-02-21 |
 | [Loneliness](https://open.spotify.com/track/0ggqUjstGttoImSHZJKB9U) | [thruoutin](https://open.spotify.com/artist/3e2Ku5uQg7sitnk1fVqdy9) | [A Desolate Hue](https://open.spotify.com/album/7C2pSZZZfOgpcFcJ9dUUsW) | 6:01 | 2025-06-20 | 2025-08-02 |
 | [Looking 4 Love](https://open.spotify.com/track/1JN74ZhOb4Qvl0sWwJOwid) | [Arborist](https://open.spotify.com/artist/73NsXu8p63LKM2s24QwxAr) | [Looking 4 Love](https://open.spotify.com/album/5AzudZ6tHdMdQZCeU45HFA) | 4:14 | 2026-04-24 | 2026-05-16 |
@@ -677,6 +679,7 @@
 | [Old Gold](https://open.spotify.com/track/1euHTcLzGTIOJa3iraTqyn) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Old Gold](https://open.spotify.com/album/17dl2ybBZrmOxDVrcsh9na) | 7:40 | 2026-09-11 |  |
 | [Old Hippies Lament](https://open.spotify.com/track/7d2sMCVFfV2w5GP4mTuHHB) | [Tucker Zimmerman](https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09) | [Old Hippies Lament](https://open.spotify.com/album/1VlMHdOkXqFPLiDVJnIa8Y) | 6:18 | 2025-06-06 | 2025-07-26 |
 | [Omoi](https://open.spotify.com/track/5xQurUlKu6jgvLvoRlytC0) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [HIKARIGASASHIKOMU](https://open.spotify.com/album/7vUMpc2uzUdE4aUluaRpIZ) | 2:39 | 2026-07-24 | 2026-09-19 |
+| [On Our Own](https://open.spotify.com/track/2EShJqfxBghz8v9buF9OM6) | [Swansea Sound](https://open.spotify.com/artist/4a46xFkb4UbninRPwylTa9) | [On Our Own](https://open.spotify.com/album/202XleH5Aq0KjhUA4xzeJC) | 3:20 | 2026-10-07 |  |
 | [On Reality](https://open.spotify.com/track/48VK8KY4YsAU01Vl1hzkl3) | [Tabitha Zu](https://open.spotify.com/artist/7u09U2awLnhEPQjfvfgpDQ) | [On Reality](https://open.spotify.com/album/5sebFzYI9ALF2ZQTbEiRQO) | 3:46 | 2026-04-17 | 2026-05-09 |
 | [On The Beach](https://open.spotify.com/track/5vJXKG8vnE2fvsNUvuBoml) | [Andy Crofts](https://open.spotify.com/artist/0brr7xS2pcQZ5HFacNWw1N) | [On The Beach](https://open.spotify.com/album/10beJ9lp0F7XbhhHED058M) | 5:20 | 2026-07-10 | 2026-08-22 |
 | [On The Green](https://open.spotify.com/track/4fuN93Hotnom64LeIq4CVr) | [Kid Spatula](https://open.spotify.com/artist/0tlUO1Knc9iVtp8jGpREnV) | [Joozy](https://open.spotify.com/album/1k4gItbtcLnk1aqFlj4Km6) | 5:46 | 2025-07-25 | 2025-09-20 |
@@ -880,6 +883,7 @@
 | [Strawberry Wine](https://open.spotify.com/track/3zD9kzeo29XPWpBKeExevS) | [Norma Dream](https://open.spotify.com/artist/7N2ytlrp3OKfwLxRSqu38R) | [Strawberry Wine](https://open.spotify.com/album/1lCS2m3j5U3NumPKaeuLZI) | 4:10 | 2025-10-01 | 2025-11-01 |
 | [Strike It](https://open.spotify.com/track/6VzDqNWA7ik0iMTqYK04As) | [Rún](https://open.spotify.com/artist/4baoJpmag8XuVTvvP8FSuy) | [Strike It](https://open.spotify.com/album/1HvoM7MYrDUX7DNdukf92u) | 4:30 | 2025-07-16 | 2025-09-20 |
 | [Striking Home](https://open.spotify.com/track/3poXuFHyQ5gaa4G3hqL02u) | [Straw Man Army](https://open.spotify.com/artist/6rFhssJkbBIptBACb7mfSB) | [Striking Home](https://open.spotify.com/album/7eItHcHxUYPabldVXbwHBH) | 2:35 | 2026-09-18 |  |
+| [Stuck In A Room](https://open.spotify.com/track/4NA9gPoMGS45gXvOeYdnGR) | [British Birds](https://open.spotify.com/artist/3qeG4iaWZCauchpE2pgHfx) | [Stuck In A Room](https://open.spotify.com/album/58vlwi4l0BJOtsxdRLUdHi) | 4:28 | 2026-10-07 |  |
 | [Stutter](https://open.spotify.com/track/5lHCyqw61iPYQRmYwmwv7N) | [Rev](https://open.spotify.com/artist/0gWXIcwkFaViPGU69zpKhd) | [Stutter](https://open.spotify.com/album/3QBhZENGzPLLo6XzJ1IKo6) | 3:56 | 2025-10-16 | 2025-11-08 |
 | [Submarine](https://open.spotify.com/track/2XIcXg31tGw8JcJ8G2H43S) | [Night Swimming](https://open.spotify.com/artist/3e2PXYMu8ijWVUZOhgU018) | [Submarine](https://open.spotify.com/album/4PKEF59fC3dLaVnLN2PQs9) | 3:46 | 2025-11-07 | 2025-12-05 |
 | [SUCK BLOW](https://open.spotify.com/track/11zhrUZpkFiT3kzriC90tr) | [Angusraze](https://open.spotify.com/artist/3UxIc8UYFMyBBobLz7P2Ge) | [PROTO GUILLOTINE HYPER IMPACT](https://open.spotify.com/album/1PUA1iw89Cu0GDyB3sTXMv) | 2:01 | 2025-11-28 | 2026-02-07 |
@@ -926,6 +930,7 @@
 | [The Beasts of Burden](https://open.spotify.com/track/3efQWwTE9W8vHn9Xpe2RjE) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [A Compendium of Beasts Volume 3](https://open.spotify.com/album/1rt2z97SQxnScB2r8ZHu0o) | 3:27 | 2025-06-27 | 2025-08-02 |
 | [The Breath Of Now](https://open.spotify.com/track/6thcn5Bl1Y0LZi6W0CXo5o) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL), [Ian Rankin](https://open.spotify.com/artist/51qzxt81uXdi7K34VI1o6O) | [The Breath Of Now](https://open.spotify.com/album/6sgb3X6S2hmsmadB98EJKM) | 5:16 | 2026-05-22 | 2026-07-17 |
 | [The Cacophonous Chorus of Dawn](https://open.spotify.com/track/1z5u1X3b2wdpnPzEgml4G8) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Sound Hoard 2 Jurassic Voices](https://open.spotify.com/album/7scKLfigPHmG5WwEwTrdtP) | 2:54 | 2026-07-31 | 2026-09-19 |
+| [The Chancer](https://open.spotify.com/track/74M9VwZ7aNDTQiJoEkrYYo) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [The Chancer](https://open.spotify.com/album/0YJEyzPHAU994WtRaX8TuO) | 4:28 | 2026-10-07 |  |
 | [The Cottar](https://open.spotify.com/track/6ss7b6HdR5KZODYJAHs4CT) | [Smote](https://open.spotify.com/artist/343ATWFlCVF1Z3PyDwFEXp) | [Songs from the Free House](https://open.spotify.com/album/6LIlTt6gOL8fA51RCTPD37) | 8:55 | 2025-10-17 | 2025-11-08 |
 | [The Crack](https://open.spotify.com/track/0BupteaTKHJ6ndoaqTmvPV) | [En Heat](https://open.spotify.com/artist/0UWV7OGIWruKceWZL7Yoeh) | [The Crack](https://open.spotify.com/album/7gGhyxCHN7N7s4AXvv3Z59) | 3:46 | 2026-01-29 | 2026-03-21 |
 | [The Croupier](https://open.spotify.com/track/5Azy0U2jgU8KOqrzLQIV78) | [Mossy Place](https://open.spotify.com/artist/0DAGd6ax1xI1DJi5Ea74LR) | [Empty Wall Meadow Green](https://open.spotify.com/album/2Yfu7EVfuKYyQDh3nKIvmA) | 2:31 | 2026-04-17 | 2026-05-09 |
@@ -1088,6 +1093,7 @@
 | [Whistling On A Tuesday](https://open.spotify.com/track/5pgWetZmNHFtyi40i9rRQn) | [dgoHn](https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt) | [Whistling On A Tuesday](https://open.spotify.com/album/5gANS0LvecpLMaQN0XQJhi) | 5:30 | 2026-05-22 | 2026-07-17 |
 | [White Clouds for Thousands of Miles](https://open.spotify.com/track/12DeBjN514EKPWbb5p26EN) | [Drew Gardner](https://open.spotify.com/artist/3JJqmB6SOGhTFEJPYSELgL) | [White Clouds for Thousands of Miles](https://open.spotify.com/album/6PIWtbdc3WPqrSox5Jx6aI) | 15:25 | 2026-08-28 | 2026-10-03 |
 | [Who Am I?](https://open.spotify.com/track/45KXJ5u3AA4IKBXIHk4Iot) | [Imploders](https://open.spotify.com/artist/1Ws6PtEsPAGKIgD13QEvQ5) | [Targeted For Termination](https://open.spotify.com/album/22IDuQVyyjAjIG6MMTRi7I) | 1:10 | 2025-10-03 | 2025-11-01 |
+| [Who's In The Eggshell](https://open.spotify.com/track/1xy9dR0kErQDmLxvG5IBX4) | [Mother Church](https://open.spotify.com/artist/0ZZQNWjQEkwjYJALd5veZ7) | [Who's In The Eggshell](https://open.spotify.com/album/3fPXSEC1hmZITHCklAI2kA) | 2:28 | 2026-10-07 |  |
 | [Wicked Vibez \- Dusk + Blackdown LDN VIP](https://open.spotify.com/track/2pCwK5lzKbl9u96IDgbYII) | [Blackdown](https://open.spotify.com/artist/3ujX3LSXytB7rIVycrRCZJ), [Dusk + Blackdown](https://open.spotify.com/artist/3iTDKZuNWU9nfeBQVHQSq9) | [Wicked Vibez \(Dusk + Blackdown VIPs\)](https://open.spotify.com/album/6ThVbqsCEyHCCL4E7jcXcq) | 5:47 | 2025-09-12 | 2025-10-04 |
 | [Winter Solstice](https://open.spotify.com/track/1hCjlLe22hXXDKGgbdZ8Sf) | [Sarah Nixey](https://open.spotify.com/artist/7nzpICHWCUXx7i9TTWwPSZ) | [Winter Solstice](https://open.spotify.com/album/5VS7xOV0TtG5SIKIfBllKu) | 3:59 | 2025-12-04 | 2026-02-07 |
 | [Witness Tree](https://open.spotify.com/track/5TAiXEIE8zlTanGi36edkq) | [Sarah Nixey](https://open.spotify.com/artist/7nzpICHWCUXx7i9TTWwPSZ) | [Witness Tree](https://open.spotify.com/album/2NwJ6f3hg2xUuzHlSkLPwF) | 2:57 | 2025-11-07 | 2025-12-05 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAASd9tzncFqyiP+MtqL2jYc",
+  "snapshot_id": "asLogAAAAABbEZAs6toMvlUQvww72TKt",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,38 @@
       "duration_ms": 138165,
       "name": "margiela",
       "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen Bean",
+        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Teen Bean",
+      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
     }
   ],
   "unique_name": "This Is Ken Carson",

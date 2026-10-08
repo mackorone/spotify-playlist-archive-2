@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 243603,
+  "num_followers": 243792,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asGXAAAAAAC9M70juROSFta9tl/Y1GFi",
+  "snapshot_id": "asLogAAAAABfe0cTvB+9AkCqsjc9NuWg",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
       "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 189107,
-      "name": "No s\u00e9",
-      "url": "https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4"
+      "duration_ms": 227520,
+      "name": "Borracho Drunk Steady Beer",
+      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Borracho Drunk Steady Beer",
-      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+      "duration_ms": 189107,
+      "name": "No s\u00e9",
+      "url": "https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
       "duration_ms": 161946,
       "name": "Hostilidades - En Vivo",
       "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "1993...",
+      "url": "https://open.spotify.com/track/0xvDIhiCH1ACsMNhdnnonP"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "El Lado Oscuro",
-      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "El Lado Oscuro",
+      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
     },
     {
       "added_at": null,
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si Una Vez",
+        "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ofrenda",
         "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
@@ -675,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Una Vez",
-        "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Veces Tres",
-        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "1993...",
-      "url": "https://open.spotify.com/track/0xvDIhiCH1ACsMNhdnnonP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 322533,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+      "duration_ms": 322533,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
     },
     {
       "added_at": null,

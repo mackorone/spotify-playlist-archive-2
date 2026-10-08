@@ -1,6 +1,6 @@
 {
   "description": "Desde septiembre se siente que viene diciembre \ud83e\uddca \ud83c\udf84 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi",
-  "num_followers": 144089,
+  "num_followers": 144083,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Apagame La Vela",
-      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/0ITN0mRKpPFfrbn1qxqtJw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 273986,
       "name": "Tal Para Cual - de la serie Medusa, de Netflix",
       "url": "https://open.spotify.com/track/0vmZeCYCD2AZkKGjMrhOTn"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Apagame La Vela",
+      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309920,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309920,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Mejor Que Antes",
         "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
@@ -1355,18 +1335,38 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
       "artists": [
         {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 6)",
+        "url": "https://open.spotify.com/album/5ulGGeGlvyx9ugZ42cPuzm"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/7bLJ7Df6FLgzVjMzt9Tult"
+        }
+      ],
+      "duration_ms": 251435,
+      "name": "El Viejo del Sombrer\u00f3n",
+      "url": "https://open.spotify.com/track/25iCMmoIUHmuD3tQJ8Pplw"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

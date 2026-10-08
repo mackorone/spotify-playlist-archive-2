@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-609 songs - 1 day 12 hr 54 min
+610 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Colapso \- Demo](https://open.spotify.com/track/6GPUQtIKJN3e1M7OWqyTf4) | [LosExs](https://open.spotify.com/artist/4iK5Fcuu33yoUZZ2ReKHrh) | [Colapso](https://open.spotify.com/album/7vNxgBWKpMdXrApBJp9gUC) | 4:06 | 2023-09-27 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2024-10-08 |  |
 | [Coming Home](https://open.spotify.com/track/05aflt4G358K9bAmKPKkUN) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf) | [Coming Home](https://open.spotify.com/album/71jED3Whf9E839O2UwkJwl) | 1:57 | 2023-04-24 |  |
+| [Como Yo No Hay 2](https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn), [Yaiza San Martín](https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE) | [Como Yo No Hay 2](https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr) | 3:52 | 2026-10-07 |  |
 | [Conversation](https://open.spotify.com/track/2CnTdiaJ4DZoRUgE2IfCGX) | [Lost Like Lions](https://open.spotify.com/artist/0wg1sFLR3OowB5S1r7OjIV) | [Conversation](https://open.spotify.com/album/5vh7YAjh8BErPIaw6kgkaf) | 2:43 | 2024-11-18 |  |
 | [Crash Test Dummies](https://open.spotify.com/track/2EYInEupTN9SeX6cltm473) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [Crash Test Dummies](https://open.spotify.com/album/0mz2yg6rQM8nGbnhwNWY74) | 3:40 | 2024-10-25 |  |
 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 | 2024-11-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 
 > A beautifully wicked tale of privilege and desire\. Listen to the music from Saltburn, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,494 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,492 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 | 12 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 13 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
 | 14 | [Rent \- 2018 Remaster](https://open.spotify.com/track/2FtttuNvgYjTT03FKCHlG8) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 5:08 |
-| 15 | [Dig It \- Remastered 2009](https://open.spotify.com/track/0eRyOunOVBChlXxIvqwOxH) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 0:50 |
+| 15 | [Dig It \- Remastered 2009](https://open.spotify.com/track/0eRyOunOVBChlXxIvqwOxH) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 0:50 |
 | 16 | [Have a Cheeky Christmas](https://open.spotify.com/track/5TeEvah8flERvBW771kdD4) | [The Cheeky Girls](https://open.spotify.com/artist/0KH3J6AS6mV7V3uIziZ7FN) | [Have a Cheeky Christmas](https://open.spotify.com/album/3rIzsHermanjKbhP02jAZE) | 3:29 |
 | 17 | [Felix Amica](https://open.spotify.com/track/2dtRoZSU49jCGS6wnuum5T) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:35 |
 | 18 | [Spit Roast](https://open.spotify.com/track/6Huqy9WdEE3rMazEQgajn2) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:55 |

@@ -4,7 +4,7 @@
 
 > 
 
-73 songs - 4 hr 6 min
+74 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Your New Home](https://open.spotify.com/track/3bjfTdFRjudsCHvEl19l5w) | [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt), [Evan Alderete](https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K) | [The Amazing Digital Circus \(Original Pilot Soundtrack\)](https://open.spotify.com/album/2SgquMN2FvtGFR5b1Pf4Zy) | 1:05 | 2025-03-13 |  |
 | [Yuri on ICE](https://open.spotify.com/track/4u4t9R8Iky417ZasENaKXX) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI) | [Yuri on ICE](https://open.spotify.com/album/19SoLvwADV2Re6UYcSU4wU) | 3:40 | 2025-03-13 |  |
 | [不染 \(電視劇《香蜜沉沉燼如霜》主題曲\)](https://open.spotify.com/track/3N7seM0qQeBQZz4gSoMynu) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [香蜜沉沉燼如霜 \(電視劇原聲帶\)](https://open.spotify.com/album/05F4zT8gL4cvC0pQmIgNBq) | 5:25 | 2025-03-14 |  |
+| [九光千载（九光寒林） \- 逆水寒之九光寒林\(游戏《逆水寒》原声专辑\)](https://open.spotify.com/track/3JL2xya1p5vxf3cUFswqdT) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [逆水寒之九光寒林 \(游戏《逆水寒》九州飞光版本原声专辑\)](https://open.spotify.com/album/482g4PgZ7eAB6KKAWPD84B) | 3:34 | 2026-10-07 |  |
 | [愛について \- Agape](https://open.spotify.com/track/76Cj0zGrobQE7WsoNQBdxq) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI), [杉山劉太郎](https://open.spotify.com/artist/0PLTndpEzRYkLwfMm2eq48) | [愛について \(Agape\)](https://open.spotify.com/album/3oXwYTXdkYmlOKSn4B1dWd) | 2:17 | 2025-03-13 |  |
 | [愛について \- Eros](https://open.spotify.com/track/6uYBM67Zhj9DvGwoJPEdPI) | [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u), [Jin Oki](https://open.spotify.com/artist/1mNypKA9ApQ4tophrBeBWW) | [愛について \(Eros\)](https://open.spotify.com/album/2ToB0Jyabg31x1uXvgeJVo) | 2:12 | 2025-03-13 |  |
 

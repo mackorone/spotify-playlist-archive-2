@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Amrinder Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,490 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,566 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 36 | [Midnight Call](https://open.spotify.com/track/37Uxo75YZUGjCfV1WnZE4k) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:43 |
 | 37 | [Jogi](https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [Jogi](https://open.spotify.com/album/5ID3wDWAzVrkaCXwZa9Pkx) | 2:54 |
 | 38 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
-| 39 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
+| 39 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
 | 40 | [Big Things](https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:18 |
 | 41 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 |
 | 42 | [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 |

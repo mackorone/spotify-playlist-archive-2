@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622 likes - 388 songs - 19 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623 likes - 388 songs - 19 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 387 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 388 | [I'm Gonna Pin My Medal on the Girl I Left Behind](https://open.spotify.com/track/5WQ41Qe3nYVMw2HpDD4oJ2) | [Ryan Muska](https://open.spotify.com/artist/5LeIaDIJrUFG97GnfDDHZ9) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:29 |
 
-Snapshot ID: `AceQOAAAAADVgE6NevfUeEeDflyuzgng`
+Snapshot ID: `AceV2AAAAACCZdtZ4UJIBDZ7UaDOQ+mv`

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,058 songs - 2 day 16 hr 15 min
+1,059 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 | 2022-04-01 | 2022-04-07 |
 | [CAMPO](https://open.spotify.com/track/4NsEh2v20JSXCAXhpv6qVi) | [Chuk Funes](https://open.spotify.com/artist/6M6p60eIsNREInx8sW6x7p) | [DRAMA](https://open.spotify.com/album/6zGhSRE7Ho7GIC5RZ7ptSg) | 3:31 | 2026-01-12 | 2026-08-04 |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/44pTqOSWCDTzYTskh8aJc1) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/52lk6YflfGkqPcZXt7wE5L) | 3:35 | 2022-03-24 | 2022-04-06 |
+| [Canción de las simples cosas \- En Vivo](https://open.spotify.com/track/6RSAPcawZBLpOVozOmF8Ur) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 3:40 | 2026-10-07 |  |
 | [Canción para cantar de a dos](https://open.spotify.com/track/6Kl3mQYxh99eh8U3OkYmJQ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Canción para cantar de a dos](https://open.spotify.com/album/62mvHNoscp2kDuDWvIiYQp) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 | 2023-05-05 |  |
 | [Canción para Soltar](https://open.spotify.com/track/5wUEqcq5hzjie5m8cnDu5n) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Canción para Soltar](https://open.spotify.com/album/2oZSyEJljiMCLmFhfABCMx) | 2:46 | 2022-04-08 | 2022-04-10 |
@@ -955,7 +956,7 @@
 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 | 2021-12-24 |  |
 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 | 2022-04-01 | 2022-04-07 |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2021-12-24 | 2022-07-29 |
-| [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 | 2021-12-24 |  |
+| [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 | 2021-12-24 | 2026-10-08 |
 | [Tu Mirada](https://open.spotify.com/track/0f4jyqQuSusaTYaXrWnXzS) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Tu Mirada](https://open.spotify.com/album/6Bg5H2XTDziaGhKN0CtPGS) | 3:21 | 2022-03-24 | 2022-07-25 |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2025-07-22 |  |
 | [Tu Nombre \- En Vivo En El Gran Rex / 2015](https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Tanta Magia \(En Vivo En El Gran Rex / 2015\)](https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN) | 3:34 | 2021-12-24 | 2022-07-29 |

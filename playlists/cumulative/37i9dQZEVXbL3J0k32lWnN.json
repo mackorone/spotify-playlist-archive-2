@@ -8572,7 +8572,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 137755,
       "name": "Cohiba",
       "url": "https://open.spotify.com/track/4xEZEFfN67HGEQBFH16Cmw"
@@ -19366,7 +19366,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 146131,
       "name": "G\u00d8R NOGET",
       "url": "https://open.spotify.com/track/1iEBaWNVcztn9z1JQ1N9ly"
@@ -34448,6 +34448,24 @@
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7qEiBWlztvDFrILdizFULx"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -52362,7 +52380,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-08",
       "duration_ms": 152821,
       "name": "\u00c6rlig Freestyle",
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"
